@@ -1,0 +1,18 @@
+baseURL = 'http://csrd.mistlyric.net/'
+languageCode = 'en-us'
+title = 'Cypher System Reference Document'
+theme = 'hugo-book'
+
+# Theme
+enableGitInfo = true
+disableKinds = ['taxonomy', 'taxonomyTerm']
+
+[params]
+  BookTheme = 'auto'
+  BookRepo = 'https://github.com/Daegalus/csrd'
+  BookCommitPath = 'commit'
+  BookComments = false
+  BookServiceWorker = true
+
+[markup.goldmark.renderer]
+  unsafe = true
