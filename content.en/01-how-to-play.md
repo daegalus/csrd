@@ -1,4 +1,9 @@
-# How to PLay the Cypher System
+---
+title: How to Play the Cypher System
+weight: 1
+---
+
+# How to Play the Cypher System
 
 The rules of the Cypher System are quite straightforward at their heart, as all of gameplay is based around a few core concepts.
 
@@ -38,20 +43,19 @@ If there’s no roll, there’s no chance for failure. However, there’s also n
 
 ## Task Difficulty
 
-|                     |                 |                |                                                                                               |
-|---------------------|-----------------|----------------|-----------------------------------------------------------------------------------------------|
-| **Task Difficulty** | **Description** | **Target No.** | **Guidance**                                                                                  |
-| 0                   | Routine         | 0              | Anyone can do this basically every time.                                                      |
-| 1                   | Simple          | 3              | Most people can do this most of the time.                                                     |
-| 2                   | Standard        | 6              | Typical task requiring focus, but most people can usually do this.                            |
-| 3                   | Demanding       | 9              | Requires full attention; most people have a 50/50 chance to succeed.                          |
-| 4                   | Difficult       | 12             | Trained people have a 50/50 chance to succeed.                                                |
-| 5                   | Challenging     | 15             | Even trained people often fail.                                                               |
-| 6                   | Intimidating    | 18             | Normal people almost never succeed.                                                           |
-| 7                   | Formidable      | 21             | Impossible without skills or great effort.                                                    |
-| 8                   | Heroic          | 24             | A task worthy of tales told for years afterward.                                              |
-| 9                   | Immortal        | 27             | A task worthy of legends that last lifetimes.                                                 |
-| 10                  | Impossible      | 30             | A task that normal humans couldn’t consider (but one that doesn’t break the laws of physics). |
+| Task Difficulty | Description  | Target No. | Guidance                                                                                      |
+| --------------- | ------------ | ---------- | --------------------------------------------------------------------------------------------- |
+| 0               | Routine      | 0          | Anyone can do this basically every time.                                                      |
+| 1               | Simple       | 3          | Most people can do this most of the time.                                                     |
+| 2               | Standard     | 6          | Typical task requiring focus, but most people can usually do this.                            |
+| 3               | Demanding    | 9          | Requires full attention; most people have a 50/50 chance to succeed.                          |
+| 4               | Difficult    | 12         | Trained people have a 50/50 chance to succeed.                                                |
+| 5               | Challenging  | 15         | Even trained people often fail.                                                               |
+| 6               | Intimidating | 18         | Normal people almost never succeed.                                                           |
+| 7               | Formidable   | 21         | Impossible without skills or great effort.                                                    |
+| 8               | Heroic       | 24         | A task worthy of tales told for years afterward.                                              |
+| 9               | Immortal     | 27         | A task worthy of legends that last lifetimes.                                                 |
+| 10              | Impossible   | 30         | A task that normal humans couldn’t consider (but one that doesn’t break the laws of physics). |
 
 ## Combat
 
@@ -83,7 +87,9 @@ When you roll a natural 20 (the `d20` shows “20”) and the roll is a success,
 
 In combat (and only in combat), if you roll a natural 17 or 18 on your attack roll, you add 1 or 2 additional points of damage, respectively. Neither roll has any special effect options—just the extra damage.
 
-(For more information on special rolls and how they affect combat and other interactions, see Rules of the Game.)
+{{< hint info >}}
+For more information on special rolls and how they affect combat and other interactions, see Rules of the Game.
+{{< /hint >}}
 
 Rolling a natural 1 is always bad. It means that the GM introduces a new complication into the encounter.
 
@@ -151,4 +157,6 @@ Characters will find new cyphers frequently in the course of play, so players sh
 
 In addition to a `d20`, you’ll need a `d6` (a six-sided die). Rarely, you’ll need to roll a number between 1 and 100 (often called a `d100` or `d%` roll), which you can do by rolling a `d20` twice, using the last digit of the first roll as the “tens” place and the last digit of the second roll as the “ones” place. For example, rolling a 17 and a 9 gives you 79, rolling a 3 and an 18 gives you 38, and rolling a 20 and a 10 gives you 00 (also known as 100). If you have a `d10` (a ten-sided die), you can use it instead of the `d20` to roll numbers between 1 and 100.
 
-(A `d6` is used most often for recovery rolls and to determine the level of cyphers.)
+{{< hint warning >}}
+A `d6` is used most often for recovery rolls and to determine the level of cyphers.
+{{< /hint >}}

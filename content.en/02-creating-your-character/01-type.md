@@ -1,227 +1,17 @@
 ---
-title: Creating Your Character
+title: Type
+weight: 1
 ---
 
-# Creating Your Character
+# Type
 
-This section explains how to create characters to play in a Cypher System game. This involves a series of decisions that will shape your character, so the more you understand what kind of character you want to play, the easier character creation will be. The process involves understanding the values of three game statistics and choosing three aspects that determine your character’s capabilities.
+Character type is the core of your character. Your type helps determine your character’s place in the world and relationship with other people in the setting. It’s the noun of the sentence "I am an *adjective noun* who *verbs*."
 
-## Character Stats
+{{< hint info >}}
+In some roleplaying games, your character type might be called your character class.
+{{< /hint >}}
 
-Every player character has three defining characteristics, which are typically called “statistics” or “stats.” These stats are Might, Speed, and Intellect. They are broad categories that cover many different but related aspects of a character.
-
-## Might
-
-Might defines how strong and durable your character is. The concepts of strength, endurance, constitution, hardiness, and physical prowess are all folded into this one stat. Might isn’t relative to size; instead, it’s an absolute measurement. An elephant has more Might than the mightiest tiger, which has more Might than the mightiest rat, which has more Might than the mightiest spider.
-
-Might governs actions from forcing doors open to walking for days without food to resisting disease. It’s also the primary means of determining how much damage your character can sustain in a dangerous situation. Physical characters, tough characters, and characters interested in fighting should focus on Might.
-
-(Might could be thought of as Might/Health because it governs how strong you are and how much physical punishment you can take.)
-
-## Speed
-
-Speed describes how fast and physically coordinated your character is. The stat embodies quickness, movement, dexterity, and reflexes. Speed governs such divergent actions as dodging attacks, sneaking around quietly, and throwing a ball accurately. It helps determine whether you can move farther on your turn. Nimble, fast, or sneaky characters will want good Speed stats, as will those interested in ranged combat.
-
-(Speed could be thought of as Speed/Agility because it governs your overall swiftness and reflexes.)
-
-## Intellect
-
-This stat determines how smart, knowledgeable, and likable your character is. It includes intelligence, wisdom, charisma, education, reasoning, wit, willpower, and charm. Intellect governs solving puzzles, remembering facts, telling convincing lies, and using mental powers. Characters interested in communicating effectively, being learned scholars, or wielding supernatural powers should stress their Intellect stat.
-
-(Intellect could be thought of as Intellect/Personality because it governs both intelligence and charisma.)
-
-## Pool, Edge, And Effort
-
-**Each of the three stats has two components: Pool and Edge. Your Pool represents your raw, innate ability, and your Edge represents knowing how to use what you have. A third element ties into this concept:** Effort. When your character really needs to accomplish a task, you apply Effort.
-
-(Your stat Pools, as well as your Effort and Edge, are determined by the character type, descriptor, and focus that you choose. Within those guidelines, however, you have a lot of flexibility in how you develop your character.)
-
-## Pool
-
-Your Pool is the most basic measurement of a stat. Comparing the Pools of two creatures will give you a general sense of which creature is superior in that stat. For example, a character who has a Might Pool of 16 is stronger (in a basic sense) than a character who has a Might Pool of 12. Most characters start with a Pool of 9 to 12 in most stats—that’s the average range.
-
-When your character is injured, sickened, or attacked, you temporarily lose points from one of your stat Pools. The nature of the attack determines which Pool loses points. For example, physical damage from a sword reduces your Might Pool, a poison that makes you clumsy reduces your Speed Pool, and a psionic blast reduces your Intellect Pool. You can also spend points from one of your stat Pools to decrease a task’s difficulty (see Effort, below). You can rest to recover lost points from a stat Pool, and some special abilities or cyphers might allow you to recover lost points quickly.
-
-## Edge
-
-Although your Pool is the basic measurement of a stat, your Edge is also important. When something requires you to spend points from a stat Pool, your Edge for that stat reduces the cost. It also reduces the cost of applying Effort to a roll.
-
-For example, let’s say you have a mental blast ability, and activating it costs 1 point from your Intellect Pool. Subtract your Intellect Edge from the activation cost, and the result is how many points you must spend to use the mental blast. If using your Edge reduces the cost to 0, you can use the ability for free.
-
-Your Edge can be different for each stat. For example, you could have a Might Edge of 1, a Speed Edge of 1, and an Intellect Edge of 0. You’ll always have an Edge of at least 1 in one stat. Your Edge for a stat reduces the cost of spending points from that stat Pool, but not from other Pools. Your Might Edge reduces the cost of spending points from your Might Pool, but it doesn’t affect your Speed Pool or Intellect Pool. Once a stat’s Edge reaches 3, you can apply one level of Effort for free.
-
-A character who has a low Might Pool but a high Might Edge has the potential to perform Might actions consistently better than a character who has a Might Edge of 0. The high Edge will let them reduce the cost of spending points from the Pool, which means they’ll have more points available to spend on applying Effort.
-
-## Effort
-
-When your character really needs to accomplish a task, you can apply Effort. For a beginning character, applying Effort requires spending 3 points from the stat Pool appropriate to the action. Thus, if your character tries to dodge an attack (a Speed roll) and wants to increase the chance for success, you can apply Effort by spending 3 points from your Speed Pool. Effort eases the task by one step. This is called applying one level of Effort.
-
-You don’t have to apply Effort if you don’t want to. If you choose to apply Effort to a task, you must do it before you attempt the roll—you can’t roll first and then decide to apply Effort if you rolled poorly.
-
-**Applying more Effort can lower a task’s difficulty further:** each additional level of Effort eases the task by another step. Applying one level of Effort eases the task by one step, applying two levels eases the task by two steps, and so on. However, each level of Effort after the first costs only 2 points from the stat Pool instead of 3. So applying two levels of Effort costs 5 points (3 for the first level plus 2 for the second level), applying three levels costs 7 points (3 plus 2 plus 2), and so on.
-
-Every character has an Effort score, which indicates the maximum number of levels of Effort that can be applied to a roll. A beginning (first-tier) character has an Effort of 1, meaning you can apply only one level of Effort to a roll. A more experienced character has a higher Effort score and can apply more levels of Effort to a roll. For example, a character who has an Effort of 3 can apply up to three levels of Effort to reduce a task’s difficulty.
-
-When you apply Effort, subtract your relevant Edge from the total cost of applying Effort. For example, let’s say you need to make a Speed roll. To increase your chance for success, you decide to apply one level of Effort, which will ease the task. Normally, that would cost 3 points from your Speed Pool. However, you have a Speed Edge of 2, so you subtract that from the cost. Thus, applying Effort to the roll costs only 1 point from your Speed Pool.
-
-What if you applied two levels of Effort to the Speed roll instead of just one? That would ease the task by two steps. Normally, it would cost 5 points from your Speed Pool, but after subtracting your Speed Edge of 2, it costs only 3 points.
-
-Once a stat’s Edge reaches 3, you can apply one level of Effort for free. For example, if you have a Speed Edge of 3 and you apply one level of Effort to a Speed roll, it costs you 0 points from your Speed Pool. (Normally, applying one level of Effort would cost 3 points, but you subtract your Speed Edge from that cost, reducing it to 0.)
-
-Skills and other advantages also ease a task, and you can use them in conjunction with Effort. In addition, your character might have special abilities or equipment that allow you to apply Effort to accomplish a special effect, such as knocking down a foe with an attack or affecting multiple targets with a power that normally affects only one.
-
-(When applying Effort to melee attacks, you have the option of spending points from either your Might Pool or your Speed Pool. When making ranged attacks, you may spend points only from your Speed Pool. This reflects that with melee you sometimes use brute force and sometimes use finesse, but with ranged attacks, it’s always about careful targeting.)
-
-## Effort And Damage
-
-Instead of applying Effort to ease your attack, you can apply Effort to increase the amount of damage you inflict with an attack. For each level of Effort you apply in this way, you inflict 3 additional points of damage. This works for any kind of attack that inflicts damage, whether a sword, a crossbow, a mind blast, or something else.
-
-When using Effort to increase the damage of an area attack, such as the explosion created by an Adept’s Concussion ability, you inflict 2 additional points of damage instead of 3 points. However, the additional points are dealt to all targets in the area. Further, even if one or more of the targets resist the attack, they still take 1 point of damage.
-
-## Multiple Uses Of Effort And Edge
-
-If your Effort is 2 or higher, you can apply Effort to multiple aspects of a single action. For example, if you make an attack, you can apply Effort to your attack roll and apply Effort to increase the damage.
-
-The total amount of Effort you apply can’t be higher than your Effort score. For example, if your Effort is 2, you can apply up to two levels of Effort. You could apply one level to an attack roll and one level to its damage, two levels to the attack and no levels to the damage, or no levels to the attack and two levels to the damage.
-
-You can use Edge for a particular stat only once per action. For example, if you apply Effort to a Might attack roll and to your damage, you can use your Might Edge to reduce the cost of one of those uses of Effort, not both. If you spend 1 Intellect point to activate your mind blast and one level of Effort to ease the attack roll, you can use your Intellect Edge to reduce the cost of one of those things, not both.
-
-## Stat Examples
-
-A beginning character is fighting a giant rat. The PC stabs their spear at the rat, which is a level 2 creature and thus has a target number of 6. The character stands atop a boulder and strikes downward at the beast, and the GM rules that this helpful tactic is an asset that eases the attack by one step (to difficulty 1). That lowers the target number to 3. Attacking with a spear is a Might action; the character has a Might Pool of 11 and a Might Edge of 0. Before making the roll, they decide to apply a level of Effort to ease the attack. That costs 3 points from their Might Pool, reducing the Pool to 8. But the points are well spent. Applying the Effort lowers the difficulty from 1 to 0, so no roll is needed—the attack automatically succeeds.
-
-Another character is attempting to convince a guard to let them into a private office to speak to an influential noble. The GM rules that this is an Intellect action. The character is third tier and has an Effort of 3, an Intellect Pool of 13, and an Intellect Edge of 1. Before making the roll, they must decide whether to apply Effort. They can choose to apply one, two, or three levels of Effort, or apply none at all. This action is important to them, so they decide to apply two levels of Effort, easing the task by two steps. Thanks to their Intellect Edge, applying the Effort costs only 4 points from their Intellect Pool (3 points for the first level of Effort plus 2 points for the second level minus 1 point for their Edge). Spending those points reduces their Intellect Pool to 9. The GM decides that convincing the guard is a difficulty 3 (demanding) task with a target number of 9; applying two levels of Effort reduces the difficulty to 1 (simple) and the target number to 3. The player rolls a `d20` and gets an 8. Because this result is at least equal to the target number of the task, they succeed. However, if they had not applied some Effort, they would have failed because their roll (8) would have been less than the task’s original target number (9).
-
-## Character Tiers
-
-Every character starts the game at the first tier. Tier is a measurement of power, toughness, and ability. Characters can advance up to the sixth tier. As your character advances to higher tiers, you gain more abilities, increase your Effort, and can improve a stat’s Edge or increase a stat. Generally speaking, even first-tier characters are already quite capable. It’s safe to assume that they’ve already got some experience under their belt. This is not a “zero to hero” progression, but rather an instance of competent people refining and honing their capabilities and knowledge. Advancing to higher tiers is not really the goal of Cypher System characters, but rather a representation of how characters progress in a story.
-
-To progress to the next tier, characters earn experience points (XP) by pursuing character arcs, going on adventures, and discovering new things—the system is about both discovery and exploration, as well as achieving personal goals. Experience points have many uses, and one use is to purchase character benefits. After your character purchases four character benefits, they advance to the next tier. Each benefit costs 4 XP, and you can purchase them in any order, but you must purchase one of each kind of benefit (and then advance to the next tier) before you can purchase the same benefit again. The four character benefits are as follows.
-
-**Increasing Capabilities:** You gain 4 points to add to your stat Pools. You can allocate the points among the Pools however you wish.
-
-**Moving Toward Perfection:** You add 1 to your Might Edge, your Speed Edge, or your Intellect Edge (your choice).
-
-**Extra Effort:** Your Effort score increases by 1.
-
-**Skills:** You become trained in one skill of your choice, other than attacks or defense. As described in Rules of the Game, a character trained in a skill treats the difficulty of a related task as one step lower than normal. The skill you choose for this benefit can be anything you wish, such as climbing, jumping, persuading, or sneaking. You can also choose to be knowledgeable in a certain area of lore, such as history or geology. You can even choose a skill based on your character’s special abilities. For example, if your character can make an Intellect roll to blast an enemy with mental force, you can become trained in using that ability, easing the task of using it. If you choose a skill that you are already trained in, you become specialized in that skill, easing related tasks by two steps instead of one.
-
-(Skills are a broad category of things your character can learn and accomplish. For a list of sample skills, see below.)
-
-**Other Options: Players can also spend 4 XP to purchase other special options in lieu of gaining a new skill. Selecting any of these options counts as the skill benefit necessary to advance to the next tier. The special options are as follows:**
-
-Reduce the cost for wearing armor. This option lowers the Speed cost for wearing armor by 1.
-
-Add 2 to your recovery rolls.
-
-Select a new type-based ability from your tier or a lower tier.
-
-## Character Descriptor, Type, And Focus
-
-**To create your character, you build a simple statement that describes them. The statement takes this form:** “I am a \[fill in an adjective here\] \[fill in a noun here\] who \[fill in a verb here\].”
-
-**Thus:** “I am an *adjective noun* who *verbs*.” For example, you might say, “I am a Rugged Warrior who Controls Beasts” or “I am a Charming Explorer who Focuses Mind Over Matter.”
-
-In this sentence, the adjective is called your descriptor.
-
-The noun is your character type.
-
-The verb is called your focus.
-
-Even though character type is in the middle of the sentence, that’s where we’ll start this discussion. (Just as in a sentence, the noun provides the foundation.)
-
-Your character type is the core of your character. In some roleplaying games, it might be called your character class. Your type helps determine your character’s place in the world and relationship with other people in the setting. It’s the noun of the sentence “I am an *adjective noun* who *verbs*.”
-
-**You can choose from four character types:** Warriors, Adepts, Explorers, and Speakers.
-
-Your descriptor defines your character—it colors everything you do. Your descriptor places your character in the situation (the first adventure, which starts the campaign) and helps provide motivation. It’s the adjective of the sentence “I am an *adjective noun* who *verbs*.”
-
-Unless your GM says otherwise, you can choose from any of the character descriptors.
-
-Focus is what your character does best. Focus gives your character specificity and provides interesting new abilities that might come in handy. Your focus also helps you understand how you relate with the other player characters in your group. It’s the verb of the sentence “I am an *adjective noun* who *verbs*.”
-
-There are many character foci. The ones you choose from will probably depend on the setting and genre of your game.
-
-(You can use the Flavors chapter to slightly modify character types to customize them for different genres.)
-
-## Special Abilities
-
-Character types and foci grant PCs special abilities at each new tier. Using these abilities usually costs points from your stat Pools; the cost is listed in parentheses after the ability name. Your Edge in the appropriate stat can reduce the cost of the ability, but remember that you can apply Edge only once per action. For example, let’s say an Adept with an Intellect Edge of 2 wants to use their Onslaught ability to create a bolt of force, which costs 1 Intellect point. They also want to increase the damage from the attack by using a level of Effort, which costs 3 Intellect points. The total cost for their action is 2 points from their Intellect Pool (1 point for the bolt of force, plus 3 points for using Effort, minus 2 points from their Edge).
-
-Sometimes the point cost for an ability has a + sign after the number. For example, the cost might be given as “2+ Intellect points.” That means you can spend more points or more levels of Effort to improve the ability further, as explained in the ability description.
-
-Many special abilities grant a character the option to perform an action that they couldn’t normally do, such as projecting rays of cold or attacking multiple foes at once. Using one of these abilities is an action unto itself, and the end of the ability’s description says “Action” to remind you. It also might provide more information about when or how you perform the action.
-
-Some special abilities allow you to perform a familiar action—one that you can already do—in a different way. For example, an ability might let you wear heavy armor, reduce the difficulty of Speed defense rolls, or add 2 points of fire damage to your weapon damage. These abilities are called enablers. Using one of these abilities is not considered an action. Enablers either function constantly (such as being able to wear heavy armor, which isn’t an action) or happen as part of another action (such as adding fire damage to your weapon damage, which happens as part of your attack action). If a special ability is an enabler, the end of the ability’s description says “Enabler” to remind you.
-
-Some abilities specify a duration, but you can always end one of your own abilities anytime you wish.
-
-(Because the Cypher System covers so many genres, not all of the descriptors, types, and foci might be available for players. The GM will decide what’s available in their particular game and whether anything is modified, and they’ll let the players know.)
-
-## Skills
-
-Sometimes your character gains training in a specific skill or task. For example, your focus might mean that you’re trained in sneaking, in climbing and jumping, or in social interactions. Other times, your character can choose a skill to become trained in, and you can pick a skill that relates to any task you think you might face.
-
-**The Cypher System has no definitive list of skills. However, the following list offers ideas:**
-
-{{< columns >}}
-* Astronomy
-* Balancing
-* Biology
-* Botany
-* Carrying
-* Climbing
-* Computers
-* Deceiving
-* Disguise
-* Escaping
-* Geography
-* Geology
-* Healing
-* History
-* Identifying
-<--->
-* Initiative
-* Intimidation
-* Jumping
-* Leatherworking
-* Lockpicking
-* Machinery
-* Metalworking
-* Perception
-* Persuasion
-* Philosophy
-* Physics
-* Pickpocketing
-* Piloting
-* Repairing
-* Riding
-<--->
-* Smashing
-* Sneaking
-* Stealth
-* Swimming
-* Vehicle driving
-* Woodworking
-{{< /columns >}}
-
-You could choose a skill that incorporates more than one of these areas (interacting might include deceiving, intimidation, and persuasion) or that is a more specific version of one (hiding might be sneaking when you’re not moving). You could also make up more general professional skills, such as baker, sailor, or lumberjack. If you want to choose a skill that’s not on this list, it’s probably best to run it past the GM first, but in general, the most important thing is to choose skills that are appropriate to your character.
-
-Remember that if you gain a skill that you’re already trained in, you become specialized in that skill. Because skill descriptions can be nebulous, determining whether you’re trained or specialized might take some thinking. For example, if you’re trained in lying and later gain an ability that grants you skill with all social interactions, you become specialized in lying and trained in all other types of interactions. Being trained three times in a skill is no better than being trained twice (in other words, specialized is as good as it gets).
-
-Only skills gained through character type abilities or other rare instances allow you to become skilled with attack or defense tasks.
-
-If you gain a special ability through your type, your focus, or some other aspect of your character, you can choose it in place of a skill and become trained or specialized in that ability. For example, if you have a mind blast, when it’s time to choose a skill to be trained in, you can select your mind blast as your skill. That would ease the attack every time you used it. Each ability you have counts as a separate skill for this purpose. You can’t select “all mind powers” or “all spells” as one skill and become trained or specialized in such a broad category.
-
-In most campaigns, fluency in a language is considered a skill. So if you want to speak French, that’s the same as being trained in biology or swimming.
-
-## Type
-
-Character type is the core of your character. Your type helps determine your character’s place in the world and relationship with other people in the setting. It’s the noun of the sentence “I am an *adjective noun* who *verbs*.”
-
-(In some roleplaying games, your character type might be called your character class.)
-
-You can choose from four character types: Warrior, Adept, Explorer, and Speaker. However, you may not want to use these generic names for them. This chapter offers a few more specific names for each type that might be more appropriate to various genres. You’ll find that names like “Warrior” or “Explorer” don’t always feel right, particularly in games set in modern times. As always, you’re free to do as you wish. (Your type is who your character is. You should use whatever name you want for your type, as long as it fits both your character and the setting.)
+You can choose from four character types: Warrior, Adept, Explorer, and Speaker. However, you may not want to use these generic names for them. This chapter offers a few more specific names for each type that might be more appropriate to various genres. You’ll find that names like "Warrior" or "Explorer" don’t always feel right, particularly in games set in modern times. As always, you’re free to do as you wish. (Your type is who your character is. You should use whatever name you want for your type, as long as it fits both your character and the setting.)
 
 Since the type is the basis upon which your whole character is built, it’s important to consider how the type relates to the chosen setting. To help with this, types are actually general archetypes. A Warrior, for example, might be anyone from a knight in shining armor to a cop on the streets to a grizzled cybernetic veteran of a thousand futuristic wars.
 
@@ -237,9 +27,11 @@ A few player intrusion examples are provided under each type. That said, not eve
 
 Using an intrusion does not require a character to use an action to trigger it. A player intrusion just happens.
 
-(Player intrusions should be limited to no more than one per player per session.)
+{{< hint info >}}
+Player intrusions should be limited to no more than one per player per session.
+{{< /hint >}}
 
-Defense Tasks
+## Defense Tasks
 
 Defense tasks are when a player makes a roll to keep something undesirable from happening to their PC. The type of defense task matters when using Effort.
 
@@ -270,13 +62,12 @@ action-oriented people. They’re more likely to overcome a challenge using forc
 
 **Advanced Warriors:** As warriors advance, their skill in battle—whether defending themselves or dishing out damage—increases to impressive levels. At higher tiers, they can often take on groups of foes by themselves or stand toe to toe with anyone.
 
-Warrior Background Connection
+### Warrior Background Connection
 
 Your type helps determine the connection you have to the setting. Roll a `d20` or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.
 
-|       |                                                                                                                                            |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | `d20` | Background                                                                                                                                 |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1     | You were in the military and have friends who still serve. Your former commander remembers you well.                                       |
 | 2     | You were the bodyguard of a wealthy woman who accused you of theft. You left her service in disgrace.                                      |
 | 3     | You were the bouncer in a local bar for a while, and the patrons there remember you.                                                       |
@@ -298,7 +89,7 @@ Your type helps determine the connection you have to the setting. Roll a `d20` o
 | 19    | You saved the lives of a family when their house burned down. They’re indebted to you, and their neighbors regard you as a hero.           |
 | 20    | Your old trainer still expects you to come back and clean up after their classes; when you do, they occasionally share interesting rumors. |
 
-## Warrior Player Intrusions
+### Warrior Player Intrusions
 
 You can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.
 
@@ -308,7 +99,7 @@ You can spend 1 XP to use one of the following player intrusions, provided the s
 
 **Weapon Break:** Your foe’s weapon has a weak spot. In the course of the combat, it quickly becomes damaged and moves two steps down the object damage track.
 
-## Warrior Stat Pools
+### Warrior Stat Pools
 
 | **Stat**  | **Pool Starting Value** |
 | --------- | ----------------------- |
@@ -401,7 +192,9 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 * Mastery With Defense
 * Parry
 
-(Remember that at higher tiers, you can choose special abilities from lower tiers. This is sometimes the best way to ensure that you have exactly the character you want. This is particularly true with abilities that grant skills, which can usually be taken multiple times.)
+{{< hint info >}}
+Remember that at higher tiers, you can choose special abilities from lower tiers. This is sometimes the best way to ensure that you have exactly the character you want. This is particularly true with abilities that grant skills, which can usually be taken multiple times.
+{{< /hint >}}
 
 ### Sixth-Tier Warrior
 
@@ -428,7 +221,7 @@ The Warrior can bear two cyphers. The GM decides that Ray’s first cypher is a 
 
 Ray still needs to choose a descriptor and a focus. Looking ahead to the descriptor rules, Ray chooses Strong, which increases his Might Pool to 17. He also becomes trained in jumping and breaking inanimate objects. (If he had chosen jumping as one of his physical skills, the Strong descriptor would have made him specialized in jumping instead of trained.) Being Strong also gives Ray an extra medium or heavy weapon. He chooses a baseball bat that he’ll use in a pinch. He keeps it in the trunk of his car.
 
-For his focus, Ray chooses Masters Weaponry. This gives him yet another weapon of high quality. He chooses another combat knife and asks the GM if he could use it in his left hand—not to make attacks, but as a shield. This will ease his Speed defense rolls if he has both knives out (the “shield” counts as an asset). The GM agrees. During the game, Ray’s Warrior will be hard to hit—he is trained in Speed defense rolls, and his extra knife eases his defense rolls by another step.
+For his focus, Ray chooses Masters Weaponry. This gives him yet another weapon of high quality. He chooses another combat knife and asks the GM if he could use it in his left hand—not to make attacks, but as a shield. This will ease his Speed defense rolls if he has both knives out (the "shield" counts as an asset). The GM agrees. During the game, Ray’s Warrior will be hard to hit—he is trained in Speed defense rolls, and his extra knife eases his defense rolls by another step.
 
 Thanks to his focus, he also inflicts 1 additional point of damage with his chosen weapon. Now he inflicts 6 points of damage with his blade. Ray’s character is a deadly combatant, likely starting the game with a reputation as a knife fighter.
 
@@ -444,7 +237,7 @@ For his character arc, Ray chooses Defeat a Foe. That foe, he decides, is none o
 
 **Superhero/Post-Apocalyptic:** mage, sorcerer, power-wielder, master, psion, telepath
 
-You master powers or abilities outside the experience, understanding, and sometimes belief of others. They might be magic, psychic powers, mutant abilities, or just a wide variety of intricate devices, depending on the setting. (“Magic” here is a term used very loosely. It’s a catch-all for the kinds of wondrous, possibly supernatural things that your character can do that others cannot. It might actually be an expression of technological devices, channeling spirits, mutations, psionics, nanotechnology, or any number of other sources.)
+You master powers or abilities outside the experience, understanding, and sometimes belief of others. They might be magic, psychic powers, mutant abilities, or just a wide variety of intricate devices, depending on the setting. ("Magic" here is a term used very loosely. It’s a catch-all for the kinds of wondrous, possibly supernatural things that your character can do that others cannot. It might actually be an expression of technological devices, channeling spirits, mutations, psionics, nanotechnology, or any number of other sources.)
 
 **Individual Role:** Adepts are usually thoughtful, intelligent types. They often think carefully before acting and rely heavily on their supernatural abilities.
 
@@ -454,9 +247,11 @@ You master powers or abilities outside the experience, understanding, and someti
 
 **Advanced Adepts:** Even at low tiers, Adept powers are impressive. Higher-tier Adepts can accomplish amazing deeds that can reshape matter and the environment around them.
 
-(Adepts are almost always emblematic of the paranormal or superhuman in some way—wizards, psychics, or something similar. If the game you’re playing has none of that, an Adept could be a charlatan mimicking such abilities with tricks and hidden devices, or a gadgeteer character with a “utility belt” full of oddments. Or a game like that might not have Adepts. That’s okay too.)
+{{< hint info >}}
+Adepts are almost always emblematic of the paranormal or superhuman in some way—wizards, psychics, or something similar. If the game you’re playing has none of that, an Adept could be a charlatan mimicking such abilities with tricks and hidden devices, or a gadgeteer character with a "utility belt" full of oddments. Or a game like that might not have Adepts. That’s okay too.
+{{< /hint >}}
 
-## Adept Player Intrusions
+### Adept Player Intrusions
 
 When playing an Adept, you can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.
 
@@ -466,11 +261,10 @@ When playing an Adept, you can spend 1 XP to use one of the following player int
 
 **Inexplicably Unbroken:** An inactive, ruined, or presumed-destroyed device temporarily activates and performs a useful function relevant to the situation. This is enough to buy you some time for a better solution, alleviate a complication that was interfering with your abilities, or just get you one more use out of a depleted cypher or artifact.
 
-## Adept Stat Pools
+### Adept Stat Pools
 
-|           |                     |
-| --------- | ------------------- |
 | Stat      | Pool Starting Value |
+| --------- | ------------------- |
 | Might     | 7                   |
 | Speed     | 9                   |
 | Intellect | 12                  |
@@ -481,9 +275,8 @@ You get 6 additional points to divide among your stat Pools however you wish.
 
 Your type helps determine the connection you have to the setting. Roll a `d20` or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.
 
-|       |                                                                                                                                                                   |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `d20` | Background                                                                                                                                                        |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1     | You served as an apprentice for an Adept respected and feared by many people. Now you bear their mark.                                                            |
 | 2     | You studied in a school infamous for its dark, brooding instructors and graduates.                                                                                |
 | 3     | You learned your abilities in the temple of an obscure god. Its priests and worshippers, although small in number, respect and admire your talents and potential. |
@@ -610,7 +403,9 @@ Her spells and focus abilities cost Intellect points to activate, so she’s gla
 
 For her character arc, Jen chooses Aid a Friend. She decides that when her sorcerer character was young, she had a magical mentor. That mentor was later taken prisoner by a demon, so her character is always looking for clues on how to find the demon and release her friend from bondage.
 
-(GMs are always free to pre-select a type’s special abilities at a given tier to reinforce the setting. In the fantasy setting of Jen’s sorcerer, the GM might have said that all sorcerers (Adepts) start with Magic Training as one of their tier 1 abilities. This doesn’t make the character any less powerful or special, but it says something about her role in the world and expectations in the game.)
+{{< hint info >}}
+GMs are always free to pre-select a type’s special abilities at a given tier to reinforce the setting. In the fantasy setting of Jen’s sorcerer, the GM might have said that all sorcerers (Adepts) start with Magic Training as one of their tier 1 abilities. This doesn’t make the character any less powerful or special, but it says something about her role in the world and expectations in the game.
+{{< /hint >}}
 
 ## Explorer
 
@@ -644,9 +439,8 @@ When playing an Explorer, you can spend 1 XP to use one of the following player 
 
 ## Explorer Stat Pools
 
-|           |                         |
-| --------- | ----------------------- |
 | **Stat**  | **Pool Starting Value** |
+| --------- | ----------------------- |
 | Might     | 10                      |
 | Speed     | 9                       |
 | Intellect | 9                       |
@@ -657,9 +451,8 @@ Explorer Background Connection
 
 Your type helps determine the connection you have to the setting. Roll a `d20` or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.
 
-|       |                                                                                                                                            |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | `d20` | Background                                                                                                                                 |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1     | You were a star high school athlete. You’re still in great shape, but those were the glory days, man.                                      |
 | 2     | Your brother is the lead singer in a really popular band.                                                                                  |
 | 3     | You have made a number of discoveries in your explorations, but not all opportunities to capitalize on them have panned out yet.           |
@@ -681,7 +474,7 @@ Your type helps determine the connection you have to the setting. Roll a `d20` o
 | 19    | Your sister owns a store and gives you a hefty discount.                                                                                   |
 | 20    | Your father is a high-ranking officer in the military with many connections.                                                               |
 
-FIRST-TIER EXPLORER
+## First-Tier Explorer
 
 First-tier Explorers have the following abilities:
 
@@ -697,159 +490,111 @@ First-tier Explorers have the following abilities:
 
 **Special Abilities:** Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.
 
-Block
+{{< columns >}}
 
-Danger Sense
+* Block
+* Danger Sense
+* Decipher
+* Endurance
+* Find the Way
+<--->
+* Fleet of Foot
+* Improved Edge
+* Knowledge Skills
+* Muscles of Iron
+* No Need for Weapons
+<--->
+* Physical Skills
+* Practiced in Armor
+* Practiced With All Weapons
+* Surging Confidence
+* Trained Without Armor
+{{< /columns >}}
 
-Decipher
-
-Endurance
-
-Find the Way
-
-Fleet of Foot
-
-Improved Edge
-
-Knowledge Skills
-
-Muscles of Iron
-
-No Need for Weapons
-
-Physical Skills
-
-Practiced in Armor
-
-Practiced With All Weapons
-
-Surging Confidence
-
-Trained Without Armor
-
-SECOND-TIER EXPLORER
+### Second-Tier Explorer
 
 Choose four of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-Curious
+{{< columns >}}
 
-Danger Instinct
+* Curious
+* Danger Instinct
+* Enable Others
+* Escape
+* Eye for Detail
+* Foil Danger
+* Hand to Eye
+<--->
+* Investigative Skills
+* Quick Recovery
+* Range Increase
+* Skill With Defense
+* Stand Watch
+* Travel Skills
+* Wreck
+{{< /columns >}}
 
-Enable Others
-
-Escape
-
-Eye for Detail
-
-Foil Danger
-
-Hand to Eye
-
-Investigative Skills
-
-Quick Recovery
-
-Range Increase
-
-Skill With Defense
-
-Stand Watch
-
-Travel Skills
-
-Wreck
-
-THIRD-TIER EXPLORER
+### Third-Tier Explorer
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
+{{< columns >}}
 Controlled Fall
-
 Experienced in Armor
-
 Expert Cypher Use
-
 Ignore the Pain
-
 Obstacle Running
-
 Resilience
-
 Run and Fight
-
+<--->
 Seize the Moment
-
 Skill With Attacks
-
 Stone Breaker
-
 Think Your Way Out
-
 Trapfinder
-
 Wrest From Chance
+<--->
+{{< /columns >}}
 
-FOURTH-TIER EXPLORER
+### Fourth-Tier Explorer
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-Capable Warrior
+* Capable Warrior
+* Expert Skill
+* Increased Effects
+* Read the Signs
+* Runner
+* Subtle Steps
+* Tough As Nails
 
-Expert Skill
-
-Increased Effects
-
-Read the Signs
-
-Runner
-
-Subtle Steps
-
-Tough As Nails
-
-FIFTH-TIER EXPLORER
+### Fifth-Tier Explorer
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-Adroit Cypher Use
+* Adroit Cypher Use
+* Free to Move
+* Group Friendship
+* Hard to Kill
+* Jump Attack
+* Mastery With Defense
+* Parry
+* Physically Gifted
+* Take Command
+* Vigilant
 
-Free to Move
-
-Group Friendship
-
-Hard to Kill
-
-Jump Attack
-
-Mastery With Defense
-
-Parry
-
-Physically Gifted
-
-Take Command
-
-Vigilant
-
-SIXTH-TIER EXPLORER
+### Sixth-Tier Explorer
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-Again and Again
-
-Inspire Coordinated Actions
-
-Mastery in Armor
-
-Mastery With Attacks
-
-Negate Danger
-
-Share Defense
-
-Spin Attack
-
-Wild Vitality
+* Again and Again
+* Inspire Coordinated Actions
+* Mastery in Armor
+* Mastery With Attacks
+* Negate Danger
+* Share Defense
+* Spin Attack
+* Wild Vitality
 
 ## Explorer Example
 
@@ -887,7 +632,7 @@ You’re good with words and good with people. You talk your way past challenges
 
 **Advanced Speakers:** Higher-tier speakers use their abilities to control and manipulate people as well as aid and nurture their friends. They can talk their way out of danger and even use their words as weapons.
 
-## Speaker Player Intrusions
+### Speaker Player Intrusions
 
 When playing a Speaker, you can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.
 
@@ -897,24 +642,22 @@ When playing a Speaker, you can spend 1 XP to use one of the following player in
 
 **Unexpected Gift:** An NPC hands you a physical gift you were not expecting, one that helps put the situation at ease if things seem strained, or provides you with a new insight for understanding the context of the situation if there’s something you’re failing to understand or grasp.
 
-## Speaker Stat Pools
+### Speaker Stat Pools
 
-|           |                     |
-| --------- | ------------------- |
 | Stat      | Pool Starting Value |
+| --------- | ------------------- |
 | Might     | 8                   |
 | Speed     | 9                   |
 | Intellect | 11                  |
 
 You get 6 additional points to divide among your stat Pools however you wish.
 
-speaker Background Connection
+### Speaker Background Connection
 
 Your type helps determine the connection you have to the setting. Roll a `d20` or choose from the following list to determine a specific fact about your background that provides a connection to the rest of the world. You can also create your own fact.
 
-|       |                                                                                                                                                            |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `d20` | Background                                                                                                                                                 |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1     | One of your parents was a famous entertainer in their early years and hoped you would excel in the same medium.                                            |
 | 2     | When you were a teenager, one of your siblings went missing and is presumed dead. The shock rent your family, and it’s something you’ve never gotten over. |
 | 3     | You were inducted into a secret society that claims to hold and protect esoteric knowledge opposing the forces of evil.                                    |
@@ -936,7 +679,7 @@ Your type helps determine the connection you have to the setting. Roll a `d20` o
 | 19    | You are in a close romantic relationship with someone in local politics.                                                                                   |
 | 20    | Someone out there tries to pose as you, using your identity, often for nefarious ends. You’ve never met the culprit, but you’d certainly like to.          |
 
-FIRST-TIER SPEAKER
+### First-Tier Speaker
 
 **First-tier speakers have the following abilities:**
 
@@ -952,151 +695,110 @@ FIRST-TIER SPEAKER
 
 **Special Abilities:** Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog. (Some Speaker abilities, like Mind Reading or True Senses, imply a supernatural element. If this is inappropriate to the character or the setting, these abilities can be replaced with something from the stealth flavor, or the GM can slightly modify them so they are based in extraordinary talents and insight rather than the supernatural.)
 
-Anecdote
+{{< columns >}}
 
-Babel
+* Anecdote
+* Babel
+* Demeanor of Command
+* Encouragement
+<--->
+* Enthrall
+* Erase Memories
+* Fast Talk
+* Inspire Aggression
+* Interaction Skills
+<--->
+* Practiced With Medium Weapons
+* Spin Identity
+* Terrifying Presence
+* Understanding
+{{< /columns >}}
 
-Demeanor of Command
-
-Encouragement
-
-Enthrall
-
-Erase Memories
-
-Fast Talk
-
-Inspire Aggression
-
-Interaction Skills
-
-Practiced With Medium Weapons
-
-Spin Identity
-
-Terrifying Presence
-
-Understanding
-
-SECOND-TIER SPEAKER
+### Second-Tier Speaker
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-Basic Follower
+{{< columns >}}
 
-Calm Stranger
+* Basic Follower
+* Calm Stranger
+* Disincentivize
+* Gather Intelligence
+<--->
+* Impart Ideal
+* Inspiring Ease
+* Interaction Skills
+* Practiced in Armor
+<--->
+* Skill With Defense
+* Speedy Recovery
+* Unexpected Betrayal
+{{< /columns >}}
 
-Disincentivize
-
-Gather Intelligence
-
-Impart Ideal
-
-Inspiring Ease
-
-Interaction Skills
-
-Practiced in Armor
-
-Skill With Defense
-
-Speedy Recovery
-
-Unexpected Betrayal
-
-THIRD-TIER SPEAKER
+### Third-Tier Speaker
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-Accelerate
+{{< columns >}}
 
-Blend In
+* Accelerate
+* Blend In
+* Discerning Mind
+* Expert Cypher Use
+<--->
+* Expert Follower
+* Grand Deception
+* Lead by Inquiry
+* Mind Reading
+<--->
+* Oratory
+* Perfect Stranger
+* Quick Wits
+* Telling
+{{< /columns >}}
 
-Discerning Mind
-
-Expert Cypher Use
-
-Expert Follower
-
-Grand Deception
-
-Lead by Inquiry
-
-Mind Reading
-
-Oratory
-
-Perfect Stranger
-
-Quick Wits
-
-Telling
-
-FOURTH-TIER SPEAKER
+### Fourth-Tier Speaker
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-Anticipate Attack
+* Anticipate Attack
+* Confounding Banter
+* Feint
+* Heightened Skills
+* Psychosis
+* Read the Signs
+* Spur Effort
+* Strategize
+* Suggestion
 
-Confounding Banter
-
-Feint
-
-Heightened Skills
-
-Psychosis
-
-Read the Signs
-
-Spur Effort
-
-Strategize
-
-Suggestion
-
-FIFTH-TIER SPEAKER
+### Fifth-Tier Speaker
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-Adroit Cypher Use
+* Adroit Cypher Use
+* Discipline of Watchfulness
+* Experienced in Armor
+* Flee
+* Foul Aura
+* Knowing the Unknown
+* Regeneration
+* Skill With Attacks
+* Stimulate
 
-Discipline of Watchfulness
-
-Experienced in Armor
-
-Flee
-
-Foul Aura
-
-Knowing the Unknown
-
-Regeneration
-
-Skill With Attacks
-
-Stimulate
-
-SIXTH-TIER SPEAKER
+### Sixth-Tier Speaker
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
 
-Assume Control
+* Assume Control
+* Battle Management
+* Crowd Control
+* Inspiring Success
+* Recruit Deputy
+* Shatter Mind
+* True Senses
+* Word of Command
 
-Battle Management
-
-Crowd Control
-
-Inspiring Success
-
-Recruit Deputy
-
-Shatter Mind
-
-True Senses
-
-Word of Command
-
-## Speaker Example
+### Speaker Example
 
 Mary wants to create a Speaker for a Lovecraftian horror campaign. She puts 3 of her additional stat points into her Intellect Pool and 3 into her Speed Pool; her stat Pools are now Might 8, Speed 12, and Intellect 14. As a first-tier character, her Effort is 1, her Might Edge and Speed Edge are 0, and her Intellect Edge is 1. She’s smart and charismatic but not particularly tough.
 
@@ -1114,105 +816,83 @@ For her character arc, Mary chooses Fall From Grace. She decides she’s had an 
 
 ## Fantasy Character Options
 
-In some cases, the ideas here require minor changes to the flavor described in the character options; you should work with your GM to make sure these changes are suitable for the campaign. Most of the foci in this section appear in the Cypher System; foci with an asterisk (\*) are found later in this document. Some of these options recommend swapping out a type ability for an ability from one of the character flavors such as combat, magic, or stealth. 
+In some cases, the ideas here require minor changes to the flavor described in the character options; you should work with your GM to make sure these changes are suitable for the campaign. Most of the foci in this section appear in the Cypher System; foci with an asterisk (\*) are found later in this document. Some of these options recommend swapping out a type ability for an ability from one of the character flavors such as combat, magic, or stealth.
 
 **Alchemist:** In the sense that an alchemist is someone who makes magical items or similar types of things, Adept and Explorer are appropriate type choices for academic alchemists. For a general sort of alchemist who makes potions of magical effects, choose the Masters Spells focus (instead of spells, you learn potions). For one who transforms into a powerful and dangerous creature, choose Howls at the Moon. For one who loves throwing bombs, choose Bears a Halo of Fire. For a healer, choose Works Miracles.
 
-**Assassin/Spy:** Explorer and Warrior are good type choices for an assassin character. Appropriate foci are Masters Weaponry, Moves Like a Cat, Murders, and Works the Back Alleys. 
+**Assassin/Spy:** Explorer and Warrior are good type choices for an assassin character. Appropriate foci are Masters Weaponry, Moves Like a Cat, Murders, and Works the Back Alleys.
 
-**Barbarian:** A barbarian character is probably a Warrior or (to focus a little more on skills than combat) an Explorer. Good foci to choose from are Lives in the Wilderness, Masters Weaponry, Needs No Weapon, Never Says Die, Performs Feats of Strength, and Rages. 
+**Barbarian:** A barbarian character is probably a Warrior or (to focus a little more on skills than combat) an Explorer. Good foci to choose from are Lives in the Wilderness, Masters Weaponry, Needs No Weapon, Never Says Die, Performs Feats of Strength, and Rages.
 
-**Bard:** Bards in fantasy fiction and games are troubadours, minstrels, and storytellers, perhaps with a supernatural element. Bards are usually Explorers or Speakers. Appropriate foci are Entertains, Helps Their Friends, Infiltrates, and Masters Spells. 
+**Bard:** Bards in fantasy fiction and games are troubadours, minstrels, and storytellers, perhaps with a supernatural element. Bards are usually Explorers or Speakers. Appropriate foci are Entertains, Helps Their Friends, Infiltrates, and Masters Spells.
 
-**Cleric or Priest:** Academic clerics are usually Adepts or Speakers, but martial clerics are often Warriors (perhaps with magic flavor). For a typical cleric with a versatile set of abilities, choose the Channels Divine Blessings focus. 
+**Cleric or Priest:** Academic clerics are usually Adepts or Speakers, but martial clerics are often Warriors (perhaps with magic flavor). For a typical cleric with a versatile set of abilities, choose the Channels Divine Blessings focus.
 
-**-   Cleric (death):** Consorts With the Dead, Shepherds Spirits 
+* **Cleric (death):** Consorts With the Dead, Shepherds Spirits
+* **Cleric (knowledge):** Learns Quickly, Sees Beyond, Would Rather Be Reading
+* **Cleric (life):** Defends the Weak, Shepherds the Community, Works Miracles
+* **Cleric (light):** Blazes With Radiance, Channels Divine Blessings
+* **Cleric (storm):** Rides the Lightning, Thunders
+* **Cleric (trickery):** Takes Animal Shape\* (also see options for rogues)
+* **Cleric (war):** Masters Weaponry (also see options for fighters)
 
-**-   Cleric (knowledge):** Learns Quickly, Sees Beyond, Would Rather Be Reading 
+**Druid:** As a very specific sort of nature priest, a druid character is usually an Adept or Explorer (in either case probably using the magic flavor). A typical druid probably has Channels Divine Blessings or Lives in the Wilderness as a focus, but for more specific options, see the following foci:
 
-**-   Cleric (life):** Defends the Weak, Shepherds the Community, Works Miracles
+* **Druid (animal companion):** Controls Beasts, Masters the Swarm
+* **Druid (elemental):** Abides in Stone, Bears a Halo of Fire, Moves Like the Wind, Rides the Lightning, Wears a Sheen of Ice
+* **Druid (nature affinity):** Speaks for the Land
+* **Druid (transformation):** Abides in Stone, Takes Animal Shape\*, Walks the Wild Woods\*
 
-**-   Cleric (light):** Blazes With Radiance, Channels Divine Blessings 
+**Fighter:** Fighters almost always have the Warrior type, but some are Explorers. A typical fighter probably has a direct focus like Masters Weaponry or Wields an Enchanted Weapon\*. For additional options based on choosing a specific fighting role, see the following:
 
-**-   Cleric (storm):** Rides the Lightning, Thunders 
+* **Fighter (guardian):** Brandishes an Exotic Shield, Defends the Gate, Masters Defense, Never Says Die, Stands Like a Bastion.
+* **Fighter (melee):** Fights Dirty, Fights With Panache, Looks For Trouble, Needs No Weapon, Wields Two Weapons at Once
+* **Fighter (ranged):** Is Licensed to Carry, Throws With Deadly Accuracy
 
-**-   Cleric (trickery):** Takes Animal Shape\* (also see options for rogues)
+**Gunslinger:** A gunslinger is probably a Warrior or Explorer, but some are Speakers with combat flavor. Appropriate foci are Is Licensed to Carry, Masters Weaponry, Sailed Beneath the Jolly Roger, and Wields an Enchanted Weapon\*.
 
-**-   Cleric (war):** Masters Weaponry (also see options for fighters)
-
-**Druid: As a very specific sort of nature priest, a druid character is usually an Adept or Explorer (in either case probably using the magic flavor). A typical druid probably has Channels Divine Blessings or Lives in the Wilderness as a focus, but for more specific options, see the following foci:** 
-
-**-   Druid (animal companion):** Controls Beasts, Masters the Swarm 
-
-**-   Druid (elemental):** Abides in Stone, Bears a Halo of Fire, Moves Like the Wind, Rides the Lightning, Wears a Sheen of Ice 
-
-**-   Druid (nature affinity):** Speaks for the Land 
-
-**-   Druid (transformation):** Abides in Stone, Takes Animal Shape\*, Walks the Wild Woods\*
-
-**Fighter: Fighters almost always have the Warrior type, but some are Explorers. A typical fighter probably has a direct focus like Masters Weaponry or Wields an Enchanted Weapon\*. For additional options based on choosing a specific fighting role, see the following:** 
-
-**-   Fighter (guardian):** Brandishes an Exotic Shield, Defends the Gate, Masters Defense, Never Says Die, Stands Like a Bastion. 
-
-**-   Fighter (melee):** Fights Dirty, Fights With Panache, Looks For Trouble, Needs No Weapon, Wields Two Weapons at Once 
-
-**-   Fighter (ranged):** Is Licensed to Carry, Throws With Deadly Accuracy
-
-**Gunslinger:** A gunslinger is probably a Warrior or Explorer, but some are Speakers with combat flavor. Appropriate foci are Is Licensed to Carry, Masters Weaponry, Sailed Beneath the Jolly Roger, and Wields an Enchanted Weapon\*. 
-
-**Inquisitor:** Inquisitors are usually Explorers, Speakers, or Warriors, depending on whether their inclinations are for having many skills, being good at interacting with people, or combat. Appropriate foci are Infiltrates, Metes Out Justice, and Operates Undercover. 
+**Inquisitor:** Inquisitors are usually Explorers, Speakers, or Warriors, depending on whether their inclinations are for having many skills, being good at interacting with people, or combat. Appropriate foci are Infiltrates, Metes Out Justice, and Operates Undercover.
 
 **Merchant:** An Explorer with a focus dealing with social interactions, like Entertains or Leads, would make a good merchant character, but the more obvious choice would be a Speaker.
 
-**Monk or Martial Artist:** As masters of unarmed combat, monks are usually Warriors or Explorers (perhaps with a combat flavor). Appropriate foci are Fights With Panache, Needs No Weapon, and Throws With Deadly Accuracy. 
+**Monk or Martial Artist:** As masters of unarmed combat, monks are usually Warriors or Explorers (perhaps with a combat flavor). Appropriate foci are Fights With Panache, Needs No Weapon, and Throws With Deadly Accuracy.
 
 **Paladin/Holy Knight/Paragon:** As holy warriors who mix martial prowess and magic, paladins are usually Warriors or Explorers (in either case, perhaps modified with the magic flavor). Good foci for this type of character include Defends the Gate, Defends the Weak, Metes Out Justice, Slays Monsters, and Wields an Enchanted Weapon\*.
 
-**Ranger:** Rangers mix combat and skills, and therefore are usually Explorers (perhaps with combat flavor) or Warriors (perhaps with skills and knowledge flavor). Appropriate foci for a ranger are Controls Beasts, Hunts, Lives in the Wilderness, Slays Monsters, Throws With Deadly Accuracy, and Wields Two Weapons at Once. 
+**Ranger:** Rangers mix combat and skills, and therefore are usually Explorers (perhaps with combat flavor) or Warriors (perhaps with skills and knowledge flavor). Appropriate foci for a ranger are Controls Beasts, Hunts, Lives in the Wilderness, Slays Monsters, Throws With Deadly Accuracy, and Wields Two Weapons at Once.
 
-**Rogue or Thief:** Most rogue-type characters are Explorers, but an interaction-focused rogue could easily be a Speaker (perhaps with stealth flavor). Good foci for rogues are Explores Dark Places, Fights Dirty, Hunts, Infiltrates, Is Wanted by the Law, Moves Like a Cat, Sailed Beneath the Jolly Roger, and Works the Back Alleys. 
+**Rogue or Thief:** Most rogue-type characters are Explorers, but an interaction-focused rogue could easily be a Speaker (perhaps with stealth flavor). Good foci for rogues are Explores Dark Places, Fights Dirty, Hunts, Infiltrates, Is Wanted by the Law, Moves Like a Cat, Sailed Beneath the Jolly Roger, and Works the Back Alleys.
 
-**Sorcerer: Sorcerers, for our purpose here, are mages who have inherent magical abilities (as opposed to wizards, who study long and hard to get their spells). Most sorcerers are Adepts, but some are Explorers or Speakers. The Masters Spells focus gives a typical sorcerer an effective set of abilities, and most foci choices provide a themed set of spells. For sorcerers of various magical bloodlines, see the following:** 
+**Sorcerer:** Sorcerers, for our purpose here, are mages who have inherent magical abilities (as opposed to wizards, who study long and hard to get their spells). Most sorcerers are Adepts, but some are Explorers or Speakers. The Masters Spells focus gives a typical sorcerer an effective set of abilities, and most foci choices provide a themed set of spells. For sorcerers of various magical bloodlines, see the following:
 
-**-   Sorcerer (angel):** Blazes With Radiance, Channels Divine Blessings, Keeps a Magic Ally 
+* **Sorcerer (angel):** Blazes With Radiance, Channels Divine Blessings, Keeps a Magic Ally
+* **Sorcerer (destiny):** Descends From Nobility, Was Foretold
+* **Sorcerer (dragon):** Bears a Halo of Fire, Rides the Lightning, Wears a Sheen of Ice
+* **Sorcerer (elemental):** Abides in Stone, Bears a Halo of Fire, Employs Magnetism, Moves Like the Wind, Rides the Lightning, Wears a Sheen of Ice
+* **Sorcerer (fey):** Takes Animal Shape\*
+* **Sorcerer (fiend):** Bears a Halo of Fire, Keeps a Magic Ally
+* **Sorcerer (undead):** Consorts With the Dead, Shepherds Spirits
 
-**-   Sorcerer (destiny):** Descends From Nobility, Was Foretold
+**Trickster or Con Artist:** These clever folks are typically Speakers, although they could be Adepts if they are very magical (or Explorers if they aren’t magical at all). Foci choices include Fights Dirty, Works the Back Alleys, or Entertains.
 
-**-   Sorcerer (dragon):** Bears a Halo of Fire, Rides the Lightning, Wears a Sheen of Ice
+**War-wizard:** For those unusual characters who use a mix of weapon attacks and spells, play a Warrior with magic flavor or an Expert with combat or magic flavor. Appropriate foci include Fights With Panache, Masters Weaponry, and Wields an Enchanted Weapon\*.
 
-**-   Sorcerer (elemental):** Abides in Stone, Bears a Halo of Fire, Employs Magnetism, Moves Like the Wind, Rides the Lightning, Wears a Sheen of Ice 
-
-**-   Sorcerer (fey):** Takes Animal Shape\* 
-
-**-   Sorcerer (fiend):** Bears a Halo of Fire, Keeps a Magic Ally 
-
-**-   Sorcerer (undead):** Consorts With the Dead, Shepherds Spirits
-
-**Trickster or Con Artist:** These clever folks are typically Speakers, although they could be Adepts if they are very magical (or Explorers if they aren’t magical at all). Foci choices include Fights Dirty, Works the Back Alleys, or Entertains. 
-
-**War-wizard:** For those unusual characters who use a mix of weapon attacks and spells, play a Warrior with magic flavor or an Expert with combat or magic flavor. Appropriate foci include Fights With Panache, Masters Weaponry, and Wields an Enchanted Weapon\*. 
-
-**Warlock or Witch:** For the purposes of this list, warlocks and witches are mages who gain magical power from pacts they make with otherworldly entities. Most warlocks are Adepts, but Explorers and Speakers (perhaps with magic flavor) can be interesting options. Fun foci for a warlock include Dances With Dark Matter, Keeps a Magic Ally, Masters the Swarm, Separates Mind From Body, and Was Foretold, but (depending on the patron and pact) most sorcerer and wizard foci work just as well. 
+**Warlock or Witch:** For the purposes of this list, warlocks and witches are mages who gain magical power from pacts they make with otherworldly entities. Most warlocks are Adepts, but Explorers and Speakers (perhaps with magic flavor) can be interesting options. Fun foci for a warlock include Dances With Dark Matter, Keeps a Magic Ally, Masters the Swarm, Separates Mind From Body, and Was Foretold, but (depending on the patron and pact) most sorcerer and wizard foci work just as well.
 
 **Wild Mage:** Those who use chaotic magic are usually Adepts, but a dabbler might be an Explorer or Speaker with the magic flavor. The best focus that suits this theme is Uses Wild Magic\*.
 
-**Wizard: For the purposes of this list, wizards study magical lore at length to learn the ways of spellcasting (as opposed to sorcerers, warlocks, and so on). Wizards are usually Adepts, but a person-oriented wizard might be a Speaker (perhaps with the magic flavor). For a generalist wizard who has a variety of spells, choose the Masters Spells focus. For more specific kinds of wizards, see the following:** 
+**Wizard:** For the purposes of this list, wizards study magical lore at length to learn the ways of spellcasting (as opposed to sorcerers, warlocks, and so on). Wizards are usually Adepts, but a person-oriented wizard might be a Speaker (perhaps with the magic flavor). For a generalist wizard who has a variety of spells, choose the Masters Spells focus. For more specific kinds of wizards, see the following:
 
-**-   Wizard (abjurer):** Absorbs Energy, Focuses Mind Over Matter, Wears a Sheen of Ice 
+* **Wizard (abjurer):** Absorbs Energy, Focuses Mind Over Matter, Wears a Sheen of Ice
+* **Wizard (conjurer or summoner):** Controls Beasts, Keeps a Magic Ally
+* **Wizard (diviner):** Learns Quickly, Sees Beyond, Separates Mind From Body, Solves Mysteries
+* **Wizard (enchanter):** Commands Mental Powers, Leads
+* **Wizard (evoker):** Bears a Halo of Fire, Blazes With Radiance, Rides the Lightning, Thunders, Wears a Sheen of Ice
+* **Wizard (illusionist):** Awakens Dreams, Crafts Illusions
+* **Wizard (necromancer):** Consorts With the Dead, Shepherds Spirits
+* **Wizard (transmuter):** Controls Gravity, Focuses Mind Over Matter, Takes Animal Shape\*
 
-**-   Wizard (conjurer or summoner):** Controls Beasts, Keeps a Magic Ally 
-
-**-   Wizard (diviner): Learns Quickly, Sees Beyond, Separates Mind From Body, Solves Mysteries Wizard (enchanter):** Commands Mental Powers, Leads 
-
-**-   Wizard (evoker):** Bears a Halo of Fire, Blazes With Radiance, Rides the Lightning, Thunders, Wears a Sheen of Ice 
-
-**-   Wizard (illusionist):** Awakens Dreams, Crafts Illusions 
-
-**-   Wizard (necromancer):** Consorts With the Dead, Shepherds Spirits 
-
-**-   Wizard (transmuter):** Controls Gravity, Focuses Mind Over Matter, Takes Animal Shape\*
-
-PREPARED VS. SPONTANEOUS SPELLCASTING
+## Prepared vs. Spontaneous Spellcasting
 
 Magical characters get their abilities (which might be spells, rituals, or something else) from their type and focus, and they can use these abilities as they see fit as long as they spend the required Pool points. This technically makes them more like spontaneous casters. If you’d like to play something more like a prepared-caster wizard with a large selection of abilities that you narrow down each day, consider a spellcasting-oriented focus like Channels Divine Blessings, Masters Spells, or Speaks for the Land, and consider augmenting it with the optional spellcasting rule.
 

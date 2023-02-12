@@ -3,16 +3,22 @@ languageCode = 'en-us'
 title = 'Cypher System Reference Document'
 theme = 'hugo-book'
 
+[languages.en]  
+languageName = 'English'
+contentDir = 'content.en'
+weight = 1
+
 # Theme
 enableGitInfo = true
 disableKinds = ['taxonomy', 'taxonomyTerm']
 
 [params]
-  BookTheme = 'auto'
+  BookTheme = 'light'
   BookRepo = 'https://github.com/Daegalus/csrd'
   BookCommitPath = 'commit'
   BookComments = false
   BookServiceWorker = true
+  BookSection = "*"
 
 [markup.goldmark.renderer]
   unsafe = true
