@@ -31,63 +31,58 @@ These categories have some overlap with the categories in the Focus chapter. For
 
 Gives you training or specialization in a specific physical attack (like swords or unarmed combat), a category of physical attacks (light bladed, heavy bashing, and so on), or another physical skill primarily used to inflict harm (such as breaking objects).
 
-Low Tier:
+**Low Tier:**
 
-Heads-Up Display
+{{< columns >}}
 
-Practiced With Guns
+* Heads-Up Display
+* Practiced With Guns
+<--->
+* Practiced With Medium Weapons
+* Practiced With Swords
+<--->
+* Quarry
+* Unarmed Fighting Style
+{{< /columns >}}
 
-Practiced With Medium Weapons
+### Mid Tier
 
-Practiced With Swords
+{{< columns >}}
 
-Quarry
+* Blood Fever
+* Cognizant Offense
+* Greater Skill With Defense
+* Practiced With All Weapons
+<--->
+* Robot Fighter
+* Serv-0 Aim
+* Serv-0 Brawler
+* Skill With Attacks
+<--->
+* Sniper’s Aim
+* Specialized Throwing
+{{< /columns >}}
 
-Unarmed Fighting Style
+### High Tier
 
-Mid Tier:
+{{< columns >}}
 
-Blood Fever
-
-Cognizant Offense
-
-Greater Skill With Defense
-
-Practiced With All Weapons
-
-Robot Fighter
-
-Serv-0 Aim
-
-Serv-0 Brawler
-
-Skill With Attacks
-
-Sniper’s Aim
-
-Specialized Throwing
-
-High Tier:
-
-As Foretold in Prophecy
-
-Duel to the Death
-
-Greater Skill With Attacks
-
-Hunter’s Drive
-
-Master of Unarmed Fighting Style
-
-Mastery With Attacks
-
-Specialized Basher
+* As Foretold in Prophecy
+* Duel to the Death
+* Greater Skill With Attacks
+<--->
+* Hunter’s Drive
+* Master of Unarmed Fighting Style
+<--->
+* Mastery With Attacks
+* Specialized Basher
+{{< /columns >}}
 
 ## Companion
 
 Gives you a follower, modifies a follower, or gives you an additional benefit when interacting with or near your follower. This category includes humanoid followers, beast companions, and temporary companions like summoned swarms, conjured spirits, and so on.
 
-Low Tier:
+**Low Tier:**
 
 Basic Follower
 
@@ -115,7 +110,7 @@ Serv-0
 
 Spirit Accomplice
 
-Mid Tier:
+**Mid Tier:**
 
 Beast Eyes
 
@@ -153,7 +148,7 @@ Time Doppelganger
 
 Time Loop
 
-High Tier:
+**High Tier:**
 
 As If One Creature
 
@@ -210,7 +205,7 @@ True Necromancy
 
 Controls or influences minds in ways outside of what could be done with conventional intimidation and persuasion, such as using psychic mind control, fear gas, and so on.
 
-Low Tier:
+**Low Tier:**
 
 Calm Stranger
 
@@ -232,7 +227,7 @@ Soothe the Savage
 
 Terrifying Presence
 
-Mid Tier:
+**Mid Tier:**
 
 Calm
 
@@ -258,7 +253,7 @@ Mind Control
 
 Psychic Suggestion
 
-High Tier:
+**High Tier:**
 
 Advanced Command
 
@@ -288,7 +283,7 @@ Word of Command
 
 Creates useful physical things, such as mundane tools (hammers, crowbars), limited-use devices (manifest cyphers, artifacts), or independent beings (robots, elementals, zombies). Includes blueprints, plans, and effects that aid or speed crafting.
 
-Low Tier:
+**Low Tier:**
 
 Create Deadly Poison
 
@@ -310,7 +305,7 @@ Trapster
 
 Weapon Crafter
 
-Mid Tier:
+**Mid Tier:**
 
 Dream Becomes Reality
 
@@ -324,7 +319,7 @@ Robot Upgrade
 
 Sculpt Light
 
-High Tier:
+**High Tier:**
 
 Create
 
@@ -344,7 +339,7 @@ Reshape
 
 Cures damage, adds or improves recovery rolls, or negates, cures, suspends, or otherwise gives immunity to a harmful effect or condition, such as poison, disease, mental attacks, moving down on the damage track, or dying.
 
-Low Tier:
+**Low Tier:**
 
 Alleviate
 
@@ -392,7 +387,7 @@ Water Adaptation
 
 Will of Legend
 
-Mid Tier:
+**Mid Tier:**
 
 Aquatic Combatant
 
@@ -440,7 +435,7 @@ Wilderness Encouragement
 
 Willing Sacrifice
 
-High Tier:
+**High Tier:**
 
 Deep Reserves
 
@@ -488,7 +483,7 @@ Vigilant
 
 Manipulates the environment or things in the environment, such as with telekinesis, weather control, gravity control, illusions, and so on.
 
-Low Tier:
+**Low Tier:**
 
 Create Water
 
@@ -522,7 +517,7 @@ Telekinesis
 
 Wilderness Explorer
 
-Mid Tier:
+**Mid Tier:**
 
 Daydream
 
@@ -548,7 +543,7 @@ Storm Seed
 
 Sunlight
 
-High Tier:
+**High Tier:**
 
 Adaptation
 
@@ -582,7 +577,7 @@ The Wild Is on Your Side
 
 Gives the ability to learn information about something, whether chosen by the GM like Scan, by asking a question and the GM giving the answer, or by learning a language.
 
-Low Tier:
+**Low Tier:**
 
 Babel
 
@@ -624,7 +619,7 @@ Speaker for the Dead
 
 Telepathic
 
-Mid Tier:
+**Mid Tier:**
 
 Creature Insight
 
@@ -654,7 +649,7 @@ Spot Weakness
 
 Wilderness Awareness
 
-High Tier:
+**High Tier:**
 
 Deep Consideration
 
@@ -675,7 +670,7 @@ Telepathic Network
 
 Modifies an existing ability or character trait’s effects or parameters, such as increasing range or, damage, easing the difficulty, giving you additional noncombat actions each turn, rerolling a failed attempt, or treating a number on the die as something different than normal.
 
-Low Tier:
+**Low Tier:**
 
 A Smile and a Word
 
@@ -771,7 +766,7 @@ Weapon Master
 
 Wreck
 
-Mid Tier:
+**Mid Tier:**
 
 Amazing Effort
 
@@ -941,7 +936,7 @@ Willing Sacrifice
 
 Wrest From Chance
 
-High Tier:
+**High Tier:**
 
 Adroit Cypher Use
 
@@ -1079,7 +1074,7 @@ Winter Gauntlets
 
 Increases your movement (such as increasing your basic movement speed from short to long) or adds a new type of movement (such as flight, wallcrawling, phasing, or teleporting).
 
-Low Tier:
+**Low Tier:**
 
 Bolt Rider
 
@@ -1099,7 +1094,7 @@ Void Wings
 
 Walk Through Walls
 
-Mid Tier:
+**Mid Tier:**
 
 Apportation
 
@@ -1131,7 +1126,7 @@ Wings of Fire
 
 Wormhole
 
-High Tier:
+**High Tier:**
 
 Alley Rat
 
@@ -1182,7 +1177,7 @@ Windwracked Traveler
 
 Gives training or specialization in one or more types of combat defenses (Might, Speed, or Intellect), provides or increases Armor, or otherwise helps prevent damage.
 
-Low Tier:
+**Low Tier:**
 
 Absorb Kinetic Energy
 
@@ -1286,7 +1281,7 @@ Weather the Vicissitudes
 
 Wind Armor
 
-Mid Tier:
+**Mid Tier:**
 
 Absorb Pure Energy
 
@@ -1382,7 +1377,7 @@ Vigilance
 
 Wraith Cloak
 
-High Tier:
+**High Tier:**
 
 Defense Master
 
@@ -1439,7 +1434,7 @@ Wear It Well
 
 Enhances your senses (seeing in the dark, seeing underwater or through mist, sensing danger, finding optimal places to stand in combat, and so on), but doesn’t provide direct answers to questions like an information ability does.
 
-Low Tier:
+**Low Tier:**
 
 Eyes Adjusted
 
@@ -1465,7 +1460,7 @@ Share Senses
 
 Third Eye
 
-Mid Tier:
+**Mid Tier:**
 
 Animal Senses and Sensibilities
 
@@ -1497,7 +1492,7 @@ Trapfinder
 
 Use Senses of Others
 
-High Tier:
+**High Tier:**
 
 Amplify Sounds
 
@@ -1517,7 +1512,7 @@ True Senses
 
 Gives you an indirect social benefit, such as providing a useful contact in a city or letting you take advantage of your social status.
 
-Low Tier:
+**Low Tier:**
 
 Connected
 
@@ -1541,7 +1536,7 @@ Underworld Contacts
 
 Unexpected Betrayal
 
-Mid Tier:
+**Mid Tier:**
 
 Betrayal
 
@@ -1553,7 +1548,7 @@ Oratory
 
 Perfect Stranger
 
-High Tier:
+**High Tier:**
 
 Group Friendship
 
@@ -1561,7 +1556,7 @@ Group Friendship
 
 Gives the ability to make a special melee or ranged attack (weapon, energy blast, psychic, and so on). The attack might do damage, have a special effect (disarm, hinder, move the target, and so on), or both. This also includes abilities like Spray that let you attack multiple targets as your action.
 
-Low Tier:
+**Low Tier:**
 
 Advantage to Disadvantage
 
@@ -1659,7 +1654,7 @@ Thunder Beam
 
 Weighty
 
-Mid Tier:
+**Mid Tier:**
 
 Acrobatic Attack
 
@@ -1787,7 +1782,7 @@ Throw Force Shield
 
 Trick Shot
 
-High Tier:
+**High Tier:**
 
 Absorb Energy
 
@@ -1917,7 +1912,7 @@ Word of Death
 
 Gives some sort of benefit to an ally rather than yourself, such as an extra action or an asset on their roll.
 
-Low Tier:
+**Low Tier:**
 
 Advice From a Friend
 
@@ -1955,7 +1950,7 @@ Sculpt Flesh
 
 Teamwork
 
-Mid Tier:
+**Mid Tier:**
 
 Accelerate
 
@@ -1985,7 +1980,7 @@ Take Command
 
 True Guardian
 
-High Tier:
+**High Tier:**
 
 Able Assistance
 
@@ -2027,7 +2022,7 @@ Work the Friendship
 
 Gives training, specialization, or an asset in one or more noncombat skills (climbing, healing, computers, initiative, and so on).
 
-Low Tier:
+**Low Tier:**
 
 Advantages of Being Big
 
@@ -2259,7 +2254,7 @@ Wound Tender
 
 Zero Dark Eyes
 
-Mid Tier:
+**Mid Tier:**
 
 Action Processor
 
@@ -2355,7 +2350,7 @@ Verbal Misdirection
 
 You Studied
 
-High Tier:
+**High Tier:**
 
 Amplify Sounds
 
@@ -2399,7 +2394,7 @@ Using the Environment
 
 A significant change that temporarily enhances you, such as growing bigger, turning into a werewolf, and so on. Also includes apparent transformations like disguises and invisibility.
 
-Low Tier:
+**Low Tier:**
 
 Beast Form
 
@@ -2421,7 +2416,7 @@ Spin Identity
 
 Vanish
 
-Mid Tier:
+**Mid Tier:**
 
 Bigger Beast Form
 
@@ -2439,7 +2434,7 @@ Invisible Phasing
 
 Moon Shape
 
-High Tier:
+**High Tier:**
 
 Colossal
 

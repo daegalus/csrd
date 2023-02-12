@@ -13,7 +13,7 @@ enableGitInfo = true
 disableKinds = ['taxonomy', 'taxonomyTerm']
 
 [params]
-  BookTheme = 'light'
+  BookTheme = 'auto'
   BookRepo = 'https://github.com/Daegalus/csrd'
   BookCommitPath = 'commit'
   BookComments = false
