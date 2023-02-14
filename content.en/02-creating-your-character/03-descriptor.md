@@ -94,6 +94,8 @@ You gain the following characteristics:
 3. Pure happenstance—because you just go along with the flow of things and everything usually works out.
 4. Your charismatic ways helped get one of the PCs out of a difficult spot a long time ago, and they always ask you to join them on new adventures.
 
+-----
+
 ### Beneficent
 
 Helping others is your calling. It’s why you’re here. Others delight in your outgoing and charitable nature, and you delight in their happiness. You’re at your best when you’re aiding people, either by explaining how they can best overcome a challenge or by demonstrating how to do so yourself.
