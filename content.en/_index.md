@@ -13,7 +13,6 @@ Use the navigation menu on the left to choose the section you'd like to read. Th
 
 If end up loving the system, and want more content, or the full rulebook, I greatly encourage you to visit the [Monte Cook Games store](https://www.montecookgames.com/store/), and support the system.
 
-
 ## News
 
 {{< details title="2023-02-11" open=true >}}
