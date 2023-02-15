@@ -109,6 +109,8 @@ You can spend 1 XP to use one of the following player intrusions, provided the s
 
 You get 6 additional points to divide among your stat Pools however you wish.
 
+-----
+
 ### First-Tier Warrior
 
 First-tier warriors have the following abilities:
@@ -137,6 +139,8 @@ First-tier warriors have the following abilities:
 * Swipe
 * Trained Without Armor
 
+-----
+
 ### Second-Tier Warrior
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
@@ -147,6 +151,8 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 * Skill With Attacks
 * Skill With Defense
 * Successive Attack
+
+-----
 
 ### Third-Tier Warrior
 
@@ -165,6 +171,8 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 * Trick Shot
 * Vigilance
 
+-----
+
 ### Fourth-Tier Warrior
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
@@ -178,6 +186,8 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 * Pry Open
 * Snipe
 * Tough As Nails
+
+-----
 
 ### Fifth-Tier Warrior
 
@@ -196,6 +206,8 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 Remember that at higher tiers, you can choose special abilities from lower tiers. This is sometimes the best way to ensure that you have exactly the character you want. This is particularly true with abilities that grant skills, which can usually be taken multiple times.
 {{< /hint >}}
 
+-----
+
 ### Sixth-Tier Warrior
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
@@ -207,9 +219,9 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 * Spin Attack
 * Weapon and Body
 
-// Boxed text
-
 ### Warrior Example
+
+{{< hint warning >}}
 
 Ray wants to create a Warrior character for a modern campaign. He decides that the character is an ex-military fellow who is fast and strong. He puts 3 of his additional points into his Might Pool and 3 into his Speed Pool; his stat Pools are now Might 13, Speed 13, and Intellect 8. As a first-tier character, his Effort is 1, his Might Edge is 1, and his Speed Edge and Intellect Edge are both 0. His character is not particularly smart or charismatic.
 
@@ -226,6 +238,7 @@ For his focus, Ray chooses Masters Weaponry. This gives him yet another weapon o
 Thanks to his focus, he also inflicts 1 additional point of damage with his chosen weapon. Now he inflicts 6 points of damage with his blade. Ray’s character is a deadly combatant, likely starting the game with a reputation as a knife fighter.
 
 For his character arc, Ray chooses Defeat a Foe. That foe, he decides, is none other than someone in his company who was once a friend but went rogue.
+{{< /hint >}}
 
 ## Adept
 
@@ -298,6 +311,8 @@ Your type helps determine the connection you have to the setting. Roll a `d20` o
 | 19    | You know a local merchant very well. Since you give them so much business, they offer you discounts and special treatment.                                        |
 | 20    | You belong to a secretive social club that gathers monthly to drink and talk.                                                                                     |
 
+-----
+
 ### First-Tier Adept
 
 First-tier Adepts have the following abilities:
@@ -326,6 +341,8 @@ First-tier Adepts have the following abilities:
 * Shatter
 * Ward
 
+-----
+
 ### Second-Tier Adept
 
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
@@ -338,6 +355,8 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 * Reveal
 * Stasis
 
+-----
+
 ### Third-Tier Adept
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
@@ -349,6 +368,8 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 * Force Field Barrier
 * Sensor
 * Targeting Eye
+
+-----
 
 ### Fourth-Tier Adept
 
@@ -365,6 +386,8 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 * Reshape
 * Wormhole
 
+-----
+
 ### Fifth-Tier Adept
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
@@ -379,6 +402,8 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 * Teleportation
 * True Senses
 
+-----
+
 ### Sixth-Tier Adept
 
 Choose one of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
@@ -391,6 +416,8 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 
 ### Adept Example
 
+{{< hint warning >}}
+
 Jen wants to create an Adept—a sorcerer for a fantasy campaign. She decides to be somewhat well rounded, so she puts 2 of her additional points into each stat Pool, giving her a Might Pool of 9, a Speed Pool of 11, and an Intellect Pool of 14. Her Adept is smart and quick. She has an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0. As a first-tier character, her Effort is 1. As her initial abilities, she chooses Onslaught and Ward, giving her a strong offense and defense. She also chooses Magic Training and rounds out her character with Scan, which she hopes will be useful in gaining insight and information. For this character, Onslaught, Ward, and Scan are all spells she has mastered through years of training and study.
 
 She can bear three cyphers. The GM gives her a potion that acts as a short-range teleporter, a small charm that restores 5 points to her Intellect Pool, and a fluid-filled flask that explodes like a fiery bomb. Jen’s sorcerer is skilled with light weapons, so she chooses a dagger.
@@ -402,6 +429,7 @@ For her focus, she chooses Leads. This gives her training in social interactions
 Her spells and focus abilities cost Intellect points to activate, so she’s glad to have a lot of points in her Intellect Pool. In addition, her Intellect Edge will help reduce those costs. If she uses her Onslaught force blast without applying Effort, it costs 0 Intellect points and deals 4 points of damage. Her Intellect Edge will allow her to save points to devote toward applying Effort for other purposes, perhaps to boost the accuracy of Onslaught.
 
 For her character arc, Jen chooses Aid a Friend. She decides that when her sorcerer character was young, she had a magical mentor. That mentor was later taken prisoner by a demon, so her character is always looking for clues on how to find the demon and release her friend from bondage.
+{{< /hint >}}
 
 {{< hint info >}}
 GMs are always free to pre-select a type’s special abilities at a given tier to reinforce the setting. In the fantasy setting of Jen’s sorcerer, the GM might have said that all sorcerers (Adepts) start with Magic Training as one of their tier 1 abilities. This doesn’t make the character any less powerful or special, but it says something about her role in the world and expectations in the game.
@@ -427,7 +455,7 @@ You are a person of action and physical ability, fearlessly facing the unknown. 
 
 **Advanced Explorers:** Higher-tier Explorers gain more skills, some combat abilities, and a number of abilities that allow them to deal with danger. In short, they become more and more well-rounded, able to deal with any challenge.
 
-## Explorer Player Intrusions
+### Explorer Player Intrusions
 
 When playing an Explorer, you can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.
 
@@ -437,7 +465,7 @@ When playing an Explorer, you can spend 1 XP to use one of the following player 
 
 **Weak Strain:** The poison or disease turns out not to be as debilitating or deadly as it first seemed, and inflicts only half the damage that it would have otherwise.
 
-## Explorer Stat Pools
+### Explorer Stat Pools
 
 | **Stat**  | **Pool Starting Value** |
 | --------- | ----------------------- |
@@ -474,7 +502,9 @@ Your type helps determine the connection you have to the setting. Roll a `d20` o
 | 19    | Your sister owns a store and gives you a hefty discount.                                                                                   |
 | 20    | Your father is a high-ranking officer in the military with many connections.                                                               |
 
-## First-Tier Explorer
+-----
+
+### First-Tier Explorer
 
 First-tier Explorers have the following abilities:
 
@@ -511,6 +541,8 @@ First-tier Explorers have the following abilities:
 * Trained Without Armor
 {{< /columns >}}
 
+-----
+
 ### Second-Tier Explorer
 
 Choose four of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
@@ -534,6 +566,8 @@ Choose four of the abilities listed below (or from a lower tier) to add to your 
 * Wreck
 {{< /columns >}}
 
+-----
+
 ### Third-Tier Explorer
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
@@ -556,6 +590,8 @@ Wrest From Chance
 <--->
 {{< /columns >}}
 
+-----
+
 ### Fourth-Tier Explorer
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
@@ -567,6 +603,8 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 * Runner
 * Subtle Steps
 * Tough As Nails
+
+-----
 
 ### Fifth-Tier Explorer
 
@@ -583,6 +621,8 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 * Take Command
 * Vigilant
 
+-----
+
 ### Sixth-Tier Explorer
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
@@ -596,7 +636,9 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 * Spin Attack
 * Wild Vitality
 
-## Explorer Example
+### Explorer Example
+
+{{< hint warning >}}
 
 Sam decides to create an Explorer character for a science fiction campaign. This character will be a hardy soul who explores alien worlds. They put 3 additional points into their Might Pool, 2 into their Speed Pool, and 1 into their Intellect Pool; their stat Pools are now Might 13, Speed 11, and Intellect 10. As a first-tier character, their Effort is 1, their Might Edge is 1, and their Speed Edge and Intellect Edge are 0. Their character is fairly well-rounded so far.
 
@@ -608,10 +650,11 @@ Sam’s Explorer is not really geared toward fighting, but sometimes the univers
 
 Sam still needs a descriptor and a focus. Looking to the Descriptor chapter, they choose Hardy, which increases their Might Pool to 17. They also heal more quickly and can operate better when injured. They’re trained in Might defense but have an inability with initiative; however, it’s effectively canceled out by their Danger Sense (and vice versa). Sam could go back and select something else instead of Danger Sense, but they like it and decide to keep it. Overall, the descriptor ends up making the character tough but a little slow.
 
-**For their focus, Sam chooses Explores Dark Places (in this case, weird ruins of alien civilizations). This gives the character a bunch of additional skills:** searching, listening, climbing, balancing, and jumping. They’re quite the capable Explorer.
+For their focus, Sam chooses Explores Dark Places (in this case, weird ruins of alien civilizations). This gives the character a bunch of additional skills: searching, listening, climbing, balancing, and jumping. They’re quite the capable Explorer.
 
 For their character arc, Sam chooses Enterprise. Exploring alien places sometimes turns up strange relics, and Sam figures they might be able to set up a service to reliably transport these items to responsible third parties, rather than allow them to fall into the hands of pirates and rich private collectors. For a small fee, of course.
 
+{{< /hint >}}
 ## Speaker
 
 **Fantasy/Fairy tale:** bard, speaker, skald, emissary, priest, advocate
@@ -679,6 +722,8 @@ Your type helps determine the connection you have to the setting. Roll a `d20` o
 | 19    | You are in a close romantic relationship with someone in local politics.                                                                                   |
 | 20    | Someone out there tries to pose as you, using your identity, often for nefarious ends. You’ve never met the culprit, but you’d certainly like to.          |
 
+-----
+
 ### First-Tier Speaker
 
 **First-tier speakers have the following abilities:**
@@ -714,6 +759,8 @@ Your type helps determine the connection you have to the setting. Roll a `d20` o
 * Understanding
 {{< /columns >}}
 
+-----
+
 ### Second-Tier Speaker
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
@@ -734,6 +781,8 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 * Speedy Recovery
 * Unexpected Betrayal
 {{< /columns >}}
+
+-----
 
 ### Third-Tier Speaker
 
@@ -757,6 +806,8 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 * Telling
 {{< /columns >}}
 
+-----
+
 ### Fourth-Tier Speaker
 
 Choose two of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
@@ -771,6 +822,8 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 * Strategize
 * Suggestion
 
+-----
+
 ### Fifth-Tier Speaker
 
 Choose three of the abilities listed below (or from a lower tier) to add to your repertoire. In addition, you can replace one of your lower-tier abilities with a different one from a lower tier.
@@ -784,6 +837,8 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 * Regeneration
 * Skill With Attacks
 * Stimulate
+
+-----
 
 ### Sixth-Tier Speaker
 
@@ -800,6 +855,8 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 ### Speaker Example
 
+{{< hint warning >}}
+
 Mary wants to create a Speaker for a Lovecraftian horror campaign. She puts 3 of her additional stat points into her Intellect Pool and 3 into her Speed Pool; her stat Pools are now Might 8, Speed 12, and Intellect 14. As a first-tier character, her Effort is 1, her Might Edge and Speed Edge are 0, and her Intellect Edge is 1. She’s smart and charismatic but not particularly tough.
 
 Mary chooses Fast Talk and Spin Identity to help get into places and learn things she wants to know. She’s a bit of a con artist. She’s good to her friends, however, and chooses Encouragement as well. Mary rounds out her first-tier abilities with Interaction Skills (deceiving and persuasion).
@@ -813,6 +870,7 @@ Mary chooses Resilient for her descriptor and decides that she can probably lear
 For her focus, Mary chooses Moves Like a Cat, granting her a final Speed Pool of 18 and training in balance. In the end, she’s graceful and quick, charismatic, and hardier than she initially thought thanks to her drive. She’s ready to investigate the weird.
 
 For her character arc, Mary chooses Fall From Grace. She decides she’s had an obsession with a strange tome that’s been in her family for generations, and her character is drawn to its strange languages and rituals.
+{{< /hint >}}
 
 ## Fantasy Character Options
 

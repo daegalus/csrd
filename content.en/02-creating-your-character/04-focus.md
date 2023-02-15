@@ -124,6 +124,8 @@ Your flesh is made of hard mineral, making you a hulking, difficult-to-harm huma
 
 **GM Intrusions:** Creatures of stone sometimes forget their own strength or weight. A walking statue can terrify common folk.
 
+-----
+
 ### Absorbs Energy
 
 You can harness kinetic energy and transform it into other kinds of energy.
@@ -138,6 +140,8 @@ You can harness kinetic energy and transform it into other kinds of energy.
 
 **GM Intrusions:** Energy goes to ground in a destructive way. Some predators feed directly on energy. An unintended item is drained of energy.
 
+-----
+
 ### Awakens Dreams
 
 You can pull images from dreams and bring them to life in the waking world.
@@ -151,6 +155,8 @@ You can pull images from dreams and bring them to life in the waking world.
 * Tier 6: Chamber of Dreams or Reactive Field
 
 **GM Intrusions:** An unexpected sleepwalking episode puts the character into a dangerous situation. A nightmare breaks free of a dream.
+
+-----
 
 ### Battles Robots
 
@@ -167,6 +173,8 @@ You excel in battling robots, automatons, and machine entities.
 
 **GM Intrusions:** The robot explodes upon defeat. Other robots come after the character for revenge.
 
+-----
+
 ### Bears a Halo of Fire
 
 You can sheath your body in flames, which protects you and harms your foes.
@@ -179,6 +187,8 @@ You can sheath your body in flames, which protects you and harms your foes.
 * Tier 6: Fire Servant or Inferno Trail
 
 **GM Intrusions:** Fire burns flammable material. Fire spreads out of control. Primitive creatures fear fire and often attack what they fear.
+
+-----
 
 ### Blazes With Radiance
 
@@ -194,6 +204,8 @@ You can create light, sculpt it, bend it away from you, or gather it to use as a
 
 **GM Intrusions:** Allies are accidentally dazzled or blinded. Bright flashes draw guards.
 
+-----
+
 ### Brandishes an Exotic Shield
 
 You deploy an amazing shield of pure force that provides protection and some offensive options.
@@ -207,6 +219,8 @@ You deploy an amazing shield of pure force that provides protection and some off
 * Tier 6: Bouncing Shield or Shield Burst
 
 **GM Intrusions:** The shield is temporarily lost. A foe temporarily ends up with the shield.
+
+-----
 
 ### Builds Robots
 
@@ -226,6 +240,8 @@ The word “robot” is used in this focus, though the robot you create might lo
 
 **GM Intrusions:** The robot is hacked, gains a mind of its own, or unexpectedly detonates.
 
+-----
+
 ### Calculates the Incalculable
 
 Awesome mathematical ability allows you to model the world in real time, giving you an edge over everyone.
@@ -241,6 +257,8 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 
 **GM Intrusions:** Too many predicted results threaten to overwhelm and stun the character. A result points to imminent disaster.
 
+-----
+
 ### Channels Divine Blessings
 
 A devout follower of a divine being, you channel some of your deity’s power to achieve wonders.
@@ -254,6 +272,8 @@ A devout follower of a divine being, you channel some of your deity’s power to
 
 **GM Intrusions:** A demon investigates divine magic use. A rival cult has issues with the character’s teachings.
 
+-----
+
 ### Commands Mental Powers
 
 You can pull images from dreams and bring them to life in the waking world.
@@ -266,6 +286,8 @@ You can pull images from dreams and bring them to life in the waking world.
 * Tier 6: Mind Control or Telepathic Network
 
 **GM Intrusions:** Something glimpsed in the target’s mind is horrifying. A feedback loop allows the target to read the character’s mind.
+
+-----
 
 ### Conducts Weird Science
 
@@ -283,6 +305,8 @@ Your preternatural insight and ability make you a scientist capable of amazing f
 
 **GM Intrusions:** Creations get out of control. Side effects cannot always be predicted. Weird science terrifies people and can draw the media. When a device created or modified by weird science is depleted, it detonates.
 
+-----
+
 ### Consorts With the Dead
 
 The dead answer your questions, and their reanimated corpses serve you.
@@ -295,6 +319,8 @@ The dead answer your questions, and their reanimated corpses serve you.
 * Tier 6: True Necromancy or Word of Death
 
 **GM Intrusions:** The character’s necromantic reputation precedes them. A corpse seeks revenge for being reanimated.
+
+-----
 
 ### Controls Beasts
 
@@ -311,6 +337,8 @@ Your ability to communicate and lead beasts is uncanny.
 
 **GM Intrusions:** The community is reluctant to welcome dangerous animals. Out-of-control beasts become a real hazard.
 
+-----
+
 ### Controls Gravity
 
 You can sway the attraction of gravity itself.
@@ -326,6 +354,8 @@ You can sway the attraction of gravity itself.
 
 **GM Intrusions:** Onlookers react with unreasoning fear. A weird interaction sends an ally or object careening into the sky.
 
+-----
+
 ### Crafts Illusions
 
 You fashion images from light that are so perfect they seem real.
@@ -338,6 +368,8 @@ You fashion images from light that are so perfect they seem real.
 * Tier 6: Grandiose Illusion or Permanent Illusion
 
 **GM Intrusions:** The illusion isn’t believable. The illusion is pierced at just the wrong moment.
+
+-----
 
 ### Crafts Unique Objects
 
@@ -358,6 +390,8 @@ You’re an inventor of strange and useful objects.
 Cyphersmith works only in a setting where the cyphers are physical objects. If this isn’t the case, this ability should probably be replaced with something akin to Weird Science Breakthrough from the Conducts Weird Science focus.
 {{< /hint >}}
 
+-----
+
 ### Dances With Dark Matter
 
 You can manipulate shadow and “dark” matter.
@@ -370,6 +404,8 @@ You can manipulate shadow and “dark” matter.
 * Tier 6: Dark Matter Structure or Embrace the Night
 
 **GM Intrusions:** Dark matter skulks away as if possessed by a mind of its own.
+
+-----
 
 ### Defends the Gate
 
@@ -384,6 +420,8 @@ Everyone wants you on their side when it comes to a fight because nothing gets b
 * Tier 6: Generate Force Field or Stun Attack
 
 **GM Intrusions:** A strategically important structure collapses. The enemy attacks from an unexpected direction.
+
+-----
 
 ### Defends the Weak
 
@@ -400,6 +438,8 @@ You stand up for the helpless, the weak, and the unprotected.
 
 **GM Intrusions:** A character focused on protecting others may periodically leave themselves vulnerable to attacks.
 
+-----
+
 ### Descends From Nobility
 
 A descendent of wealth and power, you carry a noble title and the abilities granted by a privileged upbringing.
@@ -415,6 +455,8 @@ A descendent of wealth and power, you carry a noble title and the abilities gran
 
 **GM Intrusions:** Debts incurred by a family are owed by the character. A long-lost sibling seeks to disinherit rivals. An assassin finds the character.
 
+-----
+
 ### Doesn’t Do Much
 
 You’re a slacker, but you know a little about a lot of things.
@@ -428,6 +470,8 @@ You’re a slacker, but you know a little about a lot of things.
 * Tier 6 Drawing on Life’s Experiences or Quick Wits
 
 **GM Intrusions:** New situations are confounding and stressful. Past actions (or inactions) come back to haunt the character.
+
+-----
 
 ### Drives Like A Maniac
 
@@ -447,6 +491,8 @@ Whether balancing on two wheels, jumping another vehicle, or driving head-on tow
 
 **GM Intrusions:** The engine develops a knock. The bridge on the road ahead is out. The windshield shatters. Someone unexpectedly runs in front of the vehicle.
 
+-----
+
 ### Emerged From the Obelisk
 
 Your body, hard as crystal, gives you a suite of unique abilities, gained after an interaction with a floating crystalline obelisk.
@@ -459,6 +505,8 @@ Your body, hard as crystal, gives you a suite of unique abilities, gained after 
 * Tier 6: Resonant Quake or Return to the Obelisk
 
 **GM Intrusions:** Cyphers and artifacts react unexpectedly in the character’s hands.
+
+-----
 
 ### Employs Magnetism
 
@@ -473,6 +521,8 @@ You command metal and the power of magnetism.
 
 **GM Intrusions:** The metal twists, bends, or produces shrapnel. A lapse in concentration might cause something to slip or drop at just the wrong time.
 
+-----
+
 ### Entertains
 
 You perform, mostly for the benefit of others.
@@ -485,6 +535,8 @@ You perform, mostly for the benefit of others.
 * Tier 6: Master Entertainer or Vindictive Performance
 
 **GM Intrusions:** The audience is annoyed or offended. Musical instruments break. Paints dry in their pots. The words to a poem or song are forgotten.
+
+-----
 
 ### Exists in Two Places at Once
 
@@ -499,6 +551,8 @@ You exist in two places at once.
 
 **GM Intrusions:** Perceiving the world from two different places disorients the character, causing momentary vertigo, nausea, or confusion.
 
+-----
+
 ### Exists Partially Out of Phase
 
 A bit translucent, you’re slightly out of phase and can move through solid objects.
@@ -511,6 +565,8 @@ A bit translucent, you’re slightly out of phase and can move through solid obj
 * Tier 6: Enhanced Phased Attack or Phase Foe
 
 **GM Intrusions:** The character is sent phasing into an unexpected dimension. The character becomes lost in a large solid.
+
+-----
 
 ### Explores Dark Places
 
@@ -525,6 +581,8 @@ You’re the archetypal treasure hunter, scavenger, and finder of lost things.
 * Tier 6: Blinding Attack or Embraced by Darkness
 
 **GM Intrusions:** Possessions fall out of pockets or bags in the dark; maps get lost; information gained fails to include an important detail.
+
+-----
 
 ### Fights Dirty
 
@@ -542,6 +600,8 @@ You’ll do anything to win a fight: bite, scratch, kick, trick, and worse.
 
 **GM Intrusions:** People look poorly upon those who cheat or fight without honor. Sometimes a dirty trick backfires.
 
+-----
+
 ### Fights With Panache
 
 You’re a swashbuckling daredevil who fights with flamboyant style that’s entertaining to watch.
@@ -555,6 +615,8 @@ You’re a swashbuckling daredevil who fights with flamboyant style that’s ent
 * Tier 6: Agile Wit or Return to Sender
 
 **GM Intrusions:** The display comes off looking silly, clumsy, or unattractive.
+
+-----
 
 ### Flies Faster Than a Bullet
 
@@ -570,6 +632,8 @@ You can fly, and you’re superstrong, hard to hurt, and fast too. Is there anyt
 
 **GM Intrusions:** A nemesis finds the character. A strange material is found to nullify the character’s abilities.
 
+-----
+
 ### Focuses Mind Over Matter
 
 You can telekinetically move objects with your mind without physically touching them.
@@ -583,6 +647,8 @@ You can telekinetically move objects with your mind without physically touching 
 
 **GM Intrusions:** One mental slip, and moving objects drop or fragile objects break. Sometimes the wrong item moves, falls, or breaks.
 
+-----
+
 ### Fuses Flesh and Steel
 
 Your body is part machine.
@@ -595,6 +661,8 @@ Your body is part machine.
 * Tier 6: Mind Surge or Ultra Enhancement
 
 **GM Intrusions:** People in most societies are afraid of someone who is revealed to have mechanical parts.
+
+-----
 
 ### Fuses Mind and Machine
 
@@ -611,6 +679,8 @@ Electronic aids implanted in your brain make you a mental powerhouse.
 
 **GM Intrusions:** Machines malfunction and shut down. Powerful machine intelligences can take control of lesser thinking machines. Some people don’t trust a person who isn’t fully organic.
 
+-----
+
 ### Grows to Towering Heights
 
 For brief periods, you can grow larger and, with enough experience, to towering heights.
@@ -625,6 +695,8 @@ For brief periods, you can grow larger and, with enough experience, to towering 
 * Tier 6: Colossal or Lethal Damage
 
 **GM Intrusions:** Rapid growth knocks over furnishings or smashes through ceilings or hanging lights. An enlarged character breaks through the floor.
+
+-----
 
 ### Helps Their Friends
 
@@ -643,6 +715,8 @@ You love your friends and help them out of any difficulty, no matter what.
 
 **GM Intrusions:** Others sometimes have ulterior motives. The law takes an undue interest. Even when everything goes right, repercussions follow.
 
+-----
+
 ### Howls at the Moon
 
 For brief periods, you become a fearsome and powerful creature with control issues.
@@ -655,6 +729,8 @@ For brief periods, you become a fearsome and powerful creature with control issu
 * Tier 6: Lethal Damage or Perfect Control
 
 **GM Intrusions:** The change happens in an uncontrolled fashion. People are terrified of monsters.
+
+-----
 
 ### Hunts
 
@@ -671,6 +747,8 @@ You are a stalking hunter who excels at bringing down your selected quarry.
 
 **GM Intrusions:** The quarry notices the character. The quarry isn’t as vulnerable as it seemed.
 
+-----
+
 ### Infiltrates
 
 Subtlety, guile, and stealth allow you to get in where others can’t.
@@ -686,6 +764,8 @@ Subtlety, guile, and stealth allow you to get in where others can’t.
 
 **GM Intrusions:** Spies are treated harshly when caught. Allies disavow infiltrators who get caught. Some secrets are better left unknown.
 
+-----
+
 ### Interprets the Law
 
 You excel at winning others over to your views.
@@ -699,6 +779,8 @@ You excel at winning others over to your views.
 * Tier 6: Greater Enhanced Potential or Legal Intern
 
 **GM Intrusions:** Onlookers react badly to a know-it-all. A distraction or interruption throws the character’s argument off the rails.
+
+-----
 
 ### Is Idolized by Millions
 
@@ -714,6 +796,8 @@ You’re a celebrity and most people adore you.
 * Tier 6: Transcend the Script or Improved Companion
 
 **GM Intrusions:** Fans are endangered or hurt on your behalf. Someone in your entourage betrays you. Your show, tour, contract, or other event is canceled. The media posts photos of you in an embarrassing situation.
+
+-----
 
 ### Is Licensed to Carry
 
@@ -733,6 +817,8 @@ Although Is Licensed to Carry is designed with modern firearms in mind, it could
 
 **GM Intrusions:** Misfire or jam! The attack fails and the action is lost, plus an additional action is needed to fix the problem.
 
+-----
+
 ### Is Wanted by the Law
 
 “WANTED, DEAD OR ALIVE” posters (or their equivalent) have appeared featuring your face. It’s up to you whether it’s a mistake that snowballed out of control or you actually would kill someone just for looking at you.
@@ -746,6 +832,8 @@ Although Is Licensed to Carry is designed with modern firearms in mind, it could
 * Tier 6: Not Dead Yet or Lethal Damage
 
 **GM Intrusions:** Most people do not take well to discovering a wanted outlaw in their midst.
+
+-----
 
 ### Keeps a Magic Ally
 
@@ -761,6 +849,8 @@ An allied magic creature bound to an object (such as a minor djinn in a lamp, or
 
 **GM Intrusions:** The creature unexpectedly disappears into its bound object. The bound object cracks. The creature disagrees and doesn’t do as asked. The creature says it’s leaving unless a task is performed for it.
 
+-----
+
 ### Leads
 
 Your natural leadership capability allows you to command others, including a loyal band of followers.
@@ -775,6 +865,8 @@ Your natural leadership capability allows you to command others, including a loy
 * Tier 6: Band of Followers or Mind of a Leader
 
 **GM Intrusions:** Followers fail, betray, lie, become corrupted, get kidnapped, or die.
+
+-----
 
 ### Learns Quickly
 
@@ -792,6 +884,8 @@ You deal with bad situations as they arise, learning new lessons each time.
 
 **GM Intrusions:** Accidents and mistakes are great teachers.
 
+-----
+
 ### Lives in the Wilderness
 
 You can survive in badlands where others perish.
@@ -807,6 +901,8 @@ You can survive in badlands where others perish.
 
 **GM Intrusions:** People in cities and towns sometimes disparage those who look (and smell) like they live in the wilds, as if they were ignorant or barbaric.
 
+-----
+
 ### Looks for Trouble
 
 You’re a scrapper and love a good fight.
@@ -821,6 +917,8 @@ You’re a scrapper and love a good fight.
 * Tier 6: Greater Enhanced Might or Lethal Damage
 
 **GM Intrusions:** Weapons break or fly from even the strongest grip. Brawlers trip and fall. Even the battlefield can work against you with things falling or collapsing.
+
+-----
 
 ### Loves the Void
 
@@ -840,6 +938,8 @@ When it’s just you, your spacesuit, and the panorama of stars wheeling out for
 
 **GM Intrusions:** Spacesuits develop glitches. Air refill cartridges sometimes misreport capacity. Micrometeorites are common in space.
 
+-----
+
 ### Masters Defense
 
 You use protective equipment and practiced techniques to avoid becoming hurt in a fight.
@@ -855,6 +955,8 @@ You use protective equipment and practiced techniques to avoid becoming hurt in 
 
 **GM Intrusions:** Shields break when hit, as do weapons used to parry. Armor straps break.
 
+-----
+
 ### Masters Spells
 
 By specializing in spellcasting and keeping a spellbook, you can quickly cast spells of arcing lightning, rolling fire, creeping shadow, and summoning.
@@ -868,6 +970,8 @@ By specializing in spellcasting and keeping a spellbook, you can quickly cast sp
 
 **GM Intrusions:** The spell goes wrong. The summoned creature turns on the caster. A rival spellcaster is drawn to the magic use.
 
+-----
+
 ### Masters the Swarm
 
 Insects. Rats. Bats. Even birds. You master one type of small creature that obeys you.
@@ -880,6 +984,8 @@ Insects. Rats. Bats. Even birds. You master one type of small creature that obey
 * Tier 6: Deadly Swarm or Skill With Defense
 
 **GM Intrusions:** A command is misunderstood. Control is erratic or is lost. Bites and stings are not uncommon for masters of the swarm.
+
+-----
 
 ### Masters Weaponry
 
@@ -897,6 +1003,8 @@ You are a master user of a particular type of weapon, be it a sword, whip, dagge
 
 **GM Intrusions:** Weapons break. Weapons can be stolen. Weapons can be dropped or forced out of your hand.
 
+-----
+
 ### Metes Out Justice
 
 You right wrongs, protect the innocent, and punish the guilty.
@@ -912,6 +1020,8 @@ You right wrongs, protect the innocent, and punish the guilty.
 * Tier 6: Damn the Guilty or Inspire the Innocent
 
 **GM Intrusions:** Guilt or innocence can be complicated. Some people resent the presumption of a self-appointed judge. Passing judgment makes enemies.
+
+-----
 
 ### Moves Like a Cat
 
@@ -929,6 +1039,8 @@ Lithe, flexible, and graceful, you move quickly and smoothly, and never seem to 
 
 **GM Intrusions:** Even a cat can be clumsy. A jump isn’t quite as easy as it looks. An escape move is so overzealous that it sends the character right into harm’s way.
 
+-----
+
 ### Moves Like the Wind
 
 You can move so fast that you become a blur.
@@ -942,6 +1054,8 @@ You can move so fast that you become a blur.
 * Tier 6: Perfect Speed Burst or Incredible Running Speed
 
 **GM Intrusions:** Surfaces can be slick or offer hidden obstacles. The movement of other creatures can be unpredictable, and the character might run into them.
+
+-----
 
 ### Murders
 
@@ -958,6 +1072,8 @@ You’re an assassin, whether by trade, by inclination, or because it was that o
 
 **GM Intrusions:** Most people do not react well to a professional killer.
 
+-----
+
 ### Needs No Weapon
 
 Powerful punches, kicks, elbows, knees, and full body movements are all the weapons you need.
@@ -973,6 +1089,8 @@ Powerful punches, kicks, elbows, knees, and full body movements are all the weap
 
 **GM Intrusions:** Striking certain foes hurts you as much as it hurts them. Opponents with weapons have greater reach. Complicated martial arts moves can knock you off balance.
 
+-----
+
 ### Never Says Die
 
 You never quit, can shrug off a beating, and always come back for more.
@@ -986,6 +1104,8 @@ You never quit, can shrug off a beating, and always come back for more.
 * Tier 6: Final Defiance or Ignore Affliction
 
 **GM Intrusions:** Sometimes, it’s equipment or weapons that give out.
+
+-----
 
 ### Operates Undercover
 
@@ -1002,6 +1122,8 @@ Under the guise of someone else, you seek to find answers the powerful do not wa
 
 **GM Intrusions:** Bad luck can ruin the best plans. Disguises fail. Allies are revealed to be agents, too.
 
+-----
+
 ### Performs Feats of Strength
 
 A muscled prodigy, you can haul incredible weight, hurl your body through the air, and punch through doors.
@@ -1015,6 +1137,8 @@ A muscled prodigy, you can haul incredible weight, hurl your body through the ai
 * Tier 6: Greater Enhanced Might or Jump Attack
 
 **GM Intrusions:** It’s easy to break delicate things or hurt someone accidentally.
+
+-----
 
 ### Pilots Starcraft
 
@@ -1034,6 +1158,8 @@ You’re a crack starship pilot.
 
 **GM Intrusions:** Starcraft get lost, break down, and are attacked in space. An alien stowaway is found.
 
+-----
+
 ### Plays Too Many Games
 
 Lessons, reflexes, and strategies you’ve learned by playing too many games have applications in the real world, where people who don’t play enough toil and live their dreary lives.
@@ -1050,6 +1176,8 @@ Lessons, reflexes, and strategies you’ve learned by playing too many games hav
 
 **GM Intrusions:** Missed attacks strike the wrong target. Equipment breaks. Sometimes people react negatively to someone who has lived most of their life in imaginary game worlds.
 
+-----
+
 ### Rages
 
 When you go berserk, everyone fears you.
@@ -1063,6 +1191,8 @@ When you go berserk, everyone fears you.
 * Tier 6: Greater Enhanced Potential or Lethal Damage
 
 **GM Intrusions:** It’s easy for a berserker to lose control and attack friend as well as foe.
+
+-----
 
 ### Rides the Lightning
 
@@ -1078,6 +1208,8 @@ You create and discharge electrical power.
 
 **GM Intrusions:** Targets other than those intended are shocked. Objects explode.
 
+-----
+
 ### Runs Away
 
 Your first instinct is to run from danger, and you’ve gotten very good at it.
@@ -1092,6 +1224,8 @@ Your first instinct is to run from danger, and you’ve gotten very good at it.
 * Tier 6: Burst of Escape or Skill With Defense
 
 **GM Intrusions:** Quick movements sometimes lead to dropped items, slipping on uneven ground, or going the wrong way by accident.
+
+-----
 
 ### Sailed Beneath the Jolly Roger
 
@@ -1109,6 +1243,8 @@ You sailed with a crew of dread pirates, but you’ve decided to end your days a
 
 **GM Intrusions:** The dangers of the high seas are many, including severe storms and disease. Other pirates sometimes get ahead through betrayal. A pirate tracks down former sailing mates to find hidden treasure.
 
+-----
+
 ### Scavenges
 
 When not running and hiding, you sift the ruins of civilization for useful remnants to ensure your survival.
@@ -1123,6 +1259,8 @@ When not running and hiding, you sift the ruins of civilization for useful remna
 
 **GM Intrusions:** An item made with recycled junk breaks. Someone shows up claiming that the useful item or piece of junk scavenged belongs to them. A recycled cypher explodes.
 
+-----
+
 ### Sees Beyond
 
 You have a psychic sense that allows you to see what others cannot.
@@ -1135,6 +1273,8 @@ You have a psychic sense that allows you to see what others cannot.
 * Tier 6: Mental Projection or Total Awareness
 
 **GM Intrusions:** Some secrets are too terrible to know.
+
+-----
 
 ### Separates Mind From Body  
 
@@ -1150,6 +1290,8 @@ You can project your mind out of your body to see faraway places and learn secre
 
 **GM Intrusions:** Reuniting mind and body can sometimes be disorienting and require a character to spend a few moments to get their bearings.
 
+-----
+
 ### Shepherds the Community
 
 You keep the place where you live safe from all danger.
@@ -1163,6 +1305,8 @@ You keep the place where you live safe from all danger.
 * Tier 6: Greater Skill With Attacks or Protective Wall
 
 **GM Intrusions:** People in the community misunderstand the character’s motives. Rivals try to oust the character.
+
+-----
 
 ### Shepherds Spirits
 
@@ -1179,6 +1323,8 @@ Wandering souls, nature spirits, and elemental beings aid and support you.
 
 **GM Intrusions:** Some people don’t trust those who deal with spirits. The dead sometimes don’t want shepherding.
 
+-----
+
 ### Shreds the Walls of the World
 
 Speed plus phasing gives you a unique ability to evade danger and simultaneously inflict damage.
@@ -1192,6 +1338,8 @@ Speed plus phasing gives you a unique ability to evade danger and simultaneously
 * Tier 6: Shred Existence or Untouchable While Moving
 
 **GM Intrusions:** Moving so quickly while sprinting sometimes leads to stumbles on unexpected, exotic obstacles.
+
+-----
 
 ### Siphons Power
 
@@ -1209,6 +1357,8 @@ Robots and other living machines should be treated as creatures, not machines, f
 * Tier 6: Explosive Release or Sun Siphon
 
 **GM Intrusions:** Drained power also transmits something unwanted—compulsions, afflictions, or alien thoughts. Siphoned power can overload the character, causing feedback.
+
+-----
 
 ### Slays Monsters
 
@@ -1230,6 +1380,8 @@ Although wielding a sword in a setting where people usually do not carry such we
 
 **GM Intrusions:** The monster laid a trap or set an ambush. The monster has previously undisclosed abilities. The monster’s mother vows revenge.
 
+-----
+
 ### Solves Mysteries
 
 You’re a master of deduction, using evidence to find the answer.
@@ -1244,6 +1396,8 @@ You’re a master of deduction, using evidence to find the answer.
 
 **GM Intrusions:** Evidence disappears, red herrings confuse, and witnesses lie. Initial research can be faulty.
 
+-----
+
 ### Speaks for the Land
 
 Your spiritual connection to nature and the environment grants you mystical abilities.
@@ -1257,6 +1411,8 @@ Your spiritual connection to nature and the environment grants you mystical abil
 * Tier 6: Call the Storm or Earthquake
 
 **GM Intrusions:** An injured natural (but dangerous) creature is discovered. Someone’s poaching wildlife for their skins, leaving the carcasses to rot. A tree falls in the forest, one of the last elder trees.
+
+-----
 
 ### Stands Like a Bastion
 
@@ -1278,6 +1434,8 @@ Some characters who Stand Like a Bastion might already be experts in armor. They
 
 **GM Intrusions:** Armor is damaged. Small foes conspire in ingenious ways.
 
+-----
+
 ### Takes Animal Shape
 
 A shapechanger who can take the form of various animals.
@@ -1291,6 +1449,8 @@ A shapechanger who can take the form of various animals.
 * Tier 6: Blurring Speed or Lend Animal Shape
 
 **GM Intrusions:** The character unexpectedly changes form. An NPC is frightened by or aggressive toward the shapeshifter. The transformation takes longer than expected.
+
+-----
 
 ### Talks to Machines
 
@@ -1308,6 +1468,8 @@ You use your organic brain like a computer, interfacing “wirelessly” with an
 
 **GM Intrusions:** The machine malfunctions or acts unpredictably.
 
+-----
+
 ### Throws With Deadly Accuracy
 
 Everything that leaves your hand goes exactly where you’d like it to go and at the range and speed to make the perfect impact.
@@ -1322,6 +1484,8 @@ Everything that leaves your hand goes exactly where you’d like it to go and at
 
 **GM Intrusions:** Missed attacks strike the wrong target. Ricochets can be dangerous. Improvised weapons break.
 
+-----
+
 ### Thunders
 
 You emit destructive sound and manipulate soundscapes.
@@ -1335,6 +1499,8 @@ You emit destructive sound and manipulate soundscapes.
 * Tier 6: Earthquake or Lethal Vibration
 
 **GM Intrusions:** Loud noises attract attention.
+
+-----
 
 ### Travels Through Time
 
@@ -1353,6 +1519,8 @@ Although all character choices are subject to GM approval, Travels Through Time 
 
 **GM Intrusions:** Paradoxes are created. Others remember past events differently.
 
+-----
+
 ### Uses Wild Magic
 
 Spellcaster who learns a variety of spells instead of focusing on just one kind of magic.
@@ -1367,6 +1535,8 @@ Spellcaster who learns a variety of spells instead of focusing on just one kind 
 
 **GM Intrusions:** A spell performs erratically or rebounds upon the caster. Something interferes with preparing spells. Spellcasting attracts the attention of a powerful creature or potential rival. The cypher spell being cast is replaced with that of a random cypher.
 
+-----
+
 ### Walks The Wild Woods
 
 An adherent of nature magic who draws on the power and strength of trees.
@@ -1380,6 +1550,8 @@ An adherent of nature magic who draws on the power and strength of trees.
 * Tier 6: Dreadwood or Restorative Bloom
 
 **GM Intrusions:** A wooden character catches fire. A wild swing from a tree branch hits or trips an ally. Some trees have evil hearts and hate all walking things.
+
+-----
 
 ### Was Foretold
 
@@ -1396,6 +1568,8 @@ You are the “chosen one,” and prophecy, prediction, prognostication, or some
 
 **GM Intrusions:** An enemy described in prophecy appears. Unbelievers threaten to ruin the moment. The character gains a reputation in outside circles as a fraud.
 
+-----
+
 ### Wears a Sheen of Ice
 
 You command the wintery power of cold and ice.
@@ -1409,6 +1583,8 @@ You command the wintery power of cold and ice.
 
 **GM Intrusions:** Ice makes surfaces slippery. Extreme cold causes objects to crack and break.
 
+-----
+
 ### Wears Power Armor
 
 * Tier 1: Powered Armor
@@ -1421,6 +1597,8 @@ You command the wintery power of cold and ice.
 * Tier 6: Masterful Armor Modification (Jet Assisted Flight) or Masterful Armor Modification (Cypher Pod)
 
 **GM Intrusions:** The armor won’t come off. The armor acts under its own power. The armor suffers a momentary power loss. NPCs are scared by the power armor.
+
+-----
 
 ### Weilds An Enchanted Weapon
 
@@ -1437,6 +1615,8 @@ One who channels magic through or from a weapon to create a unique fighting styl
 
 **GM Intrusions:** A weapon breaks or is dropped. The weapon loses its connection to you until you use an action to reestablish the attunement. The weapon’s energy discharges in an unexpected way.
 
+-----
+
 ### Wields Two Weapons at Once
 
 You bear steel with both hands, ready to take on any foe.
@@ -1450,6 +1630,8 @@ You bear steel with both hands, ready to take on any foe.
 * Tier 6: Disarming Attack or Spin Attack
 
 **GM Intrusions:** A blade snaps in two or a weapon flies loose from its bearer’s grip.
+
+-----
 
 ### Works for a Living
 
@@ -1465,6 +1647,8 @@ You take great satisfaction in a job well done, whether it’s coding, building 
 
 **GM Intrusions:** Repairs sometimes fail. Wiring can be tricky to decipher and still carry an electrical charge. Some people are rude to those who work for a living.
 
+-----
+
 ### Works Miracles
 
 You can heal others with a touch, alter time to help others, and are generally beloved by everyone.
@@ -1477,6 +1661,8 @@ You can heal others with a touch, alter time to help others, and are generally b
 * Tier 6: Greater Healing Touch or Restore Life
 
 **GM Intrusions:** Attempts to heal might cause harm instead. A community or individual needs a healer so desperately that they hold one against their will.
+
+-----
 
 ### Works the Back Alleys
 
@@ -1491,6 +1677,8 @@ You make your way unseen, stealing from the wealthy to achieve your ends.
 
 **GM Intrusions:** Thieves are thrown in jail. Powerful enemies are made.
 
+-----
+
 ### Works the System
 
 You can exploit flaws in artificial systems, including but not limited to computer code.
@@ -1504,6 +1692,8 @@ You can exploit flaws in artificial systems, including but not limited to comput
 * Tier 6: Call in Favor or Greater Enhanced Potential
 
 **GM Intrusions:** Contacts sometimes have ulterior motives. Devices sometimes have failsafes or even traps.
+
+-----
 
 ### Would Rather Be Reading
 
@@ -1552,6 +1742,8 @@ Low-tier abilities are best suited for focus options at tiers 1 and 2. Mid-tier 
 
 That said, sometimes you’ll find it appropriate to assign a low-tier ability at tier 3 or 4, or maybe a mid-tier ability at tier 1 or 2. Do so sparingly, but don’t rule it out. It might be the only way to get all the abilities you want for the focus you’re building. Higher-tier abilities usually cost more Pool points to use. So if a mid-tier ability is made available at tier 1 or 2, or a high-tier ability is made available at tier 3 or 4, the higher cost will be a balancing factor.
 
+-----
+
 ### Balancing Abilities
 
 The guidelines within each category go a long way toward ensuring that the focus you build will be balanced. Sometimes it might be appropriate to grant a low-power ability along with a regular ability at a given tier, depending on the needs of the focus. A “low-power ability” is deliberately open for GM interpretation, but generally speaking, should be no more potent than a low-tier ability (that is, an ability that is normally available at tier 1 or 2).
@@ -1561,15 +1753,21 @@ For instance, someone who uses cold might be able to create small snow sculpture
 Often, the focus guidelines note this as a possibility. However, you have great leeway in deciding if a focus needs an additional ability, even if the guidelines for that tier don’t indicate one. If you do add an ability, or there is a  
 higher-power ability at a tier that normally shouldn’t have it, it might mean that the choice given at the next tier, or the previous tier, isn’t quite as good. Balancing a focus is a bit of an art. Resist the urge to overpower the focus, but don’t underpower it, either.
 
+-----
+
 ### Ability Guidelines Are Not Perscriptive
 
 Each focus category provides a guideline for what kind of ability you should select at every tier. But don’t regard the guidelines as something that you can’t vary. They’re not prescriptive; they’re just a place to start. You might want to vary the kind of ability at a particular tier that isn’t indicated in the guidelines. As long as the chosen ability falls within the expected power curve for that tier, it’s fine. The guideline isn’t meant to be a straitjacket.
 
 For example, if you’re building a cold-using focus for a game set in a fantasy genre, you may decide that an ability that calls up a demon is a better choice at a particular tier than an ability that does damage in an area, which is what the tier 5 guideline for energy manipulation calls for. Making the change is probably especially valid if you call your new focus something like Channels the Ninth Circle.
 
+-----
+
 ### Ability Swap
 
 If you’re creating a focus and you think it should provide a suite of abilities at first tier that would mechanically overload it, you have the option to add one as a “swap” ability. Doing so is as easy as allowing a character to swap out one of their type abilities for an indicated low-tier focus ability. The ability is gained instead of one of the abilities normally granted by the character’s type.
+
+-----
 
 ### Concept And Category
 
@@ -1582,6 +1780,8 @@ Here’s another example: the focus Controls Gravity could conceivably be an env
 The same malleability of concept holds true in other realms. For instance, if someone is able to call up and mold raw earth, they might use it to transform themselves into a being of stone (tank combat), to batter foes (striker combat), or to create walls, barricades, and shields to protect their allies (support).
 
 If you’re looking for an ability and can’t seem to find the right one in the vast catalog in the Abilities chapter, consider reskinning one to make it seem new (and to accomplish what you need). Reskinning means that you use the underlying mechanics of an ability as written but change the flavor in some fashion. For instance, maybe you’re creating a new earth-moving focus but can’t find enough earth-related abilities to meet your need. It’s easy enough to change up other abilities so they use earth instead of fire, cold, or magnetism. For instance, Wings of Fire might become Wings of Earth, Ice Armor could become Earth Armor, and so on. These alterations change nothing except the type of damage and any knock-on effects (for instance, Wings of Earth might generate clouds of dust in their wake).
+
+-----
 
 ### Abilities That Reference Other Abilities
 
@@ -1600,6 +1800,8 @@ As a good rule of thumb, a typical ability should cost points equal to its tier.
 Think about the kinds of things that might surprise, alarm, or go catastrophically wrong for someone with the new focus being created, and assign it as a GM intrusion for that focus. Of course, this often is done on the fly during the game. But giving the topic some thought while the focus is being constructed and the ideas are fresh in your head is likely to yield some particularly devilish options.
 
 ## Focus Categories -
+
+-----
 
 ### Ally Use
 
@@ -1652,6 +1854,8 @@ Another high-tier option could provide a handful of level 3 followers to the cha
 
 The last high-tier ability could open a new front in influencing and calling NPC allies related to the focus’s theme. For instance, someone who gains followers through high charisma and training might gain an ability to learn otherwise impossible-to-glean information.
 
+-----
+
 ### Basic
 
 Foci that rely mostly on providing skill training, assets to tasks, and bumps to stat Pools and Edge in order to improve a character fall within the basic category. An overarching theme is also included, as with most of the other categories, that makes sense of the various basic abilities provided.
@@ -1699,6 +1903,8 @@ One option should be an ability that provides another 5 or 6 points to a particu
 
 The other tier 6 option should give the character a brand-new ability within their theme, but not one that strays into the realm of the fantastic. For instance, an ability that allows a character to take two actions instead of one would be reasonable. Granting additional training, assets, or Edge would also be fine.
 
+-----
+
 ### Energy Manipulation
 
 Energy manipulation foci offer abilities that can call fire, electricity, force, magnetism, or nonstandard forms of energy such as cold, stone, or something stranger like “void” or “shadow.” These abilities usually give a character a way to achieve something of a balance between attacking enemies and granting themselves or allies additional protection. The focus usually also offers abilities that provide other ways to use specific energy for things like transportation, creating large concentrations of energy that can affect multiple targets, or creating a temporary object or barrier of energy.
@@ -1742,6 +1948,8 @@ The other should grant enhanced movement by use of the appropriate energy type, 
 One of the high-tier abilities should use the preferred energy to inflict a lot of damage to a single target or to several.
 
 The other option should use the appropriate energy type to accomplish a task not previously provided by lower-tier abilities, such as fashioning a fiery follower (if using fire), teleporting a great distance as a blast of lightning (if using electricity), creating solid objects out of the energy, and so on.
+
+-----
 
 ### Environment Manipulation
 
@@ -1793,6 +2001,8 @@ One of the abilities should provide either an offensive or a defensive ability, 
 
 The other option should be something that further explores the use of the basic environment manipulation capability. If the tier 5 choice was the penultimate ability, this might be an even better ultimate ability related to the kind of manipulation offered, or a different way of using that ability to unlock an as-yet-unexplored facet of the ability.
 
+-----
+
 ### Exploration
 
 Foci that allow a character to gather information, survive in unfamiliar environments, and find their way to new locations or track down particular creatures and foes are exploration foci. Surviving in unfamiliar environments requires a reasonable selection of defensive options; however, abilities that allow a character to find and learn are prioritized.
@@ -1839,6 +2049,8 @@ The other option should be something that benefits the character, either an offe
 One option should further improve the basic exploration-themed ability previously granted, or give a brand-new exploratory, survival, or information-gathering ability.
 
 The other option should be something that benefits the character, either an offensive or defensive ability, or yet another ability that further broadens their capacity to explore in the focus’s chosen realm.
+
+-----
 
 ### Influence
 
@@ -1887,6 +2099,8 @@ One of the options should provide either an offensive or a defensive ability, op
 
 The other option should be something that further explores the use of the basic influence ability provided by the focus. If the tier 5 choice was the penultimate ability, this might be an even better ultimate ability related to the kind of influence used, or a different way of using that ability to unlock an as-yet-unexplored facet of the ability.
 
+-----
+
 ### Irregular
 
 Most foci have a basic theme, a “character story” that logically leads to a series of related abilities. However, certain foci themes are so wide that they don’t fit into any other category except an irregular one of their own.
@@ -1931,6 +2145,8 @@ The other option should include a method of attack if none has previously been g
 One option should grant one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier tiers. However, this ability might also provide an ultimate version of a lower-tier ability if a mid-tier or low-tier option wasn’t quite sufficient.
 
 The other option should provide an alternate method to round out the character in a way that doesn’t replicate the first tier 6 option. For instance, if the first option provided some kind of attack, this one might be an interaction, information-gathering, or healing ability, depending on the focus’s overarching theme.
+
+-----
 
 ### Movement Expertise
 
@@ -1979,6 +2195,8 @@ One of the options should provide either an offensive or a defensive ability, op
 
 The other option should be something that further explores the use of the basic  
 movement ability. If the tier 5 choice was the penultimate ability, this might be an even better ultimate ability related to the movement.
+
+-----
 
 ### Striker Combat
 
@@ -2036,6 +2254,8 @@ One of the options should use the focus paradigm to inflict an exceptional amoun
 
 The other option could be a different way of inflicting damage, either using the focus paradigm or just dealing lots of damage in general (and relying on previous focus tier abilities to improve targeting). This could be against multiple targets if the first option was for a single target, to outright kill or neutralize a target (starting with level 4, but with guidance for using Effort to increase the level of the target), or to select yet another foe, make another attack, or get away in order to fight another day.
 
+-----
+
 ### Support
 
 Foci that allow a character to help others succeed, defend others, heal others who are hurt, and so on are support foci. Of course, most foci abilities are often used in aid of others, but support foci (such as Siphons Power) prioritize aiding, healing, and improving the character who takes the focus.
@@ -2080,6 +2300,8 @@ The other option should be something that benefits the character, either an offe
 One of the options should provide an ultimate method of helping another in the theme of the focus.
 
 The other option could provide an alternative ultimate method of helping another; many foci in this category do. However, an option that provides high-tier offense or defense is also completely reasonable.
+
+-----
 
 ### Tank Combat
 
@@ -2139,10 +2361,14 @@ Sometimes not everything about a focus is right for a character’s concept, or 
 At any tier, a player can select one of the following abilities in place of the ability granted by the tier. Many of these replacement abilities, particularly at the higher tiers, might involve body modification, integration with high-tech  
 devices, learning powerful magic spells, uncovering forbidden secrets, or something similar appropriate to the genre.
 
+-----
+
 ### Tier 1
 
 * Combat Prowess
 * Enhanced Potential
+
+-----
 
 ### Tier 2
 
@@ -2151,11 +2377,15 @@ devices, learning powerful magic spells, uncovering forbidden secrets, or someth
 * Practiced With All Weapons
 * Skill With Attacks
 
+-----
+
 ### Tier 3
 
 * Lower-tier ability: choose any tier 1 or 2 replacement ability, above.
 * Incredible Health
 * Fusion Armor
+
+-----
 
 ### Tier 4
 
@@ -2163,11 +2393,15 @@ devices, learning powerful magic spells, uncovering forbidden secrets, or someth
 * Poison Resistance
 * Built-in Weaponry
 
+-----
+
 ### Tier 5
 
 * Lower-tier ability: choose any tier 1, 2, 3, or 4 replacement ability, above.
 * Adaptation
 * Defensive Field
+
+-----
 
 ### Tier 6
 

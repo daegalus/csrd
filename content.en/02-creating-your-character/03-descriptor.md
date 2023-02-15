@@ -119,6 +119,8 @@ You gain the following characteristics:
 3. You’re nearly certain the PCs will fail without you.
 4. The choice was between your tattered life and helping others. You haven’t looked back since.
 
+-----
+
 ### Brash
 
 You’re a self-assertive sort, confident in your abilities, energetic, and perhaps a bit irreverent toward ideas that you don’t agree with. Some people call you bold and brave, but those you’ve put in their place might call you puffed up and arrogant. Whatever. It’s not in your nature to care what other people think about you, unless those people are your friends or family. Even someone as brash as you knows that friends sometimes have to come first.
@@ -137,6 +139,8 @@ You gain the following characteristics:
 2. You showed up when and where you did on a dare because, hey, you don’t back down from dares.
 3. Someone called you out, but instead of walking into a fight, you walked into your current situation.
 4. You told your friend that nothing could scare you, and nothing you saw would change your mind. They brought you to your current point.
+
+-----
 
 ### Calm
 
@@ -163,6 +167,8 @@ You gain the following characteristics:
 3. While avoiding an entirely different situation, you walked into your current situation.
 4. One of the other PCs dragged you into it.
 
+-----
+
 ### Chaotic
 
 Danger doesn’t mean much to you, mainly because you don’t think much about repercussions. In fact, you enjoy sowing surprises, just to see what will happen. The more unexpected the result, the happier you are. Sometimes you are particularly manic, and for the sake of your companions, you restrain yourself from taking actions that you know will lead to disaster.
@@ -183,6 +189,8 @@ You gain the following characteristics:
 2. You have reason to believe that being with the other PCs will help you gain control over your erratic behavior.
 3. Another PC released you from captivity, and to thank them, you volunteered to help.
 4. You have no idea how you joined the PCs. You’re just going along with it for now until answers present themselves.
+
+-----
 
 ### Charming
 
@@ -211,6 +219,8 @@ You gain the following characteristics:
 3. One of the other PCs did a favor for you, and now you’re repaying that obligation by helping them with the task at hand.
 4. There is a reward involved, and you need the money.
 
+-----
+
 ### Clever
 
 You’re quick-witted, thinking well on your feet. You understand people, so you can fool them but are rarely fooled. Because you easily see things for what they are, you get the lay of the land swiftly, size up threats and allies, and assess situations with accuracy. Perhaps you’re physically attractive, or maybe you use your wit to overcome any physical or mental imperfections.
@@ -235,6 +245,8 @@ You gain the following characteristics:
 2. From afar, you observed that something interesting was going on.
 3. You talked your way into the situation because you thought it might earn some money.
 4. You suspect that the other PCs won’t succeed without you.
+
+-----
 
 ### Clumsy
 
@@ -262,6 +274,8 @@ You gain the following characteristics:
 2. You had a piece of information that the other PCs needed to make their plans.
 3. A sibling recommended you to the other PCs.
 4. You stumbled into the PCs as they were discussing their mission, and they took a liking to you.
+
+-----
 
 ### Craven
 
@@ -294,6 +308,8 @@ You gain the following characteristics:
 3. One of the other PCs bullied you into coming along.
 4. The group answered your cries for help when you were in trouble.
 
+-----
+
 ### Creative
 
 Maybe you have a notebook where you write down ideas so you can develop them later. Perhaps you email yourself ideas that strike you out of the blue so you can sort them in an electronic document. Or maybe you just sit down, stare at your screen and, by indomitable force of will, produce something from nothing. However your gift works, you’re creative—you code, write, compose, sculpt, design, direct, or otherwise create narratives that enthrall other people with your vision.
@@ -318,6 +334,8 @@ You gain the following characteristics:
 2. You’re looking for new markets for the results of your creative output.
 3. You fell in with the wrong crowd, but they grew on you.
 4. A creative life is often one beset with financial hurdles. You joined the PCs because you hoped it would be profitable.
+
+-----
 
 ### Cruel
 
@@ -347,6 +365,8 @@ You gain the following characteristics:
 3. You hope to make another PC’s life more difficult by joining the group.
 4. Joining the PCs gives you an opportunity to escape justice for a crime you committed.
 
+-----
+
 ### Dishonorable
 
 There is no honor among thieves—or betrayers, backstabbers, liars, or cheats. You are all of these things, and either you don’t lose any sleep over it, or you deny the truth to others or to yourself. Regardless, you are willing to do whatever it takes to get your own way. Honor, ethics, and principles are merely words. In your estimation, they have no place in the real world.
@@ -372,6 +392,8 @@ You gain the following characteristics:
 3. One of the other PCs invited you, having no idea of what you’re truly like.
 4. You bullied your way in with intimidation and bluster.
 
+-----
+
 ### Doomed
 
 You are quite certain that your fate is leading you, inextricably, toward a terrible end. This fate might be yours alone, or you might be dragging along the people closest to you.
@@ -395,6 +417,8 @@ You gain the following characteristics:
 3. One of the other PCs saved your life, and now you’re repaying that obligation by helping them with the task at hand.
 4. You suspect that the only hope you have of avoiding your fate might lie on this path.
 
+-----
+
 ### Empathic
 
 Other people are open books to you. You may have a knack for reading a person’s tells, those subtle movements that convey an individual’s mood and disposition. Or you may receive information in a more direct way, feeling a person’s emotions as if they were tangible things, sensations that lightly brush against your mind. Your gift for empathy helps you navigate social situations and control them to avoid misunderstandings and prevent useless conflicts from erupting.
@@ -417,6 +441,8 @@ You gain the following characteristics:
 2. You established a close bond with another PC and can’t bear to be parted from them.
 3. You sensed something strange in one of the PCs and decided to join the group to see if you can sense it again and uncover the truth.
 4. You joined the PCs to escape an unpleasant relationship or negative environment.
+
+-----
 
 ### Exiled
 
@@ -443,6 +469,8 @@ You gain the following characteristics:
 3. One of the other PCs reminds you of someone you used to know.
 4. You have grown weary of your isolation. Joining the other PCs gives you a chance to belong.
 
+-----
+
 ### Fast
 
 You’re fleet of foot. Because you’re quick, you can accomplish tasks more rapidly than others can. You’re not just quick on your feet, however—you’re quick with your hands, and you think and react quickly. You even talk quickly.
@@ -463,6 +491,8 @@ You gain the following characteristics:
 2. One of the other PCs recruited you for your unique talents.
 3. You’re impulsive, and it seemed like a good idea at the time.
 4. This mission ties in with a personal goal of your own.
+
+-----
 
 ### Foolish
 
@@ -491,6 +521,8 @@ You gain the following characteristics:
 3. Your parent (or a parental/mentor figure) got you involved to give you something to do and maybe “teach you some sense.”
 4. The other PCs needed some muscle who wouldn’t overthink things.
 
+-----
+
 ### Graceful
 
 You have a perfect sense of balance, moving and speaking with grace and beauty. You’re quick, lithe, flexible, and dexterous. Your body is perfectly suited to dance, and you use that advantage in combat to dodge blows. You might wear garments that enhance your agile movement and sense of style.
@@ -511,6 +543,8 @@ You gain the following characteristics:
 2. One of the other PCs convinced you that joining the group would be in your best interests.
 3. You’re afraid of what might happen if the other PCs fail.
 4. There is reward involved, and you need the money.
+
+-----
 
 ### Guarded
 
@@ -534,6 +568,8 @@ You gain the following characteristics:
 2. You want to see what the PCs are up to, so you accompany them to catch them in the act of some wrongdoing.
 3. You have made a few enemies and take up with the PCs for protection.
 4. The PCs are the only people who will put up with you.
+
+-----
 
 ### Hardy
 
@@ -562,6 +598,8 @@ You gain the following characteristics:
 3. The PCs offered you a challenge equal to your physical power.
 4. You believe the only way the PCs will succeed is if you are along to protect them.
 
+-----
+
 ### Hideous
 
 You are physically repugnant by almost any human standard. You might have had a serious accident, a harmful mutation, or just poor genetic luck, but you are incontrovertibly ugly.
@@ -585,6 +623,8 @@ You gain the following characteristics:
 3. One of the other PCs invited you, but you wonder if it was out of pity.
 4. You bullied your way in with intimidation and bluster.
 
+-----
+
 ### Honorable
 
 You are trustworthy, fair, and forthright. You try to do what is right, to help others, and to treat them well. Lying and cheating are no way to get ahead—these things are for the weak, the lazy, or the despicable. You probably spend a lot of time thinking about your personal honor, how best to maintain it, and how to defend it if challenged. In combat, you are straightforward and offer quarter to any foe.
@@ -605,6 +645,8 @@ You gain the following characteristics:
 2. You see that what the other PCs are about to do is dangerous, and you’d like to help protect them.
 3. One of the other PCs invited you, hearing of your trustworthiness.
 4. You asked politely if you could join the other PCs in their mission.
+
+-----
 
 ### Impulsive
 
@@ -630,6 +672,8 @@ You gain the following characteristics:
 2. You pulled everyone together after you heard rumors about something interesting you want to see or do.
 3. You blew all of your money and now find yourself strapped for cash.
 4. You’re in trouble for acting recklessly. You join the other PCs because they offer a way out of your problem.
+
+-----
 
 ### Inquisitive
 
@@ -658,6 +702,8 @@ You gain the following characteristics:
 3. You were interested in what the other PCs were up to and decided to go along with them.
 4. One of the PCs fascinates you, perhaps due to a special or weird ability they have.
 
+-----
+
 ### Intelligent
 
 You’re quite smart. Your memory is sharp, and you easily grasp concepts that others might struggle with. This aptitude doesn’t necessarily mean that you’ve had years of formal education, but you have learned a great deal in your life, primarily because you pick things up quickly and retain so much.
@@ -676,6 +722,8 @@ You gain the following characteristics:
 2. You saw value in what the other PCs were doing.
 3. You believed that the task might lead to important and interesting discoveries.
 4. A colleague requested that you take part in the mission as a favor.
+
+-----
 
 ### Intuitive
 
@@ -696,6 +744,8 @@ You gain the following characteristics:
 3. You felt that something terrible would happen if you didn’t go.
 4. You’re confident the reason you arrived at this point will soon become clear.
 
+-----
+
 ### Jovial
 
 You’re cheerful, friendly, and outgoing. You put others at ease with a big smile and a joke, possibly one at your own expense, though lightly ribbing your companions who can take it is also one of your favorite pastimes. Sometimes people say you never take anything seriously. That’s not true, of course, but you have learned that to dwell on the bad too long quickly robs the world of joy. You’ve always got a new joke in your back pocket because you collect them like some people collect bottles of wine.
@@ -714,6 +764,8 @@ You gain the following characteristics:
 2. The other PCs thought you’d bring some much-needed levity to the team.
 3. You decided that all fun and no work was not the best way to get through life, so you joined up with the PCs.
 4. It was either go with the PCs or face up to a circumstance that was anything but jovial.
+
+-----
 
 ### Kind
 
@@ -736,6 +788,8 @@ You gain the following characteristics:
 3. You’re ready to take your benevolence on the road and help more people than you could if you didn’t join the PCs.
 4. Your job, which seemed like it would be personally rewarding, is the opposite. You join the PCs to escape the drudgery.
 
+-----
+
 ### Learned
 
 You have studied, either on your own or with an instructor. You know many things and are an expert on a few topics, such as history, biology, geography, mythology, nature, or any other area of study. Learned characters typically carry a few books around with them and spend their spare time reading.
@@ -757,6 +811,8 @@ You gain the following characteristics:
 3. You believed that the task might lead to important and interesting discoveries.
 4. A colleague requested that you take part in the mission as a favor.
 
+-----
+
 ### Lucky
 
 You rely on chance and timely good luck to get you through many situations. When people say that someone was born under a lucky star, they mean you. When you try your hand at something new, no matter how unfamiliar the task is, as often as not you find a measure of success. Even when disaster strikes, it’s rarely as bad as it could be. More often, small things seem to go your way, you win contests, and you’re often in the right place at the right time.
@@ -773,6 +829,8 @@ You gain the following characteristics:
 2. You literally bumped into someone else on this adventure through sheer luck.
 3. You found a briefcase lying alongside the road. It was battered, but inside you found a lot of strange documents that led you here.
 4. Your luck saved you when you avoided a speeding vehicle by a fortuitous fall through an opening in the ground (a manhole, if in a modern setting). Beneath the ground, you found something you couldn’t ignore.
+
+-----
 
 ### Mad
 
@@ -797,6 +855,8 @@ You gain the following characteristics:
 3. One of the other PCs obtained a book of knowledge for you, and now you’re repaying that favor by helping them with the task at hand.
 4. You feel compelled by inexplicable intuition.
 
+-----
+
 ### Mechanical
 
 You have a special talent with machines of all kinds, and you’re adept at understanding and, if need be, repairing them. Perhaps you’re a bit of an inventor, creating new machines from time to time. You get called “techie,” “tech,” “mech,” “gear-head,” “motor-head,” or any of a number of other nicknames. Mechanics usually wear practical work clothes and carry around a lot of tools.
@@ -818,6 +878,8 @@ You gain the following characteristics:
 3. It was clear that the mission couldn’t succeed without your skills and knowledge.
 4. Another PC asked you to join them.
 
+-----
+
 ### Mysterious
 
 The dark figure lurking silently in the corner? That’s you. No one really knows where you came from or what your motives are—you play things close to the vest. Your manner perplexes and confounds others, but that doesn’t make you a poor friend or ally. You’re just good at keeping things to yourself, moving about unseen, and concealing your presence and identity.
@@ -838,6 +900,8 @@ You gain the following characteristics:
 2. You convinced one of the other PCs that you had invaluable skills.
 3. Some equally mysterious figure told you where to be and when (but not why) to join the group.
 4. Something—a feeling, a dream—told you where to be and when to join the group.
+
+-----
 
 ### Mystical
 
@@ -862,6 +926,8 @@ You gain the following characteristics:
 3. You believed the mission would be a great way to learn more about the supernatural.
 4. Various signs and portents led you here.
 
+-----
+
 ### Naive
 
 You’ve lived a sheltered life. Your childhood was safe and secure, so you didn’t get a chance to learn much about the world—and even less chance to experience it. Whether you were training for something, had your nose in a book, or just were sequestered in a secluded place, you haven’t done much, met many people, or seen many interesting things so far. That’s probably going to change soon, but as you go forward into a larger world, you do so without some of the understanding that others possess about how it all works.
@@ -882,6 +948,8 @@ You gain the following characteristics:
 2. You needed money, and this seemed like a good way to earn some.
 3. You believed that you could learn a lot by joining the other PCs.
 4. Sounded like fun.
+
+-----
 
 ### Perceptive
 
@@ -910,6 +978,8 @@ You gain the following characteristics:
 3. You believe that the PCs’ mission is somehow related to one of your investigations.
 4. A third party recruited you to follow the PCs and see what they were up to.
 
+-----
+
 ### Resilient
 
 You can take a lot of punishment, both physically and mentally, and still come back for more. It takes a lot to put you down. Neither physical nor mental shocks or damage have a lasting effect. You’re tough to faze. Unflappable. Unstoppable.
@@ -935,6 +1005,8 @@ You gain the following characteristics:
 3. You are bored and desperately in need of a challenge.
 4. You lost a bet—unfairly, you think—and had to take someone’s place on this mission.
 
+-----
+
 ### Risk-Taking
 
 It’s part of your nature to question what others think can’t or shouldn’t be done. You’re not insane, of course—you wouldn’t attempt to leap across a mile-wide chasm just because you were dared. There’s impossible and then there’s the just barely possible. You like to push the latter further than others, because it gives you a rush of satisfaction and pleasure when you succeed. The more you succeed, the more you find yourself looking for that next risky challenge to try yourself against.
@@ -955,6 +1027,8 @@ You gain the following characteristics:
 2. You think the tasks ahead will present you with unique and fulfilling challenges.
 3. One of your biggest risks failed to go your way, and you need money to help pay that debt.
 4. You bragged that you never saw a risk you didn’t like, which is how you reached your current point.
+
+-----
 
 ### Rugged
 
@@ -979,6 +1053,8 @@ You gain the following characteristics:
 3. You’re afraid of what might happen if the other PCs fail.
 4. There is reward involved, and you need the money.
 
+-----
+
 ### Sharp-Eyed
 
 You’re perceptive and well aware of your surroundings. You notice the little details and remember them. You can be difficult to surprise.
@@ -998,6 +1074,8 @@ You gain the following characteristics:
 3. You saw that the other PCs were up to something interesting and got involved.
 4. You’ve been noticing some strange things going on, and this all appears related.
 
+-----
+
 ### Skeptical
 
 You possess a questioning attitude regarding claims that are often taken for granted by others. You’re not necessarily a “doubting Thomas” (a skeptic who refuses to believe anything without direct personal experience), but you’ve often benefited from questioning the statements, opinions, and received knowledge presented to you by others.
@@ -1016,6 +1094,8 @@ You gain the following characteristics:
 2. You were following one of the other PCs because you were suspicious of him, which brought you into the action.
 3. Your theory about the nonexistence of the supernatural can be invalidated only by your own senses, so you came along.
 4. You need money to fund your research.
+
+-----
 
 ### Stealthy
 
@@ -1040,6 +1120,8 @@ You gain the following characteristics:
 3. An NPC employer secretly paid you to get involved.
 4. You overheard the other PCs talking about a topic that interested you, so you decided to approach the group.
 
+-----
+
 ### Strong
 
 You’re extremely strong and physically powerful, and you use these qualities well, whether through violence or feats of prowess. You likely have a brawny build and impressive muscles.
@@ -1060,6 +1142,8 @@ You gain the following characteristics:
 2. One of the other PCs convinced you that joining the group would be in your best interests.
 3. You’re afraid of what might happen if the other PCs fail.
 4. There is reward involved, and you need the money.
+
+-----
 
 ### Strong-Willed
 
@@ -1082,6 +1166,8 @@ You gain the following characteristics:
 3. You’re afraid of what might happen if the other PCs fail.
 4. There is reward involved, and you need the money.
 
+-----
+
 ### Swift
 
 You move quickly, able to sprint in short bursts and work with your hands with dexterity. You’re great at crossing distances quickly but not always smoothly. You are likely slim and muscular.
@@ -1102,6 +1188,8 @@ You gain the following characteristics:
 2. One of the other PCs convinced you that joining the group would be in your best interests.
 3. You’re afraid of what might happen if the other PCs fail.
 4. There is reward involved, and you need the money.
+
+-----
 
 ### Tongue-Tied
 
@@ -1126,6 +1214,8 @@ You gain the following characteristics:
 3. You intervened to save one of the other PCs when they were in danger.
 4. One of the other PCs recruited you for your talents.
 
+-----
+
 ### Tough
 
 You’re strong and can take a lot of physical punishment. You might have a large frame and a square jaw. Tough characters frequently have visible scars.
@@ -1146,6 +1236,8 @@ You gain the following characteristics:
 2. One of the PCs is your sibling, and you came along to watch out for them.
 3. You need money because your family is in debt.
 4. You stepped in to defend one of the PCs when that character was threatened. While talking to them afterward, you heard about the group’s task.
+
+-----
 
 ### Vicious
 
@@ -1168,6 +1260,8 @@ You gain the following characteristics:
 3. You want to change, and you hope that being with the other PCs will help you calm yourself.
 4. One of the other PCs asked you to come along, believing that your viciousness could be harnessed for the benefit of the mission.
 
+-----
+
 ### Virtuous
 
 Doing the right thing is a way of life. You live by a code, and that code is something you attend to every day. Whenever you slip, you reproach yourself for your weakness and then get right back on track. Your code probably includes moderation, respect for others, cleanliness, and other characteristics that most people would agree are virtues, while you eschew their opposites: sloth, greed, gluttony, and so on.
@@ -1186,6 +1280,8 @@ You gain the following characteristics:
 2. The PCs are on the road to perdition, and you see it as your task to set them on the proper moral route.
 3. One of the other PCs invited you, hearing of your virtuous ways.
 4. You put virtue before sense and defended someone’s honor in the face of an organization or power far greater than you. You joined the PCs because they offered aid and friendship when, out of fear of reprisals, no one else would.
+
+-----
 
 ### Weird
 

@@ -16,13 +16,14 @@ If end up loving the system, and want more content, or the full rulebook, I grea
 
 ## News
 
-{{< details title="2023-02-??" open=true >}}
+{{< details title="2023-02-11" open=true >}}
 Initial launch of website. Contains the current latest reference document.
+It doesn't have everything formatted. I am currently on Equipment. I do this in my spare time, so it will take me a little while to get this all formatted.
 {{< /details >}}
 
 ## Support
 
-If you would like to offer support, I encourage you to first try offering support through contributing to this endeavor. Be it frontend work (I am a DevOps/Backend dev), formatting, styling, etc. Even if we need to migrate to something other than Hugo (mkdocs, gatsby, whatever), open source contributions would be preferred.
+If you would like to offer support, I encourage you to first try offering support through contributing to this endeavor. Be it frontend work (I am a DevOps/Backend dev), formatting, styling, etc. Even if we need to migrate to something other than Hugo (mkdocs, gatsby, whatever), open source contributions would be preferred. Or if you want to proofread, find typos, mistakes, formatting problems. Just [open an issue](https://github.com/Daegalus/csrd/issues/new) on Github.
 
 If you wish to buy me a coffee or beer, feel free to use the option below.
 
