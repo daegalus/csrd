@@ -7,11 +7,10 @@ weight: 9
 
 Setting your campaign in World War 2, the Renaissance, or the 1930s can be fun and interesting. However, setting it in ancient Greece or feudal Japan, for example, probably makes it more like fantasy without all the orcs and magic (although a game set in feudal Japan with orcs and magic could be fascinating).
 
-SUGGESTED TYPES FOR A HISTORICAL GAME
+## Suggested Types For A Historical Game
 
-|                               |                                                                     |
-|-------------------------------|---------------------------------------------------------------------|
 | Role                          | Type                                                                |
+|-------------------------------|---------------------------------------------------------------------|
 | Constable (or night watchman) | Explorer with combat flavor                                         |
 | Detective                     | Explorer with stealth flavor and skills and knowledge flavor        |
 | Knight                        | Warrior                                                             |
@@ -24,32 +23,21 @@ SUGGESTED TYPES FOR A HISTORICAL GAME
 | Explorer                      | Explorer                                                            |
 | Priest                        | Speaker                                                             |
 
-Basic CREATURES AND NPCs FOR A HISTORICAL GAME
+## Basic Creatures And NPCs For A Historical Game
 
-Cat: level 1, Speed defense as level 3
+* **Cat:** level 1, Speed defense as level 3
+* **Dodo:** level 1
+* **Dog:** level 2, perception as level 3
+* **Dog, guard:** level 3, attacks and perception as level 4
+* **Horse:** level 3; moves a long distance each round
+* **Merchant:** level 2, haggling as level 3
+* **Noble:** level 2, pleasant social interaction as level 4
+* **Rat:** level 1
+* **Serf:** level 2, animal handling as level 3
+* **Snake, poisonous:** level 1, attacks as level 4
+* **Warhorse:** level 4; moves a long distance each round
 
-Dodo: level 1
-
-Dog: level 2, perception as level 3
-
-Dog, guard: level 3, attacks and perception as level 4
-
-Horse: level 3; moves a long distance each round
-
-Merchant: level 2, haggling as level 3
-
-Noble: level 2, pleasant social interaction as  
-level 4
-
-Rat: level 1
-
-Serf: level 2, animal handling as level 3
-
-Snake, poisonous: level 1, attacks as level 4
-
-Warhorse: level 4; moves a long distance each round
-
-creating a historical adventure
+## Creating a Historical Adventure
 
 One of the draws of playing in a historical adventure is the thrill of “being there” when something important happens. Thus, in many cases, historical adventures in RPGs shouldn’t be designed as campaigns, but instead serve as short-term experiences where players try something new, or at least something they don’t normally do: play as figures involved in a momentous historical event.
 
@@ -67,7 +55,7 @@ Don’t create more than you need to. Be ready to tell the PCs what they see and
 
 Be wary about stereotypes and cultural misappropriation. History, as they say, is written by the victors. The ancient Greeks wrote that other cultures were all barbaric, and the European settlers called the natives in North America savages, but that doesn’t mean it’s true. If all you know about a time period is a movie set in that period, you’ll have a skewed version of events and culture. Be willing to go deeper than *Braveheart* or *The Last Samurai*, or maybe choose a different genre.
 
-RUNNING A HISTORICAL GAME
+## Running A Historical Game
 
 Preparation is important in a historical game, and most of that entails choosing a historical period—or a specific historical event—as the setting. Given that all of history can serve, you won’t lack for resources. Below are a few possibilities. Of course, the farther back you set your game, the less information on specific events is available. On the other hand, that frees you up to get creative.
 
@@ -77,6 +65,6 @@ The players will need some kind of grounding in what to expect in the time perio
 
 If you’re looking for inspiration for time periods in which to set your historical game, here are some possible ideas: prehistory, classical antiquity, ancient Egypt, the American revolution, ancient China, World War II, Edo Period Japan, Medieval Europe, and the American Old West.
 
-HISTORICAL ARTIFACTS
+## Historical Artifacts
 
 The concept of artifacts is probably inappropriate for a historical setting without some kind of supernatural, fantastical, or science fiction element. That said, objects of mystery such as the Antikythera mechanism (an ancient analog computer and orrery used to predict eclipses and other astronomical positions) reveal that the ancient world—and by extension more recent historical periods—contained fascinating and useful objects that were anachronistic for their period. Most such artifacts were likely the creations of philosophers, lone geniuses, and similar figures.
