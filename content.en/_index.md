@@ -17,7 +17,7 @@ If end up loving the system, and want more content, or the full rulebook, I grea
 
 {{< details title="2023-02-11" open=true >}}
 Initial launch of website. Contains the current latest reference document.
-It doesn't have everything formatted. I am currently on Genres. I do this in my spare time, so it will take me a little while to get this all formatted.
+It doesn't have everything formatted. I am currently on Game Mastering. I do this in my spare time, so it will take me a little while to get this all formatted.
 {{< /details >}}
 
 ## Support

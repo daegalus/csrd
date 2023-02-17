@@ -312,7 +312,7 @@ MINOR FANTASY ARTIFACTS TABLE
 | 25-26 | Coil of endless rope    |
 | 27-28 | Crown of the mind       |
 | 34    | Crystal ball            |
-| 35-37 | Deflecting shield       |
+| 35-37 | Deflecting shield      |
 | 38-40 | Elfblade                |
 | 41-43 | Enchanted armor         |
 | 44-49 | Exploding arrow         |
@@ -333,7 +333,7 @@ MINOR FANTASY ARTIFACTS TABLE
 | 99    | Vorpal sword            |
 | 00    | Whisperer in the ether  |
 
-MAJOR FANTASY ARTIFACTS TABLE 
+MAJOR FANTASY ARTIFACTS TABLE
 
 | 01-03 | Angelic ward\*                                  |
 |-------|-------------------------------------------------|
@@ -352,22 +352,22 @@ MAJOR FANTASY ARTIFACTS TABLE 
 | 28-30 | Guardian idol                                   |
 | 31-33 | Hand of glory                                   |
 | 34-36 | Horn of thunder                                 |
-| 37-39 | Instant ladder                                  |
+| 37-39 | Instant ladder                                 |
 | 40-43 | Lightening hammer                               |
 | 44-47 | Necromantic wand                                |
 | 48-50 | Ring of dragon's flight\*                       |
-| 51-53 | Ring of fall flourishing                        |
-| 54-56 | Ring of invisibility                            |
-| 57    | Ring of wishes                                  |
+| 51-53 | Ring of fall flourishing                       |
+| 54-56 | Ring of invisibility                           |
+| 57    | Ring of wishes                                 |
 | 58-60 | Smooth stepping boots                           |
 | 61-62 | Soul-stealing knife                             |
 | 63-65 | Spellbook of elemental summoning                |
 | 66    | Spellbook of the amber mage\*                   |
-| 67-69 | Staff of black iron                             |
+| 67-69 | Staff of black iron                            |
 | 70-74 | Staff of healing                                |
 | 75-77 | Staff of the prophet                            |
 | 78-79 | Storm shack                                     |
-| 80-83 | Trap runestone                                  |
+| 80-83 | Trap runestone                                 |
 | 84-88 | Wand of firebolts\*                             |
 | 89-93 | Wand of spider's webbing                        |
 | 94-97 | Witch's broom                                   |
@@ -415,15 +415,15 @@ Effect: The belt enhances the strength and endurance of the wearer. This increas
 
 Depletion: ---
 
-BOOK OF ALL SPELLS 
+BOOK OF ALL SPELLS
 
-Level: 1d6 + 2 
+Level: 1d6 + 2
 
-Form: Weighty tome filled with pages of spell runes 
+Form: Weighty tome filled with pages of spell runes
 
-Effect: This mysterious spellbook is said to contain knowledge of hundreds of spells---perhaps even all spells. Each set of facing pages includes the magical runes for one spell and a description of the spell and how to use it. 
+Effect: This mysterious spellbook is said to contain knowledge of hundreds of spells---perhaps even all spells. Each set of facing pages includes the magical runes for one spell and a description of the spell and how to use it.
 
-When a character first opens the book, the GM randomly determines what type of spell is shown by rolling on the following table, then rolling on the indicated table in the Cypher System Reference Document: 
+When a character first opens the book, the GM randomly determines what type of spell is shown by rolling on the following table, then rolling on the indicated table in the Cypher System Reference Document:
 
 | d6  | Cypher Type                        |
 |-----|------------------------------------|
@@ -431,110 +431,110 @@ When a character first opens the book, the GM randomly determines what type of s
 | 3-5 | Roll on the Fantastic Cypher table |
 | 6   | Roll on the Subtle Cypher table    |
 
-The bearer can cast the spell on the page as if it were a cypher with a level equal to the book's level. This doesn't remove the spell from the page (it can be cast again and again), but it does require a depletion roll. 
+The bearer can cast the spell on the page as if it were a cypher with a level equal to the book's level. This doesn't remove the spell from the page (it can be cast again and again), but it does require a depletion roll.
 
-As part of another action, the bearer can turn the page to find a new spell, but only forward, never backward. It is said that turning to the last page makes the book vanish and appear somewhere else in the world. 
+As part of another action, the bearer can turn the page to find a new spell, but only forward, never backward. It is said that turning to the last page makes the book vanish and appear somewhere else in the world.
 
-The artifact always remembers the last page it was turned to. Opening the book always presents that page. Attempting to copy, remove, or destroy a page only makes the book turn to a later page on its own. 
+The artifact always remembers the last page it was turned to. Opening the book always presents that page. Attempting to copy, remove, or destroy a page only makes the book turn to a later page on its own.
 
 Depletion: 1 in 1d100 (Check each time the book is used or the bearer turns a page. The chance of depletion increases by 1 each time it is used \[1 in 1d100, 2 in 1d100, 3 in 1d100, and so on\]. Instead of depleting, the book might turn to a later page, or disappear and reappear somewhere else in the world.)
 
-BOUNDING BOOTS 
+BOUNDING BOOTS
 
-Level: 1d6 + 1 
+Level: 1d6 + 1
 
-Form: Sturdy but flexible boots 
+Form: Sturdy but flexible boots
 
-Effect: The boots assist the wearer's every step to make jumping and running easier. The boots are an asset for jumping and running (easing one of these skills by two steps if the artifact is level 6 or higher). 
+Effect: The boots assist the wearer's every step to make jumping and running easier. The boots are an asset for jumping and running (easing one of these skills by two steps if the artifact is level 6 or higher).
 
-Depletion: --- 
+Depletion: ---
 
-CAT'S EYE SPECTACLES 
+CAT'S EYE SPECTACLES
 
-Level: 1d6 
+Level: 1d6
 
-Form: Pair of dark crystalline spectacles in a dull wooden frame 
+Form: Pair of dark crystalline spectacles in a dull wooden frame
 
-Effect: Outside, the wearer can see at night as if it were daylight. Inside, the wearer can see in pitch darkness up to short range (or to long range if the artifact is level 5 or higher). 
+Effect: Outside, the wearer can see at night as if it were daylight. Inside, the wearer can see in pitch darkness up to short range (or to long range if the artifact is level 5 or higher).
 
-Depletion: --- 
+Depletion: ---
 
-CLOAK OF BALAKAR 
+CLOAK OF BALAKAR
 
-Level: 1d6 + 3 
+Level: 1d6 + 3
 
-Form: Blue cloak with elaborate designs suggesting blowing wind 
+Form: Blue cloak with elaborate designs suggesting blowing wind
 
-Effect: The wearer can calm winds of the artifact's level or lower in a radius of 1 mile (1.5 km). Up to once a day, the wearer can create a destructive windstorm up to that size, lasting one minute; this storm's level is equal to half the artifact's level. 
+Effect: The wearer can calm winds of the artifact's level or lower in a radius of 1 mile (1.5 km). Up to once a day, the wearer can create a destructive windstorm up to that size, lasting one minute; this storm's level is equal to half the artifact's level.
 
-Depletion: 1 in 1d6 (on depletion, cloak disappears and reappears somewhere else in the world) 
+Depletion: 1 in 1d6 (on depletion, cloak disappears and reappears somewhere else in the world)
 
-CLOAK OF ELFKIND 
+CLOAK OF ELFKIND
 
-Level: 1d6 + 2 
+Level: 1d6 + 2
 
-Form: Thin greyish-green cloak with a cowl and clasp 
+Form: Thin greyish-green cloak with a cowl and clasp
 
-Effect: When activated (by drawing the hood over the wearer's head), the cloak takes on the colors and textures of everything around the wearer for ten minutes (or one hour if the artifact is level 8 or higher). This eases hiding and sneaking tasks by two steps. While the cloak is activated, the wearer can also see in the dark. 
-
-Depletion: 1 in 1d100
-
-CLOAK OF FINERY 
-
-Level: 1d6 + 1 
-
-Form: Multilayered cloak of glittering material 
-
-Effect: This cloak is woven of beautiful fibers and set with dazzling gems. It automatically fits itself to its wearer in the most flattering way. When activated, it enhances the wearer's appearance, voice, tone, and even their grammar, granting an asset to all interaction tasks for the next minute. 
-
-Depletion: 1 in 1d20 
-
-COIL OF ENDLESS ROPE 
-
-Level: 1d6 
-
-Form: Coil of rope 
-
-Effect: The coil of rope can be let out at a rate of 50 feet (15 m) per round; however, no end to the rope can be found no matter how long the user uncoils it. The rope retains its incredible length until recoiled or until it becomes depleted. If cut, any length beyond the coil's initial 50 feet crumbles into powder after a round or two. 
-
-Depletion: 1 in 1d20 (check each use that extends it beyond 50 feet) 
-
-CROWN OF EYES 
-
-Level: 1d6 
-
-Form: Metallic circlet set with several crystal spheres 
-
-Effect: It takes one round to activate the crown. When activated, the crystal spheres separate from the crown and fly around the wearer at immediate range for an hour. The wearer can see anything the crystal spheres can see. This allows the wearer to peek around corners without being exposed to danger. This gives the wearer an asset in initiative and all perception tasks. 
+Effect: When activated (by drawing the hood over the wearer's head), the cloak takes on the colors and textures of everything around the wearer for ten minutes (or one hour if the artifact is level 8 or higher). This eases hiding and sneaking tasks by two steps. While the cloak is activated, the wearer can also see in the dark.
 
 Depletion: 1 in 1d100
 
-CROWN OF THE MIND 
+CLOAK OF FINERY
 
-Level: 1d6 
+Level: 1d6 + 1
 
-Form: Crown, circlet, headband, diadem, or amulet 
+Form: Multilayered cloak of glittering material
 
-Effect: The crown augments the mind and thoughts of the wearer. This increases the wearer's maximum Intellect Pool by 5 (or by 7 if the artifact is level 6 or higher). If the wearer removes the crown, any excess Intellect points above their normal maximum Intellect Pool are lost; if they wear the crown again, the points do not automatically return (they must be restored with recovery rolls, healing magic, or similar effects). 
+Effect: This cloak is woven of beautiful fibers and set with dazzling gems. It automatically fits itself to its wearer in the most flattering way. When activated, it enhances the wearer's appearance, voice, tone, and even their grammar, granting an asset to all interaction tasks for the next minute.
 
-Depletion: --- 
+Depletion: 1 in 1d20
 
-CRYSTAL BALL 
+COIL OF ENDLESS ROPE
 
-Level: 1d6 + 3 
+Level: 1d6
 
-Form: Melon-sized crystalline or glass orb, with or without a support stand 
+Form: Coil of rope
+
+Effect: The coil of rope can be let out at a rate of 50 feet (15 m) per round; however, no end to the rope can be found no matter how long the user uncoils it. The rope retains its incredible length until recoiled or until it becomes depleted. If cut, any length beyond the coil's initial 50 feet crumbles into powder after a round or two.
+
+Depletion: 1 in 1d20 (check each use that extends it beyond 50 feet)
+
+CROWN OF EYES
+
+Level: 1d6
+
+Form: Metallic circlet set with several crystal spheres
+
+Effect: It takes one round to activate the crown. When activated, the crystal spheres separate from the crown and fly around the wearer at immediate range for an hour. The wearer can see anything the crystal spheres can see. This allows the wearer to peek around corners without being exposed to danger. This gives the wearer an asset in initiative and all perception tasks.
+
+Depletion: 1 in 1d100
+
+CROWN OF THE MIND
+
+Level: 1d6
+
+Form: Crown, circlet, headband, diadem, or amulet
+
+Effect: The crown augments the mind and thoughts of the wearer. This increases the wearer's maximum Intellect Pool by 5 (or by 7 if the artifact is level 6 or higher). If the wearer removes the crown, any excess Intellect points above their normal maximum Intellect Pool are lost; if they wear the crown again, the points do not automatically return (they must be restored with recovery rolls, healing magic, or similar effects).
+
+Depletion: ---
+
+CRYSTAL BALL
+
+Level: 1d6 + 3
+
+Form: Melon-sized crystalline or glass orb, with or without a support stand
 
 Effect: This allows the user to scry (view) remote locations and creatures. The user must make a difficulty 2 Intellect task to activate the crystal ball, then use an action trying to make it show a person or location they know. The user must succeed at an Intellect task against the level of the target; otherwise, the crystal shows only indistinct or misleading images. The task roll is modified by how familiar the target is to the user, how available they are to be viewed, and how far away they are.
 
-| Familiarity                      |          |
+| Familiarity                     |          |
 |----------------------------------|----------|
 | Only have name or description    | Hindered |
-| Target has been visited          | Eased    |
+| Target has been visited         | Eased    |
 | Target is well known to the user | Eased    |
 | Availability                     |          |
 | Target is willing                | Eased    |
-| Target is unwilling              | Hindered |
+| Target is unwilling             | Hindered |
 | Distance                         |          |
 | More than 1 mile                 | Hindered |
 | More than 10 miles               | Hindered |
@@ -542,99 +542,99 @@ Effect: This allows the user to scry (view) remote locations and creatures. The 
 
 These modifiers are cumulative, so trying to view a level 4 target who the user knows only by name (+1 step), is unwilling (+1 step), and is 20 miles away (+2 steps) is a difficulty 8 task.
 
- The crystal shows the creature or area for one minute before the image becomes muddled and the artifact must be activated again. 
+The crystal shows the creature or area for one minute before the image becomes muddled and the artifact must be activated again.
 
-In addition to the normal options for using Effort, the user can choose to apply a level of Effort to open two-way communication with the viewed area. All creatures in the area can sense the user's presence and hear their voice, and the creatures can speak to and be heard by the user. 
+In addition to the normal options for using Effort, the user can choose to apply a level of Effort to open two-way communication with the viewed area. All creatures in the area can sense the user's presence and hear their voice, and the creatures can speak to and be heard by the user.
 
 Depletion: 1 in 1d20
 
 An unwilling creature's defenses against magic and Intellect attacks should hinder scrying attempts just as they would against a directly harmful mental spell.
 
-DEATH'S SCYTHE 
+DEATH'S SCYTHE
 
-Level: 1d6 + 4 
+Level: 1d6 + 4
 
-Form: Double-handed scythe 
+Form: Double-handed scythe
 
-Effect: This scythe functions as a heavy weapon. In addition, it instantly kills level 1 or level 2 creatures it hits. In addition to the normal options for using Effort, the user can choose to use a level of Effort to affect a higher-level target; each level of Effort applied increases the level of creature that can be instantly killed by the scythe. Thus, to instantly kill a level 5 target (three levels above the normal limit), the wielder must apply three levels of Effort. 
+Effect: This scythe functions as a heavy weapon. In addition, it instantly kills level 1 or level 2 creatures it hits. In addition to the normal options for using Effort, the user can choose to use a level of Effort to affect a higher-level target; each level of Effort applied increases the level of creature that can be instantly killed by the scythe. Thus, to instantly kill a level 5 target (three levels above the normal limit), the wielder must apply three levels of Effort.
 
 Depletion: 1 in 1d20 (check per killing effect; upon depletion, a manifestation of Death appears to reclaim its blade)
 
 Death manifestation: level 7
 
-DEMONFLESH 
+DEMONFLESH
 
-Level: 1d6 + 1 
+Level: 1d6 + 1
 
-Form: Ball of black leather with vein-like red streaks 
+Form: Ball of black leather with vein-like red streaks
 
-Effect: When activated, the ball liquefies and coats the body of the user for one hour, appearing to be a form-fitting leather suit veined with pathways of dully glowing blood. As an action, the wearer can become invisible. While invisible, they are specialized in stealth and Speed defense tasks. This effect ends if they do something to reveal their presence or position---attacking, casting a spell, using an ability, moving a large object, and so on. If this occurs, they can regain the remaining invisibility effect by taking an action to focus on hiding their position. The wearer can inflict 3 points of damage with a touch by releasing a dark crackle of demonic power. This attack ignores most Armor, but Armor made to ward against evil or demonic attacks should work against it. 
+Effect: When activated, the ball liquefies and coats the body of the user for one hour, appearing to be a form-fitting leather suit veined with pathways of dully glowing blood. As an action, the wearer can become invisible. While invisible, they are specialized in stealth and Speed defense tasks. This effect ends if they do something to reveal their presence or position---attacking, casting a spell, using an ability, moving a large object, and so on. If this occurs, they can regain the remaining invisibility effect by taking an action to focus on hiding their position. The wearer can inflict 3 points of damage with a touch by releasing a dark crackle of demonic power. This attack ignores most Armor, but Armor made to ward against evil or demonic attacks should work against it.
 
 Depletion: 1 in 1d20
 
 To randomly determine what kind of dragontongue weapon is found, see Chapter 4: Medieval Fantasy Equipment, page 34.
 
-DEMONIC RUNE BLADE 
+DEMONIC RUNE BLADE
 
-Level: 1d6 + 4 
+Level: 1d6 + 4
 
-Form: Sword inscribed with demonic runes 
+Form: Sword inscribed with demonic runes
 
-Effect: This longsword functions as a medium weapon, but it is actually a powerful demon transformed into the shape of a sword. The demon cannot speak directly to the wielder, but it can make its desires known by emitting bass rumbles and dirgelike melodies, and by pulling in the direction of its desire. The sword eases all attacks made with it by one step, and it inflicts 4 additional points of damage (for a total of 8 points). 
+Effect: This longsword functions as a medium weapon, but it is actually a powerful demon transformed into the shape of a sword. The demon cannot speak directly to the wielder, but it can make its desires known by emitting bass rumbles and dirgelike melodies, and by pulling in the direction of its desire. The sword eases all attacks made with it by one step, and it inflicts 4 additional points of damage (for a total of 8 points).
 
 If the wielder kills a creature with the sword, the sword eats the creature's spirit and transfers some of its energy to the wielder, adding 5 points to their Might Pool and increasing their Might Edge by 1. This lasts for an hour and allows the wielder to exceed their normal Might Pool and Might Edge stats.
 
-If the wielder misses with an attack, the blade sometimes hits an ally of the wielder instead (this always happens on an attack roll of 1). 
+If the wielder misses with an attack, the blade sometimes hits an ally of the wielder instead (this always happens on an attack roll of 1).
 
-Depletion: 1 in 1d10 (check each time a killed creature's life force is absorbed; if depleted, the sword's magical abilities can be recharged if it kills an "innocent" creature) 
+Depletion: 1 in 1d10 (check each time a killed creature's life force is absorbed; if depleted, the sword's magical abilities can be recharged if it kills an "innocent" creature)
 
-DRAGONTONGUE WEAPON 
+DRAGONTONGUE WEAPON
 
-Level: 1d6 + 2 
+Level: 1d6 + 2
 
 Form: Weapon that roars with red flame when activated, trailing a stream of black smoke
 
-Effect: This weapon functions as a normal weapon of its type. If the wielder uses it to attack a foe, upon a successful hit, the wielder decides whether to activate the flame. Upon activation, the weapon lashes the target with fire, inflicting additional points of damage equal to the artifact level. The effect lasts for one minute after each activation. 
+Effect: This weapon functions as a normal weapon of its type. If the wielder uses it to attack a foe, upon a successful hit, the wielder decides whether to activate the flame. Upon activation, the weapon lashes the target with fire, inflicting additional points of damage equal to the artifact level. The effect lasts for one minute after each activation.
 
 Depletion: 1 in 1d100
 
-DRAGONTOOTH SOLDIERS 
+DRAGONTOOTH SOLDIERS
 
-Level: 1d6 + 1 
+Level: 1d6 + 1
 
 Form: Burlap bag containing a handful of large reptilian teeth
 
- Effect: If a tooth is drawn from the bag and cast upon the earth, a dragontooth warrior appears, ready to fight for the user for up to ten minutes before going their own way. The user can draw several teeth at once from the bag, but each tooth drawn requires a separate depletion roll. 
+Effect: If a tooth is drawn from the bag and cast upon the earth, a dragontooth warrior appears, ready to fight for the user for up to ten minutes before going their own way. The user can draw several teeth at once from the bag, but each tooth drawn requires a separate depletion roll.
 
-Depletion: 1 in 1d10 
+Depletion: 1 in 1d10
 
 Dragontooth warrior: level equal to the artifact level, Speed defense as artifact level + 1 due to shield; Armor 1; spear attack (melee or short range) inflicts damage and impedes movement of victim to immediate range for one round
 
-ELFBLADE 
+ELFBLADE
 
-Level: 1d6 + 3 
+Level: 1d6 + 3
 
 Form: Medium sword
 
-Effect: This sword can be used as a normal medium sword that deals 2 additional points of damage (for a total of 6 points). The short sword can cut through any material of its level or lower with ease, owing to its exceptional sharpness. The blade sheds a blue light as bright as a candle to warn when goblins, orcs, trolls, or similar creatures are within 300 feet (90 m). Depletion: --- 
+Effect: This sword can be used as a normal medium sword that deals 2 additional points of damage (for a total of 6 points). The short sword can cut through any material of its level or lower with ease, owing to its exceptional sharpness. The blade sheds a blue light as bright as a candle to warn when goblins, orcs, trolls, or similar creatures are within 300 feet (90 m). Depletion: ---
 
 ENCHANTED ARMOR L
 
-evel: 1d6 + 3 
+evel: 1d6 + 3
 
-Form: Full suit of light, medium, or heavy armor 
+Form: Full suit of light, medium, or heavy armor
 
-Effect: This armor is carefully crafted and reinforced with magic to be stronger and more protective than typical armor. It is armor according to its type (light, medium, or heavy), but it grants an additional +1 Armor (or +2 if the artifact is level 7 or higher) beyond what it would normally provide. For example, chainmail is medium armor (2 Armor), so enchanted chainmail provides a total of 3 Armor (for artifact level 6 or lower) or 4 Armor (for artifact level 7 or higher). 
+Effect: This armor is carefully crafted and reinforced with magic to be stronger and more protective than typical armor. It is armor according to its type (light, medium, or heavy), but it grants an additional +1 Armor (or +2 if the artifact is level 7 or higher) beyond what it would normally provide. For example, chainmail is medium armor (2 Armor), so enchanted chainmail provides a total of 3 Armor (for artifact level 6 or lower) or 4 Armor (for artifact level 7 or higher).
 
-The additional Armor provided by the magic also applies to damage that often isn't reduced by typical armor, such as heat or cold damage (but not Intellect damage). 
+The additional Armor provided by the magic also applies to damage that often isn't reduced by typical armor, such as heat or cold damage (but not Intellect damage).
 
 Depletion: ---
 
-EXPLODING ARROW 
+EXPLODING ARROW
 
-Level: 1d6 
+Level: 1d6
 
-Form: Arrow with runes carved on the shaft and head 
+Form: Arrow with runes carved on the shaft and head
 
 Effect: The arrow explodes when it strikes something, inflicting its level in damage to all within immediate range. Roll d100 to determine the type of damage.
 
@@ -645,29 +645,29 @@ Effect: The arrow explodes when it strikes something, inflicting its level in da
 | 61-90 | Fire                           |
 | 91-00 | Necromantic (harms only flesh) |
 
-Depletion: Automatic 
+Depletion: Automatic
 
-One advantage of an exploding arrow over a detonation cypher is that the arrow doesn't count toward your cypher limit. 
+One advantage of an exploding arrow over a detonation cypher is that the arrow doesn't count toward your cypher limit.
 
 An exploding arrow can instead be a crossbow bolt, sling stone, or other thrown weapon or projectile.
 
-EXPLORER'S GLOVES 
+EXPLORER'S GLOVES
 
-Level: 1d6 
+Level: 1d6
 
-Form: Thick but flexible-fingered leather gloves 
+Form: Thick but flexible-fingered leather gloves
 
-Effect: The wearer can cling to or climb any surface for up to one hour. Even level 10 climbing tasks become routine while the gloves are activated, but taking any other action while climbing requires a new activation. 
+Effect: The wearer can cling to or climb any surface for up to one hour. Even level 10 climbing tasks become routine while the gloves are activated, but taking any other action while climbing requires a new activation.
 
 Depletion: 1 in 1d20
 
 FALCON CLOAK
 
-Level: 1d6 
+Level: 1d6
 
-Form: Cloak made of feathers 
+Form: Cloak made of feathers
 
-Effect: For ten hours, the wearer becomes a falcon whose level is equal to the artifact level. The falcon can fly a long distance each round, or up to 60 miles (97 km) per hour when traveling overland. 
+Effect: For ten hours, the wearer becomes a falcon whose level is equal to the artifact level. The falcon can fly a long distance each round, or up to 60 miles (97 km) per hour when traveling overland.
 
 Depletion: 1 in 1d100
 
@@ -677,174 +677,174 @@ FLYING CARPET
 
 Level: 1d6 + 1
 
-Form: Silken rug with repeating designs bordered with a pattern that suggests scudding clouds 
+Form: Silken rug with repeating designs bordered with a pattern that suggests scudding clouds
 
-Effect: The carpet flies a long distance each round, carrying up to five passengers. It flies for up to ten hours per activation. When traveling overland, the artifact can achieve a flying speed of 60 miles (97 km) per hour. 
+Effect: The carpet flies a long distance each round, carrying up to five passengers. It flies for up to ten hours per activation. When traveling overland, the artifact can achieve a flying speed of 60 miles (97 km) per hour.
 
-Depletion: 1 in 1d20 
+Depletion: 1 in 1d20
 
-GHOSTLY ARMOR 
+GHOSTLY ARMOR
 
-Level: 1d6 + 3 
+Level: 1d6 + 3
 
-Form: Full suit of light, medium, or heavy armor 
+Form: Full suit of light, medium, or heavy armor
 
-Effect: This armor is carefully crafted and reinforced with magic to be stronger and more protective than typical armor. It is armor according to its type (light, medium, or heavy), but it grants an additional +1 Armor beyond what it would normally provide. For example, chainmail is medium armor (2 Armor), so ghostly chainmail provides 3 Armor. 
+Effect: This armor is carefully crafted and reinforced with magic to be stronger and more protective than typical armor. It is armor according to its type (light, medium, or heavy), but it grants an additional +1 Armor beyond what it would normally provide. For example, chainmail is medium armor (2 Armor), so ghostly chainmail provides 3 Armor.
 
-When activated, the armor randomly makes the wearer ghostly and immaterial for ten minutes (or for one hour if the artifact is level 9 or higher), which hinders attacks on the wearer by two steps without hindering any of the character's abilities. Special multidimensional weapons or attacks (such as abilities meant to harm ghosts) ignore this defense. 
+When activated, the armor randomly makes the wearer ghostly and immaterial for ten minutes (or for one hour if the artifact is level 9 or higher), which hinders attacks on the wearer by two steps without hindering any of the character's abilities. Special multidimensional weapons or attacks (such as abilities meant to harm ghosts) ignore this defense.
 
 Depletion: 1 in 1d10 (for the ghostly defense ability, but after depletion, the suit still functions as normal armor and provides its full Armor value)
 
-To randomly determine what kind of ghostly armor is found, see Chapter 4: Medieval Fantasy Equipment, page 34. 
+To randomly determine what kind of ghostly armor is found, see Chapter 4: Medieval Fantasy Equipment, page 34.
 
-GLOVES OF AGILITY 
+GLOVES OF AGILITY
 
-Level: 1d6 
+Level: 1d6
 
-Form: Supple leather or cloth gloves 
+Form: Supple leather or cloth gloves
 
-Effect: The gloves enhance the dexterity and reflexes of the wearer. This increases the wearer's maximum Speed Pool by 5 (or by 7 if the artifact is level 6 or higher). If the wearer removes the gloves, any excess Speed points above their normal maximum Speed Pool are lost; if they wear the gloves again, the points do not automatically return (they must be restored with recovery rolls, healing magic, or similar effects). 
+Effect: The gloves enhance the dexterity and reflexes of the wearer. This increases the wearer's maximum Speed Pool by 5 (or by 7 if the artifact is level 6 or higher). If the wearer removes the gloves, any excess Speed points above their normal maximum Speed Pool are lost; if they wear the gloves again, the points do not automatically return (they must be restored with recovery rolls, healing magic, or similar effects).
 
-Depletion: --- 
+Depletion: ---
 
-GRUELMAKER 
+GRUELMAKER
 
-Level: 1d6 
+Level: 1d6
 
-Form: Clay bowl stamped with symbols of fish and birds 
+Form: Clay bowl stamped with symbols of fish and birds
 
-Effect: The bowl fills itself to the brim with a bland-tasting tan porridge that provides enough nutrition for one person for one day (or two people if the artifact is level 5 or higher). 
+Effect: The bowl fills itself to the brim with a bland-tasting tan porridge that provides enough nutrition for one person for one day (or two people if the artifact is level 5 or higher).
 
-Depletion: 1 in 1d10 
+Depletion: 1 in 1d10
 
-GUARDIAN IDOL 
+GUARDIAN IDOL
 
-Level: 1d6 + 3 
+Level: 1d6 + 3
 
-Form: Demonic idol on top of a thin metal leg that is 1 foot (30 cm) tall 
+Form: Demonic idol on top of a thin metal leg that is 1 foot (30 cm) tall
 
 Effect: It takes two rounds to balance this artifact on its metal leg, and then it requires an action to activate. When activated, the idol stares at the activating character and nearby creatures for five rounds, memorizing their faces and shapes. After that, if anything the idol doesn't recognize (and is larger than a mouse) comes within long range, it spits a small ball of fire at the target. The fire inflicts damage equal to the artifact level. The idol can attack up to ten times per round, but it never attacks the same target more than once per round. It remains on watch for twenty-four hours or until it has made one hundred attacks, whichever comes first.  
 Depletion: Automatic
 
-HAND OF GLORY 
+HAND OF GLORY
 
-Level: 1d6 + 3 
+Level: 1d6 + 3
 
-Form: Dried humanoid hand with candle-tip fingers 
+Form: Dried humanoid hand with candle-tip fingers
 
-Effect: A hand of glory has several potential uses, including the following. In all cases, the candles making up the hand must be lit and burning to produce an effect. Insensibility: A target within short range is held motionless and unable to take actions as long as the lit hand remains within range (or until the target is attacked or otherwise snapped out of the trance). Invisibility: User is invisible for up to one minute while holding the hand. While invisible, the user is specialized in stealth and Speed defense tasks. Thief 's Passage: A locked or barred door or a container whose level is less than or equal to the hand's level becomes unlocked when touched by the hand. 
+Effect: A hand of glory has several potential uses, including the following. In all cases, the candles making up the hand must be lit and burning to produce an effect. Insensibility: A target within short range is held motionless and unable to take actions as long as the lit hand remains within range (or until the target is attacked or otherwise snapped out of the trance). Invisibility: User is invisible for up to one minute while holding the hand. While invisible, the user is specialized in stealth and Speed defense tasks. Thief 's Passage: A locked or barred door or a container whose level is less than or equal to the hand's level becomes unlocked when touched by the hand.
 
-Depletion: 1 in 1d20 
+Depletion: 1 in 1d20
 
-HELM OF WATER BREATHING 
+HELM OF WATER BREATHING
 
-Level: 1d6 
+Level: 1d6
 
-Form: Green metal helm with a scaly or fishy motif Effect: The wearer's head is enveloped in a tight bubble of air that constantly renews itself, allowing them to breathe underwater indefinitely, speak normally, and so on. 
+Form: Green metal helm with a scaly or fishy motif Effect: The wearer's head is enveloped in a tight bubble of air that constantly renews itself, allowing them to breathe underwater indefinitely, speak normally, and so on.
 
-Depletion: 1–2 in 1d100 (check each day) 
+Depletion: 1–2 in 1d100 (check each day)
 
-HORN OF THUNDER 
+HORN OF THUNDER
 
-Level: 1d6 + 4 
+Level: 1d6 + 4
 
-Form: Large signal horn banded with metal and carved with runes 
+Form: Large signal horn banded with metal and carved with runes
 
-Effect: This massive instrument can barely be held or carried by a single person. When activated, it emits a 50-foot (15 m) wide cone of pure sonic force out to long range. Any creature in that area is knocked prone and stunned for one round, losing its action. Unfixed items the size of a human or smaller are toppled and/or moved at least 5 feet (1.5 m). Larger objects might also be toppled. 
+Effect: This massive instrument can barely be held or carried by a single person. When activated, it emits a 50-foot (15 m) wide cone of pure sonic force out to long range. Any creature in that area is knocked prone and stunned for one round, losing its action. Unfixed items the size of a human or smaller are toppled and/or moved at least 5 feet (1.5 m). Larger objects might also be toppled.
 
 Depletion: 1 in 1d10
 
-INSTANT LADDER 
+INSTANT LADDER
 
-Level: 1d6 
+Level: 1d6
 
-Form: Small lightweight metal rod with gem buttons 
+Form: Small lightweight metal rod with gem buttons
 
-Effect: When activated, the rod extends and produces rungs so that it can be used as a ladder up to 28 feet (9 m) long. The ladder can be transformed back into its rod form from either end. 
+Effect: When activated, the rod extends and produces rungs so that it can be used as a ladder up to 28 feet (9 m) long. The ladder can be transformed back into its rod form from either end.
 
-Depletion: 1 in 1d100 
+Depletion: 1 in 1d100
 
 A creature unfamiliar with the buttons on an instant ladder needs to spend several rounds figuring out the proper sequence to expand or collapse it.
 
-LIGHTNING HAMMER 
+LIGHTNING HAMMER
 
-Level: 1d6 + 2 
+Level: 1d6 + 2
 
-Form: Massive silver hammer that crackles with electricity 
+Form: Massive silver hammer that crackles with electricity
 
-Effect: This hammer functions as a normal heavy weapon. However, if the wielder uses an action to activate it, the weapon radiates electricity for one round. If used to attack on the next round, the hammer inflicts an additional 10 points of electricity damage. The user can choose to strike the ground instead, sending shockwaves of electricity outward that deal 5 points of damage to everyone within short range. 
+Effect: This hammer functions as a normal heavy weapon. However, if the wielder uses an action to activate it, the weapon radiates electricity for one round. If used to attack on the next round, the hammer inflicts an additional 10 points of electricity damage. The user can choose to strike the ground instead, sending shockwaves of electricity outward that deal 5 points of damage to everyone within short range.
 
 Depletion: 1 in 1d6 (still usable as a normal heavy weapon after depletion)
 
-MASTERCRAFT ARMOR 
+MASTERCRAFT ARMOR
 
-Level: 1d6 
+Level: 1d6
 
-Form: Armor of exceptional quality 
+Form: Armor of exceptional quality
 
-Effect: This armor grants its wearer an asset for Speed defense rolls. 
+Effect: This armor grants its wearer an asset for Speed defense rolls.
 
-Depletion: --- 
+Depletion: ---
 
-MASTERCRAFT WEAPON 
+MASTERCRAFT WEAPON
 
-Level: 1d6 
+Level: 1d6
 
-Form: Weapon of exceptional quality 
+Form: Weapon of exceptional quality
 
-Effect: This weapon grants its wielder an asset for attack rolls made with it. 
+Effect: This weapon grants its wielder an asset for attack rolls made with it.
 
-Depletion: --- 
+Depletion: ---
 
 Depending on the game world, mastercraft armor and weapons might be magical, mundanely crafted with exceptional quality, or both. To randomly determine what kind of mastercraft armor or weapon is found, see Chapter 4: Medieval Fantasy Equipment, page 34.
 
-MINDSHIELD HELMET 
+MINDSHIELD HELMET
 
-Level: 1d6 + 2 
+Level: 1d6 + 2
 
-Form: Lightweight cloth, leather, or metal helmet 
+Form: Lightweight cloth, leather, or metal helmet
 
-Effect: The wearer gains 3 Armor that protects against Intellect damage only. Further, attempts to affect the wearer's mind are hindered (or hindered by two steps if the artifact is level 7 or higher). 
+Effect: The wearer gains 3 Armor that protects against Intellect damage only. Further, attempts to affect the wearer's mind are hindered (or hindered by two steps if the artifact is level 7 or higher).
 
-Depletion: --- 
+Depletion: ---
 
-NECROMANTIC WAND 
+NECROMANTIC WAND
 
-Level: 1d6 + 4 
+Level: 1d6 + 4
 
-Form: Bone wand carved with runes 
+Form: Bone wand carved with runes
 
-Effect: This wand emits a faint short-range beam of sickly violet light that affects only organic creatures and materials. Living targets hit by the beam move one step down the damage track. Nonliving organic targets are likely destroyed. 
+Effect: This wand emits a faint short-range beam of sickly violet light that affects only organic creatures and materials. Living targets hit by the beam move one step down the damage track. Nonliving organic targets are likely destroyed.
 
-This device is a rapid-fire weapon and thus can be used with the Spray or Arc Spray abilities that some characters have, but each "round of ammo" used or each additional target selected requires an additional depletion roll. 
+This device is a rapid-fire weapon and thus can be used with the Spray or Arc Spray abilities that some characters have, but each "round of ammo" used or each additional target selected requires an additional depletion roll.
 
 Depletion: 1 in 1d10
 
-PACK OF STORAGE 
+PACK OF STORAGE
 
-Level: 1d6 + 1 
+Level: 1d6 + 1
 
 Form: Leather backpack or haversack with multiple pockets
 
-Effect: This pack's mouth can be loosened to open as wide as 6 feet (2 m) in diameter. It is larger on the inside than on the outside, and can carry up to 500 pounds (226 kg) or 10 cubic feet (.3 cubic m). The pack weighs about one-tenth as much as it is holding. 
+Effect: This pack's mouth can be loosened to open as wide as 6 feet (2 m) in diameter. It is larger on the inside than on the outside, and can carry up to 500 pounds (226 kg) or 10 cubic feet (.3 cubic m). The pack weighs about one-tenth as much as it is holding.
 
-Depletion: 1 in 1d100 (check each time something is added to the pack; on depletion, all objects are expelled from the pack) 
+Depletion: 1 in 1d100 (check each time something is added to the pack; on depletion, all objects are expelled from the pack)
 
-POISONER'S TOUCH 
+POISONER'S TOUCH
 
-Level: 1d6 + 1 
+Level: 1d6 + 1
 
 Form: Very thin transparent glove with faint markings
 
-Effect: When the wearer activates the glove (which might require speaking a command word or tracing a specific pattern on its surface), it secretes a small amount of poison. The next creature the wearer touches with the glove takes Speed damage equal to the artifact level (ignores Armor) and must make a new Might defense roll each round or suffer the damage again until either they succeed at the defense roll or five rounds pass, whichever comes first. 
+Effect: When the wearer activates the glove (which might require speaking a command word or tracing a specific pattern on its surface), it secretes a small amount of poison. The next creature the wearer touches with the glove takes Speed damage equal to the artifact level (ignores Armor) and must make a new Might defense roll each round or suffer the damage again until either they succeed at the defense roll or five rounds pass, whichever comes first.
 
-Depletion: 1 in 1d10 
+Depletion: 1 in 1d10
 
-PROTECTION AMULET 
+PROTECTION AMULET
 
-Level: 1d6 
+Level: 1d6
 
-Form: Stylized amulet worn on a chain 
+Form: Stylized amulet worn on a chain
 
 Effect: The amulet reduces one type of damage by an amount equal to the artifact level. Roll a d20 to determine the kind of damage the amulet protects against.
 
@@ -857,214 +857,214 @@ Effect: The amulet reduces one type of damage by an amount equal to the artifact
 
 Depletion: 1 in 1d6 (check each time the amulet reduces damage)
 
-RING OF FALL FLOURISHING 
+RING OF FALL FLOURISHING
 
-Level: 1d6 
+Level: 1d6
 
-Form: Gold band inscribed with feather wreath 
+Form: Gold band inscribed with feather wreath
 
-Effect: The wearer of the ring can fall any distance safely, landing easily and upright. 
+Effect: The wearer of the ring can fall any distance safely, landing easily and upright.
 
-Depletion: 1 in 1d100 
+Depletion: 1 in 1d100
 
-RING OF INVISIBILITY 
+RING OF INVISIBILITY
 
-Level: 1d6 
+Level: 1d6
 
-Form: Gold band inscribed with characters that are revealed only if ring is heated 
+Form: Gold band inscribed with characters that are revealed only if ring is heated
 
-Effect: The wearer of the ring becomes invisible for one minute. While invisible, the wearer is specialized in stealth and Speed defense tasks. The effect ends if they attack or spend points from a Pool for any reason. 
+Effect: The wearer of the ring becomes invisible for one minute. While invisible, the wearer is specialized in stealth and Speed defense tasks. The effect ends if they attack or spend points from a Pool for any reason.
 
-Depletion: 1 in 1d20 
+Depletion: 1 in 1d20
 
-RING OF WISHES 
+RING OF WISHES
 
-Level: 1d6 + 4 
+Level: 1d6 + 4
 
-Form: Plain gold band 
+Form: Plain gold band
 
-Effect: The user makes a wish, and it is granted, within limits. The level of the effect granted is no greater than the level of the artifact, as determined by the GM, who can modify the effect accordingly. (The larger the wish, the more likely the GM will limit its effect.) 
+Effect: The user makes a wish, and it is granted, within limits. The level of the effect granted is no greater than the level of the artifact, as determined by the GM, who can modify the effect accordingly. (The larger the wish, the more likely the GM will limit its effect.)
 
-Depletion: 1–3 in 1d6 
+Depletion: 1–3 in 1d6
 
-SHIELD OF TWO SKIES 
+SHIELD OF TWO SKIES
 
-Level: 1d6 + 2 
+Level: 1d6 + 2
 
-Form: Small hexagonal amulet 
+Form: Small hexagonal amulet
 
-Effect: Upon activation, the amulet creates a faint glow around the wearer that provides +2 to Armor against heat and cold (or +3 for artifact level 6 and higher). The effect lasts for ten minutes. 
+Effect: Upon activation, the amulet creates a faint glow around the wearer that provides +2 to Armor against heat and cold (or +3 for artifact level 6 and higher). The effect lasts for ten minutes.
 
 Depletion: 1 in 1d100
 
 SKILL RING
 
-Level: 1d6 
+Level: 1d6
 
-Form: Ring carved with sigils appropriate to its granted skill 
+Form: Ring carved with sigils appropriate to its granted skill
 
-Effect: This ring grants its wearer knowledge of a specific skill, such as climbing, jumping, history, or persuasion. This grants the wearer training in that skill (or in two skills if the artifact is level 5 or higher). 
+Effect: This ring grants its wearer knowledge of a specific skill, such as climbing, jumping, history, or persuasion. This grants the wearer training in that skill (or in two skills if the artifact is level 5 or higher).
 
-Depletion: --- 
+Depletion: ---
 
-SMOOTH-STEPPING BOOTS 
+SMOOTH-STEPPING BOOTS
 
-Level: 1d6 + 1 
+Level: 1d6 + 1
 
-Form: Pair of boots 
+Form: Pair of boots
 
-Effect: When the boots are activated, for the next hour the wearer can move across rough or difficult terrain at normal speed, walk up walls, and even walk across liquids. In areas of low or no gravity, the wearer can walk along hard surfaces (even vertically or upside down) as if under normal gravity. 
-
-Depletion: 1 in 1d100 
-
-SOUL-STEALING KNIFE 
-
-Level: 1d6 
-
-Form: Night-black blade in which distant stars are sometimes visible 
-
-Effect: This knife functions as a normal light weapon. However, if the wielder wishes, on a successful attack, it inflicts additional damage (ignores Armor) equal to the artifact's level. If damage from the dagger reduces a target to 0 health, the target's soul is drawn into the blade. The soul remains trapped there for up to three days, after which time it is consumed. (Alternatively, the wielder can release the soul to whatever its fate would otherwise be.) 
-
-As a separate activation, the wielder can ask three questions of a creature whose soul is trapped in the blade and not yet consumed. After answering the third question, the soul is consumed. 
-
-Depletion: 1 in 1d20 (check each activation)
-
-SOVEREIGN KEY 
-
-Level: 1d6 + 2 
-
-Form: Slender golden key 
-
-Effect: When touched to a lock or the surface of a sealed object (such as a chest, envelope, or urn), the key briefly glows and attempts to open the target. Sealed objects fall open like peeled fruits if their level is equal to or less than the artifact level, and locks open easily if their level is equal to or less than the artifact level. 
-
-Depletion: 1 in 1d10 
-
-SPELLBOOK OF ELEMENTAL SUMMONING 
-
-Level: 1d6 + 1 
-
-Form: Weighty tome filled with pages of spell runes 
-
-Effect: When the user incants from the spellbook and succeeds at a level 3 Intellect task, they can summon an elemental of one specific kind described in the book (earth, fire, thorn, or some other type). The elemental appears and does the summoner's bidding for up to one hour, unless it somehow breaks the geas created by the book. 
-
-Depletion: 1–3 in 1d20
-
-STAFF OF BLACK IRON 
-
-Level: 1d6 + 2 
-
-Form: Staff of black iron set with an eye-shaped crystal headpiece 
-
-Effect: The wielder can use an action to gain one of the following effects. 
-
-Influence: The wielder makes a mental attack on a creature within immediate range by providing a suggestion. An affected target follows any suggestion during its next turn that doesn't cause direct harm to itself or its allies. 
-
-Lightning: The wielder discharges a bolt of lightning that attacks all targets along a straight line out to long range, inflicting damage equal to the artifact level. 
-
-Shield: For one hour, the wielder gains the protective effect of using a normal shield (an asset on their Speed defense rolls). This effect is invisible and doesn't require them to hold a shield; merely touching the staff is sufficient. 
-
-The staff can have more than one effect ongoing at a time (such as using the shield ability and blasting someone with lightning), but each requires a separate activation and depletion roll.
-
-Depletion: 1 in 1d100 
-
-STAFF OF HEALING
-
-Level: 1d6 + 4 
-
-Form: Wooden staff capped with a golden icon 
-
-Effect: The staff emits a short-range beam of silvery light that affects only living creatures. A living creature hit by the beam moves up one step on the damage track. A target that is not down on the damage track can immediately make a free recovery roll (or, for NPCs, regain a number of points of health equal to three times their level). 
-
-Depletion: 1 in 1d10
-
-STAFF OF THE PROPHET 
-
-Level: 1d6 + 2 
-
-Form: Short wooden staff 
-
-Effect: The staff has three abilities, each of which requires an action to activate. 
-
-Sea Passage. Creates a dry route through a body of water. The route is approximately 20 feet (6 m) wide, up to 1,000 feet (300 m) deep, and as long as the body of water is wide. The path remains open for up to four hours, or the wielder can collapse it as an action. 
-
-Snake Form. Staff transforms into a venomous snake whose level is equal to the artifact level. The snake has a bite attack that inflicts 6 points of damage, plus 3 additional points of Speed damage (ignores Armor) for three rounds on a failed Might defense roll. The snake obeys the wielder's verbal commands, but it can't do anything a regular snake couldn't do.  
-Water From Stone. Produces approximately 10 gallons (38 liters) of pure water within immediate range, as if from a natural spring in the ground. 
-
-Depletion: 1 in 1d20 
-
-STORM SHACK 
-
-Level: 1d6 + 3 
-
-Form: Miniature model of a simple wooden shack 
-
-Effect: Activating the artifact transforms it over the next few rounds into a simple wooden shack that is 10 feet by 10 feet (3 m by 3 m) with a thin door. Everything inside the area of the full-size shack is protected from most forms of inclement weather for one hour (or ten hours for artifact level 6 and higher). Leaving or entering the shack before the duration is up makes it harmlessly collapse upon itself unless the character succeeds on a Speed roll against the artifact's level. If collapsed early or the duration runs out, the shack collapses into sticks, dust, and the miniature model, which can be taken and reused. 
+Effect: When the boots are activated, for the next hour the wearer can move across rough or difficult terrain at normal speed, walk up walls, and even walk across liquids. In areas of low or no gravity, the wearer can walk along hard surfaces (even vertically or upside down) as if under normal gravity.
 
 Depletion: 1 in 1d100
 
-TRAP RUNESTONE 
+SOUL-STEALING KNIFE
 
-Level: 1d6 
+Level: 1d6
 
-Form: Pouch with chalk, sealing wax, and an engraved runestone 
+Form: Night-black blade in which distant stars are sometimes visible
 
-Effect: A simple cypher (such as a potion or scroll) can be modified with this set of implements to turn it into a trap. First, the cypher is attached to a surface with the sealing wax, then the user must make a difficulty 4 Intellect task to draw the runestone symbols around the edge of the cypher with the chalk and place the runestone in the correct position. When the trap is triggered, the cypher is activated, so people often use straightforward cyphers such as an explosive spell scroll, a poisonous potion, and so on. 
+Effect: This knife functions as a normal light weapon. However, if the wielder wishes, on a successful attack, it inflicts additional damage (ignores Armor) equal to the artifact's level. If damage from the dagger reduces a target to 0 health, the target's soul is drawn into the blade. The soul remains trapped there for up to three days, after which time it is consumed. (Alternatively, the wielder can release the soul to whatever its fate would otherwise be.)
 
-The trigger can react to a specified movement within 3 feet (1 m)---a door opening, a creature or object moving past the runestone, and so on. The higher the level of the artifact, the more sophisticated the trigger. For example, a level 4 artifact's trigger might be based on a creature's size or weight, a level 5 artifact can trigger based on a specific type of creature, and a level 6 artifact can trigger based on recognizing an individual creature. 
+As a separate activation, the wielder can ask three questions of a creature whose soul is trapped in the blade and not yet consumed. After answering the third question, the soul is consumed.
 
-Depletion: Automatic 
+Depletion: 1 in 1d20 (check each activation)
 
-TUNNELING GAUNTLETS 
+SOVEREIGN KEY
 
-Level: 1d6 + 1 
+Level: 1d6 + 2
 
-Form: Oversized pair of metallic gauntlets with broad nails 
+Form: Slender golden key
 
-Effect: When activated, for one hour the gauntlets let the wearer burrow up to an immediate distance each round. They can burrow through most soils and even some stone, but only through material whose level is lower than the artifact level. Burrowing leaves behind a tunnel with a diameter of 5 feet (1.5 m) that remains stable for several hours. After that, the tunnel is subject to collapse. 
+Effect: When touched to a lock or the surface of a sealed object (such as a chest, envelope, or urn), the key briefly glows and attempts to open the target. Sealed objects fall open like peeled fruits if their level is equal to or less than the artifact level, and locks open easily if their level is equal to or less than the artifact level.
+
+Depletion: 1 in 1d10
+
+SPELLBOOK OF ELEMENTAL SUMMONING
+
+Level: 1d6 + 1
+
+Form: Weighty tome filled with pages of spell runes
+
+Effect: When the user incants from the spellbook and succeeds at a level 3 Intellect task, they can summon an elemental of one specific kind described in the book (earth, fire, thorn, or some other type). The elemental appears and does the summoner's bidding for up to one hour, unless it somehow breaks the geas created by the book.
+
+Depletion: 1–3 in 1d20
+
+STAFF OF BLACK IRON
+
+Level: 1d6 + 2
+
+Form: Staff of black iron set with an eye-shaped crystal headpiece
+
+Effect: The wielder can use an action to gain one of the following effects.
+
+Influence: The wielder makes a mental attack on a creature within immediate range by providing a suggestion. An affected target follows any suggestion during its next turn that doesn't cause direct harm to itself or its allies.
+
+Lightning: The wielder discharges a bolt of lightning that attacks all targets along a straight line out to long range, inflicting damage equal to the artifact level.
+
+Shield: For one hour, the wielder gains the protective effect of using a normal shield (an asset on their Speed defense rolls). This effect is invisible and doesn't require them to hold a shield; merely touching the staff is sufficient.
+
+The staff can have more than one effect ongoing at a time (such as using the shield ability and blasting someone with lightning), but each requires a separate activation and depletion roll.
+
+Depletion: 1 in 1d100
+
+STAFF OF HEALING
+
+Level: 1d6 + 4
+
+Form: Wooden staff capped with a golden icon
+
+Effect: The staff emits a short-range beam of silvery light that affects only living creatures. A living creature hit by the beam moves up one step on the damage track. A target that is not down on the damage track can immediately make a free recovery roll (or, for NPCs, regain a number of points of health equal to three times their level).
+
+Depletion: 1 in 1d10
+
+STAFF OF THE PROPHET
+
+Level: 1d6 + 2
+
+Form: Short wooden staff
+
+Effect: The staff has three abilities, each of which requires an action to activate.
+
+Sea Passage. Creates a dry route through a body of water. The route is approximately 20 feet (6 m) wide, up to 1,000 feet (300 m) deep, and as long as the body of water is wide. The path remains open for up to four hours, or the wielder can collapse it as an action.
+
+Snake Form. Staff transforms into a venomous snake whose level is equal to the artifact level. The snake has a bite attack that inflicts 6 points of damage, plus 3 additional points of Speed damage (ignores Armor) for three rounds on a failed Might defense roll. The snake obeys the wielder's verbal commands, but it can't do anything a regular snake couldn't do.  
+Water From Stone. Produces approximately 10 gallons (38 liters) of pure water within immediate range, as if from a natural spring in the ground.
 
 Depletion: 1 in 1d20
 
-VORPAL SWORD 
+STORM SHACK
 
-Level: 1d6 + 3 
+Level: 1d6 + 3
 
-Form: Long sword that sometimes whispers and snickers aloud 
+Form: Miniature model of a simple wooden shack
 
-Effect: The vorpal sword cuts through any material of a level lower than its own. It is a medium weapon that ignores Armor of a level lower than its own. On a natural attack roll of 19 or 20, the suggested minor or major effect is decapitation if the artifact is higher level than the foe (use this only if the foe has a head; otherwise, choose a different effect). 
+Effect: Activating the artifact transforms it over the next few rounds into a simple wooden shack that is 10 feet by 10 feet (3 m by 3 m) with a thin door. Everything inside the area of the full-size shack is protected from most forms of inclement weather for one hour (or ten hours for artifact level 6 and higher). Leaving or entering the shack before the duration is up makes it harmlessly collapse upon itself unless the character succeeds on a Speed roll against the artifact's level. If collapsed early or the duration runs out, the shack collapses into sticks, dust, and the miniature model, which can be taken and reused.
 
-Depletion: 1–2 in 1d100 (check each decapitation and specific attempt to cut through solid material) 
+Depletion: 1 in 1d100
 
-WAND OF SPIDER'S WEBBING 
+TRAP RUNESTONE
 
-Level: 1d6 + 1 
+Level: 1d6
 
-Form: White oak wand 
+Form: Pouch with chalk, sealing wax, and an engraved runestone
 
-Effect: This wand produces a long-range stream of grey spider's webbing that entangles a target and holds it stuck to nearby surfaces. Entangled victims can't move or take actions that require movement. Targets whose level is higher than the wand's level can usually break free within one or two rounds. The entangling web is highly flammable, and if ignited it burns away over the course of one round, but the intense heat inflicts damage equal to the artifact level on whatever was caught within it. 
+Effect: A simple cypher (such as a potion or scroll) can be modified with this set of implements to turn it into a trap. First, the cypher is attached to a surface with the sealing wax, then the user must make a difficulty 4 Intellect task to draw the runestone symbols around the edge of the cypher with the chalk and place the runestone in the correct position. When the trap is triggered, the cypher is activated, so people often use straightforward cyphers such as an explosive spell scroll, a poisonous potion, and so on.
 
-Depletion: 1 in 1d20 
+The trigger can react to a specified movement within 3 feet (1 m)---a door opening, a creature or object moving past the runestone, and so on. The higher the level of the artifact, the more sophisticated the trigger. For example, a level 4 artifact's trigger might be based on a creature's size or weight, a level 5 artifact can trigger based on a specific type of creature, and a level 6 artifact can trigger based on recognizing an individual creature.
 
-WHISPERER IN THE ETHER 
+Depletion: Automatic
 
-Level: 1d6 + 1 
+TUNNELING GAUNTLETS
 
-Form: Small crystal 
+Level: 1d6 + 1
 
-Effect: The bearer of this crystal can telepathically communicate with an immortal being whose location is unknown (probably another dimension or a godly or infernal realm). The user can converse with the intelligence on an ongoing basis, but in general, the whisperer can share a useful bit of information, insight, or advice about once every day. Sometimes, this translates into an asset on one of the user's actions. For example, the intelligence can suggest the right phrase to make friends with a shopkeeper to get a good deal, the right tools to use while trying to break open a door, or the right place to put a shield to deflect an incoming attack. Sometimes the information is more broad, such as the right road to take to reach the next town or why a group of monsters is attacking the caravan the bearer is guarding. 
+Form: Oversized pair of metallic gauntlets with broad nails
 
-The whisperer's willingness and ability to converse varies considerably. Sometimes it is quite chatty and offers advice. Other times, it must be convinced, cajoled, or tricked into giving information. And sometimes, it is entirely absent for reasons it will not explain. The whisperer's knowledge base is broad but not omniscient. It cannot see the future, but it can often predict outcomes based on logic. 
+Effect: When activated, for one hour the gauntlets let the wearer burrow up to an immediate distance each round. They can burrow through most soils and even some stone, but only through material whose level is lower than the artifact level. Burrowing leaves behind a tunnel with a diameter of 5 feet (1.5 m) that remains stable for several hours. After that, the tunnel is subject to collapse.
+
+Depletion: 1 in 1d20
+
+VORPAL SWORD
+
+Level: 1d6 + 3
+
+Form: Long sword that sometimes whispers and snickers aloud
+
+Effect: The vorpal sword cuts through any material of a level lower than its own. It is a medium weapon that ignores Armor of a level lower than its own. On a natural attack roll of 19 or 20, the suggested minor or major effect is decapitation if the artifact is higher level than the foe (use this only if the foe has a head; otherwise, choose a different effect).
+
+Depletion: 1–2 in 1d100 (check each decapitation and specific attempt to cut through solid material)
+
+WAND OF SPIDER'S WEBBING
+
+Level: 1d6 + 1
+
+Form: White oak wand
+
+Effect: This wand produces a long-range stream of grey spider's webbing that entangles a target and holds it stuck to nearby surfaces. Entangled victims can't move or take actions that require movement. Targets whose level is higher than the wand's level can usually break free within one or two rounds. The entangling web is highly flammable, and if ignited it burns away over the course of one round, but the intense heat inflicts damage equal to the artifact level on whatever was caught within it.
+
+Depletion: 1 in 1d20
+
+WHISPERER IN THE ETHER
+
+Level: 1d6 + 1
+
+Form: Small crystal
+
+Effect: The bearer of this crystal can telepathically communicate with an immortal being whose location is unknown (probably another dimension or a godly or infernal realm). The user can converse with the intelligence on an ongoing basis, but in general, the whisperer can share a useful bit of information, insight, or advice about once every day. Sometimes, this translates into an asset on one of the user's actions. For example, the intelligence can suggest the right phrase to make friends with a shopkeeper to get a good deal, the right tools to use while trying to break open a door, or the right place to put a shield to deflect an incoming attack. Sometimes the information is more broad, such as the right road to take to reach the next town or why a group of monsters is attacking the caravan the bearer is guarding.
+
+The whisperer's willingness and ability to converse varies considerably. Sometimes it is quite chatty and offers advice. Other times, it must be convinced, cajoled, or tricked into giving information. And sometimes, it is entirely absent for reasons it will not explain. The whisperer's knowledge base is broad but not omniscient. It cannot see the future, but it can often predict outcomes based on logic.
 
 Depletion: 1 in 1d20 (check each day)
 
 WITCH'S BROOM
 
-Level: 1d6 + 2 
+Level: 1d6 + 2
 
-Form: A 6-foot (2 m) long wooden broom 
+Form: A 6-foot (2 m) long wooden broom
 
-Effect: As a vehicle, the broom can be ridden a long distance each round. On extended trips, it can move up to 100 miles (160 km) per hour. 
+Effect: As a vehicle, the broom can be ridden a long distance each round. On extended trips, it can move up to 100 miles (160 km) per hour.
 
-The bearer can call upon the broom to grant them a powerful hallucinogenic state that lasts for four hours, during which time all tasks are hindered. After the hallucinations end, the bearer's Intellect tasks are eased for the next ten minutes. 
+The bearer can call upon the broom to grant them a powerful hallucinogenic state that lasts for four hours, during which time all tasks are hindered. After the hallucinations end, the bearer's Intellect tasks are eased for the next ten minutes.
 
 Depletion: 1 in 1d20
 
@@ -1150,7 +1150,7 @@ Just like in the standard system, characters end up with a sentence to describe 
 
 All characters start with 1 XP.
 
-DESCRIPTORS 
+DESCRIPTORS
 
 A descriptor quickly and easily distinguishes the character from the others. Ideally, no two players have the same descriptor.
 
@@ -1194,13 +1194,13 @@ This character might be called a Thief, a Scout, a Street Rat, or a Slacker (jus
 
 • Add +2 to recovery rolls
 
-Searching And Discovering 
+Searching And Discovering
 
 This character might be called an Explorer, a Detective, a Scientist, or a Middle Manager (just to name a few), depending on the situation. Choose two of the following abilities:
 
 • Trained in perception and Intellect defense rolls
 
-• Trained in Might and Speed defense rolls 
+• Trained in Might and Speed defense rolls
 
 • Trained in two of the following: climbing, jumping, running, swimming
 
@@ -1212,13 +1212,13 @@ This character might be called a Diplomat, a Priest, a Con Artist, or a Salesper
 
 • Trained in perception and deception
 
-• Trained in intimidation and interaction 
+• Trained in intimidation and interaction
 
-• Distract someone, preventing them from acting for as long as you focus on them (costs 1 Intellect point) 
+• Distract someone, preventing them from acting for as long as you focus on them (costs 1 Intellect point)
 
 • Add +2 to recovery rolls
 
-Wielding Supernatural Powers 
+Wielding Supernatural Powers
 
 This type isn't suited to all scenarios, obviously---it depends on the genre. This character might be called a Psychic, a Wizard, a Superhero, or a Mutant (just to name a few), depending on the situation. The player and GM will have to briefly work out the specifics together. Choose two of the following abilities:
 
@@ -1278,7 +1278,7 @@ THE CONCLUSION
 
 Ideally, as with a movie, the end of a Cypher Short session comes to a nice story conclusion (though not every ending needs to be a happy one). Hopefully, the main situation has been resolved one way or another, and the implications of what probably happens next for the characters and the setting are self-evident. But with a Cypher Short, we don't worry too much about what happens next. It's a one-shot scenario.
 
-TRAPPED IN FLAMES 
+TRAPPED IN FLAMES
 
 The Premise: The characters work in a tall skyscraper. Suddenly, there's an explosion, and the fire alarms start ringing!
 
