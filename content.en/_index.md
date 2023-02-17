@@ -22,7 +22,9 @@ It doesn't have everything formatted. I am currently on Game Mastering. I do thi
 
 ## Support
 
-If you would like to offer support, I encourage you to first try offering support through contributing to this endeavor. Be it frontend work (I am a DevOps/Backend dev), formatting, styling, etc. Even if we need to migrate to something other than Hugo (mkdocs, gatsby, whatever), open source contributions would be preferred. Or if you want to proofread, find typos, mistakes, formatting problems. Just [open an issue](https://github.com/Daegalus/csrd/issues/new) on Github.
+If you would like to offer support, I encourage you to first try offering support through contributing to this endeavor. Be it frontend work (I am a DevOps/Backend dev), formatting, styling, etc. Even if we need to migrate to something other than Hugo (mkdocs, gatsby, whatever), open source contributions would be preferred. 
+
+Or if you want to proofread, find typos, mistakes, formatting problems. Just [open an issue](https://github.com/Daegalus/csrd/issues/new) on Github.
 
 Otherwise, I encourage you to just spread the word on the system, support Monte Cook Games from their store linked above or DriveThruRPG. Share the system.
 
