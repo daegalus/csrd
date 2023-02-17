@@ -3,7 +3,7 @@ title: Fantasy Rules Module
 weight: 3
 ---
 
-# FANTASY RULES MODULES
+# Fantasy Rules Modules
 
 ## Awarding Treasure
 
