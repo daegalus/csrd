@@ -1,0 +1,20 @@
+<div class="book-columns flex flex-wrap display-flex">
+{{ $data := split .Inner "<--->" }}
+{{ $dataSize := len $data }}
+{{ $lastIndex := sub $dataSize 1 }}
+{{ range $elem_index, $elem_value := $data }}
+  {{ if eq $elem_index 0 }}
+  <div class="flex-even justify-between markdown-inner text-left">
+    {{ $elem_value | $.Page.RenderString }}
+  </div>
+  {{ else if ne $elem_index $lastIndex }}
+  <div class="flex-even justify-between markdown-inner text-center">
+    {{ $elem_value | $.Page.RenderString }}
+  </div>
+  {{ else }}
+  <div class="flex-even justify-between markdown-inner text-right">
+    {{ $elem_value | $.Page.RenderString }}
+  </div>
+  {{ end }}
+{{ end }}
+</div>

@@ -1,8 +1,22 @@
 Headings
-^([A-Z,\-\/ ':]+)$ 
+^([A-Z,\-\/ ':]+)$
+## $1
 
 Bold lists
 ^([A-Za-z,\-\/ ':]+): 
+**$1:** 
 
 Table Headers
 \|\s+\|\s+\|\n(\|[\s\-]+\|[\s\-]+\|)\n(\|.*\|)
+
+Scifi Equipment Listing
+^(.*)\n\n(Level \d+ \(\d+\))\n\n(.*)
+**{{< columns >}}$1<--->$2<--->$3{{< /columns >}}**
+
+No Column to Column2 converter
+\{\{< hint danger >\}\} (.*) - (\d+ \(\d+\)) \{\{< \/hint >\}\}
+{{< hint danger >}} {{< columns2 >}} $1 <---> $2 {{< /columns2 >}} {{< /hint >}}
+
+Monster Name/Level to columns2
+^([A-Z \-']+) (\d+ \(\d+\))
+{{< hint danger >}} {{< columns2 >}} \u\L$1 <---> $2 {{< /columns2 >}}{{< /hint >}}

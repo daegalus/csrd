@@ -24,7 +24,9 @@ It doesn't have everything formatted. I am currently on Genres. I do this in my 
 
 If you would like to offer support, I encourage you to first try offering support through contributing to this endeavor. Be it frontend work (I am a DevOps/Backend dev), formatting, styling, etc. Even if we need to migrate to something other than Hugo (mkdocs, gatsby, whatever), open source contributions would be preferred. Or if you want to proofread, find typos, mistakes, formatting problems. Just [open an issue](https://github.com/Daegalus/csrd/issues/new) on Github.
 
-If you wish to buy me a coffee or beer, feel free to use the option below.
+Otherwise, I encourage you to just spread the word on the system, support Monte Cook Games from their store linked above or DriveThruRPG. Share the system.
+
+If you genuinely wish to buy me a coffee or beer after all that, feel free to use the option below.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y51A3NY)
 <!--[![paypal donate](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png)](https://www.paypal.com/donate/?hosted_button_id=G3Y2XJK29M2KG)-->
