@@ -1,0 +1,8 @@
+Headings
+^([A-Z,\-\/ ':]+)$ 
+
+Bold lists
+^([A-Za-z,\-\/ ':]+): 
+
+Table Headers
+\|\s+\|\s+\|\n(\|[\s\-]+\|[\s\-]+\|)\n(\|.*\|)

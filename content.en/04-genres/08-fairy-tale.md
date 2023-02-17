@@ -5,28 +5,28 @@ weight: 8
 
 # Fairy Tale
 
-The genre of fairy tales is a wide one, crossing into almost every culture and encompassing everything from early oral stories passed down from generation to generation to the more modern literary fairy tale. What makes something a fairy tale? While there’s a great deal of discussion around that question, most have a number of things in common: a series of  
+The genre of fairy tales is a wide one, crossing into almost every culture and encompassing everything from early oral stories passed down from generation to generation to the more modern literary fairy tale. What makes something a fairy tale? While there's a great deal of discussion around that question, most have a number of things in common: a series of  
 far-fetched events; fantastical beings such as talking animals, elves, goblins, mermaids, witches, and dragons; and objects that have magical elements.
 
-One of the powers of a fairy tale—or a game set in a fairy tale-inspired setting—is its ability to create a sense of wonder and to evoke players’ imaginations while still allowing them to keep one foot in the known. The very settings themselves are both enchanted and somehow familiar, whether the characters are entering a magical woods, falling down a rabbit hole, or embarking on a voyage to Neverland. Those beasts and beings who stalk such places are equally wondrous, and offer fantastic starting points for any number of adventures.
+One of the powers of a fairy tale---or a game set in a fairy tale-inspired setting---is its ability to create a sense of wonder and to evoke players' imaginations while still allowing them to keep one foot in the known. The very settings themselves are both enchanted and somehow familiar, whether the characters are entering a magical woods, falling down a rabbit hole, or embarking on a voyage to Neverland. Those beasts and beings who stalk such places are equally wondrous, and offer fantastic starting points for any number of adventures.
 
-To heighten the sense of wonder in a fairy tale adventure or campaign, a GM might consider presenting the game in a modern setting. In a modern setting, characters have regular jobs that don’t normally involve hunting goblins or helping talking fish solve puzzles. This means that when the moths take shape and become the cloak of a princess of summer come to beg a favor or steal a child, or the house grows legs and runs away one morning, the player characters will be rightfully amazed (and perhaps somewhat terrified).
+To heighten the sense of wonder in a fairy tale adventure or campaign, a GM might consider presenting the game in a modern setting. In a modern setting, characters have regular jobs that don't normally involve hunting goblins or helping talking fish solve puzzles. This means that when the moths take shape and become the cloak of a princess of summer come to beg a favor or steal a child, or the house grows legs and runs away one morning, the player characters will be rightfully amazed (and perhaps somewhat terrified).
 
 ## Nature Of Faerie
 
-Faerie (also called by many other names) is a dimension of magic separate from but closely parallel to the mundane world. It doesn’t matter whether Faerie is just a collective term for thousands of separate curled-up dimensions hidden in corners, in closets, or at the center of forests, or it’s one continuous realm that overlaps the real world where it’s thinnest. It’s a place those with open hearts can find by following a way between tall trees (or looming library shelves) to a realm where everything is different. Where elves walk, nymphs dance, unicorns gallop, and both natural growths and built structures become vast and enchanting.
+Faerie (also called by many other names) is a dimension of magic separate from but closely parallel to the mundane world. It doesn't matter whether Faerie is just a collective term for thousands of separate curled-up dimensions hidden in corners, in closets, or at the center of forests, or it's one continuous realm that overlaps the real world where it's thinnest. It's a place those with open hearts can find by following a way between tall trees (or looming library shelves) to a realm where everything is different. Where elves walk, nymphs dance, unicorns gallop, and both natural growths and built structures become vast and enchanting.
 
-Humans don’t tend to do well in such a world if they stay too long, as the sensory input is hard on the nervous system. But fey creatures depend on it, like plants to the light. A fey creature too long cut off from its land of origin (or its stream, hill, or burrow) slowly becomes mortal and then dies.
+Humans don't tend to do well in such a world if they stay too long, as the sensory input is hard on the nervous system. But fey creatures depend on it, like plants to the light. A fey creature too long cut off from its land of origin (or its stream, hill, or burrow) slowly becomes mortal and then dies.
 
-When a fey creature is cut by silvered or cold iron weapons, they temporarily lose the sustaining benefit of their connection to Faerie. This severed connection usually disrupts a fey creature’s ability to heal. A silvered weapon is one that contains silver as part of an alloying process, has silver inlay, or has been coated in a dusting of silver powder (which usually lasts only through a single fight). In truth, many items in the modern era are cold-forged, while many others are not. We suggest that any hand-forged item containing iron could be considered a cold-forged weapon for harming fey creatures. Thus, most bullets and other modern items wouldn’t be treated as cold iron by this definition, but some would fit the bill.
+When a fey creature is cut by silvered or cold iron weapons, they temporarily lose the sustaining benefit of their connection to Faerie. This severed connection usually disrupts a fey creature's ability to heal. A silvered weapon is one that contains silver as part of an alloying process, has silver inlay, or has been coated in a dusting of silver powder (which usually lasts only through a single fight). In truth, many items in the modern era are cold-forged, while many others are not. We suggest that any hand-forged item containing iron could be considered a cold-forged weapon for harming fey creatures. Thus, most bullets and other modern items wouldn't be treated as cold iron by this definition, but some would fit the bill.
 
 ## Basic Creatures And NPCs For A Fairy Tale Game
 
 Most fey creatures of level 2 or higher regain 1 point of health per round, unless wounded by silvered or cold iron weapons.
 
 * **Angry ants:** swarm as a level 1 creature; constantly whisper insults, slurs, and obscenities; those physically attacked must also succeed on a difficulty 3 Might defense task or be stunned and lose their next turn
-* **Erlking:** level 6, stealth as level 7; health 27; Armor 4; short-range whisper attack enthralls target for one hour or until attacked; root tendril attacks on up to three separate targets in immediate range; silvered and cold iron weapons ignore the erlking’s Armor
-  * {{< hint info >}} *Erlking:* An animated accumulation of woodland debris—bark, lost teeth, matted weeds, and dirt—that wears a crown of oak leaves and a cloak of mist. {{< /hint >}}
+* **Erlking:** level 6, stealth as level 7; health 27; Armor 4; short-range whisper attack enthralls target for one hour or until attacked; root tendril attacks on up to three separate targets in immediate range; silvered and cold iron weapons ignore the erlking's Armor
+  * {{< hint info >}} *Erlking:* An animated accumulation of woodland debris---bark, lost teeth, matted weeds, and dirt---that wears a crown of oak leaves and a cloak of mist. {{< /hint >}}
 * **Faerie:** level 4, deception and Speed defense as level 5; short-range magic dust attack inflicts damage or makes target amenable to faerie suggestions for one minute
 * **Feral tree:** level 3; Armor 3; rooted in place; lashing branches attack up to three characters as a single action and on a failed Might defense task, hold the victim in place until they can escape
 * **Nymph:** level 3, stealth and positive social interactions as level 6
@@ -40,7 +40,7 @@ Most fey creatures of level 2 or higher regain 1 point of health per round, unle
 
 ## Fairy Tale Artifacts
 
-Artifacts in a fantasy setting and magic items in other games focused on fantasy would also be suitable for a fairy tale setting. However, every fairy tale artifact should come with a quirk that sets it apart from a simple “wand of fire” or similar item. Come up with your own or roll a quirk on the table below.
+Artifacts in a fantasy setting and magic items in other games focused on fantasy would also be suitable for a fairy tale setting. However, every fairy tale artifact should come with a quirk that sets it apart from a simple "wand of fire" or similar item. Come up with your own or roll a quirk on the table below.
 
 | d10 | Quirk                                                                                                                   |
 |-----|-------------------------------------------------------------------------------------------------------------------------|
@@ -51,6 +51,6 @@ Artifacts in a fantasy setting and magic items in other games focused on fantasy
 | 5   | Also serves as a key to some magically locked doors and chests.                                                         |
 | 6   | Bites owner with tiny teeth if jostled, dealing 1 point of damage.                                                      |
 | 7   | Always muttering and complaining, though useful warnings and other information can sometimes be gained.                 |
-| 8   | Jealous of any other manifest cyphers, artifacts, or beautiful objects in the wielder’s life.                           |
-| 9   | The “painting” of a princess of summer on the object sometimes leaves it, robbing the artifact of power.                |
+| 8   | Jealous of any other manifest cyphers, artifacts, or beautiful objects in the wielder's life.                           |
+| 9   | The "painting" of a princess of summer on the object sometimes leaves it, robbing the artifact of power.                |
 | 10  | Causes flowers to grow wherever it is stored or set down.                                                               |

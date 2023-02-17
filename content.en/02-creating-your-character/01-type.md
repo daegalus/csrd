@@ -5,15 +5,15 @@ weight: 1
 
 # Type
 
-Character type is the core of your character. Your type helps determine your character’s place in the world and relationship with other people in the setting. It’s the noun of the sentence "I am an *adjective noun* who *verbs*."
+Character type is the core of your character. Your type helps determine your character's place in the world and relationship with other people in the setting. It's the noun of the sentence "I am an *adjective noun* who *verbs*."
 
 {{< hint info >}}
 In some roleplaying games, your character type might be called your character class.
 {{< /hint >}}
 
-You can choose from four character types: Warrior, Adept, Explorer, and Speaker. However, you may not want to use these generic names for them. This chapter offers a few more specific names for each type that might be more appropriate to various genres. You’ll find that names like "Warrior" or "Explorer" don’t always feel right, particularly in games set in modern times. As always, you’re free to do as you wish. (Your type is who your character is. You should use whatever name you want for your type, as long as it fits both your character and the setting.)
+You can choose from four character types: Warrior, Adept, Explorer, and Speaker. However, you may not want to use these generic names for them. This chapter offers a few more specific names for each type that might be more appropriate to various genres. You'll find that names like "Warrior" or "Explorer" don't always feel right, particularly in games set in modern times. As always, you're free to do as you wish. (Your type is who your character is. You should use whatever name you want for your type, as long as it fits both your character and the setting.)
 
-Since the type is the basis upon which your whole character is built, it’s important to consider how the type relates to the chosen setting. To help with this, types are actually general archetypes. A Warrior, for example, might be anyone from a knight in shining armor to a cop on the streets to a grizzled cybernetic veteran of a thousand futuristic wars.
+Since the type is the basis upon which your whole character is built, it's important to consider how the type relates to the chosen setting. To help with this, types are actually general archetypes. A Warrior, for example, might be anyone from a knight in shining armor to a cop on the streets to a grizzled cybernetic veteran of a thousand futuristic wars.
 
 To further massage the four types for better use in various settings, different methods called flavors are presented in Flavors to help slightly tailor the types toward fantasy, science fiction, or other genres (or to address different character concepts).
 
@@ -21,9 +21,9 @@ Finally, more fundamental options for further customization are provided at the 
 
 ## Player Intrusion
 
-A player intrusion is the player choosing to alter something in the campaign, making things easier for a player character. Conceptually, it is the reverse of a GM intrusion: instead of the GM giving the player XP and introducing an unexpected complication for a character, the player spends 1 XP and presents a solution to a problem or complication. What a player intrusion can do usually introduces a change to the world or current circumstances rather than directly changing the character. For instance, an intrusion indicating that the cypher just used still has an additional use would be appropriate, but an intrusion that heals the character would not. If a player has no XP to spend, they can’t use a player intrusion.
+A player intrusion is the player choosing to alter something in the campaign, making things easier for a player character. Conceptually, it is the reverse of a GM intrusion: instead of the GM giving the player XP and introducing an unexpected complication for a character, the player spends 1 XP and presents a solution to a problem or complication. What a player intrusion can do usually introduces a change to the world or current circumstances rather than directly changing the character. For instance, an intrusion indicating that the cypher just used still has an additional use would be appropriate, but an intrusion that heals the character would not. If a player has no XP to spend, they can't use a player intrusion.
 
-A few player intrusion examples are provided under each type. That said, not every player intrusion listed there is appropriate for all situations. The GM may allow players to come up with other player intrusion suggestions, but the GM is the final arbiter of whether the suggested intrusion is appropriate for the character’s type and suitable for the situation. If the GM refuses the intrusion, the player doesn’t spend the 1 XP, and the intrusion doesn’t occur.
+A few player intrusion examples are provided under each type. That said, not every player intrusion listed there is appropriate for all situations. The GM may allow players to come up with other player intrusion suggestions, but the GM is the final arbiter of whether the suggested intrusion is appropriate for the character's type and suitable for the situation. If the GM refuses the intrusion, the player doesn't spend the 1 XP, and the intrusion doesn't occur.
 
 Using an intrusion does not require a character to use an action to trigger it. A player intrusion just happens.
 
@@ -39,7 +39,7 @@ Defense tasks are when a player makes a roll to keep something undesirable from 
 
 **Speed defense:** Used for dodging attacks and escaping danger. This is by far the most commonly used defense task.
 
-**Intellect defense:** Used for fending off mental attacks or anything that might affect or influence one’s mind.
+**Intellect defense:** Used for fending off mental attacks or anything that might affect or influence one's mind.
 
 ## Warrior
 
@@ -51,16 +51,16 @@ Defense tasks are when a player makes a roll to keep something undesirable from 
 
 **Superhero/Post-Apocalyptic:** hero, brick, bruiser
 
-You’re a good ally to have in a fight. You know how to use weapons and defend yourself. Depending on the genre and setting in question, this might mean wielding a sword and shield in the gladiatorial arena, an AK-47 and a bandolier of grenades in a savage firefight, or a blaster rifle and powered armor when exploring an alien planet.
+You're a good ally to have in a fight. You know how to use weapons and defend yourself. Depending on the genre and setting in question, this might mean wielding a sword and shield in the gladiatorial arena, an AK-47 and a bandolier of grenades in a savage firefight, or a blaster rifle and powered armor when exploring an alien planet.
 
 **Individual Role:** Warriors are physical,  
-action-oriented people. They’re more likely to overcome a challenge using force than by other means, and they often take the most straightforward path toward their goals.
+action-oriented people. They're more likely to overcome a challenge using force than by other means, and they often take the most straightforward path toward their goals.
 
 **Group Role:** Warriors usually take and deal the most punishment in a dangerous situation. Often it falls on them to protect the other group members from threats. This sometimes means that warriors take on leadership roles as well, at least in combat and other times of danger.
 
-**Societal Role:** Warriors aren’t always soldiers or mercenaries. Anyone who is ready for violence, or even potential violence, might be a Warrior in the general sense. This includes guards, watchmen, police officers, sailors, or people in other roles or professions who know how to defend themselves with skill.
+**Societal Role:** Warriors aren't always soldiers or mercenaries. Anyone who is ready for violence, or even potential violence, might be a Warrior in the general sense. This includes guards, watchmen, police officers, sailors, or people in other roles or professions who know how to defend themselves with skill.
 
-**Advanced Warriors:** As warriors advance, their skill in battle—whether defending themselves or dishing out damage—increases to impressive levels. At higher tiers, they can often take on groups of foes by themselves or stand toe to toe with anyone.
+**Advanced Warriors:** As warriors advance, their skill in battle---whether defending themselves or dishing out damage---increases to impressive levels. At higher tiers, they can often take on groups of foes by themselves or stand toe to toe with anyone.
 
 ### Warrior Background Connection
 
@@ -72,7 +72,7 @@ Your type helps determine the connection you have to the setting. Roll a `d20` o
 | 2     | You were the bodyguard of a wealthy woman who accused you of theft. You left her service in disgrace.                                      |
 | 3     | You were the bouncer in a local bar for a while, and the patrons there remember you.                                                       |
 | 4     | You trained with a highly respected mentor. They regard you well, but they have many enemies.                                              |
-| 5     | You trained in an isolated monastery. The monks think of you as a brother, but you’re a stranger to all others.                            |
+| 5     | You trained in an isolated monastery. The monks think of you as a brother, but you're a stranger to all others.                            |
 | 6     | You have no formal training. Your abilities come to you naturally (or unnaturally).                                                        |
 | 7     | You spent time on the streets and were in prison for a while.                                                                              |
 | 8     | You were conscripted into military service, but you deserted before long.                                                                  |
@@ -86,18 +86,18 @@ Your type helps determine the connection you have to the setting. Roll a `d20` o
 | 16    | Your craftsman friend sometimes calls on you for help. However, they pay you well.                                                         |
 | 17    | Your mentor wrote a book on martial arts. Sometimes people seek you out to ask about its stranger passages.                                |
 | 18    | Someone you fought alongside in the military is now the mayor of a nearby town.                                                            |
-| 19    | You saved the lives of a family when their house burned down. They’re indebted to you, and their neighbors regard you as a hero.           |
+| 19    | You saved the lives of a family when their house burned down. They're indebted to you, and their neighbors regard you as a hero.           |
 | 20    | Your old trainer still expects you to come back and clean up after their classes; when you do, they occasionally share interesting rumors. |
 
 ### Warrior Player Intrusions
 
 You can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.
 
-**Perfect Setup:** You’re fighting at least three foes and each one is standing in exactly the right spot for you to use a move you trained in long ago, allowing you to attack all three as a single action. Make a separate attack roll for each foe. You remain limited by the amount of Effort you can apply on one action.
+**Perfect Setup:** You're fighting at least three foes and each one is standing in exactly the right spot for you to use a move you trained in long ago, allowing you to attack all three as a single action. Make a separate attack roll for each foe. You remain limited by the amount of Effort you can apply on one action.
 
-**Old Friend:** A comrade in arms from your past shows up unexpectedly and provides aid in whatever you’re doing. They are on a mission of their own and can’t stay longer than it takes to help out, chat for a while after, and perhaps share a quick meal.
+**Old Friend:** A comrade in arms from your past shows up unexpectedly and provides aid in whatever you're doing. They are on a mission of their own and can't stay longer than it takes to help out, chat for a while after, and perhaps share a quick meal.
 
-**Weapon Break:** Your foe’s weapon has a weak spot. In the course of the combat, it quickly becomes damaged and moves two steps down the object damage track.
+**Weapon Break:** Your foe's weapon has a weak spot. In the course of the combat, it quickly becomes damaged and moves two steps down the object damage track.
 
 ### Warrior Stat Pools
 
@@ -125,7 +125,7 @@ First-tier warriors have the following abilities:
 
 **Starting Equipment:** Appropriate clothing and two weapons of your choice, plus one expensive item, two moderately priced items, and up to four inexpensive items.
 
-**Special Abilities:** Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.
+**Special Abilities:** Choose four of the abilities listed below. You can't choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.
 
 * Bash
 * Combat Prowess
@@ -225,17 +225,17 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 Ray wants to create a Warrior character for a modern campaign. He decides that the character is an ex-military fellow who is fast and strong. He puts 3 of his additional points into his Might Pool and 3 into his Speed Pool; his stat Pools are now Might 13, Speed 13, and Intellect 8. As a first-tier character, his Effort is 1, his Might Edge is 1, and his Speed Edge and Intellect Edge are both 0. His character is not particularly smart or charismatic.
 
-He wants to use a large combat knife (a medium weapon that inflicts 4 points of damage) and a .357 Magnum (a heavy pistol that inflicts 6 points of damage but requires the use of both hands). Ray decides not to wear armor, as it’s not really appropriate to the setting, so for his first ability, he chooses Trained Without Armor so he eases Speed defense actions. For his second ability, he chooses Combat Prowess so he can inflict extra damage with his big knife.
+He wants to use a large combat knife (a medium weapon that inflicts 4 points of damage) and a .357 Magnum (a heavy pistol that inflicts 6 points of damage but requires the use of both hands). Ray decides not to wear armor, as it's not really appropriate to the setting, so for his first ability, he chooses Trained Without Armor so he eases Speed defense actions. For his second ability, he chooses Combat Prowess so he can inflict extra damage with his big knife.
 
 Ray wants to be fast as well as tough, so he selects Improved Edge. This gives him a Speed Edge of 1. He rounds out his character with Physical Skills and chooses swimming and running.
 
-The Warrior can bear two cyphers. The GM decides that Ray’s first cypher is a pill that restores 6 points of Might when swallowed, and his second is a small, easily concealed grenade that explodes like a firebomb when thrown, inflicting 3 points of damage to all within immediate range.
+The Warrior can bear two cyphers. The GM decides that Ray's first cypher is a pill that restores 6 points of Might when swallowed, and his second is a small, easily concealed grenade that explodes like a firebomb when thrown, inflicting 3 points of damage to all within immediate range.
 
-Ray still needs to choose a descriptor and a focus. Looking ahead to the descriptor rules, Ray chooses Strong, which increases his Might Pool to 17. He also becomes trained in jumping and breaking inanimate objects. (If he had chosen jumping as one of his physical skills, the Strong descriptor would have made him specialized in jumping instead of trained.) Being Strong also gives Ray an extra medium or heavy weapon. He chooses a baseball bat that he’ll use in a pinch. He keeps it in the trunk of his car.
+Ray still needs to choose a descriptor and a focus. Looking ahead to the descriptor rules, Ray chooses Strong, which increases his Might Pool to 17. He also becomes trained in jumping and breaking inanimate objects. (If he had chosen jumping as one of his physical skills, the Strong descriptor would have made him specialized in jumping instead of trained.) Being Strong also gives Ray an extra medium or heavy weapon. He chooses a baseball bat that he'll use in a pinch. He keeps it in the trunk of his car.
 
-For his focus, Ray chooses Masters Weaponry. This gives him yet another weapon of high quality. He chooses another combat knife and asks the GM if he could use it in his left hand—not to make attacks, but as a shield. This will ease his Speed defense rolls if he has both knives out (the "shield" counts as an asset). The GM agrees. During the game, Ray’s Warrior will be hard to hit—he is trained in Speed defense rolls, and his extra knife eases his defense rolls by another step.
+For his focus, Ray chooses Masters Weaponry. This gives him yet another weapon of high quality. He chooses another combat knife and asks the GM if he could use it in his left hand---not to make attacks, but as a shield. This will ease his Speed defense rolls if he has both knives out (the "shield" counts as an asset). The GM agrees. During the game, Ray's Warrior will be hard to hit---he is trained in Speed defense rolls, and his extra knife eases his defense rolls by another step.
 
-Thanks to his focus, he also inflicts 1 additional point of damage with his chosen weapon. Now he inflicts 6 points of damage with his blade. Ray’s character is a deadly combatant, likely starting the game with a reputation as a knife fighter.
+Thanks to his focus, he also inflicts 1 additional point of damage with his chosen weapon. Now he inflicts 6 points of damage with his blade. Ray's character is a deadly combatant, likely starting the game with a reputation as a knife fighter.
 
 For his character arc, Ray chooses Defeat a Foe. That foe, he decides, is none other than someone in his company who was once a friend but went rogue.
 {{< /hint >}}
@@ -250,7 +250,7 @@ For his character arc, Ray chooses Defeat a Foe. That foe, he decides, is none o
 
 **Superhero/Post-Apocalyptic:** mage, sorcerer, power-wielder, master, psion, telepath
 
-You master powers or abilities outside the experience, understanding, and sometimes belief of others. They might be magic, psychic powers, mutant abilities, or just a wide variety of intricate devices, depending on the setting. ("Magic" here is a term used very loosely. It’s a catch-all for the kinds of wondrous, possibly supernatural things that your character can do that others cannot. It might actually be an expression of technological devices, channeling spirits, mutations, psionics, nanotechnology, or any number of other sources.)
+You master powers or abilities outside the experience, understanding, and sometimes belief of others. They might be magic, psychic powers, mutant abilities, or just a wide variety of intricate devices, depending on the setting. ("Magic" here is a term used very loosely. It's a catch-all for the kinds of wondrous, possibly supernatural things that your character can do that others cannot. It might actually be an expression of technological devices, channeling spirits, mutations, psionics, nanotechnology, or any number of other sources.)
 
 **Individual Role:** Adepts are usually thoughtful, intelligent types. They often think carefully before acting and rely heavily on their supernatural abilities.
 
@@ -261,7 +261,7 @@ You master powers or abilities outside the experience, understanding, and someti
 **Advanced Adepts:** Even at low tiers, Adept powers are impressive. Higher-tier Adepts can accomplish amazing deeds that can reshape matter and the environment around them.
 
 {{< hint info >}}
-Adepts are almost always emblematic of the paranormal or superhuman in some way—wizards, psychics, or something similar. If the game you’re playing has none of that, an Adept could be a charlatan mimicking such abilities with tricks and hidden devices, or a gadgeteer character with a "utility belt" full of oddments. Or a game like that might not have Adepts. That’s okay too.
+Adepts are almost always emblematic of the paranormal or superhuman in some way---wizards, psychics, or something similar. If the game you're playing has none of that, an Adept could be a charlatan mimicking such abilities with tricks and hidden devices, or a gadgeteer character with a "utility belt" full of oddments. Or a game like that might not have Adepts. That's okay too.
 {{< /hint >}}
 
 ### Adept Player Intrusions
@@ -270,7 +270,7 @@ When playing an Adept, you can spend 1 XP to use one of the following player int
 
 **Advantageous Malfunction:** A device being used against you malfunctions. It might harm the user or one of their allies for a round, or activate a dramatic and distracting side effect for a few rounds.
 
-**Convenient Idea:** A flash of insight provides you with a clear answer or suggests a course of action with regard to an urgent question, problem, or obstacle you’re facing.
+**Convenient Idea:** A flash of insight provides you with a clear answer or suggests a course of action with regard to an urgent question, problem, or obstacle you're facing.
 
 **Inexplicably Unbroken:** An inactive, ruined, or presumed-destroyed device temporarily activates and performs a useful function relevant to the situation. This is enough to buy you some time for a better solution, alleviate a complication that was interfering with your abilities, or just get you one more use out of a depleted cypher or artifact.
 
@@ -295,15 +295,15 @@ Your type helps determine the connection you have to the setting. Roll a `d20` o
 | 3     | You learned your abilities in the temple of an obscure god. Its priests and worshippers, although small in number, respect and admire your talents and potential. |
 | 4     | While traveling alone, you saved the life of a powerful person. They remain indebted to you.                                                                      |
 | 5     | Your mother was a powerful Adept while she lived, helpful to many locals. They look upon you kindly, but they also expect much from you.                          |
-| 6     | You owe money to a number of people and don’t have the funds to pay your debts.                                                                                   |
+| 6     | You owe money to a number of people and don't have the funds to pay your debts.                                                                                   |
 | 7     | You failed disgracefully at your initial studies with your teacher and now proceed on your own.                                                                   |
 | 8     | You learned your skills faster than your teachers had ever seen before. The powers that be took notice and are paying close attention.                            |
 | 9     | You killed a well-known criminal in self-defense, earning the respect of many and the enmity of a dangerous few.                                                  |
-| 10    | You trained as a Warrior, but your Adept predilections eventually led you down a different path. Your former comrades don’t understand you, but they respect you. |
+| 10    | You trained as a Warrior, but your Adept predilections eventually led you down a different path. Your former comrades don't understand you, but they respect you. |
 | 11    | While studying to be an Adept, you worked as an assistant for a bank, making friends with the owner and the clientele.                                            |
 | 12    | Your family owns a large vineyard nearby known to all for its fine wine and fair business dealings.                                                               |
 | 13    | You trained for a time with a group of influential Adepts, and they still look upon you with fondness.                                                            |
-| 14    | You worked the gardens in the palace of an influential noble or person of wealth. They wouldn’t remember you, but you made friends with their young daughter.     |
+| 14    | You worked the gardens in the palace of an influential noble or person of wealth. They wouldn't remember you, but you made friends with their young daughter.     |
 | 15    | An experiment you conducted in the past went horribly awry. The locals remember you as a dangerous and foolhardy individual.                                      |
 | 16    | You hail from a distant place where you were well known and regarded, but people here treat you with suspicion.                                                   |
 | 17    | People you meet seem put off by the strange birthmark on your face.                                                                                               |
@@ -327,7 +327,7 @@ First-tier Adepts have the following abilities:
 
 **Weapons:** You can use light weapons without penalty. You have an inability with medium weapons and heavy weapons; your attacks with medium and heavy weapons are hindered.
 
-**Special Abilities:** Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog. (Adept abilities require at least one free hand unless the GM says otherwise.)
+**Special Abilities:** Choose four of the abilities listed below. You can't choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog. (Adept abilities require at least one free hand unless the GM says otherwise.)
 
 * Distortion
 * Erase Memories
@@ -418,21 +418,21 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 
 {{< hint warning >}}
 
-Jen wants to create an Adept—a sorcerer for a fantasy campaign. She decides to be somewhat well rounded, so she puts 2 of her additional points into each stat Pool, giving her a Might Pool of 9, a Speed Pool of 11, and an Intellect Pool of 14. Her Adept is smart and quick. She has an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0. As a first-tier character, her Effort is 1. As her initial abilities, she chooses Onslaught and Ward, giving her a strong offense and defense. She also chooses Magic Training and rounds out her character with Scan, which she hopes will be useful in gaining insight and information. For this character, Onslaught, Ward, and Scan are all spells she has mastered through years of training and study.
+Jen wants to create an Adept---a sorcerer for a fantasy campaign. She decides to be somewhat well rounded, so she puts 2 of her additional points into each stat Pool, giving her a Might Pool of 9, a Speed Pool of 11, and an Intellect Pool of 14. Her Adept is smart and quick. She has an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0. As a first-tier character, her Effort is 1. As her initial abilities, she chooses Onslaught and Ward, giving her a strong offense and defense. She also chooses Magic Training and rounds out her character with Scan, which she hopes will be useful in gaining insight and information. For this character, Onslaught, Ward, and Scan are all spells she has mastered through years of training and study.
 
-She can bear three cyphers. The GM gives her a potion that acts as a short-range teleporter, a small charm that restores 5 points to her Intellect Pool, and a fluid-filled flask that explodes like a fiery bomb. Jen’s sorcerer is skilled with light weapons, so she chooses a dagger.
+She can bear three cyphers. The GM gives her a potion that acts as a short-range teleporter, a small charm that restores 5 points to her Intellect Pool, and a fluid-filled flask that explodes like a fiery bomb. Jen's sorcerer is skilled with light weapons, so she chooses a dagger.
 
 For her descriptor, Jen chooses Graceful, which adds 2 points to her Speed Pool, bringing it to 13. That descriptor means she is trained in balancing and anything requiring careful movements, physical performing arts, and Speed defense tasks. Perhaps she is a dancer. In fact, she begins to develop a backstory that involves graceful, lithe movements that she incorporates into her spells.
 
-For her focus, she chooses Leads. This gives her training in social interactions, which again helps round her out—she’s good in all kinds of situations. Moreover, she has the Good Advice ability, which enables her to be a focal point of her group.
+For her focus, she chooses Leads. This gives her training in social interactions, which again helps round her out---she's good in all kinds of situations. Moreover, she has the Good Advice ability, which enables her to be a focal point of her group.
 
-Her spells and focus abilities cost Intellect points to activate, so she’s glad to have a lot of points in her Intellect Pool. In addition, her Intellect Edge will help reduce those costs. If she uses her Onslaught force blast without applying Effort, it costs 0 Intellect points and deals 4 points of damage. Her Intellect Edge will allow her to save points to devote toward applying Effort for other purposes, perhaps to boost the accuracy of Onslaught.
+Her spells and focus abilities cost Intellect points to activate, so she's glad to have a lot of points in her Intellect Pool. In addition, her Intellect Edge will help reduce those costs. If she uses her Onslaught force blast without applying Effort, it costs 0 Intellect points and deals 4 points of damage. Her Intellect Edge will allow her to save points to devote toward applying Effort for other purposes, perhaps to boost the accuracy of Onslaught.
 
 For her character arc, Jen chooses Aid a Friend. She decides that when her sorcerer character was young, she had a magical mentor. That mentor was later taken prisoner by a demon, so her character is always looking for clues on how to find the demon and release her friend from bondage.
 {{< /hint >}}
 
 {{< hint info >}}
-GMs are always free to pre-select a type’s special abilities at a given tier to reinforce the setting. In the fantasy setting of Jen’s sorcerer, the GM might have said that all sorcerers (Adepts) start with Magic Training as one of their tier 1 abilities. This doesn’t make the character any less powerful or special, but it says something about her role in the world and expectations in the game.
+GMs are always free to pre-select a type's special abilities at a given tier to reinforce the setting. In the fantasy setting of Jen's sorcerer, the GM might have said that all sorcerers (Adepts) start with Magic Training as one of their tier 1 abilities. This doesn't make the character any less powerful or special, but it says something about her role in the world and expectations in the game.
 {{< /hint >}}
 
 ## Explorer
@@ -445,11 +445,11 @@ GMs are always free to pre-select a type’s special abilities at a given tier t
 
 **Superhero/Post-Apocalyptic:** adventurer, crimefighter
 
-You are a person of action and physical ability, fearlessly facing the unknown. You travel to strange, exotic, and dangerous places, and discover new things. This means you’re physical but also probably knowledgeable.
+You are a person of action and physical ability, fearlessly facing the unknown. You travel to strange, exotic, and dangerous places, and discover new things. This means you're physical but also probably knowledgeable.
 
 **Individual Role:** Although Explorers can be academics or well studied, they are first and foremost interested in action. They face grave dangers and terrible obstacles as a routine part of life.
 
-**Group Role:** Explorers sometimes work alone, but far more often they operate in teams with other characters. The Explorer frequently leads the way, blazing the trail. However, they’re also likely to stop and investigate anything intriguing they stumble upon.
+**Group Role:** Explorers sometimes work alone, but far more often they operate in teams with other characters. The Explorer frequently leads the way, blazing the trail. However, they're also likely to stop and investigate anything intriguing they stumble upon.
 
 **Societal Role:** Not all Explorers are out traipsing through the wilderness or poking about an old ruin. Sometimes, an Explorer is a teacher, a scientist, a detective, or an investigative reporter. In any event, an Explorer bravely faces new challenges and gathers knowledge to share with others.
 
@@ -481,7 +481,7 @@ Your type helps determine the connection you have to the setting. Roll a `d20` o
 
 | `d20` | Background                                                                                                                                 |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1     | You were a star high school athlete. You’re still in great shape, but those were the glory days, man.                                      |
+| 1     | You were a star high school athlete. You're still in great shape, but those were the glory days, man.                                      |
 | 2     | Your brother is the lead singer in a really popular band.                                                                                  |
 | 3     | You have made a number of discoveries in your explorations, but not all opportunities to capitalize on them have panned out yet.           |
 | 4     | You were a cop, but you gave it up after encountering corruption on the force.                                                             |
@@ -496,7 +496,7 @@ Your type helps determine the connection you have to the setting. Roll a `d20` o
 | 13    | You belong to an exclusive organization of Explorers whose existence is not widely known.                                                  |
 | 14    | You were kidnapped as a small child under mysterious circumstances, although you were recovered safely. The case still has some notoriety. |
 | 15    | When you were young, you were addicted to narcotics, and now you are a recovering addict.                                                  |
-| 16    | While exploring a remote location, you saw something strange you’ve never been able to explain.                                            |
+| 16    | While exploring a remote location, you saw something strange you've never been able to explain.                                            |
 | 17    | You own a small bar or restaurant.                                                                                                         |
 | 18    | You published a book about some of your exploits and discoveries, and it has achieved some acclaim.                                        |
 | 19    | Your sister owns a store and gives you a hefty discount.                                                                                   |
@@ -518,7 +518,7 @@ First-tier Explorers have the following abilities:
 
 **Weapons:** You can use light and medium weapons without penalty. You have an inability with heavy weapons; your attacks with heavy weapons are hindered.
 
-**Special Abilities:** Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.
+**Special Abilities:** Choose four of the abilities listed below. You can't choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.
 
 {{< columns >}}
 
@@ -644,17 +644,18 @@ Sam decides to create an Explorer character for a science fiction campaign. This
 
 Sam immediately leaps in and starts choosing abilities. They pick Danger Sense and Surging Confidence, thinking those abilities will be generally useful. They also choose Practiced in Armor, reasoning that the character wears high-tech medium armor when exploring. Last, they choose Knowledge Skills and select geology and biology to help during interplanetary explorations.
 
-Sam’s Explorer can bear two cyphers, which in this setting involve nanotechnology. The GM decides that one is a nanite injector that grants a +1 bonus to Might Edge when used, and the other is a device that can create one simple handheld object the user wishes.
+Sam's Explorer can bear two cyphers, which in this setting involve nanotechnology. The GM decides that one is a nanite injector that grants a +1 bonus to Might Edge when used, and the other is a device that can create one simple handheld object the user wishes.
 
-Sam’s Explorer is not really geared toward fighting, but sometimes the universe is a dangerous place, so they note that they’re carrying a medium blaster as well.
+Sam's Explorer is not really geared toward fighting, but sometimes the universe is a dangerous place, so they note that they're carrying a medium blaster as well.
 
-Sam still needs a descriptor and a focus. Looking to the Descriptor chapter, they choose Hardy, which increases their Might Pool to 17. They also heal more quickly and can operate better when injured. They’re trained in Might defense but have an inability with initiative; however, it’s effectively canceled out by their Danger Sense (and vice versa). Sam could go back and select something else instead of Danger Sense, but they like it and decide to keep it. Overall, the descriptor ends up making the character tough but a little slow.
+Sam still needs a descriptor and a focus. Looking to the Descriptor chapter, they choose Hardy, which increases their Might Pool to 17. They also heal more quickly and can operate better when injured. They're trained in Might defense but have an inability with initiative; however, it's effectively canceled out by their Danger Sense (and vice versa). Sam could go back and select something else instead of Danger Sense, but they like it and decide to keep it. Overall, the descriptor ends up making the character tough but a little slow.
 
-For their focus, Sam chooses Explores Dark Places (in this case, weird ruins of alien civilizations). This gives the character a bunch of additional skills: searching, listening, climbing, balancing, and jumping. They’re quite the capable Explorer.
+For their focus, Sam chooses Explores Dark Places (in this case, weird ruins of alien civilizations). This gives the character a bunch of additional skills: searching, listening, climbing, balancing, and jumping. They're quite the capable Explorer.
 
 For their character arc, Sam chooses Enterprise. Exploring alien places sometimes turns up strange relics, and Sam figures they might be able to set up a service to reliably transport these items to responsible third parties, rather than allow them to fall into the hands of pirates and rich private collectors. For a small fee, of course.
 
 {{< /hint >}}
+
 ## Speaker
 
 **Fantasy/Fairy tale:** bard, speaker, skald, emissary, priest, advocate
@@ -665,11 +666,11 @@ For their character arc, Sam chooses Enterprise. Exploring alien places sometime
 
 **Superhero/Post-Apocalyptic:** charmer, mesmerist, puppet master
 
-You’re good with words and good with people. You talk your way past challenges and out of jams, and you get people to do what you want.
+You're good with words and good with people. You talk your way past challenges and out of jams, and you get people to do what you want.
 
 **Individual Role:** Speakers are smart and charismatic. They like people and, more important, they understand them. This helps speakers get others to do what needs to be done.
 
-**Group Role:** The Speaker is often the face of the group, serving as the person who speaks for all and negotiates with others. Combat and action are not a Speaker’s strong suits, so other characters sometimes have to defend the Speaker in times of danger.
+**Group Role:** The Speaker is often the face of the group, serving as the person who speaks for all and negotiates with others. Combat and action are not a Speaker's strong suits, so other characters sometimes have to defend the Speaker in times of danger.
 
 **Societal Role:** Speakers are frequently political or religious leaders. Just as often, however, they are con artists or criminals.
 
@@ -679,11 +680,11 @@ You’re good with words and good with people. You talk your way past challenges
 
 When playing a Speaker, you can spend 1 XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.
 
-**Friendly NPC:** An NPC you don’t know, someone you don’t know that well, or someone you know but who hasn’t been particularly friendly in the past chooses to help you, though doesn’t necessarily explain why. Maybe they’ll ask you for a favor in return afterward, depending on how much trouble they go to.
+**Friendly NPC:** An NPC you don't know, someone you don't know that well, or someone you know but who hasn't been particularly friendly in the past chooses to help you, though doesn't necessarily explain why. Maybe they'll ask you for a favor in return afterward, depending on how much trouble they go to.
 
-**Perfect Suggestion:** A follower or other already-friendly NPC suggests a course of action with regard to an urgent question, problem, or obstacle you’re facing.
+**Perfect Suggestion:** A follower or other already-friendly NPC suggests a course of action with regard to an urgent question, problem, or obstacle you're facing.
 
-**Unexpected Gift:** An NPC hands you a physical gift you were not expecting, one that helps put the situation at ease if things seem strained, or provides you with a new insight for understanding the context of the situation if there’s something you’re failing to understand or grasp.
+**Unexpected Gift:** An NPC hands you a physical gift you were not expecting, one that helps put the situation at ease if things seem strained, or provides you with a new insight for understanding the context of the situation if there's something you're failing to understand or grasp.
 
 ### Speaker Stat Pools
 
@@ -702,25 +703,25 @@ Your type helps determine the connection you have to the setting. Roll a `d20` o
 | `d20` | Background                                                                                                                                                 |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1     | One of your parents was a famous entertainer in their early years and hoped you would excel in the same medium.                                            |
-| 2     | When you were a teenager, one of your siblings went missing and is presumed dead. The shock rent your family, and it’s something you’ve never gotten over. |
+| 2     | When you were a teenager, one of your siblings went missing and is presumed dead. The shock rent your family, and it's something you've never gotten over. |
 | 3     | You were inducted into a secret society that claims to hold and protect esoteric knowledge opposing the forces of evil.                                    |
-| 4     | You lost one of your parents to alcoholism. They may still be alive, but you’d be hard pressed to find forgiveness.                                        |
+| 4     | You lost one of your parents to alcoholism. They may still be alive, but you'd be hard pressed to find forgiveness.                                        |
 | 5     | You have no memory of anything that happened to you before the age of 18.                                                                                  |
 | 6     | Your grandparents raised you on a farm far from bustling urban centers. You like to think the instruction they gave you prepared you for anything.         |
 | 7     | As an orphan, you had a difficult childhood, and your entry into adulthood was challenging.                                                                |
 | 8     | You grew up in extreme poverty, among criminals. You still have some connections with the old neighborhood.                                                |
 | 9     | You served as an envoy for a powerful and influential person in the past, and they still look upon you with favor.                                         |
 | 10    | You have an annoying rival who always seems to get in your way or foil your plans.                                                                         |
-| 11    | You’ve worked yourself into the position of spokesperson for an organization or company of some importance.                                                |
+| 11    | You've worked yourself into the position of spokesperson for an organization or company of some importance.                                                |
 | 12    | Your neighbors were murdered, and the mystery remains unsolved.                                                                                            |
 | 13    | You have traveled extensively, and during that time you accumulated quite a collection of strange souvenirs.                                               |
 | 14    | Your childhood sweetheart ended up with your best friend (now your ex-best friend).                                                                        |
 | 15    | You are part of a maligned minority, but you work to bring the injustice of your status to public attention.                                               |
-| 16    | You’re part owner of a local bar, where you’re something of a whiz in creating specialty cocktails.                                                        |
+| 16    | You're part owner of a local bar, where you're something of a whiz in creating specialty cocktails.                                                        |
 | 17    | You once ran a con that cheated important people out of money, and they want revenge.                                                                      |
 | 18    | You used to act in a traveling theater, and they remember you fondly (as do people in the places you visited).                                             |
 | 19    | You are in a close romantic relationship with someone in local politics.                                                                                   |
-| 20    | Someone out there tries to pose as you, using your identity, often for nefarious ends. You’ve never met the culprit, but you’d certainly like to.          |
+| 20    | Someone out there tries to pose as you, using your identity, often for nefarious ends. You've never met the culprit, but you'd certainly like to.          |
 
 -----
 
@@ -738,7 +739,7 @@ Your type helps determine the connection you have to the setting. Roll a `d20` o
 
 **Starting Equipment:** Appropriate clothing and a light weapon of your choice, plus two expensive items, two moderately priced items, and up to four inexpensive items.
 
-**Special Abilities:** Choose four of the abilities listed below. You can’t choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog. (Some Speaker abilities, like Mind Reading or True Senses, imply a supernatural element. If this is inappropriate to the character or the setting, these abilities can be replaced with something from the stealth flavor, or the GM can slightly modify them so they are based in extraordinary talents and insight rather than the supernatural.)
+**Special Abilities:** Choose four of the abilities listed below. You can't choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog. (Some Speaker abilities, like Mind Reading or True Senses, imply a supernatural element. If this is inappropriate to the character or the setting, these abilities can be replaced with something from the stealth flavor, or the GM can slightly modify them so they are based in extraordinary talents and insight rather than the supernatural.)
 
 {{< columns >}}
 
@@ -857,19 +858,19 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 {{< hint warning >}}
 
-Mary wants to create a Speaker for a Lovecraftian horror campaign. She puts 3 of her additional stat points into her Intellect Pool and 3 into her Speed Pool; her stat Pools are now Might 8, Speed 12, and Intellect 14. As a first-tier character, her Effort is 1, her Might Edge and Speed Edge are 0, and her Intellect Edge is 1. She’s smart and charismatic but not particularly tough.
+Mary wants to create a Speaker for a Lovecraftian horror campaign. She puts 3 of her additional stat points into her Intellect Pool and 3 into her Speed Pool; her stat Pools are now Might 8, Speed 12, and Intellect 14. As a first-tier character, her Effort is 1, her Might Edge and Speed Edge are 0, and her Intellect Edge is 1. She's smart and charismatic but not particularly tough.
 
-Mary chooses Fast Talk and Spin Identity to help get into places and learn things she wants to know. She’s a bit of a con artist. She’s good to her friends, however, and chooses Encouragement as well. Mary rounds out her first-tier abilities with Interaction Skills (deceiving and persuasion).
+Mary chooses Fast Talk and Spin Identity to help get into places and learn things she wants to know. She's a bit of a con artist. She's good to her friends, however, and chooses Encouragement as well. Mary rounds out her first-tier abilities with Interaction Skills (deceiving and persuasion).
 
-A Speaker normally starts with two cyphers, but the GM rules that characters in this campaign start with only one—something creepy relating to their background. Mary’s cypher is an odd pocket watch given to her by her grandfather. She doesn’t know how or why, but when activated, the watch allows her to take twice as many actions for three rounds.
+A Speaker normally starts with two cyphers, but the GM rules that characters in this campaign start with only one---something creepy relating to their background. Mary's cypher is an odd pocket watch given to her by her grandfather. She doesn't know how or why, but when activated, the watch allows her to take twice as many actions for three rounds.
 
-Mary’s character carries a small knife hidden in her bag in case of trouble. As a light weapon, it inflicts 2 points of damage, but attacks with it are eased.
+Mary's character carries a small knife hidden in her bag in case of trouble. As a light weapon, it inflicts 2 points of damage, but attacks with it are eased.
 
-Mary chooses Resilient for her descriptor and decides that she can probably learn the truth behind some of the strange things that she’s heard about without feeling too much trauma if it’s horrible. Resilient increases her Might Pool to 10 and her Intellect Pool to 16. She’s trained in Might and Intellect defense actions and gains an extra recovery roll each day. At first, Mary is sad that her descriptor gives her an inability in knowledge and puzzle tasks, but then she realizes that the flaw fits her character well—she’s better at getting people to tell her what she needs to know than at figuring out the information herself.
+Mary chooses Resilient for her descriptor and decides that she can probably learn the truth behind some of the strange things that she's heard about without feeling too much trauma if it's horrible. Resilient increases her Might Pool to 10 and her Intellect Pool to 16. She's trained in Might and Intellect defense actions and gains an extra recovery roll each day. At first, Mary is sad that her descriptor gives her an inability in knowledge and puzzle tasks, but then she realizes that the flaw fits her character well---she's better at getting people to tell her what she needs to know than at figuring out the information herself.
 
-For her focus, Mary chooses Moves Like a Cat, granting her a final Speed Pool of 18 and training in balance. In the end, she’s graceful and quick, charismatic, and hardier than she initially thought thanks to her drive. She’s ready to investigate the weird.
+For her focus, Mary chooses Moves Like a Cat, granting her a final Speed Pool of 18 and training in balance. In the end, she's graceful and quick, charismatic, and hardier than she initially thought thanks to her drive. She's ready to investigate the weird.
 
-For her character arc, Mary chooses Fall From Grace. She decides she’s had an obsession with a strange tome that’s been in her family for generations, and her character is drawn to its strange languages and rituals.
+For her character arc, Mary chooses Fall From Grace. She decides she's had an obsession with a strange tome that's been in her family for generations, and her character is drawn to its strange languages and rituals.
 {{< /hint >}}
 
 ## Fantasy Character Options
@@ -931,7 +932,7 @@ In some cases, the ideas here require minor changes to the flavor described in t
 * **Sorcerer (fiend):** Bears a Halo of Fire, Keeps a Magic Ally
 * **Sorcerer (undead):** Consorts With the Dead, Shepherds Spirits
 
-**Trickster or Con Artist:** These clever folks are typically Speakers, although they could be Adepts if they are very magical (or Explorers if they aren’t magical at all). Foci choices include Fights Dirty, Works the Back Alleys, or Entertains.
+**Trickster or Con Artist:** These clever folks are typically Speakers, although they could be Adepts if they are very magical (or Explorers if they aren't magical at all). Foci choices include Fights Dirty, Works the Back Alleys, or Entertains.
 
 **War-wizard:** For those unusual characters who use a mix of weapon attacks and spells, play a Warrior with magic flavor or an Expert with combat or magic flavor. Appropriate foci include Fights With Panache, Masters Weaponry, and Wields an Enchanted Weapon\*.
 
@@ -952,7 +953,7 @@ In some cases, the ideas here require minor changes to the flavor described in t
 
 ## Prepared vs. Spontaneous Spellcasting
 
-Magical characters get their abilities (which might be spells, rituals, or something else) from their type and focus, and they can use these abilities as they see fit as long as they spend the required Pool points. This technically makes them more like spontaneous casters. If you’d like to play something more like a prepared-caster wizard with a large selection of abilities that you narrow down each day, consider a spellcasting-oriented focus like Channels Divine Blessings, Masters Spells, or Speaks for the Land, and consider augmenting it with the optional spellcasting rule.
+Magical characters get their abilities (which might be spells, rituals, or something else) from their type and focus, and they can use these abilities as they see fit as long as they spend the required Pool points. This technically makes them more like spontaneous casters. If you'd like to play something more like a prepared-caster wizard with a large selection of abilities that you narrow down each day, consider a spellcasting-oriented focus like Channels Divine Blessings, Masters Spells, or Speaks for the Land, and consider augmenting it with the optional spellcasting rule.
 
 ## Further Customization
 
@@ -968,7 +969,7 @@ The following aspects of the four character types can be modified at character c
 
 **Cypher Use:** If a character gives up the ability to bear one cypher, they gain an additional skill of their choice.
 
-**Weapons:** Some types have static first-tier abilities that let them use light, medium, and/or heavy weapons without a penalty. Warriors can use all weapons, Explorers can use light and medium weapons, and Adepts and Speakers can use light weapons. Any one of these weapon abilities can be sacrificed to gain training in a different skill of the player’s choice.
+**Weapons:** Some types have static first-tier abilities that let them use light, medium, and/or heavy weapons without a penalty. Warriors can use all weapons, Explorers can use light and medium weapons, and Adepts and Speakers can use light weapons. Any one of these weapon abilities can be sacrificed to gain training in a different skill of the player's choice.
 
 ## Drawbacks And Penalties
 
@@ -976,6 +977,6 @@ In addition to other customization options, a player can choose to take drawback
 
 **Weakness:** A weakness is, essentially, the opposite of Edge. If you have a weakness of 1 in Speed, all Speed actions that require you to spend points cost 1 additional point from your Pool. At any time, a player can give their character a weakness in one stat and, in exchange, gain +1 to their Edge in one of the other two stats. So a PC can take a weakness of 1 in Speed to gain +1 to their Might Edge.
 
-Normally, you can have a weakness only in a stat in which you have an Edge of 0. Further, you can’t have more than one weakness, and you can’t have a weakness greater than 1 unless the additional weakness comes from another source (such as a disease or disability arising from actions or conditions in the game).
+Normally, you can have a weakness only in a stat in which you have an Edge of 0. Further, you can't have more than one weakness, and you can't have a weakness greater than 1 unless the additional weakness comes from another source (such as a disease or disability arising from actions or conditions in the game).
 
 **Inabilities:** Inabilities are like negative skills. They make one type of task harder by hindering it. If a character chooses to take an inability, they gain a skill of their choice. Normally, a character can have only one inability unless the additional inability comes from another source (such as a descriptor or a disease or disability arising from actions or conditions in the game).

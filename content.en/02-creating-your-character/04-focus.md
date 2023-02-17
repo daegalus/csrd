@@ -5,7 +5,7 @@ weight: 4
 
 # Focus
 
-Focus is what makes a character unique. No two PCs in a group should have the same focus. A focus gives a character benefits when they create their character and each time they ascend to the next tier. It’s the verb of the sentence “I am an *adjective noun* who *verbs*.”
+Focus is what makes a character unique. No two PCs in a group should have the same focus. A focus gives a character benefits when they create their character and each time they ascend to the next tier. It's the verb of the sentence "I am an *adjective noun* who *verbs*."
 
 This chapter contains nearly a hundred sample foci, such as Bears a Halo of Fire, Would Rather Be Reading, and Pilots Starcraft. These foci can be chosen and used as presented by a player, or by the GM who adds them to a list of available foci for their players in their next campaign.
 
@@ -15,94 +15,94 @@ In addition, the latter half of this chapter provides tools for the GM or an ent
 
 Not all foci are appropriate for every genre. The Genre chapter provides guidance, but this section offers some broad generalizations. Obviously, the GM can include whatever foci are available in their setting. Foci end up being an important distinction in this case, because Commands Mental Powers, for example, makes it clear that psychic abilities exist in the setting, just as Howls at the Moon implies the existence of lycanthropes like werewolves, and Pilots Starcraft, of course, requires starships available to pilot.
 
-When a focus is chosen for a character, they get a special connection to one or more of their fellow PCs, a first-tier ability, and perhaps additional starting equipment: one or two pieces of equipment that might be required for the character to use their ability, or that might pair well with the focus. For instance, a character that can build things needs a set of tools. A character that’s constantly on fire needs a set of clothes that are immune to flame. A character that draws runes to cast spells needs writing implements. A character that slays monsters with a sword needs a sword. And so on. That said, many foci don’t require additional equipment.
+When a focus is chosen for a character, they get a special connection to one or more of their fellow PCs, a first-tier ability, and perhaps additional starting equipment: one or two pieces of equipment that might be required for the character to use their ability, or that might pair well with the focus. For instance, a character that can build things needs a set of tools. A character that's constantly on fire needs a set of clothes that are immune to flame. A character that draws runes to cast spells needs writing implements. A character that slays monsters with a sword needs a sword. And so on. That said, many foci don't require additional equipment.
 
-Each focus also offers one or more suggestions—GM intrusions—for possible effects or consequences of really good or really bad die rolls.
+Each focus also offers one or more suggestions---GM intrusions---for possible effects or consequences of really good or really bad die rolls.
 
-A couple of foci presented in this chapter provide a “type swap option” that allows a player to swap an ability that would otherwise be gained from their type for the indicated ability instead. A player doesn’t have to make the swap; they merely have the option. For instance, the focus Loves the Void provides the option to gain the ability Have Spacesuit, Will Travel instead of a type ability.
+A couple of foci presented in this chapter provide a "type swap option" that allows a player to swap an ability that would otherwise be gained from their type for the indicated ability instead. A player doesn't have to make the swap; they merely have the option. For instance, the focus Loves the Void provides the option to gain the ability Have Spacesuit, Will Travel instead of a type ability.
 
-As a character progresses to a new tier, a focus grants more abilities. Each tier’s benefit is usually labeled Action or Enabler. If an ability is labeled Action, a character must take an action to use it. If an ability is labeled Enabler, it makes other actions better or gives some other benefit, but it’s not an action. An ability that allows a character to blast foes with lasers is an action. An ability that grants additional damage when an attack is made is an enabler. An enabler is used in the same turn as another action, and often as part of another action.
+As a character progresses to a new tier, a focus grants more abilities. Each tier's benefit is usually labeled Action or Enabler. If an ability is labeled Action, a character must take an action to use it. If an ability is labeled Enabler, it makes other actions better or gives some other benefit, but it's not an action. An ability that allows a character to blast foes with lasers is an action. An ability that grants additional damage when an attack is made is an enabler. An enabler is used in the same turn as another action, and often as part of another action.
 
-Each tier’s benefits are independent of and cumulative with benefits from other tiers (unless indicated otherwise). So if a first-tier ability grants +1 to Armor and a fourth-tier ability also grants +1 to Armor, when the character reaches fourth tier, a total of +2 to Armor is granted.
+Each tier's benefits are independent of and cumulative with benefits from other tiers (unless indicated otherwise). So if a first-tier ability grants +1 to Armor and a fourth-tier ability also grants +1 to Armor, when the character reaches fourth tier, a total of +2 to Armor is granted.
 
 At tier 3 and tier 6, the character is asked to choose one ability from the two options provided.
 
-Finally, you can choose whether you want to expand the story behind the focus (though that’s not mandatory).
+Finally, you can choose whether you want to expand the story behind the focus (though that's not mandatory).
 
 ## Focus Connections
 
-Choose a connection that goes well with the focus. If you’re a GM choosing (or creating) one or more foci for your players, choose up to four of the following connections.
+Choose a connection that goes well with the focus. If you're a GM choosing (or creating) one or more foci for your players, choose up to four of the following connections.
 
 1. Pick one other PC. For reasons unknown to you, that character is completely immune to your focus abilities, whether you use them for help or for harm.
-2. Pick one other PC. You knew of that character years ago, but you don’t think they knew you.
-3. Pick one other PC. You’re always trying to impress them, but you’re not sure why.
-4. Pick one other PC. That character has a habit that annoys you, but you’re otherwise quite impressed with their abilities.
-5. Pick one other PC. That character shows potential in appreciating your particular paradigm, fighting style, or other  focus-provided attribute. You would like to train them, but you’re not necessarily qualified to teach (that’s up to you), and they might not be interested (that’s up to them).
-6. Pick one other PC. If they are within immediate range when you’re in a fight, sometimes they provide an asset, and sometimes they accidentally hinder your attack rolls (FIFTYPERCENT% chance either way, determined per fight).
-7. Pick one other PC. You once saved their life, and they clearly feel indebted to you. You wish they didn’t; it’s just part of the job.
+2. Pick one other PC. You knew of that character years ago, but you don't think they knew you.
+3. Pick one other PC. You're always trying to impress them, but you're not sure why.
+4. Pick one other PC. That character has a habit that annoys you, but you're otherwise quite impressed with their abilities.
+5. Pick one other PC. That character shows potential in appreciating your particular paradigm, fighting style, or other  focus-provided attribute. You would like to train them, but you're not necessarily qualified to teach (that's up to you), and they might not be interested (that's up to them).
+6. Pick one other PC. If they are within immediate range when you're in a fight, sometimes they provide an asset, and sometimes they accidentally hinder your attack rolls (FIFTYPERCENT% chance either way, determined per fight).
+7. Pick one other PC. You once saved their life, and they clearly feel indebted to you. You wish they didn't; it's just part of the job.
 8. Pick one other PC. That character recently mocked you in some fashion that really hurt your feelings. How you deal with this (if at all) is up to you.
 9. Pick one other PC. That character knows you have suffered at the hands of robotic entities in the past. Whether you hate robots now is up to you, which may affect your relationship with the character if they are friendly with robots or have robotic parts.
 10. Pick one other PC. That character comes from the same place you do, and you knew each other as children.
 11. Pick one other PC. In the past, they taught you a few tricks to use in a fight.
-12. Pick one other PC. That character doesn’t seem to approve of your methods.
-13. Pick one other PC. Long ago, the two of you were on opposite sides of a fight. You won, though you “cheated” in their eyes (but from your perspective, all’s fair in a fight). They may be ready for a rematch, though that’s up to them.
-14. Pick one other PC. You are always trying to impress that character with your skill, wit, appearance, or bravado. Perhaps they are a rival, perhaps you need their respect, or perhaps you’re romantically interested in them.
+12. Pick one other PC. That character doesn't seem to approve of your methods.
+13. Pick one other PC. Long ago, the two of you were on opposite sides of a fight. You won, though you "cheated" in their eyes (but from your perspective, all's fair in a fight). They may be ready for a rematch, though that's up to them.
+14. Pick one other PC. You are always trying to impress that character with your skill, wit, appearance, or bravado. Perhaps they are a rival, perhaps you need their respect, or perhaps you're romantically interested in them.
 15. Pick one other PC. You fear that character is jealous of your abilities and worry that it might lead to problems.
 16. Pick one other PC. You accidentally caught them in a trap you set, and they had to get free on their own.
 17. Pick one other PC. You were once hired to track down someone who was close to that character.
 18. Pick two PCs (preferably ones who are likely to get in the way of your attacks). When you miss with an attack and the GM rules that you struck someone other than your target, you hit one of these two characters.
-19. Pick one other PC. You’re not sure how or from where, but that character has a line on bottles of rare alcohol and can get them for you for half price.
-20. Pick one other PC. You recently had a possession go missing, and you’re becoming convinced that they took it. Whether or not they did is up to them.
+19. Pick one other PC. You're not sure how or from where, but that character has a line on bottles of rare alcohol and can get them for you for half price.
+20. Pick one other PC. You recently had a possession go missing, and you're becoming convinced that they took it. Whether or not they did is up to them.
 21. Pick one other PC. They always seem to know where you are, or at least in what direction you are in relation to them.
 22. Pick one other PC. Seeing you use your focus abilities seems to trigger an unpleasant memory in that character. That memory is up to the other PC, although they may not be able to consciously recall it.
 23. Pick one other PC. Something about them interferes with your abilities. When they stand next to you, your focus abilities cost 1 additional point.
 24. Pick one other PC. Something about them complements your abilities. When they stand next to you, the first focus ability you use in any 24-hour period costs 2 fewer points.
 25. Pick one other PC. You have known that character for a while, and they helped you gain control of your focus-related abilities.
-26. Pick one other PC. Sometime in that character’s past, they had a devastating experience while attempting something that you do as a matter of course thanks to your focus. Whether they choose to tell you about it is up to them.
+26. Pick one other PC. Sometime in that character's past, they had a devastating experience while attempting something that you do as a matter of course thanks to your focus. Whether they choose to tell you about it is up to them.
 27. Pick one other PC. Their occasional clumsiness and loud behavior irritate you.
 28. Pick one other PC. In the recent past, while practicing, you accidentally hit them with an attack, wounding them badly. It is up to them to decide whether they resent or forgive you.
 29. Pick one other PC. They owe you a significant amount of money.
 30. Pick one other PC. In the recent past, while escaping a threat, you accidentally left that character to fend for themselves. They survived, but just barely. It is up to the player of that character to decide whether they resent you or have decided to forgive you.
-31. Pick one other PC. Recently, they accidentally (or perhaps intentionally) put you in a position of danger. You’re fine now, but you’re wary around them.
+31. Pick one other PC. Recently, they accidentally (or perhaps intentionally) put you in a position of danger. You're fine now, but you're wary around them.
 32. Pick one other PC. From your perspective, they seem nervous around a specific idea, person, or situation. You would like to teach them how to be more comfortable with their fears (if they will let you).
 33. Pick one other PC. They called you a coward once.
-34. Pick one other PC. That character always recognizes you or your handiwork, whether you’re in disguise or are long gone when they arrive on the scene.
-35. Pick one other PC. You inadvertently caused an accident that put them into a sleep so deep they didn’t wake for three days. Whether they forgive you or not is up to them.
+34. Pick one other PC. That character always recognizes you or your handiwork, whether you're in disguise or are long gone when they arrive on the scene.
+35. Pick one other PC. You inadvertently caused an accident that put them into a sleep so deep they didn't wake for three days. Whether they forgive you or not is up to them.
 36. Pick one other PC. You are pretty sure you are related in some fashion.
 37. Pick one other PC. You accidentally learned something they were trying to keep a secret.
 38. Pick one other PC. They are especially sensitive to the use of your flashier focus abilities, and occasionally they become dazzled for a few rounds, which hinders their actions.
 39. Pick one other PC. They appear to have a treasured item that was once yours, but that you lost in a game of chance years ago.
-40. Pick one other PC. If it wasn’t for you, that character would have failed a past test of mental achievement.
-41. Pick one other PC. Based on a couple of comments you’ve overheard, you suspect that they don’t hold your area of training or favorite hobby in the highest regard.
+40. Pick one other PC. If it wasn't for you, that character would have failed a past test of mental achievement.
+41. Pick one other PC. Based on a couple of comments you've overheard, you suspect that they don't hold your area of training or favorite hobby in the highest regard.
 42. Pick one other PC whose focus intertwines with yours. This odd connection affects them in some way. For example, if the character uses a weapon, your focus ability sometimes improves their attack in some fashion.
 43. Pick one other PC. They are deathly afraid of heights. You would like to teach them how to be more comfortable with their feet off the ground. They must decide whether or not to take you up on your offer.
-44. Pick one other PC. They are skeptical of your claims about something momentous that happened in your past. They might even attempt to discredit you or discover the “secret” behind your story, though that’s up to them.
+44. Pick one other PC. They are skeptical of your claims about something momentous that happened in your past. They might even attempt to discredit you or discover the "secret" behind your story, though that's up to them.
 45. Pick one other PC. They have a knack for being able to recognize where your plans or schemes have a weak spot.
-46. Pick one other PC. That character’s face is so intriguing to you in a way you don’t understand that you sometimes find yourself sketching their likeness in the dirt or using some other medium you have access to.
+46. Pick one other PC. That character's face is so intriguing to you in a way you don't understand that you sometimes find yourself sketching their likeness in the dirt or using some other medium you have access to.
 47. Pick one other PC. That character has an extra item of regular equipment you gave them, either something you made or an item you just wanted to give them. (They choose the item.)
-48. Pick one other PC. They commissioned you to do a job for them. You’ve already been paid but haven’t yet completed the job.
+48. Pick one other PC. They commissioned you to do a job for them. You've already been paid but haven't yet completed the job.
 49. Pick one other PC. You worked together in the past, and the job ended badly.
-50. Pick one other PC. While they stand next to you and use their action to concentrate on helping you, one of your focus ability’s ranges is doubled.
+50. Pick one other PC. While they stand next to you and use their action to concentrate on helping you, one of your focus ability's ranges is doubled.
 
 ## Story Behind The Focus
 
 The foci in this book have been purposely stripped down to basics so they have the widest possible application across multiple genres. A single descriptive sentence or two summarizes each one. After you choose a focus, you have the option to expand its presentation by adding more story and description relevant to the world or to the character.
 
-For instance, if you choose Operates Undercover, the summarizing description is “Under the guise of someone else, you seek to find answers the powerful do not want divulged.” If you choose Conducts Weird Science, the summary is “Your preternatural insight and ability make you a scientist capable of amazing feats.” These descriptions provide what you need to know to use the focus.
+For instance, if you choose Operates Undercover, the summarizing description is "Under the guise of someone else, you seek to find answers the powerful do not want divulged." If you choose Conducts Weird Science, the summary is "Your preternatural insight and ability make you a scientist capable of amazing feats." These descriptions provide what you need to know to use the focus.
 
-However, if you wish (and *only* if you wish; there is no requirement to do so), you can add more to those descriptions in a fashion that’s relevant for your game. For example, if you choose both Operates Undercover and Conducts Weird Science for use in a modern genre such as horror, urban fantasy, espionage, or something similar, you might expand the descriptions as shown in the following examples.
+However, if you wish (and *only* if you wish; there is no requirement to do so), you can add more to those descriptions in a fashion that's relevant for your game. For example, if you choose both Operates Undercover and Conducts Weird Science for use in a modern genre such as horror, urban fantasy, espionage, or something similar, you might expand the descriptions as shown in the following examples.
 
-**Operates Undercover:** Espionage is not something you know anything about. At least, that’s what you want everyone to believe, because in truth, you’ve been trained as a spy or covert agent. You might work for a government or for yourself. You might be a police detective or a criminal. You could even be an investigative reporter.
+**Operates Undercover:** Espionage is not something you know anything about. At least, that's what you want everyone to believe, because in truth, you've been trained as a spy or covert agent. You might work for a government or for yourself. You might be a police detective or a criminal. You could even be an investigative reporter.
 
 Regardless, you learn information that others attempt to keep secret. You collect rumors and whispers, stories and hard-won evidence, and you use that knowledge to aid your own endeavors and, if appropriate, provide your employers with the information they desire. Alternatively, you might sell what you have learned to those willing to pay a premium.
 
-You probably wear dark colors—black, charcoal grey, or midnight blue—to help blend into the shadows, unless the cover you’ve chosen requires you to look like someone else.
+You probably wear dark colors---black, charcoal grey, or midnight blue---to help blend into the shadows, unless the cover you've chosen requires you to look like someone else.
 
-**Conducts Weird Science:** You could be a respected scientist, having been published in several peer-reviewed journals. Or you might be considered a crank by your contemporaries, pursuing fringe theories on what others consider to be scant evidence. Truth is, you have a particular gift for sifting the edges of what’s possible. You can find new insights and unlock odd phenomena with your experiments. Where others see a crackpot cornucopia, you sift the conspiracy theories for revelation. Whether you conduct your enquiries as a government contractor, a university researcher, a corporate scientist, or an indulger of curiosity in your own garage lab following your muse, you push the boundaries of what’s possible.
+**Conducts Weird Science:** You could be a respected scientist, having been published in several peer-reviewed journals. Or you might be considered a crank by your contemporaries, pursuing fringe theories on what others consider to be scant evidence. Truth is, you have a particular gift for sifting the edges of what's possible. You can find new insights and unlock odd phenomena with your experiments. Where others see a crackpot cornucopia, you sift the conspiracy theories for revelation. Whether you conduct your enquiries as a government contractor, a university researcher, a corporate scientist, or an indulger of curiosity in your own garage lab following your muse, you push the boundaries of what's possible.
 
 You probably care more about your work than trivialities such as your appearance, polite or proper behavior, or social norms, but then again, an eccentric like you might turn the tables on that stereotype too.
 
-If you want to go even further, you could determine where a character’s focus abilities come from. Depending on the genre, they could derive those abilities from advanced and persistent training, via magical runes, through cybernetic parts, from their genetic heritage, or because of their access to advanced technology. For instance, a character might be able to blast targets with lightning because they got zapped by strange radiation or because they picked up a lightning gun. On the other hand, it might be because their intense training allowed them to learn lightning magic. The possibilities are nearly endless, and up to you to include or forgo. Because however a focus’s abilities were gained, it’s also enough that they just work.
+If you want to go even further, you could determine where a character's focus abilities come from. Depending on the genre, they could derive those abilities from advanced and persistent training, via magical runes, through cybernetic parts, from their genetic heritage, or because of their access to advanced technology. For instance, a character might be able to blast targets with lightning because they got zapped by strange radiation or because they picked up a lightning gun. On the other hand, it might be because their intense training allowed them to learn lightning magic. The possibilities are nearly endless, and up to you to include or forgo. Because however a focus's abilities were gained, it's also enough that they just work.
 
 ## Foci
 
@@ -227,7 +227,7 @@ You deploy an amazing shield of pure force that provides protection and some off
 Your robotic creations do as they are commanded.
 
 {{< hint info >}}
-The word “robot” is used in this focus, though the robot you create might look very different from one created by someone else, depending on the genre. Steampunk robots, organic robots, or even magical golems are all feasible “robots.”
+The word "robot" is used in this focus, though the robot you create might look very different from one created by someone else, depending on the genre. Steampunk robots, organic robots, or even magical golems are all feasible "robots."
 {{< /hint >}}
 
 * Tier 1: Robot Assistant
@@ -261,7 +261,7 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 
 ### Channels Divine Blessings
 
-A devout follower of a divine being, you channel some of your deity’s power to achieve wonders.
+A devout follower of a divine being, you channel some of your deity's power to achieve wonders.
 
 * Tier 1: Blessing of the Gods
 * Tier 2: Enhanced Intellect
@@ -270,7 +270,7 @@ A devout follower of a divine being, you channel some of your deity’s power to
 * Tier 5: Divine Intervention
 * Tier 6: Divine Symbol or Summon Demon
 
-**GM Intrusions:** A demon investigates divine magic use. A rival cult has issues with the character’s teachings.
+**GM Intrusions:** A demon investigates divine magic use. A rival cult has issues with the character's teachings.
 
 -----
 
@@ -285,7 +285,7 @@ You can pull images from dreams and bring them to life in the waking world.
 * Tier 5: Precognition
 * Tier 6: Mind Control or Telepathic Network
 
-**GM Intrusions:** Something glimpsed in the target’s mind is horrifying. A feedback loop allows the target to read the character’s mind.
+**GM Intrusions:** Something glimpsed in the target's mind is horrifying. A feedback loop allows the target to read the character's mind.
 
 -----
 
@@ -318,7 +318,7 @@ The dead answer your questions, and their reanimated corpses serve you.
 * Tier 5: Terrifying Gaze
 * Tier 6: True Necromancy or Word of Death
 
-**GM Intrusions:** The character’s necromantic reputation precedes them. A corpse seeks revenge for being reanimated.
+**GM Intrusions:** The character's necromantic reputation precedes them. A corpse seeks revenge for being reanimated.
 
 -----
 
@@ -367,13 +367,13 @@ You fashion images from light that are so perfect they seem real.
 * Tier 5: Terrifying Image
 * Tier 6: Grandiose Illusion or Permanent Illusion
 
-**GM Intrusions:** The illusion isn’t believable. The illusion is pierced at just the wrong moment.
+**GM Intrusions:** The illusion isn't believable. The illusion is pierced at just the wrong moment.
 
 -----
 
 ### Crafts Unique Objects
 
-You’re an inventor of strange and useful objects.
+You're an inventor of strange and useful objects.
 
 * Tier 1: Crafter
 * Tier 1: Master Identifier
@@ -387,14 +387,14 @@ You’re an inventor of strange and useful objects.
 **GM Intrusions:** The object malfunctions, breaks, or suffers catastrophic or unexpected failure.
 
 {{< hint info >}}
-Cyphersmith works only in a setting where the cyphers are physical objects. If this isn’t the case, this ability should probably be replaced with something akin to Weird Science Breakthrough from the Conducts Weird Science focus.
+Cyphersmith works only in a setting where the cyphers are physical objects. If this isn't the case, this ability should probably be replaced with something akin to Weird Science Breakthrough from the Conducts Weird Science focus.
 {{< /hint >}}
 
 -----
 
 ### Dances With Dark Matter
 
-You can manipulate shadow and “dark” matter.
+You can manipulate shadow and "dark" matter.
 
 * Tier 1: Ribbons of Dark Matter
 * Tier 2: Void Wings
@@ -448,7 +448,7 @@ A descendent of wealth and power, you carry a noble title and the abilities gran
 
 * Tier 1: Privileged Nobility
 * Tier 2: Trained Interlocutor
-* Tier 3: Advanced Command or Noble’s Courage
+* Tier 3: Advanced Command or Noble's Courage
 * Tier 4: Expert Follower
 * Tier 5: Asserting Your Privilege
 * Tier 6: Able Assistance or Mind of a Leader
@@ -457,9 +457,9 @@ A descendent of wealth and power, you carry a noble title and the abilities gran
 
 -----
 
-### Doesn’t Do Much
+### Doesn't Do Much
 
-You’re a slacker, but you know a little about a lot of things.
+You're a slacker, but you know a little about a lot of things.
 
 * Tier 1: Life Lessons
 * Tier 2: Totally Chill
@@ -467,7 +467,7 @@ You’re a slacker, but you know a little about a lot of things.
 * Tier 4: Life Lessons
 * Tier 4: Greater Skill With Defense
 * Tier 5: Greater Enhanced Potential
-* Tier 6 Drawing on Life’s Experiences or Quick Wits
+* Tier 6 Drawing on Life's Experiences or Quick Wits
 
 **GM Intrusions:** New situations are confounding and stressful. Past actions (or inactions) come back to haunt the character.
 
@@ -475,7 +475,7 @@ You’re a slacker, but you know a little about a lot of things.
 
 ### Drives Like A Maniac
 
-Whether balancing on two wheels, jumping another vehicle, or driving head-on toward an oncoming enemy car, you don’t think about the risks when you’re behind the wheel.
+Whether balancing on two wheels, jumping another vehicle, or driving head-on toward an oncoming enemy car, you don't think about the risks when you're behind the wheel.
 
 (Someone who Drives Like a Maniac needs access to a vehicle.)
 
@@ -504,7 +504,7 @@ Your body, hard as crystal, gives you a suite of unique abilities, gained after 
 * Tier 5: Resonant Frequency
 * Tier 6: Resonant Quake or Return to the Obelisk
 
-**GM Intrusions:** Cyphers and artifacts react unexpectedly in the character’s hands.
+**GM Intrusions:** Cyphers and artifacts react unexpectedly in the character's hands.
 
 -----
 
@@ -555,7 +555,7 @@ You exist in two places at once.
 
 ### Exists Partially Out of Phase
 
-A bit translucent, you’re slightly out of phase and can move through solid objects.
+A bit translucent, you're slightly out of phase and can move through solid objects.
 
 * Tier 1: Walk Through Walls
 * Tier 2: Defensive Phasing
@@ -570,7 +570,7 @@ A bit translucent, you’re slightly out of phase and can move through solid obj
 
 ### Explores Dark Places
 
-You’re the archetypal treasure hunter, scavenger, and finder of lost things.
+You're the archetypal treasure hunter, scavenger, and finder of lost things.
 
 * Tier 1: Superb Explorer
 * Tier 2: Superb Infiltrator
@@ -586,7 +586,7 @@ You’re the archetypal treasure hunter, scavenger, and finder of lost things.
 
 ### Fights Dirty
 
-You’ll do anything to win a fight: bite, scratch, kick, trick, and worse.
+You'll do anything to win a fight: bite, scratch, kick, trick, and worse.
 
 * Tier 1: Tracker
 * Tier 1: Stalker
@@ -604,7 +604,7 @@ You’ll do anything to win a fight: bite, scratch, kick, trick, and worse.
 
 ### Fights With Panache
 
-You’re a swashbuckling daredevil who fights with flamboyant style that’s entertaining to watch.
+You're a swashbuckling daredevil who fights with flamboyant style that's entertaining to watch.
 
 * Tier 1: Attack Flourish
 * Tier 2: Quick Block
@@ -620,7 +620,7 @@ You’re a swashbuckling daredevil who fights with flamboyant style that’s ent
 
 ### Flies Faster Than a Bullet
 
-You can fly, and you’re superstrong, hard to hurt, and fast too. Is there anything you can’t do?
+You can fly, and you're superstrong, hard to hurt, and fast too. Is there anything you can't do?
 
 * Tier 1: Hover
 * Tier 2: Greater Enhanced Potential
@@ -630,7 +630,7 @@ You can fly, and you’re superstrong, hard to hurt, and fast too. Is there anyt
 * Tier 5: Not Dead Yet
 * Tier 6: Burning Light or Ignore Affliction
 
-**GM Intrusions:** A nemesis finds the character. A strange material is found to nullify the character’s abilities.
+**GM Intrusions:** A nemesis finds the character. A strange material is found to nullify the character's abilities.
 
 -----
 
@@ -677,7 +677,7 @@ Electronic aids implanted in your brain make you a mental powerhouse.
 * Tier 5: See the Future
 * Tier 6: Machine Enhancement or Mind Surge
 
-**GM Intrusions:** Machines malfunction and shut down. Powerful machine intelligences can take control of lesser thinking machines. Some people don’t trust a person who isn’t fully organic.
+**GM Intrusions:** Machines malfunction and shut down. Powerful machine intelligences can take control of lesser thinking machines. Some people don't trust a person who isn't fully organic.
 
 -----
 
@@ -708,7 +708,7 @@ You love your friends and help them out of any difficulty, no matter what.
 * Tier 1: Courageous
 * Tier 2: Weather the Vicissitudes
 * Tier 3: Buddy System or Skill With Attacks
-* Tier 4: In Harm’s Way
+* Tier 4: In Harm's Way
 * Tier 4: Enhanced Physique
 * Tier 5: Inspire Action
 * Tier 6: Deep Consideration or Skill With Defense
@@ -742,16 +742,16 @@ You are a stalking hunter who excels at bringing down your selected quarry.
 * Tier 2: Sneak
 * Tier 3: Horde Fighting or Sprint and Grab
 * Tier 4: Surprise Attack
-* Tier 5: Hunter’s Drive
+* Tier 5: Hunter's Drive
 * Tier 6: Greater Skill With Attacks or Multiple Quarry
 
-**GM Intrusions:** The quarry notices the character. The quarry isn’t as vulnerable as it seemed.
+**GM Intrusions:** The quarry notices the character. The quarry isn't as vulnerable as it seemed.
 
 -----
 
 ### Infiltrates
 
-Subtlety, guile, and stealth allow you to get in where others can’t.
+Subtlety, guile, and stealth allow you to get in where others can't.
 
 * Tier 1: Stealth Skills
 * Tier 1: Sense Attitudes
@@ -778,13 +778,13 @@ You excel at winning others over to your views.
 * Tier 5: No One Knows Better
 * Tier 6: Greater Enhanced Potential or Legal Intern
 
-**GM Intrusions:** Onlookers react badly to a know-it-all. A distraction or interruption throws the character’s argument off the rails.
+**GM Intrusions:** Onlookers react badly to a know-it-all. A distraction or interruption throws the character's argument off the rails.
 
 -----
 
 ### Is Idolized by Millions
 
-You’re a celebrity and most people adore you.
+You're a celebrity and most people adore you.
 
 * Tier 1: Entourage
 * Tier 1: Celebrity Talent
@@ -821,7 +821,7 @@ Although Is Licensed to Carry is designed with modern firearms in mind, it could
 
 ### Is Wanted by the Law
 
-“WANTED, DEAD OR ALIVE” posters (or their equivalent) have appeared featuring your face. It’s up to you whether it’s a mistake that snowballed out of control or you actually would kill someone just for looking at you.
+"WANTED, DEAD OR ALIVE" posters (or their equivalent) have appeared featuring your face. It's up to you whether it's a mistake that snowballed out of control or you actually would kill someone just for looking at you.
 
 * Tier 1: Enhanced Speed
 * Tier 1: Danger Sense
@@ -847,7 +847,7 @@ An allied magic creature bound to an object (such as a minor djinn in a lamp, or
 * Tier 5: Moderate Wish
 * Tier 6: Object Bond Mastery or Trust to Luck
 
-**GM Intrusions:** The creature unexpectedly disappears into its bound object. The bound object cracks. The creature disagrees and doesn’t do as asked. The creature says it’s leaving unless a task is performed for it.
+**GM Intrusions:** The creature unexpectedly disappears into its bound object. The bound object cracks. The creature disagrees and doesn't do as asked. The creature says it's leaving unless a task is performed for it.
 
 -----
 
@@ -873,7 +873,7 @@ Your natural leadership capability allows you to command others, including a loy
 You deal with bad situations as they arise, learning new lessons each time.
 
 * Tier 1: Enhanced Intellect
-* Tier 1: There’s Your Problem
+* Tier 1: There's Your Problem
 * Tier 2: Quick Study
 * Tier 3: Hard to Distract
 * Tier 3: Enhanced Intellect Edge or Flex Skill
@@ -905,7 +905,7 @@ You can survive in badlands where others perish.
 
 ### Looks for Trouble
 
-You’re a scrapper and love a good fight.
+You're a scrapper and love a good fight.
 
 * Tier 1: Fists of Fury
 * Tier 1: Wound Tender
@@ -922,7 +922,7 @@ You’re a scrapper and love a good fight.
 
 ### Loves the Void
 
-When it’s just you, your spacesuit, and the panorama of stars wheeling out forever and always, you are at peace.
+When it's just you, your spacesuit, and the panorama of stars wheeling out forever and always, you are at peace.
 
 **Type Swap Option:** Have Spacesuit, Will Travel
 
@@ -1037,7 +1037,7 @@ Lithe, flexible, and graceful, you move quickly and smoothly, and never seem to 
 * Tier 5: Slippery
 * Tier 6: Perfect Speed Burst or Greater Enhanced Speed
 
-**GM Intrusions:** Even a cat can be clumsy. A jump isn’t quite as easy as it looks. An escape move is so overzealous that it sends the character right into harm’s way.
+**GM Intrusions:** Even a cat can be clumsy. A jump isn't quite as easy as it looks. An escape move is so overzealous that it sends the character right into harm's way.
 
 -----
 
@@ -1059,7 +1059,7 @@ You can move so fast that you become a blur.
 
 ### Murders
 
-You’re an assassin, whether by trade, by inclination, or because it was that or be killed yourself. (Someone who Murders might have additional equipment, including three doses of a level 2 blade poison that inflicts 5 points of damage.)
+You're an assassin, whether by trade, by inclination, or because it was that or be killed yourself. (Someone who Murders might have additional equipment, including three doses of a level 2 blade poison that inflicts 5 points of damage.)
 
 * Tier 1: Surprise Attack
 * Tier 1: Assassin Skills
@@ -1103,7 +1103,7 @@ You never quit, can shrug off a beating, and always come back for more.
 * Tier 5: Not Dead Yet
 * Tier 6: Final Defiance or Ignore Affliction
 
-**GM Intrusions:** Sometimes, it’s equipment or weapons that give out.
+**GM Intrusions:** Sometimes, it's equipment or weapons that give out.
 
 -----
 
@@ -1117,7 +1117,7 @@ Under the guise of someone else, you seek to find answers the powerful do not wa
 * Tier 2: Disguise
 * Tier 3: Agent Provocateur or Run and Fight
 * Tier 4: Pull a Fast One
-* Tier 5: Using What’s Available
+* Tier 5: Using What's Available
 * Tier 6: Trust to Luck or Deadly Strike
 
 **GM Intrusions:** Bad luck can ruin the best plans. Disguises fail. Allies are revealed to be agents, too.
@@ -1136,13 +1136,13 @@ A muscled prodigy, you can haul incredible weight, hurl your body through the ai
 * Tier 5: Brute Strike
 * Tier 6: Greater Enhanced Might or Jump Attack
 
-**GM Intrusions:** It’s easy to break delicate things or hurt someone accidentally.
+**GM Intrusions:** It's easy to break delicate things or hurt someone accidentally.
 
 -----
 
 ### Pilots Starcraft
 
-You’re a crack starship pilot.
+You're a crack starship pilot.
 
 * Tier 1: Pilot
 * Tier 1: Flex Lore
@@ -1162,16 +1162,16 @@ You’re a crack starship pilot.
 
 ### Plays Too Many Games
 
-Lessons, reflexes, and strategies you’ve learned by playing too many games have applications in the real world, where people who don’t play enough toil and live their dreary lives.
+Lessons, reflexes, and strategies you've learned by playing too many games have applications in the real world, where people who don't play enough toil and live their dreary lives.
 
 * Tier 1: Game Lessons
 * Tier 1: Gamer
 * Tier 2: Zero Dark Eyes
 * Tier 2: Resist Tricks
-* Tier 3: Sniper’s Aim or Enhanced Speed Edge
+* Tier 3: Sniper's Aim or Enhanced Speed Edge
 * Tier 4: Mind Games
 * Tier 4: Enhanced Intellect
-* Tier 5: Gamer’s Fortitude
+* Tier 5: Gamer's Fortitude
 * Tier 6: Mind Surge or Gaming God
 
 **GM Intrusions:** Missed attacks strike the wrong target. Equipment breaks. Sometimes people react negatively to someone who has lived most of their life in imaginary game worlds.
@@ -1190,7 +1190,7 @@ When you go berserk, everyone fears you.
 * Tier 5: Attack and Attack Again
 * Tier 6: Greater Enhanced Potential or Lethal Damage
 
-**GM Intrusions:** It’s easy for a berserker to lose control and attack friend as well as foe.
+**GM Intrusions:** It's easy for a berserker to lose control and attack friend as well as foe.
 
 -----
 
@@ -1212,7 +1212,7 @@ You create and discharge electrical power.
 
 ### Runs Away
 
-Your first instinct is to run from danger, and you’ve gotten very good at it.
+Your first instinct is to run from danger, and you've gotten very good at it.
 
 * Tier 1: Go Defensive
 * Tier 2: Enhanced Speed
@@ -1229,7 +1229,7 @@ Your first instinct is to run from danger, and you’ve gotten very good at it.
 
 ### Sailed Beneath the Jolly Roger
 
-You sailed with a crew of dread pirates, but you’ve decided to end your days as a pirate and join some other cause. The question is, will your past let you go so easily?
+You sailed with a crew of dread pirates, but you've decided to end your days as a pirate and join some other cause. The question is, will your past let you go so easily?
 
 * Tier 1: Ignore the Pain
 * Tier 1: Sailor
@@ -1299,12 +1299,12 @@ You keep the place where you live safe from all danger.
 * Tier 1: Community Knowledge
 * Tier 1: Community Activist
 * Tier 2: Skill With Attacks
-* Tier 3: Shepherd’s Fury or Skill With Defense
+* Tier 3: Shepherd's Fury or Skill With Defense
 * Tier 4: Greater Enhanced Potential
 * Tier 5: Evasion
 * Tier 6: Greater Skill With Attacks or Protective Wall
 
-**GM Intrusions:** People in the community misunderstand the character’s motives. Rivals try to oust the character.
+**GM Intrusions:** People in the community misunderstand the character's motives. Rivals try to oust the character.
 
 -----
 
@@ -1321,7 +1321,7 @@ Wandering souls, nature spirits, and elemental beings aid and support you.
 * Tier 5: Call Dead Spirit
 * Tier 6: Call Otherworldly Spirit or Infuse Spirit
 
-**GM Intrusions:** Some people don’t trust those who deal with spirits. The dead sometimes don’t want shepherding.
+**GM Intrusions:** Some people don't trust those who deal with spirits. The dead sometimes don't want shepherding.
 
 -----
 
@@ -1356,7 +1356,7 @@ Robots and other living machines should be treated as creatures, not machines, f
 * Tier 5: Share the Power
 * Tier 6: Explosive Release or Sun Siphon
 
-**GM Intrusions:** Drained power also transmits something unwanted—compulsions, afflictions, or alien thoughts. Siphoned power can overload the character, causing feedback.
+**GM Intrusions:** Drained power also transmits something unwanted---compulsions, afflictions, or alien thoughts. Siphoned power can overload the character, causing feedback.
 
 -----
 
@@ -1378,17 +1378,17 @@ Although wielding a sword in a setting where people usually do not carry such we
 * Tier 5: Greater Skill With Attacks (swords)
 * Tier 6: Murderer or Heroic Monster Bane
 
-**GM Intrusions:** The monster laid a trap or set an ambush. The monster has previously undisclosed abilities. The monster’s mother vows revenge.
+**GM Intrusions:** The monster laid a trap or set an ambush. The monster has previously undisclosed abilities. The monster's mother vows revenge.
 
 -----
 
 ### Solves Mysteries
 
-You’re a master of deduction, using evidence to find the answer.
+You're a master of deduction, using evidence to find the answer.
 
 * Tier 1: Investigator
 * Tier 1: Sleuth
-* Tier 2: Out of Harm’s Way
+* Tier 2: Out of Harm's Way
 * Tier 3: You Studied or Skill With Attacks
 * Tier 4: Draw Conclusion
 * Tier 5: Defuse Situation
@@ -1410,7 +1410,7 @@ Your spiritual connection to nature and the environment grants you mystical abil
 * Tier 5: Insect Eruption
 * Tier 6: Call the Storm or Earthquake
 
-**GM Intrusions:** An injured natural (but dangerous) creature is discovered. Someone’s poaching wildlife for their skins, leaving the carcasses to rot. A tree falls in the forest, one of the last elder trees.
+**GM Intrusions:** An injured natural (but dangerous) creature is discovered. Someone's poaching wildlife for their skins, leaving the carcasses to rot. A tree falls in the forest, one of the last elder trees.
 
 -----
 
@@ -1454,7 +1454,7 @@ A shapechanger who can take the form of various animals.
 
 ### Talks to Machines
 
-You use your organic brain like a computer, interfacing “wirelessly” with any electronic device. You can control and influence them in ways that others can’t.
+You use your organic brain like a computer, interfacing "wirelessly" with any electronic device. You can control and influence them in ways that others can't.
 
 * Tier 1: Machine Affinity
 * Tier 1: Distant Interface
@@ -1472,7 +1472,7 @@ You use your organic brain like a computer, interfacing “wirelessly” with an
 
 ### Throws With Deadly Accuracy
 
-Everything that leaves your hand goes exactly where you’d like it to go and at the range and speed to make the perfect impact.
+Everything that leaves your hand goes exactly where you'd like it to go and at the range and speed to make the perfect impact.
 
 * Tier 1: Precision
 * Tier 2: Careful Aim
@@ -1507,7 +1507,7 @@ You emit destructive sound and manipulate soundscapes.
 You can see through time, try to reach through it, and eventually even travel through it.
 
 {{< hint info >}}
-Although all character choices are subject to GM approval, Travels Through Time is a focus that the GM and player should probably have a long conversation about ahead of time, so the player knows the rules of time travel (if any) that exist in the GM’s setting. A character with this focus can drastically alter a setting, if the rules of time travel allow it.
+Although all character choices are subject to GM approval, Travels Through Time is a focus that the GM and player should probably have a long conversation about ahead of time, so the player knows the rules of time travel (if any) that exist in the GM's setting. A character with this focus can drastically alter a setting, if the rules of time travel allow it.
 {{< /hint >}}
 
 * Tier 1: Anticipation
@@ -1555,7 +1555,7 @@ An adherent of nature magic who draws on the power and strength of trees.
 
 ### Was Foretold
 
-You are the “chosen one,” and prophecy, prediction, prognostication, or some other method of determination expects great things of you one day.
+You are the "chosen one," and prophecy, prediction, prognostication, or some other method of determination expects great things of you one day.
 
 * Tier 1: Interaction Skills
 * Tier 1: Knowing
@@ -1596,7 +1596,7 @@ You command the wintery power of cold and ice.
 * Tier 5: Field-Reinforced Armor
 * Tier 6: Masterful Armor Modification (Jet Assisted Flight) or Masterful Armor Modification (Cypher Pod)
 
-**GM Intrusions:** The armor won’t come off. The armor acts under its own power. The armor suffers a momentary power loss. NPCs are scared by the power armor.
+**GM Intrusions:** The armor won't come off. The armor acts under its own power. The armor suffers a momentary power loss. NPCs are scared by the power armor.
 
 -----
 
@@ -1613,7 +1613,7 @@ One who channels magic through or from a weapon to create a unique fighting styl
 * Tier 5: Enchanted Movement
 * Tier 6: Deadly Strike or Spin Attack
 
-**GM Intrusions:** A weapon breaks or is dropped. The weapon loses its connection to you until you use an action to reestablish the attunement. The weapon’s energy discharges in an unexpected way.
+**GM Intrusions:** A weapon breaks or is dropped. The weapon loses its connection to you until you use an action to reestablish the attunement. The weapon's energy discharges in an unexpected way.
 
 -----
 
@@ -1629,13 +1629,13 @@ You bear steel with both hands, ready to take on any foe.
 * Tier 5: Dual Distraction
 * Tier 6: Disarming Attack or Spin Attack
 
-**GM Intrusions:** A blade snaps in two or a weapon flies loose from its bearer’s grip.
+**GM Intrusions:** A blade snaps in two or a weapon flies loose from its bearer's grip.
 
 -----
 
 ### Works for a Living
 
-You take great satisfaction in a job well done, whether it’s coding, building houses, or mining asteroids.
+You take great satisfaction in a job well done, whether it's coding, building houses, or mining asteroids.
 
 * Tier 1: Handy
 * Tier 2: Muscles of Iron
@@ -1697,7 +1697,7 @@ You can exploit flaws in artificial systems, including but not limited to comput
 
 ### Would Rather Be Reading
 
-Books are your friends. What’s more important than knowledge? Nothing.
+Books are your friends. What's more important than knowledge? Nothing.
 
 * Tier 1: Knowledge Is Power
 * Tier 2: Greater Enhanced Intellect
@@ -1714,7 +1714,7 @@ Books are your friends. What’s more important than knowledge? Nothing.
 
 This section provides everything you need to create your own foci.
 
-Every focus has an overarching style, whether that’s exploration, energy manipulation, or simply dealing a lot of damage in combat. These broad classifications are called focus categories.
+Every focus has an overarching style, whether that's exploration, energy manipulation, or simply dealing a lot of damage in combat. These broad classifications are called focus categories.
 
 Each focus category has an overarching theme, followed by selection guidelines that describe how to choose abilities for each tier from the Abilities chapter, from tier 1 to tier 6.
 
@@ -1736,50 +1736,50 @@ The newly created focus should be named in the form of a verb, like Controls Bea
 
 ## Choosing Abilities By Relative Power
 
-The ability selection guidelines invite you to choose an ability from one of three ranges: low tier, mid tier, and high tier. These ranges correspond with the power “grades” given for every ability. These abilities are further sorted into ability categories based on the kinds of things they do—abilities that improve physical attacks are in the attack skill category, abilities that assist allies are in the support category, and so on. Look for the grades and categories in the Ability Categories and Relative Power section of the Abilities chapter.
+The ability selection guidelines invite you to choose an ability from one of three ranges: low tier, mid tier, and high tier. These ranges correspond with the power "grades" given for every ability. These abilities are further sorted into ability categories based on the kinds of things they do---abilities that improve physical attacks are in the attack skill category, abilities that assist allies are in the support category, and so on. Look for the grades and categories in the Ability Categories and Relative Power section of the Abilities chapter.
 
 Low-tier abilities are best suited for focus options at tiers 1 and 2. Mid-tier abilities are best suited for focus options at tiers 3 and 4. High-tier abilities are best suited for focus options at tiers 5 and 6.
 
-That said, sometimes you’ll find it appropriate to assign a low-tier ability at tier 3 or 4, or maybe a mid-tier ability at tier 1 or 2. Do so sparingly, but don’t rule it out. It might be the only way to get all the abilities you want for the focus you’re building. Higher-tier abilities usually cost more Pool points to use. So if a mid-tier ability is made available at tier 1 or 2, or a high-tier ability is made available at tier 3 or 4, the higher cost will be a balancing factor.
+That said, sometimes you'll find it appropriate to assign a low-tier ability at tier 3 or 4, or maybe a mid-tier ability at tier 1 or 2. Do so sparingly, but don't rule it out. It might be the only way to get all the abilities you want for the focus you're building. Higher-tier abilities usually cost more Pool points to use. So if a mid-tier ability is made available at tier 1 or 2, or a high-tier ability is made available at tier 3 or 4, the higher cost will be a balancing factor.
 
 -----
 
 ### Balancing Abilities
 
-The guidelines within each category go a long way toward ensuring that the focus you build will be balanced. Sometimes it might be appropriate to grant a low-power ability along with a regular ability at a given tier, depending on the needs of the focus. A “low-power ability” is deliberately open for GM interpretation, but generally speaking, should be no more potent than a low-tier ability (that is, an ability that is normally available at tier 1 or 2).
+The guidelines within each category go a long way toward ensuring that the focus you build will be balanced. Sometimes it might be appropriate to grant a low-power ability along with a regular ability at a given tier, depending on the needs of the focus. A "low-power ability" is deliberately open for GM interpretation, but generally speaking, should be no more potent than a low-tier ability (that is, an ability that is normally available at tier 1 or 2).
 
 For instance, someone who uses cold might be able to create small snow sculptures in addition to emitting a cold ray. Someone who uses electricity might be able to charge a depleted artifact or have an asset for dealing with electrical systems. And so on.
 
-Often, the focus guidelines note this as a possibility. However, you have great leeway in deciding if a focus needs an additional ability, even if the guidelines for that tier don’t indicate one. If you do add an ability, or there is a  
-higher-power ability at a tier that normally shouldn’t have it, it might mean that the choice given at the next tier, or the previous tier, isn’t quite as good. Balancing a focus is a bit of an art. Resist the urge to overpower the focus, but don’t underpower it, either.
+Often, the focus guidelines note this as a possibility. However, you have great leeway in deciding if a focus needs an additional ability, even if the guidelines for that tier don't indicate one. If you do add an ability, or there is a  
+higher-power ability at a tier that normally shouldn't have it, it might mean that the choice given at the next tier, or the previous tier, isn't quite as good. Balancing a focus is a bit of an art. Resist the urge to overpower the focus, but don't underpower it, either.
 
 -----
 
 ### Ability Guidelines Are Not Perscriptive
 
-Each focus category provides a guideline for what kind of ability you should select at every tier. But don’t regard the guidelines as something that you can’t vary. They’re not prescriptive; they’re just a place to start. You might want to vary the kind of ability at a particular tier that isn’t indicated in the guidelines. As long as the chosen ability falls within the expected power curve for that tier, it’s fine. The guideline isn’t meant to be a straitjacket.
+Each focus category provides a guideline for what kind of ability you should select at every tier. But don't regard the guidelines as something that you can't vary. They're not prescriptive; they're just a place to start. You might want to vary the kind of ability at a particular tier that isn't indicated in the guidelines. As long as the chosen ability falls within the expected power curve for that tier, it's fine. The guideline isn't meant to be a straitjacket.
 
-For example, if you’re building a cold-using focus for a game set in a fantasy genre, you may decide that an ability that calls up a demon is a better choice at a particular tier than an ability that does damage in an area, which is what the tier 5 guideline for energy manipulation calls for. Making the change is probably especially valid if you call your new focus something like Channels the Ninth Circle.
+For example, if you're building a cold-using focus for a game set in a fantasy genre, you may decide that an ability that calls up a demon is a better choice at a particular tier than an ability that does damage in an area, which is what the tier 5 guideline for energy manipulation calls for. Making the change is probably especially valid if you call your new focus something like Channels the Ninth Circle.
 
 -----
 
 ### Ability Swap
 
-If you’re creating a focus and you think it should provide a suite of abilities at first tier that would mechanically overload it, you have the option to add one as a “swap” ability. Doing so is as easy as allowing a character to swap out one of their type abilities for an indicated low-tier focus ability. The ability is gained instead of one of the abilities normally granted by the character’s type.
+If you're creating a focus and you think it should provide a suite of abilities at first tier that would mechanically overload it, you have the option to add one as a "swap" ability. Doing so is as easy as allowing a character to swap out one of their type abilities for an indicated low-tier focus ability. The ability is gained instead of one of the abilities normally granted by the character's type.
 
 -----
 
 ### Concept And Category
 
-Choosing to create a focus that uses a particular concept—say, creating illusions—doesn’t lock you into creating a focus within a particular category—in this case, environment manipulation. A focus can be constructed in a variety of ways using a particular energy, tool, or concept, each ultimately leading to a focus that provides different results. It all depends on your ends. In this case, creating illusions might be used to sway others, which argues for a focus built using the influence category guidelines.
+Choosing to create a focus that uses a particular concept---say, creating illusions---doesn't lock you into creating a focus within a particular category---in this case, environment manipulation. A focus can be constructed in a variety of ways using a particular energy, tool, or concept, each ultimately leading to a focus that provides different results. It all depends on your ends. In this case, creating illusions might be used to sway others, which argues for a focus built using the influence category guidelines.
 
-In the same way, if a focus grants a character the ability to call some kind of force or energy, that doesn’t mean the focus should automatically be built using the energy manipulation category guidelines (though of course it *could,* if attacking and protecting yourself with that energy is the point). But a focus could be built that grants abilities to call energy or force that is primarily focused on durability, suggesting a tank combat focus (someone who can take a lot of punishment in a fight); or blasting away with a main concern for maximizing damage, thus suggesting a striker combat focus; or creating a follower composed of that energy or force, suggesting an ally use focus (that is, someone who uses helping creatures, NPCs, or even duplicate versions of themselves to give them a leg up).
+In the same way, if a focus grants a character the ability to call some kind of force or energy, that doesn't mean the focus should automatically be built using the energy manipulation category guidelines (though of course it *could,* if attacking and protecting yourself with that energy is the point). But a focus could be built that grants abilities to call energy or force that is primarily focused on durability, suggesting a tank combat focus (someone who can take a lot of punishment in a fight); or blasting away with a main concern for maximizing damage, thus suggesting a striker combat focus; or creating a follower composed of that energy or force, suggesting an ally use focus (that is, someone who uses helping creatures, NPCs, or even duplicate versions of themselves to give them a leg up).
 
-Here’s another example: the focus Controls Gravity could conceivably be an environment manipulation focus or an energy manipulation focus. It depends on whether the focus is more concerned with crushing and holding things in place (environment manipulation) or on blasting things and protecting yourself with gravity (energy manipulation).
+Here's another example: the focus Controls Gravity could conceivably be an environment manipulation focus or an energy manipulation focus. It depends on whether the focus is more concerned with crushing and holding things in place (environment manipulation) or on blasting things and protecting yourself with gravity (energy manipulation).
 
 The same malleability of concept holds true in other realms. For instance, if someone is able to call up and mold raw earth, they might use it to transform themselves into a being of stone (tank combat), to batter foes (striker combat), or to create walls, barricades, and shields to protect their allies (support).
 
-If you’re looking for an ability and can’t seem to find the right one in the vast catalog in the Abilities chapter, consider reskinning one to make it seem new (and to accomplish what you need). Reskinning means that you use the underlying mechanics of an ability as written but change the flavor in some fashion. For instance, maybe you’re creating a new earth-moving focus but can’t find enough earth-related abilities to meet your need. It’s easy enough to change up other abilities so they use earth instead of fire, cold, or magnetism. For instance, Wings of Fire might become Wings of Earth, Ice Armor could become Earth Armor, and so on. These alterations change nothing except the type of damage and any knock-on effects (for instance, Wings of Earth might generate clouds of dust in their wake).
+If you're looking for an ability and can't seem to find the right one in the vast catalog in the Abilities chapter, consider reskinning one to make it seem new (and to accomplish what you need). Reskinning means that you use the underlying mechanics of an ability as written but change the flavor in some fashion. For instance, maybe you're creating a new earth-moving focus but can't find enough earth-related abilities to meet your need. It's easy enough to change up other abilities so they use earth instead of fire, cold, or magnetism. For instance, Wings of Fire might become Wings of Earth, Ice Armor could become Earth Armor, and so on. These alterations change nothing except the type of damage and any knock-on effects (for instance, Wings of Earth might generate clouds of dust in their wake).
 
 -----
 
@@ -1789,9 +1789,9 @@ Some abilities in the Abilities chapter reference other abilities. If you select
 
 ## Creating Brand-New Abilities
 
-You can go further than reskinning and create one or more brand-new abilities. When doing this, try to find something as close as possible to the effect you want, then use it as a template. In any case, deciding how much an ability should cost when it comes to a character’s Pool is one of the most important aspects of getting an ability right.
+You can go further than reskinning and create one or more brand-new abilities. When doing this, try to find something as close as possible to the effect you want, then use it as a template. In any case, deciding how much an ability should cost when it comes to a character's Pool is one of the most important aspects of getting an ability right.
 
-You may notice that higher-tier abilities are more expensive. This is partly because they do more, but it’s also because higher-tier characters have more Edge than lower-tier characters, which means they pay fewer points from their relevant Pools. A third-tier character with 3 Edge in a relevant Pool pays no cost for abilities that cost 3 or fewer points. That’s great for lower-tier abilities, but you’ll usually want a character to think a little bit about how often to use their most powerful abilities. That means they should cost at least 1 point more than the Edge the character is likely to have at that tier. (Often, a character will have an Edge in their relevant Pool equal to their tier.)
+You may notice that higher-tier abilities are more expensive. This is partly because they do more, but it's also because higher-tier characters have more Edge than lower-tier characters, which means they pay fewer points from their relevant Pools. A third-tier character with 3 Edge in a relevant Pool pays no cost for abilities that cost 3 or fewer points. That's great for lower-tier abilities, but you'll usually want a character to think a little bit about how often to use their most powerful abilities. That means they should cost at least 1 point more than the Edge the character is likely to have at that tier. (Often, a character will have an Edge in their relevant Pool equal to their tier.)
 
 As a good rule of thumb, a typical ability should cost points equal to its tier.
 
@@ -1805,15 +1805,15 @@ Think about the kinds of things that might surprise, alarm, or go catastrophical
 
 ### Ally Use
 
-Foci that prioritize providing NPC followers to the character are ally use foci. The followers give aid to the PC in a variety of ways, but at base they usually provide an asset to the character’s actions.
+Foci that prioritize providing NPC followers to the character are ally use foci. The followers give aid to the PC in a variety of ways, but at base they usually provide an asset to the character's actions.
 
 Multiple potential themes exist within the ally use category, from abilities that allow a character to summon or craft allies to those that allow them to attract allies through fame, magic, or essential authority or charisma.
 
 **Connection:** Choose four relevant connections from the Focus Connections list.
 
-**Additional Equipment:** Any object necessary for the character to keep an ally. For instance, someone with a focus that uses super-science to create robot allies would require tools to build and repair those allies. Some foci in this category don’t require anything to gain or retain their benefits.
+**Additional Equipment:** Any object necessary for the character to keep an ally. For instance, someone with a focus that uses super-science to create robot allies would require tools to build and repair those allies. Some foci in this category don't require anything to gain or retain their benefits.
 
-**Minor Effect Suggestions:** The NPC ally’s tasks are eased on its next turn.
+**Minor Effect Suggestions:** The NPC ally's tasks are eased on its next turn.
 
 **Major Effect Suggestions:** The NPC ally gains an immediate extra action.
 
@@ -1838,21 +1838,21 @@ Sometimes a secondary ability might be appropriate in addition to the ability pr
 **Tier 3:** Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 One option should be a mid-tier ability that improves the NPC follower previously provided (usually from level 2 to level 3) or grants an additional follower.
 
-The other option should be something that benefits the character—perhaps an offensive or defensive ability, or something that broadens their influence over their followers (or potential followers).
+The other option should be something that benefits the character---perhaps an offensive or defensive ability, or something that broadens their influence over their followers (or potential followers).
 
-**Tier 4:** Choose a mid-tier ability that gives the character an offensive or defensive capability if they haven’t previously gained one, preferably within the theme of the focus. For instance, if the character gains followers because of their charisma, this ability might let them command foes for brief periods. If the character gains followers by building or calling them, this ability might let them affect entities of the same type that are not already their followers.
+**Tier 4:** Choose a mid-tier ability that gives the character an offensive or defensive capability if they haven't previously gained one, preferably within the theme of the focus. For instance, if the character gains followers because of their charisma, this ability might let them command foes for brief periods. If the character gains followers by building or calling them, this ability might let them affect entities of the same type that are not already their followers.
 Alternatively, this ability might further improve a previously gained follower from level 3 to level 4, or grant an additional follower.
 
-**Tier 5:** Choose an ability that improves the character by providing a defense, an improved stat Pool, or another kind of protection. Alternatively, this ability could open a new front in influencing and calling NPC allies related to the focus’s theme. For instance, someone who keeps beast allies might gain an ability to call a horde of lesser beasts. Someone who builds robots might gain an ability to build several lesser robot helpers. And so on.
+**Tier 5:** Choose an ability that improves the character by providing a defense, an improved stat Pool, or another kind of protection. Alternatively, this ability could open a new front in influencing and calling NPC allies related to the focus's theme. For instance, someone who keeps beast allies might gain an ability to call a horde of lesser beasts. Someone who builds robots might gain an ability to build several lesser robot helpers. And so on.
 
 Finally, this ability might improve a previously gained follower to level 5.
 
 **Tier 6:** Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
-One of the abilities should improve a previously gained follower to level 5, if that wasn’t already provided at tier 5. If that’s the case, this ability might be provided *in addition* to two other related abilities.
+One of the abilities should improve a previously gained follower to level 5, if that wasn't already provided at tier 5. If that's the case, this ability might be provided *in addition* to two other related abilities.
 
 Another high-tier option could provide a handful of level 3 followers to the character.
 
-The last high-tier ability could open a new front in influencing and calling NPC allies related to the focus’s theme. For instance, someone who gains followers through high charisma and training might gain an ability to learn otherwise impossible-to-glean information.
+The last high-tier ability could open a new front in influencing and calling NPC allies related to the focus's theme. For instance, someone who gains followers through high charisma and training might gain an ability to learn otherwise impossible-to-glean information.
 
 -----
 
@@ -1860,7 +1860,7 @@ The last high-tier ability could open a new front in influencing and calling NPC
 
 Foci that rely mostly on providing skill training, assets to tasks, and bumps to stat Pools and Edge in order to improve a character fall within the basic category. An overarching theme is also included, as with most of the other categories, that makes sense of the various basic abilities provided.
 
-In addition, because the benefits provided by such foci are mostly straightforward (usually with a few exceptions), most basic foci would also be appropriate for non-fantastic campaigns where magic, super-science, or psychic abilities normally don’t come into play. That said, just because the abilities granted by basic foci are straightforward doesn’t mean they are not potent when combined with the abilities granted by type, descriptor, cyphers, and other character aspects.
+In addition, because the benefits provided by such foci are mostly straightforward (usually with a few exceptions), most basic foci would also be appropriate for non-fantastic campaigns where magic, super-science, or psychic abilities normally don't come into play. That said, just because the abilities granted by basic foci are straightforward doesn't mean they are not potent when combined with the abilities granted by type, descriptor, cyphers, and other character aspects.
 
 **Connection:** Choose four relevant connections from the Focus Connections list.
 
@@ -1868,11 +1868,11 @@ In addition, because the benefits provided by such foci are mostly straightforwa
 
 **Minor Effect Suggestions:** Next action is eased.
 
-**Major Effect Suggestions:** Make a free, no-action recovery roll that doesn’t count against daily recovery rolls.
+**Major Effect Suggestions:** Make a free, no-action recovery roll that doesn't count against daily recovery rolls.
 
 The following are examples and not meant to provide a complete list of all possible foci in this category.
 
-* Doesn’t Do Much
+* Doesn't Do Much
 * Interprets the Law
 * Learns Quickly
 * Works for a Living
@@ -1880,22 +1880,22 @@ The following are examples and not meant to provide a complete list of all possi
 
 **Ability Selection Guidelines**
 
-**Tier 1:** Choose an ability that grants training or an asset to skills associated with the focus’s theme, or that grants 5 or 6 points to a particular Pool.
+**Tier 1:** Choose an ability that grants training or an asset to skills associated with the focus's theme, or that grants 5 or 6 points to a particular Pool.
 Alternatively, choose an ability that grants only 2 or 3 points to a particular Pool and an ability that provides training or an asset to just one task.
 
-**Tier 2:** Choose whichever kind of ability wasn’t chosen at tier 1.
+**Tier 2:** Choose whichever kind of ability wasn't chosen at tier 1.
 
 **Tier 3:** Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
-One option should be a non-fantastic ability that improves the character’s abilities within the focus’s theme. For instance, if the theme involves paying attention in some fashion, an information-gathering ability might be appropriate.
+One option should be a non-fantastic ability that improves the character's abilities within the focus's theme. For instance, if the theme involves paying attention in some fashion, an information-gathering ability might be appropriate.
 
-The other option should be something that either improves the character’s Edge in an appropriate stat or provides the character with some kind of defense.
+The other option should be something that either improves the character's Edge in an appropriate stat or provides the character with some kind of defense.
 
-**Tier 4:** Choose another ability that grants additional training or an asset to skills associated with the focus’s theme, or that grants 5 or 6 points to a particular Pool best suited to the focus. Or choose two abilities that provide only 2 or 3 points plus another tier 4 ability that improves a single task or skill.
+**Tier 4:** Choose another ability that grants additional training or an asset to skills associated with the focus's theme, or that grants 5 or 6 points to a particular Pool best suited to the focus. Or choose two abilities that provide only 2 or 3 points plus another tier 4 ability that improves a single task or skill.
 Alternatively, provide a branch-out ability suggested at tier 5.
 
 Finally, if the focus has yet to grant some kind of defense, a defensive ability could be provided here.
 
-**Tier 5:** Choose an ability that allows the character to branch out slightly—perhaps one like Expert Skill that allows them to automatically succeed on a task they’re trained in.
+**Tier 5:** Choose an ability that allows the character to branch out slightly---perhaps one like Expert Skill that allows them to automatically succeed on a task they're trained in.
 Alternatively, if a nonstandard benefit was provided at tier 4, provide the benefits suggested at tier 4 here.
 
 **Tier 6:** Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
@@ -1907,17 +1907,17 @@ The other tier 6 option should give the character a brand-new ability within the
 
 ### Energy Manipulation
 
-Energy manipulation foci offer abilities that can call fire, electricity, force, magnetism, or nonstandard forms of energy such as cold, stone, or something stranger like “void” or “shadow.” These abilities usually give a character a way to achieve something of a balance between attacking enemies and granting themselves or allies additional protection. The focus usually also offers abilities that provide other ways to use specific energy for things like transportation, creating large concentrations of energy that can affect multiple targets, or creating a temporary object or barrier of energy.
+Energy manipulation foci offer abilities that can call fire, electricity, force, magnetism, or nonstandard forms of energy such as cold, stone, or something stranger like "void" or "shadow." These abilities usually give a character a way to achieve something of a balance between attacking enemies and granting themselves or allies additional protection. The focus usually also offers abilities that provide other ways to use specific energy for things like transportation, creating large concentrations of energy that can affect multiple targets, or creating a temporary object or barrier of energy.
 
 **Connection:** Choose four relevant connections from the Focus Connections list.
 
-**Additional Equipment:** One or more pieces of equipment immune to the energy manipulated, which might be a set of clothes. Alternatively, something related to the energy being generated. Some foci in this category don’t require additional equipment.
+**Additional Equipment:** One or more pieces of equipment immune to the energy manipulated, which might be a set of clothes. Alternatively, something related to the energy being generated. Some foci in this category don't require additional equipment.
 
 **Energy Abilities:** If a character type grants special abilities that normally use some other kind of energy, they now produce the kind used by this focus. For example, if a character uses this focus to manipulate electricity, their force blasts become blasts of electricity. These alterations change nothing except the type of damage and any knock-on effects (for instance, electricity might temporarily short out electronic systems).
 
 **Minor Effect Suggestions:** The target or something near the target is hindered because of residual energy.
 
-**Major Effect Suggestions:** An important item on the target’s person is destroyed.
+**Major Effect Suggestions:** An important item on the target's person is destroyed.
 
 The following are examples and not meant to provide a complete list of all possible foci in this category.
 
@@ -1933,14 +1933,14 @@ The following are examples and not meant to provide a complete list of all possi
 **Tier 1:** Choose a low-tier ability that either inflicts damage or provides protection using the appropriate energy type in some fashion.
 Sometimes an additional low-power ability is appropriate, depending on the energy type. For instance, a focus that manipulates cold might grant an ability to create snow sculptures. A focus that manipulates electricity might grant an ability to charge a depleted artifact or have an asset for dealing with electrical systems. A focus that absorbs energy might grant an ability to release it as a basic attack. And so on.
 
-**Tier 2:** Choose whichever kind of ability wasn’t chosen at tier 1.
+**Tier 2:** Choose whichever kind of ability wasn't chosen at tier 1.
 
 **Tier 3:** Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 One option should be an ability that inflicts damage using the appropriate energy type (and possibly a related effect).
 
 The other should grant enhanced movement by use of the appropriate energy type, give additional protection provided by the preferred energy, or use the energy in a completely new way, such as by draining the energy from a machine (if using electricity), entombing a victim in a layer of ice (if using cold), creating perfect silence (if using sound), creating a dazzling blast of illumination (if using light), and so on.
 
-**Tier 4:** Choose whichever kind of ability wasn’t chosen at tier 3.
+**Tier 4:** Choose whichever kind of ability wasn't chosen at tier 3.
 
 **Tier 5:** Choose a high-tier ability that inflicts damage (and possibly a related effect) that can affect more than one target using the appropriate energy type, or an ability that uses the energy in some fashion not previously used, as described in tiers 3 and 6.
 
@@ -1959,7 +1959,7 @@ For example, rather than blasting a foe with a gravity pulse that does damage, a
 
 **Connection:** Choose four relevant connections from the Focus Connections list.
 
-**Additional Equipment:** Any object necessary to manipulate the surrounding environment. For instance, someone with a focus that grants the ability to craft objects would require basic tools. Some foci in this category don’t require anything to gain or retain their benefits.
+**Additional Equipment:** Any object necessary to manipulate the surrounding environment. For instance, someone with a focus that grants the ability to craft objects would require basic tools. Some foci in this category don't require anything to gain or retain their benefits.
 
 **Environment Manipulation Abilities:** Foci themes that involve imagery or visible energies can affect the look of your type abilities. Such alterations, if any, do nothing but change the appearance of effects. If gravity is manipulated, perhaps a telltale bluish glow permeates all ability uses, including type abilities. If illusion is generated, perhaps flamboyant visual and auditory qualities accompany type abilities, such as the appearance of a tentacled beast holding a target in place when Stasis is used. And so on.
 
@@ -1980,19 +1980,19 @@ The following are examples and not meant to provide a complete list of all possi
 
 **Ability Selection Guidelines**
 
-**Tier 1:** Choose a low-tier ability that grants a basic use of an ability that alters the environment (or predicts it) using the focus’s theme. For instance, a gravity-affecting focus might provide an ability that makes a target lighter or heavier. An  illusion-crafting focus might grant an ability that allows the creation of an image. An object-making focus might grant a basic proficiency in creating a particular kind of object. A predictive focus might calculate outcomes and provide the character with the benefits of that foreknowledge. And so on.
+**Tier 1:** Choose a low-tier ability that grants a basic use of an ability that alters the environment (or predicts it) using the focus's theme. For instance, a gravity-affecting focus might provide an ability that makes a target lighter or heavier. An  illusion-crafting focus might grant an ability that allows the creation of an image. An object-making focus might grant a basic proficiency in creating a particular kind of object. A predictive focus might calculate outcomes and provide the character with the benefits of that foreknowledge. And so on.
 
 Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge.
 
-**Tier 2:** Choose a low-tier ability that provides a new defensive or offensive capability related to the focus’s theme.
-Alternatively, this ability might provide an additional or brand-new capability to manipulate the environment related to the focus’s theme.
+**Tier 2:** Choose a low-tier ability that provides a new defensive or offensive capability related to the focus's theme.
+Alternatively, this ability might provide an additional or brand-new capability to manipulate the environment related to the focus's theme.
 
 **Tier 3:** Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
-One option should be a mid-tier ability related to the focus’s theme that provides an additional environment manipulation capacity or further improves the basic environment manipulation ability previously granted. This ability isn’t directly offensive or defensive, but provides either an all-new ability related to the basic ability, or one that increases the strength, range, or some other extension of the previously unlocked basic ability.
+One option should be a mid-tier ability related to the focus's theme that provides an additional environment manipulation capacity or further improves the basic environment manipulation ability previously granted. This ability isn't directly offensive or defensive, but provides either an all-new ability related to the basic ability, or one that increases the strength, range, or some other extension of the previously unlocked basic ability.
 
 The other mid-tier option should provide an offensive or defensive ability related to the specific form of movement the focus provides, if possible.
 
-**Tier 4:** Choose a mid-tier ability that is either an offensive or a defensive use of the ability, whichever one wasn’t chosen as an option in the previous tier.
+**Tier 4:** Choose a mid-tier ability that is either an offensive or a defensive use of the ability, whichever one wasn't chosen as an option in the previous tier.
 
 **Tier 5:** Choose a high-tier penultimate use of the environment-manipulation ability. For instance, if the focus-granted manipulation is illusory, this ability might haunt a target with terrifying images. If the focus is gravity based, it might unlock flight. If magnetic, it might allow the user to reshape metal. If the focus grants telekinetic powers, this ability could allow a character to hurl massive objects at foes. And so on.
 
@@ -2030,7 +2030,7 @@ The following are examples and not meant to provide a complete list of all possi
 
 **Ability Selection Guidelines**
 
-**Tier 1:** Choose a low-tier ability that grants the character basic exploratory, survival, or information-gathering capabilities within the focus’s theme.
+**Tier 1:** Choose a low-tier ability that grants the character basic exploratory, survival, or information-gathering capabilities within the focus's theme.
 Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge or a related skill (though this may already be covered in the main ability). Alternatively, it might offer a simple bonus of 2 or 3 points to the Might Pool.
 
 **Tier 2:** Choose another low-tier ability that grants an additional capability related to exploration, survival, or information gathering.
@@ -2039,28 +2039,28 @@ For instance, a focus dedicated to surviving savage conditions might offer an ab
 **Tier 3:** Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 One option should further improve the basic exploration ability granted, or give a new exploratory, survival, or information-gathering ability.
 
-The other option should be something that benefits the character, either an offensive or defensive ability (especially if this focus hasn’t already granted that) or something that further broadens the character’s ability to explore in the focus’s chosen realm.
+The other option should be something that benefits the character, either an offensive or defensive ability (especially if this focus hasn't already granted that) or something that further broadens the character's ability to explore in the focus's chosen realm.
 
-**Tier 4:** Choose a mid-tier offensive or defensive ability (whichever wasn’t offered at tier 3) that benefits the character. Alternatively, if offensive and defensive abilities are already well represented, choose a different mid-tier ability that broadens the character’s ability to explore, survive, or gather information.
+**Tier 4:** Choose a mid-tier offensive or defensive ability (whichever wasn't offered at tier 3) that benefits the character. Alternatively, if offensive and defensive abilities are already well represented, choose a different mid-tier ability that broadens the character's ability to explore, survive, or gather information.
 
 **Tier 5:** Choose a high-tier ability that alleviates some of the penalties for exploring, surviving, or gathering information in a normally inhospitable place.
 
 **Tier 6:** Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 One option should further improve the basic exploration-themed ability previously granted, or give a brand-new exploratory, survival, or information-gathering ability.
 
-The other option should be something that benefits the character, either an offensive or defensive ability, or yet another ability that further broadens their capacity to explore in the focus’s chosen realm.
+The other option should be something that benefits the character, either an offensive or defensive ability, or yet another ability that further broadens their capacity to explore in the focus's chosen realm.
 
 -----
 
 ### Influence
 
-Foci that prioritize authority and influence—whether that’s to make people or machines do as commanded, to help others, or to rise to some other prestigious and significant position—fall within the influence category.
+Foci that prioritize authority and influence---whether that's to make people or machines do as commanded, to help others, or to rise to some other prestigious and significant position---fall within the influence category.
 
-These foci grant influence through training and persuasion, by direct mental manipulation, by using fame to get people’s attention and influence their actions, or simply by knowing and learning things that affect later decisions. In this sense, the concept of influence is broad.
+These foci grant influence through training and persuasion, by direct mental manipulation, by using fame to get people's attention and influence their actions, or simply by knowing and learning things that affect later decisions. In this sense, the concept of influence is broad.
 
 **Connection:** Choose four relevant connections from the Focus Connections list.
 
-**Additional Equipment:** Any object necessary to achieve the influence suggested should be granted as additional equipment. Some influence foci don’t require anything to gain or retain their benefits.
+**Additional Equipment:** Any object necessary to achieve the influence suggested should be granted as additional equipment. Some influence foci don't require anything to gain or retain their benefits.
 
 **Minor Effect Suggestions:** The range or duration of the influencing ability is doubled.
 
@@ -2081,14 +2081,14 @@ The following are examples and not meant to provide a complete list of all possi
 **Tier 1:** Choose a low-tier ability that allows the character to learn something significant enough that they can choose a smart course of action (or use that knowledge to persuade or intimidate). How the character learns the information varies by the specifics of the focus. One character might do experiments to learn answers, another might open a telepathic link with others to trade information secretly and quickly, and still another might simply be trained in interaction tasks.
 Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge.
 
-**Tier 2:** Choose a low-tier ability that improves the character’s ability to apply influence. This might open an additional front on the focus’s basic theme or simply further enhance the basic ability already provided. For instance, this tier 2 ability could ease influence-related tasks by a few steps, allow a telepath to read the minds of others who have secrets they’d otherwise not reveal, or grant influence over physical objects (either to improve them or to learn more about them). And so on.
+**Tier 2:** Choose a low-tier ability that improves the character's ability to apply influence. This might open an additional front on the focus's basic theme or simply further enhance the basic ability already provided. For instance, this tier 2 ability could ease influence-related tasks by a few steps, allow a telepath to read the minds of others who have secrets they'd otherwise not reveal, or grant influence over physical objects (either to improve them or to learn more about them). And so on.
 
 **Tier 3:** Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
-One option should provide an offensive or defensive capability related to the focus’s specific kind of influence, if possible. For instance, an inventor might create a serum that gives them increased abilities (which could be used for offense or defense), a telepath might have some method of blasting foes with mental energy, and someone with only the basic skills of debate and influence through fame might have to rely on weapon training or their entourage.
+One option should provide an offensive or defensive capability related to the focus's specific kind of influence, if possible. For instance, an inventor might create a serum that gives them increased abilities (which could be used for offense or defense), a telepath might have some method of blasting foes with mental energy, and someone with only the basic skills of debate and influence through fame might have to rely on weapon training or their entourage.
 
-The other mid-tier option should provide an additional ability to influence in the theme of the focus, or further improve the basic influence ability previously granted. This option isn’t directly offensive or defensive, but provides either an all-new ability related to the basic ability, or increases the strength, range, or some other extension of the previously unlocked basic ability. For instance, a telepath might have a psychic suggestion ability.
+The other mid-tier option should provide an additional ability to influence in the theme of the focus, or further improve the basic influence ability previously granted. This option isn't directly offensive or defensive, but provides either an all-new ability related to the basic ability, or increases the strength, range, or some other extension of the previously unlocked basic ability. For instance, a telepath might have a psychic suggestion ability.
 
-**Tier 4:** Choose a mid-tier ability that is either an offensive or a defensive use of the influence ability, whichever one wasn’t chosen as an option in the previous tier.
+**Tier 4:** Choose a mid-tier ability that is either an offensive or a defensive use of the influence ability, whichever one wasn't chosen as an option in the previous tier.
 Alternatively, this ability could grant an additional capability related to the kind of influence the focus provides.
 
 **Tier 5:** Choose a high-tier penultimate use of the specific influence ability granted at lower tiers.
@@ -2103,13 +2103,13 @@ The other option should be something that further explores the use of the basic 
 
 ### Irregular
 
-Most foci have a basic theme, a “character story” that logically leads to a series of related abilities. However, certain foci themes are so wide that they don’t fit into any other category except an irregular one of their own.
+Most foci have a basic theme, a "character story" that logically leads to a series of related abilities. However, certain foci themes are so wide that they don't fit into any other category except an irregular one of their own.
 
-Irregular foci provide a basket of disparate abilities. Usually that’s because the overarching theme is one that demands variability and access to several different kinds of abilities. Often, these foci are found in genres that suggest additional rule tweaks to leverage their use even further, such as power shifts in the superhero genre and spellcasting in the fantasy genre. However, other irregular foci are possible.
+Irregular foci provide a basket of disparate abilities. Usually that's because the overarching theme is one that demands variability and access to several different kinds of abilities. Often, these foci are found in genres that suggest additional rule tweaks to leverage their use even further, such as power shifts in the superhero genre and spellcasting in the fantasy genre. However, other irregular foci are possible.
 
 **Connection:** Choose four relevant connections from the Focus Connections list.
 
-**Additional Equipment:** Any object necessary to the focus’s theme. For instance, a  
+**Additional Equipment:** Any object necessary to the focus's theme. For instance, a  
 superhero-themed focus might grant a superhero costume.
 
 **Minor Effect Suggestions:** The target is also dazed for one round, during which time all of its tasks are hindered.
@@ -2130,33 +2130,33 @@ The following are examples and not meant to provide a complete list of all possi
 **Tier 1:** Choose a low-tier ability that grants one of the benefits the focus theme promises, one that a first-tier character should have.
 Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge or a related skill. Alternatively, it might offer a simple bonus of 2 or 3 points to a Pool.
 
-**Tier 2:** Choose a low-tier ability that grants one of the benefits the focus theme promises, one that’s presumably not immediately related to the one provided at tier 1. That said, if a defense wasn’t provided at tier 1, tier 2 is a good place to add it.
+**Tier 2:** Choose a low-tier ability that grants one of the benefits the focus theme promises, one that's presumably not immediately related to the one provided at tier 1. That said, if a defense wasn't provided at tier 1, tier 2 is a good place to add it.
 
 **Tier 3:** Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 One option should provide one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier tiers.
 
-The other option should include a method of attack if none has previously been granted. Alternatively, if the lower-tier abilities don’t quite get the character where they need to be, this option might further increase a capability unlocked at a lower tier.
+The other option should include a method of attack if none has previously been granted. Alternatively, if the lower-tier abilities don't quite get the character where they need to be, this option might further increase a capability unlocked at a lower tier.
 
 **Tier 4:** Choose a mid-tier ability that grants one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier tiers.
 
 **Tier 5:** Choose a high-tier ability that grants one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier tiers.
 
 **Tier 6:** Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
-One option should grant one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier tiers. However, this ability might also provide an ultimate version of a lower-tier ability if a mid-tier or low-tier option wasn’t quite sufficient.
+One option should grant one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier tiers. However, this ability might also provide an ultimate version of a lower-tier ability if a mid-tier or low-tier option wasn't quite sufficient.
 
-The other option should provide an alternate method to round out the character in a way that doesn’t replicate the first tier 6 option. For instance, if the first option provided some kind of attack, this one might be an interaction, information-gathering, or healing ability, depending on the focus’s overarching theme.
+The other option should provide an alternate method to round out the character in a way that doesn't replicate the first tier 6 option. For instance, if the first option provided some kind of attack, this one might be an interaction, information-gathering, or healing ability, depending on the focus's overarching theme.
 
 -----
 
 ### Movement Expertise
 
-Foci that prioritize novel forms of movement—in order to excel in combat, escape situations most others can’t, move with stealth for purposes of theft or escape, or move into locations normally inaccessible—fall within the movement expertise category. These foci usually have methods of granting either offense or defense through movement, though they may provide some means of doing both.
+Foci that prioritize novel forms of movement---in order to excel in combat, escape situations most others can't, move with stealth for purposes of theft or escape, or move into locations normally inaccessible---fall within the movement expertise category. These foci usually have methods of granting either offense or defense through movement, though they may provide some means of doing both.
 
 The classic movement expertise focus is one that relies on speed to make more attacks and avoid being hit, though general agility might also provide the same benefit. Other foci in this category might fall within the theme by granting a character the ability to become immaterial, to change their form into something like water or air, or to instantly move via teleportation.
 
 **Connection:** Choose four relevant connections from the Focus Connections list.
 
-**Additional Equipment:** Any object necessary to achieve great speeds, change state, or otherwise gain the benefit of the focus should be granted as additional equipment. Some foci in this category don’t require anything to gain or retain their benefits.
+**Additional Equipment:** Any object necessary to achieve great speeds, change state, or otherwise gain the benefit of the focus should be granted as additional equipment. Some foci in this category don't require anything to gain or retain their benefits.
 
 **Minor Effect Suggestions:** The target is dazed, and their next action is hindered.
 
@@ -2174,18 +2174,18 @@ The following are examples and not meant to provide a complete list of all possi
 
 **Ability Selection Guidelines**
 
-**Tier 1:** Choose a low-tier ability that grants the basic benefit of the specific movement style, whether that’s enhanced speed, agility, immateriality, and so on.
+**Tier 1:** Choose a low-tier ability that grants the basic benefit of the specific movement style, whether that's enhanced speed, agility, immateriality, and so on.
 Sometimes an additional low-power ability is appropriate, depending on the focus. If the basic benefit of the movement demands some kind of additional understanding or training, this ability could be that. Alternatively, if the movement provided seems like it should also unlock a basic offensive or defensive benefit (relying on the use of the initial basic ability), append it as well.
 
-**Tier 2:** Choose a low-tier ability that provides a new offensive or defensive capability related to the focus’s theme.
+**Tier 2:** Choose a low-tier ability that provides a new offensive or defensive capability related to the focus's theme.
 Alternatively, this ability might provide some additional capability related to the form of movement that grants useful information to the character that would normally be inaccessible to someone without the focus.
 
 **Tier 3:** Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
-One option should provide an additional movement capacity or further improve the basic movement capacity, related to the focus’s theme. This isn’t directly offensive or defensive, but provides the character with a new level of ability or an all-new ability related to their basic movement ability.
+One option should provide an additional movement capacity or further improve the basic movement capacity, related to the focus's theme. This isn't directly offensive or defensive, but provides the character with a new level of ability or an all-new ability related to their basic movement ability.
 
 The other option should provide either an offensive or a defensive capability related to the specific form of movement the focus provides.
 
-**Tier 4:** Choose a mid-tier ability that further enhances the advantages provided by focus’s movement-enhancing paradigm. This could provide a new or better form of defense (directly, or indirectly if moving to a location or time where danger doesn’t threaten), or a new or better form of offense.
+**Tier 4:** Choose a mid-tier ability that further enhances the advantages provided by focus's movement-enhancing paradigm. This could provide a new or better form of defense (directly, or indirectly if moving to a location or time where danger doesn't threaten), or a new or better form of offense.
 
 **Tier 5:** Choose a high-tier penultimate use of the movement-related ability. For instance, if the focus-provided movement is temporal, this ability might allow actual (if brief) jaunts of time travel. If the focus enhances speed, this ability might allow the character to move up to a very long distance with one action. And so on.
 Alternatively, unlock an as-yet-unexplored related ability that could derive from the basic movement power provided by the focus.
@@ -2200,7 +2200,7 @@ movement ability. If the tier 5 choice was the penultimate ability, this might b
 
 ### Striker Combat
 
-Striker combat foci prioritize dealing damage in battle over other concerns. Foci in this category offer defensive abilities as well, but they emphasize abilities that provide ways to spike damage to heights that other foci normally don’t reach.
+Striker combat foci prioritize dealing damage in battle over other concerns. Foci in this category offer defensive abilities as well, but they emphasize abilities that provide ways to spike damage to heights that other foci normally don't reach.
 
 To achieve this end, a striker combat focus might offer mastery of a particular style of martial combat, which could be training with a particular weapon or martial art, or the use of a unique tool (or even a kind of energy). A style might be something as singular as being the best at fighting a particular kind of enemy, or something much broader, such as adopting a particularly vicious or unsporting style. A striker combatant might use fire, force, or magnetism as their preferred method of spiking damage.
 
@@ -2231,21 +2231,21 @@ The following are examples and not meant to provide a complete list of all possi
 
 **Ability Selection Guidelines**
 
-**Tier 1:** Choose a low-tier ability that inflicts additional damage when a character attacks using the focus’s particular fighting style, energy, or attitude, or when used against a chosen enemy.
+**Tier 1:** Choose a low-tier ability that inflicts additional damage when a character attacks using the focus's particular fighting style, energy, or attitude, or when used against a chosen enemy.
 Sometimes an additional low-power ability is appropriate, depending on the focus. For instance, a focus that grants proficiency in a special weapon might offer training in crafting tasks associated with that weapon. A focus that grants increased damage against a particular kind of foe might offer training in skills to recognize, locate, or just have general knowledge about that foe. A fighting style that involves fighting in a vicious or dirty manner might provide training in intimidation. And so on.
 
 If the focus is about fighting a particular enemy, additional secondary powers (more than might otherwise be offered) may be appropriate. Those either further enhance effectiveness against the chosen enemy, or offer broader but related abilities that give the character who takes the focus some functionality even when not fighting that enemy.
 
 **Tier 2:** Choose a low-tier ability that provides some form of defense using the weapon, weapon style, or chosen energy. If the weapon style is being especially good at fighting a certain kind of foe, the ability should be a defense against that kind of foe. Alternatively, the focus might offer another method for increasing damage within the chosen paradigm.
 Sometimes an additional low-power ability is appropriate at tier 2. If so, choose whichever  
-low-power ability wasn’t gained at tier 1.
+low-power ability wasn't gained at tier 1.
 
 **Tier 3:** Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
-One option should inflict additional damage when using the focus’s fighting style, energy, or attitude, or when used against a chosen enemy. That could be as simple as an ability that offers an additional attack of that kind.
+One option should inflict additional damage when using the focus's fighting style, energy, or attitude, or when used against a chosen enemy. That could be as simple as an ability that offers an additional attack of that kind.
 
-The other option should provide a method to temporarily neutralize a foe by disarming them, dazing or stunning them, slowing or holding them, or otherwise discombobulating them by using the focus’s fighting style, energy, or attitude, or when used against a chosen enemy.
+The other option should provide a method to temporarily neutralize a foe by disarming them, dazing or stunning them, slowing or holding them, or otherwise discombobulating them by using the focus's fighting style, energy, or attitude, or when used against a chosen enemy.
 
-**Tier 4:** Choose a mid-tier ability that further enhances the advantages provided by the focus’s paradigm. Often, this includes training in a particular kind of attack. Alternatively, the ability might increase the advantages provided by achieving a certain combat status, such as gaining surprise.
+**Tier 4:** Choose a mid-tier ability that further enhances the advantages provided by the focus's paradigm. Often, this includes training in a particular kind of attack. Alternatively, the ability might increase the advantages provided by achieving a certain combat status, such as gaining surprise.
 
 **Tier 5:** Choose a high-tier ability that inflicts damage. Alternatively, if focused on fighting a particular kind of foe, this ability might give the character a chance to completely neutralize, destroy, blind, or kill a singular target of up to level 3 (or higher, if the focus is on a singular foe).
 
@@ -2264,7 +2264,7 @@ Support foci rely on a variety of methods to provide their help, including marti
 
 **Connection:** Choose four relevant connections from the Focus Connections list.
 
-**Additional Equipment:** Any object necessary to provide support. For instance, someone with a focus that uses entertainment to help others would require an instrument or similar object in aid of their craft. Some foci in this category don’t require anything to gain or retain their benefits.
+**Additional Equipment:** Any object necessary to provide support. For instance, someone with a focus that uses entertainment to help others would require an instrument or similar object in aid of their craft. Some foci in this category don't require anything to gain or retain their benefits.
 
 **Minor Effect Suggestions:** You can draw an attack without having to use an action at any point before the end of the next round.
 
@@ -2283,12 +2283,12 @@ The following are examples and not meant to provide a complete list of all possi
 **Ability Selection Guidelines**
 
 **Tier 1:** Choose a low-tier ability that provides some form of defense, aid or entertainment, benefit to recovery or healing, or protection. That defense or protection could be to the PC and not to an ally, as one cannot protect another without first being able to protect themselves (and sometimes protecting themselves is the entire point).
-Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge or a related skill, but it might be something that works with the initial ability that, by itself, wouldn’t do much.
+Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge or a related skill, but it might be something that works with the initial ability that, by itself, wouldn't do much.
 
-**Tier 2:** Choose a low-tier ability that follows up on the support style opened in the previous tier. If the previous tier’s ability provided a means of protection only for the focus taker, this tier 2 ability should specifically provide aid to another. If the previous tier specifically provided aid to another, this tier 2 ability could defend the focus taker or provide an offensive capability grounded, if possible, in the focus’s theme.
+**Tier 2:** Choose a low-tier ability that follows up on the support style opened in the previous tier. If the previous tier's ability provided a means of protection only for the focus taker, this tier 2 ability should specifically provide aid to another. If the previous tier specifically provided aid to another, this tier 2 ability could defend the focus taker or provide an offensive capability grounded, if possible, in the focus's theme.
 
 **Tier 3:** Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
-One option should work within the focus’s theme to aid, heal, protect, or otherwise help another.
+One option should work within the focus's theme to aid, heal, protect, or otherwise help another.
 
 The other option should be something that benefits the character, either an offensive or defensive ability, or something that broadens their expertise in some fashion. Alternatively, it could be another, different method of helping someone else.
 
@@ -2307,11 +2307,11 @@ The other option could provide an alternative ultimate method of helping another
 
 Foci that prioritize being able to take a lot of punishment and soak up excess damage from foes fall within the tank combat category. These foci provide offensive abilities too, as well as additional abilities related to the particular method by which improved protection is achieved, but defensive abilities are most pronounced.
 
-Some tank combat foci involve a physical transformation that grants additional protection, and others rely on specialized training, use tools like shields or heavy armor, or provide the ability to heal incredibly fast. The kinds of physical transformation that a tank focus provides, if any, vary widely. A focus might turn a character’s skin to stone, reinforce their body with metal, turn them into a monstrous being, make them so big it becomes harder to hurt them, and so on.
+Some tank combat foci involve a physical transformation that grants additional protection, and others rely on specialized training, use tools like shields or heavy armor, or provide the ability to heal incredibly fast. The kinds of physical transformation that a tank focus provides, if any, vary widely. A focus might turn a character's skin to stone, reinforce their body with metal, turn them into a monstrous being, make them so big it becomes harder to hurt them, and so on.
 
 **Connection:** Choose four relevant connections from the Focus Connections list.
 
-**Additional Equipment:** Any object necessary to maintain a physical transformation (such as a tool for repair if partly robotic, a shield or other defensive tool used if skilled, or possibly some kind of amulet or serum). Some tank combat foci don’t require anything to gain or retain their benefits.
+**Additional Equipment:** Any object necessary to maintain a physical transformation (such as a tool for repair if partly robotic, a shield or other defensive tool used if skilled, or possibly some kind of amulet or serum). Some tank combat foci don't require anything to gain or retain their benefits.
 
 **Minor Effect Suggestions:** +2 to Armor for a few rounds.
 
@@ -2332,31 +2332,31 @@ The following are examples and not meant to provide a complete list of all possi
 
 **Ability Selection Guidelines**
 
-**Tier 1:** Choose a low-tier ability that provides defense within the focus’s theme. If the theme is simply intense training or the use of a defensive tool, the ability might be as simple as a bonus to Armor. If protection comes from physical transformation, this ability provides the base form effects, benefits, and in some cases drawbacks for making the transformation. A low-tier enhanced healing ability would also be appropriate at first tier.
+**Tier 1:** Choose a low-tier ability that provides defense within the focus's theme. If the theme is simply intense training or the use of a defensive tool, the ability might be as simple as a bonus to Armor. If protection comes from physical transformation, this ability provides the base form effects, benefits, and in some cases drawbacks for making the transformation. A low-tier enhanced healing ability would also be appropriate at first tier.
 Sometimes an additional low-power ability is appropriate, depending on the focus. If the character transforms, this ability may provide a knock-on effect, though in the case of some transformations, it might be a description of how someone with an abnormal physiognomy can fully heal. Other times, the secondary power may simply be training in a related skill, or it may unlock the ability to use a particular armor or shield without penalty.
 
-**Tier 2:** If the theme of the focus isn’t physical transformation, choose a low-tier ability that provides an additional method of defending, healing damage, or avoiding attacks.
+**Tier 2:** If the theme of the focus isn't physical transformation, choose a low-tier ability that provides an additional method of defending, healing damage, or avoiding attacks.
 If the theme of the focus is physical transformation, choose a low-tier ability that unlocks a new capability related to the form the character takes. That might mean gaining better control of the transformation, unlocking a robotic interface, or otherwise more fully unlocking that form. This ability is not necessarily defensive, though it could be.
 
 **Tier 3:** Choose two mid-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
-One option should provide an additional form of protection in keeping with the focus’s theme, such as more defensive capabilities unlocked from a transformation (which might also come with additional offensive capabilities) or a simple physical enhancement if defense is gained by skills or enhanced healing.
+One option should provide an additional form of protection in keeping with the focus's theme, such as more defensive capabilities unlocked from a transformation (which might also come with additional offensive capabilities) or a simple physical enhancement if defense is gained by skills or enhanced healing.
 
 The other option should provide an offensive  
 capability, especially if creating a non-transformation  
-focus that doesn’t already have offensive benefits. That capability could be an enhanced attack or provide some other benefit useful in combat, such as quickly evading or (on the other end of the continuum) becoming immovable.
+focus that doesn't already have offensive benefits. That capability could be an enhanced attack or provide some other benefit useful in combat, such as quickly evading or (on the other end of the continuum) becoming immovable.
 
-**Tier 4:** Choose a mid-tier ability that further enhances the advantages provided by the focus’s damage-soaking paradigm. Often, this includes training in a particular kind of defense. Alternatively, it might increase the advantages provided by previously unlocked defensive abilities, whether that means gaining greater control over a transformation, gaining additional chances to avoid damage or retry tasks related to enhanced determination, and so on. If the focus is lacking in offensive options, this is a good place to include one.
+**Tier 4:** Choose a mid-tier ability that further enhances the advantages provided by the focus's damage-soaking paradigm. Often, this includes training in a particular kind of defense. Alternatively, it might increase the advantages provided by previously unlocked defensive abilities, whether that means gaining greater control over a transformation, gaining additional chances to avoid damage or retry tasks related to enhanced determination, and so on. If the focus is lacking in offensive options, this is a good place to include one.
 
 **Tier 5:** Choose a high-tier ability that provides protection, possibly in the form of shrugging off a debilitating condition (including death). If the focus offers a physical transformation, this ability might further unlock an additional related ability, whether offensive, defensive, or something related to exploration or interaction (such as flight if the form is winged, intimidation if the form is fearsome, and so on).
 
 **Tier 6:** Choose two high-tier abilities. Give both of them as options for the focus; a PC will choose one or the other.
 One option should use the focus paradigm to increase the defense, protection, or ability to shrug off damage.
 
-The other option could be a different way of being defensive. In some cases, the best defense is a good offense, so this option could provide a high-tier offensive ability in keeping with the focus’s theme, whether that’s a straight-up damage boost on attacks or better control of an unstable physical transformation.
+The other option could be a different way of being defensive. In some cases, the best defense is a good offense, so this option could provide a high-tier offensive ability in keeping with the focus's theme, whether that's a straight-up damage boost on attacks or better control of an unstable physical transformation.
 
 ## Customizing Foci
 
-Sometimes not everything about a focus is right for a character’s concept, or perhaps the GM needs additional guidelines for creating a new focus. Either way, the solution lies in looking at foci abilities at their most basic default levels.
+Sometimes not everything about a focus is right for a character's concept, or perhaps the GM needs additional guidelines for creating a new focus. Either way, the solution lies in looking at foci abilities at their most basic default levels.
 
 At any tier, a player can select one of the following abilities in place of the ability granted by the tier. Many of these replacement abilities, particularly at the higher tiers, might involve body modification, integration with high-tech  
 devices, learning powerful magic spells, uncovering forbidden secrets, or something similar appropriate to the genre.

@@ -1,34 +1,39 @@
+---
+title: Cyphers
+weight: 3
+---
+
 # Cyphers
 
 Cyphers are one-use abilities that characters gain over the course of play. They have cool powers that can heal, make attacks, ease or hinder task rolls, or (in a more supernatural and extreme example) produce effects such as nullifying gravity or turning something invisible.
 
-Most cyphers aren’t physical objects—just something useful that happens right when you need it. They might be a burst of insight that allows a character to make a perfectly executed attack, a lucky guess when using a computer terminal, a coincidental distraction that gives you an advantage against an NPC, or a supernatural entity that makes things work out in your favor. In some games, cyphers come in the form of items, like magic potions or bits of alien technology.
+Most cyphers aren't physical objects---just something useful that happens right when you need it. They might be a burst of insight that allows a character to make a perfectly executed attack, a lucky guess when using a computer terminal, a coincidental distraction that gives you an advantage against an NPC, or a supernatural entity that makes things work out in your favor. In some games, cyphers come in the form of items, like magic potions or bits of alien technology.
 
-Cyphers that don’t have a physical form are called subtle cyphers.
+Cyphers that don't have a physical form are called subtle cyphers.
 
 Cyphers that have a physical form are called manifest cyphers.
 
-Regardless of their form, cyphers are single-use effects and are always consumed when used. Unless a cypher’s description says otherwise, it works only for the character who activates it. For example, a PC can’t use an enduring shield cypher on a friend.
+Regardless of their form, cyphers are single-use effects and are always consumed when used. Unless a cypher's description says otherwise, it works only for the character who activates it. For example, a PC can't use an enduring shield cypher on a friend.
 
-Cyphers are a game mechanic designed for frequent discovery and use. PCs can have only a small number of cyphers at any given time, and since they’re always finding more, they’re encouraged to use them at a steady pace.
+Cyphers are a game mechanic designed for frequent discovery and use. PCs can have only a small number of cyphers at any given time, and since they're always finding more, they're encouraged to use them at a steady pace.
 
-In theory, the cyphers gained by the PCs are determined randomly. However, the GM can allow PCs to acquire or find them intentionally as well. Cyphers are gained with such regularity that the PCs should feel that they can use them freely. There will always be more, and they’ll have different benefits. This means that in gameplay, cyphers are less like gear or treasure and more like character abilities that the players don’t choose. This leads to fun game moments where a player can say “Well, I’ve got an X that might help in this situation,” and X is always different. X might be an intuitive understanding of the local computer network, a favor from the Faerie Court, an explosive device, a short-range teleporter, or a force field. It might be a powerful magnet or a prayer that will cure disease. It could be anything. Cyphers keep the game fresh and interesting. Over time, characters can learn how to safely carry more and more cyphers at the same time, so cyphers really do seem more like abilities and less like gear.
+In theory, the cyphers gained by the PCs are determined randomly. However, the GM can allow PCs to acquire or find them intentionally as well. Cyphers are gained with such regularity that the PCs should feel that they can use them freely. There will always be more, and they'll have different benefits. This means that in gameplay, cyphers are less like gear or treasure and more like character abilities that the players don't choose. This leads to fun game moments where a player can say "Well, I've got an X that might help in this situation," and X is always different. X might be an intuitive understanding of the local computer network, a favor from the Faerie Court, an explosive device, a short-range teleporter, or a force field. It might be a powerful magnet or a prayer that will cure disease. It could be anything. Cyphers keep the game fresh and interesting. Over time, characters can learn how to safely carry more and more cyphers at the same time, so cyphers really do seem more like abilities and less like gear.
 
-(“Carry” in this sense refers to both subtle cyphers and manifest cyphers, though a PC may not actually carry anything that physically represents the cypher. A character thrown into prison without their equipment might still have subtle cyphers.)
+("Carry" in this sense refers to both subtle cyphers and manifest cyphers, though a PC may not actually carry anything that physically represents the cypher. A character thrown into prison without their equipment might still have subtle cyphers.)
 
-Cyphers don’t have to be used to make room for new ones. For subtle cyphers, a character can just use an action to “lose” the cypher, freeing up space to “find” one later (once a subtle cypher is discarded this way, it is gone and can’t be recovered). For manifest cyphers, it’s perfectly acceptable for the PCs to stash one elsewhere for later use; of course, that doesn’t mean it will still be there when they return.
+Cyphers don't have to be used to make room for new ones. For subtle cyphers, a character can just use an action to "lose" the cypher, freeing up space to "find" one later (once a subtle cypher is discarded this way, it is gone and can't be recovered). For manifest cyphers, it's perfectly acceptable for the PCs to stash one elsewhere for later use; of course, that doesn't mean it will still be there when they return.
 
 WHY CYPHERS?
 
-Cyphers are (not surprisingly, based on the name) the heart of the Cypher System. This is because characters in this game have some abilities that rarely or never change and can always be counted on—pretty much like in all games—and they have some abilities that are ever-changing and inject a great deal of variability in play. They are the major reason why no Cypher System game session should ever be dull or feel just like the last session. This week your character can solve the problem by walking through walls, but last time it was because you could create an explosion that could level a city block.
+Cyphers are (not surprisingly, based on the name) the heart of the Cypher System. This is because characters in this game have some abilities that rarely or never change and can always be counted on---pretty much like in all games---and they have some abilities that are ever-changing and inject a great deal of variability in play. They are the major reason why no Cypher System game session should ever be dull or feel just like the last session. This week your character can solve the problem by walking through walls, but last time it was because you could create an explosion that could level a city block.
 
 The Cypher System, then, is one where PC abilities are fluid, with the GM and the players both having a role in their choice, their assignment, and their use. Although many things separate the game system from others, this aspect makes it unique, because cyphers recognize the importance and value of two things:
 
-1\. “Treasure,” because character abilities make the game fun and exciting. In fact, in the early days of roleplaying, treasure (usually in the form of magic items found in dungeons) was really the only customization of characters that existed. One of the drives to go out and have adventures is so you can discover cool new things that help you when you go on even more adventures. This is true in many RPGs, but in the Cypher System, it’s built right into the game’s core.
+1\. "Treasure," because character abilities make the game fun and exciting. In fact, in the early days of roleplaying, treasure (usually in the form of magic items found in dungeons) was really the only customization of characters that existed. One of the drives to go out and have adventures is so you can discover cool new things that help you when you go on even more adventures. This is true in many RPGs, but in the Cypher System, it's built right into the game's core.
 
 2\. Letting the GM have a hand in determining PC abilities makes the game move more smoothly. Some GMs prefer  
 to roll cyphers randomly, but some do not. For example, giving the PCs a cypher that will allow them to teleport far away might be a secret adventure seed placed by a  
-forward-thinking GM. Because the GM has an idea of where the story is going, they can use cyphers to help guide the path. Alternatively, if the GM is open to it, they can give out cyphers that enable the characters to take a more proactive role (such as teleporting anywhere they want). Perhaps most important, they can do these things without worrying about the long-term ramifications of the ability. A device that lets you teleport multiple times might really mess up the game over the long term. But once? That’s just fun.
+forward-thinking GM. Because the GM has an idea of where the story is going, they can use cyphers to help guide the path. Alternatively, if the GM is open to it, they can give out cyphers that enable the characters to take a more proactive role (such as teleporting anywhere they want). Perhaps most important, they can do these things without worrying about the long-term ramifications of the ability. A device that lets you teleport multiple times might really mess up the game over the long term. But once? That's just fun.
 
 CYPHER LIMITS
 
@@ -36,52 +41,52 @@ All characters have a maximum number of cyphers they can have at any one time, d
 
 SUBTLE CYPHERS
 
-Subtle (nonphysical) cyphers are a way to introduce cyphers into a game without overt “powered stuff”—no potions, alien crystals, or anything of that nature. They’re most useful, perhaps, in a modern or horror setting without obvious fantasy elements. Subtle cyphers are more like the inherent abilities PCs have, adding boosts to Edge, recovering points from Pools, coming up with ideas, and so on. In general, these are commonplace, non-supernatural effects—a subtle cypher wouldn’t create a laser beam or allow a character to walk through a wall. They don’t break the fragile bubble of believability in genres where flashy powers and abilities don’t make a lot of sense.
+Subtle (nonphysical) cyphers are a way to introduce cyphers into a game without overt "powered stuff"---no potions, alien crystals, or anything of that nature. They're most useful, perhaps, in a modern or horror setting without obvious fantasy elements. Subtle cyphers are more like the inherent abilities PCs have, adding boosts to Edge, recovering points from Pools, coming up with ideas, and so on. In general, these are commonplace, non-supernatural effects---a subtle cypher wouldn't create a laser beam or allow a character to walk through a wall. They don't break the fragile bubble of believability in genres where flashy powers and abilities don't make a lot of sense.
 
-Subtle cyphers are particularly nice in a genre where the PCs are supposed to be normal people. The cyphers can simply be an expression of innate capabilities in characters that aren’t always dependable. And in many ways, that’s probably more realistic than an ability you can count on with certainty, because in real life, some days you can jump over a fence, and some days you just can’t.
+Subtle cyphers are particularly nice in a genre where the PCs are supposed to be normal people. The cyphers can simply be an expression of innate capabilities in characters that aren't always dependable. And in many ways, that's probably more realistic than an ability you can count on with certainty, because in real life, some days you can jump over a fence, and some days you just can't.
 
 Concepts for subtle cyphers include the following:
 
-Good fortune: Once in a while, things just go your way. You’re in the right place at the right time.
+Good fortune: Once in a while, things just go your way. You're in the right place at the right time.
 
-Inspirations: Sometimes you get inspired to do something you’ve never done before and might not be able to do again. Call it adrenaline mixed with the right motivation, or just doing the right thing at the right place at the right time. Who can really define it? Life’s funny that way.
+Inspirations: Sometimes you get inspired to do something you've never done before and might not be able to do again. Call it adrenaline mixed with the right motivation, or just doing the right thing at the right place at the right time. Who can really define it? Life's funny that way.
 
 Alien concepts: Complex and utterly inhuman memes enter our world and worm their way into and out of human consciousness. When this happens, it can cause mental distress and disorientation. It can also grant impossible abilities and advantages.
 
 Blessings: In a fantasy world, there are nine gods. Each morning, all intelligent residents of the world pray to one of the gods, and some of the faithful gain a divine blessing. Some people believe that praying to different gods gives you different blessings.
 
-Earworms: You know how some songs pop into your head and just won’t leave? There’s a power to those songs, and the right people know how to harness it. Make the songs disturbing or reminiscent of evil chants, and you’ve got a perfect cypher concept for a horror campaign.
+Earworms: You know how some songs pop into your head and just won't leave? There's a power to those songs, and the right people know how to harness it. Make the songs disturbing or reminiscent of evil chants, and you've got a perfect cypher concept for a horror campaign.
 
-Mysterious transmissions: What’s that buzzing? That mechanical chittering? Those numbers repeating over and over? And why can only some people hear it? A few who are aware of the sounds have learned how to make use of them.
+Mysterious transmissions: What's that buzzing? That mechanical chittering? Those numbers repeating over and over? And why can only some people hear it? A few who are aware of the sounds have learned how to make use of them.
 
-Supernatural powers: Mental or mystical energies constantly shift and change, ebb and flow. But you’ve figured out how to attune your mind to them. There are no physical actions or paraphernalia required—just an inner conduit to the numinous.
+Supernatural powers: Mental or mystical energies constantly shift and change, ebb and flow. But you've figured out how to attune your mind to them. There are no physical actions or paraphernalia required---just an inner conduit to the numinous.
 
 DISCOVERING SUBTLE CYPHERS
 
-Since subtle cyphers aren’t physical objects, GMs will need to figure out when to give PCs new ones to replace the ones they have used. The cyphers probably shouldn’t be tied to actions entirely under the characters’ control—in other words, they shouldn’t come as a result of meditation or anything of that nature. Instead, the GM should choose significant points in the story when new cyphers might simply come unbidden to the PCs. In the broader view, this is no different than manifest cyphers placed as treasure in a creature’s lair, a secret cache, or somewhere else for the characters to find. Either way, the GM is picking good spots to “refill” potentially used cypher-based abilities.
+Since subtle cyphers aren't physical objects, GMs will need to figure out when to give PCs new ones to replace the ones they have used. The cyphers probably shouldn't be tied to actions entirely under the characters' control---in other words, they shouldn't come as a result of meditation or anything of that nature. Instead, the GM should choose significant points in the story when new cyphers might simply come unbidden to the PCs. In the broader view, this is no different than manifest cyphers placed as treasure in a creature's lair, a secret cache, or somewhere else for the characters to find. Either way, the GM is picking good spots to "refill" potentially used cypher-based abilities.
 
-Subtle cyphers are often found in groups of one to six (the GM can roll 1d6 to determine the number). The GM might randomly assign the cyphers to each PC who has space for more, or present a selection of cyphers to the group and allow the players to choose which ones they want for their characters. Characters should immediately know what their subtle cyphers do. If a PC activates a healing subtle cypher when they think it’s something to help pick a lock, that’s a waste of a useful character ability.
+Subtle cyphers are often found in groups of one to six (the GM can roll 1d6 to determine the number). The GM might randomly assign the cyphers to each PC who has space for more, or present a selection of cyphers to the group and allow the players to choose which ones they want for their characters. Characters should immediately know what their subtle cyphers do. If a PC activates a healing subtle cypher when they think it's something to help pick a lock, that's a waste of a useful character ability.
 
 PCs might be able to obtain subtle cyphers from NPCs or in unusual circumstances as gifts, boons, or blessings, even asking for a particular kind of subtle cypher, such as healing, protection, or skill. For example, PCs who make a donation at a temple of a healing goddess could ask to receive a blessing (subtle cypher) that allows them to speak a healing prayer that restores points to one of their Pools. An NPC wizard who owes the PCs a favor might cast a spell on them that deflects one weapon if they say a magic word. An alien pylon might grant knowledge of a strange mental code that lets a person see in the dark for a few hours.
 
 A PC can also acquire a new subtle cypher by spending 1 XP on one of the following player intrusions:
 
-General cypher: You ask the GM for a general subtle cypher, such as “healing,” “movement,” “defense,” or perhaps something as specific as “flight.” The GM gives you a cypher that meets that description and randomly determines its level. If you don’t have space for this cypher, you immediately lose one of your current cyphers (your choice) and the new cypher takes its place.
+General cypher: You ask the GM for a general subtle cypher, such as "healing," "movement," "defense," or perhaps something as specific as "flight." The GM gives you a cypher that meets that description and randomly determines its level. If you don't have space for this cypher, you immediately lose one of your current cyphers (your choice) and the new cypher takes its place.
 
-Specific cypher: You ask the GM for a specific subtle cypher (such as a curative or stim) of a specific level. Make an Intellect roll with a difficulty equal to the cypher’s level plus 1. If you have had this cypher before, the task is eased. If you fail the roll, you do not gain a cypher. If you succeed, the GM gives you that subtle cypher at that level. If you don’t have space for this new cypher, you immediately lose one of your current cyphers (your choice) and the new cypher takes its place. Whether or not you succeed at the roll, the 1 XP is spent.
+Specific cypher: You ask the GM for a specific subtle cypher (such as a curative or stim) of a specific level. Make an Intellect roll with a difficulty equal to the cypher's level plus 1. If you have had this cypher before, the task is eased. If you fail the roll, you do not gain a cypher. If you succeed, the GM gives you that subtle cypher at that level. If you don't have space for this new cypher, you immediately lose one of your current cyphers (your choice) and the new cypher takes its place. Whether or not you succeed at the roll, the 1 XP is spent.
 
 FANTASy CYPHERS
 
-Magic items are a staple of fantasy stories and games. In the Cypher System, these magic items are, of course, cyphers. The Cypher System assumes that subtle cyphers are the default, but in a fantasy game the assumption is usually the opposite—cyphers are physical objects (manifest cyphers) with magical powers, which the heroes find as treasure, gifts, or rewards for their adventures and exploits. 
+Magic items are a staple of fantasy stories and games. In the Cypher System, these magic items are, of course, cyphers. The Cypher System assumes that subtle cyphers are the default, but in a fantasy game the assumption is usually the opposite---cyphers are physical objects (manifest cyphers) with magical powers, which the heroes find as treasure, gifts, or rewards for their adventures and exploits. 
 
 MIXING SUBTLE AND MANIFEST CYPHERS  
-There’s no reason why a fantasy campaign can’t use manifest cyphers and subtle cyphers. In this setup, manifest cyphers are the tangible objects found in treasure hoards, and subtle cyphers represent good fortune, the blessings of the gods, and other coincidences that benefit the characters. 
+There's no reason why a fantasy campaign can't use manifest cyphers and subtle cyphers. In this setup, manifest cyphers are the tangible objects found in treasure hoards, and subtle cyphers represent good fortune, the blessings of the gods, and other coincidences that benefit the characters. 
 
 CYPHER FORMS
 
-What form a manifest cypher takes— such as a potion or scroll—doesn’t affect its abilities at all. A potion that eases the user’s next task by three steps is functionally identical to a magical scroll that does the same thing.
+What form a manifest cypher takes--- such as a potion or scroll---doesn't affect its abilities at all. A potion that eases the user's next task by three steps is functionally identical to a magical scroll that does the same thing.
 
-To randomly determine a manifest cypher’s form, roll on the following table.
+To randomly determine a manifest cypher's form, roll on the following table.
 
 | d100  | Cypher Form        |
 |-------|--------------------|
@@ -149,47 +154,47 @@ ACID RESISTANCE
 
 Level: 1d6 + 3 
 
-Effect: The user gains Armor against acid damage equal to the cypher’s level for one hour. 
+Effect: The user gains Armor against acid damage equal to the cypher's level for one hour. 
 
 ANIMAL CONTROL 
 
 Level: 1d6 + 2 
 
-Effect: To activate the cypher, the user must succeed on an Intellect attack against a beast whose level does not exceed the cypher’s level. If successful, the beast immediately becomes calm. The beast awaits the user’s commands and carries out all orders to the best of its ability. The target remains so enslaved for a number of hours equal to the cypher’s level minus the target’s level. (If the result is 0, the target is enslaved for only one minute.) The beast could attack or defend, a dog could follow a scent or retrieve an object, a badger could dig a hole, and so on. 
+Effect: To activate the cypher, the user must succeed on an Intellect attack against a beast whose level does not exceed the cypher's level. If successful, the beast immediately becomes calm. The beast awaits the user's commands and carries out all orders to the best of its ability. The target remains so enslaved for a number of hours equal to the cypher's level minus the target's level. (If the result is 0, the target is enslaved for only one minute.) The beast could attack or defend, a dog could follow a scent or retrieve an object, a badger could dig a hole, and so on. 
 
-The cypher doesn’t give the user any special ability to understand the target or perceive through its senses. For example, the user can command an eagle to fly above a group of enemies, but the eagle can’t describe what it sees and the user can’t look through its eyes. 
+The cypher doesn't give the user any special ability to understand the target or perceive through its senses. For example, the user can command an eagle to fly above a group of enemies, but the eagle can't describe what it sees and the user can't look through its eyes. 
 
-“Beast” in this sense refers to creatures of animal-level intelligence and may include unintelligent magical creatures like basilisks, pegasi, and so on.
+"Beast" in this sense refers to creatures of animal-level intelligence and may include unintelligent magical creatures like basilisks, pegasi, and so on.
 
 BEAST SHAPE 
 
 Level: 1d6 
 
-Effect: The user transforms into a specific kind of animal, such as a bear, hawk, horse, or wolf (the kind of animal is determined by the cypher’s creator). The user gains the animal’s type of movement (swimming for a fish, flying for a bird, and so on) and two assets on tasks to pretend to be that animal. The user also gains an asset on one skill appropriate to their animal form (or two skills for cypher level 5 and higher). See the Animal Form Minor Abilities table. 
+Effect: The user transforms into a specific kind of animal, such as a bear, hawk, horse, or wolf (the kind of animal is determined by the cypher's creator). The user gains the animal's type of movement (swimming for a fish, flying for a bird, and so on) and two assets on tasks to pretend to be that animal. The user also gains an asset on one skill appropriate to their animal form (or two skills for cypher level 5 and higher). See the Animal Form Minor Abilities table. 
 
-The magic shrinks or enlarges the user to a size more suitable for their animal form, but generally can’t make them more than about 50 percent smaller or larger, so the user might become an unusually large bird or a small bear. This doesn’t affect the animal’s abilities. The user can still use all of their abilities that don’t rely specifically on their normal form. For example, an Adept in wolf form can’t wield a dagger because wolves don’t have hands, but could still use a healing power or mind blast ability. 
+The magic shrinks or enlarges the user to a size more suitable for their animal form, but generally can't make them more than about 50 percent smaller or larger, so the user might become an unusually large bird or a small bear. This doesn't affect the animal's abilities. The user can still use all of their abilities that don't rely specifically on their normal form. For example, an Adept in wolf form can't wield a dagger because wolves don't have hands, but could still use a healing power or mind blast ability. 
 
 After about an hour, the user returns to their normal form.
 
-Depending on the cypher, the user might still be able to speak in a humanoid language, talk in a “language” of animal noises that other transformed people can understand perfectly, speak with animals of the same kind, or none of the above.
+Depending on the cypher, the user might still be able to speak in a humanoid language, talk in a "language" of animal noises that other transformed people can understand perfectly, speak with animals of the same kind, or none of the above.
 
 COLD RESISTANCE 
 
 Level: 1d6 + 3 
 
-Effect: The user gains Armor against cold damage equal to the cypher’s level for one hour. 
+Effect: The user gains Armor against cold damage equal to the cypher's level for one hour. 
 
 DEMON WARD 
 
 Level: 1d6 
 
-Effect: For one hour, the user gains Armor equal to the cypher’s level against damage from demons, devils, and similar malevolent creatures.
+Effect: For one hour, the user gains Armor equal to the cypher's level against damage from demons, devils, and similar malevolent creatures.
 
 DRAGON WARD 
 
 Level: 1d6 
 
-Effect: For one hour, the user gains Armor equal to the cypher’s level against damage from dragons, wyverns, and similar magical reptilian creatures.
+Effect: For one hour, the user gains Armor equal to the cypher's level against damage from dragons, wyverns, and similar magical reptilian creatures.
 
 In a typical fantasy campaign, a demon is a supernatural being from another dimension or plane of existence.
 
@@ -197,7 +202,7 @@ ELECTRICITY RESISTANCE 
 
 Level: 1d6 + 3 
 
-Effect: The user gains Armor against electricity damage equal to the cypher’s level for one hour. 
+Effect: The user gains Armor against electricity damage equal to the cypher's level for one hour. 
 
 ELEMENTAL CONJURATION 
 
@@ -213,7 +218,7 @@ FIRE RESISTANCE 
 
 Level: 1d6 + 3 
 
-Effect: The user gains Armor against fire damage equal to the cypher’s level for one hour.
+Effect: The user gains Armor against fire damage equal to the cypher's level for one hour.
 
 GIANT SIZE 
 
@@ -235,7 +240,7 @@ INSTANT TOWER 
 
 Level: 1d6 + 3 
 
-Effect: Creates a simple, squat stone tower with a door, three arrow slits, and a ceiling hatch leading to the roof. The tower is 10 feet (3 m) square and 12 feet (4 m) tall. If the cypher level is 7 or higher, the tower also has a second story (with four arrow slits), increasing its total height to 20 feet (6 m). If there isn’t sufficient room for the tower to reach its full size, it fills the available space, but its appearance and growth does not apply any force or pressure against the confining surfaces. 
+Effect: Creates a simple, squat stone tower with a door, three arrow slits, and a ceiling hatch leading to the roof. The tower is 10 feet (3 m) square and 12 feet (4 m) tall. If the cypher level is 7 or higher, the tower also has a second story (with four arrow slits), increasing its total height to 20 feet (6 m). If there isn't sufficient room for the tower to reach its full size, it fills the available space, but its appearance and growth does not apply any force or pressure against the confining surfaces. 
 
 The tower is permanent and immobile once created. 
 
@@ -243,7 +248,7 @@ LYCANTHROPE WARD 
 
 Level: 1d6 
 
-Effect: For one hour, the user gains Armor equal to the cypher’s level against damage from werewolves and other lycanthropes. 
+Effect: For one hour, the user gains Armor equal to the cypher's level against damage from werewolves and other lycanthropes. 
 
 Lycanthrope: Formally, a human who can transform into a wolf. Informally, a human who can transform into an animal, such as a bear, rat, tiger, or wolf
 
@@ -251,7 +256,7 @@ PENULTIMATE KEY 
 
 Level: 1d6 + 2 
 
-Effect: Locks or unlocks any one door, portal, chest, or other lockable item of the cypher’s level or lower. The targeted item must have a keyhole for the cypher to work. 
+Effect: Locks or unlocks any one door, portal, chest, or other lockable item of the cypher's level or lower. The targeted item must have a keyhole for the cypher to work. 
 
 Legends speak of the Ultimate Key, which can open any lock, even those sealed by a god.
 
@@ -259,7 +264,7 @@ POISON RESISTANCE
 
 Level: 1d6 + 3 
 
-Effect: The user gains Armor against poison damage equal to the cypher’s level for one hour.
+Effect: The user gains Armor against poison damage equal to the cypher's level for one hour.
 
 RESTORATIVE AURA 
 
@@ -271,7 +276,7 @@ THOUGHT LISTENING 
 
 Level: 1d6 + 1 
 
-Effect: The user can read the surface thoughts of a creature within short range that they can see, even if the target doesn’t want them to. Once the user has established contact, they can read the target’s thoughts for up to one minute per cypher level.
+Effect: The user can read the surface thoughts of a creature within short range that they can see, even if the target doesn't want them to. Once the user has established contact, they can read the target's thoughts for up to one minute per cypher level.
 
 TINY SIZE 
 
@@ -285,29 +290,29 @@ UNDEAD WARD 
 
 Level: 1d6 
 
-Effect: For one hour, the user gains Armor equal to the cypher’s level against damage from skeletons, zombies, ghosts, vampires, and other undead creatures. 
+Effect: For one hour, the user gains Armor equal to the cypher's level against damage from skeletons, zombies, ghosts, vampires, and other undead creatures. 
 
 WALKING CORPSE 
 
 Level: 1d6 
 
-Effect: Animates a corpse as a level 1 (or level 2 for cypher level 5 and higher) undead skeleton or zombie, depending on the condition of the body. The corpse can be no larger than a typical human. The animated corpse has none of the intelligence, memories, or special abilities that it had in life. The creature follows the user’s verbal commands for one hour, after which it becomes an inert corpse. Unless the creature is killed by damage, the user can reanimate it again when its time expires, but any damage it had when it became inert applies to its newly reanimated state.
+Effect: Animates a corpse as a level 1 (or level 2 for cypher level 5 and higher) undead skeleton or zombie, depending on the condition of the body. The corpse can be no larger than a typical human. The animated corpse has none of the intelligence, memories, or special abilities that it had in life. The creature follows the user's verbal commands for one hour, after which it becomes an inert corpse. Unless the creature is killed by damage, the user can reanimate it again when its time expires, but any damage it had when it became inert applies to its newly reanimated state.
 
 MANIFEST CYPHERS
 
-Because manifest cyphers are physical objects, and people are familiar with the idea of finding “treasure” as part of playing an RPG, these kinds of cyphers are easy to get into the hands of the PCs. They are often found in groups of one to six (the GM can roll 1d6 to determine the number), usually because the characters are searching for them. They might be among the possessions of a fallen foe, hidden in a secret room, or scattered amid the wreckage of a crashed starship. The GM can prepare a list ahead of time of what successful searchers find. Sometimes this list is random, and sometimes there is logic behind it. For example, a warlock’s laboratory might contain four different magic potions that the PCs can find.
+Because manifest cyphers are physical objects, and people are familiar with the idea of finding "treasure" as part of playing an RPG, these kinds of cyphers are easy to get into the hands of the PCs. They are often found in groups of one to six (the GM can roll 1d6 to determine the number), usually because the characters are searching for them. They might be among the possessions of a fallen foe, hidden in a secret room, or scattered amid the wreckage of a crashed starship. The GM can prepare a list ahead of time of what successful searchers find. Sometimes this list is random, and sometimes there is logic behind it. For example, a warlock's laboratory might contain four different magic potions that the PCs can find.
 
 If the characters search for cyphers, the GM sets the difficulty of the task. It is usually 3 or 4, and scavenging can take fifteen minutes to an hour.
 
 Scavenging is not the only way to obtain manifest cyphers. They can also be given as gifts, traded with merchants, or sometimes purchased in a shop.
 
-Unlike subtle cyphers, characters don’t automatically know what manifest cyphers do. Once the PCs find a manifest cypher, identifying it is a separate task, based on Intellect and modified by knowledge of the topic at hand. In a fantasy setting, that knowledge would probably be magic, but in a science fiction setting, it might be technology. The GM sets the difficulty of the task, but it is usually 1 or 2. Thus, even the smallest amount of knowledge means that cypher identification is automatic. The process takes one to ten minutes. If the PCs can’t identify a cypher, they can bring it to an expert for identification and perhaps trade, if desired.
+Unlike subtle cyphers, characters don't automatically know what manifest cyphers do. Once the PCs find a manifest cypher, identifying it is a separate task, based on Intellect and modified by knowledge of the topic at hand. In a fantasy setting, that knowledge would probably be magic, but in a science fiction setting, it might be technology. The GM sets the difficulty of the task, but it is usually 1 or 2. Thus, even the smallest amount of knowledge means that cypher identification is automatic. The process takes one to ten minutes. If the PCs can't identify a cypher, they can bring it to an expert for identification and perhaps trade, if desired.
 
 MANIFEST CYPHERS DUPLICATING SUBLE CYPHERS
 
-Lots of overlap exists between what subtle cyphers and manifest cyphers can do. Nearly anything that can be explained as a subtle cypher can just as easily be a magic item, scientific device, or other manifest object. A bit of luck that helps you sneak (a subtle cypher) and a potion that helps you sneak (a manifest cypher) do the exact same thing for a character. One advantage of manifest cyphers is that characters can easily trade them to each other or sell them to NPCs. On the other hand, manifest cyphers can be dropped or stolen, and subtle cyphers can’t.
+Lots of overlap exists between what subtle cyphers and manifest cyphers can do. Nearly anything that can be explained as a subtle cypher can just as easily be a magic item, scientific device, or other manifest object. A bit of luck that helps you sneak (a subtle cypher) and a potion that helps you sneak (a manifest cypher) do the exact same thing for a character. One advantage of manifest cyphers is that characters can easily trade them to each other or sell them to NPCs. On the other hand, manifest cyphers can be dropped or stolen, and subtle cyphers can't.
 
-It’s fine if the GM decides to include both kinds of cyphers in the same game. A horror game could begin with the PCs as normal people with subtle cyphers, but as time goes on, they find one-use spells in occult tomes, weird potions, and bone dust that has strange powers.
+It's fine if the GM decides to include both kinds of cyphers in the same game. A horror game could begin with the PCs as normal people with subtle cyphers, but as time goes on, they find one-use spells in occult tomes, weird potions, and bone dust that has strange powers.
 
 USING CYPHERS
 
@@ -315,39 +320,39 @@ The action to use a cypher is Intellect based unless described otherwise or logi
 
 Because cyphers are single-use items, cyphers used to make attacks can never be used with the Spray or Arc Spray abilities that some characters might have. They are never treated as rapid-fire weapons.
 
-Identified manifest cyphers can be used automatically. Once a manifest cypher is activated, if it has an ongoing effect, that effect applies only to the character who activated the cypher. A PC can’t activate a cypher and then hand it to another character to reap the benefits.
+Identified manifest cyphers can be used automatically. Once a manifest cypher is activated, if it has an ongoing effect, that effect applies only to the character who activated the cypher. A PC can't activate a cypher and then hand it to another character to reap the benefits.
 
-A character can attempt to use a manifest cypher that has not been identified; this is usually an Intellect task using the cypher’s level. Failure might mean that the PC can’t figure out how to use the cypher or that they use it incorrectly (GM’s discretion). Of course, even if the PC activates the unidentified cypher, they have no idea what its effect will be.
+A character can attempt to use a manifest cypher that has not been identified; this is usually an Intellect task using the cypher's level. Failure might mean that the PC can't figure out how to use the cypher or that they use it incorrectly (GM's discretion). Of course, even if the PC activates the unidentified cypher, they have no idea what its effect will be.
 
 (Cyphers are meant to be used regularly and often. If PCs are hoarding or saving their cyphers, feel free to give them a reason to put the cyphers into play.)
 
 CYPHER LEVELS AND EFFECTS
 
-All cyphers have a level and an effect. The level sometimes determines an aspect of the cypher’s power (how much damage it inflicts, for example) but otherwise it only determines the general efficacy, the way level works with any object. The Level entry for a cypher is usually a die roll, sometimes with a modifier, such as 1d6 or 1d6 + 4. The GM can roll to determine the cypher’s level, or can allow the player to roll when they receive the cypher.
+All cyphers have a level and an effect. The level sometimes determines an aspect of the cypher's power (how much damage it inflicts, for example) but otherwise it only determines the general efficacy, the way level works with any object. The Level entry for a cypher is usually a die roll, sometimes with a modifier, such as 1d6 or 1d6 + 4. The GM can roll to determine the cypher's level, or can allow the player to roll when they receive the cypher.
 
 NORMAL AND FANTASTIC EFFECTS
 
-Cypher effects fall into two categories: normal and fantastic. Normal effects are things that could reasonably happen or be explained in the normal physical world we’re familiar with. Fantastic effects are things that can’t. A normal person could hit a target 240 feet (73 m) away with a football, quickly get over a cold, run across a tightrope, or multiply two two-digit numbers in their head. These tasks are difficult, but possible. A normal person can’t throw an armored car, regrow a severed arm, create a robot out of thin air, or control gravity with their mind. These tasks are impossible according to the world as we know it. Cypher effects are either normal (possible) or fantastic (impossible according to the world as we know it).
+Cypher effects fall into two categories: normal and fantastic. Normal effects are things that could reasonably happen or be explained in the normal physical world we're familiar with. Fantastic effects are things that can't. A normal person could hit a target 240 feet (73 m) away with a football, quickly get over a cold, run across a tightrope, or multiply two two-digit numbers in their head. These tasks are difficult, but possible. A normal person can't throw an armored car, regrow a severed arm, create a robot out of thin air, or control gravity with their mind. These tasks are impossible according to the world as we know it. Cypher effects are either normal (possible) or fantastic (impossible according to the world as we know it).
 
-Normal cypher effects should be available to PCs regardless of the genre of your game. It’s perfectly reasonable for a modern, fantasy, horror, science fiction, or superhero PC to have a cypher that gives them a one-use bonus on an attack or skill task, lets them take a quick breather to recover a few points in a Pool, or helps them focus their will to avoid distractions or fatigue.
+Normal cypher effects should be available to PCs regardless of the genre of your game. It's perfectly reasonable for a modern, fantasy, horror, science fiction, or superhero PC to have a cypher that gives them a one-use bonus on an attack or skill task, lets them take a quick breather to recover a few points in a Pool, or helps them focus their will to avoid distractions or fatigue.
 
-Fantastic cypher effects should be limited to games where magic, technology, or other factors stretch the definition of “impossible.” A cypher that turns a corpse into a zombie is out of place in a non-fantastic modern game, but is perfectly reasonable for a fantasy, science fiction, or superhero game, or even a horror game where zombies exist, as long as the GM decides there is an appropriate story explanation for it. The zombie cypher might be a necromantic spell in a fantasy or superhero game, a code that activates a swarm of nanobots in a science fiction game, or a virus in a horror game. The rules categorize some cypher effects as fantastic to help the GM decide whether to exclude cyphers that don’t fit the game they’re running. For example, it is appropriate for a GM running a zombie horror survival game set in 1990s Georgia to allow the zombie-creating cypher but not a teleportation cypher, because creating a zombie is a fantastic effect that fits the setting and teleportation isn’t.
+Fantastic cypher effects should be limited to games where magic, technology, or other factors stretch the definition of "impossible." A cypher that turns a corpse into a zombie is out of place in a non-fantastic modern game, but is perfectly reasonable for a fantasy, science fiction, or superhero game, or even a horror game where zombies exist, as long as the GM decides there is an appropriate story explanation for it. The zombie cypher might be a necromantic spell in a fantasy or superhero game, a code that activates a swarm of nanobots in a science fiction game, or a virus in a horror game. The rules categorize some cypher effects as fantastic to help the GM decide whether to exclude cyphers that don't fit the game they're running. For example, it is appropriate for a GM running a zombie horror survival game set in 1990s Georgia to allow the zombie-creating cypher but not a teleportation cypher, because creating a zombie is a fantastic effect that fits the setting and teleportation isn't.
 
 Fantastic cyphers can be subtle or manifest.
 
 OPTIONAL RULE: NORMAL CYPHERS DUPLICATING FANTASTIC EFFECTS
 
-If the GM and players are willing to stretch their imaginations a bit, it’s possible to include some fantastic cypher effects in a game where only normal cypher effects should exist, even if the PCs are only using subtle cyphers. The player using the cypher just needs to come up with a practical, realistic explanation for how the fantastic result occurred (perhaps with a much shorter or reduced effect than what’s described in the cypher text).
+If the GM and players are willing to stretch their imaginations a bit, it's possible to include some fantastic cypher effects in a game where only normal cypher effects should exist, even if the PCs are only using subtle cyphers. The player using the cypher just needs to come up with a practical, realistic explanation for how the fantastic result occurred (perhaps with a much shorter or reduced effect than what's described in the cypher text).
 
-For example, a PC with a phase changer who is trapped in a prison cell could say that instead of physically phasing through the wall, using the cypher means they find a long-forgotten secret door connected to a narrow hallway leading to safety. A PC with a fire detonation could say they notice a can of paint thinner in the room, kick it over, and throw a table lamp into the spill, creating a spark and a momentary burst of harmful flames. A PC with a monoblade could say they spot structural flaws in an opponent’s armor, allowing them to attack for the rest of that combat in such a way that the foe’s Armor doesn’t count.
+For example, a PC with a phase changer who is trapped in a prison cell could say that instead of physically phasing through the wall, using the cypher means they find a long-forgotten secret door connected to a narrow hallway leading to safety. A PC with a fire detonation could say they notice a can of paint thinner in the room, kick it over, and throw a table lamp into the spill, creating a spark and a momentary burst of harmful flames. A PC with a monoblade could say they spot structural flaws in an opponent's armor, allowing them to attack for the rest of that combat in such a way that the foe's Armor doesn't count.
 
 These interpretations of fantastic cyphers in a non-fantastic setting require player ingenuity and GM willingness to embrace creative solutions (similar to players using player intrusions to make a change in the game world). The GM always has the right to veto the explanation for the fantastic effect, allowing the player to choose a different action instead of using the fantastic cypher.
 
 MANIFEST CYPHER FORMS
 
-None of the manifest cyphers in this chapter have a stated physical form. The entries don’t tell you if something is a potion, a pill, or a device you hold in your hands because that sort of detail varies greatly from genre to genre. Are they magic? Are they tech? Are they symbiotic creatures with programmed DNA? That’s up to the GM. It’s flavor, not mechanics. It’s as important or unimportant as the style of an NPC’s hair or the color of the car the bad guys are driving. In other words, it’s the kind of thing that is important in a roleplaying game, but at the same time doesn’t actually change anything (and RPGs have a lot of things like that, if you think about it).
+None of the manifest cyphers in this chapter have a stated physical form. The entries don't tell you if something is a potion, a pill, or a device you hold in your hands because that sort of detail varies greatly from genre to genre. Are they magic? Are they tech? Are they symbiotic creatures with programmed DNA? That's up to the GM. It's flavor, not mechanics. It's as important or unimportant as the style of an NPC's hair or the color of the car the bad guys are driving. In other words, it's the kind of thing that is important in a roleplaying game, but at the same time doesn't actually change anything (and RPGs have a lot of things like that, if you think about it).
 
-A manifest cypher’s physical form can be anything at all, but there are some obvious choices based on genre. The GM can design a setting that uses just one type—for example, a magical world where all cyphers are potions made by faeries. Or they can use many types, perhaps mixing them from different genres. Some suggestions include the following.
+A manifest cypher's physical form can be anything at all, but there are some obvious choices based on genre. The GM can design a setting that uses just one type---for example, a magical world where all cyphers are potions made by faeries. Or they can use many types, perhaps mixing them from different genres. Some suggestions include the following.
 
 MANIFEST CYPHER FORM OPTIONS
 
@@ -566,7 +571,7 @@ SUBTLE CYPHER TABLE
 
 A LISTING OF VARIOUS CYPHERS
 
-All cyphers in this section may be manifest cyphers. It is the GM’s discretion whether a particular cypher can be a subtle cypher, and that decision usually depends on the setting. (The tables indicating subtle, manifest, and fantastic cyphers are just suggestions for a typical campaign setting.)
+All cyphers in this section may be manifest cyphers. It is the GM's discretion whether a particular cypher can be a subtle cypher, and that decision usually depends on the setting. (The tables indicating subtle, manifest, and fantastic cyphers are just suggestions for a typical campaign setting.)
 
 ADHESION
 
@@ -578,26 +583,26 @@ AGE TAKER
 
 Level: 1d6 + 4
 
-Effect: Begins a process of rejuvenation that removes years from the wearer’s physiological age. Over the course of the next seven days, the wearer sheds a number of years equal to three times the cypher’s level. The cypher doesn’t regress physiological age past the age of  
+Effect: Begins a process of rejuvenation that removes years from the wearer's physiological age. Over the course of the next seven days, the wearer sheds a number of years equal to three times the cypher's level. The cypher doesn't regress physiological age past the age of  
 twenty-three.
 
 ANALEPTIC
 
 Level: 1d6 + 2
 
-Effect: Restores a number of points equal to the cypher’s level to the user’s Speed Pool.
+Effect: Restores a number of points equal to the cypher's level to the user's Speed Pool.
 
 ANTIVENOM
 
 Level: 1d6 + 2
 
-Effect: Renders user immune to poisons of the cypher’s level or lower for one hour per cypher level (and ends any such ongoing effects, if any, already in the user’s system).
+Effect: Renders user immune to poisons of the cypher's level or lower for one hour per cypher level (and ends any such ongoing effects, if any, already in the user's system).
 
 ARMOR REINFORCER
 
 Level: 1d6 + 1
 
-Effect: The user’s Armor gains an enhancement for twenty-four hours. Roll a d6 to determine the result.
+Effect: The user's Armor gains an enhancement for twenty-four hours. Roll a d6 to determine the result.
 
 |     |                                          |
 |-----|------------------------------------------|
@@ -612,13 +617,13 @@ ATTRACTOR
 
 Level: 1d6 + 4
 
-Effect: One unanchored item the user’s size or smaller within long range (very long range if the cypher level is 8 or higher) is drawn immediately to them. This takes one round. The item has no momentum when it arrives.
+Effect: One unanchored item the user's size or smaller within long range (very long range if the cypher level is 8 or higher) is drawn immediately to them. This takes one round. The item has no momentum when it arrives.
 
 BANISHING
 
 Level: 1d6
 
-Effect: For the next day, each time the user strikes a solid creature or object, it generates a burst of energy that teleports the creature or object an immediate distance in a random direction (not up or down). The teleported creature’s actions (including defense) are hindered on its next turn (hindered by two steps if the cypher level is 5 or higher).
+Effect: For the next day, each time the user strikes a solid creature or object, it generates a burst of energy that teleports the creature or object an immediate distance in a random direction (not up or down). The teleported creature's actions (including defense) are hindered on its next turn (hindered by two steps if the cypher level is 5 or higher).
 
 BEST TOOL
 
@@ -630,13 +635,13 @@ BLACKOUT
 
 Level: 1d6 + 2
 
-Effect: An area within immediate range of the user becomes secure against any effect outside the area that sees, hears, or otherwise senses what occurs inside. To outside observers, the area is a “blur” to any sense applied. Taps, scrying sensors, and other direct surveillance methods are also rendered inoperative within the area for a day.
+Effect: An area within immediate range of the user becomes secure against any effect outside the area that sees, hears, or otherwise senses what occurs inside. To outside observers, the area is a "blur" to any sense applied. Taps, scrying sensors, and other direct surveillance methods are also rendered inoperative within the area for a day.
 
 BLINKING
 
 Level: 1d6
 
-Effect: For the next day, each time the user is struck hard enough to take damage (but not more than once per round), they teleport an immediate distance in a random direction (not up or down). Since the user is prepared for this effect and their foe is not, the user’s defenses are eased for one round after they teleport.
+Effect: For the next day, each time the user is struck hard enough to take damage (but not more than once per round), they teleport an immediate distance in a random direction (not up or down). Since the user is prepared for this effect and their foe is not, the user's defenses are eased for one round after they teleport.
 
 BURST OF SPEED
 
@@ -719,19 +724,19 @@ CONTROLLED BLINKING
 
 Level: 1d6 + 2
 
-Effect: For the next day, each time the user is struck hard enough to inflict damage (but no more than once per round), they teleport to a spot they desire within immediate range. Since they are prepared for this effect and their foe is not, the user’s defenses are eased for one round after they teleport.
+Effect: For the next day, each time the user is struck hard enough to inflict damage (but no more than once per round), they teleport to a spot they desire within immediate range. Since they are prepared for this effect and their foe is not, the user's defenses are eased for one round after they teleport.
 
 CURATIVE
 
 Level: 1d6 + 2
 
-Effect: Restores a number of points equal to the cypher’s level to the user’s Might Pool.
+Effect: Restores a number of points equal to the cypher's level to the user's Might Pool.
 
 CURSE BRINGER
 
 Level: 1d6 + 1
 
-Effect: The cypher can be activated when given to an individual who doesn’t realize its significance. The next time the victim attempts an important task when the cypher is in their possession, the task is hindered by three steps.
+Effect: The cypher can be activated when given to an individual who doesn't realize its significance. The next time the victim attempts an important task when the cypher is in their possession, the task is hindered by three steps.
 
 DARKSIGHT
 
@@ -755,7 +760,7 @@ DETONATION
 
 Level: 1d6 + 2
 
-Effect: Projects a small physical explosive up to a long distance away that explodes in an immediate radius, inflicting damage equal to the cypher’s level. Roll a d100 to determine the type of damage.
+Effect: Projects a small physical explosive up to a long distance away that explodes in an immediate radius, inflicting damage equal to the cypher's level. Roll a d100 to determine the type of damage.
 
 (All damaging detonations inflict a minimum of 2 points of damage to those in the radius, regardless of attack or defense rolls.)
 
@@ -772,13 +777,13 @@ DETONATION (CREATURE)
 
 Level: 1d6 + 1
 
-Effect: Projects a small physical explosive up to a long distance away that explodes and creates a momentary teleportation gate. A random creature whose level is equal to or less than the cypher’s level appears through the gate and attacks the closest target. After about one minute, the creature vanishes.
+Effect: Projects a small physical explosive up to a long distance away that explodes and creates a momentary teleportation gate. A random creature whose level is equal to or less than the cypher's level appears through the gate and attacks the closest target. After about one minute, the creature vanishes.
 
 DETONATION (DESICCATING)
 
 Level: 1d6 + 2
 
-Effect: Projects a small physical explosive up to a long distance away that bursts in an immediate radius, draining moisture from everything within it. Living creatures take damage equal to the cypher’s level. Water in the area is vaporized.
+Effect: Projects a small physical explosive up to a long distance away that bursts in an immediate radius, draining moisture from everything within it. Living creatures take damage equal to the cypher's level. Water in the area is vaporized.
 
 DETONATION (FLASH)
 
@@ -790,7 +795,7 @@ DETONATION (GRAVITY)
 
 Level: 1d6 + 2
 
-Effect: Projects a small physical explosive up to a long distance away that bursts in an immediate radius, inflicting damage equal to the cypher’s level by increasing gravity tremendously for one second. All creatures in the area are crushed to the ground for one round and cannot take physical actions.
+Effect: Projects a small physical explosive up to a long distance away that bursts in an immediate radius, inflicting damage equal to the cypher's level by increasing gravity tremendously for one second. All creatures in the area are crushed to the ground for one round and cannot take physical actions.
 
 DETONATION (GRAVITY INVERSION)
 
@@ -803,7 +808,7 @@ DETONATION (MASSIVE)
 Level: 1d6 + 2
 
 Effect: Projects a small physical explosive up to a long distance away that explodes in a  
-short-range radius, inflicting damage equal to the cypher’s level. Roll a d100 to determine the type of damage.
+short-range radius, inflicting damage equal to the cypher's level. Roll a d100 to determine the type of damage.
 
 |       |                                    |
 |-------|------------------------------------|
@@ -818,13 +823,13 @@ DETONATION (MATTER DISRUPTION)
 
 Level: 1d6 + 4
 
-Effect: Projects a small physical explosive up to a long distance away that explodes in an immediate radius, releasing nanites that rearrange matter in random ways. Inflicts damage equal to the cypher’s level.
+Effect: Projects a small physical explosive up to a long distance away that explodes in an immediate radius, releasing nanites that rearrange matter in random ways. Inflicts damage equal to the cypher's level.
 
 DETONATION (PRESSURE)
 
 Level: 1d6 + 2
 
-Effect: Projects a small physical explosive up to a long distance away that explodes in an immediate radius, inflicting impact damage equal to the cypher’s level. Also moves unattended objects out of the area if they weigh less than 20 pounds (9 kg) per cypher level.
+Effect: Projects a small physical explosive up to a long distance away that explodes in an immediate radius, inflicting impact damage equal to the cypher's level. Also moves unattended objects out of the area if they weigh less than 20 pounds (9 kg) per cypher level.
 
 DETONATION (SINGULARITY)
 
@@ -844,7 +849,7 @@ DETONATION (SPAWN)
 
 Level: 1d6 + 2
 
-Effect: Projects a small physical explosive up to a long distance away that bursts in an immediate radius, blinding all within it for one minute and inflicting damage equal to the cypher’s level. The burst spawns 1d6 additional detonations; in the next round, each additional detonation flies to a random spot within short range and explodes in an immediate radius. Roll a d100 to determine the type of damage dealt by all detonations:
+Effect: Projects a small physical explosive up to a long distance away that bursts in an immediate radius, blinding all within it for one minute and inflicting damage equal to the cypher's level. The burst spawns 1d6 additional detonations; in the next round, each additional detonation flies to a random spot within short range and explodes in an immediate radius. Roll a d100 to determine the type of damage dealt by all detonations:
 
 |       |                                    |
 |-------|------------------------------------|
@@ -873,13 +878,13 @@ DISGUISE MODULE
 
 Level: 1d6 + 2
 
-Effect: For the next ten minutes per cypher level, the user’s features become almost identical to those of one designated person they have previously interacted with, easing by two steps attempts to disguise the user as that person. Once designated, the user cannot shift the effect to look like another person, though they can remove the module to look like themselves again before the end of the duration.
+Effect: For the next ten minutes per cypher level, the user's features become almost identical to those of one designated person they have previously interacted with, easing by two steps attempts to disguise the user as that person. Once designated, the user cannot shift the effect to look like another person, though they can remove the module to look like themselves again before the end of the duration.
 
 DISRUPTING
 
 Level: 1d6
 
-Effect: For the next day, each time the user strikes a solid creature or object, the attack generates a burst of nanites that directly attack its organic cells. The target takes 1 additional point of damage. If the target’s level is less than the cypher’s level, it loses its next action; otherwise its next action is hindered.
+Effect: For the next day, each time the user strikes a solid creature or object, the attack generates a burst of nanites that directly attack its organic cells. The target takes 1 additional point of damage. If the target's level is less than the cypher's level, it loses its next action; otherwise its next action is hindered.
 
 EAGLESEYE
 
@@ -915,7 +920,7 @@ EQUIPMENT CACHE
 
 Level: 1d6 + 1
 
-Effect: The user can rummage around and produce from the cypher a desired piece of equipment (not an artifact) whose level does not exceed the cypher’s level. The piece of equipment persists for up to one day, unless its fundamental nature allows only a single use (such as with a grenade).
+Effect: The user can rummage around and produce from the cypher a desired piece of equipment (not an artifact) whose level does not exceed the cypher's level. The piece of equipment persists for up to one day, unless its fundamental nature allows only a single use (such as with a grenade).
 
 FARSIGHT
 
@@ -927,7 +932,7 @@ FIREPROOFING
 
 Level: 1d6 + 4
 
-Effect: A nonliving object treated by this cypher has Armor against fire damage equal to the cypher’s level for one day.
+Effect: A nonliving object treated by this cypher has Armor against fire damage equal to the cypher's level for one day.
 
 FLAME-RETARDANT WALL
 
@@ -939,7 +944,7 @@ FORCE CUBE
 
 Level: 1d6 + 3
 
-Effect: Creates an immobile cube composed of six planes of solid force, each 30 feet (9 m) to a side, for one hour. The planes conform to the space available. (Although a force cube’s walls are not gaseous permeable, there is likely enough air within for trapped creatures to breathe for the hour it lasts.)
+Effect: Creates an immobile cube composed of six planes of solid force, each 30 feet (9 m) to a side, for one hour. The planes conform to the space available. (Although a force cube's walls are not gaseous permeable, there is likely enough air within for trapped creatures to breathe for the hour it lasts.)
 
 FORCE FIELD
 
@@ -974,7 +979,7 @@ FRIGID WALL
 
 Level: 1d6 + 2
 
-Effect: Creates a wall of supercooled air up to 30 feet by 30 feet by 1 foot (9 m by 9 m by 30 cm) that inflicts damage equal to the cypher’s level on anything that passes through it. The wall conforms to the space available. It lasts for ten minutes.
+Effect: Creates a wall of supercooled air up to 30 feet by 30 feet by 1 foot (9 m by 9 m by 30 cm) that inflicts damage equal to the cypher's level on anything that passes through it. The wall conforms to the space available. It lasts for ten minutes.
 
 GAS BOMB
 
@@ -985,16 +990,16 @@ Effect: Thrown a short distance, this bursts in a poisonous cloud within an imme
 |       |                                                                                                                                                                         |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 01–10 | Thick smoke: occludes sight while the cloud lasts.                                                                                                                      |
-| 11–20 | Choking gas: living creatures that breathe lose their actions to choking and coughing for a number of rounds equal to the cypher’s level.                               |
-| 21–50 | Poison gas: living creatures that breathe suffer damage equal to the cypher’s level.                                                                                    |
-| 51–60 | Corrosive gas: everything suffers damage equal to the cypher’s level.                                                                                                   |
-| 61–65 | Hallucinogenic gas: living creatures that breathe lose their actions to hallucinations and visions for a number of rounds equal to the cypher’s level.                  |
-| 66–70 | Nerve gas: living creatures that breathe suffer Speed damage equal to the cypher’s level.                                                                               |
-| 71–80 | Mind-numbing gas: living creatures that breathe suffer Intellect damage equal to the cypher’s level.                                                                    |
-| 81–83 | Fear gas: living creatures that breathe and think flee in a random direction in fear (or are paralyzed with fear) for a number of rounds equal to the cypher’s level.   |
+| 11–20 | Choking gas: living creatures that breathe lose their actions to choking and coughing for a number of rounds equal to the cypher's level.                               |
+| 21–50 | Poison gas: living creatures that breathe suffer damage equal to the cypher's level.                                                                                    |
+| 51–60 | Corrosive gas: everything suffers damage equal to the cypher's level.                                                                                                   |
+| 61–65 | Hallucinogenic gas: living creatures that breathe lose their actions to hallucinations and visions for a number of rounds equal to the cypher's level.                  |
+| 66–70 | Nerve gas: living creatures that breathe suffer Speed damage equal to the cypher's level.                                                                               |
+| 71–80 | Mind-numbing gas: living creatures that breathe suffer Intellect damage equal to the cypher's level.                                                                    |
+| 81–83 | Fear gas: living creatures that breathe and think flee in a random direction in fear (or are paralyzed with fear) for a number of rounds equal to the cypher's level.   |
 | 84–86 | Amnesia gas: living creatures that breathe and think permanently lose all memory of the last minute.                                                                    |
-| 87–96 | Sleep gas: living creatures that breathe fall asleep for a number of rounds equal to the cypher’s level or until awoken by a violent action or an extremely loud noise. |
-| 97–00 | Rage gas: living creatures that breathe and think make a melee attack on the nearest creature and continue to do so for a number of rounds equal to the cypher’s level. |
+| 87–96 | Sleep gas: living creatures that breathe fall asleep for a number of rounds equal to the cypher's level or until awoken by a violent action or an extremely loud noise. |
+| 97–00 | Rage gas: living creatures that breathe and think make a melee attack on the nearest creature and continue to do so for a number of rounds equal to the cypher's level. |
 
 GRAVITY NULLIFIER
 
@@ -1027,7 +1032,7 @@ hunter/seeker will attack a maximum of five times. Roll a d100 to determine the 
 | 51–80 | Bears a poisoned needle that inflicts 3 points of damage plus poison.                                                                                           |
 | 81–90 | Explodes, inflicting 6 points of damage to all within immediate range.                                                                                          |
 | 91–95 | Shocks for 4 points of electricity damage, and stuns for one round per cypher level.                                                                            |
-| 96–00 | Covers target in sticky goo that immediately hardens, holding them fast until they break free with a Might action (difficulty equal to the cypher’s level + 2). |
+| 96–00 | Covers target in sticky goo that immediately hardens, holding them fast until they break free with a Might action (difficulty equal to the cypher's level + 2). |
 
 IMAGE PROJECTOR
 
@@ -1044,7 +1049,7 @@ INFERNO WALL
 
 Level: 1d6 + 2
 
-Effect: Creates a wall of extreme heat up to 30 feet by 30 feet by 1 foot (9 m by 9 m by 30 cm) that inflicts damage equal to the cypher’s level on anything that passes through it. The wall conforms to the space available. It lasts for ten minutes.
+Effect: Creates a wall of extreme heat up to 30 feet by 30 feet by 1 foot (9 m by 9 m by 30 cm) that inflicts damage equal to the cypher's level on anything that passes through it. The wall conforms to the space available. It lasts for ten minutes.
 
 INFILTRATOR
 
@@ -1056,15 +1061,15 @@ INFORMATION SENSOR
 
 Level: 1d6 + 2
 
-Effect: Over the course of one day, the user can activate the cypher a total number of times equal to its level. Each time, they can select a living creature within long range and learn the following about it: level, origin, species, name, and possibly other facts (such as an individual’s credit score, home address, phone number, and related information).
+Effect: Over the course of one day, the user can activate the cypher a total number of times equal to its level. Each time, they can select a living creature within long range and learn the following about it: level, origin, species, name, and possibly other facts (such as an individual's credit score, home address, phone number, and related information).
 
 INSTANT SERVANT
 
 Level: 1d6
 
-Effect: Small device expands into a humanoid automaton that is roughly 2 feet (60 cm) tall. Its level is equal to the cypher’s level, and it can understand the verbal commands of the character who activated it. Once the servant is activated, commanding it is not an action. It can make attacks or perform actions as ordered to the best of its abilities, but it cannot speak.
+Effect: Small device expands into a humanoid automaton that is roughly 2 feet (60 cm) tall. Its level is equal to the cypher's level, and it can understand the verbal commands of the character who activated it. Once the servant is activated, commanding it is not an action. It can make attacks or perform actions as ordered to the best of its abilities, but it cannot speak.
 
-The automaton has short-range movement but never goes farther than long range from the character who activated it. At the GM’s discretion, the servant might have specialized knowledge, such as how to operate a particular device. Otherwise, it has no special knowledge. In any case, the servant is not artificially intelligent or capable of initiating action. It does only as commanded.
+The automaton has short-range movement but never goes farther than long range from the character who activated it. At the GM's discretion, the servant might have specialized knowledge, such as how to operate a particular device. Otherwise, it has no special knowledge. In any case, the servant is not artificially intelligent or capable of initiating action. It does only as commanded.
 
 The servant operates for one hour per cypher level.
 
@@ -1078,13 +1083,13 @@ INTELLECT BOOSTER
 
 Level: 1d6 + 2
 
-Effect: Adds 1 to the user’s Intellect Edge for one hour (or 2 if the cypher is level 5 or higher).
+Effect: Adds 1 to the user's Intellect Edge for one hour (or 2 if the cypher is level 5 or higher).
 
 INTELLIGENCE ENHANCEMENT
 
 Level: 1d6
 
-Effect: All of the user’s tasks involving intelligent deduction—such as playing chess, inferring a connection between clues, solving a mathematical problem, finding a bug in computer code, and so on—are eased by two steps for one hour. In the subsequent hour, the strain hinders the same tasks by two steps.
+Effect: All of the user's tasks involving intelligent deduction---such as playing chess, inferring a connection between clues, solving a mathematical problem, finding a bug in computer code, and so on---are eased by two steps for one hour. In the subsequent hour, the strain hinders the same tasks by two steps.
 
 KNOWLEDGE ENHANCEMENT
 
@@ -1111,7 +1116,7 @@ LIGHTNING WALL
 
 Level: 1d6 + 2
 
-Effect: Creates a wall of electric bolts up to 30 feet by 30 feet by 1 foot (9 m by 9 m by 30 cm) that inflicts damage equal to the cypher’s level on anything that passes through it. The wall conforms to the space available. It lasts for ten minutes.
+Effect: Creates a wall of electric bolts up to 30 feet by 30 feet by 1 foot (9 m by 9 m by 30 cm) that inflicts damage equal to the cypher's level on anything that passes through it. The wall conforms to the space available. It lasts for ten minutes.
 
 MACHINE CONTROL
 
@@ -1123,13 +1128,13 @@ MAGNETIC ATTACK DRILL
 
 Level: 1d6 + 2
 
-Effect: The user throws this cypher at a target within short range, and it drills into the target for one round, inflicting damage equal to the cypher’s level. If the target is made of metal or wearing metal (such as armor), the attack is eased.
+Effect: The user throws this cypher at a target within short range, and it drills into the target for one round, inflicting damage equal to the cypher's level. If the target is made of metal or wearing metal (such as armor), the attack is eased.
 
 MAGNETIC MASTER
 
 Level: 1d6 + 2
 
-Effect: Establishes a connection with one metal object within short range that a human could hold in one hand. The user can then move or manipulate the object anywhere within short range (each movement or manipulation is an action). For example, they could wield a weapon or drag a helm affixed to a foe’s head to and fro. The connection lasts for ten rounds per cypher level.
+Effect: Establishes a connection with one metal object within short range that a human could hold in one hand. The user can then move or manipulate the object anywhere within short range (each movement or manipulation is an action). For example, they could wield a weapon or drag a helm affixed to a foe's head to and fro. The connection lasts for ten rounds per cypher level.
 
 MAGNETIC SHIELD
 
@@ -1141,19 +1146,19 @@ MANIPULATION BEAM
 
 Level: 1d6 + 2
 
-Effect: Over the course of one day, the user can activate the cypher a total number of times equal to its level. Each time, they can affect an object they can see within long range that is not too heavy for them to affect physically. The effect must occur over the course of a round and could include closing or opening a door, keying in a number on a keypad, transferring an object a short distance, wresting an object from another creature’s grasp (on a successful Might-based roll), or pushing a creature an immediate distance. (A manipulation beam could be used to operate a computer at a distance, which would make some infiltration and hacking jobs easier.)
+Effect: Over the course of one day, the user can activate the cypher a total number of times equal to its level. Each time, they can affect an object they can see within long range that is not too heavy for them to affect physically. The effect must occur over the course of a round and could include closing or opening a door, keying in a number on a keypad, transferring an object a short distance, wresting an object from another creature's grasp (on a successful Might-based roll), or pushing a creature an immediate distance. (A manipulation beam could be used to operate a computer at a distance, which would make some infiltration and hacking jobs easier.)
 
 MATTER TRANSFERENCE RAY
 
 Level: 1d6 + 3
 
-Effect: The user can target one nonliving object within long range that is their size or smaller of the cypher level or lower. The object is transferred directly to a random location at least 100 miles (160 km) away. If the GM feels it appropriate to the circumstances, only a portion of an object is transferred (a portion whose volume is no more than the user’s).
+Effect: The user can target one nonliving object within long range that is their size or smaller of the cypher level or lower. The object is transferred directly to a random location at least 100 miles (160 km) away. If the GM feels it appropriate to the circumstances, only a portion of an object is transferred (a portion whose volume is no more than the user's).
 
 MEDITATION AID
 
 Level: 1d6 + 2
 
-Effect: Restores a number of points equal to the cypher’s level to the user’s Intellect Pool.
+Effect: Restores a number of points equal to the cypher's level to the user's Intellect Pool.
 
 MEMORY SWITCH
 
@@ -1178,7 +1183,7 @@ Effect: Two rounds after being activated, the device creates an invisible field 
 | 81–88 | Victims suffer partial amnesia.                                                    |
 | 89–94 | Victims suffer total amnesia.                                                      |
 | 95–98 | Victims lose all inhibitions, revealing secrets and performing surprising actions. |
-| 99–00 | Victims’ ethics are inverted.                                                      |
+| 99–00 | Victims' ethics are inverted.                                                      |
 
 METAL DEATH
 
@@ -1190,7 +1195,7 @@ MIND MELD
 
 Level: 1d6 + 1
 
-Effect: Lets the user speak telepathically with creatures they can see within short range for up to one hour. The user can’t read a target’s thoughts, except those that are specifically “transmitted.”
+Effect: Lets the user speak telepathically with creatures they can see within short range for up to one hour. The user can't read a target's thoughts, except those that are specifically "transmitted."
 
 (In some games, telepathy transcends normal language barriers (if the target has a mind that allows for telepathic communication). In others, it might only pick up emotions or general concepts of thoughts in another language. It also might vary based on the ability used.)
 
@@ -1210,15 +1215,15 @@ MONOBLADE
 
 Level: 1d6 + 2
 
-Effect: Produces a 6-inch (15 cm) blade that’s the same level as the cypher. The blade cuts through any material of a level lower than its own. If used as a weapon, it is a light weapon that ignores Armor of a level lower than its own. The blade lasts for ten minutes.
+Effect: Produces a 6-inch (15 cm) blade that's the same level as the cypher. The blade cuts through any material of a level lower than its own. If used as a weapon, it is a light weapon that ignores Armor of a level lower than its own. The blade lasts for ten minutes.
 
 MONOHORN
 
 Level: 1d6 + 3
 
-Effect: The user gains a horn in the center of their forehead. The horn is deadly sharp and strong, and it spirals down to a solid base where it fuses with their flesh and bone. The user is specialized in making melee attacks with the horn, which is considered a medium weapon. The horn lasts for a number of hours equal to the cypher’s level.
+Effect: The user gains a horn in the center of their forehead. The horn is deadly sharp and strong, and it spirals down to a solid base where it fuses with their flesh and bone. The user is specialized in making melee attacks with the horn, which is considered a medium weapon. The horn lasts for a number of hours equal to the cypher's level.
 
-(Sometimes a monohorn cypher covers the user in a thin sheen of black hide-like material, which disguises their identity but doesn’t interfere with their senses.)
+(Sometimes a monohorn cypher covers the user in a thin sheen of black hide-like material, which disguises their identity but doesn't interfere with their senses.)
 
 MOTION SENSOR
 
@@ -1254,7 +1259,7 @@ NUTRITION AND HYDRATION
 
 Level: 1d6 + 1
 
-Effect: The user can go without food and water for a number of days equal to the cypher’s level without ill effect.
+Effect: The user can go without food and water for a number of days equal to the cypher's level without ill effect.
 
 PERFECT MEMORY
 
@@ -1332,7 +1337,7 @@ POISON (MIND DISRUPTING)
 
 Level: 1d6 + 2
 
-Effect: The victim suffers Intellect damage equal to the cypher’s level and cannot take actions for a number of rounds equal to the cypher’s level.
+Effect: The victim suffers Intellect damage equal to the cypher's level and cannot take actions for a number of rounds equal to the cypher's level.
 
 PSYCHIC COMMUNIQUE
 
@@ -1345,13 +1350,13 @@ RADIATION SPIKE
 
 Level: 1d6 + 4
 
-Effect: Delivers a powerful burst of radiation that disrupts the tissue of any creature touched, inflicting damage equal to the cypher’s level.
+Effect: Delivers a powerful burst of radiation that disrupts the tissue of any creature touched, inflicting damage equal to the cypher's level.
 
 RAY EMITTER
 
 Level: 1d6 + 2
 
-Effect: Allows the user to project a ray of destructive energy up to very long range that inflicts damage equal to the cypher’s level. Roll a d100 to determine the type of energy.
+Effect: Allows the user to project a ray of destructive energy up to very long range that inflicts damage equal to the cypher's level. Roll a d100 to determine the type of energy.
 
 (Even weirder ray emitters:
 
@@ -1398,7 +1403,7 @@ RAY EMITTER (MIND DISRUPTING)
 
 Level: 1d6 + 2
 
-Effect: Allows the user to project a ray of destructive energy up to very long range that inflicts Intellect damage equal to the cypher’s level. Also, the victim cannot take actions for a number of rounds equal to the cypher’s level.
+Effect: Allows the user to project a ray of destructive energy up to very long range that inflicts Intellect damage equal to the cypher's level. Also, the victim cannot take actions for a number of rounds equal to the cypher's level.
 
 RAY EMITTER (NUMBING)
 
@@ -1416,19 +1421,19 @@ REALITY SPIKE
 
 Level: 1d6 + 4
 
-Effect: Once activated, the cypher does not move—ever—even if activated in midair. A Might action will dislodge it, but then it is ruined.
+Effect: Once activated, the cypher does not move---ever---even if activated in midair. A Might action will dislodge it, but then it is ruined.
 
 REFLEX ENHANCER
 
 Level: 1d6
 
-Effect: All tasks involving manual dexterity—such as pickpocketing, lockpicking, juggling, operating on a patient, defusing a bomb, and so on—are eased by two steps for one hour.
+Effect: All tasks involving manual dexterity---such as pickpocketing, lockpicking, juggling, operating on a patient, defusing a bomb, and so on---are eased by two steps for one hour.
 
 REJUVENATOR
 
 Level: 1d6 + 2
 
-Effect: Restores a number of points equal to the cypher’s level to one random stat Pool.
+Effect: Restores a number of points equal to the cypher's level to one random stat Pool.
 
 |       |                |
 |-------|----------------|
@@ -1440,7 +1445,7 @@ REMEMBERING
 
 Level: 1d6
 
-Effect: Allows the user to recall any one experience they’ve ever had. The experience can be no longer than one minute per cypher level, but the recall is perfect, so (for example) if they saw someone dial a phone, they will remember the number.
+Effect: Allows the user to recall any one experience they've ever had. The experience can be no longer than one minute per cypher level, but the recall is perfect, so (for example) if they saw someone dial a phone, they will remember the number.
 
 REMOTE VIEWER
 
@@ -1458,7 +1463,7 @@ REPEATER
 
 Level: 1d6 + 1
 
-Effect: For the next minute, the user’s ranged weapon fires one additional time with ammo fabricated by the cypher. The weapon wielder can aim the free shot at the same target, or at a different target next to the first one.
+Effect: For the next minute, the user's ranged weapon fires one additional time with ammo fabricated by the cypher. The weapon wielder can aim the free shot at the same target, or at a different target next to the first one.
 
 REPEL
 
@@ -1482,7 +1487,7 @@ SHEEN
 
 Level: 1d6
 
-Effect: For one week, the user’s cells are coated with a protective veneer that resists damage (+1 to Armor, or +2 to Armor if the cypher is level 5 or higher) and eases Might defense rolls by two steps. However, healing is more difficult during this time; all recovery rolls suffer a –1 penalty.
+Effect: For one week, the user's cells are coated with a protective veneer that resists damage (+1 to Armor, or +2 to Armor if the cypher is level 5 or higher) and eases Might defense rolls by two steps. However, healing is more difficult during this time; all recovery rolls suffer a –1 penalty.
 
 SHOCK ATTACK
 
@@ -1494,13 +1499,13 @@ SHOCKER
 
 Level: 1d6 + 4
 
-Effect: Delivers a powerful burst of electricity that shocks any creature touched, inflicting damage equal to the cypher’s level.
+Effect: Delivers a powerful burst of electricity that shocks any creature touched, inflicting damage equal to the cypher's level.
 
 SKILL BOOST
 
 Level: 1d6
 
-Effect: Dramatically but temporarily alters the user’s mind and body so they can ease one specific kind of physical action by three steps. Once activated, this boost can be used a number of times equal to the cypher’s level, but only within a twenty-four-hour period. The boost takes effect each time the action is performed. For example, a level 3 cypher boosts the first three times that action is attempted. Roll a d100 to determine the action.
+Effect: Dramatically but temporarily alters the user's mind and body so they can ease one specific kind of physical action by three steps. Once activated, this boost can be used a number of times equal to the cypher's level, but only within a twenty-four-hour period. The boost takes effect each time the action is performed. For example, a level 3 cypher boosts the first three times that action is attempted. Roll a d100 to determine the action.
 
 |       |                   |
 |-------|-------------------|
@@ -1523,7 +1528,7 @@ SLAVE MAKER
 
 Level: 1d6 + 2
 
-Effect: To activate the cypher, the user must succeed on a melee attack against a creature about the size of the user and whose level does not exceed the cypher’s level. The cypher bonds to the target, who immediately becomes calm. The target awaits the user’s commands and carries out all orders to the best of its ability. The target remains so enslaved for a number of hours equal to the cypher’s level minus the target’s level. (If the result is 0, the target is enslaved for only one minute.)
+Effect: To activate the cypher, the user must succeed on a melee attack against a creature about the size of the user and whose level does not exceed the cypher's level. The cypher bonds to the target, who immediately becomes calm. The target awaits the user's commands and carries out all orders to the best of its ability. The target remains so enslaved for a number of hours equal to the cypher's level minus the target's level. (If the result is 0, the target is enslaved for only one minute.)
 
 SLEEP INDUCER
 
@@ -1535,7 +1540,7 @@ SNIPER MODULE
 
 Level: 1d6
 
-Effect: For the next hour per cypher level, the effective range of the user’s ranged weapon increases by one category (immediate to short, short to long, long to very long, very long to 1,000 feet \[300 m\]). A weapon with a range greater than very long has its range doubled.
+Effect: For the next hour per cypher level, the effective range of the user's ranged weapon increases by one category (immediate to short, short to long, long to very long, very long to 1,000 feet \[300 m\]). A weapon with a range greater than very long has its range doubled.
 
 SOLVENT
 
@@ -1561,31 +1566,31 @@ SPATIAL WARP
 
 Level: 1d6 + 4
 
-Effect: When affixed to a device that affects a single target at range, that range is increased to 1 mile (1.5 km) with no penalties. Space is temporarily warped in terms of seeing and reaching the target. If direct line of sight is important to the device’s effect, it remains important. The spatial warp lasts 10 minutes per cypher level.
+Effect: When affixed to a device that affects a single target at range, that range is increased to 1 mile (1.5 km) with no penalties. Space is temporarily warped in terms of seeing and reaching the target. If direct line of sight is important to the device's effect, it remains important. The spatial warp lasts 10 minutes per cypher level.
 
 SPEED BOOST
 
 Level: 1d6 + 2
 
-Effect: Adds 1 to the user’s Speed Edge for one hour (adds 2 if the cypher is level 5 or higher).
+Effect: Adds 1 to the user's Speed Edge for one hour (adds 2 if the cypher is level 5 or higher).
 
 SPY
 
 Level: 1d6 + 2
 
-Effect: Produces a tiny spying object that resists detection as a level 8 creature. The object moves at great speed, mapping and scanning an unknown area. It moves 500 feet (150 m) per level, scanning an area up to 50 feet (15 m) away from it. It identifies basic layout, creatures, and major energy sources. Its movement is blocked by any physical or energy barrier. At the end of its mapping run, it returns to the user and reports. If it discovers a predefined target during its run (such as “a creature of level 5 or higher,” “a locked door,” “a major energy source,” and so on), it detonates instead, dealing damage equal to the cypher’s level (half electrical damage, half shrapnel damage) to all creatures and objects in short range.
+Effect: Produces a tiny spying object that resists detection as a level 8 creature. The object moves at great speed, mapping and scanning an unknown area. It moves 500 feet (150 m) per level, scanning an area up to 50 feet (15 m) away from it. It identifies basic layout, creatures, and major energy sources. Its movement is blocked by any physical or energy barrier. At the end of its mapping run, it returns to the user and reports. If it discovers a predefined target during its run (such as "a creature of level 5 or higher," "a locked door," "a major energy source," and so on), it detonates instead, dealing damage equal to the cypher's level (half electrical damage, half shrapnel damage) to all creatures and objects in short range.
 
 STASIS KEEPER
 
 Level: 1d6
 
-Effect: Puts a subject into stasis for a number of days equal to the cypher’s level, or until it is violently disturbed. An object in stasis does not age and comes out of the stasis alive and in the same condition as it went in, with no memory of the period of inactivity.
+Effect: Puts a subject into stasis for a number of days equal to the cypher's level, or until it is violently disturbed. An object in stasis does not age and comes out of the stasis alive and in the same condition as it went in, with no memory of the period of inactivity.
 
 STIM
 
 Level: 1d6
 
-Effect: Eases the user’s next action taken by three steps.
+Effect: Eases the user's next action taken by three steps.
 
 STRENGTH BOOST
 
@@ -1597,7 +1602,7 @@ STRENGTH ENHANCER
 
 Level: 1d6
 
-Effect: All noncombat tasks involving raw strength—such as breaking down a door, lifting a heavy boulder, forcing open elevator doors, competing in a weightlifting competition, and so on—are eased by two steps for one hour.
+Effect: All noncombat tasks involving raw strength---such as breaking down a door, lifting a heavy boulder, forcing open elevator doors, competing in a weightlifting competition, and so on---are eased by two steps for one hour.
 
 SUBDUAL FIELD
 
@@ -1646,7 +1651,7 @@ TIME DILATION (DEFENSIVE)
 
 Level: 1d6
 
-Effect: For the next twenty-four hours, when the user is attacked, they move in rapid, seemingly random jumps, a few inches to one side or the other. This is an asset that modifies the user’s defense rolls by two steps (three steps if the cypher is level 6 or higher).
+Effect: For the next twenty-four hours, when the user is attacked, they move in rapid, seemingly random jumps, a few inches to one side or the other. This is an asset that modifies the user's defense rolls by two steps (three steps if the cypher is level 6 or higher).
 
 TIME DILATION (OFFENSIVE)
 
@@ -1658,7 +1663,7 @@ TISSUE REGENERATION
 
 Level: 1d6 + 4
 
-Effect: For the next hour, the user regains 1 point lost to damage per round, up to a total number of points equal to twice the cypher’s level. As each point is regained, they choose which Pool to add it to. If all their Pools are at maximum, the regeneration pauses until they take more damage, at which point it begins again (if any time remains in the hour) until the duration expires.
+Effect: For the next hour, the user regains 1 point lost to damage per round, up to a total number of points equal to twice the cypher's level. As each point is regained, they choose which Pool to add it to. If all their Pools are at maximum, the regeneration pauses until they take more damage, at which point it begins again (if any time remains in the hour) until the duration expires.
 
 (A tissue regeneration cypher can be used to regenerate a lost appendage (an arm, a foot, a leg, and so on) or to repair scar tissue from burns and other tissue-related disfigurements. If the cypher is used in this fashion, it restores only 1d6 points over the hour duration.)
 
@@ -1682,7 +1687,7 @@ Effect: Provides power to another device for
 up to a day. The device to be powered  
 can be as simple as a light source or as  
 complex as a small starcraft, assuming the  
-cypher’s level is equal to the item’s power  
+cypher's level is equal to the item's power  
 requirements. A desk lamp is a level 1  
 power requirement, a car engine is a level  
 5 power requirement, and a starship is a level 10 power requirement.
@@ -1691,7 +1696,7 @@ VANISHER
 
 Level: 1d6 + 2
 
-Effect: The user becomes invisible for five minutes per cypher level, during which time they are specialized in stealth and Speed defense tasks. This effect ends if they do something to reveal their presence or position—attacking, using an ability, moving a large object, and so on. If this occurs, they can regain the remaining invisibility effect by taking an action to focus on hiding their position.
+Effect: The user becomes invisible for five minutes per cypher level, during which time they are specialized in stealth and Speed defense tasks. This effect ends if they do something to reveal their presence or position---attacking, using an ability, moving a large object, and so on. If this occurs, they can regain the remaining invisibility effect by taking an action to focus on hiding their position.
 
 VISAGE CHANGER
 
@@ -1716,7 +1721,7 @@ WARMTH
 
 Level: 1d6
 
-Effect: Keeps the user warm and comfortable, even in the harshest cold temperatures, for twenty-four hours. During this time, the user has Armor equal to the cypher’s level that protects against cold damage.
+Effect: Keeps the user warm and comfortable, even in the harshest cold temperatures, for twenty-four hours. During this time, the user has Armor equal to the cypher's level that protects against cold damage.
 
 WATER ADAPTER
 
@@ -1728,9 +1733,9 @@ WEAPON ENHANCEMENT
 
 Level: 1d6 + 2
 
-Effect: Modifies a weapon’s attack in a particular fashion for ten minutes per cypher level. Roll a d100 for the modification.
+Effect: Modifies a weapon's attack in a particular fashion for ten minutes per cypher level. Roll a d100 for the modification.
 
-<table><colgroup><col style="width: 19%" /><col style="width: 80%" /></colgroup><tbody><tr class="odd"><td>01–10</td><td>Eases attack by one step</td></tr><tr class="even"><td>11–20</td><td>Deals bonus electrical damage equal to cypher level</td></tr><tr class="odd"><td>21–30</td><td>Deals bonus cold damage equal to cypher level</td></tr><tr class="even"><td>31–40</td><td>Deals bonus poison damage equal to cypher level</td></tr><tr class="odd"><td>41–50</td><td>Deals bonus acid damage equal to cypher level</td></tr><tr class="even"><td>51–60</td><td>Deals bonus fire damage equal to cypher level</td></tr><tr class="odd"><td>61–70</td><td>Deals bonus sonic damage equal to cypher level</td></tr><tr class="even"><td>71–80</td><td>Deals bonus psychic damage equal to cypher level</td></tr><tr class="odd"><td>81–90</td><td>Knockback (on 18–20 on successful attack roll, target knocked back 30 feet [9 m])</td></tr><tr class="even"><td>91–95</td><td>Holding (on 18–20 on successful attack roll, target can’t act on its<br />
+<table><colgroup><col style="width: 19%" /><col style="width: 80%" /></colgroup><tbody><tr class="odd"><td>01–10</td><td>Eases attack by one step</td></tr><tr class="even"><td>11–20</td><td>Deals bonus electrical damage equal to cypher level</td></tr><tr class="odd"><td>21–30</td><td>Deals bonus cold damage equal to cypher level</td></tr><tr class="even"><td>31–40</td><td>Deals bonus poison damage equal to cypher level</td></tr><tr class="odd"><td>41–50</td><td>Deals bonus acid damage equal to cypher level</td></tr><tr class="even"><td>51–60</td><td>Deals bonus fire damage equal to cypher level</td></tr><tr class="odd"><td>61–70</td><td>Deals bonus sonic damage equal to cypher level</td></tr><tr class="even"><td>71–80</td><td>Deals bonus psychic damage equal to cypher level</td></tr><tr class="odd"><td>81–90</td><td>Knockback (on 18–20 on successful attack roll, target knocked back 30 feet [9 m])</td></tr><tr class="even"><td>91–95</td><td>Holding (on 18–20 on successful attack roll, target can't act on its<br />
 next turn)</td></tr><tr class="odd"><td>96–97</td><td>Eases attack by two steps</td></tr><tr class="even"><td>98</td><td>Banishing (on 18–20 on successful attack roll, target is sent to<br />
 random location at least 100 miles [160 km] away)</td></tr><tr class="odd"><td>99</td><td>Explodes, inflicting damage equal<br />
 to cypher level to all within immediate range</td></tr><tr class="even"><td>00</td><td>Heart-seeking (on 18–20 on successful attack roll, target is killed)</td></tr></tbody></table>
@@ -1755,9 +1760,9 @@ Effect: Renders an inanimate object outside the effects of most energy for one m
 
 POWER BOOST CYPHERS
 
-These cyphers increase, modify, or improve a character’s existing powers. A burst boost cypher, for example, allows someone with the Bears a Halo of Fire focus to create a blast of fire in all directions, one time. Imagine this as being a fire-using superhero’s ability to “go nova.”
+These cyphers increase, modify, or improve a character's existing powers. A burst boost cypher, for example, allows someone with the Bears a Halo of Fire focus to create a blast of fire in all directions, one time. Imagine this as being a fire-using superhero's ability to "go nova."
 
-Power boost cyphers affect one use of a character’s abilities but do not require an action. Their use is part of the action that they affect.
+Power boost cyphers affect one use of a character's abilities but do not require an action. Their use is part of the action that they affect.
 
 Power boost cyphers are a special type of cypher. In some Cypher System games, they may be inappropriate, and in others, they may be the main (or only) type of cypher available, as determined by the GM. They can be either subtle or manifest.
 
@@ -1777,7 +1782,7 @@ DAMAGE BOOST
 
 Level: 1d6 + 2
 
-Effect: This cypher boosts an ability that inflicts points of damage. The ability inflicts additional damage equal to this cypher’s level.
+Effect: This cypher boosts an ability that inflicts points of damage. The ability inflicts additional damage equal to this cypher's level.
 
 EFFICACY BOOST (MAJOR)
 

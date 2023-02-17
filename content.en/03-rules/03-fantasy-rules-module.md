@@ -7,33 +7,33 @@ weight: 3
 
 ## Awarding Treasure
 
-It’s best to think of gold and magic as two different kinds of currencies that characters have access to.
+It's best to think of gold and magic as two different kinds of currencies that characters have access to.
 
 ### Gold
 
-The Cypher System abstracts item costs into general categories— inexpensive, moderate, expensive, and so on. Starting characters generally have access to only a few inexpensive and moderate items and perhaps one or two expensive items. In a typical fantasy campaign, the characters should become wealthier as they advance.
+The Cypher System abstracts item costs into general categories--- inexpensive, moderate, expensive, and so on. Starting characters generally have access to only a few inexpensive and moderate items and perhaps one or two expensive items. In a typical fantasy campaign, the characters should become wealthier as they advance.
 
 ### Manifest Cyphers
 
-The expectation is that PCs will use cyphers often because they’ll have many opportunities to get more; if the players can exploit this mechanic by selling off most of their cyphers in town, they’re abusing the rules to make gold. The GM might be tempted to discourage this behavior by reducing how often the PCs gain new cyphers, but that goes against the premise of cyphers in the game: they should be common enough that the PCs use them freely instead of hoarding them. The key to addressing this selling-cyphers wealth problem is to make it harder to sell or trade cyphers for gold.
+The expectation is that PCs will use cyphers often because they'll have many opportunities to get more; if the players can exploit this mechanic by selling off most of their cyphers in town, they're abusing the rules to make gold. The GM might be tempted to discourage this behavior by reducing how often the PCs gain new cyphers, but that goes against the premise of cyphers in the game: they should be common enough that the PCs use them freely instead of hoarding them. The key to addressing this selling-cyphers wealth problem is to make it harder to sell or trade cyphers for gold.
 
-The PCs can have opportunities to trade their cyphers with NPCs in town, whether that’s at a magic item shop, the tower of a mentor wizard, a thieves’ guild, a temple, other adventurers, or the local government. The kinds of cyphers these NPCs can offer may be limited in theme (such as a benevolent church that makes healing potions and trades them for other useful cyphers) or quantity (such as having only one or two cyphers available each month). Two cyphers of the same level are generally considered to be about the same value, although local biases and NPC interests may affect their willingness to trade certain items despite or because of a level disparity
+The PCs can have opportunities to trade their cyphers with NPCs in town, whether that's at a magic item shop, the tower of a mentor wizard, a thieves' guild, a temple, other adventurers, or the local government. The kinds of cyphers these NPCs can offer may be limited in theme (such as a benevolent church that makes healing potions and trades them for other useful cyphers) or quantity (such as having only one or two cyphers available each month). Two cyphers of the same level are generally considered to be about the same value, although local biases and NPC interests may affect their willingness to trade certain items despite or because of a level disparity
 
 ### Artifacts
 
-Artifacts are the high end of magical currency, and in terms of buying and selling them, they’re like manifest cyphers: not something a typical NPC can use, and beyond what a typical NPC can afford, but they could be traded for a different artifact of about the same level. Unlike cyphers, the game doesn’t assume that PCs have frequent opportunities to gain new artifacts or replace the ones that deplete.
+Artifacts are the high end of magical currency, and in terms of buying and selling them, they're like manifest cyphers: not something a typical NPC can use, and beyond what a typical NPC can afford, but they could be traded for a different artifact of about the same level. Unlike cyphers, the game doesn't assume that PCs have frequent opportunities to gain new artifacts or replace the ones that deplete.
 
 In a pinch, an artifact is worth the equivalent of one or two very expensive items or one exorbitant item, depending on what the artifact can do. An artifact that grants an asset to one kind of roll is probably worth about as much as a very expensive item, one that adds +1 Armor might be worth two expensive items, and a strong defensive or offensive artifact could be worth about the same as an exorbitant item.
 
 ## Dungeons, Castles, And Keeps
 
-This section describes several kinds of common physical features and their game stats. Any of these levels can be adjusted up or down by the GM—a wall made from soft wood can have a lower level than a typical wall, stone can be reinforced by magic so its level is higher, and so on.
+This section describes several kinds of common physical features and their game stats. Any of these levels can be adjusted up or down by the GM---a wall made from soft wood can have a lower level than a typical wall, stone can be reinforced by magic so its level is higher, and so on.
 
 ### Walls
 
 Walls are generally either constructed (intentionally built by a creature) or natural (already existing without any work by a creature). Anything describing walls in this section also applies to ceilings and floors.
 
-* **Paper wall (level 1):** This thin wall only blocks sight. Creatures can attack through a paper wall as if attacking blindly (hindered by four steps), but it’s usually easier to break a hole in the wall and attack through the hole. Paper walls are vulnerable to piercing and slashing weapons (attacks are eased). A gauzy curtain is equivalent to a paper wall, and a cloth wall is probably level 2.
+* **Paper wall (level 1):** This thin wall only blocks sight. Creatures can attack through a paper wall as if attacking blindly (hindered by four steps), but it's usually easier to break a hole in the wall and attack through the hole. Paper walls are vulnerable to piercing and slashing weapons (attacks are eased). A gauzy curtain is equivalent to a paper wall, and a cloth wall is probably level 2.
 
 * **Wooden wall (level 4):** This is a typical wall for an average wooden house. The walls of a decrepit shack or a partition within a dungeon might be only level 2 or 3, but the exterior palisade wall of a fort or a log cabin might be level 5. Wooden walls are vulnerable to fire (attacks with fire are eased) but resistant to bashing and piercing weapons (attacks are hindered).
 
@@ -49,51 +49,51 @@ Doors are access points for encounters and (if trapped or infested with dangerou
 * **Good wooden door (level 3):** This is a stronger door meant to provide some security, such as for a typical house or shop.
 * **Strong wooden door (level 4):** This is a heavy door reinforced with wood or metal to make it difficult to break. An especially strong wooden door, such as the main entrance to a fort or castle, is probably level 5.
 * **Stone door (level 5):** These heavy doors are usually carved from a solid block of stone and designed to pivot on a center point. They are common in places like dungeons where wood and metal are scarce. Stone doors are vulnerable to piercing weapons (attacks are eased) but resistant to bashing and slashing weapons (attacks are hindered).
-* **Iron door (level 6):** A solid iron door is meant to protect something very valuable or vulnerable, such as a vault or a king’s tomb. In a damp environment like a dungeon, they tend to rust and stick in place.
-* **Wooden portcullis (level 3):** The gaps in a portcullis present more defense opportunities than a door, such as allowing archers to fire at the creatures trapped by it. They’re also useful in closing access to a waterway without impacting its flow. A wooden portcullis is relatively fragile and usually isn’t meant to keep anyone out for long.
+* **Iron door (level 6):** A solid iron door is meant to protect something very valuable or vulnerable, such as a vault or a king's tomb. In a damp environment like a dungeon, they tend to rust and stick in place.
+* **Wooden portcullis (level 3):** The gaps in a portcullis present more defense opportunities than a door, such as allowing archers to fire at the creatures trapped by it. They're also useful in closing access to a waterway without impacting its flow. A wooden portcullis is relatively fragile and usually isn't meant to keep anyone out for long.
 * **Iron portcullis (level 6):** Much sturdier than wood, an iron portcullis is meant to keep creatures in place as long as necessary. Often the best way to get past a portcullis is to lift it instead of breaking it, but some are designed to lock in place to prevent this. A door to a prison cell is essentially a type of iron portcullis.
 
 ## Traps
 
-One common element of fantasy exploration—particularly for castles and dungeons—is the danger of traps.
+One common element of fantasy exploration---particularly for castles and dungeons---is the danger of traps.
 
 ### Triggering Traps
 
-Mechanical traps have a triggering mechanism—something set up to react when an unauthorized creature is in the area. Magical traps have triggers that are usually based on proximity—if a creature enters the area the trap is “watching,” it activates.
+Mechanical traps have a triggering mechanism---something set up to react when an unauthorized creature is in the area. Magical traps have triggers that are usually based on proximity---if a creature enters the area the trap is "watching," it activates.
 
 ### Finding Traps
 
 {{< hint warning >}}
-Most characters won’t notice traps unless actively looking for them; they don’t know a trap is in the area until their presence, movement, or action triggers it. Characters can passively or actively search for traps if they suspect such dangers are present.
+Most characters won't notice traps unless actively looking for them; they don't know a trap is in the area until their presence, movement, or action triggers it. Characters can passively or actively search for traps if they suspect such dangers are present.
 
-Passive searching for traps means one character (usually in the front of the group) is carefully checking the area before moving forward. This means the group moves at about half normal speed, but they get to make a search roll for any traps the GM has in their path. Allowing characters to passively search in this way means the players don’t have to keep stating over and over that they’re looking for traps. The drawback for them is that it takes them more time to get anywhere (which means time-based special abilities and cyphers will run out sooner).
+Passive searching for traps means one character (usually in the front of the group) is carefully checking the area before moving forward. This means the group moves at about half normal speed, but they get to make a search roll for any traps the GM has in their path. Allowing characters to passively search in this way means the players don't have to keep stating over and over that they're looking for traps. The drawback for them is that it takes them more time to get anywhere (which means time-based special abilities and cyphers will run out sooner).
 
-Active searching is used when the characters worry or suspect that there is a trap in the area and want to find it. Active searching takes about one round for each immediate area searched. Rather than having the players make separate rolls for each immediate area, the GM should have them make one roll for the entire room; if successful, they find the trap, and if they fail, they don’t find it. If there is a second trap, the GM can have them make another roll after they’ve resolved the first trap.
+Active searching is used when the characters worry or suspect that there is a trap in the area and want to find it. Active searching takes about one round for each immediate area searched. Rather than having the players make separate rolls for each immediate area, the GM should have them make one roll for the entire room; if successful, they find the trap, and if they fail, they don't find it. If there is a second trap, the GM can have them make another roll after they've resolved the first trap.
 {{< /hint >}}
 
 ### Disabling, Damaging, And Bypassing Traps
 
-A character can attempt to disable a trap so it’s no longer able to activate or harm anyone. Normally this task has the same difficulty as the trap’s level, but some traps are rickety and easy to disable, while others are carefully crafted and much harder to disable. Traps are objects and use the object damage track. Characters can attack a trap with weapons or special abilities to damage or destroy it. Some traps may be vulnerable to certain attacks or unusual means of sabotage (such as hammering a piton into a groove where a blade springs out). Magical traps can be damaged or disabled with special abilities.
+A character can attempt to disable a trap so it's no longer able to activate or harm anyone. Normally this task has the same difficulty as the trap's level, but some traps are rickety and easy to disable, while others are carefully crafted and much harder to disable. Traps are objects and use the object damage track. Characters can attack a trap with weapons or special abilities to damage or destroy it. Some traps may be vulnerable to certain attacks or unusual means of sabotage (such as hammering a piton into a groove where a blade springs out). Magical traps can be damaged or disabled with special abilities.
 
 Instead of disabling a trap, a character can try to bypass it so they and their allies can get past it without triggering it but still leave it as a danger to anyone else who passes through the area. The task to bypass a trap is hindered by two steps
 
-Failing an attempt to disable, bypass, or sabotage a trap means it activates. Usually the trap’s target is the acting character, and the trap’s attack is eased because the character placed themselves in harm’s way
+Failing an attempt to disable, bypass, or sabotage a trap means it activates. Usually the trap's target is the acting character, and the trap's attack is eased because the character placed themselves in harm's way
 
-Unless a character has the ability to manipulate magic, it’s very difficult to bypass a magical trap (the attempt is hindered by two additional steps).
+Unless a character has the ability to manipulate magic, it's very difficult to bypass a magical trap (the attempt is hindered by two additional steps).
 
 ### Understanding The Listings
 
-The rest of the chapter presents a large number of traps with game stats. Every trap is presented by name, followed by a standard template that includes the following categories. If an entry doesn’t apply to a particular trap, it is omitted from the listing.
+The rest of the chapter presents a large number of traps with game stats. Every trap is presented by name, followed by a standard template that includes the following categories. If an entry doesn't apply to a particular trap, it is omitted from the listing.
 
-**Level:** Like the difficulty of a task, each trap has a level. You use the level to determine the target number a PC must reach to find, evade, or disable the trap. In each entry, the difficulty number for the trap is listed after its level (always three times the trap’s level).
+**Level:** Like the difficulty of a task, each trap has a level. You use the level to determine the target number a PC must reach to find, evade, or disable the trap. In each entry, the difficulty number for the trap is listed after its level (always three times the trap's level).
 
 **Description:** This general description explains what the trap does, how it operates, whether it resets automatically, if it has a limited number of uses, and so on.
 
-**Damage Inflicted:** Generally, when a trap hits a creature, it inflicts its level in damage regardless of the form of attack (arrow, poison, collapsing ceiling, and so on). The entries always specify the amount of damage inflicted, even if it’s the normal amount for a trap of its level.
+**Damage Inflicted:** Generally, when a trap hits a creature, it inflicts its level in damage regardless of the form of attack (arrow, poison, collapsing ceiling, and so on). The entries always specify the amount of damage inflicted, even if it's the normal amount for a trap of its level.
 
-**Modifications:** Use these numbers when a trap’s information says to use a different target number. For example, a level 4 trap might say “defends as level 5,” which means PCs attacking it or trying to disable it must roll a target number of 15 (for difficulty 5) instead of 12 (for difficulty 4). Typical modifiers are to the trap’s attacks, defenses, and stealth (how hard or easy it is to notice the trap).
+**Modifications:** Use these numbers when a trap's information says to use a different target number. For example, a level 4 trap might say "defends as level 5," which means PCs attacking it or trying to disable it must roll a target number of 15 (for difficulty 5) instead of 12 (for difficulty 4). Typical modifiers are to the trap's attacks, defenses, and stealth (how hard or easy it is to notice the trap).
 
-**GM Intrusion:** This entry suggests one or more ways to use GM intrusions in an encounter with the trap. It’s just one possible idea of many, and the GM is encouraged to come up with their own uses of the game mechanic.
+**GM Intrusion:** This entry suggests one or more ways to use GM intrusions in an encounter with the trap. It's just one possible idea of many, and the GM is encouraged to come up with their own uses of the game mechanic.
 
 ### Common Trap Poisons
 
@@ -102,11 +102,11 @@ The rest of the chapter presents a large number of traps with game stats. Every 
 * **Blindness:** The poison blinds the creature if they fail a defense roll. Typical durations are one minute, ten minutes, and one hour.
 * **Choking:** The poison makes the creature choke and cough if they fail a defense roll. Typical durations are one minute, ten minutes, and one hour. Severe versions of choking poison might make a creature start to suffocate.
 * **Damage Track:** The poison moves the creature down one step on the damage track if they fail a defense roll.
-* **Debilitating:** The poison hinders all of the creature’s actions by one or two steps if they fail a defense roll. (Some poisons may affect only certain kinds of actions, such as Speed defense rolls or Might-based tasks.) Typical durations are ten minutes, one hour, and ten hours.
+* **Debilitating:** The poison hinders all of the creature's actions by one or two steps if they fail a defense roll. (Some poisons may affect only certain kinds of actions, such as Speed defense rolls or Might-based tasks.) Typical durations are ten minutes, one hour, and ten hours.
 * **Instant Damage:** The poison inflicts damage (Might, Speed, or Intellect) one time if the creature fails a defense roll.
 * **Ongoing Damage:** The poison inflicts damage (Might, Speed, or Intellect) immediately. When a certain amount of time has passed (such as every round or every minute), it inflicts damage again if the creature fails its defense roll. The ongoing damage usually ends on its own (such as after five additional rounds of damage) or after the creature makes a defense roll against it. Usually the ongoing damage is a much smaller amount than the initial damage, such as 1 point every round.
 * **Paralysis:** The poison prevents the creature from taking any physical actions if they fail a defense roll (this might leave them standing in place like a statue, or make them go limp and collapse to the floor). Typical durations are ten minutes, one hour, and ten hours.
-* **Sleep:** The poison knocks the creature unconscious if they fail a defense roll. Typical durations are ten minutes, one hour, and ten hours. The poison might also make the creature groggy, hindering all actions for an additional amount of time equal to how long the unconsciousness would have lasted (for example, knocking out a creature for an hour and then making them groggy for an hour, even if they’re awakened early).
+* **Sleep:** The poison knocks the creature unconscious if they fail a defense roll. Typical durations are ten minutes, one hour, and ten hours. The poison might also make the creature groggy, hindering all actions for an additional amount of time equal to how long the unconsciousness would have lasted (for example, knocking out a creature for an hour and then making them groggy for an hour, even if they're awakened early).
 
 {{< /hint >}}
 
@@ -148,13 +148,13 @@ A magical rune activates when touched or passed over, exploding in an immediate 
 
 **Modifications:** Stealth as level 5
 
-**GM Intrusion:** The glyph marks the character’s face with a symbol indicating they are a thief. The glyph makes the character run away in fear for one minute. The character is cursed, and all of their actions are hindered until the curse is removed.
+**GM Intrusion:** The glyph marks the character's face with a symbol indicating they are a thief. The glyph makes the character run away in fear for one minute. The character is cursed, and all of their actions are hindered until the curse is removed.
 
 {{< hint danger >}} Flooding Room --- 4 (12) {{< /hint >}}
 
 Exits to the room close off and the area starts to fill with water. Within a few minutes, the entire room is flooded and creatures in it begin to drown.
 
-A variant of this room reduces the air pressure (either by pumping it out through tiny holes or by retracting the floor or ceiling). As the air gets thinner, characters are hindered by one, two, or three steps before falling unconscious and starting to suffocate. (Restoring the air allows the characters to awaken, but doesn’t move them back up the damage track.)
+A variant of this room reduces the air pressure (either by pumping it out through tiny holes or by retracting the floor or ceiling). As the air gets thinner, characters are hindered by one, two, or three steps before falling unconscious and starting to suffocate. (Restoring the air allows the characters to awaken, but doesn't move them back up the damage track.)
 
 **Damage Inflicted:** None until drowning starts
 
@@ -166,9 +166,9 @@ A variant of this room reduces the air pressure (either by pumping it out throug
 
 A small hole in the wall extends sharp blades or weights when a creature reaches into it, mangling their hand and hindering all actions requiring that hand by one or two steps.
 
-A floor variant is a small trapdoor over a closed compartment, which mangles the character’s foot when they step on the trapdoor, reducing their movement speed by half.
+A floor variant is a small trapdoor over a closed compartment, which mangles the character's foot when they step on the trapdoor, reducing their movement speed by half.
 
-Another variant is a needle trap attached to a small peephole or spyhole in a door or wall. The trap springs when the character touches the area around the hole (even a slight touch with their face as they look is sufficient), inflicting lasting damage to the character’s eye and partially blinding them. A gentler variant traps the character’s limb in glue instead of inflicting damage. The character’s extremity might be glued to the hole, or they may be able to pull free but have a glue pot stuck on their hand or foot.
+Another variant is a needle trap attached to a small peephole or spyhole in a door or wall. The trap springs when the character touches the area around the hole (even a slight touch with their face as they look is sufficient), inflicting lasting damage to the character's eye and partially blinding them. A gentler variant traps the character's limb in glue instead of inflicting damage. The character's extremity might be glued to the hole, or they may be able to pull free but have a glue pot stuck on their hand or foot.
 
 **Damage Inflicted:** 3 points, plus lasting damage
 
@@ -200,9 +200,9 @@ A variant of this trap is a bridge over a chasm, river, or other dangerous locat
 
 {{< hint danger >}} Poison Gas --- 3 (9) {{< /hint >}}
 
-The area slowly fills with poison gas. Because it takes a minute or more for the poison to become thick enough to cause harm, it is likely that the character won’t realize at first that they’ve sprung a trap.
+The area slowly fills with poison gas. Because it takes a minute or more for the poison to become thick enough to cause harm, it is likely that the character won't realize at first that they've sprung a trap.
 
-A variant of this trap fills the room with flammable gas, which explodes if there is an open flame (such as from a torch) or a spark (such as a metal weapon against metal armor), inflicting fire damage equal to the trap’s level.
+A variant of this trap fills the room with flammable gas, which explodes if there is an open flame (such as from a torch) or a spark (such as a metal weapon against metal armor), inflicting fire damage equal to the trap's level.
 
 A further variant fills the room with dead air (containing no oxygen), which slowly extinguishes flames and suffocates creatures.
 
@@ -242,11 +242,11 @@ A variant is a large iron weight on a chain that swings from the ceiling. The we
 
 **Modifications:** Defends as level 7
 
-**GM Intrusion:** The boulder crashes through a door or wall, giving other dangerous creatures access to the character’s location. The boulder blocks the way out. The boulder carries a character along with it for some distance. The boulder is hollow and full of burning oil, leaving a fiery trail behind it. The boulder is hollow and contains undead skeletons, which jump out as it moves and attack nearby creatures.
+**GM Intrusion:** The boulder crashes through a door or wall, giving other dangerous creatures access to the character's location. The boulder blocks the way out. The boulder carries a character along with it for some distance. The boulder is hollow and full of burning oil, leaving a fiery trail behind it. The boulder is hollow and contains undead skeletons, which jump out as it moves and attack nearby creatures.
 
 {{< hint danger >}} Slicing Blade --- 5 (15)  {{< /hint >}}
 
-A thin blade slices out from a gap in the wall, floor, or ceiling. The trap might be designed to sweep the entire area (such as the width of a corridor) or leave a tiny safe space just beyond the blade’s reach so a creature who knows of the trap can get past it. This kind of trap is usually designed to reset automatically after a minute or has a lever nearby that allows a creature to reset it manually.
+A thin blade slices out from a gap in the wall, floor, or ceiling. The trap might be designed to sweep the entire area (such as the width of a corridor) or leave a tiny safe space just beyond the blade's reach so a creature who knows of the trap can get past it. This kind of trap is usually designed to reset automatically after a minute or has a lever nearby that allows a creature to reset it manually.
 
 **Damage Inflicted:** 5 points
 
@@ -282,7 +282,7 @@ The trap fires a spear, javelin, or other large projectile. (In many ways, this 
 
  {{< hint danger >}} Teleporter --- 6 (18) {{< /hint >}}
 
-The trap magically moves the character to another location within about 1,000 feet (300 m), typically a prison cell, an oubliette, or a very deep pit. It’s more efficient to kill an intruder than to teleport them, so teleportation is usually reserved for trapping creatures for interrogation.
+The trap magically moves the character to another location within about 1,000 feet (300 m), typically a prison cell, an oubliette, or a very deep pit. It's more efficient to kill an intruder than to teleport them, so teleportation is usually reserved for trapping creatures for interrogation.
 
 **Damage Inflicted:** None
 
