@@ -226,7 +226,7 @@ A spacecraft may have more than one weapon system. Each individual weapon system
 
 Refer to PC Weapon System Options. If the PC triggers a GM intrusion, the following table provides options to choose from.
 
-### Weapon System Gm Intrusions
+### Weapon System GM Intrusions
 
 | d6  | GM Intrusions (Choose Best Option)                                                                         |
 | --- | ---------------------------------------------------------------------------------------------------------- |

@@ -419,7 +419,7 @@ Chimeras kill even when not hungry and throw their victims' remains around a wid
 
 **Use:** While exploring an island, the PCs find carcasses that have been torn apart, the pieces scattered in all directions. A chimera lairs nearby, and if the characters draw attention to themselves, it hunts them down, too.
 
-**Gm Intrusion:** The Chimera Grabs A Character It Bites And Flies Off With The Victim
+**GM Intrusion:** The Chimera Grabs A Character It Bites And Flies Off With The Victim
 
 {{< hint danger >}} {{< columns2 >}} Chronophage <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 
@@ -1043,7 +1043,7 @@ Some faeries can attempt to use a song or light display to charm others within s
 
 **Loot:** The tiny pouches that faeries carry are stuffed with forest bric-a-brac, but some of those pouches are ten times larger on the inside and might hold a handful of shiny coins or a cypher.
 
-**Gm Intrusion:** Another faerie appears, and if the character fails a speed defense roll, it flies off with their weapon or another important possession.
+**GM Intrusion:** Another faerie appears, and if the character fails a speed defense roll, it flies off with their weapon or another important possession.
 
 {{< hint danger >}} {{< columns2 >}} Fallen Angel <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 
@@ -1649,7 +1649,7 @@ Kaiju are rare and devastating enough that most are dubbed with a unique identif
 
 **Use:** After seeing the devastation caused by a kaiju, the PCs might decide (or be asked) to find a way to stop a projected future appearance by the same creature.
 
-**Gm Intrusion:** The character gains the direct attention of the kaiju. If the kaiju attacks the character, They are awarded 5 XP, only 1 of which they have to give to a friend.
+**GM Intrusion:** The character gains the direct attention of the kaiju. If the kaiju attacks the character, They are awarded 5 XP, only 1 of which they have to give to a friend.
 
 {{< hint danger >}} {{< columns2 >}} Killer Clown <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 

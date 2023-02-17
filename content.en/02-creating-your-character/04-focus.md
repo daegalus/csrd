@@ -1795,7 +1795,7 @@ You may notice that higher-tier abilities are more expensive. This is partly bec
 
 As a good rule of thumb, a typical ability should cost points equal to its tier.
 
-## Choose Gm Intrusions
+## Choose GM Intrusions
 
 Think about the kinds of things that might surprise, alarm, or go catastrophically wrong for someone with the new focus being created, and assign it as a GM intrusion for that focus. Of course, this often is done on the fly during the game. But giving the topic some thought while the focus is being constructed and the ideas are fresh in your head is likely to yield some particularly devilish options.
 
