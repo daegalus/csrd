@@ -7,6 +7,10 @@ BookTOC: false
 
 ## Version: 2023-02-10
 
+{{< hint danger >}}
+I am sure there are formattng issues and mistakes in the files. If you notice anything, please use the link below to report it. There is a lot of text and easy to miss things.
+{{< /hint >}}
+
 These rules of the Cypher System, taken from the Cypher System Reference Document (CSRD). The CSRD is provided by Monte Cook Games, as a free and legal way to access the rules and build upon them.
 
 Use the navigation menu on the left to choose the section you'd like to read. They are ordered by the way they are ordered in the SRD, which follows the order of the full rulebook.
