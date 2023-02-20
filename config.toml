@@ -1,4 +1,4 @@
-baseURL = 'http://csrd.mistlyric.net/'
+baseURL = 'http://cyphersrd.quest/'
 languageCode = 'en-us'
 title = 'Cypher System Reference Document'
 theme = 'hugo-book'
@@ -19,6 +19,8 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
   BookComments = false
   BookServiceWorker = true
   BookSection = "*"
+  description = "The system reference document for the Cypher System, a tabletop roleplaying game by Monte Cook Games."
+  title = 'Cypher System Reference Document'
 
 [markup.goldmark.renderer]
   unsafe = true
