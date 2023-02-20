@@ -287,6 +287,34 @@ body[dir="rtl"] .book-menu {
   will-change: transform, margin, opacity;
 }
 
+@media screen and (max-width: $tablet-breakpoint) {
+  #toc-control {
+    display: inline;
+  }
+
+  .book-toc {
+    display: none;
+  }
+
+  .book-header {
+    display: block;
+  }
+
+  #toc-control:focus ~ main label[for="toc-control"] {
+    @include outline;
+  }
+
+  #toc-control:checked ~ main {
+    .book-header aside {
+      display: block;
+    }
+  }
+
+  .book-header label[for=menu-control] img {
+    display: none;
+  }
+}
+
 @media screen and (max-width: $mobile-breakpoint) {
   #menu-control,
   #toc-control {
@@ -306,6 +334,10 @@ body[dir="rtl"] .book-menu {
 
   .book-header {
     display: block;
+  }
+
+  .book-header label[for=menu-control] img {
+    display: inline;
   }
 
   #menu-control:focus ~ main label[for="menu-control"] {
