@@ -1742,8 +1742,6 @@ Low-tier abilities are best suited for focus options at tiers 1 and 2. Mid-tier 
 
 That said, sometimes you'll find it appropriate to assign a low-tier ability at tier 3 or 4, or maybe a mid-tier ability at tier 1 or 2. Do so sparingly, but don't rule it out. It might be the only way to get all the abilities you want for the focus you're building. Higher-tier abilities usually cost more Pool points to use. So if a mid-tier ability is made available at tier 1 or 2, or a high-tier ability is made available at tier 3 or 4, the higher cost will be a balancing factor.
 
------
-
 ### Balancing Abilities
 
 The guidelines within each category go a long way toward ensuring that the focus you build will be balanced. Sometimes it might be appropriate to grant a low-power ability along with a regular ability at a given tier, depending on the needs of the focus. A "low-power ability" is deliberately open for GM interpretation, but generally speaking, should be no more potent than a low-tier ability (that is, an ability that is normally available at tier 1 or 2).
@@ -1753,21 +1751,15 @@ For instance, someone who uses cold might be able to create small snow sculpture
 Often, the focus guidelines note this as a possibility. However, you have great leeway in deciding if a focus needs an additional ability, even if the guidelines for that tier don't indicate one. If you do add an ability, or there is a  
 higher-power ability at a tier that normally shouldn't have it, it might mean that the choice given at the next tier, or the previous tier, isn't quite as good. Balancing a focus is a bit of an art. Resist the urge to overpower the focus, but don't underpower it, either.
 
------
-
 ### Ability Guidelines Are Not Perscriptive
 
 Each focus category provides a guideline for what kind of ability you should select at every tier. But don't regard the guidelines as something that you can't vary. They're not prescriptive; they're just a place to start. You might want to vary the kind of ability at a particular tier that isn't indicated in the guidelines. As long as the chosen ability falls within the expected power curve for that tier, it's fine. The guideline isn't meant to be a straitjacket.
 
 For example, if you're building a cold-using focus for a game set in a fantasy genre, you may decide that an ability that calls up a demon is a better choice at a particular tier than an ability that does damage in an area, which is what the tier 5 guideline for energy manipulation calls for. Making the change is probably especially valid if you call your new focus something like Channels the Ninth Circle.
 
------
-
 ### Ability Swap
 
 If you're creating a focus and you think it should provide a suite of abilities at first tier that would mechanically overload it, you have the option to add one as a "swap" ability. Doing so is as easy as allowing a character to swap out one of their type abilities for an indicated low-tier focus ability. The ability is gained instead of one of the abilities normally granted by the character's type.
-
------
 
 ### Concept And Category
 
@@ -1780,8 +1772,6 @@ Here's another example: the focus Controls Gravity could conceivably be an envir
 The same malleability of concept holds true in other realms. For instance, if someone is able to call up and mold raw earth, they might use it to transform themselves into a being of stone (tank combat), to batter foes (striker combat), or to create walls, barricades, and shields to protect their allies (support).
 
 If you're looking for an ability and can't seem to find the right one in the vast catalog in the Abilities chapter, consider reskinning one to make it seem new (and to accomplish what you need). Reskinning means that you use the underlying mechanics of an ability as written but change the flavor in some fashion. For instance, maybe you're creating a new earth-moving focus but can't find enough earth-related abilities to meet your need. It's easy enough to change up other abilities so they use earth instead of fire, cold, or magnetism. For instance, Wings of Fire might become Wings of Earth, Ice Armor could become Earth Armor, and so on. These alterations change nothing except the type of damage and any knock-on effects (for instance, Wings of Earth might generate clouds of dust in their wake).
-
------
 
 ### Abilities That Reference Other Abilities
 
@@ -1799,7 +1789,7 @@ As a good rule of thumb, a typical ability should cost points equal to its tier.
 
 Think about the kinds of things that might surprise, alarm, or go catastrophically wrong for someone with the new focus being created, and assign it as a GM intrusion for that focus. Of course, this often is done on the fly during the game. But giving the topic some thought while the focus is being constructed and the ideas are fresh in your head is likely to yield some particularly devilish options.
 
-## Focus Categories -
+## Focus Categories
 
 -----
 
@@ -2361,14 +2351,10 @@ Sometimes not everything about a focus is right for a character's concept, or pe
 At any tier, a player can select one of the following abilities in place of the ability granted by the tier. Many of these replacement abilities, particularly at the higher tiers, might involve body modification, integration with high-tech  
 devices, learning powerful magic spells, uncovering forbidden secrets, or something similar appropriate to the genre.
 
------
-
 ### Tier 1
 
 * Combat Prowess
 * Enhanced Potential
-
------
 
 ### Tier 2
 
@@ -2377,15 +2363,11 @@ devices, learning powerful magic spells, uncovering forbidden secrets, or someth
 * Practiced With All Weapons
 * Skill With Attacks
 
------
-
 ### Tier 3
 
 * Lower-tier ability: choose any tier 1 or 2 replacement ability, above.
 * Incredible Health
 * Fusion Armor
-
------
 
 ### Tier 4
 
@@ -2393,15 +2375,11 @@ devices, learning powerful magic spells, uncovering forbidden secrets, or someth
 * Poison Resistance
 * Built-in Weaponry
 
------
-
 ### Tier 5
 
 * Lower-tier ability: choose any tier 1, 2, 3, or 4 replacement ability, above.
 * Adaptation
 * Defensive Field
-
------
 
 ### Tier 6
 

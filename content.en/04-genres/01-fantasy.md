@@ -28,7 +28,7 @@ The point is, there are many, many types of fantasy.
 | Warrior mage | Warrior flavored with magic    |
 | Bard         | Speaker                        |
 
-## Basic Creatures And Npcs For A Fantasy Game
+## Basic Creatures And NPCs For A Fantasy Game
 
 * **Bat:** level 1
 * **Dog:** level 2, perception as level 3

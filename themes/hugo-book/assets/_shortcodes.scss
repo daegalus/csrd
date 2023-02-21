@@ -98,6 +98,32 @@
       &.#{$name} {
         border-color: $color;
         background-color: rgba($color, 0.1);
+        padding-top: 0.1em;
+        padding-bottom: 0.1em;
+        margin-top: 0.2em;
+        margin-bottom: 0.2em;
+      }
+    }
+    .markdown-inner {
+      padding-top: 0.1em;
+      padding-bottom: 0.1em;
+      margin-top: 0.2em;
+      margin-bottom: 0.2em;
+    }
+
+    @media screen and (max-width: $tablet-breakpoint) {
+      .book-columns .text-center {
+        text-align: left;
+      }
+      .book-columns .text-right {
+        text-align: left;
+      }
+      .book-columns .markdown-inner {
+        display: block;
+        clear: both;
+      }
+      .book-columns {
+        display: block;
       }
     }
   }

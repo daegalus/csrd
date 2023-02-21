@@ -146,7 +146,9 @@ You gain the following characteristics:
 
 You've spent most of your life in sedentary pursuits---books, movies, hobbies, and so on---rather than active ones. You're well versed in all manner of academia or other intellectual pursuits, but nothing physical. You're not weak or feeble, necessarily (although this is a good descriptor for characters who are elderly), but you have no experience in more physical activities.
 
-(Calm is a great descriptor for characters who never intended to have adventures but were thrust into them, a trope that occurs often in modern games and particularly in horror games.)
+{{< hint info >}}
+Calm is a great descriptor for characters who never intended to have adventures but were thrust into them, a trope that occurs often in modern games and particularly in horror games.
+{{< /hint >}}
 
 You gain the following characteristics:
 
@@ -252,7 +254,9 @@ You gain the following characteristics:
 
 Graceless and awkward, you were told that you'd grow out of it, but you never did. You often drop things, trip over your own feet, or knock things (or people) over. Some people get frustrated by this quality, but most find it funny and even a little charming.
 
-(Some players may not want to be defined by a "negative" quality like Clumsy, but in truth, even this kind of descriptor has enough advantages that it makes for capable and talented characters. What negative descriptors really do is make more interesting and complex characters that are often great fun to play.)
+{{< hint info >}}
+Some players may not want to be defined by a "negative" quality like Clumsy, but in truth, even this kind of descriptor has enough advantages that it makes for capable and talented characters. What negative descriptors really do is make more interesting and complex characters that are often great fun to play.
+{{< /hint >}}
 
 You gain the following characteristics:
 
@@ -283,7 +287,9 @@ Courage fails you at every turn. You lack the willpower and resolve to stand fas
 
 Yet for all that fear dogs you and possibly shames you, your cowardly nature proves to be a useful ally from time to time. Listening to your fears has helped you escape danger and avoid taking unnecessary risks. Others may have suffered in your place, and you might be the first to admit this fact, but secretly you feel intense relief from having avoided an unthinkable and terrible fate.
 
-(Descriptors like Craven, Cruel, and Dishonorable might not be appropriate for every group. These are villainous traits and some people want their PCs to be entirely heroic. But others don't mind a little moral greyness thrown into the mix. Still others see things like Craven and Cruel as traits to overcome as their characters develop (probably earning them different descriptors).)
+{{< hint info >}}
+Descriptors like Craven, Cruel, and Dishonorable might not be appropriate for every group. These are villainous traits and some people want their PCs to be entirely heroic. But others don't mind a little moral greyness thrown into the mix. Still others see things like Craven and Cruel as traits to overcome as their characters develop (probably earning them different descriptors).
+{{< /hint >}}
 
 You gain the following characteristics:
 
@@ -500,7 +506,9 @@ Not everyone can be brilliant. Oh, you don't think of yourself as stupid, and yo
 
 People call you "idiot" or "numbskull," but it doesn't faze you much.
 
-(It can be liberating and really fun to play a foolish character. In some ways, the pressure to always do the right, smart thing is off. On the other hand, if you play such a character as a bumbling moron in every situation, that can become annoying to everyone else at the table. As with everything, moderation is the key.)
+{{< hint info >}}
+It can be liberating and really fun to play a foolish character. In some ways, the pressure to always do the right, smart thing is off. On the other hand, if you play such a character as a bumbling moron in every situation, that can become annoying to everyone else at the table. As with everything, moderation is the key.
+{{< /hint >}}
 
 You gain the following characteristics:
 
@@ -654,7 +662,9 @@ You have a hard time tamping down your enthusiasm. Why wait when you can just do
 
 Your impulsiveness likely gets you into trouble. While others might take time to study the items they discover, you use such items without hesitation. After all, the best way to learn what something can do is to use it. When a cautious explorer might look around and check for danger nearby, you have to physically stop yourself from bulling on ahead. Why fuss around when the exciting thing is just ahead?
 
-(Impulsive characters get into trouble. That's their thing, and that's fine. But if you're constantly dragging your fellow PCs into trouble (or worse, getting them seriously hurt or killed), that will be annoying, to say the least. A good rule of thumb is that impulsiveness doesn't always mean a predilection for doing the wrong thing. Sometimes it's the urge to do the right thing.)
+{{< hint info >}}
+Impulsive characters get into trouble. That's their thing, and that's fine. But if you're constantly dragging your fellow PCs into trouble (or worse, getting them seriously hurt or killed), that will be annoying, to say the least. A good rule of thumb is that impulsiveness doesn't always mean a predilection for doing the wrong thing. Sometimes it's the urge to do the right thing.
+{{< /hint >}}
 
 You gain the following characteristics:
 

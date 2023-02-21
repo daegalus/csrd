@@ -71,7 +71,7 @@ While Void Rules are in effect, the GM intrusions automatically triggered should
 
 In terms of game mechanics, an unprotected character in vacuum moves one step down the damage track each round. However, at the point where they should die, they instead fall unconscious and remain so for about a minute. If they are rescued during that time, they can be revived. If not, they die
 
-### Vacuum GM Intrusions
+#### Vacuum GM Intrusions
 
 | d6  | GM Intrusions (Choose Best Option)                                                                                                                                                                                                                                                                                                   |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -86,7 +86,7 @@ In terms of game mechanics, an unprotected character in vacuum moves one step do
 
 Even if advanced tech or fantastic tech is available, space suits are susceptible to all kinds of mishaps. Of course, that's especially true for contemporary tech space suits, which work hard at keeping a constant internal air volume so that a wearer doesn't have to continually exert themselves to hold the suit in a given position or pre-breathe oxygen at a higher concentration. "Hard-shell" suits manage this with multiple joints and segments that shift on ball bearings, and by being able to maintain a higher internal pressure than soft suits.
 
-### Space Suits GM Intrusions
+#### Space Suits GM Intrusions
 
 | d6  | GM Intrusions (Choose Best Option)                                                                                                                                                                                                                                                                   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -103,7 +103,7 @@ In a fantastic tech setting where gravitic control usually cancels inertia, spac
 
 Of course, massive acceleration (or deceleration) is just plain lethal. Someone who jumps off a ten-story building is subject to several hundred Gs when they suddenly stop. Less extreme is still dangerous, because it pulls blood out of pilots' and passengers' heads, rendering them unconscious. This can happen at just 4 or 5 Gs without any amelioration, though contemporary tech allows fighter craft pilots to withstand up to 9 Gs for limited periods. Advanced tech methods, which include acceleration serum, allow characters to survive the kind of Gs a spacecraft might pull for extended trips or during battle, up to a maximum of 15 Gs. Ships have limiters that normally prevent them from thrusting at higher speeds. Normally.
 
-### Acceleration And High-G Maneuver GM Intrusions
+#### Acceleration And High-G Maneuver GM Intrusions
 
 | d6  | GM Intrusions (Choose Best Option)                                                                                                                                                                                                                                                                                   |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -118,7 +118,7 @@ Of course, massive acceleration (or deceleration) is just plain lethal. Someone 
 
 In a setting with contemporary tech, a variety of issues related to long-term exposure to micro-gravity and high radiation beset astronauts, including bone and muscle loss, less circulating blood and red cell mass, less ability to constrict and dilate in vessels, irregular hormones, diminished immune system, inability of mitochondria to initiate wound healing, and even shortened telomeres. The inability to heal even minor wounds and nicks until a space-farer returns to stronger gravity will eventually prove lethal, though a snapped bone or normally inconsequential virus or parasite could also do them in.
 
-### Space Health Hazard GM Intrusions
+#### Space Health Hazard GM Intrusions
 
 | d6  | GM Intrusions (Choose Best Option)                                                                                                                                                                                                                                                                         |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -129,11 +129,11 @@ In a setting with contemporary tech, a variety of issues related to long-term ex
 | 05  | Despite precautions, sometimes viruses infect a character. The common cold virus is, ridiculously enough, still not preventable in advanced settings, and if anything, has even more severe symptoms for those in microgravity. The character descends one step on the damage track until they get better. |
 | 06  | The character is diagnosed with cancer. Depending on the tech setting, it is amenable to medical intervention (or at least long-term treatment to keep symptoms controlled), if that intervention comes soon enough.                                                                                       |
 
-MOVING IN MICROGRAVITY
+### Moving In Microgravity
 
 Long-term zero G is dangerous, but there are issues associated with moving around in microgravity. Those who have spent at least a little time in microgravity can move as part of a routine action. It's only when something else distracting or dangerous is happening simultaneously that routine movements through a ship or station become potentially problematic.
 
-### Moving In Microgravity GM Intrusions
+#### Moving In Microgravity GM Intrusions
 
 | d6  | GM Intrusions (Choose Best Option)                                                                                                                                                                                                                                                         |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -226,7 +226,7 @@ A spacecraft may have more than one weapon system. Each individual weapon system
 
 Refer to PC Weapon System Options. If the PC triggers a GM intrusion, the following table provides options to choose from.
 
-### Weapon System GM Intrusions
+##### Weapon System GM Intrusions
 
 | d6  | GM Intrusions (Choose Best Option)                                                                         |
 | --- | ---------------------------------------------------------------------------------------------------------- |
@@ -243,7 +243,7 @@ Many spacecraft have only a single system and dedicated station for piloting and
 
 Refer to PC Piloting System Options. If the PC triggers a GM intrusion, the following table provides options to choose from.
 
-**A successful piloting defense task is not always a miss:** A failed enemy attack doesn't always mean it misses a character's craft. The PC's spacecraft might rock and reel from the hit, but the bulk of the damage was absorbed by the hull or shields, so there's no significant damage.
+A successful piloting defense task is not always a miss: A failed enemy attack doesn't always mean it misses a character's craft. The PC's spacecraft might rock and reel from the hit, but the bulk of the damage was absorbed by the hull or shields, so there's no significant damage.
 
 #### Piloting System GM Intrusions
 
@@ -1548,53 +1548,53 @@ For ease of reference, the light delay table provides the time it takes light fr
 
 #### Contemporary
 
-**{{< columns2 >}} Smartphone <---> Level 2 (6) <---> Moderate/Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Smartphone <---> Level 2 (6) <---> Moderate/Expensive {{< /columns2 >}} {{< /hint >}}
 
 A communication device that performs some of the functions of a computer with a touchscreen interface, internet access, and ability to run multiple apps. Provides an asset to knowledge tasks that can be researched on the internet, and bright light within immediate range. Subject to running out of charge or breaking.
 
-**{{< columns2 >}} Computer/Laptop <---> Level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Computer/Laptop <---> Level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 A data processing and data-access tool that enables all sorts of creative and comprehension tasks.
 
-**{{< columns2 >}} Satellite phone <---> Level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Satellite phone <---> Level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 As smartphone (though far bulkier), but with ability to connect directly to an orbiting satellite communication network, providing planetary range.
 
 #### Advanced
 
-**{{< columns2 >}} Communicator, badge/ring <---> level 3 (9) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Communicator, badge/ring <---> level 3 (9) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 As satellite phone, but so small it can be worn as a stylish insignia or badge on a cuff, chest, pendant, or carried in a pocket; as a ring worn on a finger, earlobe, or other pierced appropriate or pierced body part; or threaded into a tattoo on wrist or back of hand. Has full voice functionality, including on-the-fly translation (for languages in a network-connected database), and audibly duplicates most smartphone functions.
 
 A communicator badge in the form of ring is often referred to as a data-ring.
 
-**{{< columns2 >}} AR glasses <---> level 4 (12) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} AR glasses <---> level 4 (12) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Sturdy (and sometimes stylish) eyeglasses or goggles provides all the functions of a contemporary smartphone (including communication) and communicator badge, plus is capable of both immersive VR and overlaid HUD and augmented reality functions. Can be worn inside a space suit helmet or incorporated directly into one.
 
-**{{< columns2 >}} AR contacts <---> level 4 (12) <---> Expensive x2 {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} AR contacts <---> level 4 (12) <---> Expensive x2 {{< /columns2 >}} {{< /hint >}}
 
 As AR glasses, but are lenses fitted to the eye. Also called "smartacs."
 
-**{{< columns2 >}} Courier <---> level 5 (15) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Courier <---> level 5 (15) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 Essentially a tiny rocket that can exceed human-rated Gs to "quickly" deliver messages across planetary distances if radio (via DSM network), laser, or even graser communication is deemed too susceptible to interception by a third party. A courier must be launched in a micro-gravity environment.
 
-**{{< columns2 >}} Laser array <---> level 5 (15) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Laser array <---> level 5 (15) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 A bulky piece of equipment that takes a few days to set up and calibrate. Useful for ship-to-ship communication for "tight" beaming information; even highly focused lasers spread out to several miles after only traveling a few light-seconds, diminishing their usefulness. Also doubles as a spacecraft weapon system (but all attack tasks using it are hindered).
 
-**{{< columns2 >}} Graser array <---> level 5 (15) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Graser array <---> level 5 (15) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 As laser array, but collimates gamma rays, which diverge far less quickly than light, allowing communication between planets. Also doubles as a spacecraft weapon system (but all attack tasks using it are hindered).
 
 #### Fantasic
 
-**{{< columns2 >}} Mind's eye <---> level 4 (12) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Mind's eye <---> level 4 (12) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 As contemporary AR glasses, but directly incorporated into the brain as cortical implant. Incorporation grants eidetic memory, the ability to link senses between authorized users within network range, and some control over brain chemistry, granting an asset on all tasks the user attempts to control or moderate their own reactions.
 
-**{{< columns2 >}} Ansible <---> level 6 (18) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Ansible <---> level 6 (18) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 A bulky piece of equipment that takes a few days to set up and calibrate, and which requires enormous power per use, allows instantaneous communication between two points even across interstellar distances.
 
@@ -1604,97 +1604,97 @@ Some communication devices also provide sense-enhancing abilities, such as the s
 
 #### Contemporary
 
-**{{< columns2 >}} Binoculars <---> level 2 (6) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Binoculars <---> level 2 (6) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 Provides an asset for perception tasks at range.
 
-**{{< columns2 >}} Camera, surveillance <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Camera, surveillance <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Wireless transmission to internet node, radio within long range, or flash storage to be picked up physically at a later date; includes microphone and ability to have conversation through camera speakers.
 
-**{{< columns2 >}} Microscope <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Microscope <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Provides an asset to any research task where small-scale perception could provide additional information, though analysis requires several hours or more.
 
-**{{< columns2 >}} Nightvision goggles <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Nightvision goggles <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Reasonably accurate vision in complete darkness, up to 100 m (330 feet).
 
-**{{< columns2 >}} Analysis apparatus <---> level 4 (12) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Analysis apparatus <---> level 4 (12) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 Any one of a number of pieces of lab equipment that takes a few days to set up and calibrate, including chromatography columns2, mass spectrometers, calorimetry analyzers, and more. Such a piece of equipment grants two assets to any analysis task where perception could provide additional information, though analysis requires several hours or more.
 
 #### Advanced
 
-**{{< columns2 >}} Hand scanner <---> level 4 (12) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Hand scanner <---> level 4 (12) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Smartphone-like device customized for analysis; provides an asset for identifying tasks.
 
-**{{< columns2 >}} White noise generator <---> level 5 (15) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} White noise generator <---> level 5 (15) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Fist-sized device that fuzzes frequencies all across the spectrum, hindering all electronic perception and surveillance tasks within short range by five steps.
 
-**{{< columns2 >}} Lab-on-a-chip <---> level 5 (15) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Lab-on-a-chip <---> level 5 (15) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Portable 15 cm (6 inch) cube with many inputs and readouts (and network connections). Eases any research task where small-scale perception could provide additional information by two steps, though analysis requires about ten minutes.
 
-**{{< columns2 >}} Research drone <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Research drone <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Autonomous frames about 1 m (3 feet) in rough diameter fitted with all manner of surveillance devices, including visual, audio, chemical, and lab-on-a-chip functionality. Propelled by rotors in an atmosphere or micro-thrusters in vacuum. Research drones can also be controlled through AR glasses or smartphones to any distance communications reach.
 
-**{{< columns2 >}} Tactile drone <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Tactile drone <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 As research drone, except without the suite of analysis tools, providing only audible and visual feeds back to controller (if there is one), but with physical options; tactile drones can accomplish routine tasks and attempt those of level 4 or less, or allow a remote operator to attempt more difficult tasks at a distance.
 
 #### Fantasic
 
-**{{< columns2 >}} Multicorder <---> level 5 (15) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Multicorder <---> level 5 (15) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Handheld device provides two assets and one free level of Effort to any perception, analysis, or computing task that the device's multiple sensors (including radio, gravimetric, chemical, visual, audio, and others) within short range. Analysis requires only one round to complete.
 
 An ability granting a free level of Effort usually must be unlocked by the application of at least one level of Effort, in effect providing one more level of Effort than what was paid for
 
-**{{< columns2 >}} Probe drone <---> level 6 (18) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Probe drone <---> level 6 (18) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 More advanced version of a contemporary research drone that can be deployed to other planets and even star systems to gather environmental and tactical information, which is transmitted back. If forced to defend itself, this level 6 robot has Armor 3 and two long-range energy blasts each round that inflict 8 points of damage each.
 
-**{{< columns2 >}} Sonic toolgrip <---> level 6 (18) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Sonic toolgrip <---> level 6 (18) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 Handheld toolgrip manifests a sonic effector field that serves as a multifunctional tool in a wide variety of circumstances. Suitable for picking a lock, unscrewing a bolt, analyzing the interior of an object, as a microphone, for tracking movement, hacking electronics, charging electronics, or even tuned to a high-intensity beam that can blind nearby targets for a round. The sonic toolgrip eases all tasks by two steps.
 
-APPAREL & ARMOR
+### Apparel & Armor
 
-Unless the GM is running some kind of survival-related scenario, characters can be presumed to have basic clothing and footwear suitable to their environment. CONTEMP
+Unless the GM is running some kind of survival-related scenario, characters can be presumed to have basic clothing and footwear suitable to their environment.
 
 #### Contemporary
 
-**{{< columns2 >}} Cold weather gear <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Cold weather gear <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Insulated clothing, including gloves, boots, and facemask, that allows wearer to function in extremely cold environments for several hours at temperatures down to –90 degrees C (–130 degrees F).
 
-**{{< columns2 >}} Elegant clothes <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Elegant clothes <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Clothing suitable for moving in elite circles; provides an asset to interaction checks in some situations.
 
-**{{< columns2 >}} SCUBA gear <---> level 4 (12) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} SCUBA gear <---> level 4 (12) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Self-contained underwater breathing apparatus allows wearer to function underwater for about an hour at depths (under normal Earth atmosphere) of up to 40 m (130 feet)
 
 #### Contemporary Armor
 
-**{{< columns2 >}} Leather jacket <---> level 2 (6) <---> Moderate  {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Leather jacket <---> level 2 (6) <---> Moderate  {{< /columns2 >}} {{< /hint >}}
 
 Functions as light armor (+1 Armor).
 
-**{{< columns2 >}} Kevlar vest <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Kevlar vest <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Functions as medium armor (+2 Armor).
 
-**{{< columns2 >}} Military body armor, light <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Military body armor, light <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Functions as medium armor (+2 Armor), encumbers as light armor.
 
-**{{< columns2 >}} Military body armor <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Military body armor <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Functions as heavy armor (+3 Armor).
 
@@ -1702,49 +1702,49 @@ Remember, armor (lowercase a) is something you wear. Armor (capital A) is the bo
 
 #### Advanced
 
-**{{< columns2 >}} Safesuit, space <---> level 2 (6) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Safesuit, space <---> level 2 (6) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 Cheap, mass-produced one-size-fits-all vacuum-protection "suit" (sometimes they look more like a bag) of thin polymer suitable for emergency decompression events but not for long-term use. Can be put on and sealed with one action, but any physical action taken while wearing one is subject to automatic GM intrusions on a d20 die roll of 1 or 2. If a roll triggers a GM intrusion, the suit tears.
 
-**{{< columns2 >}} Breather <---> level 2 (6) <---> Moderate/Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Breather <---> level 2 (6) <---> Moderate/Expensive {{< /columns2 >}} {{< /hint >}}
 
 A facemask providing a day of breathable air in poisonous or low-oxy atmospheres, or continuously for expensive breathers with recycling and oxy extraction features. If used in a vacuum, a breather provides the wearer three rounds of action before the full effects of vacuum begin dropping them on the damage track.
 
-**{{< columns2 >}} Exoskin, grav-assist <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Exoskin, grav-assist <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Powered anthropomorphic exoskeleton allows completely normal function in high gravity environments of up to 5 G. Exoskins are related to loader mechs. Increase the cost category by one to grant +1 Armor.
 
-**{{< columns2 >}} Shipboots <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Shipboots <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Any footwear that allows variable magnetic adhesion to a surface; cancels the hindrance to all physical actions suffered by those acting in zero-gravity conditions.
 
-**{{< columns2 >}} Pressure suit <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Pressure suit <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 A full-body suit similar to a space suit, but only rated for regions of low pressure (not vacuum) such as is typically found on Mars. Some come integrated with breathers (at double the cost).
 
-**{{< columns2 >}} Exoskin, brute <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Exoskin, brute <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 As grav-assist exoskin, but high-tensile effectors ease all tasks related to Might.
 
-**{{< columns2 >}} Exoskin, reactive <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Exoskin, reactive <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 As grav-assist exoskin, but integrated memory fibers ease all tasks related to Speed.
 
-**{{< columns2 >}} Space suit <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Space suit <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Protects a wearer from vacuum and allows basic normal activities in space. Requires about four rounds to put on and seal (going quicker risks a bad seal). Provides about ten hours of atmo in a vacuum without refurbishment. Extremely limited maneuvering thrusters provide a couple of opportunities to correct a poorly aimed jump through zero G. Shipboots are usually built in.
 
 "Atmo" is the catch-all term for oxygenated, breathable air and livable pressure.
 
-**{{< columns2 >}} Stealthsuit <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Stealthsuit <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Provides two assets to stealth tasks.
 
-**{{< columns2 >}} Swimsuit, hydrodynamic <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Swimsuit, hydrodynamic <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Next-generation materials repel water, increase oxygen consumption, and shape swimmer's body to better swimming ideal; provides two free levels of Effort to swimming tasks.
 
-**{{< columns2 >}} Space suit, deluxe <---> level 5 (15) <---> Very Expensive x2 {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Space suit, deluxe <---> level 5 (15) <---> Very Expensive x2 {{< /columns2 >}} {{< /hint >}}
 
 As space suit, but deluxe and durable. A deluxe suit features built-in recyclers granting air, water, and nutrition for about a week of continuous use. Microthrusters allow for continuous zero-G maneuvering over a period of ten minutes, or even more if air reserves are tapped (which depletes them). If the suit is breached because of external damage, self-sealing tech limits repercussions described in Taking Damage in a Space Suit to just a round or two, assuming the breach is not catastrophically large.
 
@@ -1754,41 +1754,41 @@ Taking damage while protected from the effects of vacuum in a space suit (or saf
 
 #### Advanced Armor
 
-**{{< columns2 >}} Armored bodysuit <---> level 4 (12) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Armored bodysuit <---> level 4 (12) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Functions as medium armor (+2 Armor), encumbers as if not wearing any armor.
 
-**{{< columns2 >}} Body armor, lightweight <---> level 4 (12) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Body armor, lightweight <---> level 4 (12) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Functions as heavy armor (+3 Armor), encumbers as if wearing medium armor.
 
-**{{< columns2 >}} Paint-on impact armor <---> level 5 (15) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Paint-on impact armor <---> level 5 (15) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Not armor; offers +1 to Armor, applied by spraying nanosolution from spray applicator over clothing and skin, lasts ten minutes; each applicator depletes 1 in 1d10 uses.
 
-**{{< columns2 >}} Battlesuit <---> level 5 (15) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Battlesuit <---> level 5 (15) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Functions as heavy armor (+3 Armor), also grants the benefit of a deluxe space suit.
 
-**{{< columns2 >}} Holobit <---> level 5 (15) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Holobit <---> level 5 (15) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Not armor; wearable device projects an offset hologram of the wearer, providing an asset to Speed defense tasks.
 
-**{{< columns2 >}} Battlesuit, deluxe <---> level 6 (18) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Battlesuit, deluxe <---> level 6 (18) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 As battlesuit, but with armor and power assist; the battlesuit grants an additional +1 to Armor in addition to the 3 Armor that heavy armor usually offers, and encumbers as medium armor. Armor rating also applies to damage that often isn't reduced by typical armor, such as heat or cold damage (but not Intellect damage).
 
 #### Fantasic
 
-**{{< columns2 >}} Breather, vacuum <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Breather, vacuum <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Facemask generates a variable forcefield around wearer that provides comfortable temperature and atmo to wearer in poisonous atmospheres, underwater, or in vacuum, for several hours, even without a space suit.
 
-**{{< columns2 >}} Bounding boots <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Bounding boots <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Gravity-assist boots provide two free levels for Effort for jumping and running tasks. In addition, wearer can fall from any height safely if prepared for the descent.
 
-**{{< columns2 >}} Cloak, chameleon <---> level 5 (15) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Cloak, chameleon <---> level 5 (15) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Renders wearer essentially invisible save for hardly-noticeable distortions for up to ten minutes. Provides one asset and one free level of Effort to stealth tasks.
 
@@ -1796,171 +1796,157 @@ An ability granting a free level of Effort usually must be unlocked by the appli
 
 #### Fantasic Armor
 
-**{{< columns2 >}} Force field, quick <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Force field, quick <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Not armor; belt generates an almost transparent force field to surround the user for up to one hour, providing +1 Armor. Once used, must be recharged for several hours.
 
-**{{< columns2 >}} Cloak, impact <---> level 5 (15) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Cloak, impact <---> level 5 (15) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Fashionable cloak with attached hood. If the wearer is subjected to a physical or energy attack, the garment strategically hardens, functioning as heavy armor (+3 Armor), and encumbering as light armor.
 
-**{{< columns2 >}} Cloak, reflective <---> level 6 (18) <---> Very Expensive x2  {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Cloak, reflective <---> level 6 (18) <---> Very Expensive x2  {{< /columns2 >}} {{< /hint >}}
 
 As chameleon cloak, but also reflects energy attacks back on attacker if PC succeeds on their defense task.
 
-**{{< columns2 >}} Battle armor <---> level 6 (18) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Battle armor <---> level 6 (18) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
-As battlesuit, but grants an additional +3 to Armor in addition to the 3 Armor, and
+As battlesuit, but grants an additional +3 to Armor in addition to the 3 Armor, and encumbers as light Armor. In addition, the wearer gains +1 to their Might Edge and +5 to their Might Pool.
 
-encumbers as light Armor. In addition, the wearer gains +1 to their Might Edge and +5 to
-
-their Might Pool.
-
-**{{< columns2 >}} Force field, omni <---> level 6 (18) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Force field, omni <---> level 6 (18) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 As quick force field, but permanent while active, requires no recharge period. In addition, the wearer can tune the field so that it's hazed and translucent, hiding their identity, or make it fully dark so that it emits no light (though they can see through the field normally).
 
-**{{< columns2 >}} Kinetic ring <---> level 6 (18) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Kinetic ring <---> level 6 (18) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 Ring reactively projects a powerful energy field to deflect or slow projectiles, easing the wearer's Speed defense roll. If the projectile still hits the wearer, the field grants +1 to Armor against the attack.
 
-**{{< columns2 >}} Gun armor <---> level 6 (18) <---> Exorbitant x2 {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Gun armor <---> level 6 (18) <---> Exorbitant x2 {{< /columns2 >}} {{< /hint >}}
 
-As battle armor, but armor includes a deployable integrated long-range plasma weapon that inflicts 6 points of damage. It's able to fire autonomously, allowing the wearer to take some
+As battle armor, but armor includes a deployable integrated long-range plasma weapon that inflicts 6 points of damage. It's able to fire autonomously, allowing the wearer to take some other action (though if set to do so, automatic GM intrusions occur on 1–3 on a d20, and if triggered, result in friendly fire).
 
-other action (though if set to do so, automatic GM intrusions occur on 1–3 on a d20, and if
-
-triggered, result in friendly fire).
-
-UTILITY GEAR
+### Utility Gear
 
 #### Contemporary
 
-**{{< columns2 >}} Duct tape roll <---> level 1 (3) <---> Inexpensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Duct tape roll <---> level 1 (3) <---> Inexpensive {{< /columns2 >}} {{< /hint >}}
 
 Practical uses range from providing an asset to healing tasks to making temporary shoes,
 
 and much more.
 
-**{{< columns2 >}} Flashlight <---> level 1 (3) <---> Inexpensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Flashlight <---> level 1 (3) <---> Inexpensive {{< /columns2 >}} {{< /hint >}}
 
 Provides light where pointed within short range for a few hours before requiring new batteries/a charge.
 
-**{{< columns2 >}} Padlock with keys <---> level 3 (9) <---> Inexpensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Padlock with keys <---> level 3 (9) <---> Inexpensive {{< /columns2 >}} {{< /hint >}}
 
 Padlocks aren't too difficult to remove, especially with bolt cutters, but they do slow down would-be thieves.
 
-**{{< columns2 >}} Backpack <---> level 2 (6) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Backpack <---> level 2 (6) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 A quality, well-packed backpack can carry a surprising amount of gear, including a sleeping bag.
 
-**{{< columns2 >}} Bolt cutters <---> level 3 (9) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Bolt cutters <---> level 3 (9) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 Enables and eases tasks to cut through metal bars.
 
-**{{< columns2 >}} Climbing gear <---> level 3 (9) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Climbing gear <---> level 3 (9) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 Enables and eases tasks to climb buildings or cliffs. Includes 15 m (50 feet) of nylon rope.
 
-**{{< columns2 >}} Crowbar <---> level 3 (9) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Crowbar <---> level 3 (9) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 Enables and eases tasks to force open stuck or barred doors.
 
-**{{< columns2 >}} Electric lantern <---> level 3 (9) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Electric lantern <---> level 3 (9) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 Provides bright light within 9 m (30 feet) for several hours before requiring new batteries/a charge.
 
-**{{< columns2 >}} Lockpick set <---> level 3 (9) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Lockpick set <---> level 3 (9) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 Asset to picking mechanical locks.
 
-**{{< columns2 >}} Restraint <---> level 3 (9) <---> Moderate/Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Restraint <---> level 3 (9) <---> Moderate/Expensive {{< /columns2 >}} {{< /hint >}}
 
 Moderately priced non-novelty cuffs restrain targets at the wrists, hindering tasks to break free by two steps. Straitjackets wrap a target more securely, hindering tasks to break free by three steps.
 
-**{{< columns2 >}} Sleeping bag <---> level 3 (9) <---> Moderate/Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Sleeping bag <---> level 3 (9) <---> Moderate/Expensive {{< /columns2 >}} {{< /hint >}}
 
 Moderately priced bags are suitable for temperatures down to –4°C (24°F); expensive down to –29°C (–20°F).
 
-**{{< columns2 >}} Tent <---> level 3 (9) <---> Moderate/Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Tent <---> level 3 (9) <---> Moderate/Expensive {{< /columns2 >}} {{< /hint >}}
 
 Moderately priced tents are for one or two people; expensive tents can sleep four to six people.
 
-**{{< columns2 >}} Tools, general <---> level 3 (9) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Tools, general <---> level 3 (9) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 All-purpose tools include a utility knife, tape measure, pliers, small hammer, variable screwdriver, and level.
 
-**{{< columns2 >}} Tools, specialized <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Tools, specialized <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
-A set of specialized tools are custom-selected for a specific task, such as carpentry,
+A set of specialized tools are custom-selected for a specific task, such as carpentry, mechanical repair, or electronics. Specialized tools provide an asset to the task they're suited for.
 
-mechanical repair, or electronics. Specialized tools provide an asset to the task they're
+{{< hint debug >}} {{< columns2 >}} Disguise kit <---> level 3 (9) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
-suited for.
-
-**{{< columns2 >}} Disguise kit <---> level 3 (9) <---> Very Expensive {{< /columns2 >}}**
-
-Contains hair dye, cosmetics, a few hair pieces, and other small props; using a kit takes a
-
-few minutes but grants an asset to tasks related to disguise and impersonation.
+Contains hair dye, cosmetics, a few hair pieces, and other small props; using a kit takes a few minutes but grants an asset to tasks related to disguise and impersonation.
 
 #### Advanced
 
-**{{< columns2 >}} Everlight <---> level 3 (9) <---> Inexpensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Everlight <---> level 3 (9) <---> Inexpensive {{< /columns2 >}} {{< /hint >}}
 
 As flashlight, but radioisotope power cell allows the light to shine a bright light up to a very long distance for arbitrary lengths of time.
 
-**{{< columns2 >}} Tent, environment <---> level 3 (9) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Tent, environment <---> level 3 (9) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 As tent, but filters out poisonous atmospheres. Can be used in vacuum in an emergency for a few hours of air, but the taut fabric is given to tearing (GM intrusions triggered by rolling a 1 on d20 cause it to rip).
 
-**{{< columns2 >}} Repair tape roll <---> level 4 (12) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Repair tape roll <---> level 4 (12) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 As duct tape, but programmable matter embedded in fabric provides two assets to all tasks related to repair using the tape and taping things together. Each roll has about ten uses.
 
-**{{< columns2 >}} Self-extending rope <---> level 4 (12) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Self-extending rope <---> level 4 (12) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Mechanism prints fiber on the fly, allowing the rope to extend over 300 m (1,000 feet).
 
-**{{< columns2 >}} Surelock <---> level 5 (15) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Surelock <---> level 5 (15) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 As padlock with keys, but can be attached to secure any opening by forming a level 8 bond with any surface; attempts to pick or otherwise open the lock are hindered by three steps.
 
-**{{< columns2 >}} Lock infiltrator <---> level 5 (15) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Lock infiltrator <---> level 5 (15) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Advanced tech electronic and digital locks are amazingly advanced---so is this item that provides an asset to picking them (including a surelock).
 
-**{{< columns2 >}} Exo-hand <---> level 5 (15) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Exo-hand <---> level 5 (15) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 A fully functional prosthetic arm and hand, which could replace a lost limb, or be wired into user's nervous system, which gives the user an additional gripping appendage useful in a variety of situations where other people would have their hands full. Attacks (and other tasks requiring precise dexterity) made with an exo-hand are hindered by two steps.
 
-**{{< columns2 >}} Fusion battery <---> level 5 (15) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Fusion battery <---> level 5 (15) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 This mobile fusion power source (with metal handles for easy transport) masses about 30 kg (70 pounds); it generates power through fusion. Provides power to nearly any device short of a spacecraft for a variable period depending on power requirements.
 
-**{{< columns2 >}} Fusion torch <---> level 5 (15) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Fusion torch <---> level 5 (15) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Cuts through substances of up to level 9 after a few rounds of application.
 
-**{{< columns2 >}} 4D printer <---> level 5 (15) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} 4D printer <---> level 5 (15) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 Prints a variety of basic objects, including protein bars, parts, wires, tools, and even small powered devices and equipment of up to level 4 and that are expensive or less. Requires special feedstock, which is an expensive cost to replace after every dozen or so uses, though items printed by the 4D printer can be recycled, extending the feedstock supply accordingly. Many long-haul spacecraft seek to obtain a 4D printer because having one significantly reduces the amount of material that must otherwise be carried.
 
 #### Fantasic
 
-**{{< columns2 >}} Carryall pack <---> level 5 (15) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Carryall pack <---> level 5 (15) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 As backpack, but dimensional folding allows for an arbitrary number of objects to be stored inside, so long as they fit the carryall pack's 60 cm (2 foot) diameter mouth.
 
-**{{< columns2 >}} Gravity regulator <---> level 5 (15) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Gravity regulator <---> level 5 (15) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Belt-mounted device that regulates gravity to 1 G for wearer if within zero G to 3 G.
 
-**{{< columns2 >}} Molecular joiner <---> level 5 (15) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Molecular joiner <---> level 5 (15) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Handheld device causes the molecules of two touching physical surfaces of up to level 8 to truly blend, forming a seamless bond stronger than even the most advanced glue.
 
-**{{< columns2 >}} Programmable suitcase <---> level 6 (18) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Programmable suitcase <---> level 6 (18) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 Large metallic suitcase composed of programmable matter that, with instruction, can convert itself into nearly any object or piece of equipment of an equal or lower level or price, excluding artifacts and manifest cyphers. The replicated object can be converted back to its base state as a separate action.
 
@@ -1970,93 +1956,93 @@ Health care is too broad a topic to cover in depth. However, for purposes of on-
 
 #### Contemporary
 
-**{{< columns2 >}} Trail rations (1 day) <---> level 1 (3) <---> Inexpensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Trail rations (1 day) <---> level 1 (3) <---> Inexpensive {{< /columns2 >}} {{< /hint >}}
 
-**{{< columns2 >}} First aid kit <---> level 2 (6) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} First aid kit <---> level 2 (6) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 Kit of bandages, antibiotics, and similar supplies; provides an asset to healing tasks.
 
-**{{< columns2 >}} Military-grade field dressing <---> level 3 (9) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Military-grade field dressing <---> level 3 (9) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Bandage with antimicrobial, analgesic, hemostatic, and temporary skin substitute qualities that can raise a victim one step of the damage track if damage was due to a wound.
 
 #### Advanced
 
-**{{< columns2 >}} Cold sober <---> level 2 (6) <---> Inexpensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Cold sober <---> level 2 (6) <---> Inexpensive {{< /columns2 >}} {{< /hint >}}
 
 Chewable tablet that speeds the breakdown of blood alcohol while also dissolving the toxic breakdown products of natural alcohol processing, leaving a user sober and free of a hangover within ten minutes.
 
-**{{< columns2 >}} Instabulb, coffee <---> level 3 (9) <---> Inexpensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Instabulb, coffee <---> level 3 (9) <---> Inexpensive {{< /columns2 >}} {{< /hint >}}
 
 Coin-like disc; percolates and swells when water is added, becoming a sealed bulb filled with aromatic hot coffee. Other beverages can be had in the same form factor, suitable for travel and drinking in zero G.
 
-**{{< columns2 >}} Mega bar <---> level 3 (9) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Mega bar <---> level 3 (9) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 As trail rations, but bar either provides enough nutrition for one day of food or one free recovery roll.
 
-**{{< columns2 >}} Serum, remedial <---> level 3 (9) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Serum, remedial <---> level 3 (9) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 "Serum" is an often-used term for an ampule of artificially engineered blood and plasma that provides some kind of benefit. Serums of all types are generally dispensed from an autodoc, but may also be obtained as individual units, or in packs or cases. An ampule of remedial serum grants the user 3 points they can add to any Pool. It also has the benefit of relieving hangover symptoms.
 
-**{{< columns2 >}} Serum, space-fit <---> level 4 (12) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Serum, space-fit <---> level 4 (12) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 As remedial serum, but protects against the two most common dangers to human physiology from extended trips into space and long-term exposure to zero G and radiation, which most notably include DNA breakage from cosmic rays and bone and muscle deterioration from microgravity. An ampule of space-fit serum lasts for about a month.
 
-**{{< columns2 >}} Serum, acceleration <---> level 4 (12) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Serum, acceleration <---> level 4 (12) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 As remedial serum, but allows user to ignore the many deleterious physiological effects of acceleration and high-G maneuvers (of up to 15 Gs) for one hour (or of up to 20 Gs for a few minutes). Users are likely unable to move under high G, but won't pass out, have a stroke, cardiac arrest, etc.---at least, not immediately. Prolonged use may still lead to all these outcomes.
 
-**{{< columns2 >}} Serum, antivenom <---> level 4 (12) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Serum, antivenom <---> level 4 (12) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 As remedial serum, but grants a Might task eased by four steps to withstand and clear poison from the user's system and provides similar poison resistance for one day.
 
-**{{< columns2 >}} Sleep set <---> level 4 (12) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Sleep set <---> level 4 (12) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 A thin metallic (but comfortable, padded) headset that rests on the temples and induces a deep (dreamless) sleep state for a specified period, usually no more than three to six hours. Fail-safes can be set to bring a user out of sleep if loud noises, movement, someone addresses the sleeper, or other triggers occur. Users find themselves extremely well rested after each use.
 
-**{{< columns2 >}} Transplant, organ or limb <---> level 4 (12) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Transplant, organ or limb <---> level 4 (12) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 If an autodoc or more advanced facility is available, a lost limb or organ can be replaced. Replaced limbs eventually become equally effective as the original, with practice. However, the mechanical (or possibly force-grown) prosthetic limbs initially hinders all physical tasks attempted using it for several weeks.
 
-**{{< columns2 >}} Autodoc, mobile <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Autodoc, mobile <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Pack-sized kit that eases any healing task, or up to four free recovery rolls. Also usually has a variety of serum types. (Each use requires a depletion roll of 1 on a d10; if depleted, autodoc supplies are used up, and it must be refilled as an expensive cost.)
 
-**{{< columns2 >}} Hibernation pod <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Hibernation pod <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 A pod large enough to contain a human, with internal mechanisms and power able to safely put a person into a deep state of arrested metabolism for about a hundred years, unless the program ends sooner or the pod is opened from the exterior. Each hundred years thereafter, the hibernating human must succeed on a Might defense task. The difficulty begins at 1, but increases by +1 every few hundred years that pass.
 
-**{{< columns2 >}} Omnichair <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Omnichair <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Provides user full mobility via combination of micro thrusters, retractable wheels, and maglev levitation in all environments (from microgravity to full gravity), often contains a variety of tools and enhancements that grant the user assets to common tasks (possibly including a built-in weapon system). If customized to do so for an additional very expensive cost, can extend a fairing, enabling the omnichair to act as a sort of space suit/miniature spacecraft at need.
 
-**{{< columns2 >}} Autodoc <---> level 5 (15) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Autodoc <---> level 5 (15) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 As mobile autodoc, but fixed in place (suitable for a starcraft or station sickbay), and grants essentially unlimited recovery rolls or serum injections to anyone who spends at least an hour immobilized on the autodoc med table, even for the most minor of treatments.
 
 #### Fantasic
 
-**{{< columns2 >}} Nano tab, general <---> level 4 (12) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Nano tab, general <---> level 4 (12) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Any of a variety of pill-like concentrations of nano-scale robots designed to activate once taken by mouth. Nano tab pills are usually designed for health interventions, though some also provide additional physical benefits. A general-use nano tab adds 1 to all recovery rolls made by user for one day.
 
-**{{< columns2 >}} Nano tab, rejuvenator <---> level 5 (15) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Nano tab, rejuvenator <---> level 5 (15) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 As general nano tab, but refills 4 points to 1 Pool and raises user one step on damage track.
 
-**{{< columns2 >}} Stasis pod <---> level 5 (15) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Stasis pod <---> level 5 (15) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 As hibernation pod, but suspends time for target indefinitely, until program ends or pod is opened.
 
-**{{< columns2 >}} Nano tab, acceleration <---> level 6 (18) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Nano tab, acceleration <---> level 6 (18) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 As general nano tab, but permanently grants the benefits of an ampule of acceleration serum.
 
-**{{< columns2 >}} Nano tab, space-fit <---> level 6 (18) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Nano tab, space-fit <---> level 6 (18) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 As general nano tab, but permanently grants the benefits of an ampule of space-fit serum.
 
-**{{< columns2 >}} Nano tab, immolating <---> level 7 (21) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Nano tab, immolating <---> level 7 (21) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 As general nano tab, but explosively distributes nano-threads deep into the body, turning it into mostly weaponry, effectively granting five posthuman upgrade power shifts. However, this quickly burns out the user, who dies within a solar standard month.
 
@@ -2064,71 +2050,71 @@ As general nano tab, but explosively distributes nano-threads deep into the body
 
 #### Contemporary
 
-**{{< columns2 >}} Electronic assistant <---> level 2 (6) <---> ---/Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Electronic assistant <---> level 2 (6) <---> ---/Moderate {{< /columns2 >}} {{< /hint >}}
 
 Anyone with a smartphone has some kind of built-in electronic assistant, though stand-alone versions can be had. Electronic assistants are voice activated and tie into the internet and any other connected systems, such as lights, door locks, furnaces, music speakers, and more.
 
-**{{< columns2 >}} House robot <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} House robot <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Any number of small automated devices that can vacuum, mop, or conduct similar routine tasks in a limited area. Includes embodied electronic assistants with some mobility, such as Jibo.
 
-**{{< columns2 >}} PackBot <---> level 3 (9) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} PackBot <---> level 3 (9) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 An autonomous mobile robot that moves on treads, which can also be remote controlled. Useful in situations where humans would be endangered, such as bomb disposal, hazmat, search, and reconnaissance. It can climb stairs, drive through mud, and operate in all-weather conditions.
 
-**{{< columns2 >}} Surveillance drone <---> level 3 (9) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Surveillance drone <---> level 3 (9) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 An autonomous flying robot, which can also be remote controlled. Can record or relay its environment to distant controllers. An upgrade into the priceless category allows one to carry two or more self-guiding missiles that inflict 12 points of damage and drop unprotected targets two steps on the damage track.
 
 #### Advanced
 
-**{{< columns2 >}} Auton <---> level 1 (3) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Auton <---> level 1 (3) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 The generic term "auton" refers to a smart robot, one able to exist in the world as a full-fledged entity, though not nearly so competent as a true AI. On the other hand, autons come very close to having self-awareness, and some have probably achieved it. The variety of autons is staggering, given that they can be trained in nearly any task. Autons also come in a variety of shapes and colors, which vary based on culture and tech level. Though most can move on treads or legs to follow their owners as directed, some autons are housed in drone-like chassis using either rotors or microthrusters, allowing them to fly rather than move on the ground. Treat a basic auton as a level 1 follower, which allows the auton modifications in one task.
 
-**{{< columns2 >}} Auton, aide <---> level 2 (6) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Auton, aide <---> level 2 (6) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Treat as a level 2 follower, which allows the auton modifications in up to two tasks, depending on the particular aide.
 
-**{{< columns2 >}} Auton, medical <---> level 2 (6) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Auton, medical <---> level 2 (6) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 As auton, but one modification is always healing. A medical auton also incorporates a mobile autodoc.
 
-**{{< columns2 >}} Auton, defense <---> level 2 (6) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Auton, defense <---> level 2 (6) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 As auton, but one modification is always Speed defense, which means when helping to defend a target from a physical attack, the target eases the task by two steps. A defense auton also has 3 Armor.
 
-**{{< columns2 >}} Auton, military drone <---> level 2 (6) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Auton, military drone <---> level 2 (6) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 As defense auton or warrior auton, but miniaturized and able to fly in gravity to support owner.
 
-**{{< columns2 >}} Auton, warrior <---> level 2 (6) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Auton, warrior <---> level 2 (6) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 As auton, but one modification is always in attacks, which means when helping a target to make an attack, the target eases the task by two steps. However, warrior autons usually attack autonomously as level 3 entities with a ranged or melee weapon that inflicts 5 points of damage.
 
-**{{< columns2 >}} Shipmind <---> level 3 (9) <---> Exorbitant x2 {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Shipmind <---> level 3 (9) <---> Exorbitant x2 {{< /columns2 >}} {{< /hint >}}
 
 A shipmind is a sim AI that exists within a single spacecraft or starship, with the ability to control many aspects of vehicle functions as necessary to supplement a crew, or sometimes in lieu of a crew. Shipminds each have their own simulated personality, emulating consciousness, though in most cases, they are not actually conscious. Having a shipmind installed on a spacecraft is immensely helpful, as it can oversee many basic functions. A shipmind usually accomplishes tasks at the level of the ship in which it is installed.
 
 #### Fantasic
 
-**{{< columns2 >}} Synth <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Synth <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Synths are a blend of biological and mechanical parts so advanced that in some cases it's impossible to tell the difference between a living creature and a synth. They are strong AIs in physical bodies. Other varieties of synths are constructed (or have modified themselves) to make it obvious they are not biological. In any case, synths are often sturdier and longer lasting than an average biological entity. Even so, in some settings, synths are relegated to being servitors, as if they were simple robots and autons. In other settings, a few, some, or all humans have long ago migrated into synth bodies, leaving their biology behind in prehistory, and becoming posthuman. Treat as a level 3 follower, which allows the synths modifications in up to three tasks, depending on the particular synth. At minimum, all synths have 2 Armor and regain 1 point of lost health per round if damaged.
 
-**{{< columns2 >}} Synth, companion <---> level 4 (12) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Synth, companion <---> level 4 (12) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 As synth, but treat as a level 4 follower, which allows the synths modifications in up to four tasks.
 
-**{{< columns2 >}} Synth, free <---> level 5 (15) <---> Expensive\* {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Synth, free <---> level 5 (15) <---> Expensive\* {{< /columns2 >}} {{< /hint >}}
 
 As companion synth, but with modifications for up to five tasks. \*A free synth usually can't be purchased, by definition, but can be hired on a contract basis, as an expensive cost for each week of service required.
 
-**{{< columns2 >}} Wardroid <---> level 6 (18) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Wardroid <---> level 6 (18) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 As free synth, but outfitted for war, including modifications in attack and defense. A wardroid often has many additional customizations and abilities.
 
-**{{< columns2 >}} Synth, infiltrator <---> level 7 (21) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Synth, infiltrator <---> level 7 (21) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 As free synth, but with modifications focusing on stealth, disguise, and tasks related to gaining entry to guarded locations for purposes of spying or assassination. Synth infiltrators have systems that allow them to change their apparent (or even actual) shape completely over the course of a minute to appear as another creature or innocuous object.
 
@@ -2138,15 +2124,15 @@ Occasional recreation is absolutely necessary to maintain stable relationships a
 
 #### Contemporary
 
-**{{< columns2 >}} Book <---> level 2 (6) <---> Inexpensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Book <---> level 2 (6) <---> Inexpensive {{< /columns2 >}} {{< /hint >}}
 
 Print, digital, or audio; once perused for at least ten minutes, grants an asset to relaxation tasks.
 
-**{{< columns2 >}} Card/tabletop/digital game <---> level 2 (6) <---> Inexpensive/Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Card/tabletop/digital game <---> level 2 (6) <---> Inexpensive/Moderate {{< /columns2 >}} {{< /hint >}}
 
 Suitable for passing the time and building bonds between friends and strangers alike.
 
-**{{< columns2 >}} Alcohol/drugs <---> level 2 (6) <---> Inexpensive/Moderate/Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Alcohol/drugs <---> level 2 (6) <---> Inexpensive/Moderate/Expensive {{< /columns2 >}} {{< /hint >}}
 
 Common intoxicants taken in moderation can raise spirits, easing tasks related to social interaction while at the same time hindering tasks related to perception and physical coordination. Excessive amounts cancel out the benefit to social interaction and hinder all tasks by two or more steps, making even routine tasks a challenge. Extended excessive use can lead to addiction, a long-term disease difficult to recover from.
 
@@ -2154,21 +2140,21 @@ Other kinds of drugs have a different ease and hinder profile. For example, the 
 
 #### Advanced
 
-**{{< columns2 >}} Sidekick sphere <---> level 2 (6) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Sidekick sphere <---> level 2 (6) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 Circuit-inscribed, and jauntily decorated, smart-material sphere about 1 m (3 feet) in diameter that rolls or jumps to stay within an immediate distance of owner. Capable of playing music, pulsing with light, engaging in witty conversation, and in keeping confidence. Treat the sidekick sphere as a level 2 follower (and limited sim AI).
 
-**{{< columns2 >}} Tattoo, programmable <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Tattoo, programmable <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 With time and talent, someone with a programmable tattoo implant can completely alter the designs that appear on their skin, modifying lines and color. A small alteration requires only a few rounds, but a full-body tattoo change, assuming any artistry at all is involved, may take a few days to complete.
 
 #### Fantasic
 
-**{{< columns2 >}} Tattoo, living <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Tattoo, living <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 As programmable tattoo, but images can be animated to run in a loop, or visually respond with limited reactivity to certain audible or other cues. Some come implanted with sim AIs for conversation and interaction.
 
-**{{< columns2 >}} Pleasure bit <---> level 4 (12) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Pleasure bit <---> level 4 (12) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Handheld device emits magnetic induction field that activates the reward circuit in the user's brain, creating sudden ecstasy and joy for a pre-set period of time. Addiction is possible, though better models have an ebbing mode that helps put users back into their right minds gradually.
 
@@ -2188,17 +2174,17 @@ Or you can just not worry about keeping track of ammunition, especially in games
 
 #### Contemporary
 
-**{{< columns2 >}} Ammo (box of 50 rounds) <---> level 1 (3) <---> Inexpensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Ammo (box of 50 rounds) <---> level 1 (3) <---> Inexpensive {{< /columns2 >}} {{< /hint >}}
 
 Caliber varies by specific firearm, used in most contemporary ranged weapons
 
 #### Advanced/Fantastic
 
-**{{< columns2 >}} Energy pack (50 shots) <---> level 1 (3) <---> Inexpensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Energy pack (50 shots) <---> level 1 (3) <---> Inexpensive {{< /columns2 >}} {{< /hint >}}
 
 Watt-hours (Wh) varies by specific energy weapon, used in most advanced and fantastic ranged weapons.
 
-**{{< columns2 >}} Smart rounds (box of 4 rounds) <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Smart rounds (box of 4 rounds) <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 A smart round can be used to make one normal attack plus up to 3 additional ricochet attacks on targets within short range of the attacker and each other as one action. Each ricochet attack successively increases the GM intrusion range by 2. If a GM intrusion is triggered, the ricochet attack hits something other than what the attacker intended, such as an important system or ally.
 
@@ -2210,51 +2196,51 @@ Any weapon that a character must use by swinging or stabbing at a target within 
 
 #### Contemporary
 
-**{{< columns2 >}} Knife, simple <---> level 1 (3) <---> Inexpensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Knife, simple <---> level 1 (3) <---> Inexpensive {{< /columns2 >}} {{< /hint >}}
 
 Light weapon (2 damage, difficulty of attack is eased); breaks on attack roll of 1–2.
 
-**{{< columns2 >}} Knife, hunting <---> level 2 (6) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Knife, hunting <---> level 2 (6) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 Light weapon (2 damage, difficulty of attack is eased).
 
-**{{< columns2 >}} Machete <---> level 2 (6) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Machete <---> level 2 (6) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 Medium weapon (4 damage).
 
-**{{< columns2 >}} Nightstick <---> level 2 (6) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Nightstick <---> level 2 (6) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 Medium weapon (4 damage).
 
-**{{< columns2 >}} Broad sword, replica <---> level 2 (6) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Broad sword, replica <---> level 2 (6) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Heavy weapon (6 damage, requires both hands to wield).
 
-**{{< columns2 >}} Stun "gun" <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Stun "gun" <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Handheld device with two prongs that must contact target; light weapon (2 points of electrical damage, difficulty of attack is eased, and on additional failed Might defense roll, target is dazed 1 round).
 
 #### Advanced
 
-**{{< columns2 >}} Power fist <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Power fist <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Power-assist gauntlet; medium weapon (but inflicts 6 points of damage from power-assist).
 
-**{{< columns2 >}} Stunstick <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Stunstick <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Nightstick-like form factor; medium weapon (variable setting: 0, 2, 4, or 6 points of damage; if setting is set to 2 or fewer hit points, human-sized target or smaller loses their next turn).
 
-**{{< columns2 >}} Mono-molecular blade <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Mono-molecular blade <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Produces a 15 cm (6 inch) wire–like blade that cuts through any material of up to level 4; light weapon (2 damage, difficulty of attack is eased). It ignores 1 point of Armor value (except from force fields).
 
-**{{< columns2 >}} Stunring <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Stunring <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 As stunstick, but light weapon (difficulty of attack is eased) worn as a set of two rings on the same hand; punch target to use.
 
 #### Fantasic
 
-**{{< columns2 >}} Plasma saber <---> level 5 (15) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Plasma saber <---> level 5 (15) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 Produces a 1 m (3 foot) blade of sun-hot plasma that cuts through any material of up to level 7. Can be wielded as either a medium weapon in one hand or as a heavy weapon in two hands (4 damage or 6 damage). It ignores 3 points of a target's Armor (except from force fields).
 
@@ -2264,129 +2250,129 @@ Any weapon that fires a projectile or other destructive force at a target within
 
 #### Contemporary
 
-**{{< columns2 >}} Bow <---> level 2 (6) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Bow <---> level 2 (6) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 Medium weapon (4 damage), long range.
 
-**{{< columns2 >}} Hand grenade <---> level 3 (9) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Hand grenade <---> level 3 (9) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 Single use; can be thrown a short distance; explodes to inflict 6 points of damage in an immediate radius.
 
 In modern and nearfuture settings, hand grenades are usually difficult to come by unless a character has a shady connection.
 
-**{{< columns2 >}} Rifle, low caliber <---> level 2 (6) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Rifle, low caliber <---> level 2 (6) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 Medium weapon but requires both hands (4 damage), long range.
 
-**{{< columns2 >}} Handgun, light <---> level 2 (6) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Handgun, light <---> level 2 (6) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Light weapon (2 damage, difficulty of attack is eased), short range.
 
-**{{< columns2 >}} Handgun, medium <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Handgun, medium <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Medium weapon (4 damage), long range.
 
-**{{< columns2 >}} Shotgun <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Shotgun <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Heavy weapon (6 damage, both hands), immediate range.
 
-**{{< columns2 >}} Handgun, heavy <---> level 3 (9) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Handgun, heavy <---> level 3 (9) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Heavy weapon (6 damage, both hands), long range.
 
-**{{< columns2 >}} Rifle, assault <---> level 3 (9) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Rifle, assault <---> level 3 (9) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Heavy weapon (6 damage, both hands), long range. This rapid-fire weapon can operate in conjunction with Spray or Arc Spray abilities.
 
-**{{< columns2 >}} Rifle, heavy <---> level 3 (9) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Rifle, heavy <---> level 3 (9) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Heavy weapon (6 damage, both hands), very long range.
 
-**{{< columns2 >}} Submachine gun <---> level 3 (9) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Submachine gun <---> level 3 (9) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Medium weapon (4 damage), short range. This rapid-fire weapon can operate in conjunction with Spray or Arc Spray abilities.
 
-**{{< columns2 >}} Taser <---> level 3 (9) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Taser <---> level 3 (9) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Handheld device that fires attached probe at target within 9 m (30 feet); medium weapon (4 points of electrical damage and on a failed Might defense roll, target is stunned for 1 round, losing their next action).
 
 #### Advanced
 
-**{{< columns2 >}} Grenade, sonic <---> level 4 (12) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Grenade, sonic <---> level 4 (12) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 Single use; can be thrown a short distance; explodes to inflict 2 points of damage in immediate radius. On a failed Might defense roll, targets lose their next turn.
 
-**{{< columns2 >}} Grenade, thermite <---> level 4 (12) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Grenade, thermite <---> level 4 (12) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 Single use; can be thrown a short distance; explodes to inflict 6 points of damage in immediate radius. On a failed Might defense roll, targets burn for 2 points of damage each round until they spend a round smothering the fire.
 
-**{{< columns2 >}} Laser/photon pistol <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Laser/photon pistol <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Handgun fires coherent light beams; light weapon (2 damage, difficulty of attack is eased), long range.
 
-**{{< columns2 >}} Needler/syringer <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Needler/syringer <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Light weapon (2 damage, difficulty of attack is eased), long range. Injects soporific that dazes target on a successful Might defense roll for one minute, or puts them into a light sleep for one minute on a failed roll.
 
-**{{< columns2 >}} Vacuum handgun, heavy <---> level 3 (9) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Vacuum handgun, heavy <---> level 3 (9) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 As contemporary handgun, but uses special rounds designed to fire in a zero-oxygen environment, and that are self-propelling so firing this gun in zero or low gravity doesn't spin wielder backward.
 
-**{{< columns2 >}} Vacuum rifle, assault <---> level 3 (9) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Vacuum rifle, assault <---> level 3 (9) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 As contemporary assault rifle, but uses special rounds designed to fire in a zero-oxygen environment, and that are self-propelling so firing this assault rifle in zero or law gravity doesn't spin wielder backward.
 
-**{{< columns2 >}} Foam restraint rifle <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Foam restraint rifle <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Thick rifle emits a short-range stream of orange liquid that foams over a target and hardens into a body restraint that lasts for ten minutes. A restrained victim can't move or take actions that require movement. A target whose level is higher than the rifle's level can usually break free within one or two rounds.
 
-**{{< columns2 >}} Laser/photon rifle <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Laser/photon rifle <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Rifle fires coherent light beams; medium weapon but requires both hands (4 damage), very long range.
 
-**{{< columns2 >}} Grapple gun <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Grapple gun <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Medium weapon but requires both hands (1 damage), long range. Attaches articulated grapple and connected line to target; hinders animate targets until they can remove the grapple. Grapple gun mechanism either pulls gun wielder to anchored object, or vice versa if object is small. Otherwise, user must succeed on a Might-based task to pull target to them.
 
-**{{< columns2 >}} Laser/photon pulse rifle <---> level 4 (12) <---> Very Expensive x2 {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Laser/photon pulse rifle <---> level 4 (12) <---> Very Expensive x2 {{< /columns2 >}} {{< /hint >}}
 
 Rifle fires coherent light beams; heavy weapon (6 damage), long range. This rapid-fire weapon can operate in conjunction with Spray or Arc Spray abilities.
 
-**{{< columns2 >}} Rail gun <---> level 5 (15) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Rail gun <---> level 5 (15) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 Long-barreled rifle with computer sight assistance fires magnetically accelerated slugs; heavy-plus weapon (8 points of damage, both hands), range is 3,050 m (10,000 feet).
 
 #### Fantasic
 
-**{{< columns2 >}} Blaster, light <---> level 4 (12) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Blaster, light <---> level 4 (12) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Handgun that projects an energetic plasma-particle beam; light weapon (2 damage, difficulty of attack is eased), long range. It ignores 1 point of Armor value (except from force fields).
 
-**{{< columns2 >}} Blaster, medium <---> level 4 (12) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Blaster, medium <---> level 4 (12) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Handgun that projects an energetic plasma-particle beam; medium weapon (4 damage), long range. It ignores 1 point of Armor value (except from force fields).
 
-**{{< columns2 >}} Plasma grenade <---> level 4 (12) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Plasma grenade <---> level 4 (12) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Single use; can be thrown a short distance; explodes to inflict 8 points of damage in immediate radius and targets descend one step on the damage track. It ignores 2 points of Armor value (except from force fields).
 
-**{{< columns2 >}} Blaster, goggles <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Blaster, goggles <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Thick goggles that project twin energetic plasma-particle beams; light weapon (2 damage, difficulty of attack is eased), long range. It ignores 1 point of Armor value (except from force fields).
 
-**{{< columns2 >}} Blaster, heavy <---> level 5 (15) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Blaster, heavy <---> level 5 (15) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Big handgun that projects an energetic plasma-particle beam; heavy weapon (6 damage, both hands), long range. It ignores 1 point of Armor value (except from force fields).
 
-**{{< columns2 >}} Blaster, heavy rifle <---> level 5 (15) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Blaster, heavy rifle <---> level 5 (15) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Rifle that projects an energetic plasma-particle beam; heavy weapon (6 damage, both hands), very long range. It ignores 1 point of Armor value (except from force fields).
 
-**{{< columns2 >}} Blaster, heavy pulse rifle <---> level 5 (15) <---> Very Expensive x2 {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Blaster, heavy pulse rifle <---> level 5 (15) <---> Very Expensive x2 {{< /columns2 >}} {{< /hint >}}
 
 Rifle that projects an energetic plasma-particle beam; heavy weapon (6 damage, both hands), long range. This rapid-fire weapon can operate in conjunction with Spray or Arc Spray abilities. It ignores 1 point of Armor value (except from force fields).
 
-**{{< columns2 >}} Blaster, cannon <---> level 5 (15) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Blaster, cannon <---> level 5 (15) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 Cannon-like gun that requires a tripod and two people to operate that projects an energetic plasma-particle beam; heavy weapon (10 damage, both hands), very long range. This rapid-fire weapon can operate in conjunction with Spray or Arc Spray abilities. It ignores 2 points of Armor value (except from force fields).
 
@@ -2586,7 +2572,7 @@ Artifacts in a science fiction game can be strange relics from an unknown alien 
 
 **Vehicle:** Technically speaking, spacecraft are also vehicles. Unless it's important to make a distinction, assume all guidance here regarding "vehicles" also applies to spacecraft.
 
-Spacecraft (and Starship): When it is important to make a distinction from a simple vehicle restricted to the land, sea, or air of a single planet, the term "spacecraft" is used for vehicles that travel beyond a single planet's atmosphere. Some spacecraft can operate both in space and as planetary vehicles, as noted in their entries. Additionally, a spacecraft that has FTL capability (as opposed to only interplanetary capability within a single solar system) is referred to as a starship.
+**Spacecraft (and Starship):* When it is important to make a distinction from a simple vehicle restricted to the land, sea, or air of a single planet, the term "spacecraft" is used for vehicles that travel beyond a single planet's atmosphere. Some spacecraft can operate both in space and as planetary vehicles, as noted in their entries. Additionally, a spacecraft that has FTL capability (as opposed to only interplanetary capability within a single solar system) is referred to as a starship.
 
 ### Variable Cost By Tech Rating
 
@@ -2628,45 +2614,45 @@ Assuming the facilities are available, characters can pay for the customization 
 
 #### Contemporary
 
-**{{< columns2 >}} Motorcycle, dirt bike <---> level 2 (6) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Motorcycle, dirt bike <---> level 2 (6) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Knobby two-wheeled or three-wheeled vehicle, supporting a basic frame with a seat for one rider (and sometimes a passenger) open to the environment, ideal for wild terrain and off-road travel; moves a short distance each round in wild terrain or an average of 48 km/h (30 mph) during long-distance travel (double movement on paved surfaces).
 
-**{{< columns2 >}} Motorcycle, cruiser <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Motorcycle, cruiser <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Two-wheeled vehicle, supporting a stylish frame with a seat for one rider (and sometimes a passenger) open to the environment suitable for paved surfaces; moves a long distance each round on paved surfaces or an average of 96 km/h (60 mph) during long-distance travel.
 
 #### Advanced
 
-**{{< columns2 >}} Motorcycle, battle <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Motorcycle, battle <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Two-wheeled vehicle, supporting a reinforced, armored frame with a seat for one rider (and sometimes a passenger) partly open the environment, providing the rider Armor 2. Built-in weapons include a deployable swivel long-range machine gun that inflicts 8 points of damage. Auto-stabilization eases all tasks related to riding. Suitable for paved and broken surfaces; moves a long distance each round on paved and broken surfaces or an average of 144 km/h (90 mph) during long-distance travel.
 
-**{{< columns2 >}} Motorcycle, omni-terrain <---> level 3 (9) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Motorcycle, omni-terrain <---> level 3 (9) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Two-wheeled vehicle with telescoping spokes capable of adapting to nearly any terrain (except water or other liquids), supporting a basic frame with a seat for one rider (and sometimes a passenger) open to the environment, ideal for utterly wild terrain and off-road travel; able to "climb" natural steep and near-vertical surfaces. Auto-stabilization eases all tasks related to riding. Moves a long distance each round in any terrain or an average of 112 km/h (70 mph) during long-distance travel.
 
-**{{< columns2 >}} Vacuum cycle <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Vacuum cycle <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Two-wheeled vehicle, supporting a reinforced, lightly enclosed and pressurized frame with a seat for one rider (and sometimes a passenger), providing the rider Armor 1 (though if damage is taken, it's likely a breach has occurred). Auto-stabilization eases all tasks related to riding. Suitable for paved and broken surfaces on airless moons or in polluted or poisonous atmospheres; moves a long distance each round on paved and broken surfaces or an average of 80 km/h (50 mph) during long-distance travel.
 
 #### Fantastic
 
-**{{< columns2 >}} Hover speedster <---> level 5 (15) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Hover speedster <---> level 5 (15) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 A sweptback frame with a seat for one rider (and often a passenger) open to the environment, with anti-gravity repulsors allowing it to hover up to 2 m (6 feet) over any terrain (including water and other liquids), ideal for utterly wild terrain and over-water excursions. Auto-stabilization eases all tasks related to riding by two steps. Moves a very long distance each round in any terrain or an average of 240 km/h (150 mph) during long-distance travel.
 
-**{{< columns2 >}} Hard-light cycle <---> level 5 (15) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Hard-light cycle <---> level 5 (15) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Two-wheeled vehicle of hard light capable of adapting to most terrains, supporting a sleek reinforced, armored frame with a seat for one rider (and sometimes a passenger) partly open the environment, providing the rider Armor 1. Suitable for crossing above any surface via self-deploying light bridge, a 1 cm (3 inch) thick by 3 m (10 feet) wide, constantly extending forcefield surface that persists for about ten minutes. The bridge can reach to almost any height, though maximum gradient shouldn't exceed 30%. Auto-stabilization eases all tasks related to riding by two steps. Moves a long distance each round on self-deploying bridge or an average of 190 km/h (120 mph) during long-distance travel.
 
 Hard-light cycles can also be used as gladiatorial vehicles, modified to lay a forcefield wall trail behind rather than a bridge underneath, against opponents on similar cycles in a limited area with speedometers partly disabled.
 
-**{{< columns2 >}} Hover speedster, battle <---> level 6 (18) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Hover speedster, battle <---> level 6 (18) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 As hover speedster, with the addition of reinforced cowling providing the rider Armor 2. Built-in weapons include deployable swivel long-range energy weapons that inflict 9 points of damage.
 
-**{{< columns2 >}} Instant cycle <---> Variable <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Instant cycle <---> Variable <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 As any one other cycle, except an instant cycle can be deployed from a lightweight briefcase-sized (or even smaller) pack as an action, and is built up by packaged nanobots, virtual particles, or hard light to create the selected cycle, which can be ridden normally. A PC can re-package the deployed cycle to its original easily toted form as an action.
 
@@ -2691,47 +2677,47 @@ Buying a car at the bottom of its price range usually means the car isn't top qu
 
 #### Contemporary
 
-**{{< columns2 >}} Car, used <---> level 3 (9) <---> Expensive to Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Car, used <---> level 3 (9) <---> Expensive to Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Four-wheeled vehicle, supporting a slightly dented and rusted metallic frame with seats for a driver and up to four additional passengers; operable/easily breakable glass windows give openness to environment. Moves a long distance each round on paved surfaces or an average of 80 km/h (50 mph) during extended trips.
 
-**{{< columns2 >}} Car, sedan <---> level 4 (12) <---> Expensive to Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Car, sedan <---> level 4 (12) <---> Expensive to Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 As used car, but in better shape. Moves a long distance each round on paved surfaces or an average of 96 km/h (60 mph) during extended trips.
 
-**{{< columns2 >}} Car, sports <---> level 6 (18) <---> Very Expensive to Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Car, sports <---> level 6 (18) <---> Very Expensive to Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 Four-wheeled vehicle, supporting a "rolling work of art" frame focusing on flamboyance and swagger, sometimes at the expense of practicality and efficiency. Seats for a driver and usually only a single passenger; operable/easily breakable glass windows (and or retractable hardtop) provide openness to environment. Auto-stabilization eases all tasks related to driving. Moves a long distance each round on paved surfaces or an average of 144 km/h (90 mph) during extended trips.
 
-**{{< columns2 >}} Car, utility <---> level 4 (12) <---> Expensive to Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Car, utility <---> level 4 (12) <---> Expensive to Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Four-wheeled vehicle, supporting a frame in a van or truck configuration that prioritizes carrying cargo over passengers (though up to ten additional passengers, in addition to the driver, could squeeze into a van or into the open bed of truck). Operable/easily breakable glass windows (and/or retractable hardtop) provide openness to environment. Moves a long distance each round on paved surfaces or an average of 96 km/h (60 mph) during extended trips.
 
 #### Advanced
 
-**{{< columns2 >}} Hovercar <---> level 4 <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Hovercar <---> level 4 <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Hover frame with a seat for driver and up to four other passengers, often open to the environment (luxury versions have retractable hardtops). Inboard (or external) rotors force air down, allowing the vehicle to hover up to 1 m (3 feet) over any terrain (including water and other liquids). Ideal for utterly wild terrain and over-water excursions. Moves a long distance each round in any terrain or an average of 160 km/h (100 mph) during longdistance travel.
 
-**{{< columns2 >}} Land ark <---> level 5 (15) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Land ark <---> level 5 (15) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 Treaded, all-terrain wheels support a completely enclosed interior habitat with five to ten interior chambers arranged either to house one or more families, support scientific research, exploration, spying, or configured for some other purpose to support a team of individuals. Moves an immediate distance each round in utterly wild terrain, a short distance each round in broken terrain or an average of 64 km/h (40 mph) during long-distance travel (double movement on paved surfaces, though a land ark rarely finds roads).
 
-**{{< columns2 >}} Land ark, battle <---> level 5 (15) <---> Exorbitant x2 {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Land ark, battle <---> level 5 (15) <---> Exorbitant x2 {{< /columns2 >}} {{< /hint >}}
 
 As land ark (and sometimes called a "battle ark"), but sports superior weapons, though half the interior space.
 
-**{{< columns2 >}} Moon buggy <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Moon buggy <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Six-wheeled vehicle, supporting a reinforced, lightly enclosed and pressurized frame with seats for a driver and up to four additional passengers, providing driver and passengers Armor 1 (though if damage is taken, it's likely a breach has occurred). Auto-stabilization eases all tasks related to driving. Suitable for paved and broken surfaces on airless moons or in polluted or poisonous atmospheres; moves a long distance each round on paved and broken surfaces or an average of 64 km/h (40 mph) during long-distance travel.
 
 #### Fantasic
 
-**{{< columns2 >}} Car, flying <---> level 5 (15) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Car, flying <---> level 5 (15) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Enclosed (but with retractable hardtop) frame contains seats for a driver and up to four other passengers, providing the driver (and vehicle) Armor 1. Anti-gravity repulsors allow the vehicle to fly within the atmosphere. Flies a very long distance each round in any terrain or an average of 320 km/h (200 mph) during long-distance travel.
 
-**{{< columns2 >}} Car, smart <---> level 6 (18) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Car, smart <---> level 6 (18) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 As flying car, but on-board weak AI always handles all driving functions, unless the driver takes control. The AI prioritizes passenger safety, and in the event of a crash, protects all passengers in a brief stasis field (assuming power reserves remain intact).
 
@@ -2754,59 +2740,59 @@ As flying car, but on-board weak AI always handles all driving functions, unless
 
 #### Contemporary
 
-**{{< columns2 >}} AIrplane, basic <---> level 2 (6) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} AIrplane, basic <---> level 2 (6) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Enclosed airframe with seats for pilot and one passenger. Operable/easily breakable side glass windows give openness to environment. Flies a long distance each round using a rotating propeller to force air over wings or an average of 225 km/h (140 mph) during extended trips.
 
-**{{< columns2 >}} Helicopter <---> level 3 (9) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Helicopter <---> level 3 (9) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 Enclosed cockpit with seats for a pilot and up to six passengers. Operable/easily breakable windows give openness to environment. Flies a long distance each round using rotor blades or an average of 225 km/h (140 mph) during extended trips.
 
-**{{< columns2 >}} Fighter jet <---> level 5 (15) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Fighter jet <---> level 5 (15) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 Swept-back enclosed airframe with seats for a pilot and one passenger. Built-in weapons include very long-range Gatling-style cannons. Flies a very long distance each round using jets or an average of over 1,125 km/h (700 mph) during extended trips.
 
 #### Advanced
 
-**{{< columns2 >}} Cloud surfing board <---> level 1 (3) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Cloud surfing board <---> level 1 (3) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 A 4 m (12 feet) long, smart-plastic flying wing open to the environment on which a single rider stands; rider must succeed on a difficulty 1 Speed roll each round. In combat, it moves a long distance each round, but on extended trips, it can move up to 130 km/h (80 mph). Often used for cloud surfing on Venus.
 
-**{{< columns2 >}} Jetpack <---> level 2 (6) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Jetpack <---> level 2 (6) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Harness lofts pilot over the ground using variable microjets, allowing the user to fly. Open to the environment (requiring user to wear protective gear). Flies a very long distance each round or an average of 190 km/h (120 mph) during long-distance travel, though the pack must be refueled every 1000 miles.
 
-**{{< columns2 >}} VTOL hyperjet <---> level 3 (9) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} VTOL hyperjet <---> level 3 (9) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 Swept-back enclosed airframe with seats for a pilot and up to eight passengers. Built-in weapons include long-range Gatling-style cannons (treat as superior weapons). VTOL (vertical take-off and landing) allows the hyperjet incredible maneuverability. Auto-stabilization eases all tasks related to piloting (other than vehicular combat). Flies a very long distance each round using jets or an average of over 2,410 km/h (1,500 mph) during extended trips.
 
-**{{< columns2 >}} VTOL stealthjet <---> level 3 (9) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} VTOL stealthjet <---> level 3 (9) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 As VTOL hyperjet, but with superior stealth instead of superior weapons.
 
-**{{< columns2 >}} VTOL seawing <---> level 3 (9) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} VTOL seawing <---> level 3 (9) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 As VTOL hyperjet, but sacrifices weapons so it can operate both in the air and underwater as a submersible. Able to move a long distance each round underwater or 80 km/h (50 mph) during extended trips underwater.
 
-**{{< columns2 >}} Zeppelin, yacht <---> level 3 (9) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Zeppelin, yacht <---> level 3 (9) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 This luxury flying vehicle boasts a completely enclosed interior habitat with five to ten interior chambers arranged either to house one or more families, support scientific research, exploration, spying, or configured for some other purpose to support a team of individuals. Moves a short distance each round or an average of 160 km/h (100 mph) during extended travel (half or double that depending on air conditions).
 
 #### Fantasic
 
-**{{< columns2 >}} Hoverboard <---> level 2 (6) <---> Moderate {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Hoverboard <---> level 2 (6) <---> Moderate {{< /columns2 >}} {{< /hint >}}
 
 Configurable from being as small as a skateboard suitable for one rider up to a disk 1.5 m (5 feet) in diameter. Auto-stabilization eases all tasks related to riding. Open to the environment (requiring user to wear protective gear). Flies a long distance each round or an average of 225 km/h (140 mph) during long-distance travel.
 
-**{{< columns2 >}} Orb, personal <---> level 2 (6) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Orb, personal <---> level 2 (6) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Deployed from a fist-sized sphere as an action, the personal orb takes shape around a single traveler, forming an environment force field that shields wind and air turbulence, keeping the atmosphere at a comfortable temperature, and providing Armor 1. Once deployed, the orb pilots itself as directly as possible, flying to a destination at very long distance per round or up to 480 km/h (300 mph) during an extended trip, with a maximum duration of up to thirty-six hours. Personal orbs are usually single-use transports.
 
-**{{< columns2 >}} Hard-light jet <---> level 4 (12) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Hard-light jet <---> level 4 (12) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 Composed of hard light and pseudo-matter, this futuristic airframe has seats for a pilot and up to two passengers. Built-in weapons include very long-range energy cannons. Auto-stabilization eases all tasks related to piloting by two steps (except for vehicular combat). Flies a very long distance each round using jets or an average of over 8,000 km/h (5,000 mph) during extended trips, and can even make low-orbit rendezvous.
 
-**{{< columns2 >}} Teleportation disc <---> level 6 (18) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Teleportation disc <---> level 6 (18) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 Immovable disc-shaped pad (or hollow free-standing ring) keyed to one or more locations within 160 km (100 miles); step on the disc (or pass through the ring) and appear at the keyed location. Discs of level 9 and above can teleport users between planets or even stars, like small versions of stellar gates.
 
@@ -2829,55 +2815,55 @@ Immovable disc-shaped pad (or hollow free-standing ring) keyed to one or more lo
 
 #### Contemporary
 
-**{{< columns2 >}} Jet ski <---> level 2 (6) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Jet ski <---> level 2 (6) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 A stylish seaworthy hull with a seat for one rider (and sometimes a passenger) open to the environment; moves a long distance each round or up to 112 km/h (65 mph) on calm water (half movement rates in choppy water).
 
-**{{< columns2 >}} Motorboat <---> level 2 (6) <---> Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Motorboat <---> level 2 (6) <---> Expensive {{< /columns2 >}} {{< /hint >}}
 
 Seaworthy hull with a seat for a pilot and up to eight passengers. Open to the environment; moves a long distance each round or up to 80 km/h (50 mph) on calm water (half movement rates in choppy water). Used motorboats can be had at moderate prices but actions related to operating it are subject to automatic GM intrusions on a d20 die roll of 1 or 2.
 
-**{{< columns2 >}} Motorboat, performance <---> level 3 (9) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Motorboat, performance <---> level 3 (9) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 As motorboat, but can reach speeds over 128 km/h (80 mph).
 
-**{{< columns2 >}} Submersible, personal <---> level 3 (9) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Submersible, personal <---> level 3 (9) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 Completely enclosed and water-tight hull with a seat for a pilot (and up to one passenger); moves a short distance each round underwater or up to 50 km/h (30 mph) on an extended trip. Minimal options for docking with other underwater craft or manipulating the environment without customization.
 
-**{{< columns2 >}} Yacht <---> level 3 (9) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Yacht <---> level 3 (9) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 Seaworthy hull with a deck section open to the air and sections completely enclosed with five to ten interior chambers suitable for living, leisure, supporting scientific research, exploration, spying, or configured for some other purpose to support a team of individuals. Moves a long distance each round or up to 80 km/h (50 mph) on calm water (half movement rates in choppy water).
 
-**{{< columns2 >}} Gunboat, fast attack craft <---> level 4 (12) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Gunboat, fast attack craft <---> level 4 (12) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 A fast attack craft (FAC) is relatively small and agile (compared to more massive warships), armed with anti-ship missiles, guns, and/or torpedoes. Features both open decks and a couple of completely enclosed interior chambers. A gunboat is cramped, has little room for food or water, and is not as seaworthy as it could be (all tasks related to operating the craft, except vehicular combat, are hindered). Moves a long distance each round or up to 96 km/h (60 mph) on calm water (half movement rates in choppy water). Requires a trained crew and central coordination to operate.
 
-**{{< columns2 >}} Submarine <---> level 4 (12) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Submarine <---> level 4 (12) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 Massive underwater craft armed with torpedoes and surface-to-air missiles. Completely enclosed interior chambers provide the crew (and vehicle) Armor 4 as well as breathable air and pressure; lots of room for crew, supplies, and so on. Moves a long distance underwater each round or up to 75 km/h (47 mph). Requires a trained crew and central coordination to operate.
 
-**{{< columns2 >}} Warship, destroyer <---> level 4 (12) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Warship, destroyer <---> level 4 (12) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 Massive water-going craft armed with anti-ship missiles, surface-to-air missiles, guns, and torpedoes, as well as hangars for one or two armed helicopters; treat as having superior weapons during vehicular combat. Features both open decks and many completely enclosed interior chambers. Lots of room for crew, supplies, and so on. Moves a long distance each round or up to 64 km/h (40 mph) on calm water (half movement rates in choppy water). Requires a trained crew and central coordination to operate.
 
 #### Advanced
 
-**{{< columns2 >}} Sub, waterglide <---> level 4 (12) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Sub, waterglide <---> level 4 (12) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 As personal submersible, but supercavitation technology allows incredible speeds underwater, allowing the sub to move a very long distance each round or up to 370 km/h (230 mph) on extended trips.
 
-**{{< columns2 >}} Yacht, hydroplane <---> level 4 (12) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Yacht, hydroplane <---> level 4 (12) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 As yacht, but can cut through the sea at speeds of up to 480 km/h (300 mph) in calm or stormy weather without risk of capsizing.
 
-**{{< columns2 >}} Submarine, supercavitation <---> level 5 (15) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Submarine, supercavitation <---> level 5 (15) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 As submarine, but supercavitation technology allows incredible speeds underwater, allowing the sub to move a very long distance each round or up to 370 km/h (230 mph) on extended trips.
 
 #### Fantasic
 
-**{{< columns2 >}} Manta <---> level 6 (18) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Manta <---> level 6 (18) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 As hard-light jet, but operates underwater, moving up to a very long distance each round or up to 480 km/h (300 mph) on extended trips.
 
@@ -2885,27 +2871,27 @@ As hard-light jet, but operates underwater, moving up to a very long distance ea
 
 #### Contemporary
 
-**{{< columns2 >}} Tank <---> level 4 (12) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Tank <---> level 4 (12) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 Rugged caterpillar track supports a completely enclosed frame, contains seats for a driver and up to four other crew; treat as having superior armor. Armed with a central cannon. Moves a short distance each round, or on extended trips, up to 40 km/h (25 mph) on relatively flat terrain, or twice that on paved surfaces.
 
 #### Advanced
 
-**{{< columns2 >}} Mech, loader <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Mech, loader <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Powered anthropomorphic exoskeleton frame partially open to the environment. Grants three free levels of Effort to all lifting and hauling tasks. Moves an immediate distance each round. Attacks in the mech (using its loading arms) are hindered, but inflict 10 points of damage. Moves up to a short distance or up to 24 km/h (15 mph) on extended trips.
 
-**{{< columns2 >}} Mech, infantry <---> level 4 (12) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Mech, infantry <---> level 4 (12) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Powered anthropomorphic exoskeleton frame partially open to the environment but provides a single operator Armor 3. Attacks in the infantry mech (using either an electrified blade for melee or a long-range combat rifle) are eased, inflicting 6 points of damage. Moves a short distance or power jumps up to a very long distance once every other round or up to 72 km/h (45 mph) on extended trips.
 
-**{{< columns2 >}} Mech, interceptor <---> level 4 (12) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Mech, interceptor <---> level 4 (12) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 As infantry mech, but upgrades include complete and sealed enclosure with life support (qualifying it for vehicular combat). Attacks in the interceptor mech also include a battery of very long-range missiles. An additional flight mode allows the interceptor to fly a very long distance for up to ten minutes before recharge is required. Some mechs have superior weapons, defense, or speed, but that doubles the cost.
 
 #### Fantastic
 
-**{{< columns2 >}} Colossal battle mech <---> level 6 (18) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Colossal battle mech <---> level 6 (18) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 A 78 m (255 feet) tall powered anthropomorphic exoskeleton frame. Creates a sealed enclosure (qualifying it for vehicular combat) with life support for an operator and a crew of up to six people. Armed with a massive "melee" plasma sword and "mech-punch" (melee attacks that can be made at long range), plus very long-range missiles, grenades, and energy weapons, operable by the pilot and crew at up to five different independent weapon stations simultaneously; treat as having superior weapons. Can run and fly up to a very long distance each round, and can even ascend into low orbit for brief periods.
 
@@ -2968,7 +2954,7 @@ Older spacecraft and starships are often retrofitted with more advanced power so
 
 **RTGs:** When solar panels are not an option, as is often the case for spacecraft that operate far from the sun or on a planetary surface with lots of dust or shadow, RTGs (radioisotope thermoelectric generators) are good long-term power sources for electric power, which can be used for a variety of onboard systems, including powering ion drives. The heart of an RTG is an embedded mass of atomic isotope, such as plutonium-238.
 
-CONTEMPORARY DRIVES
+#### Contemporary Drives
 
 **Rocket:** A rocket engine produces thrust by expelling reaction mass, usually in thundering expanding white clouds from the rocket's base propulsion nozzle. Most contemporary spacecraft use a mix of several rockets and fuel types. Rockets are the primary constituent of a heavy-lift launch spacecraft.
 
@@ -3015,15 +3001,15 @@ Generally speaking, all tasks for operating a pioneer-era spacecraft are hindere
 
 #### Contemporary
 
-**{{< columns2 >}} Space Capsule <---> level 1 (3) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Space Capsule <---> level 1 (3) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 Sealed capsule delivered into space by a launch vehicle or shuttle, carries a crew of up to seven or a payload of up to 6,000 kg (13,000 pounds); once delivered into a microgravity environment, becomes a free-flying spacecraft with limited maneuverability, though all piloting tasks are hindered and propellant must be renewed every ten hours of use. Capable of safely returning crew and cargo back down a gravity well though a fiery reentry process that lands the capsule in water for recovery by watercraft.
 
-**{{< columns2 >}} Rocket, heavy-lift launch <---> level 2 (6) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Rocket, heavy-lift launch <---> level 2 (6) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 Provides access to low orbit and beyond for a cargo of up to 45,350 kg (100,000 pounds) through the coordinated efforts of dozens of engineers and controllers operating and monitoring the vehicle from another location. Extremely limited maneuverability; a detachable space capsule allows for transfer of crew or cargo to orbiting craft or stations from the launch vehicle after ascent. Craft is partially re-usable in that the booster rockets autonomously return to designated pads where they can be refurbished and refueled.
 
-**{{< columns2 >}} Shuttle, launch <---> level 3 (9) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Shuttle, launch <---> level 3 (9) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 As heavy-lift launch vehicle, except the main craft can re-enter an atmosphere after delivering a payload and land aerodynamically as a fixed wing craft. Much greater maneuverability than a launch vehicle, both in space and in the air on re-entry, though all piloting tasks are hindered. Refurbishment means essentially rebuilding the spacecraft, and is a process of many months and another priceless expenditure in cost.
 
@@ -3037,61 +3023,63 @@ Advanced spacecraft have advanced propulsion technologies, allowing them to move
 
 #### Advanced
 
-**{{< columns2 >}} Wafercraft, exploration <---> level 1 (3) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Wafercraft, exploration <---> level 1 (3) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 Miniaturized vehicle just large enough to contain thousands of tiny data flecks and sensor modules, designed to accelerate to 90% the speed of light by use of external launching laser beamed for many years. Data wafers contain encrypted personalities (human and/or AI) capable of gathering data on target solar systems after relative travel times of months (but decades in objective time).
 
-**{{< columns2 >}} Microcapsule <---> level 2 (6) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Microcapsule <---> level 2 (6) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 As space capsule, but smaller. Limited fusion drive allows movement within a given area of space, but a microcapsule usually doesn't have enough fuel to move between planets. External manipulators allow the pilot to attempt repair and construction tasks without exiting the vehicle.
 
-**{{< columns2 >}} Microcapsule, fighter (dart) <---> level 1 (3) <---> Very Expensive x2 {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Microcapsule, fighter (dart) <---> level 1 (3) <---> Very Expensive x2 {{< /columns2 >}} {{< /hint >}}
 
 As microcapsule, but with a laser cannon weapon system capable of targeting another craft.
 
-**{{< columns2 >}} Spacecraft, racer <---> level 1 (3) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Spacecraft, racer <---> level 1 (3) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 A spacecraft designed only for speed and high-G maneuvers, with space for a single pilot (and maybe one passenger) in cradles fitted for high-G chemical amelioration, easing all piloting tasks by two steps. Travel times across limited interplanetary distances are halved in a racer. Mostly used for competition or as couriers.
 
-**{{< columns2 >}} Spacecraft, freighter <---> level 2 (6) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Spacecraft, freighter <---> level 2 (6) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 A spacecraft designed to haul cargo between planets with a crew up of to 15. Freighter ships may be quite large, or at least haul cargo that is quite large, but these craft are bulky and not meant for quick changes in direction or combat; all maneuvering and combat tasks are hindered. Able to move interplanetary distances with advanced variable dynamic ion propulsion. Can land and take off from low-gravity moons and dwarf planets.
 
-**{{< columns2 >}} Spaceplane <---> level 2 (6) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Spaceplane <---> level 2 (6) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 As launch shuttle (contemporary), but fulfills the promise of launch (without boosters), operations and maneuverability in orbit, and reentry and landing on a planetary surface, all without need for massive refurbishment or colossal external network of controllers.
 
-**{{< columns2 >}} Spaceplane, combat (claw) <---> level 2 (6) <---> Exorbitant x2 {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Spaceplane, combat (claw) <---> level 2 (6) <---> Exorbitant x2 {{< /columns2 >}} {{< /hint >}}
 
 As spaceplane, but smaller (with room for a single pilot), fitted with two weapon systems: a laser cannon and one torpedo battery. To move between planets or further, a claw usually relies on a larger carrier or more fantastic means of transport.
 
-**{{< columns2 >}} Spacecraft, solar sail <---> level 2 (6) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Spacecraft, solar sail <---> level 2 (6) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 A spacecraft designed for long-haul research expeditions around the solar system with a crew of up to five or six, with individual pods designed for induced hibernation during double or triple normal travel times to extend provisions to last several years or longer. No external power is required; solar power provides the motive force. Usually unable to land or ascend from a planetary surface.
 
-**{{< columns2 >}} Spacecraft, dragonfly class <---> level 3 (9) <---> Exorbitant x2 {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Spacecraft, dragonfly class <---> level 3 (9) <---> Exorbitant x2 {{< /columns2 >}} {{< /hint >}}
 
 Has the planetary launch and reentry capabilities of a spaceplane, but is more expansive, able to house a live-in crew of about a dozen people and over 45,350 kg (100,000 pounds) of cargo, with interplanetary (as opposed to merely orbital) range. Life-support lasts three months before restocking supplies is required. The ship includes a bridge, crew quarters, engineering, an impressively large cargo bay, and a bay containing one microcapsule. May have one weapon system.
 
-**{{< columns2 >}} Spacecraft, exploration class <---> level 4 (12) <---> Exorbitant x3 {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Spacecraft, exploration class <---> level 4 (12) <---> Exorbitant x3 {{< /columns2 >}} {{< /hint >}}
 
 As dragonfly class spacecraft, but larger and able to house a crew of about twenty-five people. Customized for exploration with extended range-sensing capabilities and onboard biological and geological labs (among others) for in situ analysis.
 
-**{{< columns2 >}} Spacecraft, corvette class <---> level 4 (12) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Spacecraft, corvette class <---> level 4 (12) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 A small warship spacecraft designed for high-G maneuvers, including use of high-G chemical amelioration for a crew of up to fifteen people. Features four weapon systems, including one laser cannon capable of targeting other craft, one torpedo battery, and one superior weapon system in the form of a gauss cannon. Able to move interplanetary distances with advanced variable dynamic ion propulsion. Can land and take off from lowgravity moons and dwarf planets.
 
-**{{< columns2 >}} Spacecraft, destroyer class <---> level 5 (15) <---> Priceless As corvette spacecraft, but four times as large, allowing four times the crew and ten weapon systems (including two superior weapon systems). Possesses superior defenses. Often utilized to escort larger vessels in a space fleet or battle group and defend them against swarms of smaller attackers. Includes bays for two fireteams of six microcapsule fighters (darts). {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Spacecraft, destroyer class <---> level 5 (15) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
-**{{< columns2 >}} Spacecraft, dreadnought <---> level 5 (15) <---> Priceless {{< /columns2 >}}**
+As corvette spacecraft, but four times as large, allowing four times the crew and ten weapon systems (including two superior weapon systems). Possesses superior defenses. Often utilized to escort larger vessels in a space fleet or battle group and defend them against swarms of smaller attackers. Includes bays for two fireteams of six microcapsule fighters (darts). 
+
+{{< hint debug >}} {{< columns2 >}} Spacecraft, dreadnought <---> level 5 (15) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 As corvette spacecraft, but ten times as large, allowing ten times the crew and twenty weapon systems (including five superior weapon systems). Often utilized to escort larger vessels in a space fleet or battle group and defend them against swarms of smaller attackers. Includes bays for a squadron of fifteen darts and a fireteam of three combat spaceplanes.
 
-**{{< columns2 >}} Skyhook <---> level 6 (18) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Skyhook <---> level 6 (18) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 Heavy rotating space station orbiting a moon or planet that extends two massive tethers opposite each other, so that one tether periodically dips deep into the atmosphere close to the surface. At this point, payloads are hooked to the end of the cable as the tether passes, and are then flung into orbit by the station's massive rotation. The skyhook can decelerate and safely de-orbit other payloads in the same way.
 
-**{{< columns2 >}} Space elevator <---> level 7 (21) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Space elevator <---> level 7 (21) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 Tether anchored to the surface of a moon or planet that extends into space along which vehicles can travel, granting access to and from orbital space. A counterweight space station exists at the far end of the tether in what is essentially geostationary orbit.
 
@@ -3103,35 +3091,35 @@ Starcraft (and other vehicles) of a higher tech rating involved in vehicular com
 
 #### Fantasic
 
-**{{< columns2 >}} Dagger fighter <---> level 1 (3) <---> Very Expensive {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Dagger fighter <---> level 1 (3) <---> Very Expensive {{< /columns2 >}} {{< /hint >}}
 
 A bare-bones, single-occupant fighter with a single weapon system that fires blasters. Dagger fighters cannot move between stars (though as fantastic craft, can move between planets), and require a larger carrier for FTL movement, such as a capital class starship with suitable docking bays.
 
-**{{< columns2 >}} Starship, cargo/passenger <---> level 2 (6) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Starship, cargo/passenger <---> level 2 (6) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 A spacecraft designed to haul cargo (or passengers, or both) between stars with a crew up of to twenty-five. Cargo starships may be impressively massive, or at least haul cargo sections that are quite large, but these craft are bulky and not meant for quick changes in direction or combat; all maneuvering and combat tasks are hindered.
 
-**{{< columns2 >}} Starship, solo fighter <---> level 2 (6) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Starship, solo fighter <---> level 2 (6) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 A small double-occupant starship with two weapon systems that fire blasters. Minimum size vehicle capable of FTL travel.
 
-**{{< columns2 >}} Starship, general purpose <---> level 3 (9) <---> Exorbitant {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Starship, general purpose <---> level 3 (9) <---> Exorbitant {{< /columns2 >}} {{< /hint >}}
 
 A small starship with room for only three to six crew plus an integrated ship AI able to handle many routine ship functions including navigation with FTL propulsion system. Designed for exploration of distant locations, salvage operations, and/or to act as a tug-craft for larger ships that need assistance. May possess a single weapon system such as a particle cannon.
 
-**{{< columns2 >}} Starship, discovery class <---> level 5 (15) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Starship, discovery class <---> level 5 (15) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 A large research starship with quarters for crew and staff of up to 150 or more people. Has either centrifugal artificial gravity (or in a fantastic tech-rated setting, gravitic compensators providing shipboard gravity control). Primarily designed as a research and discovery vehicle, such starships also have three weapon systems, usually a couple of blaster cannons and a torpedo battery. Highly configurable, a discovery class ship could be converted for war with sufficient resources, granting it superior weapons.
 
-**{{< columns2 >}} Starship, warship class <---> level 5 (15) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Starship, warship class <---> level 5 (15) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 A relatively small warship with gravitic compensators allowing for extreme maneuvering for a crew of up to fifty people, easing all piloting tasks. Six weapon stations include three blaster cannons and three torpedo batteries. Two of these systems are superior weapons. Includes bays for a fireteam of three dagger fighter starships.
 
-**{{< columns2 >}} Starship, capital class <---> level 7 (21) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Starship, capital class <---> level 7 (21) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 As warship class starship, but over a hundred times larger, with room for over a few hundred crew. Ten weapon stations include five blaster cannons and five torpedo batteries. Four of these are superior weapons. Includes bays for two squadrons of fifteen dagger fighter starships.
 
-**{{< columns2 >}} Starship, omega class <---> level 10 (30) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Starship, omega class <---> level 10 (30) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 Three times as large again as a capital class starship, an omega class craft has over a thousand crew and over thirty weapon systems. Ten of these are superior weapons. Combined weapon fire can deal significant damage to a planetary surface, possibly destroying it. Includes bays for six squadrons of thirty dagger fighter starships.
 
@@ -3141,27 +3129,27 @@ Stellar gates open wormholes between two fixed points at different locations wit
 
 #### Fantasic
 
-**{{< columns2 >}} Gate, planetary <---> level 3 (9) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Gate, planetary <---> level 3 (9) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 A free-standing ring or horizontal circular pad up to 9 m (30 feet) in diameter in/over which a spherical event horizon forms, allowing one-way travel to another location on the planet, orbiting moon, or orbiting space station with similar gate structure. Once the event horizon collapses (after several minutes up to an hour), travel back to the original gate is possible by initiating a second event horizon, though power reserves usually take several hours or more to build up to support each new wormhole opening.
 
-**{{< columns2 >}} Gate, interplanetary <---> level 4 (12) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Gate, interplanetary <---> level 4 (12) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 As planetary gate, but twice as large and connects gate structures that lie between locations within a single solar system.
 
-**{{< columns2 >}} Gate, star <---> level 5 (15) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Gate, star <---> level 5 (15) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 As planetary gate, but four times as large and connects gate structures that lie between locations within a few thousand light-years.
 
-**{{< columns2 >}} Gate, galactic <---> level 6 (18) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Gate, galactic <---> level 6 (18) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 As planetary gate, but six times as large and connects gate structures that lie between locations within a single galaxy.
 
-**{{< columns2 >}} Gate, intergalactic <---> level 7 (21) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Gate, intergalactic <---> level 7 (21) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 As planetary gate, but six times as large and connects gate structures that lie between locations in different galaxies across the entire breadth of the universe.
 
-**{{< columns2 >}} Gate, interdimensional <---> level 7 (21) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Gate, interdimensional <---> level 7 (21) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 As planetary gate, but connects gate structures that lie in alternate dimensions.
 
@@ -3171,11 +3159,11 @@ Space-time vehicles allow for movement between different points in both space an
 
 #### Fantasic
 
-**{{< columns2 >}} Car, temporal/dimensional <---> level 7 (21) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Car, temporal/dimensional <---> level 7 (21) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 As contemporary utility car or sports car, but once moving can transition into another preset dimension or time. Enormous power requirements require recharge period of several days between each use.
 
-**{{< columns2 >}} Matrix, temporal <---> level 8 (24) <---> Priceless {{< /columns2 >}}**
+{{< hint debug >}} {{< columns2 >}} Matrix, temporal <---> level 8 (24) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
 An arbitrarily shaped vehicle or structure, bigger on the inside than out, that allows a pilot to travel into different locations in time and space, though arbitrary destinations are sometimes achieved despite apparent navigation successes by the pilot. Enormous power requirements require recharge period of several days between each use.
 
@@ -3224,7 +3212,9 @@ Here are a few sample starship types:
 
 "Crew" indicates the minimum number of people needed to operate the ship. Many ships can carry more passengers. "Weapon Systems" indicates the maximum number of different enemies the ship can target at once---but only one attack per target in any circumstance.
 
-(Since it's frighteningly easy to die in a space battle if your ship is destroyed, most ships have escape pods. Even fighter craft have ejection systems that put the pilot out into space in an environment suit. In other words, GMs should try to give PCs a way out of immediately dying if they get on the wrong end of a space battle.)
+{{< hint info >}}
+Since it's frighteningly easy to die in a space battle if your ship is destroyed, most ships have escape pods. Even fighter craft have ejection systems that put the pilot out into space in an environment suit. In other words, GMs should try to give PCs a way out of immediately dying if they get on the wrong end of a space battle.
+{{< /hint >}}
 
 ### Effects Of Gravity
 

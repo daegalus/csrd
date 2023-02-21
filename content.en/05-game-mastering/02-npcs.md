@@ -13,7 +13,7 @@ The NPCs in this chapter are generic examples of nonplayer characters that can b
 
 **Appropriate Weapons:** NPCs use weapons appropriate to their situation, which might be swords and crossbows, knives and shotguns, malefic psychic weapons, blasters and grenades, and so on.
 
-## Other Npcs
+## Other NPCs
 
 Many NPCs are simple and understandable enough to be encapsulated just by their level and a few other other relevant stats.
 

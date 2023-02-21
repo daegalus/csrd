@@ -13,7 +13,9 @@ The first is a power grade for each ability, which tells you about how potent it
 
 These abilities are further sorted into ability categories based on the kinds of things they do---abilities that improve physical attacks are in the attack skill category, abilities that assist allies are in the support category, and so on.
 
-(Unless otherwise noted, you cannot choose the same ability twice, even if you get it from both your type and a flavor.)
+{{< hint info >}}
+Unless otherwise noted, you cannot choose the same ability twice, even if you get it from both your type and a flavor.)
+{{< /hint >}}
 
 ## Ability Categories And Relative Power
 
@@ -21,7 +23,9 @@ Abilities can be divided into several categories based on the kinds of things th
 
 The categories are mainly used by GMs when designing new foci for a campaign, allowing them to search a short list of abilities instead of trying to find something appropriate among the thousand or so abilities in this chapter. For example, the GM might have a custom focus in their campaign called "Is Born of the Swamp" and want a defensive ability for tier 5, so they can look at the high-tier abilities in the protection category and quickly narrow down what options are available.
 
-(It may be possible that a character gains the same ability from more than one source (such as from their type and their descriptor). Unless the two abilities are obviously additive (such as two abilities that each add 3 points to your Might Pool, which together would give the character +6 Might points), the duplicated ability might be improved in some way, such as having a longer duration or greater effect, or automatically providing an asset. Some abilities give suggestions on how to do this; otherwise, the player and the GM should work out whether and how the ability is improved.)
+{{< hint info >}}
+It may be possible that a character gains the same ability from more than one source (such as from their type and their descriptor). Unless the two abilities are obviously additive (such as two abilities that each add 3 points to your Might Pool, which together would give the character +6 Might points), the duplicated ability might be improved in some way, such as having a longer duration or greater effect, or automatically providing an asset. Some abilities give suggestions on how to do this; otherwise, the player and the GM should work out whether and how the ability is improved.
+{{< /hint >}}
 
 The ability categories are not intended to be rigid or comprehensive. Some abilities fall into more than one category, and it could be argued that some abilities could be included in more categories than are listed here.
 
@@ -1765,31 +1769,19 @@ Being so large, your beast form gains the following additional bonuses: +1 to Ar
 
 **Blessing of the Gods:** As a servant of the gods, you can call up blessings in their name. This blessing depends on the god's general demeanor and area of influence. Choose two of the abilities described below.
 
-*Authority/Law/Peace (3 Intellect points).* You prevent a foe that can hear and understand you from attacking anyone or anything for one round. Action.
-
-*Benevolence/Righteousness/Spirit (2+ Intellect points).* One level 1 demon, spirit, or similar creature within short range is destroyed or banished. In addition to the normal options for using Effort, you can choose to use Effort to increase the maximum level of the target. Thus, to destroy or banish a level 5 target (four levels above the normal limit), you must apply four levels of Effort. Action.
-
-*Death/Darkness (2 Intellect points).* A target you choose within short range withers, suffering 3 points of damage. Action.
-
-*Desire/Love/Health (3 Intellect points).* With a touch, you restore 1d6 points to one stat Pool of any creature, including yourself. This ability is a difficulty 2 Intellect task. Each time you attempt to heal the same creature, the task is hindered by an additional step. The difficulty returns to 2 after that creature rests for ten hours. Action.
-
-*Earth/Stone.* You are trained in climbing, stonecraft, and spelunking. Enabler.
-
-*Knowledge/Wisdom (3 Intellect points).* Choose up to three creatures (potentially including yourself). For one minute, a particular type of task (but not an attack roll or defense roll) is eased for those creatures, but only while they remain within immediate range of you. Action.
-
-*Nature/Animals/Plants.* You are trained in botany and handling natural animals. Enabler.
-
-*Protection/Silence (3 Intellect points).* You create a quiet bubble of protection around you to an immediate radius for one minute. The bubble moves with you. All defense rolls for you and all creatures you designate within the bubble are eased, and no noise, regardless of its origin, sounds louder than a normal speaking voice. Action to initiate.
-
-*Sky/Air (2 Intellect points).* A creature you touch is immune to airborne toxins or contaminants for ten minutes. Action.
-
-*Sun/Light/Fire (2 Intellect points).* You cause one creature or object within short range to catch fire, inflicting 1 point of ambient damage each round until the fire is extinguished (requiring an action). Action.
-
-*Trickery/Greed/Commerce.* You are trained in detecting the deceptions of other creatures. Enabler.
-
-*War (1 Intellect point).* A target you choose within short range (potentially yourself) deals 2 additional points of damage with its next successful weapon attack. Action.
-
-*Water/Sea (2 Intellect points).* A target you touch can breathe water for ten minutes. Action.
+* **Authority/Law/Peace (3 Intellect points).** You prevent a foe that can hear and understand you from attacking anyone or anything for one round. Action.
+* **Benevolence/Righteousness/Spirit (2+ Intellect points).** One level 1 demon, spirit, or similar creature within short range is destroyed or banished. In addition to the normal options for using Effort, you can choose to use Effort to increase the maximum level of the target. Thus, to destroy or banish a level 5 target (four levels above the normal limit), you must apply four levels of Effort. Action.
+* **Death/Darkness (2 Intellect points).** A target you choose within short range withers, suffering 3 points of damage. Action.
+* **Desire/Love/Health (3 Intellect points).** With a touch, you restore 1d6 points to one stat Pool of any creature, including yourself. This ability is a difficulty 2 Intellect task. Each time you attempt to heal the same creature, the task is hindered by an additional step. The difficulty returns to 2 after that creature rests for ten hours. Action.
+* **Earth/Stone.** You are trained in climbing, stonecraft, and spelunking. Enabler.
+* **Knowledge/Wisdom (3 Intellect points).** Choose up to three creatures (potentially including yourself). For one minute, a particular type of task (but not an attack roll or defense roll) is eased for those creatures, but only while they remain within immediate range of you. Action.
+* **Nature/Animals/Plants.** You are trained in botany and handling natural animals. Enabler.
+* **Protection/Silence (3 Intellect points).** You create a quiet bubble of protection around you to an immediate radius for one minute. The bubble moves with you. All defense rolls for you and all creatures you designate within the bubble are eased, and no noise, regardless of its origin, sounds louder than a normal speaking voice. Action to initiate.
+* **Sky/Air (2 Intellect points).** A creature you touch is immune to airborne toxins or contaminants for ten minutes. Action.
+* **Sun/Light/Fire (2 Intellect points).** You cause one creature or object within short range to catch fire, inflicting 1 point of ambient damage each round until the fire is extinguished (requiring an action). Action.
+* **Trickery/Greed/Commerce.** You are trained in detecting the deceptions of other creatures. Enabler.
+* **War (1 Intellect point).** A target you choose within short range (potentially yourself) deals 2 additional points of damage with its next successful weapon attack. Action.
+* **Water/Sea (2 Intellect points).** A target you touch can breathe water for ten minutes. Action.
 
 **Blind Machine (6 Speed points):** You deactivate the sensory apparatus of a machine, making it effectively blind until it can be repaired. You must either touch the target or strike it with a ranged attack (inflicting no damage). Action.
 
@@ -1912,7 +1904,7 @@ immediate-range illusions (such as from Minor Illusion) to anywhere within short
 **Cold Burst (5+ Intellect points):** You emit a burst of cold in all directions, up to short range. All within the burst (except you) take 5 points of damage. If you apply Effort to increase the damage rather than to ease the task, you deal 2 additional points of damage per level of Effort (instead of 3 points); targets in the area take 1 point of damage even if you fail the attack roll. Action.
 
 **Colossal:** When you use Enlarge, you can choose to grow up to a base height of 60 feet (18 m). When you do, you add 5 more temporary points to your Might Pool (plus any from Gargantuan and Bigger), and you deal an additional 2 points of damage with melee attacks (plus any from your Huge ability). For each level of Effort you apply to increase your height further, your total height increases by 10 feet  
-(3 m), and you add 1 more point to your Might Pool. Thus, the first time you use Enlarge after a ten-hour recovery roll, if you apply two levels of Effort, your base height is 80 feet (24 m), and you add a total of 17 temporary points to your Might Pool. Enabler.
+3 m), and you add 1 more point to your Might Pool. Thus, the first time you use Enlarge after a ten-hour recovery roll, if you apply two levels of Effort, your base height is 80 feet (24 m), and you add a total of 17 temporary points to your Might Pool. Enabler.
 
 **Combat Challenge:** All attempted tasks that draw an attack to yourself (and away from someone else) are eased by two steps. Enabler.
 
@@ -2100,13 +2092,10 @@ immediate-range illusions (such as from Minor Illusion) to anywhere within short
 
 **Disable Mechanisms (3 Speed points):** With a keen eye and quick moves, you disrupt some functions of a robot or machine and inflict upon it one of the following maladies:
 
-All its tasks are hindered for one minute.
-
-Its speed is halved.
-
-It can take no action for one round.
-
-It deals 2 fewer points of damage (minimum 1 point) for one minute.
+* All its tasks are hindered for one minute.
+* Its speed is halved.
+* It can take no action for one round.
+* It deals 2 fewer points of damage (minimum 1 point) for one minute.
 
 You must touch the robot or machine to disrupt it (if you are making an attack, it inflicts no damage). Action.
 
@@ -2436,7 +2425,7 @@ one-action recovery each day. Enabler.
 **Force Bash (1 Might point):** This is a pummeling melee attack you make with your Force Field Shield. Your attack inflicts 1 less point of damage than normal but dazes your target for one round, during which time all tasks it performs are hindered. Enabler.
 
 **Force Blast:** You figure out how to project blasts of pure force from the gauntlets of the power armor from your Powered Armor ability. This allows you to fire a blast of force that inflicts 5 points of damage with a range of 200 feet  
-(60 m). Action.
+60 m). Action.
 
 **Force Field (3 Intellect points):** You create an invisible energy barrier around a creature or object you choose within short range. The force field moves with the creature or object and lasts for ten minutes. The target has +1 to Armor until the effect ends. Action.
 
@@ -2490,9 +2479,8 @@ one-action recovery each day. Enabler.
 
 **Gaming God:** Any time you use Effort on an Intellect action, add one of the following enhancements to the action (your choice):
 
-Free level of Effort
-
-Automatic minor effect
+* Free level of Effort
+* Automatic minor effect
 
 Enabler.
 
@@ -2720,21 +2708,14 @@ Enabler.
 
 **Incredible Feat of Science (12 Intellect points):** You do something amazing in the lab. This takes parts and materials equivalent to three expensive items. Possible incredible feats include:
 
-Reanimate and command a dead body for one hour.
-
-Create an engine that runs on perpetual motion.
-
-Create a teleportation gate that remains open for one minute.
-
-Transmute one substance into another substance.
-
-Cure one person with an incurable disease or condition.
-
-Create a weapon designed to hurt something that can't otherwise be hurt.
-
-Create a defense designed to protect against something that can't otherwise be stopped.
-
-Action to initiate; a full day of work to complete.
+* Reanimate and command a dead body for one hour.
+* Create an engine that runs on perpetual motion.
+* Create a teleportation gate that remains open for one minute.
+* Transmute one substance into another substance.
+* Cure one person with an incurable disease or condition.
+* Create a weapon designed to hurt something that can't otherwise be hurt.
+* Create a defense designed to protect against something that can't otherwise be stopped.
+* Action to initiate; a full day of work to complete.
 
 **Incredible Health:** Thanks to a dip in a magical pool, an injection of artificial antibodies and immune defense nanobots into your bloodstream, exposure to strange radiation, or something else, you are now immune to diseases, viruses, and mutations of any kind. Enabler.
 
@@ -2905,9 +2886,8 @@ Intellect-based attack. For each level of Effort you apply, the quality of the m
 
 **Machine Enhancement:** Any time you use Effort on an Intellect action, add one of the following enhancements to the action (your choice):
 
-Free level of Effort
-
-Automatic minor effect
+* Free level of Effort
+* Automatic minor effect
 
 Enabler.
 
@@ -2958,13 +2938,10 @@ If a character has Magical Repertoire, the GM should give the PC frequent opport
 
 **Masterful Armor Modification:** Choose one of the following modifications to make to the Powered Armor from your Powered Armor ability. If you choose to make a different modification later, you can do so, but you must spend 2 XP each time and substitute the updated modification for the previous modification.
 
-*Cypher Pod.* The power armor provides an insulated pod in which you can carry one additional manifest cypher beyond what your cypher limit normally allows. Enabler.
-
-*Drone (3 Intellect points).* A level 4 drone no larger than 1 foot (30 cm) on a side launches from your armor for one hour, flying up to a long distance each round. The drone accompanies you and follows your instructions. It has manipulators, allowing it to attempt to accomplish physical tasks. You'll probably make rolls for your drone when it takes actions. A drone in combat usually doesn't make separate attacks but helps with yours. On your action, if the drone is next to you, it serves as an asset for one attack you make on your turn. If the drone is destroyed, you must spend another 2 XP to rebuild it or choose another Masterful Armor Modification. Action to initiate.
-
-*Improved Field Reinforcement.* You gain +1 to Armor while wearing your power armor. Enabler.
-
-*Jet-Assisted Flight (3+ Might points).* You modify your power armor to allow you to blast off the ground and fly for one minute at a time. For each level of Effort applied, you can increase the duration by an additional minute. Action.
+* **Cypher Pod.** The power armor provides an insulated pod in which you can carry one additional manifest cypher beyond what your cypher limit normally allows. Enabler.
+* **Drone (3 Intellect points).** A level 4 drone no larger than 1 foot (30 cm) on a side launches from your armor for one hour, flying up to a long distance each round. The drone accompanies you and follows your instructions. It has manipulators, allowing it to attempt to accomplish physical tasks. You'll probably make rolls for your drone when it takes actions. A drone in combat usually doesn't make separate attacks but helps with yours. On your action, if the drone is next to you, it serves as an asset for one attack you make on your turn. If the drone is destroyed, you must spend another 2 XP to rebuild it or choose another Masterful Armor Modification. Action to initiate.
+* **Improved Field Reinforcement.** You gain +1 to Armor while wearing your power armor. Enabler.
+* **Jet-Assisted Flight (3+ Might points).** You modify your power armor to allow you to blast off the ground and fly for one minute at a time. For each level of Effort applied, you can increase the duration by an additional minute. Action.
 
 **Mastery in Armor:** The cost reduction from your Practiced in Armor ability improves. You now reduce the Speed Effort cost for wearing armor to 0. Enabler.
 
@@ -2992,7 +2969,9 @@ Your mind can travel up to 1 mile (1.5 km) from your body. Each level of additio
 
 Your physical body is helpless until this effect ends. You cannot use your physical senses to perceive anything. For example, your body could sustain a significant injury, and you wouldn't know it. Your body cannot take Intellect damage, so if your body takes enough damage to reduce both your Might Pool and your Speed Pool to 0, your mind snaps back to your body, and you are stunned until the end of the next round as you try to reorient yourself to your predicament. Action to initiate.
 
-(Mentally projecting characters may attract psychic entities and predators that PCs normally don't have to deal with, run into weather psychic phenomena that risks severing their connection, and possibly even become lost on a different metaphysical plane.)
+{{< hint info >}}
+Mentally projecting characters may attract psychic entities and predators that PCs normally don't have to deal with, run into weather psychic phenomena that risks severing their connection, and possibly even become lost on a different metaphysical plane.
+{{< /hint >}}
 
 **Mentally Tough:** Staring into the naked weave of hyperspace, warped space, or a similar effect related to faster-than-light travel is hard on the mind, but you've developed resistance. You're trained in Intellect defense tasks. Enabler.
 
@@ -3040,13 +3019,10 @@ cube. The image can move (for example, you could make the illusion of a person w
 
 **Moderate Wish:** At your request, the magic ally from your Bound Magic Creature ability can spend its action casting a moderate spell on you. Afterward, it must retreat to its bound object to rest for at least one hour. The effects it can produce include the following. Action to initiate.
 
-*Golden Armor.* You gain +3 to Armor for one hour from a translucent sheen of golden light.
-
-*Golden Fury.* A golden light blazes in your eyes. For the next three minutes, if you attack a target, you inflict 5 additional points of damage.
-
-*Improved Touch of Grace.* With the magic ally's touch, you add 6 points to any stat Pool. If you are not damaged, you add the points to your chosen Pool's maximum. They remain until you spend them, you lose them to damage, or an hour passes.
-
-*Invisible.* With a touch, the magic ally bends light that falls on you, so you seem to disappear. You are invisible to other creatures for ten minutes. While invisible, you are specialized in stealth and Speed defense tasks. This effect ends if you do something to reveal your presence or position---attacking, using an ability, moving a large object, and so on. If this occurs, you can regain the remaining invisibility effect by taking an action to focus on hiding your position. Action to initiate.
+* **Golden Armor.** You gain +3 to Armor for one hour from a translucent sheen of golden light.
+* **Golden Fury.** A golden light blazes in your eyes. For the next three minutes, if you attack a target, you inflict 5 additional points of damage.
+* **Improved Touch of Grace.** With the magic ally's touch, you add 6 points to any stat Pool. If you are not damaged, you add the points to your chosen Pool's maximum. They remain until you spend them, you lose them to damage, or an hour passes.
+* **Invisible.** With a touch, the magic ally bends light that falls on you, so you seem to disappear. You are invisible to other creatures for ten minutes. While invisible, you are specialized in stealth and Speed defense tasks. This effect ends if you do something to reveal your presence or position---attacking, using an ability, moving a large object, and so on. If this occurs, you can regain the remaining invisibility effect by taking an action to focus on hiding your position. Action to initiate.
 
 **Modify Artifact Power (6 Intellect points):** You permanently add +1 to the level of an artifact of up to level 5. The difficulty of this task is equal to the modified higher level of the artifact. If the task is failed, the artifact makes a depletion roll and is not advanced in level. Once modified, the artifact can't be similarly boosted again. Action.
 
@@ -3098,11 +3074,9 @@ cube. The image can move (for example, you could make the illusion of a person w
 
 **Nightmare (5 Intellect points):** You pull a horrifying creature from your worst nightmare into the waking world and sic it on your foes. The nightmare (level 5) persists each round while you use your action concentrating on it (or until you disperse it or it is destroyed). It has one of the following abilities, which you choose when you call it.
 
-*Confusion.* Instead of making a normal attack, the nightmare's attack confuses the target for one round. On its next action, the target attacks an ally.
-
-*Horrify.* Instead of making a normal attack, the nightmare's attack horrifies the target, which drops to its knees (or similar appendages). The target takes 3 points of damage that ignore Armor and is dazed for one round, during which time all its tasks are hindered.
-
-*Pustule Eruption.* Instead of making a normal attack, the nightmare's attack causes rancid, painful pustules to rise all over the target's skin for one minute. If the target takes a forceful action (such as attacking another creature or moving farther than an immediate distance), the pustules burst, dealing 5 points of damage that ignore Armor. Action to initiate, action each round to concentrate.
+* **Confusion.** Instead of making a normal attack, the nightmare's attack confuses the target for one round. On its next action, the target attacks an ally.
+* **Horrify.** Instead of making a normal attack, the nightmare's attack horrifies the target, which drops to its knees (or similar appendages). The target takes 3 points of damage that ignore Armor and is dazed for one round, during which time all its tasks are hindered.
+* **Pustule Eruption.** Instead of making a normal attack, the nightmare's attack causes rancid, painful pustules to rise all over the target's skin for one minute. If the target takes a forceful action (such as attacking another creature or moving farther than an immediate distance), the pustules burst, dealing 5 points of damage that ignore Armor. Action to initiate, action each round to concentrate.
 
 **Nightstrike:** When you attack a foe in dim light or darkness, you get a free level of Effort on the attack. Enabler.
 
@@ -3244,11 +3218,9 @@ Note that some of your other special abilities may enable specific actions that 
 
 **Precognition (6 Intellect points):** You dimly sense the future for the next ten minutes. This has the following effects until the duration expires:
 
-Your defense tasks gain an asset.
-
-You can predict the actions of those around you. You gain an asset to seeing through deceptions and attempts to betray you as well as avoiding traps and ambushes.
-
-You know what people are probably thinking and what they will say before they say it, which gives you an edge. You gain an asset to all interaction skills.
+* Your defense tasks gain an asset.
+* You can predict the actions of those around you. You gain an asset to seeing through deceptions and attempts to betray you as well as avoiding traps and ambushes.
+* You know what people are probably thinking and what they will say before they say it, which gives you an edge. You gain an asset to all interaction skills.
 
 Enabler.
 
@@ -3280,7 +3252,9 @@ The creature you inhabit can use your Intellect Edge in place of their own. In a
 
 When you take an action, you use the creature's body to perform that action if they allow it. Action to initiate.
 
-(A character should using Psychic Passenger should consider secreting their actual body someplace away from prying eyes and wild beasts, or they may return to an unfortunate situation.)
+{{< hint info >}}
+A character should using Psychic Passenger should consider secreting their actual body someplace away from prying eyes and wild beasts, or they may return to an unfortunate situation.
+{{< /hint >}}
 
 **Psychic Suggestion (4 Intellect points):** You attempt to make the target take the action you indicate on its next turn. If the action you wish the target to take would cause direct harm to itself or its allies, your mental attack is hindered. Action.
 
@@ -3383,9 +3357,8 @@ one-action recovery roll as part of another action or when it isn't your turn, y
 
 **Remote Viewing (6 Intellect points):** Distance is an illusion, as all space is one space. With great concentration, you can see another place. This ability can be used in one of two ways:
 
-Distance and direction. Pick a spot a specific distance away and in a specific direction. You can see from that vantage point as if you had used the Sensor ability there, but only for one minute.
-
-Think of a place you have seen before, either conventionally or using the other application of this power. You can see from that vantage point as if you had used the Sensor ability there, but only for one or two rounds.
+* Distance and direction. Pick a spot a specific distance away and in a specific direction. You can see from that vantage point as if you had used the Sensor ability there, but only for one minute.
+* Think of a place you have seen before, either conventionally or using the other application of this power. You can see from that vantage point as if you had used the Sensor ability there, but only for one or two rounds.
 
 Either application takes anywhere from one action to hours of concentration, depending on what the GM feels is appropriate due to time, distance, or other mitigating circumstances. However, you don't know in advance how long it will take. Action to initiate; action each round to concentrate.
 
@@ -3454,13 +3427,10 @@ any duplicate you create (such as with Duplicate) by 5. Enabler.
 
 **Robot Upgrade:** You modify your artificial assistant from the Robot Assistant ability with one new capability. Standard options include the following. Work with your GM if you prefer a different capability.
 
-*Cypher Pod.* The robot can carry one extra manifest cypher for you. Enabler.
-
-*Flight.* The robot can fly a long distance each round. It can carry you, but only for up to an hour between each of your ten-hour recovery rolls. Enabler.
-
-*Force Shield.* The robot can erect an opaque level 5 force field around itself and anyone within 10 feet (3 m) of it for one minute (or until it is destroyed). It cannot do so again until after your next recovery roll. Action.
-
-*Mounted Laser Configuration.* The robot can reconfigure itself and become an immobile laser weapon on a gimbal mount. In this configuration, the robot is a heavy weapon that deals 7 points of damage. If the robot acts as an autonomous turret, treat it as one level lower than its normal level. However, if the laser is fired by you or someone else who has your permission, the laser attacks are eased. Action to reconfigure; action to return to normal robot configuration.
+* **Cypher Pod.** The robot can carry one extra manifest cypher for you. Enabler.
+* **Flight.** The robot can fly a long distance each round. It can carry you, but only for up to an hour between each of your ten-hour recovery rolls. Enabler.
+* **Force Shield.** The robot can erect an opaque level 5 force field around itself and anyone within 10 feet (3 m) of it for one minute (or until it is destroyed). It cannot do so again until after your next recovery roll. Action.
+* **Mounted Laser Configuration.** The robot can reconfigure itself and become an immobile laser weapon on a gimbal mount. In this configuration, the robot is a heavy weapon that deals 7 points of damage. If the robot acts as an autonomous turret, treat it as one level lower than its normal level. However, if the laser is fired by you or someone else who has your permission, the laser attacks are eased. Action to reconfigure; action to return to normal robot configuration.
 
 **Ruin Lore:** You are trained in scavenging, which means you're more likely to find useful things, and junk that can potentially be turned into useful things in the ruins of what came before. Enabler.
 
@@ -3494,11 +3464,9 @@ Alternatively, if you apply Effort to increase the damage rather than ease the t
 
 **See the Future (6 Intellect points):** Based on all the variables you perceive, you can predict the next few minutes. This has the following effects:
 
-For the next ten minutes, your defense rolls gain an asset.
-
-You have a sort of danger sense. For the next ten minutes, you gain an asset in seeing through deceptions and attempts to betray you, as well as avoiding traps and ambushes.
-
-You know what people are probably thinking and what they will say before they say it. For the next ten minutes, you gain an asset to tasks involving interaction and deception.
+* For the next ten minutes, your defense rolls gain an asset.
+* You have a sort of danger sense. For the next ten minutes, you gain an asset in seeing through deceptions and attempts to betray you, as well as avoiding traps and ambushes.
+* You know what people are probably thinking and what they will say before they say it. For the next ten minutes, you gain an asset to tasks involving interaction and deception.
 
 Enabler.
 
@@ -3618,11 +3586,9 @@ If you shatter a discrete object, it shatters explosively, inflicting 1 point of
 
 **Special Shot:** When you hit a target with a gun attack, you can choose to reduce the damage by 1 point but hit the target in a precise spot. Some of the possible effects include (but are not limited to) the following:
 
-You can shoot an object out of someone's hand.
-
-You can shoot the leg, wing, or other limb it uses to move, reducing its maximum movement speed to immediate for a few days or until it receives expert medical care.
-
-You can shoot a strap holding a backpack, armor, or a similarly strapped-on item so that it falls off.
+* You can shoot an object out of someone's hand.
+* You can shoot the leg, wing, or other limb it uses to move, reducing its maximum movement speed to immediate for a few days or until it receives expert medical care.
+* You can shoot a strap holding a backpack, armor, or a similarly strapped-on item so that it falls off.
 
 Enabler.
 
@@ -3800,7 +3766,9 @@ If you also have this ability from another source, you may use either ability, t
 
 Your future self shares your stats, so any damage that either of you takes applies to the same stat Pools. If your future self is killed, you and your future self disappear in the third round (as normal) and you reappear, dead, in the fourth round. Neither you nor your future self can use Time Loop again until you reappear as your future self in the fourth round. Action.
 
-(In effect, Time Loop lets "you" take an action on the round you use it, two actions on the second round, and zero actions on the third round, and then you're back to normal after that.)
+{{< hint info >}}
+In effect, Time Loop lets "you" take an action on the round you use it, two actions on the second round, and zero actions on the third round, and then you're back to normal after that.
+{{< /hint >}}
 
 **Time Travel (10+ Intellect points):** You and up to three willing characters you choose within immediate range travel to a point in time that you specify when you use this ability. The point in time must be within ten years of the present. For each level of Effort applied, you can travel ten more years or bring three more creatures with you. When you appear in the new moment in time, you do so in the same position you were in when you used this ability. Upon arriving at your temporal destination, you and the other time travelers are stunned for one minute. In order to return to your original time, you must use this ability again. Action.
 
@@ -3962,11 +3930,9 @@ On a success, you create your one-use trap in about one minute, and it is consid
 
 **Weightless Shot:** You have a sixth sense when it comes to lining up trajectories and moving in low-gravity and zero-gravity environments, which also translates to making ranged attacks. When you hit a target with a ranged attack in microgravity conditions, you can choose to reduce the damage by 2 points but hit the target in a precise spot. Some of the possible effects include (but are not limited to) the following:
 
-You punch a hole in the target's suit, so it begins to leak air into the vacuum slowly, or all at once (your choice).
-
-You hit the reaction mass of the target's maneuvering pack, which means the target can no longer change their trajectory, or they go spinning off in a random direction (your choice).
-
-You can shoot a spacecraft, and degrade one ship system by one step (systems include engines, weapons, and atmosphere).
+* You punch a hole in the target's suit, so it begins to leak air into the vacuum slowly, or all at once (your choice).
+* You hit the reaction mass of the target's maneuvering pack, which means the target can no longer change their trajectory, or they go spinning off in a random direction (your choice).
+* You can shoot a spacecraft, and degrade one ship system by one step (systems include engines, weapons, and atmosphere).
 
 Enabler.
 

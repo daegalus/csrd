@@ -65,7 +65,7 @@ Unlike many creatures in this chapter, normal animals are simple and understanda
 * **Rat:** level 1
 * **Rattlesnake:** level 2; bite inflicts 3 points of Speed damage (ignores Armor)
 
-## Fantasy Creatures And Npcs By Level
+## Fantasy Creatures And NPCs By Level
 
 | Level | Name                   |
 | ----- | ---------------------- |

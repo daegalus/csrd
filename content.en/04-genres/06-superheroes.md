@@ -32,7 +32,7 @@ And so on.
 | Mentalist            | Adept                                     |
 | Psychic ninja        | Warrior with magic flavor                 |
 
-## Basic Creatures And Npcs For A Superhero Game
+## Basic Creatures And NPCs For A Superhero Game
 
 * **Dog, guard:** level 3, attacks and perception as level 4
 * **Genetically enhanced bruiser:** level 3, attacks as level 4; health 15; 5 points of melee damage

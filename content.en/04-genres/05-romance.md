@@ -23,7 +23,7 @@ For more information and advice on safe ways to address consent issues in your g
 
 It's vital that the GM and the players all check in with each other to make sure everyone's still comfortable with what's going on in the game. This is particularly important to maintain the boundary between emotions expressed in the story and how people feel in real life.
 
-## Basic Creatures And Npcs For A Romance Game
+## Basic Creatures And NPCs For A Romance Game
 
 * **Distrustful relative:** level 2
 * **Jealous ex:** level 2, attacks as level 3
