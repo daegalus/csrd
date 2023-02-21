@@ -1,6 +1,7 @@
 ---
 title: Historical
 weight: 9
+description: Setting your campaign in World War 2, the Renaissance, or the 1930s can be fun and interesting.
 ---
 
 # Historical

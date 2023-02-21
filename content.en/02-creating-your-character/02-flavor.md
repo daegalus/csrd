@@ -1,6 +1,7 @@
 ---
 title: Flavor
 weight: 2
+description: Flavors are groups of special abilities the GM and players can use to alter a character type to make it more to their liking or more appropriate to the genre or setting.
 ---
 
 # Flavor

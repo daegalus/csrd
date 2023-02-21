@@ -1,6 +1,7 @@
 ---
 title: Fantasy Rules Module
 weight: 3
+description: Extra rules for running games in a Fantasy setting.
 ---
 
 # Fantasy Rules Modules

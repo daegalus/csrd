@@ -1,6 +1,7 @@
 ---
 title:  Cyphers
 weight:  3
+description: Cyphers are one-use abilities that characters gain over the course of play.
 ---
 
 # Cyphers

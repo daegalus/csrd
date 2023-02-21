@@ -1,6 +1,7 @@
 ---
 title: License
 weight: 100
+description: Cypher System Open License text
 ---
 
 CYPHER SYSTEM OPEN LICENSE

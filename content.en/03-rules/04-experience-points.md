@@ -1,6 +1,7 @@
 ---
 title: Experience Points
 weight: 4
+description: Experience points (XP) are the currency by which players gain benefits for their characters.
 ---
 
 # Experience Points

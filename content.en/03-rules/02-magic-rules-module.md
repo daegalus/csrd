@@ -1,6 +1,7 @@
 ---
 title: Magic Rules Module
 weight: 2
+description: Extra rules for running games in a Magical setting.
 ---
 
 # Magical Rules Module

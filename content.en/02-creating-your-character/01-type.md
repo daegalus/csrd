@@ -1,6 +1,7 @@
 ---
 title: Type
 weight: 1
+description: Character type is the core of your character. Your type helps determine your character's place in the world and relationship with other people in the setting.
 ---
 
 # Type

@@ -1,6 +1,7 @@
 ---
 title: Genres
 weight: 4
+description: This chapter provides additional information and rule got 9 genres, including fantasy, scifi, and horror. 
 ---
 
 # Genres

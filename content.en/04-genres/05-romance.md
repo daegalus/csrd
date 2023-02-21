@@ -1,6 +1,7 @@
 ---
 title: Romance
 weight: 5
+description: Like horror, romance doesn't automatically suggest a setting. It is more of a mood, or more specifically an approach, to how the game is played.
 ---
 
 # Romance

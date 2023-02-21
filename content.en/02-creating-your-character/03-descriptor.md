@@ -1,6 +1,7 @@
 ---
 title: Descriptor
 weight: 3
+description: Your descriptor defines your character---it flavors everything you do. The descriptor changes the way those characters go about every action.
 ---
 
 # Descriptor

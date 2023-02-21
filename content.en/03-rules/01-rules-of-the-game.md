@@ -1,6 +1,7 @@
 ---
 title: Rules of the Game
 weight: 1
+description: The rules and the dice help make the game run smoothly, but it's the people, not the rules or the dice, that direct the action, determine the story, and the fun
 ---
 
 # Rules of the Game

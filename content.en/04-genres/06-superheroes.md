@@ -1,6 +1,7 @@
 ---
 title: Superheroes
 weight: 6
+description: Like horror, the superhero genre is really a subset of the modern genre with extensive special considerations.
 ---
 
 # Superheroes

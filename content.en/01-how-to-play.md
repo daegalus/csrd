@@ -1,6 +1,7 @@
 ---
 title: How to Play the Cypher System
 weight: 1
+description: This chapter provides a brief explanation of how to play the game, and it's useful for learning the game.
 ---
 
 # How to Play the Cypher System

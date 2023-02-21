@@ -1,6 +1,7 @@
 ---
 title: Horror
 weight: 4
+description: Although it's very likely a subset of the modern genre, horror as a genre gets special treatment.
 ---
 
 # Horror

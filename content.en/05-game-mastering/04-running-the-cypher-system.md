@@ -1,6 +1,7 @@
 ---
 title: Running the Cypher System
 weight: 4
+description: Deeper dive into running the Cypher System, primarily extra information for the GM (Game Master)
 ---
 
 # Running the Cypher System

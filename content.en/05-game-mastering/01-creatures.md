@@ -1,6 +1,7 @@
 ---
 title: Creatures
 weight: 1
+description: This chapter describes many common and uncommon creatures that the characters might meet---and fight---in a Cypher System game and gives their stats.
 ---
 
 # Creatures

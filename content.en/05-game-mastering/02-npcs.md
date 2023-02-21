@@ -1,6 +1,7 @@
 ---
 title: NPCs
 weight: 2
+description: The NPCs in this chapter are generic examples of nonplayer characters that can be used in many genres.
 ---
 
 ## NPCs

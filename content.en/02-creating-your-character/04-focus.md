@@ -1,6 +1,7 @@
 ---
 title: Focus
 weight: 4
+description: Focus is what makes a character unique. A focus gives a character benefits when they create their character and each time they ascend to the next tier.
 ---
 
 # Focus

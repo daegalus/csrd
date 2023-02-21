@@ -1,6 +1,7 @@
 ---
 title: Fantasy
 weight: 1
+description: For our purposes, fantasy is any genre that has magic, or something so inexplicable it might as well be magic.
 ---
 
 # Fantasy

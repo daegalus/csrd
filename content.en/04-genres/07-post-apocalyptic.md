@@ -1,6 +1,7 @@
 ---
 title: Post-Apocalyptic
 weight: 7
+description: Post-apocalyptic literature, movies, and games are a subgenre of science fiction that focuses on the dystopia that follows the fall of civilization.
 ---
 
 # Post-Apocalyptic

@@ -1,6 +1,7 @@
 ---
 title: Creating Your Character
 weight: 2
+description: Explanation on how to create characters to play in a Cypher System game.
 ---
 # Creating Your Character
 

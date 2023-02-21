@@ -1,6 +1,7 @@
 ---
 title: Sheets & Links
 weight: 101
+description: Character Sheets and Other Links
 ---
 
 # Character Sheets

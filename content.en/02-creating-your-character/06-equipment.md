@@ -1,6 +1,7 @@
 ---
 title: Equipment
 weight: 6
+description: Equipment in the Cypher System plays only a small role. It's far more important to focus on what you can do than on what you have.
 ---
 
 # Equipment

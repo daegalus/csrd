@@ -1,6 +1,7 @@
 ---
 title: Fairy Tale
 weight: 8
+description: A fairytale setting, has the ability to create a sense of wonder and to evoke players' imaginations while still allowing them to keep one foot in the known.
 ---
 
 # Fairy Tale

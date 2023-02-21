@@ -1,6 +1,7 @@
 ---
 title: Science Fiction
 weight: 3
+description: Science fiction is an incredibly broad category. Even when compared to fantasy, science fiction is so wide that it almost isn't a single genre at all.
 ---
 
 # Science Fiction
@@ -3069,7 +3070,7 @@ A small warship spacecraft designed for high-G maneuvers, including use of high-
 
 {{< hint debug >}} {{< columns2 >}} Spacecraft, destroyer class <---> level 5 (15) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 
-As corvette spacecraft, but four times as large, allowing four times the crew and ten weapon systems (including two superior weapon systems). Possesses superior defenses. Often utilized to escort larger vessels in a space fleet or battle group and defend them against swarms of smaller attackers. Includes bays for two fireteams of six microcapsule fighters (darts). 
+As corvette spacecraft, but four times as large, allowing four times the crew and ten weapon systems (including two superior weapon systems). Possesses superior defenses. Often utilized to escort larger vessels in a space fleet or battle group and defend them against swarms of smaller attackers. Includes bays for two fireteams of six microcapsule fighters (darts).
 
 {{< hint debug >}} {{< columns2 >}} Spacecraft, dreadnought <---> level 5 (15) <---> Priceless {{< /columns2 >}} {{< /hint >}}
 

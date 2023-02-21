@@ -1,6 +1,7 @@
 ---
 title: Abilities
 weight: 5
+description: This chapter presents a vast catalog of more than a thousand abilities a character can gain from their type, flavor (if any), and focus.
 ---
 
 # Abilities
