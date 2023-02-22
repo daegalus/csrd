@@ -1,7 +1,7 @@
 ---
 title: Home
 BookTOC: false
-# description: The system reference document for the Cypher System, a roleplaying game by Monte Cook Games.
+description: "The system reference document for the Cypher System, a tabletop roleplaying game by Monte Cook Games."
 ---
 
 # Cypher System Reference Document
