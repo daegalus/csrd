@@ -7,10 +7,15 @@
 (function () {
   const searchDataURL = '{{ $searchData.RelPermalink }}';
   const indexConfig = Object.assign({{ $searchConfig }}, {
-    doc: {
+    tokenize: "forward",
+    optimize: true,
+    resolution: 9,
+    cache: 100,
+    worker: true,
+    document: {
       id: 'id',
-      field: ['title', 'content'],
-      store: ['title', 'href', 'section']
+      index: ['content'],
+      store: ['title', 'href', 'section', 'content'],
     }
   });
 
@@ -63,8 +68,10 @@
     fetch(searchDataURL)
       .then(pages => pages.json())
       .then(pages => {
-        window.bookSearchIndex = FlexSearch.create('balance', indexConfig);
-        window.bookSearchIndex.add(pages);
+        window.bookSearchIndex = new FlexSearch.Document(indexConfig);
+        pages.forEach(page => {
+          window.bookSearchIndex.add(page.id, page);
+        });
       })
       .then(() => input.required = false)
       .then(search);
@@ -79,16 +86,39 @@
       return;
     }
 
-    const searchHits = window.bookSearchIndex.search(input.value, 10);
-    searchHits.forEach(function (page) {
-      const li = element('<li><a href></a><small></small></li>');
-      const a = li.querySelector('a'), small = li.querySelector('small');
-
-      a.href = page.href;
-      a.textContent = page.title;
-      small.textContent = page.section;
-
-      results.appendChild(li);
+    const searchHits = window.bookSearchIndex.searchAsync(input.value, 5);
+    searchHits.then(pages => {
+      pages.forEach(function (pageMeta) {
+        pageMeta.result.forEach(function (pageIdx) {
+          console.log("Index: " + pageIdx)
+          const page = window.bookSearchIndex.store[pageIdx];
+          console.log(page)
+          const li = element('<li><a href></a><small></small><br><medium></medium></li>');
+          const a = li.querySelector('a'), small = li.querySelector('small'), medium = li.querySelector('medium');
+    
+          a.href = page.href;
+          a.textContent = page.title;
+          small.textContent = page.section;
+    
+          console.log(page)
+          const idx = page.content.indexOf(input.value);
+          if (idx > 0) {
+            // Bold the search term
+            let content = page.content.substring(0, idx) + '<strong>' + page.content.substring(idx, idx + input.value.length) + '</strong>' + page.content.substring(idx + input.value.length);
+    
+            let start = idx - (100-input.value.length)/2;
+            if (start < 0) {
+              start = 0;
+            }
+            let end = idx + input.value.length + (100-input.value.length)/2;
+            if (end > content.length) {
+              end = content.length;
+            }
+            medium.innerHTML = "..." + content.substring(start, end) + "...";
+            results.appendChild(li);
+          }
+        });
+      });
     });
   }
 

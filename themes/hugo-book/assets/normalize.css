@@ -117,6 +117,10 @@ small {
   font-size: 80%;
 }
 
+medium {
+  font-size: 90%;
+}
+
 /**
  * Prevent `sub` and `sup` elements from affecting the line height in
  * all browsers.
