@@ -15,6 +15,20 @@
 {{- $manifest := resources.Get "manifest.json" | resources.ExecuteAsTemplate "manifest.json" . }}
 <link rel="manifest" href="{{ $manifest.RelPermalink }}">
 <link rel="icon" href="{{ "favicon.png" | relURL }}" type="image/x-icon">
+<link rel="icon" type="image/png" href="{{ "favicon-196x196.png" sizes="196x196" | relURL }}" />
+<link rel="icon" type="image/png" href="{{ "favicon-96x96.png" sizes="96x96" | relURL }}" />
+<link rel="icon" type="image/png" href="{{ "favicon-32x32.png" sizes="32x32" | relURL }}" />
+<link rel="icon" type="image/png" href="{{ "favicon-16x16.png" sizes="16x16" | relURL }}" />
+<link rel="icon" type="image/png" href="{{ "favicon-128.png" sizes="128x128" | relURL }}" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ "apple-touch-icon-57x57.png" | relURL }}" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ "apple-touch-icon-114x114.png" | relURL }}" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ "apple-touch-icon-72x72.png" | relURL }}" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ "apple-touch-icon-144x144.png" | relURL }}" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="{{ "apple-touch-icon-60x60.png" | relURL }}" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="{{ "apple-touch-icon-120x120.png" | relURL }}" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="{{ "apple-touch-icon-76x76.png" | relURL }}" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{ "apple-touch-icon-152x152.png" | relURL }}" />
+
 
 {{- range .Translations }}
   <link rel="alternate" hreflang="{{ default .Language.Lang .Site.LanguageCode }}" href="{{ .Permalink }}" title="{{ partial "docs/title" . }}">
