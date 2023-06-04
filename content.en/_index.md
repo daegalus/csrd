@@ -6,7 +6,7 @@ description: "The system reference document for the Cypher System, a tabletop ro
 
 # Cypher System Reference Document
 
-## Version: 2023-02-10
+## Version: 2023-04-18
 
 {{< hint danger >}}
 I am sure there are formattng issues and mistakes in the files. If you notice anything, please use the link below to report it. There is a lot of text and easy to miss things.
@@ -24,6 +24,10 @@ If end up loving the system, and want more content, or the full rulebook, I grea
 
 ## News
 
+{{< details title="2023-06-04" open=true >}}
+I bit late on this update, but was on a long vacation when the update was released and I didn't have the ability to do the update. And it was a doozy, so much new content for Superheroes, Fairytales, and Horror. Feel free to visit the github page if you want to see all the changes/diffs.
+{{< /details >}}
+
 {{< details title="2023-02-18" open=true >}}
 Finished the first pass of formatting all the chapters/pages. I will update any formatting as I notice anything or issues are reported.
 {{< /details >}}
@@ -35,7 +39,7 @@ It doesn't have everything formatted. I do this in my spare time, so it will tak
 
 ## Support
 
-If you would like to offer support, I encourage you to first try offering support through contributing to this endeavor. Be it frontend work (I am a DevOps/Backend dev), formatting, styling, etc. Even if we need to migrate to something other than Hugo (mkdocs, gatsby, whatever), open source contributions would be preferred. 
+If you would like to offer support, I encourage you to first try offering support through contributing to this endeavor. Be it frontend work (I am a DevOps/Backend dev), formatting, styling, etc. Even if we need to migrate to something other than Hugo (mkdocs, gatsby, whatever), open source contributions would be preferred.
 
 Or if you want to proofread, find typos, mistakes, formatting problems. Just [open an issue](https://github.com/Daegalus/csrd/issues/new) on Github.
 

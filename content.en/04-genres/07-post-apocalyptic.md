@@ -44,7 +44,7 @@ In a post-apocalyptic setting, the items on the Additional Modern Equipment tabl
 | ----------- | --------------------------- |
 | Animal hide |                             |
 | Light armor | Smell hinders stealth tasks |
-
+| Shield      | Asset to Speed defense      |
 | Other Items | Notes                                   |
 | ----------- | --------------------------------------- |
 | Candle      |                                         |

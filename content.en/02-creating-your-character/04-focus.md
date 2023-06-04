@@ -277,7 +277,7 @@ A devout follower of a divine being, you channel some of your deity's power to a
 
 ### Commands Mental Powers
 
-You can pull images from dreams and bring them to life in the waking world.
+You have honed the power of your mind to perform amazing psychic deeds.
 
 * Tier 1: Telepathic
 * Tier 2: Mind Reading
@@ -354,6 +354,22 @@ You can sway the attraction of gravity itself.
 * Tier 6: Improved Gravity Cleave or Weight of the World
 
 **GM Intrusions:** Onlookers react with unreasoning fear. A weird interaction sends an ally or object careening into the sky.
+
+-----
+
+### Copies Superpowers
+
+You can copy others’ skills, abilities, and superpowers.
+
+* Tier 1: Flex Skill
+* Tier 1: Flex Skill
+* Tier 2: Copy Power
+* Tier 3: Steal Power or Wildcard Powers
+* Tier 4: Improved Copying
+* Tier 5: Power Memory
+* Tier 6: Amazing Copying or Multiple
+
+**Copying GM Intrusions:** A copied power ends unexpectedly or goes out of control. A copied power doesn’t bring secondary powers with it (like gaining superspeed without protection from air friction, or not being immune to the heat from your own fire bolts).
 
 -----
 
@@ -529,7 +545,7 @@ You command metal and the power of magnetism.
 You perform, mostly for the benefit of others.
 
 * Tier 1: Levity
-* Tier 2: Inspiration
+* Tier 2: Inspiring Ease
 * Tier 3: Knowledge Skills or Greater Enhanced Potential
 * Tier 4: Calm
 * Tier 5: Able Assistance
@@ -699,6 +715,24 @@ For brief periods, you can grow larger and, with enough experience, to towering 
 
 -----
 
+### Has A Thousand Faces
+
+You can change your appearance to look like anyone else.
+
+* Tier 1: Face Morph
+* Tier 1: Interaction Skills
+* Tier 2: Body Morph
+* Tier 2: War Flesh
+* Tier 3: Disguise Other or Resilience
+* Tier 4: Ageless
+* Tier 4: Think Your Way Out
+* Tier 5: Memory Becomes Action
+* Tier 6: Divide Your Mind or Infer Thoughts
+
+**GM Intrusions:** Part of the disguise slips. An NPC thinks the disguised character is someone they know very well.
+
+-----
+
 ### Helps Their Friends
 
 You love your friends and help them out of any difficulty, no matter what.
@@ -747,6 +781,21 @@ You are a stalking hunter who excels at bringing down your selected quarry.
 * Tier 6: Greater Skill With Attacks or Multiple Quarry
 
 **GM Intrusions:** The quarry notices the character. The quarry isn't as vulnerable as it seemed.
+
+-----
+
+### Ignores Physical Distance
+
+You can teleport from one place to another by briefly passing through a parallel dimension.
+
+* Tier 1: Dimensional Squeeze
+* Tier 2: Opportunist
+* Tier 3: Defensive Blinking or Teleportation Burst
+* Tier 4: Short Teleportation
+* Tier 5: Medium Teleportation
+* Tier 6: Teleportation or Teleportive Wound
+
+**GM Intrusions:** A teleport goes awry, landing the character in a dangerous place. Inertia (such as from falling) continues through the teleport, injuring the character.
 
 -----
 
@@ -1262,6 +1311,22 @@ When not running and hiding, you sift the ruins of civilization for useful remna
 
 -----
 
+### Sculpts Hard Light
+
+You create physical objects out of hard light that you can use for offense and defense.
+
+* Tier 1: Automatic Glow
+* Tier 1: Temporary Light
+* Tier 2: Entangling Force
+* Tier 3: Harder Light or Sculpt Light
+* Tier 4: Greater Enhanced Intellect
+* Tier 5: Improved Sculpt Light
+* Tier 6: Defensive Field or Flight
+
+**GM Intrusions:** A hard light object disappears early. A hard light object cannot affect a certain creature or color.
+
+-----
+
 ### Sees Beyond
 
 You have a psychic sense that allows you to see what others cannot.
@@ -1342,6 +1407,27 @@ Speed plus phasing gives you a unique ability to evade danger and simultaneously
 
 -----
 
+### Shrinks To Minute Size
+
+You can shrink down to the size of a bug and, with enough experience, even smaller.
+
+* Tier 1: Shrink
+* Tier 1: Beneath Notice
+* Tier 2: Smaller
+* Tier 2: Advantages of Being Small
+* Tier 3: Enlarge or Quick Switch
+* Tier 4: Small Flight
+* Tier 5: Shrink Others
+* Tier 6: Bigger or Tiny
+
+**GM Intrusions:** A creature thinks the small character is potential food. The small character gets trapped in a tiny space or under a falling object.
+
+{{< hint info >}}
+A character who Shrinks to Minute Size who chooses to learn abilities like Enlarge will never be quite as big as one who Grows to Towering Heights, but they can enjoy the advantages of being big or small as needed.
+{{< /hint >}}
+
+-----
+
 ### Siphons Power
 
 You suck power out of machines and creatures alike in order to empower yourself.
@@ -1380,6 +1466,22 @@ Although wielding a sword in a setting where people usually do not carry such we
 * Tier 6: Murderer or Heroic Monster Bane
 
 **GM Intrusions:** The monster laid a trap or set an ambush. The monster has previously undisclosed abilities. The monster's mother vows revenge.
+
+-----
+
+### Soars On Amazing Wings
+
+Many superheroes can fly, and some even have wings. You can use your wings for movement, attacks, and defense.
+
+* Tier 1: Hover
+* Tier 1: Flight Exertion
+* Tier 2: Wing Weapons
+* Tier 3: Acrobatic Attack or Flying Companion
+* Tier 4: Hard to Hit
+* Tier 5: Up to Speed
+* Tier 6: Hard Target or Defense Master
+
+**GM Intrusions:** A wing gets hurt or restrained, causing the character to fall. Flying high makes the character an obvious target for an unexpected foe.
 
 -----
 
@@ -1437,19 +1539,40 @@ Some characters who Stand Like a Bastion might already be experts in armor. They
 
 -----
 
+### Stretches
+
+Your body is elastic and rubbery, able to stretch to great lengths and compress when struck.
+
+* Tier 1: Contortionist
+* Tier 1: Far Step
+* Tier 2: Elastic Grip
+* Tier 2: Safe Fall
+* Tier 3: Bypass Barrier or Misdirect
+* Tier 4: Resilience
+* Tier 5: Free to Move
+* Tier 6:Break the Ranks or Not Dead Yet
+
+**GM Intrusions:** An attack or effect interferes with the character’s elasticity. A stretched limb becomes overstressed and weak.
+
+-----
+
 ### Takes Animal Shape
 
-A shapechanger who can take the form of various animals.
+You can transform yourself into an animal.
 
 * Tier 1: Animal Shape
 * Tier 2: Communication
 * Tier 2: Soothe the Savage
-* Tier 3: Bigger Animal Shape or Greater Beast Form (works with Animal Shape)
+* Tier 3: Bigger Animal Shape or Greater Beast Form
 * Tier 4: Animal Scrying
 * Tier 5: Hard to Kill
 * Tier 6: Blurring Speed or Lend Animal Shape
 
 **GM Intrusions:** The character unexpectedly changes form. An NPC is frightened by or aggressive toward the shapeshifter. The transformation takes longer than expected.
+
+{{< hint info >}}
+Greater Beast Form applies to using Animal Shape.
+{{< /hint >}}
 
 -----
 
@@ -1500,6 +1623,21 @@ You emit destructive sound and manipulate soundscapes.
 * Tier 6: Earthquake or Lethal Vibration
 
 **GM Intrusions:** Loud noises attract attention.
+
+-----
+
+### Touches The Sky
+
+You can summon storms or break them apart.
+
+* Tier 1: Hover
+* Tier 2: Wind Armor
+* Tier 3: Bolts of Power or Storm Seed
+* Tier 4: Windrider
+* Tier 5: Cold Burst
+* Tier 6: Control Weather or Wind Chariot
+
+**GM Intrusions:** An ally is accidentally struck by a fork of lightning. An unexpected grounding effect inflicts damage. The weather is seeded by a much smaller effect, and a storm grows out of control.
 
 -----
 
@@ -1601,9 +1739,9 @@ You command the wintery power of cold and ice.
 
 -----
 
-### Weilds An Enchanted Weapon
+### Wields An Enchanted Weapon
 
-One who channels magic through or from a weapon to create a unique fighting style.
+You have a weapon with strange abilities, and your knowledge of its powers has allowed you to create a unique style of combat with it.
 
 * Tier 1: Enchanted Weapon
 * Tier 1: Innate Power
@@ -1614,7 +1752,23 @@ One who channels magic through or from a weapon to create a unique fighting styl
 * Tier 5: Enchanted Movement
 * Tier 6: Deadly Strike or Spin Attack
 
-**GM Intrusions:** A weapon breaks or is dropped. The weapon loses its connection to you until you use an action to reestablish the attunement. The weapon's energy discharges in an unexpected way.
+**GM Intrusions:** A weapon breaks or is dropped. The character loses their connection to the weapon until they use an action to reestablish the attunement. The weapon’s energy discharges in an unexpected way.
+
+-----
+
+### Wields Invisible Force
+
+You bend light and manipulate beams of force for offense and defense.
+
+* Tier 1: Vanish
+* Tier 2: Entangling Force
+* Tier 2: Sharp Senses
+* Tier 3: Force Field Barrier or Multi-Vanish
+* Tier 4: Invisibility
+* Tier 5: Defensive Field
+* Tier 6: Concussion or Generate Force Field
+
+**GM Intrusions:** Invisibility partially fades, revealing the character’s presence. A force field is pierced by an unusual or unexpected attack.
 
 -----
 
@@ -2344,6 +2498,8 @@ focus that doesn't already have offensive benefits. That capability could be an 
 One option should use the focus paradigm to increase the defense, protection, or ability to shrug off damage.
 
 The other option could be a different way of being defensive. In some cases, the best defense is a good offense, so this option could provide a high-tier offensive ability in keeping with the focus's theme, whether that's a straight-up damage boost on attacks or better control of an unstable physical transformation.
+
+## Superhero Foci
 
 ## Customizing Foci
 

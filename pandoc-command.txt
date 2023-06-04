@@ -1,0 +1,1 @@
+pandoc -f docx -t gfm Cypher-System-Reference-Document-2023-04-18.docx --output=cypher-new.md --atx-headers --wrap=none --toc --extract-media=""

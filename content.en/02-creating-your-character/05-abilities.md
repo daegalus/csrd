@@ -1636,9 +1636,13 @@ A significant change that temporarily enhances you, such as growing bigger, turn
 
 **Advantages of Being Big:** When you use Enlarge, you're so big that you can move massive objects more easily, climb buildings by using hand- and footholds unavailable to regular-sized people, and jump much farther. While you enjoy the effects of Enlarge, all climbing, lifting, and jumping tasks are eased. Enabler.
 
+**Advantages of Being Small:** You’ve learned how to leverage your strength and accuracy in proportion to your size. Your damage is no longer halved when using Shrink, and climbing and jumping tasks are eased. Enabler.
+
 **Advice From a Friend (1 Intellect point):** You know your friend's strengths and weaknesses, and how to motivate them to succeed. When you give an ally a suggestion involving their next action, the character is trained in that action for one round. Action.
 
 **Again and Again (8 Speed points):** You can take an additional action in a round in which you have already acted. Enabler.
+
+**Ageless:** Your body and mind do not age. Unless you are killed by violence (or some outside force such as poison or infection), you will never die. Enabler.
 
 **Agent Provocateur:** Choose one of the following to be trained in: attacking with a weapon of your choice, demolitions, or sneaking and lockpicking (if you choose this last option, you are trained in both). Enabler.
 
@@ -1653,7 +1657,13 @@ ten-hour recovery action. Action.
 
 **Alley Rat (6 Intellect points):** While in a city, you find or create a significant shortcut, secret entrance, or emergency escape route where it looked like none existed. Doing so requires that you succeed on an Intellect action whose difficulty is set by the GM based on the situation. You and the GM should work out the details. Action.
 
+**Always Tinkering:** If you have any tools and materials at all, and you are carrying fewer cyphers than your limit, you can create a manifest cypher if you have an hour of time to spend. The new cypher is random and always 2 levels lower than normal (minimum 1). It’s also temperamental and fragile. These are called temperamental cyphers. If you give one to anyone else to use, it falls apart immediately, useless. Action to initiate; one hour to complete.
+
+**Amazing Copying:** You can use Copy Power to copy more powerful abilities. In addition to the normal options for using Effort with Copy Power, if you apply two levels of Effort, the GM chooses a high-tier ability that most closely resembles that power (instead of a low-tier ability). Enabler.
+
 **Amazing Effort:** When you apply at least one level of Effort to a noncombat task, you get a free level of Effort on that task. When you choose this ability, decide if it applies to Might Effort or Speed Effort. Enabler.
+
+**Amazing Leap (2 Might points):** You leap through the air and land safely some distance away. You can jump up, down, or across to anywhere you choose within long range if you have a clear and unobstructed path to that location. If you have three or more power shifts in strength, your leaping range increases to very long. If you have five or more power shifts in strength, your leaping range increases to 1,000 feet (300 m). Action.
 
 **Ambusher:** When you attack a creature that has not yet acted during the first round of combat, your attack is eased. Enabler.
 
@@ -1671,6 +1681,44 @@ Even if your animal shape has multiple attack types (such as claws and bite), yo
 
 **Animal Shape variant:** If your character concept is that you always take the same animal form instead of being able to choose from multiple kinds of animals, double the duration of the Animal Shape ability (to twenty minutes per use). The GM may allow characters with this restriction to learn additional animal forms by spending 4 XP as a long-term benefit.
 
+*Animal Form Minor Abilities Table*
+
+Use the following as examples or suggestions of what a character gains when in the shape of an animal. If an animal shape lists two skills, the character chooses which one they want each time they take that shape.
+
+| Animal            | Skill Training         | Other Abilities |
+|-------------------|------------------------|-----------------|
+| Ape               | Climbing               | Hands           |
+| Badger            | Climbing               | Scent           |
+| Bat               | Perception             | Flying          |
+| Bear              | Climbing               | Scent           |
+| Bird              | Perception             | Flying          |
+| Boar              | Might defense          | Scent           |
+| Cat               | Climbing or stealth    | Small           |
+| Constrictor snake | Climbing               | Constrict       |
+| Crocodile         | Stealth or swimming    | Constrict       |
+| Deinonychus       | Perception             | Fast            |
+| Dolphin           | Perception or swimming | Fast            |
+| Fish              | Stealth or swimming    | Aquatic         |
+| Frog              | Jumping or stealth     | Aquatic         |
+| Horse             | Perception             | Fast            |
+| Leopard           | Climbing or stealth    | Fast            |
+| Lizard            | Climbing or stealth    | Small           |
+| Octopus           | Stealth                | Aquatic         |
+| Shark             | Swimming               | Aquatic         |
+| Turtle            | Might defense          | Armor           |
+| Venomous snake    | Climbing               | Venom           |
+| Wolf              | Perception             | Scent           |
+
+* **Aquatic**: The animal either breathes water instead of air or is able to breathe water in addition to breathing air.
+* **Armor**: The animal has a thick hide or shell, granting +1 to Armor.
+* **Constrict**: The animal can grip its opponent fast after making a melee attack (usually with a bite or claw), easing attack rolls against that foe on later turns until it releases the foe.
+* **Fast**: The animal can move a long distance on its turn instead of a short distance.
+* **Flying**: The animal can fly, which (depending on the type of animal) may be up to a short or long distance on its turn.
+* **Hands**: The animal has paws or hands that are nearly as agile as those of a human. Unlike with most animal shapes, the animal’s tasks that require hands are not hindered (although the GM may decide that some tasks requiring human agility, such as playing a flute, are still hindered).
+* **Scent**: The animal has a strong sense of smell, gaining an asset on tracking and dealing with darkness or blindness.
+* **Small**: The animal is considerably smaller than a human, easing its Speed defense tasks but hindering tasks to move heavy things.
+* **Venom**: The animal is poisonous (usually through a bite), inflicting 1 additional point of damage.
+
 **Animal Senses and Sensibilities:** You are trained in listening and spotting things. In addition, most of the time, the GM should alert you if you're about to walk into an ambush or a trap that is lower than level 5. Enabler.
 
 **Answering Attack (3 Speed points):** If you are struck in melee, you can make an immediate melee attack against that attacker once per round. The attack is hindered, and you can still take your normal action during the round. Enabler.
@@ -1678,6 +1726,8 @@ Even if your animal shape has multiple attack types (such as claws and bite), yo
 **Anticipate Attack (4 Intellect points):** You can sense when and how creatures attacking you will make their attacks. Speed defense rolls are eased for one minute. Action.
 
 **Anticipation (1 Intellect point):** You look ahead to see how your actions might unfold. The first task you perform before the end of the next round gains an asset. Action.
+
+**Automatic Glow:** Hard light objects you create with your type and focus abilities shed light, illuminating everything in immediate range. Whenever you want, your body (entirely or just part of it) sheds light, illuminating everything in short range. Enabler.
 
 **Applying Your Knowledge:** When you help another character undertake any action that you're untrained in, you are treated as if you are trained in it. Action.
 
@@ -1745,6 +1795,8 @@ damage, unless otherwise stated. So a level 2 beast companion has a target numbe
 
 **Beast Form:** On five consecutive nights each month, you change into a monstrous beast for up to one hour each night. In this new form, you gain +8 to your Might Pool, +1 to your Might Edge, +2 to your Speed Pool, and +1 to your Speed Edge. While in beast form, you can't spend Intellect points for any reason other than to try to change to your normal form before the one-hour duration is over (a difficulty 2 task). In addition, you attack any and every living creature within short range. After you revert to your normal form, you take a –1 penalty to all rolls for one hour. If you did not kill and eat at least one substantial creature while in beast form, the penalty increases to –2 and affects all your rolls for the next 24 hours. Action to change back.
 
+**Beneath Notice:** Your decreased size makes it difficult to find you. While Shrink is active on you, all stealth tasks you attempt are eased. Enabler.
+
 **Bestiary Knowledge:** You are trained in the lore of flesh-eating, nonhumanoid creatures---recognizing them, knowing their weaknesses, and knowing their habits and behaviors. Enabler.
 
 **Betrayal:** Any time you convince a foe that you are not a threat and then suddenly attack it (without provocation), the attack deals 4 additional points of damage. Enabler.
@@ -1800,9 +1852,21 @@ Being so large, your beast form gains the following additional bonuses: +1 to Ar
 
 **Blurring Speed (7 Speed points):** You move so quickly that until your next turn, you look like a blur. While you are blurred, if you apply Effort to a melee attack task or Speed defense task, you get a free level of Effort on that task; you can move a short distance as part of another action or a long distance as your entire action. Enabler.
 
+**Body Morph (3+ Intellect points):** You alter your facial and bodily features and coloration for one hour, hiding your identity or impersonating someone. If you apply a level of Effort, you can imitate a specific person accurately enough to fool someone who knows them well or has observed them closely (including fingerprints and voice prints, but not their retina print or DNA). You have an asset in all tasks involving disguise (this is in addition to the asset from Face Morph). You must apply a separate level of Effort to be able to impersonate a different species (such as a human morphing into a humanoid alien). Action.
+
 **Bolt Rider (4 Intellect points):** You can move a long distance from one location to another almost instantaneously, carried by a bolt of lightning. You must be able to see the new location, and there must be no intervening barriers. Action.
 
 **Bolts of Power (5+ Intellect points):** You blast a fan of lightning out to short range in an arc that is approximately 50 feet (15 m) wide at the end. This discharge inflicts 4 points of damage. If you apply Effort to increase the damage rather than to ease the task, you deal 2 additional points of damage per level of Effort (instead of 3 points); targets in the area take 1 point of damage even if you fail the attack roll. Action.
+
+**Bolster Illusion (2+ Intellect points):** You give one of your visual illusions a limited physical reality that viewers can smell, taste, hear, and feel. This effect is bound to that illusion and acts appropriate to the illusion itself. For example, it can make the illusion of a brick wall feel like brick, the illusion of a person smell like perfume and able to open a door, and the illusion of a fireplace hot to the touch.
+
+The physical reality provided to your illusion is a level 1 effect with 3 health. If the illusion is used to make attacks, it inflicts only 1 point of damage (whether this is regular damage like an illusory punch or kick, or ambient damage like a falling brick wall or a fireplace’s flames). You can increase the level of the created effect by applying levels of Effort to this ability, each level of Effort increasing the effect’s level by 1.
+
+You can activate this ability as part of the action to create an illusion (using whatever ability it is that you use to create illusions, such as Minor Illusion), or use a separate action to apply it to one of your existing illusions. The effect ends if the illusion is destroyed, you let the illusion lapse, the effect’s health is reduced to 0, or ten minutes pass. Enabler.
+
+**Boost Manifest Cypher (2 Intellect points):** The manifest cypher you activate with your next action functions as if it were 2 levels higher. Action.
+
+**Boost Manifest Cypher Function (4 Intellect points):** Add 3 to the functioning level of a manifest cypher that you activate with your next action, or change one aspect of its parameters (range, duration, area, etc.) by up to double or down to one tenth. Action.
 
 **Bouncing Shield:** When you use Throw Force Shield, instead of dissipating after one attack (whether it hits or misses), it will attack up to two additional targets within short range. Effort or other modifiers applied to the first attack affect all other targets as well. Whether you hit all, some, or none of your targets, the shield dissipates and then reforms in your grasp. (If you choose Bouncing Shield and have previously taken the Throw Force Shield ability, you have the option to exchange that ability for Healing Pulse.) Enabler.
 
@@ -1913,6 +1977,10 @@ immediate-range illusions (such as from Minor Illusion) to anywhere within short
 
 **Command (3 Intellect points):** Through sheer force of will, you can issue a simple imperative command to a single living creature, who then attempts to carry out your command as its next action. The creature must be within short range and able to understand you. The command can't inflict direct harm on the creature or its allies, so "Commit suicide" won't work, but "Flee" might. In addition, the command can require the creature to take only one action, so "Unlock the door" might work, but "Unlock the door and run through it" won't. A commanded creature can still defend itself normally and return an attack if one is made on it. If you possess another ability that allows you to command a creature, you can target two creatures at once as your base effect if you use either ability. Action.
 
+**Command Beast (3+ Intellect points):** You can command a nonhostile, nonhuman beast (such as one that you’ve made calm with Soothe the Savage) of up to level 3 within short range. If you are successful, for the next minute the beast follows your verbal commands to the best of its understanding and ability. The GM has final say over what counts as a nonhuman beast, but unless some kind of deception is at work, you should know whether you can affect a creature before you attempt to use this ability on it. Aliens, extradimensional entities, very intelligent creatures, and robots never count.
+
+In addition to the normal options for using Effort, you can choose to use Effort to increase the maximum level of the target. Thus, to command a level 5 beast (two levels above the normal limit), you must apply two levels of Effort. Action to initiate.
+
 **Command Machine (4 Intellect points):** If you've charmed an unintelligent machine or have spoken telepathically with an intelligent machine, you can attempt to command it to take one action within its capabilities on its next turn. (If you use this ability to command an intelligent machine, it likely becomes hostile to you afterward.) Action.
 
 **Command Metal (5 Intellect points):** You reshape a metallic item as you desire. The item must be within sight and within short range, and its mass can be no greater than your own. You can affect multiple items at once as long as their combined mass falls within these limits. You can fuse multiple items together. You can use this power to destroy a metal object (as the Destroy Metal ability), or you can craft it into another desired shape (crudely, unless you have the proper crafting skills). You can then move the new object anywhere within range. For example, you could take a few metal shields, fuse them together, and use the resulting shape to block a doorway. You can use this ability to make an attack---causing a foe's armor to constrict, rendering a metal item into shards that you fling across the battlefield, and so on---against one target within short range. Regardless of the form of the attack, it is an Intellect action that deals 7 points of damage. Action.
@@ -1958,6 +2026,16 @@ immediate-range illusions (such as from Minor Illusion) to anywhere within short
 **Controlled Fall:** When you fall while you are able to use actions and within reach of a vertical surface, you can attempt to slow your fall. Make a Speed roll with a difficulty of 1 for every 20 feet (6 m) you fall. On a success, you take half damage from the fall. If you reduce the difficulty to 0, you take no damage. Enabler.
 
 **Coordinated Effort (3 Intellect points):** When you and the duplicate from your Duplicate ability would attack the same creature, you can choose to make one attack roll with an asset. If you hit, you inflict damage with both attacks and treat the attacks as if they were one attack for the purpose of subtracting Armor from the damage. Action.
+
+**Copy Power (2+ Intellect points):** You can copy someone else’s superpower for an hour, performing it as if it were natural for you. Within the past hour you must have touched the creature whose power you want to copy (an attack roll) and must have seen that ability used by them. Choose the power you want to copy, and the GM chooses an appropriate low-tier ability that most closely resembles that power. For example, if you’re battling a supervillain who can create blasts of force, if you copy that ability, you gain a low-tier ability that creates a blast of force.
+
+In addition to the point cost of Copy Power, you must pay the Might, Speed, or Intellect cost (if any) of the equivalent ability that the GM chose. For example, if you want to copy a supervillain’s force blast, the GM will probably decide that’s equivalent to Onslaught (167), so you’d pay 2 Intellect points to activate Copy Power and 1 Intellect point to use Onslaught.
+
+You can copy only one power at a time; copying another one ends any other power you’re copying with this ability.
+
+Copy Power doesn’t copy effects of a power that permanently adds points to your Pools, such as Enhanced Body (134).
+
+In addition to the normal options for using Effort, you can choose to use Effort to copy an ability you saw longer than one hour ago; each level of Effort used in this way extends the time period by one hour. Action.
 
 **Counter Danger (4 Intellect points):** You negate a source of potential danger related to one creature or object within immediate distance for one minute (instead of one round, as with Foil Danger). This could be a weapon or device held by someone, a creature's natural ability, or a trap triggered by a pressure plate. You can also try to counter an action (like moving or making a conventional mundane attack with a weapon, a claw, etc.). Action. (Using Counter Danger is usually a matter of the character applying quick thinking in the face of immediate danger. The ability doesn't rely on supernatural means, but rather a practical act.)
 
@@ -2061,6 +2139,8 @@ immediate-range illusions (such as from Minor Illusion) to anywhere within short
 
 **Defensive Augmentation:** By upgrading your nervous and immune systems, you are trained in Might defense and Speed defense tasks. Enabler.
 
+**Defensive Blinking (4 Intellect points):** You enter a heightened reactive state so that when you are struck hard enough to take damage, you teleport an immediate distance in a random direction (not up or down) to help evade the brunt of the attack. Your Speed defense rolls are eased for one minute. Action.
+
 **Defensive Field:** Thanks to subdermal implants, a permanent spell, alien modifications, or something similar, you now have a force field that radiates 1 inch (2.5 cm) from your body and provides you with +2 Armor. Enabler.
 
 **Defensive Phasing (2 Intellect points):** You can change your phase so that some attacks pass through you harmlessly. For the next ten minutes, you gain an asset to your Speed defense tasks, but during this time you lose any benefit from armor you wear. Action to initiate.
@@ -2089,6 +2169,10 @@ immediate-range illusions (such as from Minor Illusion) to anywhere within short
 
 **Diamagnetism:** You magnetize any nonmetallic object within short range so that it can be affected by your other magnetic powers. Thus, with Move Metal, you can move any object. With Repel Metal, you are trained in all Speed defense tasks, regardless of whether the incoming attack uses metal. And so on. Enabler.
 
+**Dimensional Squeeze (2+ Intellect points):** You cram yourself into a transitional dimension, allowing you to instantaneously appear anywhere you choose within short range if you have a clear and unobstructed path to that location. You can pass through an intervening barrier if it has an open space that you could easily fit your head through—about 1 square foot (30 cm by 30 cm square). In addition to the normal options for using Effort, you can choose to use Effort to pass through a smaller opening in a barrier; each level of Effort used in this way reduces the minimum opening size by one-fourth. You land safely when you use this ability. Action.
+
+*Transitional dimension:* A dimension where distances are shorter compared to those in other dimensions, so travel through it is faster than normal movement.
+
 **Dirty Fighter (2 Speed points):** You distract, blind, annoy, hamper, or otherwise interfere with a foe, hindering their attacks and defenses for one minute. Action.
 
 **Disable Mechanisms (3 Speed points):** With a keen eye and quick moves, you disrupt some functions of a robot or machine and inflict upon it one of the following maladies:
@@ -2111,6 +2195,12 @@ You must touch the robot or machine to disrupt it (if you are making an attack, 
 **Discipline of Watchfulness (7 Intellect points):** You keep your allies on their toes with occasional questions, jokes, and even mock drills for those who care to join in. After spending 24 hours with you, your allies can apply a free level of Effort to any initiative tasks they attempt. This benefit is ongoing while you remain in the allies' company. It ends if you leave, but it resumes if you return to the allies' company within 24 hours. If you leave the allies' company for more than 24 hours, you must spend another 24 hours together to reactivate the benefit. You must spend the Intellect point cost each 24 hours you wish to keep the benefit active. Enabler.
 
 **Disguise:** You are trained in disguise. You can alter your posture, voice, mannerisms, and hair to look like someone else for as long as you keep up the disguise. However, it is extremely difficult to adopt the appearance of a specific individual without a disguise kit at your disposal. Enabler.
+
+**Disguise Other (4+ Intellect points):** You apply your shapechanging ability to another creature of your size or smaller, giving them a form that you are able to assume. This lasts for about ten minutes.
+
+In addition to the normal options for using Effort, you can choose to use Effort to increase the duration; one level of Effort increases it to an hour, two increases it to a day. A creature can revert to its normal form as an action, but it cannot then change back into the altered form. Action.
+
+You probably can’t use Disguise Other to disguise a kind of creature that is very different from you, such as a human disguising a robot, animal, or crystalline alien
 
 **Disincentivize (1 Intellect point):** You hinder all actions attempted by any number of targets within short range who can understand you. You choose which targets are affected. Affected targets' actions are hindered for one round. Enabler.
 
@@ -2196,6 +2286,8 @@ You must touch the robot or machine to disrupt it (if you are making an attack, 
 **Echolocation:** You are especially sensitive to sound and vibration, so much so that you can sense your environment within a short distance regardless of your ability to see. Enabler.
 
 **Effective Skill:** Choose one noncombat skill when you gain this ability. You get a minor effect with that skill when you roll a natural 14 or higher (the d20 shows "14" or more). You get a major effect with that skill when you roll a natural 19 or higher (the d20 shows "19" or higher). You can select this ability more than once. Each time you select it, you must choose a different noncombat skill. Enabler.
+
+**Elastic Grip (3 Might points):** Your attack with your stretchy limbs or body is eased. If you hit, you can grab the target, preventing it from moving on its next turn. While you hold the target, its attacks or attempts to break free are hindered. If the target attempts to break free instead of attacking, you must succeed at a Might-based task to maintain your grip. If the target fails to break free, you can continue to hold it each round as your subsequent actions, automatically inflicting 4 points of damage each round by squeezing. Enabler.
 
 **Electric Armor (4 Intellect points):** When you wish it, electricity crackles across your body for ten minutes, granting you +1 Armor. While electrified, you have an additional +2 Armor versus electrical damage specifically, and you inflict 2 points of damage on any creature that touches you or attacks you with a melee weapon that conducts electricity. Enabler.
 
@@ -2409,11 +2501,17 @@ one-action recovery each day. Enabler.
 
 **Flex Skill:** At the beginning of each day, choose one task (other than attacks or defense) on which you will concentrate. For the rest of that day, you're trained in that task. You can't use this ability with a skill in which you're already trained to become specialized. Enabler.
 
+**Flex Weapon Skill:** At the beginning of each day, choose one type of attack: light bashing, light bladed, light ranged, medium bashing, medium bladed, medium ranged, heavy bashing, heavy bladed, or heavy ranged. For the rest of that day, you are trained in attacks using that type of weapon. You can’t use this ability with an attack skill in which you’re already trained to become specialized. Enabler.
+
 **Flight (4+ Intellect points):** You can float and fly through the air for one hour. For each level of Effort applied, you can affect one additional creature of your size or smaller. You must touch the creature to bestow the power of flight. You direct the other creature's movement, and while flying, it must remain within sight of you or fall. In terms of overland movement, a flying creature moves about 20 miles (32 km) per hour and is not affected by terrain. Action to initiate.
+
+**Flight Exertion (3 Might or 3 Speed points):** You can fly up to a short distance as your movement this round. If all you do is move on your turn, you can fly up to a long distance. Enabler.
 
 **Flight Not Fight:** If you use your action only to move, all Speed defense tasks are eased. Enabler.
 
 **Fling (4 Intellect points):** You violently launch a creature or object about your size or smaller within short range and send it flying a short distance in any direction. This is an Intellect attack that inflicts 4 points of damage to the object being flung when it lands or strikes a barrier. If you aim the primary target at another creature or object (and succeed on a second attack), the secondary target also takes 4 points of damage. Action.
+
+**Flying Companion:** You gain a level 3 companion creature that can fly at the same speed as you; depending on other aspects of your character, this might be a trained bird, a machine drone, or a helpful strange creature such as a familiar. This creature accompanies you and acts as you direct. As a level 3 companion, it has a target number of 9 and 9 health, and it inflicts 3 points of damage. If it’s killed or destroyed, it takes you one month to find or create a suitable replacement. Enabler.
 
 **Foil Danger (2 Intellect points):** You negate one source of potential danger related to one creature or object that you are aware of within immediate distance for one round. This could be a weapon or device held by someone, a trap triggered by a pressure plate, or a creature's natural ability (something special, innate, and dangerous, like a dragon's fiery breath or a giant cobra's venom). You can also try to foil a foe‘s mundane action (such as an attack with a weapon or claw), so that the action isn‘t made this round. Make your roll against the level of the attack, danger, or creature. Action.
 
@@ -2426,9 +2524,9 @@ one-action recovery each day. Enabler.
 **Force Bash (1 Might point):** This is a pummeling melee attack you make with your Force Field Shield. Your attack inflicts 1 less point of damage than normal but dazes your target for one round, during which time all tasks it performs are hindered. Enabler.
 
 **Force Blast:** You figure out how to project blasts of pure force from the gauntlets of the power armor from your Powered Armor ability. This allows you to fire a blast of force that inflicts 5 points of damage with a range of 200 feet  
-60 m). Action.
+(60 m). Action.
 
-**Force Field (3 Intellect points):** You create an invisible energy barrier around a creature or object you choose within short range. The force field moves with the creature or object and lasts for ten minutes. The target has +1 to Armor until the effect ends. Action.
+**Force Field (3 Intellect points):** You create an invisible energy barrier around a creature or object you choose within short range. The force field moves with the creature or object and lasts for ten minutes. If the target is a creature, they gain +1 to Armor; if the target is an object, attacks against it are hindered. Action.
 
 **Force Field Barrier (3+ Intellect points):** You create an opaque, stationary barrier of solid energy (a force field) within immediate range. The barrier is 10 feet by 10 feet (3 m by 3 m) and of negligible thickness. It is a level 2 barrier and lasts for ten minutes. It can be placed anywhere it fits, whether against a solid object (including the ground) or floating in the air. Each level of Effort you apply strengthens the barrier by one level. For example, applying two levels of Effort creates a level 4 barrier. Action.
 
@@ -2588,6 +2686,8 @@ an attack with a metallic bolt or metal-tipped arrow on a target within short ra
 
 **Hard-Won Resilience:** In your explorations of dark places, you've been exposed to all sorts of terrible things and are developing a general resistance. You gain +1 to Armor and are trained in Might defense tasks. Enabler.
 
+**Harder Light:** When you create an object out of hard light, the object is one level higher than normal. Enabler.
+
 **Hardiness:** You are trained in Might defense tasks. Enabler.
 
 **Have Spacesuit, Will Travel:** Somehow or another, you became the legal owner of a fully functional and advanced spacesuit. The spacesuit provides +1 Armor and, more important, allows you to survive in the vacuum of space using suit reserves for up to twelve hours at a time with enough reaction mass to get around in zero gravity on jets of ionized gas for that same period. After each use, the suit must be recharged, either with already-charged cartridges of air and reaction mass or by allowing the suit to sit idle in an area with breathable atmosphere for at least two hours, during which time it will recharge both air and reaction mass using integrated solid state mechanisms. The suit's power supply is a radioisotope thermoelectric generator, which means it'll function for a few decades before needing to be changed out. Enabler.
@@ -2676,6 +2776,10 @@ Alternatively, you can use the heads-up display to magnify your vision, increasi
 Enabler.
 
 **Improved Companion:** Your companion (such as a controlled beast) or follower increases to level 4. As a level 4 creature, it has a target number of 12 and 12 health, and it inflicts 4 points of damage (though in most cases, instead of attacking, it provides an asset to your attacks). You can gain this ability once per tier. Each additional time you select it, it increases your companion or follower's level by 1. Enabler.
+
+**Improved Copying:** You can use Copy Power to copy more powerful abilities. In addition to the normal options for using Effort with Copy Power, if you apply one level of Effort, the GM chooses a mid-tier ability that most closely resembles that power (instead of a low-tier ability). Enabler.
+
+When you use Improved Copying, a copied ability must be low, medium, or high tier according to how it is listed in the ability categories. It doesn’t matter if a type or focus makes it available at a lower or higher tier.
 
 **Improved Designation:** When you use Designation, you can designate one additional creature to be innocent or guilty, which means up to two creatures at a time may be innocent, or two guilty, or one innocent and one guilty. Enabler.
 
@@ -2927,7 +3031,7 @@ If a character has Magical Repertoire, the GM should give the PC frequent opport
 
 **Master Cypher Use:** You can bear five cyphers at a time. Enabler.
 
-**Master Entertainer:** Your Inspiration ability works more effectively, easing your friends' tasks by two steps rather than one step. Enabler.
+**Master Entertainer:** Your Inspiring Ease ability works more effectively, easing your friends' tasks by two steps rather than one step. Enabler.
 
 **Master Identifier:** You are trained in identifying the function of any kind of device. Enabler.
 
@@ -2955,6 +3059,12 @@ If a character has Magical Repertoire, the GM should give the PC frequent opport
 **Maximize Cypher:** Choose one subtle cypher you bear. Its level becomes the maximum level possible for that cypher. For example, a meditation aid has a level range of 1d6 + 2, so maximizing that cypher changes its level to 8. You can have only one maximized subtle cypher at a time. You can't use this ability again until after you've taken a ten-hour recovery action. Enabler.
 
 **Mechanical Telepathy (3 Intellect points):** By touching a thinking machine, you gain access to its surface "thoughts." Action.
+
+**Medium Teleportation (5+ Intellect points):** You instantly teleport yourself to any location within a long distance that you can see. In addition to the normal options for using Effort, you can choose to use Effort to increase your range, teleport to a location you can’t see, or bring other people with you. Each additional long distance costs one level of Effort. Teleporting to
+
+a destination you can’t see costs one level of Effort. Each additional one or two targets brought with you costs one level of Effort (you must touch any additional targets). These levels of Effort are counted separately, so teleporting an additional long distance away to a location you can’t see with two passengers costs a total of three levels of Effort. Action.
+
+If you already have Short Teleportation when you select Medium Teleportation or Teleportation, you may replace Short Teleportation with another tier 4 type ability.
 
 **Memory Becomes Action (4+ Intellect points):** You can duplicate a one-action character ability, performing it as if it were natural for you. You must have seen the ability used within the past week, it must be third tier or lower, and it must be an ability with a point cost. In addition to the point cost of Memory Becomes Action, you must pay the Might, Speed, or Intellect cost of the ability you are copying. For example, if you want to copy a friend's Lunge attack (which normally costs 2 Might points), you'd pay 4 Intellect points to activate Memory Becomes Action and 2 Might points to use Lunge. In addition to the normal options for using Effort, you can choose to use Effort to copy an ability you saw longer than one week ago; each level of Effort used in this way extends the time period by one week. Enabler.
 
@@ -3016,6 +3126,8 @@ cube. The image can move (for example, you could make the illusion of a person w
 
 **Misdirect Blame (2+ Intellect points):** Using your clever words and knowledge of others, you can attempt to alter the narrative so that a target of up to level 3 within short range becomes uncertain of its conviction in one simple area, such as their conviction that you just stole a fruit from their stand or their belief that they've never met you before. This effect usually lasts only for the period of time you spend speaking, and perhaps up to a minute longer, before the target realizes its error. In addition to the normal options for using Effort, you can choose to use Effort to increase the target level that can be affected. Afterward, all your tasks to persuade or otherwise socially interact with the target are hindered. Action.
 
+**Mist Cloud (1+ Intellect points):** You create an area of mist an immediate distance across. The cloud lingers for about a minute unless conditions (such as wind or freezing temperatures) dictate otherwise. In addition to the normal options for using Effort, you can choose to use Effort to increase the area (one level of Effort to fill a short area, two to fill a long area, or three to fill a very long area). Action.
+
 **Mobile Fighter (3 Speed points):** As part of your attack, you can leap on or over obstacles, swing from ropes, run along narrow surfaces, or otherwise move around the battlefield at your normal speed as if such tasks were routine (difficulty 0). You can't use this ability if your Speed Effort costs are reduced from wearing armor. Enabler.
 
 **Moderate Wish:** At your request, the magic ally from your Bound Magic Creature ability can spend its action casting a moderate spell on you. Afterward, it must retreat to its bound object to rest for at least one hour. The effects it can produce include the following. Action to initiate.
@@ -3026,6 +3138,8 @@ cube. The image can move (for example, you could make the illusion of a person w
 * **Invisible.** With a touch, the magic ally bends light that falls on you, so you seem to disappear. You are invisible to other creatures for ten minutes. While invisible, you are specialized in stealth and Speed defense tasks. This effect ends if you do something to reveal your presence or position---attacking, using an ability, moving a large object, and so on. If this occurs, you can regain the remaining invisibility effect by taking an action to focus on hiding your position. Action to initiate.
 
 **Modify Artifact Power (6 Intellect points):** You permanently add +1 to the level of an artifact of up to level 5. The difficulty of this task is equal to the modified higher level of the artifact. If the task is failed, the artifact makes a depletion roll and is not advanced in level. Once modified, the artifact can't be similarly boosted again. Action.
+
+**Modify Cyphers:** You can take any two manifest cyphers and quickly jury-rig a new manifest cypher of the same level as the lowest-level cypher. You determine the function of the new cypher, but it must be that of a cypher you have used before (but not necessarily one you’ve ever built). The new cypher is a temperamental cypher, like those created with Always Tinkering. The original two cyphers are consumed in this process. This ability does not function if one or more of the original cyphers are temperamental cyphers. Action.
 
 **Modify Device (4 Intellect points):** You jury-rig a piece of mechanical or electrical equipment to make it function above its rated specs for a very limited time. To do so, you must use spare parts equal to an expensive item, have a field science kit (or a permanent lab, if you have access to one), and succeed at a difficulty 3 Intellect-based task. When complete, using the device eases all tasks performed in conjunction with the device, until the device inevitably breaks. For example, you could overclock a computer so research tasks using it are easier, modify an espresso maker so that each cup of coffee made with it is better, modify a car's engine so that it goes faster (or modify its steering so it handles better), and so on. Each use of the modified device requires a depletion roll of 1–5 on a d20. Action to initiate, one hour to complete.
 
@@ -3047,11 +3161,17 @@ cube. The image can move (for example, you could make the illusion of a person w
 
 **Moving Like Water (3 Speed points):** You spin and move so that your defense and attacks are aided by your fluid motion. For one minute, all your attacks and Speed defense tasks gain an asset. Enabler.
 
+**Multiple Copying:** When you use Copy Power, you can copy two of the creature’s abilities at the same time. In addition to the normal options for using Effort with Copy Power, you can apply levels of Effort to copy additional abilities, each level of Effort copying an additional ability beyond the initial two (three for one level of Effort, four for two levels, and so on). Enabler.
+
 **Multiple Quarry (6 Intellect points):** This ability functions like the Quarry ability except that you can select up to three creatures as quarry. You must be able to see all three creatures when you initiate this ability. If you have Hunter's Drive, it applies to all three creatures. Action to initiate.
 
 **Multiple Skills:** You are trained in three skills of your choice in which you are not already trained. You can select this ability multiple times. Each time you select it, you must choose three different skills. Enabler.
 
 **Multiplicity (6 Might points):** This ability functions as Duplicate, except you can create two duplicates. Action to initiate.
+
+**Multi-Vanish (4+ Intellect points):** You turn up to five human-sized creatures or objects invisible for a short amount of time. The targets you choose must be within an immediate area and within short range of you (if you are in the area, you can make yourself invisible and don’t count toward the limit of five invisible targets). Anything invisible has an asset on stealth and Speed defense tasks. Affected creatures can see each other in a limited way, and you can see them clearly.
+
+The invisibility ends at the end of your next turn. If one of the affected creatures does something to reveal their presence or position—attacking, using an ability, moving a large object, and so on—the invisibility ends early for that creature. In addition to the normal options for using Effort, you can choose to use Effort to increase the duration; each level of Effort used in this way increases the duration by one round (but creatures can still end it early for themselves). Action.
 
 **Murderer (8+ Speed points):** With a swift and sudden attack, you strike a foe in a vital spot. If the target is level 4 or lower, it is killed outright. For each additional level of Effort you apply, you can increase the level of the target by 1. Action.
 
@@ -3198,6 +3318,8 @@ Note that some of your other special abilities may enable specific actions that 
 **Power Strike (3+ Might points):** If you successfully attack a target, you knock it prone in addition to inflicting damage. The target must be your size or smaller. You can knock down a target larger than you if you apply a level of Effort to do so (rather than to ease the attack). Enabler.
 
 **Power Crash (3 Intellect points):** You strike your enchanted weapon against the ground (or a similar large surface), creating an explosion of energy that affects an area up to immediate range from that point. (If your enchanted weapon is a ranged weapon, you can instead target a point within close range to be the center of the explosion.) The blast inflicts 2 points of damage to all creatures or objects within the area (except for you). Because this is an area attack, adding Effort to increase your damage works differently than it does for single-target attacks. If you apply a level of Effort to increase the damage, add 2 points of damage for each target, and even if you fail your attack roll, all targets in the area still take 1 point of damage. Action.
+
+**Power Memory:** When you use Copy Power, you only need to have seen the ability used within the past day (instead of the past hour), and using Effort extends how long ago your copying can reach to one day per level of Effort (instead of one hour per level). Enabler.
 
 **Powered Armor:** You have a suit of powered armor. It is effectively medium armor (+2 to Armor); however, you suffer no Speed penalties for wearing it. Also, your suit grants other benefits: it provides breathable air for up to eight hours and a comfortable environment even in bitter heat, cold, vacuum, or underwater to a depth of 4 miles (6 km); and it allows you to see in the dark up to a short distance. Getting into the suit requires an action (and, of course, access to your suit). Enabler.
 
@@ -3541,11 +3663,23 @@ If you shatter a discrete object, it shatters explosively, inflicting 1 point of
 
 **Shock (1 Intellect point):** Your hands crackle with electricity, and the next time you touch a creature, you inflict 3 points of damage. Alternatively, if you wield a weapon, for ten minutes it crackles with electricity and inflicts 1 additional point of damage per attack. Action for touch; enabler for weapon.
 
+**Short Teleportation (4+ Intellect points):** You instantly teleport to any location within a short distance that you can see. In addition to the normal options for using Effort, you can choose to use Effort to increase your range, teleport to a location you can’t see, or bring other people with you. Each additional short distance costs one level of Effort. Teleporting to a destination you can’t see costs one level of Effort. Each additional target brought with you costs one level of Effort (you must touch any additional targets). These levels of Effort are counted separately, so teleporting an additional short distance away to a location you can’t see with one passenger costs a total of three levels of Effort. Action.
+
+If you already have Short Teleportation when you select Medium Teleportation or Teleportation, you may replace Short Teleportation with another tier 4 type ability.
+
 **Show Them the Way (6+ Intellect points):** Your presence overwhelms a creature that you touch and ask to aid you. Essentially, if the creature fails to defend against your presence, you control its actions for up to ten minutes. The target must be level 3 or lower. Once you have established control, you maintain control through verbal instruction. You can allow the target to act freely or override control on a case-by case basis. In addition to the normal options for using Effort, you can choose to use Effort to increase the maximum level of the target. Thus, to affect a level 5 target (two levels above the normal limit), you must apply two levels of Effort. When the effect ends, the creature vaguely remembers doing your will, but it's as blurry as a dream. Action to initiate.
 
 **Shred Existence:** When you use Disrupting Touch, Scratch Existence, or Phase Detonation, you inflict an additional 5 points of damage that ignores Armor. Enabler.
 
 **Shroud of Flame (1 Intellect point):** At your command, your entire body becomes shrouded in flames that last up to ten minutes. The fire doesn't burn you, but it automatically inflicts 2 points of damage to anyone who tries to touch you or strike you with a melee attack. Flames from another source can still hurt you. While the shroud is active, you gain +2 Armor against damage from fire from another source. Enabler.
+
+**Shrink (1+ Might points):** You (and your clothing or suit) become much smaller than your normal size. You become 6 inches (15 cm) tall and stay that way for about a minute. During this time, you add 4 points to your Speed Pool and add +2 to your Speed Edge. While you are smaller than normal, your Speed defense rolls are eased, your movement speed is one-tenth normal, and your attacks inflict half the normal amount of damage (divide the total damage in half after all bonuses, Effort, and other damage modifiers). You can return to your normal size as part of another action.
+
+When the effects of Shrink end, your Speed Edge, movement speed, and damage return to normal, and you subtract a number of points from your Speed Pool equal to the number you gained (if this brings the Pool to 0, subtract the overflow first from your Might Pool and then, if necessary, from your Intellect Pool). Each additional time you use Shrink before your next ten-hour recovery roll, you must apply an additional level of Effort (one level of Effort for the second use, two levels of Effort for the third use, and so on).Action to initiate.
+
+The increased Effort cost for repeat uses of Shrink between ten-hour recovery rolls only applies to new activations of Shrink, not to multiple size changes within one use of Shrink enabled by Quick Switch.
+
+**Shrink Others:** You can use Shrink on other willing creatures within an immediate distance. In addition to the normal options for using Effort, you can choose to use Effort to affect more targets; each level of Effort affects one additional target. Unless these creatures have an ability to change their size, they remain small until the one-minute duration of Shrink ends for them. Enabler.
 
 **Silent As Space:** By taking advantage of microgravity conditions, you gain an asset to stealth and initiative tasks while in zero-gravity or low-gravity conditions. Enabler.
 
@@ -3562,6 +3696,10 @@ If you shatter a discrete object, it shatters explosively, inflicting 1 point of
 **Slippery:** You are trained in escaping any kind of bond or grasp. Enabler.
 
 **Slippery Customer:** When you apply Effort to tasks involving escaping from bonds, fitting in tight spaces, and other contortionist tasks, you get a free level of Effort on the task. Thanks to your experience, you are also trained in Speed defense tasks while wearing light armor or no armor. Enabler.
+
+**Small Flight (3+ Intellect points):** For the next hour, when using Shrink, you can fly through the air. You might accomplish this flight by growing wings from your body, extending wings from your suit, calling a tiny creature to carry you, or “surfing” air currents. When flying, you can move up to a short distance as part of another action or a long distance if all you do on your turn is move. Action to initiate.
+
+**Smaller:** When you use Shrink, you can choose to shrink down to about half an inch (1 cm) high, and you add 3 more temporary points to your Speed Pool. Enabler.
 
 **Snap Shot:** You can make two gun attacks as a single action, but the second attack is hindered by two steps. Enabler.
 
@@ -3630,6 +3768,10 @@ While corporeal, the spirit can't move through objects or fly. A spirit remains 
 **Stasis (3 Intellect points):** You surround a foe of your size or smaller with scintillating energy, keeping it from moving or acting for one minute, as if frozen solid. You must be able to see the target, and it must be within short range. While in stasis, the target is impervious to harm, cannot be moved, and is immune to all effects. Action.
 
 **Stay the Course (5 Intellect points):** When your companions are flagging, you can help inspire them with a well-timed word or two. Any ally (except you) within immediate range can make a recovery roll that is not an action and does not count toward their daily limit. Action.
+
+**Steal Power:** When you use Copy Power to copy an ability, the creature you copied it from loses access to that ability for about a minute. While you have their ability, any attempt by the creature to use their ability requires them to succeed at a task (Might, Speed, or Intellect, as appropriate to the stolen ability) opposed by your eased Intellect task. If they succeed, they regain the use of their ability and you lose it. Enabler.
+
+If you want to make it more difficult for someone to take back their stolen power, become skilled in the Steal Power ability, or put a power shift in power for it.
 
 **Stealth Skills: You are trained in your choice of two of the following skills:** disguise, deception, lockpicking, pickpocketing, seeing through deception, sleight of hand, or stealth. You can choose this ability multiple times, but you must select different skills each time. Enabler.
 
@@ -3721,11 +3863,17 @@ When the effects of the ability end, the creature remembers following the sugges
 
 **Teleportation (6+ Intellect points):** You instantaneously transmit yourself to any location that you have seen or been to, no matter the distance, as long as it is on Earth (or whatever world you're currently on). In addition to the normal options for using Effort, you can choose to use Effort to bring other people with you; each level of Effort used in this way affects up to three additional targets. You must touch any additional targets. Action.
 
+**Teleportation Burst (3 Intellect points):** You rapidly teleport multiple times in an immediate area, confusing your opponents and allowing you to make an additional melee attack this round. You can use this ability once per round. Enabler.
+
+**Teleportive Wound (7+ Intellect points):** You touch a creature and, if your attack succeeds, you teleport away (up to your normal maximum teleportation distance) with a significant portion of their body. If the target is level 2 or lower, it dies. If the target is level 3 or higher, it takes 6 points of damage and is stunned on its next action. If the target is a PC of any tier, they move down one step on the damage track. In addition to the normal options for using Effort, you can choose to use Effort to affect a more powerful target (one level of Effort means a target of up to level 3 dies or a target of level 4 or higher takes damage and is stunned, and so on). Action.
+
 **Telling (2 Intellect points):** This ability provides an asset to any tasks for attempting to deceive, persuade, or intimidate. Each use lasts up to a minute; a new use (to switch tasks) replaces the previous use. Action to initiate.
 
 **Temporal Acceleration (5 Intellect points):** You or one willing creature you touch moves more quickly through time. The effect lasts for one minute. Everything moves more slowly for the affected character, while to all others, the character seems to move at preternatural speed. The character has an asset on all tasks until the effect ends. After the effect ends, the target is exhausted and disoriented by the experience, hindering all tasks for one hour. Action.
 
 **Temporal Dislocation (7 Intellect points):** You disappear and travel up to one hour into the future or the past. While dislocated in time, you perceive events as they transpire from your position using your normal senses, but you can't interact with or change anything. If you project yourself into the past, you remain there for one hour, at which point you've caught up to the present (to anyone with you in the present, you only seem to flicker out of existence for a moment). If you project yourself into the future, you remain there until the present catches up to you (to anyone with you in the present, you vanish for one hour and reappear in the place you left). Action.
+
+**Temporary Light (2 Intellect points):** You create an object of solid light in any shape you can imagine that is your size or smaller, and it persists for about a minute (or longer, if you concentrate on it after that time). The object appears in an area adjacent to you, but afterward you can move it up to a short distance each round as part of another action. It is crude and can have no moving parts, so you can make a sword, a shield, a short ladder, and so on. The object has the approximate mass of the real object and is level 2. Action.
 
 **Terrifying Gaze (6 Intellect points):** You project a chilling gaze at all living creatures within short range who can see you. Make a separate Intellect attack roll for each target. Success means that the creature is frozen in fear, not moving or taking actions for one minute or until it is attacked. Some creatures without minds (such as robots) might be immune to Terrifying Gaze. Action.
 
@@ -3774,6 +3922,10 @@ In effect, Time Loop lets "you" take an action on the round you use it, two acti
 **Time Travel (10+ Intellect points):** You and up to three willing characters you choose within immediate range travel to a point in time that you specify when you use this ability. The point in time must be within ten years of the present. For each level of Effort applied, you can travel ten more years or bring three more creatures with you. When you appear in the new moment in time, you do so in the same position you were in when you used this ability. Upon arriving at your temporal destination, you and the other time travelers are stunned for one minute. In order to return to your original time, you must use this ability again. Action.
 
 **Tinker (1 Intellect point):** You make a device do something different from its original purpose. For example, a blaster becomes a bomb. A scanner becomes a signal booster for a radio transmitter. A music player becomes a battery for another device. The effective level of the modified device is 1 lower than normal, and the device is rendered unusable (for its original purpose) until repaired. Action to initiate.
+
+**Tiny:** When you use Shrink, you can choose to shrink down to about one-sixteenth of an inch (.2 cm). When you do, you add 5 more temporary points to your Speed Pool (plus any from Smaller), and because your attacks are concentrated into a very small area, you deal an additional 2 points of damage. For each level of Effort you apply to shrink even more, you become one-tenth as tall (one one-hundredth for two levels of Effort, one one-thousandth for three, and so on) and you add 1 more point to your Speed Pool. Enabler.
+
+In campaigns where characters can travel to parallel dimensions, using Tiny to shrink to one-thousandth of your normal height may be a means of doing so.
 
 **Tool Mastery:** When you have an asset from using a tool, the time required to perform the task is cut in half (minimum one round). Enabler.
 
@@ -3907,6 +4059,8 @@ On a success, you create your one-use trap in about one minute, and it is consid
 
 **Wall With Teeth:** You inflict 2 additional points of damage with all attacks when using your Living Wall ability. Enabler.
 
+**War Flesh:** You can instantly transform your hands and feet into claws, and your human teeth into fangs, or revert to your normal human appearance. When you make attacks with your claws or fangs, they count as medium weapons instead of light weapons. Enabler.
+
 **Ward:** You have a shield of energy around you at all times that helps deflect attacks. You gain +1 to Armor. Enabler.
 
 **Warding Shield:** You have +1 to Armor while you are using a shield. Enabler.
@@ -3951,6 +4105,8 @@ Enabler.
 
 **Wild Vitality (4 Intellect points):** You attune with the life force of a natural creature (your size or bigger) within long range that you can see. This is a level 2 Intellect task. If you succeed, the creature is not harmed, but through resonance with its wild vitality, you gain several benefits for up to one minute: an asset to all your Might-based tasks (including attacks and defenses), +2 to your Might Edge and Speed Edge, and 2 additional points of damage on all successful melee attacks. Action to initiate.
 
+**Wildcard Powers:** You have a gift with using copied powers in unusual ways. Whenever you try a power stunt and use a level of Effort on the special roll to modify the ability, you get a free level of Effort on that roll. Enabler.
+
 **Wilderness Awareness (4 Intellect points):** Your connection to the natural world extends to a degree that some would call supernatural. While in the wilderness, you can extend your senses up to a mile in any direction and ask the GM a very simple, general question about that area, such as "Where is the orc camp?" or "Is my friend Deithan still alive?" If the answer you seek is not in the area, you receive no information. Action.
 
 **Wilderness Encouragement (3 Intellect points):** While in the wilderness, or when talking about your time in the wilderness, your stirring words of encouragement grant a target within short range that can understand you 1d6 points to one Pool. You can't use this ability on the same creature again until they've made a recovery roll. Action.
@@ -3977,6 +4133,8 @@ Enabler.
 
 **Wings of Fire (4 Intellect points):** While your Shroud of Flame is active, you can spread wings of fire and can levitate, moving at a rate of up to 20 feet (6 m) per round in any direction for one minute. You can also take one other  
 non-movement action on your turn. Action.
+
+**Wing Weapons:** You can use your wings to make melee attacks (even when flying), leaving your hands and feet free. Your wings are medium bashing or bladed weapons (your choice). You are practiced with this attack. Enabler.
 
 **Winter Gauntlets:** When you use Frost Touch, you inflict an additional 3 points of damage if you touch a creature, or an additional 2 points of damage if you infuse a weapon. In addition, damaged targets are frozen in place (if standing on a solid surface) and can't move from their location until they use an action to break free. The target can still attack and defend. Action for touch; enabler for weapon.
 

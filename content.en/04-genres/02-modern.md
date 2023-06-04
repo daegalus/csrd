@@ -78,9 +78,10 @@ In a modern setting, the following items (and anything else appropriate to the r
 | Machete       | Medium weapon                                                     |
 | Nightstick    | Light weapon                                                      |
 
-| Armor          | Notes       |
-|----------------|-------------|
-| Leather jacket | Light armor |
+| Armor          | Notes                  |
+|----------------|------------------------|
+| Leather jacket | Light armor            |
+| Shield         | Asset to Speed defense |
 
 | Other Items        | Notes                               |
 |--------------------|-------------------------------------|

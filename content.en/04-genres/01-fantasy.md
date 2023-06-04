@@ -79,6 +79,7 @@ In the default Medieval Europe-style fantasy setting, the following items (and a
 |----------------|-------------|
 | Hides and furs | Light armor |
 | Leather jerkin | Light armor |
+| Shield         | Asset to Speed defense |
 
 | Other Items       | Notes         |
 |-------------------|---------------|
@@ -216,9 +217,6 @@ In many ways, fantasy is the genre for artifacts. All magic items---wands that s
 **Effect:** When activated, the wand looses a blast of fire at a chosen target within short range, inflicting damage equal to the artifact's level.
 
 **Depletion:** 1 in 1d20
-
-## Mixing It Up: Fantasy
-<!-- TODO: missing section? -->
 
 ## Fantasy Species Descriptors
 

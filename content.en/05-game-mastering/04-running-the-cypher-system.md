@@ -1264,7 +1264,8 @@ This character might be called a Warrior, a Soldier, a Jock, or a Construction W
 * Use any weapon without penalty
 * Wear armor without penalty
 * Stun an enemy as part of your attack, forcing them to lose their next action (costs 1 Might point)
-* Trained in two of the following: climbing, jumping, running, swimming • Add +2 to recovery rolls
+* Trained in two of the following: climbing, jumping, running, swimming
+* Add +2 to recovery rolls
 
 ##### Sneaking
 
@@ -1282,7 +1283,7 @@ This character might be called an Explorer, a Detective, a Scientist, or a Middl
 * Trained in perception and Intellect defense rolls
 * Trained in Might and Speed defense rolls
 * Trained in two of the following: climbing, jumping, running, swimming
-* Trained in knowledge-based skills (history, biology, geography, and so on) • Add +2 to recovery rolls
+* Trained in knowledge-based skills (history, biology, geography, and so on) * Add +2 to recovery rolls
 
 ##### Talking
 
@@ -1383,7 +1384,8 @@ Other facts:
 
 * The floor the PCs are on has only a few other people on it currently.
 * It will take about ten minutes for first responders to arrive. They will take positions around the base of the building, and, after determining that the fire is on floor 10, will evacuate floors below that and set up on floor 8. This will likely take ten to fifteen minutes. During this time, authorities will attempt to contact anyone on floors above 10 and tell them to stay put, so office phones and some cell phones will start ringing. It's very likely that more bombs will go off at this time, with rescue workers recalled for safety.
-* Emergency services will be jammed with calls. • The elevator cabs all descend to the ground floor and no longer function.
+* Emergency services will be jammed with calls.
+* The elevator cabs all descend to the ground floor and no longer function.
 * Whenever the fire spreads to a new floor, the sprinklers will go off. This is enough to keep the fire from spreading too much or too quickly, but the incendiary bombs make it impossible for the sprinklers alone to put the fire out.
 
 ### Possible Encounters

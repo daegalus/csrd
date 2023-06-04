@@ -38,7 +38,7 @@ When a PC is near someone they are infatuated with, particularly in the early st
 
 Infatuation can happen whether the PC is attracted to an NPC or a PC.
 
-## Optional Rule: Relationship Levels
+## Optional Rules: Relationship Levels
 
 When a PC first establishes a relationship with a character (PC or NPC), the GM should assign the relationship a level. If there's no connection at all, there is no relationship (level 0). Otherwise, the starting relationship is probably level 1. In certain circumstances, a relationship might start at level 2, indicating a far stronger initial connection than usual.
 
