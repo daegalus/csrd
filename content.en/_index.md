@@ -24,6 +24,12 @@ If end up loving the system, and want more content, or the full rulebook, I grea
 
 ## News
 
+{{< details title="2024-07-02" open=true >}}
+I am aware of the new CSRD version, but I'm currently in the midst of a move to Europe in addition to parenting an toddler and an infant. might take me a few days to a couple of weeks to update the site with changes.
+
+Sorry for the inconvenience.
+{{< /details >}}
+
 {{< details title="2023-06-04" open=true >}}
 I bit late on this update, but was on a long vacation when the update was released and I didn't have the ability to do the update. And it was a doozy, so much new content for Superheroes, Fairytales, and Horror. Feel free to visit the github page if you want to see all the changes/diffs.
 {{< /details >}}
