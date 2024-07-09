@@ -234,7 +234,7 @@ Le guerrier peut porter deux cyphers. Le MJ décide que le premier cypher de Ray
 
 Ray doit encore choisir un descripteur et une motivation. En prévision des règles des descripteurs, Ray choisit Strong, ce qui augmente son Réerve de Puissance à 17. Il s'entraîne également à sauter et à briser des objets inanimés. (S'il avait choisi le saut comme l'une de ses compétences physiques, le descripteur Fort l'aurait fait se spécialiser dans le saut au lieu de s'entraîner.) Être fort donne également à Ray une arme supplémentaire moyenne ou lourde. Il choisit une batte de baseball qu'il utilisera à la rigueur. Il le garde dans le coffre de sa voiture.
 
-Pour se concentrer, Ray choisit Masters Weaponry. Cela lui donne encore une arme de grande qualité. Il choisit un autre couteau de combat et demande au MJ s'il peut l'utiliser dans sa main gauche, non pas pour effectuer des attaques, mais comme bouclier. Cela facilitera ses jets de défense en Vitesse s'il a ses deux couteaux sortis (le "bouclier" compte comme un atout). Le MJ est d'accord. Pendant le jeu, le Guerrier de Ray sera difficile à toucher --- il est entraîné aux jets de défense de Vitesse, et son couteau supplémentaire facilite encore plus ses jets de défense.
+Pour se concentrer, Ray choisit Maîtrise l'Armement. Cela lui donne encore une arme de grande qualité. Il choisit un autre couteau de combat et demande au MJ s'il peut l'utiliser dans sa main gauche, non pas pour effectuer des attaques, mais comme bouclier. Cela facilitera ses jets de défense en Vitesse s'il a ses deux couteaux sortis (le "bouclier" compte comme un atout). Le MJ est d'accord. Pendant le jeu, le Guerrier de Ray sera difficile à toucher --- il est entraîné aux jets de défense de Vitesse, et son couteau supplémentaire facilite encore plus ses jets de défense.
 
 Grâce à sa Motivation, il inflige également 1 point de dégâts supplémentaire avec l'arme de son choix. Il inflige désormais 6 points de dégâts avec sa lame. Le personnage de Ray est un combattant mortel, commençant probablement le jeu avec une réputation de combattant au couteau.
 
@@ -883,9 +883,9 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Alchemiste:** Dans le sens où un alchimiste est quelqu'un qui fabrique des objets magiques ou des choses similaires, Adepte et Explorateur sont des choix de type appropriés pour les alchimistes universitaires. Pour un alchimiste général qui fabrique des potions aux effets magiques, choisissez la Motivation Maîtrise les Sortilèges (au lieu de sorts, vous apprenez des potions). Pour celui qui se transforme en une créature puissante et dangereuse, choisissez Hurle à la Lune. Pour celui qui aime lancer des bombes, choisissez Se Revêt d'un Halo de Feu. Pour un guérisseur, choisissez Fait des Miracles.
 
-**Assassin/Espion:** Explorateur et Guerrier sont de bons choix de type pour un personnage assassin. Les Motivations appropriées sont Masters Weaponry, Moves Like a Cat, Murders, et Works the Back Alleys.
+**Assassin/Espion:** Explorateur et Guerrier sont de bons choix de type pour un personnage assassin. Les Motivations appropriées sont Maîtrise l'Armement, Moves Like a Cat, Murders, et Works the Back Alleys.
 
-**Barbare:** Un personnage barbare est probablement un Guerrier ou (pour se concentrer un peu plus sur les compétences que sur le combat) un Explorateur. Les bons Motivations parmi lesquels choisir sont Lives in the Wilderness, Masters Weaponry, Needs No Weapon, Never Says Die, Performs Feats of Strength, et Rages.
+**Barbare:** Un personnage barbare est probablement un Guerrier ou (pour se concentrer un peu plus sur les compétences que sur le combat) un Explorateur. Les bons Motivations parmi lesquels choisir sont Lives in the Wilderness, Maîtrise l'Armement, Needs No Weapon, Never Says Die, Performs Feats of Strength, et Rages.
 
 **Barde:** Les bardes dans la fiction et les jeux fantastiques sont des troubadours, des ménestrels et des conteurs, avec peut-être un élément surnaturel. Les bardes sont généralement des explorateurs ou des émissaires. Les Motivations appropriées sont Entertains, Helps Their Friends, Infiltrates, and Maîtrise les Sortilèges.
 
@@ -897,7 +897,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 * **Cleric (light):** Blazes With Radiance, Channels Divine Blessings
 * **Cleric (storm):** Rides the Lightning, Thunders
 * **Cleric (trickery):** Prend une Forme Animale\* (voir aussi les options pour les voleurs)
-* **Cleric (war):** Masters Weaponry (voir aussi les options pour les combattants)
+* **Cleric (war):** Maîtrise l'Armement (voir aussi les options pour les combattants)
 
 **Druid:** En tant que sorte très spécifique de prêtre de la nature, un personnage druide est généralement un Adepte ou un Explorateur (dans les deux cas utilisant probablement la Préference magique). Un druide typique a probablement pour Motivation Channels Divine Blessings ou Lives in the Wilderness, mais pour des options plus spécifiques, voir les Motivations suivantes:
 
@@ -906,13 +906,13 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 * **Druid (nature affinity):** Speaks for the Land
 * **Druid (transformation):** Abides in Stone, Prend une Forme Animale\*, Walks the Wild Woods\*
 
-**Combattant:** Les combattants sont presque toujours du type Guerrier, mais certains sont des Explorateurs. Un combattant typique a probablement une motivation comme Masters Weaponry or Wields an Enchanted Weapon\*. Pour des options supplémentaires basées sur le choix d'un rôle de combat spécifique, voir ce qui suit:
+**Combattant:** Les combattants sont presque toujours du type Guerrier, mais certains sont des Explorateurs. Un combattant typique a probablement une motivation comme Maîtrise l'Armement or Wields an Enchanted Weapon\*. Pour des options supplémentaires basées sur le choix d'un rôle de combat spécifique, voir ce qui suit:
 
 * **Fighter (guardian):** Brandishes an Exotic Shield, Defends the Gate, Masters Defense, Never Says Die, Stands Like a Bastion.
 * **Fighter (melee):** Fights Dirty, Fights With Panache, Looks For Trouble, Needs No Weapon, Wields Two Weapons at Once
 * **Fighter (ranged):** Is Licensed to Carry, Throws With Deadly Accuracy
 
-**Pistolero:** Un pistolero est probablemebt un Guerrier ou un Explorateur, et certains peuvent être des Emissaires avec une Préférence de Combat. ALes Motivations appropriées sont Is Licensed to Carry, Masters Weaponry, Sailed Beneath the Jolly Roger, et Wields an Enchanted Weapon\*.
+**Pistolero:** Un pistolero est probablemebt un Guerrier ou un Explorateur, et certains peuvent être des Emissaires avec une Préférence de Combat. ALes Motivations appropriées sont Is Licensed to Carry, Maîtrise l'Armement, Sailed Beneath the Jolly Roger, et Wields an Enchanted Weapon\*.
 
 **Inquisiteur:** Les inquisiteurs sont généralement des Explorateurs, des Emissaires ou des Guerriers, selon qu'ils ont tendance à posséder de nombreuses compétences, à être doués pour interagir avec les gens ou à combattre. Les Motivations appropriées sont Infiltrates, Metes Out Justice, and Operates Undercover.
 
@@ -938,7 +938,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Escroc ou Arnaqueur:** Ces gens intelligents sont généralement des Emissaires, bien qu'ils puissent être des Adeptes s'ils sont très magiques (ou des Explorateurs s'ils ne sont pas magiques du tout). Les choix de Motivation incluent Fights Dirty, Works the Back Alleys ou Entertains.
 
-**Guerrier-Mage:** Pour ces personnages inhabituels qui utilisent un mélange d'attaques avec des armes et de sorts, incarnez un Guerrier à Préférence magique ou un expert à Préférence de combat ou de magie. Les Motivations appropriées incluent Fights With Panache, Masters Weaponry, and Wields an Enchanted Weapon\*.
+**Guerrier-Mage:** Pour ces personnages inhabituels qui utilisent un mélange d'attaques avec des armes et de sorts, incarnez un Guerrier à Préférence magique ou un expert à Préférence de combat ou de magie. Les Motivations appropriées incluent Fights With Panache, Maîtrise l'Armement, and Wields an Enchanted Weapon\*.
 
 **Démoniste ou Occultiste:** Pour les besoins de cette liste, les Démoniste et les Occultiste sont des mages qui acquièrent des pouvoirs magiques grâce aux pactes qu'ils concluent avec des entités d'un autre monde. La plupart des démonistes sont des Adeptes, mais les Explorateurs et les Emissaires (peut-être avec une Préférence magique) peuvent être des options intéressantes. Les Motivations interressantes pour un occultiste incluent Dances With Dark Matter, Keeps a Magic Ally, Masters the Swarm, Separates Mind From Body, and Was Foretold, mais aussi (en fonction de l'entité et du pacte) la plupart des Motivations des Sorciers et des Magiciens fonctionnent tout aussi bien.
 

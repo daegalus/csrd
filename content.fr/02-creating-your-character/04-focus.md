@@ -160,6 +160,21 @@ Votre chair est constituée de minéraux durs, ce qui fait de vous un humanoïde
 
 -----
 
+### Fait des Miracles
+
+Vous pouvez guérir les autres d’un simple toucher, modifier le temps pour aider les autres et êtes généralement aimé de tous.
+
+* Rang 1: Main Guérisseuse
+* Rang 2: Soulager
+* Rang 3: Source de guérison ou Santé miraculeuse
+* Rang 4: Inspirer l'action
+* Rang 5: Annuler
+* Rang 6: Main Guérisseuse Supérieure ou Restaurer la vie
+
+**Intrusions du MJ:** Les tentatives de guérison pourraient plutôt causer du tort. Une communauté ou un individu a si désespérément besoin d'un guérisseur qu'il en a un contre son gré.
+
+-----
+
 ### Hurle à la Lune
 
 Pendant de brèves périodes, vous devenez une créature redoutable et puissante avec des problèmes de contrôle.
@@ -172,6 +187,24 @@ Pendant de brèves périodes, vous devenez une créature redoutable et puissante
 * Rang 6: Dégâts mortels ou Contrôle parfait
 
 **Intrusions du MJ:** Le changement se produit de manière incontrôlée. Les gens ont peur des monstres.
+
+-----
+
+### Maîtrise l'Armement
+
+Vous êtes un maître d'arme d'un type particulier d'arme, qu'il s'agisse d'une épée, d'un fouet, d'un poignard, d'un pistolet ou autre.
+
+(Quelqu’un qui Maîtrise l'Armement peut disposer d’un équipement supplémentaire, notamment une arme de haute qualité.)
+
+* Rang 1: Maître d'Arme
+* Rang 1: Fabricant d'armes
+* Rang 2: Défense avec Arme
+* Rang 3: Attaque rapide ou Frappe désarmante
+* Rang 4: Ne jamais échouer
+* Rang 5: Maîtrise extrême
+* Rang 6: Meurtrier ou Frappe mortelle
+
+**Intrusions du MJ:** Les armes se brisent. Les armes peuvent être volées. Les armes peuvent être lâchées ou arrachées de votre main.
 
 -----
 
@@ -1057,24 +1090,6 @@ Insects. Rats. Bats. Even birds. You master one type of small creature that obey
 
 -----
 
-### Masters Weaponry
-
-You are a master user of a particular type of weapon, be it a sword, whip, dagger, gun, ou something else.
-
-(Someone who Masters Weaponry might have additional equipment, including a high- quality weapon.)
-
-* Rang 1: Weapon Master
-* Rang 1: Weapon Crafter
-* Rang 2: Weapon Defense
-* Rang 3: Rapid Attack ou Disarming Strike
-* Rang 4: Never Fumble
-* Rang 5: Extreme Mastery
-* Rang 6: Murderer ou Deadly Strike
-
-**Intrusions du MJ:** Weapons break. Weapons can be stolen. Weapons can be dropped ou forced out of your hand.
-
------
-
 ### Metes Out Justice
 
 You right wrongs, protect the innocent, and punish the guilty.
@@ -1801,21 +1816,6 @@ You take great satisfaction in a job well done, whether it's coding, building ho
 * Rang 6: Greater Enhanced Potential ou  Hard-Won Resilience
 
 **Intrusions du MJ:** Repairs sometimes fail. Wiring can be tricky to decipher and still carry an electrical charge. Some people are rude to those who work for a living.
-
------
-
-### Fait des Miracles
-
-Vous pouvez guérir les autres d’un simple toucher, modifier le temps pour aider les autres et êtes généralement aimé de tous.
-
-* Rang 1: Main Guérisseuse
-* Rang 2: Soulager
-* Rang 3: Source de guérison ou Santé miraculeuse
-* Rang 4: Inspirer l'action
-* Rang 5: Annuler
-* Rang 6: Main Guérisseuse Supérieure ou Restaurer la vie
-
-**Intrusions du MJ:** Les tentatives de guérison pourraient plutôt causer du tort. Une communauté ou un individu a si désespérément besoin d'un guérisseur qu'il en a un contre son gré.
 
 -----
 
