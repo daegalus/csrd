@@ -881,7 +881,7 @@ Pour son arc de personnage, Mary choisit Fall From Grace. Elle décide qu'elle e
 
 Dans certains cas, les idées présentées ici nécessitent des modifications mineures de l'ambiance décrite dans les options des personnages ; vous devez travailler avec votre MJ pour vous assurer que ces changements sont adaptés à la campagne. La plupart des Motivations de cette section apparaissent dans le système Cypher ; les Motivations marqués d'un astérisque (\*) se trouvent plus loin dans ce document. Certaines de ces options recommandent de remplacer une capacité de type par une capacité de l'une des Préférences de personnage, comme le combat, la magie ou la furtivité.
 
-**Alchemiste:** Dans le sens où un alchimiste est quelqu'un qui fabrique des objets magiques ou des choses similaires, Adepte et Explorateur sont des choix de type appropriés pour les alchimistes universitaires. Pour un alchimiste général qui fabrique des potions aux effets magiques, choisissez la Motivation Maîtrise les Sortilèges (au lieu de sorts, vous apprenez des potions). Pour celui qui se transforme en une créature puissante et dangereuse, choisissez Hurle à la Lune. Pour celui qui aime lancer des bombes, choisissez Se Revêt d'un Halo de Feu. Pour un guérisseur, choisissez Works Miracles.
+**Alchemiste:** Dans le sens où un alchimiste est quelqu'un qui fabrique des objets magiques ou des choses similaires, Adepte et Explorateur sont des choix de type appropriés pour les alchimistes universitaires. Pour un alchimiste général qui fabrique des potions aux effets magiques, choisissez la Motivation Maîtrise les Sortilèges (au lieu de sorts, vous apprenez des potions). Pour celui qui se transforme en une créature puissante et dangereuse, choisissez Hurle à la Lune. Pour celui qui aime lancer des bombes, choisissez Se Revêt d'un Halo de Feu. Pour un guérisseur, choisissez Fait des Miracles.
 
 **Assassin/Espion:** Explorateur et Guerrier sont de bons choix de type pour un personnage assassin. Les Motivations appropriées sont Masters Weaponry, Moves Like a Cat, Murders, et Works the Back Alleys.
 
@@ -893,7 +893,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 * **Cleric (death):** Consorts With the Dead, Shepherds Spirits
 * **Cleric (knowledge):** Learns Quickly, Sees Beyond, Would Rather Be Reading
-* **Cleric (life):** Defends the Weak, Shepherds the Community, Works Miracles
+* **Cleric (life):** Defends the Weak, Shepherds the Community, Fait des Miracles
 * **Cleric (light):** Blazes With Radiance, Channels Divine Blessings
 * **Cleric (storm):** Rides the Lightning, Thunders
 * **Cleric (trickery):** Prend une Forme Animale\* (voir aussi les options pour les voleurs)

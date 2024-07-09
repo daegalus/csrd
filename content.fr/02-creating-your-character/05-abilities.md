@@ -300,19 +300,19 @@ Soignent les dommages, ajoutent ou améliorent les jets de récupération, ou an
 * Evasion
 <--->
 * Ignorez la Douleur
+* Main Guérisseuse
 * Passer à travers
 * Plongeur
 * Présence reposante
 * Réparer la chair
 * Récupération améliorée
 * Récupération rapide
-* Récupération Rapide d'un autre
 <--->
+* Récupération Rapide d'un autre
 * Récupération supplémentaire
 * Soulager
 * Sursaut de confiance
 * Totalement Chill
-* Toucher curatif
 * Vivre de la terre
 * Volonté de Légende
 {{< /columns >}}
@@ -363,17 +363,17 @@ Soignent les dommages, ajoutent ou améliorent les jets de récupération, ou an
 <--->
 * Inspirez les innocents
 * Libre de se déplacer
+* Main Guérisseuse Supérieure
 * Maintenez le cap
 * Partagez le pouvoir
 * Pas encore mort
 * Réanimer
 * Récupération rapide
-* Régénérer
 <--->
+* Régénérer
 * Restaurer la vie
 * Réserves Partagées
 * Sursaut mental
-* Toucher de guérison supérieur
 * Vigilant
 {{< /columns >}}
 
@@ -3035,25 +3035,11 @@ Joueur’s Fortitude/Endurance du joueur: S'asseoir et jouer à un jeu pendant 
 
 **Main ardente du destin** (3 points d'Intelligence) : Pendant que votre Manteau de flammes est actif, vous pouvez atteindre votre halo et produire une main faite de flammes animées qui fait deux fois la taille d'une main humaine. La main agit selon vos directives, flottant dans les airs. Diriger la main est une action. Sans commande, la main ne fait rien. Il peut se déplacer sur une longue distance en un tour, mais il ne s'éloigne jamais plus loin de vous qu'une longue distance. La main peut saisir, déplacer et transporter des objets, mais tout ce qu'elle touche subit 1 point de dégâts par round à cause de la chaleur. La main peut aussi attaquer. C'est une créature de niveau 3 et inflige 1 point de dégâts de feu supplémentaire lorsqu'elle attaque. Une fois créée, la main dure dix minutes. Action de créer ; action à diriger.
 
+**Main Guérisseuse** (1 point d'Intelligence) : avec un contact, vous restaurez 1d6 points à un pool de statistiques de n'importe quelle créature. Cette capacité est une tâche de difficulté Intellect 2. Chaque fois que vous tentez de soigner la même créature, la tâche est gênée par une étape supplémentaire. La difficulté revient à 2 après que cette créature se repose pendant dix heures. Action.
+
+**Main Guérisseuse Supérieure** (4 points d'Intelligence) : vous touchez une créature et restaurez sa Réserve de Puissance, sa Réserve de Vitesse et sa Réserve d'Intelligence à leurs valeurs maximales, comme si elle était complètement reposée. Une seule créature ne peut bénéficier de cette capacité qu’une fois par jour. Action.
+
 **Maintenez le cap** (5 points d'Intelligence) : Lorsque vos compagnons faibliront, vous pouvez les inspirer avec un mot ou deux au bon moment. Tout allié (sauf vous) à portée immédiate peut effectuer un jet de récupération qui n'est pas une action et ne compte pas dans sa limite quotidienne. Action.
-
-**Manteau d'opportunité** (5 points d'Intelligence): vous faites tourbillonner de petits objets de l'environnement (rochers, objets cassés, mottes de terre, etc.) autour de vous pendant dix minutes maximum, ce qui vous confère +2 d'armure. Action à initier.
-
-**Manteau de flammes** (1 point d'Intelligence) : sur votre commande, votre corps tout entier est enveloppé de flammes qui durent jusqu'à dix minutes. Le feu ne vous brûle pas, mais il inflige automatiquement 2 points de dégâts à quiconque tente de vous toucher ou de vous frapper avec une attaque au corps à corps. Les flammes provenant d’une autre source peuvent toujours vous blesser. Tant que le linceul est actif, vous gagnez +2 en armure contre les dégâts de feu provenant d'une autre source. Facilitateur.
-
-**Manteau de matière noire** (4 points d'Intelligence): des rubans de matière noire se condensent et tourbillonnent autour de vous pendant une minute maximum. Ce manteau facilite vos tâches de défense de vitesse, inflige 2 points de dégâts à quiconque tente de vous toucher ou de vous frapper avec une attaque au corps à corps et vous donne +1 d'armure. Action à initier.
-
-**Marche impossible** (5+ points de vitesse) : Vous pouvez marcher (ou ramper ou courir) sur des pentes raides et des surfaces horizontales (telles que des murs et des falaises) pendant la minute suivante comme s'il s'agissait d'un terrain plat. Lorsque vous utilisez cette capacité, « vers le bas » pour vous correspond soit à la surface sur laquelle vous marchez, soit à l'orientation normale de la gravité (votre choix). Si vous appliquez un niveau d'Effort, vous pouvez également marcher au plafond ou sur une surface liquide ou semi-liquide comme de l'eau, de la boue, des sables mouvants ou même de la lave (même si toucher une surface dangereuse comme la lave vous fait toujours du mal). Si vous appliquez deux niveaux d'effort, vous pouvez également marcher dans les airs comme s'il s'agissait d'un sol solide. Facilitateur.
-
-**Marin** : Vous êtes formé aux tâches liées à la voile et formé à la géographie des îles et des littoraux. Facilitateur.
-
-**Masque** (5 points d'Intelligence) : Vous transformez votre corps pour devenir quelqu'un d'autre. Vous pouvez modifier toutes les caractéristiques physiques de votre choix, notamment la coloration, la taille, le poids, le sexe et les marques distinctives. Vous pouvez également modifier l’apparence de tout ce que vous portez ou transportez. Vos statistiques, ainsi que celles de vos objets, ne changent pas. Vous restez sous cette forme jusqu'à une journée ou jusqu'à ce que vous utilisiez une action pour reprendre votre apparence normale. Action à initier.
-
-**Mathématiques Complémentaires**: Vous êtes spécialisé en mathématiques supérieures. Si vous êtes déjà spécialisé, choisissez un autre domaine de connaissances dans lequel vous former.
-
-**Mathématiques supérieures**: Vous êtes entraîné aux mathématiques standards et supérieures. Facilitateur.
-
-**Maximiser le Cypher**: choisissez un cypher subtil que vous portez. Son niveau devient le niveau maximum possible pour ce cypher. Par exemple, une aide à la méditation a une plage de niveaux de 1d6 + 2, donc maximiser ce cypher change son niveau à 8. Vous ne pouvez avoir qu'un seul cypher subtil maximisé à la fois. Vous ne pouvez plus utiliser cette capacité avant d’avoir effectué une action de récupération de dix heures. Facilitateur.
 
 **Maître artisan** : Vous êtes entraîné à la fabrication de deux types d'objets, ou vous êtes spécialisé dans deux types d'objets pour lesquels vous êtes déjà entraîné.
 
@@ -3092,6 +3078,24 @@ Enfin, l'allié magique peut se transformer en fumée et en flammes lors de son 
 **Maîtrise en Armure**: la réduction du coût de votre capacité Pratiqué en armure s'améliore. Vous réduisez désormais le coût de l'effort de vitesse pour porter une armure à 0.
 
 **Maîtrise extrême** (6 points de puissance ou 6 points de vitesse) : lorsque vous utilisez l'arme de votre choix, vous pouvez relancer n'importe quel jet d'attaque de votre choix et prendre le meilleur des deux résultats. Facilitateur.
+
+**Manteau d'opportunité** (5 points d'Intelligence): vous faites tourbillonner de petits objets de l'environnement (rochers, objets cassés, mottes de terre, etc.) autour de vous pendant dix minutes maximum, ce qui vous confère +2 d'armure. Action à initier.
+
+**Manteau de flammes** (1 point d'Intelligence) : sur votre commande, votre corps tout entier est enveloppé de flammes qui durent jusqu'à dix minutes. Le feu ne vous brûle pas, mais il inflige automatiquement 2 points de dégâts à quiconque tente de vous toucher ou de vous frapper avec une attaque au corps à corps. Les flammes provenant d’une autre source peuvent toujours vous blesser. Tant que le linceul est actif, vous gagnez +2 en armure contre les dégâts de feu provenant d'une autre source. Facilitateur.
+
+**Manteau de matière noire** (4 points d'Intelligence): des rubans de matière noire se condensent et tourbillonnent autour de vous pendant une minute maximum. Ce manteau facilite vos tâches de défense de vitesse, inflige 2 points de dégâts à quiconque tente de vous toucher ou de vous frapper avec une attaque au corps à corps et vous donne +1 d'armure. Action à initier.
+
+**Marche impossible** (5+ points de vitesse) : Vous pouvez marcher (ou ramper ou courir) sur des pentes raides et des surfaces horizontales (telles que des murs et des falaises) pendant la minute suivante comme s'il s'agissait d'un terrain plat. Lorsque vous utilisez cette capacité, « vers le bas » pour vous correspond soit à la surface sur laquelle vous marchez, soit à l'orientation normale de la gravité (votre choix). Si vous appliquez un niveau d'Effort, vous pouvez également marcher au plafond ou sur une surface liquide ou semi-liquide comme de l'eau, de la boue, des sables mouvants ou même de la lave (même si toucher une surface dangereuse comme la lave vous fait toujours du mal). Si vous appliquez deux niveaux d'effort, vous pouvez également marcher dans les airs comme s'il s'agissait d'un sol solide. Facilitateur.
+
+**Marin** : Vous êtes formé aux tâches liées à la voile et formé à la géographie des îles et des littoraux. Facilitateur.
+
+**Masque** (5 points d'Intelligence) : Vous transformez votre corps pour devenir quelqu'un d'autre. Vous pouvez modifier toutes les caractéristiques physiques de votre choix, notamment la coloration, la taille, le poids, le sexe et les marques distinctives. Vous pouvez également modifier l’apparence de tout ce que vous portez ou transportez. Vos statistiques, ainsi que celles de vos objets, ne changent pas. Vous restez sous cette forme jusqu'à une journée ou jusqu'à ce que vous utilisiez une action pour reprendre votre apparence normale. Action à initier.
+
+**Mathématiques Complémentaires**: Vous êtes spécialisé en mathématiques supérieures. Si vous êtes déjà spécialisé, choisissez un autre domaine de connaissances dans lequel vous former.
+
+**Mathématiques supérieures**: Vous êtes entraîné aux mathématiques standards et supérieures. Facilitateur.
+
+**Maximiser le Cypher**: choisissez un cypher subtil que vous portez. Son niveau devient le niveau maximum possible pour ce cypher. Par exemple, une aide à la méditation a une plage de niveaux de 1d6 + 2, donc maximiser ce cypher change son niveau à 8. Vous ne pouvez avoir qu'un seul cypher subtil maximisé à la fois. Vous ne pouvez plus utiliser cette capacité avant d’avoir effectué une action de récupération de dix heures. Facilitateur.
 
 **Mener depuis le front**: vous gagnez 3 nouveaux points à répartir entre vos pools de statistiques comme vous le souhaitez. Facilitateur.
 
@@ -3825,11 +3829,7 @@ Facilitateur.
 
 **Toucher Mortel** (6 points d'Intelligence): Vous rassemblez de l'énergie perturbatrice au bout de votre doigt et touchez une créature. Si la cible est un PNJ ou une créature de niveau 3 ou inférieur, elle meurt. Si la cible est un PJ de n’importe quel niveau, il descend d’un cran sur le suivi des dégâts. Action.
 
-**Toucher curatif** (1 point d'Intelligence) : avec un contact, vous restaurez 1d6 points à un pool de statistiques de n'importe quelle créature. Cette capacité est une tâche de difficulté Intellect 2. Chaque fois que vous tentez de soigner la même créature, la tâche est gênée par une étape supplémentaire. La difficulté revient à 2 après que cette créature se repose pendant dix heures. Action.
-
 **Toucher de Froid Paralysant** (4 points d'Intelligence) : Vos mains deviennent si froides que votre contact gèle une cible vivante de votre taille ou plus petite, la rendant immobile pendant un round. Si vous disposez d'une autre capacité de froid activée par le toucher (comme Toucher  Glacial), vous pouvez l'utiliser dans le cadre de l'attaque Toucher de Froid Paralysant. Action.
-
-**Toucher de guérison supérieur** (4 points d'Intelligence) : vous touchez une créature et restaurez sa Réserve de Puissance, sa Réserve de Vitesse et sa Réserve d'Intelligence à leurs valeurs maximales, comme si elle était complètement reposée. Une seule créature ne peut bénéficier de cette capacité qu’une fois par jour. Action.
 
 **Toucher lumineux** (1 point d'Intelligence) : Vous touchez un objet, et cet objet émet de la lumière pour tout éclairer à courte portée. La lumière reste jusqu'à ce que vous utilisiez une action pour toucher à nouveau l'objet, ou jusqu'à ce que vous ayez éclairé plus d'objets que vous n'avez de niveaux, auquel cas les objets les plus anciens que vous avez éclairés s'assombrissent en premier. Action.
 

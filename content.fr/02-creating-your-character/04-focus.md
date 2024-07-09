@@ -1804,18 +1804,18 @@ You take great satisfaction in a job well done, whether it's coding, building ho
 
 -----
 
-### Works Miracles
+### Fait des Miracles
 
-You can heal others with a touch, alter time to help others, and are generally beloved by everyone.
+Vous pouvez guérir les autres d’un simple toucher, modifier le temps pour aider les autres et êtes généralement aimé de tous.
 
-* Rang 1: Healing Touch
-* Rang 2: Alleviate
-* Rang 3: Font of Healing ou Miraculous Health
-* Rang 4: Inspire Action
-* Rang 5: Undo
-* Rang 6: Greater Healing Touch ou Restore Life
+* Rang 1: Main Guérisseuse
+* Rang 2: Soulager
+* Rang 3: Source de guérison ou Santé miraculeuse
+* Rang 4: Inspirer l'action
+* Rang 5: Annuler
+* Rang 6: Main Guérisseuse Supérieure ou Restaurer la vie
 
-**Intrusions du MJ:** Attempts to heal might cause harm instead. A community ou individual needs a healer so desperately that they hold one against their will.
+**Intrusions du MJ:** Les tentatives de guérison pourraient plutôt causer du tort. Une communauté ou un individu a si désespérément besoin d'un guérisseur qu'il en a un contre son gré.
 
 -----
 
