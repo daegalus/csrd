@@ -195,6 +195,21 @@ Souple, flexible et gracieux, vous vous déplacez rapidement et en douceur, et n
 
 -----
 
+### Canalise les Bénédictions Divines
+
+Fervent disciple d’un être divin, vous canalisez une partie du pouvoir de votre divinité pour réaliser des merveilles.
+
+* Rang 1: Bénédiction des Dieux
+* Rang 2: Intelligence améliorée
+* Rang 3: Radiance divine ou Cube de flammes
+* Rang 4: Explosion Divine
+* Rang 5: Intervention divine
+* Rang 6: Symbole divin ou Invoquer un démon
+
+**Intrusions du MJ:** Un démon enquête sur l'utilisation de la magie divine. Une secte rivale est opposée aux enseignements du personnage.
+
+-----
+
 ### Combat les Robots
 
 Vous excellez dans la lutte contre les robots, les automates et les entités machines.
@@ -516,28 +531,13 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 * Rang 1: Predictive Equation
 * Rang 1: Higher Mathematics
 * Rang 2: Predictive Model
-* Rang 3: Subconscious Defense ou Enhanced Intellect
+* Rang 3: Subconscious Defense ou Intelligence améliorée
 * Rang 4: Cognizant Offense
-* Rang 5: Greater Enhanced Intellect
+* Rang 5: Intelligence Améliorée Supérieure
 * Rang 5: Further Mathematics
-* Rang 6: Knowing the Unknown ou Greater Enhanced Intellect
+* Rang 6: Knowing the Unknown ou Intelligence Améliorée Supérieure
 
 **Intrusions du MJ:** Too many predicted results threaten to overwhelm and stun the character. A result points to imminent disaster.
-
------
-
-### Channels Divine Blessings
-
-A devout follower of a divine being, you channel some of your deity's power to achieve wonders.
-
-* Rang 1: Blessing of the Gods
-* Rang 2: Enhanced Intellect
-* Rang 3: Divine Radiance ou Cube de flammes
-* Rang 4: Overawe
-* Rang 5: Divine Intervention
-* Rang 6: Divine Symbol ou Summon Demon
-
-**Intrusions du MJ:** A demon investigates divine magic use. A rival cult has issues with the character's teachings.
 
 -----
 
@@ -936,11 +936,11 @@ Your body is part machine.
 
 Electronic aids implanted in your brain make you a mental powerhouse.
 
-* Rang 1: Enhanced Intellect
+* Rang 1: Intelligence améliorée
 * Rang 1: Compétences en Connaissances
 * Rang 2: Network Tap
 * Rang 3: Action Processor ou Machine Telepathy
-* Rang 4: Greater Enhanced Intellect
+* Rang 4: Intelligence Améliorée Supérieure
 * Rang 4: Compétences en Connaissances
 * Rang 5: See the Future
 * Rang 6: Machine Enhancement ou Mind Surge
@@ -1023,7 +1023,7 @@ You excel at winning others over to your views.
 * Rang 1: Opening Statement
 * Rang 1: Knowledge of the Law
 * Rang 2: Debate
-* Rang 3: Assistance compétente ou Enhanced Intellect Edge
+* Rang 3: Assistance compétente ou Avantage d'Intelligence amélioré
 * Rang 4: Castigate
 * Rang 5: No One Knows Better
 * Rang 6: Potentiel amélioré supérieur ou Legal Intern
@@ -1122,13 +1122,13 @@ Your natural leadership capability allows you to command others, including a loy
 
 You deal with bad situations as they arise, learning new lessons each time.
 
-* Rang 1: Enhanced Intellect
+* Rang 1: Intelligence améliorée
 * Rang 1: There's Your Problem
 * Rang 2: Quick Study
 * Rang 3: Hard to Distract
-* Rang 3: Enhanced Intellect Edge ou Flex Skill
+* Rang 3: Avantage d'Intelligence amélioré ou Flex Skill
 * Rang 4: Pay It Forward
-* Rang 5: Enhanced Intellect
+* Rang 5: Intelligence améliorée
 * Rang 5: Learned a Few Things
 * Rang 6: Two Things at Once ou Skill With Defense
 
@@ -1286,7 +1286,7 @@ Lessons, reflexes, and strategies you've learned by playing too many games have 
 * Rang 2: Resist Tricks
 * Rang 3: Sniper's Aim ou Avantage de Vitesse Amélioré
 * Rang 4: Mind Games
-* Rang 4: Enhanced Intellect
+* Rang 4: Intelligence améliorée
 * Rang 5: Gamer's Fortitude
 * Rang 6: Mind Surge ou Gaming God
 
@@ -1369,7 +1369,7 @@ You create physical objects out of hard light that you can use for offense and d
 * Rang 1: Temporary Light
 * Rang 2: Entangling Force
 * Rang 3: Harder Light ou Sculpt Light
-* Rang 4: Greater Enhanced Intellect
+* Rang 4: Intelligence Améliorée Supérieure
 * Rang 5: Improved Sculpt Light
 * Rang 6: Defensive Field ou Flight
 
@@ -1855,11 +1855,11 @@ You can exploit flaws in artificial systems, including but not limited to comput
 Books are your friends. What's more important than knowledge? Nothing.
 
 * Rang 1: Knowledge Is Power
-* Rang 2: Greater Enhanced Intellect
+* Rang 2: Intelligence Améliorée Supérieure
 * Rang 3: Applying Your Knowledge ou Flex Skill
 * Rang 4: Knowledge Is Power
 * Rang 4: Knowing the Unknown
-* Rang 5: Greater Enhanced Intellect
+* Rang 5: Intelligence Améliorée Supérieure
 * Rang 6: Knowledge Is Power
 * Rang 6: Tower of Intellect ou Read the Signs
 
