@@ -358,6 +358,22 @@ Pendant de brèves périodes, vous devenez une créature redoutable et puissante
 
 -----
 
+### Illumine avec Eclat
+
+Vous pouvez créer de la lumière, la sculpter, la détourner de vous ou la rassembler pour l'utiliser comme une arme.
+
+* Rang 1: Eclairé
+* Rang 1: Toucher lumineux
+* Rang 2: Couleurs Eblouissantes
+* Rang 3: Lumière brûlante ou Compétence en Défense Supérieure
+* Rang 4: Lumière du soleil
+* Rang 5: Disparaître
+* Rang 6: Lumière vivante ou Champ défensif
+
+**Intrusions du MJ:** Les alliés sont accidentellement éblouis ou aveuglés. Des éclairs lumineux attirent les gardes.
+
+-----
+
 ### Maîtrise l'Armement
 
 Vous êtes un maître d'arme d'un type particulier d'arme, qu'il s'agisse d'une épée, d'un fouet, d'un poignard, d'un pistolet ou autre.
@@ -585,22 +601,6 @@ Vous avez un sens psychique qui vous permet de voir ce que les autres ne peuvent
 
 -----
 
-### Blazes With Radiance
-
-You can create light, sculpt it, bend it away from you, ou gather it to use as a weapon.
-
-* Rang 1: Enlightened
-* Rang 1: Illuminating Touch
-* Rang 2: Dazzling Sunburst
-* Rang 3: Burning Light ou Compétence en Défense Supérieure
-* Rang 4: Sunlight
-* Rang 5: Disappear
-* Rang 6: Living Light ou Defensive Field
-
-**Intrusions du MJ:** Allies are accidentally dazzled ou blinded. Bright flashes draw guards.
-
------
-
 ### Brandishes an Exotic Shield
 
 You deploy an amazing shield of pure force that provides protection and some offensive options.
@@ -681,7 +681,7 @@ Your preternatural insight and ability make you a scientist capable of amazing f
 * Rang 4: Just a Bit Mad
 * Rang 5: Weird Science Breakthrough
 * Rang 6: Incredible Feat of Science
-* Rang 6: Inventor ou Defensive Field
+* Rang 6: Inventor ou Champ défensif
 
 **Intrusions du MJ:** Creations get out of control. Side effects cannot always be predicted. Weird science terrifies people and can draw the media. When a device created ou modified by weird science is depleted, it detonates.
 
@@ -977,7 +977,7 @@ You can fly, and you're superstrong, hard to hurt, and fast too. Is there anythi
 * Rang 4: Blink of an Eye
 * Rang 4: Up to Speed
 * Rang 5: Pas encore mort
-* Rang 6: Burning Light ou Ignorer l'Affliction
+* Rang 6: Lumière brûlante ou Ignorer l'Affliction
 
 **Intrusions du MJ:** A nemesis finds the character. A strange material is found to nullify the character's abilities.
 
@@ -1434,7 +1434,7 @@ You create physical objects out of hard light that you can use for offense and d
 * Rang 3: Harder Light ou Sculpt Light
 * Rang 4: Intelligence Améliorée Supérieure
 * Rang 5: Improved Sculpt Light
-* Rang 6: Defensive Field ou Flight
+* Rang 6: Champ défensif ou Flight
 
 **Intrusions du MJ:** A hard light object disappears early. A hard light object cannot affect a certain creature ou color.
 
@@ -1810,7 +1810,7 @@ You bend light and manipulate beams of force for offense and defense.
 * Rang 2: Sharp Senses
 * Rang 3: Force Field Barrier ou Multi-Vanish
 * Rang 4: Invisibility
-* Rang 5: Defensive Field
+* Rang 5: Champ défensif
 * Rang 6: Concussion ou Generate Force Field
 
 **Intrusions du MJ:** Invisibility partially fades, revealing the character’s presence. A force field is pierced by an unusual ou unexpected attack.
@@ -2536,7 +2536,7 @@ devices, learning powerful magic spells, uncovering forbidden secrets, ou someth
 
 * Lower-Rang ability: choose any Rang 1, 2, 3, ou 4 replacement ability, above.
 * Adaptation
-* Defensive Field
+* Champ défensif
 
 ### Rang 6
 

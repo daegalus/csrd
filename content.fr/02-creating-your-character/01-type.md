@@ -902,9 +902,9 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 **Druid:** En tant que sorte très spécifique de prêtre de la nature, un personnage druide est généralement un Adepte ou un Explorateur (dans les deux cas utilisant probablement la Préference magique). Un druide typique a probablement pour Motivation Canalise les Bénédictions Divines ou Vit dans la Nature Sauvage, mais pour des options plus spécifiques, voir les Motivations suivantes:
 
 * **Druid (animal companion):** Controls Beasts, Masters the Swarm
-* **Druid (elemental):** Abides in Stone, Se Revêt d'un Halo de Feu, Moves Like the Wind, Rides the Lightning, Wears a Sheen of Ice
+* **Druid (elemental):** Demeure dans la pierre, Se Revêt d'un Halo de Feu, Moves Like the Wind, Rides the Lightning, Wears a Sheen of Ice
 * **Druid (nature affinity):** Speaks for the Land
-* **Druid (transformation):** Abides in Stone, Prend une Forme Animale\*, Walks the Wild Woods\*
+* **Druid (transformation):** Demeure dans la pierre, Prend une Forme Animale\*, Walks the Wild Woods\*
 
 **Combattant:** Les combattants sont presque toujours du type Guerrier, mais certains sont des Explorateurs. Un combattant typique a probablement une motivation comme Maîtrise l'Armement or Wields an Enchanted Weapon\*. Pour des options supplémentaires basées sur le choix d'un rôle de combat spécifique, voir ce qui suit:
 
@@ -931,7 +931,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 * **Sorcier (angel):** Blazes With Radiance, Canalise les Bénédictions Divines, Keeps a Magic Ally
 * **Sorcier (destiny):** Descends From Nobility, Was Foretold
 * **Sorcier (dragon):** Se Revêt d'un Halo de Feu, Rides the Lightning, Wears a Sheen of Ice
-* **Sorcier (elemental):** Abides in Stone, Se Revêt d'un Halo de Feu, Employs Magnetism, Moves Like the Wind, Rides the Lightning, Wears a Sheen of Ice
+* **Sorcier (elemental):** Demeure dans la pierre, Se Revêt d'un Halo de Feu, Employs Magnetism, Moves Like the Wind, Rides the Lightning, Wears a Sheen of Ice
 * **Sorcier (fey):** Prend une Forme Animale\*
 * **Sorcier (fiend):** Se Revêt d'un Halo de Feu, Keeps a Magic Ally
 * **Sorcier (undead):** S'Associe avec les Morts, Guide les Esprits
