@@ -486,9 +486,9 @@ Donnent la possibilité d'apprendre une information à propos de quelque chose, 
 
 * Aperçu de l'appareil
 * Connaissez leurs défauts
+* Esprit parle moi d'ici
 * Information sur une Créature
 * Interrogation de l'âme
-* Lecture de la pièce
 <--->
 * Repérer la faiblesse
 * Réseau de capteurs
@@ -2571,6 +2571,8 @@ L'esprit est normalement insubstantiel, mais si vous utilisez une action et dép
 
 Tant qu’il est corporel, l’esprit ne peut pas se déplacer à travers les objets ni voler. Un esprit reste corporel jusqu'à dix minutes à la fois, mais redevient insubstantiel s'il n'est pas activement engagé. Si votre esprit complice est détruit, il se reforme en 1d6 jours, ou vous pouvez attirer un nouvel esprit en 2d6 jours. Facilitateur. (Une créature insubstantielle ne peut affecter ou être affectée par quoi que ce soit, sauf indication contraire, par exemple lorsqu'une attaque est effectuée avec une arme spéciale. Une créature insubstantielle peut traverser la matière solide sans entrave, mais des barrières d'énergie solides, telles que des champs magiques de force, gardez-le à distance.)
 
+**Esprit parle moi d'ici** (3 points d'Intelligence) : Vous acquérez des connaissances sur une zone en parlant avec des esprits morts ou en lisant les énergies résiduelles du passé. Vous pouvez poser au MJ une seule question concrète sur l'emplacement et obtenir une réponse si vous réussissez le jet d'Intelligence. « Qu'est-ce qui a tué le bétail dans cette grange ? est un bon exemple de question simple. « Pourquoi ce bétail a-t-il été tué ? » n'est pas une question appropriée car elle a plus à voir avec l'état d'esprit du tueur que avec la grange. Les questions simples ont généralement une difficulté de 2, mais les questions extrêmement techniques ou celles qui impliquent des faits destinés à rester secrets peuvent avoir une difficulté beaucoup plus élevée. Action.
+
 **Esprit Protecteur**: à votre demande, l'esprit de votre capacité Esprit Complice s'enroule autour de vous pendant dix minutes maximum. L'esprit inflige automatiquement 4 points de dégâts à quiconque tente de vous toucher ou de vous frapper avec une attaque au corps à corps. Tant que la cape spectrale est active, toutes les tâches visant à échapper aux perceptions des autres sont facilitées. Facilitateur.
 
 **Esprit de commandement amélioré**: lorsque vous utilisez votre capacité Esprit de commandement, vous pouvez commander un esprit ou animer une créature mort-vivante jusqu'au niveau 7.
@@ -2978,8 +2980,6 @@ Joueur’s Fortitude/Endurance du joueur: S'asseoir et jouer à un jeu pendant 
 **Le pied marin** : Vous vous êtes habitué à une mer agitée et à des vagues inattendues. Vous êtes entraîné à l’équilibre. Toute tâche de mouvement qui serait gênée par un pont de lancement, un déplacement dans un gréement, etc. est une tâche de routine pour vous. Facilitateur.
 
 **Le rêve devient réalité** (4 points intellectuels) : Vous créez un objet de rêve de n'importe quelle forme que vous pouvez imaginer, de votre taille ou plus petite, qui prend une substance et un poids apparents. L'objet est brut et ne peut comporter aucune pièce mobile, vous pouvez donc fabriquer une épée, un bouclier, une échelle courte, etc. L'objet du rêve a la masse approximative de l'objet réel, si vous le souhaitez. Les objets de vos rêves sont aussi résistants que le fer, mais si vous ne restez pas à leur portée, ils ne fonctionnent qu’une minute avant de disparaître. Action.
-
-**Lecture de la pièce** (3 points d'Intelligence) : Vous acquérez des connaissances sur une zone en parlant avec des esprits morts ou en lisant les énergies résiduelles du passé. Vous pouvez poser au MJ une seule question concrète sur l'emplacement et obtenir une réponse si vous réussissez le jet d'Intelligence. « Qu'est-ce qui a tué le bétail dans cette grange ? est un bon exemple de question simple. « Pourquoi ce bétail a-t-il été tué ? » n'est pas une question appropriée car elle a plus à voir avec l'état d'esprit du tueur que avec la grange. Les questions simples ont généralement une difficulté de 2, mais les questions extrêmement techniques ou celles qui impliquent des faits destinés à rester secrets peuvent avoir une difficulté beaucoup plus élevée. Action.
 
 **Lecture mentale** (2 points d'Intelligence) : Vous pouvez lire les pensées superficielles d'une créature à courte portée, même si la cible ne le souhaite pas. Vous devez être capable de voir votre cible. Une fois le contact établi, vous pouvez lire les pensées de la cible pendant une minute maximum. Si vous disposez également de la capacité spéciale Lecture mentale provenant d’une autre source, vous pouvez utiliser cette capacité à longue portée et vous n’avez pas besoin de pouvoir voir la cible (mais vous devez savoir que la cible est à portée). Action à initier.
 

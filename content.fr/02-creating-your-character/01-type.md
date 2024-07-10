@@ -889,17 +889,17 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Barde:** Les bardes dans la fiction et les jeux fantastiques sont des troubadours, des ménestrels et des conteurs, avec peut-être un élément surnaturel. Les bardes sont généralement des explorateurs ou des émissaires. Les Motivations appropriées sont Divertit, Aide ses Amis, Se Cache dans les Ombres, and Maîtrise les Sortilèges.
 
-**Clerc or Prêtre:** Les prêtres académiques sont généralement des Adeptes ou des Emissaires, mais les prêtres martiaux sont souvent des Guerriers (peut-être avec une Préférence magique). Pour un clerc typique doté d’un ensemble polyvalent de capacités, choisissez la Motivation Channels Divine Blessings.
+**Clerc or Prêtre:** Les prêtres académiques sont généralement des Adeptes ou des Emissaires, mais les prêtres martiaux sont souvent des Guerriers (peut-être avec une Préférence magique). Pour un clerc typique doté d’un ensemble polyvalent de capacités, choisissez la Motivation Canalise les Bénédictions Divines.
 
-* **Cleric (death):** Consorts With the Dead, Shepherds Spirits
+* **Cleric (death):** S'Associe avec les Morts, Guide les Esprits
 * **Cleric (knowledge):** Learns Quickly, Sees Beyond, Would Rather Be Reading
 * **Cleric (life):** Defends the Weak, Shepherds the Community, Fait des Miracles
-* **Cleric (light):** Blazes With Radiance, Channels Divine Blessings
+* **Cleric (light):** Blazes With Radiance, Canalise les Bénédictions Divines
 * **Cleric (storm):** Rides the Lightning, Thunders
 * **Cleric (trickery):** Prend une Forme Animale\* (voir aussi les options pour les voleurs)
 * **Cleric (war):** Maîtrise l'Armement (voir aussi les options pour les combattants)
 
-**Druid:** En tant que sorte très spécifique de prêtre de la nature, un personnage druide est généralement un Adepte ou un Explorateur (dans les deux cas utilisant probablement la Préference magique). Un druide typique a probablement pour Motivation Channels Divine Blessings ou Vit dans la Nature Sauvage, mais pour des options plus spécifiques, voir les Motivations suivantes:
+**Druid:** En tant que sorte très spécifique de prêtre de la nature, un personnage druide est généralement un Adepte ou un Explorateur (dans les deux cas utilisant probablement la Préference magique). Un druide typique a probablement pour Motivation Canalise les Bénédictions Divines ou Vit dans la Nature Sauvage, mais pour des options plus spécifiques, voir les Motivations suivantes:
 
 * **Druid (animal companion):** Controls Beasts, Masters the Swarm
 * **Druid (elemental):** Abides in Stone, Se Revêt d'un Halo de Feu, Moves Like the Wind, Rides the Lightning, Wears a Sheen of Ice
@@ -928,13 +928,13 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Sorcier:** Les sorciers, dans notre cas, sont des mages qui ont des capacités magiques inhérentes (par opposition aux magiciens, qui étudient longuement et durement pour obtenir leurs sorts). La plupart des sorciers sont des Adeptes, mais certains sont des Explorateurs ou des Emissaires. La Motivation Maîtrise les Sortilèges donne à un sorcier typique un ensemble efficace de capacités, et la plupart des choix de Motivation fournissent un ensemble thématique de sorts. Pour les sorciers de diverses lignées magiques, consultez ce qui suit :
 
-* **Sorcier (angel):** Blazes With Radiance, Channels Divine Blessings, Keeps a Magic Ally
+* **Sorcier (angel):** Blazes With Radiance, Canalise les Bénédictions Divines, Keeps a Magic Ally
 * **Sorcier (destiny):** Descends From Nobility, Was Foretold
 * **Sorcier (dragon):** Se Revêt d'un Halo de Feu, Rides the Lightning, Wears a Sheen of Ice
 * **Sorcier (elemental):** Abides in Stone, Se Revêt d'un Halo de Feu, Employs Magnetism, Moves Like the Wind, Rides the Lightning, Wears a Sheen of Ice
 * **Sorcier (fey):** Prend une Forme Animale\*
 * **Sorcier (fiend):** Se Revêt d'un Halo de Feu, Keeps a Magic Ally
-* **Sorcier (undead):** Consorts With the Dead, Shepherds Spirits
+* **Sorcier (undead):** S'Associe avec les Morts, Guide les Esprits
 
 **Escroc ou Arnaqueur:** Ces gens intelligents sont généralement des Emissaires, bien qu'ils puissent être des Adeptes s'ils sont très magiques (ou des Explorateurs s'ils ne sont pas magiques du tout). Les choix de Motivation incluent Fights Dirty, Rôde dans les Bas Quartiers ou Divertit.
 
@@ -952,12 +952,12 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 * **Magicien (enchanter):** Commands Mental Powers, Leads
 * **Magicien (evoker):** Se Revêt d'un Halo de Feu, Blazes With Radiance, Rides the Lightning, Thunders, Wears a Sheen of Ice
 * **Magicien (illusionist):** Awakens Dreams, Crafts Illusions
-* **Magicien (necromancer):** Consorts With the Dead, Shepherds Spirits
+* **Magicien (necromancer):** S'Associe avec les Morts, Guide les Esprits
 * **Magicien (transmuter):** Controls Gravity, Focuses Mind Over Matter, Prend une Forme Animale\*
 
 ## Lancement de sort Préparés ou Spontanés
 
-Les personnages pratiquant la magie obtiennent leurs capacités (qui peuvent être des sorts, des rituels ou autre chose) en fonction de leur Type et de leur Motivation, et ils peuvent utiliser ces capacités comme bon leur semble tant qu'ils dépensent les points de Réserve requis. Techniquement, cela les rend plus semblables à des lanceurs de sorts spontanés. Si vous souhaitez jouer quelque chose qui ressemble davantage à un magicien préparant ses sorts avec un large choix de capacités que vous affinez chaque jour, envisagez une Motivation axée sur le lancement de sorts comme CChannels Divine Blessings, Maîtrise les Sortilèges, or Speaks for the Land, et envisagez de l'augmenter avec la règle facultative de lancement de sorts.
+Les personnages pratiquant la magie obtiennent leurs capacités (qui peuvent être des sorts, des rituels ou autre chose) en fonction de leur Type et de leur Motivation, et ils peuvent utiliser ces capacités comme bon leur semble tant qu'ils dépensent les points de Réserve requis. Techniquement, cela les rend plus semblables à des lanceurs de sorts spontanés. Si vous souhaitez jouer quelque chose qui ressemble davantage à un magicien préparant ses sorts avec un large choix de capacités que vous affinez chaque jour, envisagez une Motivation axée sur le lancement de sorts comme CCanalise les Bénédictions Divines, Maîtrise les Sortilèges, or Speaks for the Land, et envisagez de l'augmenter avec la règle facultative de lancement de sorts.
 
 ## Plus de Personnalisation
 

@@ -275,6 +275,23 @@ Vous pouvez guérir les autres d’un simple toucher, modifier le temps pour aid
 
 -----
 
+### Guide les Esprits
+
+Les âmes errantes, les esprits de la nature et les êtres élémentaires vous aident et vous soutiennent.
+
+(Dans certains contextes, la Motivation Guide les Esprits s’applique à un seul type d’esprit, comme les esprits des défunts, les esprits de la nature, etc.)
+
+* Rang 1: Interrogez les esprits
+* Rang 2: Esprit Complice
+* Rang 3: Commander un Esprit ou Sens surnaturels
+* Rang 4: Esprit Protecteur
+* Rang 5: Appeler l'esprit d'un mort
+* Rang 6: Appeler un esprit d'un autre monde ou Absorber l'Esprit
+
+**Intrusions du MJ:** Certaines personnes ne font pas confiance à ceux qui s'occupent des esprits. Parfois, les morts ne veulent pas de berger.
+
+-----
+
 ### Hurle à la Lune
 
 Pendant de brèves périodes, vous devenez une créature redoutable et puissante avec des problèmes de contrôle.
@@ -404,6 +421,21 @@ Vous avancez sans être vu, volant les riches pour parvenir à vos fins.
 * Rang 6: Rat des Allées ou Mettre le paquet
 
 **Intrusions du MJ:** Les voleurs sont jetés en prison. De puissants ennemis se font.
+
+-----
+
+### S'Associe avec les Morts
+
+Les morts répondent à vos questions, et leurs cadavres réanimés vous servent.
+
+* Rang 1: Orateur pour les morts
+* Rang 2: Nécromancie
+* Rang 3: Esprit parle moi d'ici ou Réparer la chair
+* Rang 4: Réparer la chair
+* Rang 5: Regard terrifiant
+* Rang 6: Véritable Nécromancie ou Mot de mort
+
+**Intrusions du MJ:** La réputation nécromantique du personnage les précède. Un cadavre cherche à se venger d'avoir été réanimé.
 
 -----
 
@@ -571,21 +603,6 @@ Your preternatural insight and ability make you a scientist capable of amazing f
 * Rang 6: Inventor ou Defensive Field
 
 **Intrusions du MJ:** Creations get out of control. Side effects cannot always be predicted. Weird science terrifies people and can draw the media. When a device created ou modified by weird science is depleted, it detonates.
-
------
-
-### Consorts With the Dead
-
-The dead answer your questions, and their reanimated corpses serve you.
-
-* Rang 1: Speaker for the Dead
-* Rang 2: Necromancy
-* Rang 3: Reading the Room ou Repair Flesh
-* Rang 4: Greater Necromancy
-* Rang 5: Terrifying Gaze
-* Rang 6: True Necromancy ou Mot de mort
-
-**Intrusions du MJ:** The character's necromantic reputation precedes them. A corpse seeks revenge for being reanimated.
 
 -----
 
@@ -1421,23 +1438,6 @@ You keep the place where you live safe from all danger.
 * Rang 6: Compétence en Attaque Supérieure ou Protective Wall
 
 **Intrusions du MJ:** People in the community misunderstand the character's motives. Rivals try to oust the character.
-
------
-
-### Shepherds Spirits
-
-Wandering souls, nature spirits, and elemental beings aid and support you.
-
-(In some settings, the Shepherds Spirits focus applies to only one kind of spirit, such as spirits of the deceased, nature spirits, and so on.)
-
-* Rang 1: Question the Spirits
-* Rang 2: Spirit Accomplice
-* Rang 3: Command Spirit ou Preternatural Senses
-* Rang 4: Wraith Cloak
-* Rang 5: Call Dead Spirit
-* Rang 6: Call Otherworldly Spirit ou Infuse Spirit
-
-**Intrusions du MJ:** Some people don't trust those who deal with spirits. The dead sometimes don't want shepherding.
 
 -----
 
