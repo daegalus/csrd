@@ -891,8 +891,8 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Clerc or Prêtre:** Les prêtres académiques sont généralement des Adeptes ou des Emissaires, mais les prêtres martiaux sont souvent des Guerriers (peut-être avec une Préférence magique). Pour un clerc typique doté d’un ensemble polyvalent de capacités, choisissez la Motivation Canalise les Bénédictions Divines.
 
-* **Cleric (death):** S'Associe avec les Morts, Guide les Esprits
-* **Cleric (knowledge):** Learns Quickly, Sees Beyond, Would Rather Be Reading
+* **Cleric (mort):** S'Associe avec les Morts, Guide les Esprits
+* **Cleric (connaissance):** Apprend Rapidement, Voit Au-Delà, Préfèrerait Lire
 * **Cleric (life):** Defends the Weak, Shepherds the Community, Fait des Miracles
 * **Cleric (light):** Blazes With Radiance, Canalise les Bénédictions Divines
 * **Cleric (storm):** Rides the Lightning, Thunders
@@ -948,7 +948,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 * **Magicien (abjurer):** Absorbs Energy, Focuses Mind Over Matter, Wears a Sheen of Ice
 * **Magicien (conjurer or summoner):** Controls Beasts, Keeps a Magic Ally
-* **Magicien (diviner):** Learns Quickly, Sees Beyond, Separates Mind From Body, Solves Mysteries
+* **Magicien (diviner):** Apprend Rapidement, Voit Au-Delà, Separates Mind From Body, Solves Mysteries
 * **Magicien (enchanter):** Commands Mental Powers, Leads
 * **Magicien (evoker):** Se Revêt d'un Halo de Feu, Blazes With Radiance, Rides the Lightning, Thunders, Wears a Sheen of Ice
 * **Magicien (illusionist):** Awakens Dreams, Crafts Illusions

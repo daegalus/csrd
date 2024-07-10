@@ -160,6 +160,24 @@ Vous aimez vos amis et les aidez à sortir de toute difficulté, quoi qu'il arri
 
 -----
 
+### Apprend Rapidement
+
+Vous faites face aux mauvaises situations au fur et à mesure qu’elles surviennent, apprenant à chaque fois de nouvelles leçons.
+
+* Rang 1: Intelligence améliorée
+* Rang 1: Voilà votre problème
+* Rang 2: Etude rapide
+* Rang 3: Difficile à distraire
+* Rang 3: Avantage d'Intelligence amélioré ou Compétences en Prêt
+* Rang 4: Passer l'information au suivant
+* Rang 5: Intelligence améliorée
+* Rang 5: Appris des trucs
+* Rang 6: Deux choses à la fois ou Compétence en Défense Supérieure
+
+**Intrusions du MJ:** Les accidents et les erreurs sont de grands professeurs.
+
+-----
+
 ### Assassine
 
 Vous êtes un assassin, que ce soit par métier, par inclination, ou parce que vous vouliez vous faire tuer. (Quelqu'un qui Assassine peut disposer d'un équipement supplémentaire, notamment trois doses d'un poison de lame de niveau 2 qui inflige 5 points de dégâts.)
@@ -373,6 +391,21 @@ Vous n’abandonnez jamais, vous pouvez ignorer les coups et revenir toujours po
 
 -----
 
+### Préfèrerait Lire
+
+Les livres sont vos amis. Qu'y a-t-il de plus important que la connaissance ? Rien.
+
+* Rang 1: La connaissance, c'est le pouvoir
+* Rang 2: Intelligence Améliorée Supérieure
+* Rang 3: Appliquer vos connaissances ou Compétences en Prêt
+* Rang 4: La connaissance, c'est le pouvoir
+* Rang 4: Connaître l'inconn
+* Rang 5: Intelligence Améliorée Supérieure
+* Rang 6: La connaissance, c'est le pouvoir
+* Rang 6: Tour de l'Intelligenceou Lire les signes
+
+**Intrusions du MJ:** Les livres brûlent, sont mouillés ou se perdent. Les ordinateurs tombent en panne ou perdent de la puissance. Les verres se cassent.
+
 ### Prend une Forme Animale
 
 Vous pouvez vous transformer en animal.
@@ -504,6 +537,21 @@ Vous pouvez survivre dans des étendues sauvages où d'autres périssent.
 
 -----
 
+### Voit Au-Delà
+
+Vous avez un sens psychique qui vous permet de voir ce que les autres ne peuvent pas voir.
+
+* Rang 1: Voir l'invisible
+* Rang 2: Voir à travers la matière
+* Rang 3: Trouver ce qui est caché ou Capteur
+* Rang 4: Visualisation à distance
+* Rang 5: Voir à travers le temps
+* Rang 6: Projection mentale ou Conscience totale
+
+**Intrusions du MJ:** Certains secrets sont trop terribles pour être connus.
+
+-----
+
 ### Blazes With Radiance
 
 You can create light, sculpt it, bend it away from you, ou gather it to use as a weapon.
@@ -511,7 +559,7 @@ You can create light, sculpt it, bend it away from you, ou gather it to use as a
 * Rang 1: Enlightened
 * Rang 1: Illuminating Touch
 * Rang 2: Dazzling Sunburst
-* Rang 3: Burning Light ou Skill With Defense
+* Rang 3: Burning Light ou Compétence en Défense Supérieure
 * Rang 4: Sunlight
 * Rang 5: Disappear
 * Rang 6: Living Light ou Defensive Field
@@ -547,7 +595,7 @@ The word "robot" is used in this focus, though the robot you create might look v
 * Rang 1: Robot Assistant
 * Rang 1: Robot Builder
 * Rang 2: Robot Control
-* Rang 3: Expert Follower ou Skill With Defense
+* Rang 3: Expert Follower ou Compétence en Défense Supérieure
 * Rang 4: Robot Upgrade
 * Rang 5: Robot Fleet
 * Rang 6: Robot Evolution ou Robot Upgrade
@@ -567,7 +615,7 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 * Rang 4: Cognizant Offense
 * Rang 5: Intelligence Améliorée Supérieure
 * Rang 5: Further Mathematics
-* Rang 6: Knowing the Unknown ou Intelligence Améliorée Supérieure
+* Rang 6: Connaître l'inconn ou Intelligence Améliorée Supérieure
 
 **Intrusions du MJ:** Too many predicted results threaten to overwhelm and stun the character. A result points to imminent disaster.
 
@@ -644,8 +692,8 @@ You can sway the attraction of gravity itself.
 
 You can copy others’ skills, abilities, and superpowers.
 
-* Rang 1: Flex Skill
-* Rang 1: Flex Skill
+* Rang 1: Compétences en Prêt
+* Rang 1: Compétences en Prêt
 * Rang 2: Copy Power
 * Rang 3: Steal Power ou Wildcard Powers
 * Rang 4: Improved Copying
@@ -765,7 +813,7 @@ You're a slacker, but you know a little about a lot of things.
 * Rang 2: Totally Chill
 * Rang 3: Skill With Attacks ou Improvise
 * Rang 4: Life Lessons
-* Rang 4: Greater Skill With Defense
+* Rang 4: Compétence en Défense Supérieure
 * Rang 5: Potentiel amélioré supérieur
 * Rang 6 Drawing on Life's Experiences ou Quick Wits
 
@@ -909,7 +957,7 @@ You can fly, and you're superstrong, hard to hurt, and fast too. Is there anythi
 
 * Rang 1: Hover
 * Rang 2: Potentiel amélioré supérieur
-* Rang 3: Réserves cachées ou See Through Matter
+* Rang 3: Réserves cachées ou Voir à travers la matière
 * Rang 4: Blink of an Eye
 * Rang 4: Up to Speed
 * Rang 5: Pas encore mort
@@ -1135,24 +1183,6 @@ Your natural leadership capability allows you to command others, including a loy
 
 -----
 
-### Learns Quickly
-
-You deal with bad situations as they arise, learning new lessons each time.
-
-* Rang 1: Intelligence améliorée
-* Rang 1: There's Your Problem
-* Rang 2: Quick Study
-* Rang 3: Hard to Distract
-* Rang 3: Avantage d'Intelligence amélioré ou Flex Skill
-* Rang 4: Pay It Forward
-* Rang 5: Intelligence améliorée
-* Rang 5: Learned a Few Things
-* Rang 6: Two Things at Once ou Skill With Defense
-
-**Intrusions du MJ:** Accidents and mistakes are great teachers.
-
------
-
 ### Looks for Trouble
 
 You're a scrapper and love a good fight.
@@ -1216,7 +1246,7 @@ Insects. Rats. Bats. Even birds. You master one type of small creature that obey
 * Rang 3: Living Armor ou Skill With Attacks
 * Rang 4: Call Swarm
 * Rang 5: Gain Unusual Companion
-* Rang 6: Deadly Swarm ou Skill With Defense
+* Rang 6: Deadly Swarm ou Compétence en Défense Supérieure
 
 **Intrusions du MJ:** A command is misunderstood. Control is erratic ou is lost. Bites and stings are not uncommon for masters of the swarm.
 
@@ -1283,7 +1313,7 @@ You're a crack starship pilot.
 * Rang 2: Mentally Tough
 * Rang 3: Expert Pilot
 * Rang 3: Ship Footing ou Machine Companion
-* Rang 4: Sensor Array
+* Rang 4: Réseau de capteurs
 * Rang 4: Enhanced Speed
 * Rang 5: Like the Back of Your Hand
 * Rang 6: Incomparable Pilot
@@ -1338,7 +1368,7 @@ Your first instinct is to run from danger, and you've gotten very good at it.
 * Rang 4: Détermination croissante
 * Rang 4: Quick Wits
 * Rang 5: Go to Ground
-* Rang 6: Burst of Escape ou Skill With Defense
+* Rang 6: Burst of Escape ou Compétence en Défense Supérieure
 
 **Intrusions du MJ:** Quick movements sometimes lead to dropped items, slipping on uneven ground, ou going the wrong way by accident.
 
@@ -1352,7 +1382,7 @@ You sailed with a crew of dread pirates, but you've decided to end your days as 
 * Rang 1: Sailor
 * Rang 2: Taking Advantage
 * Rang 2: Fearsome Reputation
-* Rang 3: Skill With Attacks ou Skill With Defense
+* Rang 3: Skill With Attacks ou Compétence en Défense Supérieure
 * Rang 4: Sea Legs
 * Rang 4: Habiletés motrices
 * Rang 5: Lost in the Chaos
@@ -1394,21 +1424,6 @@ You create physical objects out of hard light that you can use for offense and d
 
 -----
 
-### Sees Beyond
-
-You have a psychic sense that allows you to see what others cannot.
-
-* Rang 1: See the Unseen
-* Rang 2: See Through Matter
-* Rang 3: Find the Hidden ou Sensor
-* Rang 4: Remote Viewing
-* Rang 5: See Through Time
-* Rang 6: Mental Projection ou Total Awareness
-
-**Intrusions du MJ:** Some secrets are too terrible to know.
-
------
-
 ### Separates Mind From Body  
 
 You can project your mind out of your body to see faraway places and learn secrets that would otherwise remain hidden.
@@ -1416,10 +1431,10 @@ You can project your mind out of your body to see faraway places and learn secre
 * Rang 1: Third Eye
 * Rang 2: Open Mind
 * Rang 2: Sharp Senses
-* Rang 3: Roaming Third Eye ou Find the Hidden
-* Rang 4: Sensor
+* Rang 3: Roaming Third Eye ou Trouver ce qui est caché
+* Rang 4: Capteur
 * Rang 5: Psychic Passenger
-* Rang 6: Mental Projection ou Improved Sensor
+* Rang 6: Projection mentale ou Capteur amélioré
 
 **Intrusions du MJ:** Reuniting mind and body can sometimes be disorienting and require a character to spend a few moments to get their bearings.
 
@@ -1432,7 +1447,7 @@ You keep the place where you live safe from all danger.
 * Rang 1: Community Knowledge
 * Rang 1: Community Activist
 * Rang 2: Skill With Attacks
-* Rang 3: Shepherd's Fury ou Skill With Defense
+* Rang 3: Shepherd's Fury ou Compétence en Défense Supérieure
 * Rang 4: Potentiel amélioré supérieur
 * Rang 5: Evasion
 * Rang 6: Compétence en Attaque Supérieure ou Protective Wall
@@ -1545,7 +1560,7 @@ You're a master of deduction, using evidence to find the answer.
 * Rang 3: You Studied ou Skill With Attacks
 * Rang 4: Draw Conclusion
 * Rang 5: Defuse Situation
-* Rang 6: Seize the Initiative ou Greater Skill With Defense
+* Rang 6: Seize the Initiative ou Compétence en Défense Supérieure
 
 **Intrusions du MJ:** Evidence disappears, red herrings confuse, and witnesses lie. Initial research can be faulty.
 
@@ -1630,7 +1645,7 @@ Everything that leaves your hand goes exactly where you'd like it to go and at t
 
 * Rang 1: Precision
 * Rang 2: Careful Aim
-* Rang 3: Quick Throw ou Skill With Defense
+* Rang 3: Quick Throw ou Compétence en Défense Supérieure
 * Rang 4: Everything Is a Weapon
 * Rang 4: Specialized Throwing
 * Rang 5: Whirlwind of Throws
@@ -1850,21 +1865,6 @@ You can exploit flaws in artificial systems, including but not limited to comput
 
 -----
 
-### Would Rather Be Reading
-
-Books are your friends. What's more important than knowledge? Nothing.
-
-* Rang 1: Knowledge Is Power
-* Rang 2: Intelligence Améliorée Supérieure
-* Rang 3: Applying Your Knowledge ou Flex Skill
-* Rang 4: Knowledge Is Power
-* Rang 4: Knowing the Unknown
-* Rang 5: Intelligence Améliorée Supérieure
-* Rang 6: Knowledge Is Power
-* Rang 6: Tower of Intellect ou Read the Signs
-
-**Intrusions du MJ:** Books burn, get wet, ou get lost. Computers break ou lose power. Glasses break.
-
 ## Creating New Foci
 
 This section provides everything you need to create your own foci.
@@ -2009,7 +2009,7 @@ In addition, because the benefits provided by such foci are mostly straightforwa
 
 **Connection:** Choose four relevant connections from the Focus Connections list.
 
-**Additional Equipment:** Any object necessary to fulfill the overarching theme of the focus. For instance, a focus called Would Rather Be Reading should grant a handful of books to the character. A focus called Works for a Living should provide a set of tools.
+**Additional Equipment:** Any object necessary to fulfill the overarching theme of the focus. For instance, a focus called Préfèrerait Lire should grant a handful of books to the character. A focus called Works for a Living should provide a set of tools.
 
 **Minor Effect Suggestions:** Next action is eased.
 
@@ -2021,7 +2021,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Interprets the Law
 * Learns Quickly
 * Works for a Living
-* Would Rather Be Reading
+* Préfèrerait Lire
 
 **Ability Selection Guidelines**
 
@@ -2516,7 +2516,7 @@ devices, learning powerful magic spells, uncovering forbidden secrets, ou someth
 ### Rang 2
 
 * Lower-Rang ability: choose any Rang 1 replacement ability, above.
-* Skill With Defense
+* Compétence en Défense Supérieure
 * Practiced With All Weapons
 * Skill With Attacks
 
