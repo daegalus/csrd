@@ -125,6 +125,22 @@ Vous pouvez exploiter l’énergie cinétique et la transformer en d’autres ty
 
 -----
 
+### Accompli des Prouesses de Force
+
+Prodige en musculature, vous pouvez transporter un poids incroyable, projeter votre corps dans les airs et percer des portes.
+
+* Rang 1: Athlète
+* Rang 1: Avantage de Puissance Amélioré
+* Rang 2: Tour de force
+* Rang 3: Poing de Fer ou Lancer
+* Rang 4: Puissance améliorée supérieure
+* Rang 5: Coup brutal
+* Rang 6: Puissance améliorée supérieure ou Attaque sautée
+
+**Intrusions du MJ:** Il est facile de briser des objets délicats en blessant quelqu'un accidentellement.
+
+-----
+
 ### Assassine
 
 Vous êtes un assassin, que ce soit par métier, par inclination, ou parce que vous vouliez vous faire tuer. (Quelqu'un qui Assassine peut disposer d'un équipement supplémentaire, notamment trois doses d'un poison de lame de niveau 2 qui inflige 5 points de dégâts.)
@@ -258,6 +274,39 @@ En vous spécialisant dans le lancement de sortilèges et en tenant un livre de 
 
 -----
 
+### N'a pas Besoin d'Arme
+
+Des coups de poing, de pied, de coude, des genoux et des mouvements complets du corps sont toutes les armes dont vous avez besoin.
+
+* Rang 1: Poings de fureur
+* Rang 1: Chair de Pierre
+* Rang 2: Avantage par Désavantage
+* Rang 2: Style de combat à mains nues
+* Rang 3: Se déplacer comme l'eau ou Potentiel amélioré supérieur
+* Rang 4: Détourner les attaques
+* Rang 5: Attaque Etourdissante
+* Rang 6: Maître du style de combat à mains nues ou Dégâts mortels
+
+**Intrusions du MJ:** Frapper certains ennemis vous fait autant de mal qu'à eux. Les adversaires armés ont une plus grande portée. Des mouvements d'arts martiaux compliqués peuvent vous faire perdre l'équilibre.
+
+-----
+
+### Ne S'Avoue Jamais Vaincu
+
+Vous n’abandonnez jamais, vous pouvez ignorer les coups et revenir toujours pour vous battre.
+
+* Rang 1: Récupération améliorée
+* Rang 1: Passer à travers
+* Rang 2: Ignorez la Douleur
+* Rang 3: Fièvre sanguinolente ou Réserves cachées
+* Rang 4: Détermination croissante ou Survivre à l'ennemi
+* Rang 5: Pas encore mort
+* Rang 6: Défi final ou Ignorer l'Affliction
+
+**Intrusions du MJ:** Parfois, ce sont les équipements ou les armes qui lâchent.
+
+-----
+
 ### Prend une Forme Animale
 
 Vous pouvez vous transformer en animal.
@@ -309,6 +358,22 @@ Vous avancez sans être vu, volant les riches pour parvenir à vos fins.
 
 -----
 
+### Se Met en Rage
+
+Quand vous devenez fou, tout le monde vous craint.
+
+* Rang 1: Frénésie
+* Rang 2: Puissance améliorée supérieure
+* Rang 2: Habiletés motrices
+* Rang 3: Frappe Renversante ou Combattant sans armure:
+* Rang 4: Frénésie supérieure
+* Rang 5: Attaquez et attaquez encore
+* Rang 6: Potentiel amélioré supérieur ou Dégâts mortels
+
+**Intrusions du MJ:** Il est facile pour un berserker de perdre le contrôle et d'attaquer ses amis comme ses ennemis.
+
+-----
+
 ### Se Revêt d'un Halo de Feu
 
 Vous pouvez envelopper votre corps de flammes, ce qui vous protège et nuit à vos ennemis.
@@ -321,6 +386,23 @@ Vous pouvez envelopper votre corps de flammes, ce qui vous protège et nuit à v
 * Rang 6: Serviteur du Feu ou Piste Infernale
 
 **Intrusions du MJ:** Le feu brûle des matières inflammables. Le feu se propage de manière incontrôlable. Les créatures primitives craignent le feu et attaquent souvent ce qu'elles craignent.
+
+-----
+
+### Vit dans la Nature Sauvage
+
+Vous pouvez survivre dans des étendues sauvages où d'autres périssent.
+
+* Rang 1: Vie en pleine nature
+* Rang 1: Puissance Amélioré
+* Rang 2: Vivre de la terre
+* Rang 2: Explorateur de la Nature
+* Rang 3: Sens et sensibilités animales ou Encouragement de la Nature
+* Rang 4: Sensibilisation à la nature sauvage
+* Rang 5: La nature est de votre côté
+* Rang 6: Faire Corps avec la Nature ou Camouflage sauvage
+
+**Intrusions du MJ:** Les habitants des villes et des villages dénigrent parfois ceux qui ont l'air (et sentent) comme s'ils vivaient dans la nature, comme s'ils étaient ignorants ou barbares.
 
 -----
 
@@ -564,10 +646,10 @@ Everyone wants you on their side when it comes to a fight because nothing gets b
 * Rang 1: Fortified Position
 * Rang 1: Rally to Me
 * Rang 2: Mind for Might
-* Rang 3: Fortification Builder ou Divert Attacks
-* Rang 4: Greater Enhanced Might
+* Rang 3: Fortification Builder ou Détourner les attaques
+* Rang 4: Puissance améliorée supérieure
 * Rang 5: Reinforcing Field
-* Rang 6: Generate Force Field ou Stun Attack
+* Rang 6: Generate Force Field ou Attaque Etourdissante
 
 **Intrusions du MJ:** A strategically important structure collapses. The enemy attacks from an unexpected direction.
 
@@ -616,7 +698,7 @@ You're a slacker, but you know a little about a lot of things.
 * Rang 3: Skill With Attacks ou Improvise
 * Rang 4: Life Lessons
 * Rang 4: Greater Skill With Defense
-* Rang 5: Greater Enhanced Potential
+* Rang 5: Potentiel amélioré supérieur
 * Rang 6 Drawing on Life's Experiences ou Quick Wits
 
 **Intrusions du MJ:** New situations are confounding and stressful. Past actions (or inactions) come back to haunt the character.
@@ -679,7 +761,7 @@ You perform, mostly for the benefit of others.
 
 * Rang 1: Levity
 * Rang 2: Inspiring Ease
-* Rang 3: Knowledge Skills ou Greater Enhanced Potential
+* Rang 3: Knowledge Skills ou Potentiel amélioré supérieur
 * Rang 4: Calm
 * Rang 5: Able Assistance
 * Rang 6: Master Entertainer ou Vindictive Performance
@@ -773,12 +855,12 @@ You're a swashbuckling daredevil who fights with flamboyant style that's enterta
 You can fly, and you're superstrong, hard to hurt, and fast too. Is there anything you can't do?
 
 * Rang 1: Hover
-* Rang 2: Greater Enhanced Potential
-* Rang 3: Hidden Reserves ou See Through Matter
+* Rang 2: Potentiel amélioré supérieur
+* Rang 3: Réserves cachées ou See Through Matter
 * Rang 4: Blink of an Eye
 * Rang 4: Up to Speed
-* Rang 5: Not Dead Yet
-* Rang 6: Burning Light ou Ignore Affliction
+* Rang 5: Pas encore mort
+* Rang 6: Burning Light ou Ignorer l'Affliction
 
 **Intrusions du MJ:** A nemesis finds the character. A strange material is found to nullify the character's abilities.
 
@@ -788,7 +870,7 @@ You can fly, and you're superstrong, hard to hurt, and fast too. Is there anythi
 
 You can telekinetically move objects with your mind without physically touching them.
 
-* Rang 1: Divert Attacks
+* Rang 1: Détourner les attaques
 * Rang 2: Telekinesis
 * Rang 3: Cloak of Opportunity ou Enhance Strength
 * Rang 4: Apportation
@@ -944,7 +1026,7 @@ You excel at winning others over to your views.
 * Rang 3: Able Assistance ou Enhanced Intellect Edge
 * Rang 4: Castigate
 * Rang 5: No One Knows Better
-* Rang 6: Greater Enhanced Potential ou Legal Intern
+* Rang 6: Potentiel amélioré supérieur ou Legal Intern
 
 **Intrusions du MJ:** Onlookers react badly to a know-it-all. A distraction ou interruption throws the character's argument off the rails.
 
@@ -997,7 +1079,7 @@ Although Is Licensed to Carry is designed with modern firearms in mind, it could
 * Rang 3: Outlaw Reputation ou Successive Attack
 * Rang 4: Fast Kill
 * Rang 5: Band of Desperados
-* Rang 6: Not Dead Yet ou Dégâts mortels
+* Rang 6: Pas encore mort ou Dégâts mortels
 
 **Intrusions du MJ:** Most people do not take well to discovering a wanted outlaw in their midst.
 
@@ -1029,7 +1111,7 @@ Your natural leadership capability allows you to command others, including a loy
 * Rang 2: Basic Follower
 * Rang 3: Advanced Command ou Expert Follower
 * Rang 4: Captivate ou Inspire
-* Rang 5: Greater Enhanced Potential
+* Rang 5: Potentiel amélioré supérieur
 * Rang 6: Band of Followers ou Mind of a Leader
 
 **Intrusions du MJ:** Followers fail, betray, lie, become corrupted, get kidnapped, ou die.
@@ -1054,23 +1136,6 @@ You deal with bad situations as they arise, learning new lessons each time.
 
 -----
 
-### Lives in the Wilderness
-
-You can survive in badlands where others perish.
-
-* Rang 1: Wilderness Life
-* Rang 1: Enhanced Might
-* Rang 2: Living Off the Land
-* Rang 2: Wilderness Explorer
-* Rang 3: Animal Senses and Sensibilities ou Wilderness Encouragement
-* Rang 4: Wilderness Awareness
-* Rang 5: The Wild Is on Your Side
-* Rang 6: One With the Wild ou Wild Camouflage
-
-**Intrusions du MJ:** People in cities and towns sometimes disparage those who look (and smell) like they live in the wilds, as if they were ignorant ou barbaric.
-
------
-
 ### Looks for Trouble
 
 You're a scrapper and love a good fight.
@@ -1079,10 +1144,10 @@ You're a scrapper and love a good fight.
 * Rang 1: Wound Tender
 * Rang 2: Protector
 * Rang 2: Straightforward
-* Rang 3: Skill With Attacks ou Greater Enhanced Potential
+* Rang 3: Skill With Attacks ou Potentiel amélioré supérieur
 * Rang 4: Knock Out
 * Rang 5: Mastery With Attacks
-* Rang 6: Greater Enhanced Might ou Dégâts mortels
+* Rang 6: Puissance améliorée supérieure ou Dégâts mortels
 
 **Intrusions du MJ:** Weapons break ou fly from even the strongest grip. Brawlers trip and fall. Even the battlefield can work against you with things falling ou collapsing.
 
@@ -1174,39 +1239,6 @@ You can move so fast that you become a blur.
 
 -----
 
-### Needs No Weapon
-
-Powerful punches, kicks, elbows, knees, and full body movements are all the weapons you need.
-
-* Rang 1: Fists of Fury
-* Rang 1: Flesh of Stone
-* Rang 2: Advantage to Disadvantage
-* Rang 2: Unarmed Fighting Style
-* Rang 3: Moving Like Water ou Greater Enhanced Potential
-* Rang 4: Divert Attacks
-* Rang 5: Stun Attack
-* Rang 6: Master of Unarmed Fighting Style ou Dégâts mortels
-
-**Intrusions du MJ:** Striking certain foes hurts you as much as it hurts them. Opponents with weapons have greater reach. Complicated martial arts moves can knock you off Equilibre.
-
------
-
-### Never Says Die
-
-You never quit, can shrug off a beating, and always come back for more.
-
-* Rang 1: Improved Recovery
-* Rang 1: Push on Through
-* Rang 2: Ignore the Pain
-* Rang 3: Blood Fever ou Hidden Reserves
-* Rang 4: Increasing Determination ou Outlast the Foe
-* Rang 5: Not Dead Yet
-* Rang 6: Final Defiance ou Ignore Affliction
-
-**Intrusions du MJ:** Sometimes, it's equipment ou weapons that give out.
-
------
-
 ### Opère sous Couverture
 
 Under the guise of someone else, you seek to find answers the powerful do not want divulged.
@@ -1221,22 +1253,6 @@ Under the guise of someone else, you seek to find answers the powerful do not wa
 * Rang 6: Trust to Luck ou Deadly Strike
 
 **Intrusions du MJ:** Bad luck can ruin the best plans. Disguises fail. Allies are revealed to be agents, too.
-
------
-
-### Performs Feats of Strength
-
-A muscled prodigy, you can haul incredible weight, hurl your body through the air, and punch through doors.
-
-* Rang 1: Athlete
-* Rang 1: Enhanced Might Edge
-* Rang 2: Feat of Strength
-* Rang 3: Iron Fist ou Throw
-* Rang 4: Greater Enhanced Might
-* Rang 5: Brute Strike
-* Rang 6: Greater Enhanced Might ou Jump Attack
-
-**Intrusions du MJ:** It's easy to break delicate things ou hurt someone accidentally.
 
 -----
 
@@ -1278,22 +1294,6 @@ Lessons, reflexes, and strategies you've learned by playing too many games have 
 
 -----
 
-### Rages
-
-When you go berserk, everyone fears you.
-
-* Rang 1: Frenzy
-* Rang 2: Greater Enhanced Might
-* Rang 2: Habiletés motrices
-* Rang 3: Power Strike ou Unarmored Fighter
-* Rang 4: Greater Frenzy
-* Rang 5: Attack and Attack Again
-* Rang 6: Greater Enhanced Potential ou Dégâts mortels
-
-**Intrusions du MJ:** It's easy for a berserker to lose control and attack friend as well as foe.
-
------
-
 ### Rides the Lightning
 
 You create and discharge electrical power.
@@ -1318,7 +1318,7 @@ Your first instinct is to run from danger, and you've gotten very good at it.
 * Rang 2: Enhanced Speed
 * Rang 2: Quick to Flee
 * Rang 3: Incredible Running Speed ou Vitesse améliorée supérieure
-* Rang 4: Increasing Determination
+* Rang 4: Détermination croissante
 * Rang 4: Quick Wits
 * Rang 5: Go to Ground
 * Rang 6: Burst of Escape ou Skill With Defense
@@ -1416,7 +1416,7 @@ You keep the place where you live safe from all danger.
 * Rang 1: Community Activist
 * Rang 2: Skill With Attacks
 * Rang 3: Shepherd's Fury ou Skill With Defense
-* Rang 4: Greater Enhanced Potential
+* Rang 4: Potentiel amélioré supérieur
 * Rang 5: Evasion
 * Rang 6: Greater Skill With Attacks ou Protective Wall
 
@@ -1579,7 +1579,7 @@ Some characters who Stand Like a Bastion might already be experts in armor. They
 * Rang 1: Experienced Defender
 * Rang 2: Resist the Elements
 * Rang 3: Unmovable
-* Rang 3: Greater Enhanced Might ou Practiced With All Weapons
+* Rang 3: Puissance améliorée supérieure ou Practiced With All Weapons
 * Rang 4: Living Wall
 * Rang 5: Hardiness
 * Rang 5: Mastery in Armor
@@ -1600,7 +1600,7 @@ Your body is elastic and rubbery, able to stretch to great lengths and compress 
 * Rang 3: Bypass Barrier ou Misdirect
 * Rang 4: Resilience
 * Rang 5: Free to Move
-* Rang 6:Break the Ranks ou Not Dead Yet
+* Rang 6:Break the Ranks ou Pas encore mort
 
 **Intrusions du MJ:** An attack ou effect interferes with the character’s elasticity. A stretched limb becomes overstressed and weak.
 
@@ -1710,10 +1710,10 @@ Spellcaster who learns a variety of spells instead of focusing on just one kind 
 
 An adherent of nature magic who draws on the power and strength of trees.
 
-* Rang 1: Wilderness Life
+* Rang 1: Vie en pleine nature
 * Rang 1: Patient Recovery
 * Rang 2: Wooden Body
-* Rang 3: Tree Companion ou Wilderness Awareness
+* Rang 3: Tree Companion ou Sensibilisation à la nature sauvage
 * Rang 4: Tree Travel
 * Rang 5: Great Tree
 * Rang 6: Dreadwood ou Restorative Bloom
@@ -1733,7 +1733,7 @@ You are the "chosen one," and prophecy, prediction, prognostication, ou some oth
 
 * Rang 4: Center of Attention
 * Rang 5: Show Them the Way
-* Rang 6: As Foretold in Prophecy ou Greater Enhanced Potential
+* Rang 6: As Foretold in Prophecy ou Potentiel amélioré supérieur
 
 **Intrusions du MJ:** An enemy described in prophecy appears. Unbelievers threaten to ruin the moment. The character gains a reputation in outside circles as a fraud.
 
@@ -1828,7 +1828,7 @@ You take great satisfaction in a job well done, whether it's coding, building ho
 * Rang 4: Enhanced Might
 * Rang 4: Tough It Out
 * Rang 5: Expert Skill
-* Rang 6: Greater Enhanced Potential ou  Hard-Won Resilience
+* Rang 6: Potentiel amélioré supérieur ou  Hard-Won Resilience
 
 **Intrusions du MJ:** Repairs sometimes fail. Wiring can be tricky to decipher and still carry an electrical charge. Some people are rude to those who work for a living.
 
@@ -1844,7 +1844,7 @@ You can exploit flaws in artificial systems, including but not limited to comput
 * Rang 3: Confidence Artist ou Skill With Attacks
 * Rang 4: Confuse Enemy
 * Rang 5: Work the Friendship
-* Rang 6: Call in Favor ou Greater Enhanced Potential
+* Rang 6: Call in Favor ou Potentiel amélioré supérieur
 
 **Intrusions du MJ:** Contacts sometimes have ulterior motives. Devices sometimes have failsafes ou even traps.
 

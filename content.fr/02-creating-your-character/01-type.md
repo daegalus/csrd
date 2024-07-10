@@ -885,7 +885,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Assassin/Espion:** Explorateur et Guerrier sont de bons choix de type pour un personnage assassin. Les Motivations appropriées sont Maîtrise l'Armement, Bouge comme un Chat, Assassine, et Rôde dans les Bas Quartiers.
 
-**Barbare:** Un personnage barbare est probablement un Guerrier ou (pour se concentrer un peu plus sur les compétences que sur le combat) un Explorateur. Les bons Motivations parmi lesquels choisir sont Lives in the Wilderness, Maîtrise l'Armement, Needs No Weapon, Never Says Die, Performs Feats of Strength, et Rages.
+**Barbare:** Un personnage barbare est probablement un Guerrier ou (pour se concentrer un peu plus sur les compétences que sur le combat) un Explorateur. Les bonnes Motivations parmi lesquels choisir sont Vit dans la Nature Sauvage, Maîtrise l'Armement, N'a pas Besoin d'Arme, Never Says Die, Performs Feats of Strength, et Rages.
 
 **Barde:** Les bardes dans la fiction et les jeux fantastiques sont des troubadours, des ménestrels et des conteurs, avec peut-être un élément surnaturel. Les bardes sont généralement des explorateurs ou des émissaires. Les Motivations appropriées sont Entertains, Helps Their Friends, Infiltrates, and Maîtrise les Sortilèges.
 
@@ -899,7 +899,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 * **Cleric (trickery):** Prend une Forme Animale\* (voir aussi les options pour les voleurs)
 * **Cleric (war):** Maîtrise l'Armement (voir aussi les options pour les combattants)
 
-**Druid:** En tant que sorte très spécifique de prêtre de la nature, un personnage druide est généralement un Adepte ou un Explorateur (dans les deux cas utilisant probablement la Préference magique). Un druide typique a probablement pour Motivation Channels Divine Blessings ou Lives in the Wilderness, mais pour des options plus spécifiques, voir les Motivations suivantes:
+**Druid:** En tant que sorte très spécifique de prêtre de la nature, un personnage druide est généralement un Adepte ou un Explorateur (dans les deux cas utilisant probablement la Préference magique). Un druide typique a probablement pour Motivation Channels Divine Blessings ou Vit dans la Nature Sauvage, mais pour des options plus spécifiques, voir les Motivations suivantes:
 
 * **Druid (animal companion):** Controls Beasts, Masters the Swarm
 * **Druid (elemental):** Abides in Stone, Se Revêt d'un Halo de Feu, Moves Like the Wind, Rides the Lightning, Wears a Sheen of Ice
@@ -909,7 +909,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 **Combattant:** Les combattants sont presque toujours du type Guerrier, mais certains sont des Explorateurs. Un combattant typique a probablement une motivation comme Maîtrise l'Armement or Wields an Enchanted Weapon\*. Pour des options supplémentaires basées sur le choix d'un rôle de combat spécifique, voir ce qui suit:
 
 * **Fighter (guardian):** Brandishes an Exotic Shield, Defends the Gate, Masters Defense, Never Says Die, Stands Like a Bastion.
-* **Fighter (melee):** Fights Dirty, Fights With Panache, Looks For Trouble, Needs No Weapon, Wields Two Weapons at Once
+* **Fighter (melee):** Fights Dirty, Fights With Panache, Looks For Trouble, N'a pas Besoin d'Arme, Wields Two Weapons at Once
 * **Fighter (ranged):** Is Licensed to Carry, Throws With Deadly Accuracy
 
 **Pistolero:** Un pistolero est probablemebt un Guerrier ou un Explorateur, et certains peuvent être des Emissaires avec une Préférence de Combat. ALes Motivations appropriées sont Is Licensed to Carry, Maîtrise l'Armement, Sailed Beneath the Jolly Roger, et Wields an Enchanted Weapon\*.
@@ -918,11 +918,11 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Marchant:** Un Explorateur spécialisé dans les interactions sociales, comme Entertains ou Leads, ferait un bon personnage marchand, mais le choix le plus évident serait un Emissaire.
 
-**Moine or Spécialiste des Arts Martiaux:** En tant que maîtres du combat à mains nues, les moines sont généralement des Guerriers ou des Explorateurs (avec peut-être une Préférence de combat). Les Motivations appropriées sont les Fights With Panache, Needs No Weapon, and Throws With Deadly Accuracy.
+**Moine or Spécialiste des Arts Martiaux:** En tant que maîtres du combat à mains nues, les moines sont généralement des Guerriers ou des Explorateurs (avec peut-être une Préférence de combat). Les Motivations appropriées sont les Fights With Panache, N'a pas Besoin d'Arme, and Throws With Deadly Accuracy.
 
 **Paladin/Chevalier/Parangon:** En tant que guerriers sacrés mêlant prouesses martiales et magie, les paladins sont généralement des Guerriers ou des Explorateurs (dans les deux cas, peut-être modifiés avec la Préférence magique). Les bonnes Motivations pour ce type de personnage incluent Defends the Gate, Defends the Weak, Metes Out Justice, Slays Monsters, and Wields an Enchanted Weapon\*.
 
-**Ranger:** Les Rangers mélangent combat et compétences, et sont donc généralement des Explorateurs (peut-être avec une Préférence de combat) ou des Guerriers (peut-être avec une Préférence de compétences et de connaissances). Les Motivations appropriées sont Controls Beasts, Hunts, Lives in the Wilderness, Slays Monsters, Throws With Deadly Accuracy, et Wields Two Weapons at Once.
+**Ranger:** Les Rangers mélangent combat et compétences, et sont donc généralement des Explorateurs (peut-être avec une Préférence de combat) ou des Guerriers (peut-être avec une Préférence de compétences et de connaissances). Les Motivations appropriées sont Controls Beasts, Hunts, Vit dans la Nature Sauvage, Slays Monsters, Throws With Deadly Accuracy, et Wields Two Weapons at Once.
 
 **Roublard ou Voleur:** La plupart des personnages de type voleur sont des Explorateurs, mais un voleur axé sur l'interaction pourrait facilement être un Emissaire (peut-être avec une Préférence furtive). Les Motivations appropriées sont Explores Dark Places, Fights Dirty, Hunts, Infiltrates, Is Wanted by the Law, Bouge comme un Chat, Sailed Beneath the Jolly Roger, and Rôde dans les Bas Quartiers.
 
