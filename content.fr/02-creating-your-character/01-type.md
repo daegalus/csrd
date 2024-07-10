@@ -893,7 +893,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 * **Cleric (mort):** S'Associe avec les Morts, Guide les Esprits
 * **Cleric (connaissance):** Apprend Rapidement, Voit Au-Delà, Préfèrerait Lire
-* **Cleric (life):** Defends the Weak, Shepherds the Community, Fait des Miracles
+* **Cleric (vie):** Défend les Faibles, Guide la Communauté, Fait des Miracles
 * **Cleric (light):** Blazes With Radiance, Canalise les Bénédictions Divines
 * **Cleric (storm):** Rides the Lightning, Thunders
 * **Cleric (trickery):** Prend une Forme Animale\* (voir aussi les options pour les voleurs)
@@ -920,7 +920,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Moine or Spécialiste des Arts Martiaux:** En tant que maîtres du combat à mains nues, les moines sont généralement des Guerriers ou des Explorateurs (avec peut-être une Préférence de combat). Les Motivations appropriées sont les Fights With Panache, N'a pas Besoin d'Arme, and Throws With Deadly Accuracy.
 
-**Paladin/Chevalier/Parangon:** En tant que guerriers sacrés mêlant prouesses martiales et magie, les paladins sont généralement des Guerriers ou des Explorateurs (dans les deux cas, peut-être modifiés avec la Préférence magique). Les bonnes Motivations pour ce type de personnage incluent Defends the Gate, Defends the Weak, Metes Out Justice, Slays Monsters, and Wields an Enchanted Weapon\*.
+**Paladin/Chevalier/Parangon:** En tant que guerriers sacrés mêlant prouesses martiales et magie, les paladins sont généralement des Guerriers ou des Explorateurs (dans les deux cas, peut-être modifiés avec la Préférence magique). Les bonnes Motivations pour ce type de personnage incluent Defends the Gate, Défend les Faibles, Metes Out Justice, Slays Monsters, and Wields an Enchanted Weapon\*.
 
 **Ranger:** Les Rangers mélangent combat et compétences, et sont donc généralement des Explorateurs (peut-être avec une Préférence de combat) ou des Guerriers (peut-être avec une Préférence de compétences et de connaissances). Les Motivations appropriées sont Controls Beasts, Hunts, Vit dans la Nature Sauvage, Slays Monsters, Throws With Deadly Accuracy, et Wields Two Weapons at Once.
 

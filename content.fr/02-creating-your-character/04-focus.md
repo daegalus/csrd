@@ -245,6 +245,23 @@ Vous excellez dans la lutte contre les robots, les automates et les entités mac
 
 -----
 
+### Défend les Faibles
+
+Vous défendez les impuissants, les faibles et ceux qui ne sont pas protégés.
+
+* Rang 1: Courageux
+* Rang 1: Bouclier de protection
+* Rang 2: Véritable défenseur
+* Rang 2: Perspicacité
+* Rang 3: Double protection ou Véritable Gardien
+* Rang 4: Défi de combat
+* Rang 5: Sacrifice volontaire
+* Rang 6: Réanimer ou Véritable défenseur
+
+**Intrusions du MJ:** Un personnage soucieux de protéger les autres peut périodiquement se rendre vulnérable aux attaques.
+
+-----
+
 ### Demeure dans la pierre
 
 Votre chair est constituée de minéraux durs, ce qui fait de vous un humanoïde imposant et difficile à blesser.
@@ -290,6 +307,22 @@ Vous pouvez guérir les autres d’un simple toucher, modifier le temps pour aid
 * Rang 6: Main Guérisseuse Supérieure ou Restaurer la vie
 
 **Intrusions du MJ:** Les tentatives de guérison pourraient plutôt causer du tort. Une communauté ou un individu a si désespérément besoin d'un guérisseur qu'il en a un contre son gré.
+
+-----
+
+### Guide la Communauté
+
+Vous gardez le lieu où vous vivez à l'abri de tout danger.
+
+* Rang 1: Connaissance de la communauté
+* Rang 1: Activiste communautaire
+* Rang 2: Compétence avec les attaques
+* Rang 3: Fureur du berger ou Compétence en Défense Supérieure
+* Rang 4: Potentiel amélioré supérieur
+* Rang 5: Evasion
+* Rang 6: Compétence en Attaque Supérieure ou Mur de protection
+
+**Intrusions du MJ:** Les membres de la communauté comprennent mal les motivations du personnage. Les rivaux tentent d'évincer le personnage.
 
 -----
 
@@ -771,23 +804,6 @@ Everyone wants you on their side when it comes to a fight because nothing gets b
 
 -----
 
-### Defends the Weak
-
-You stand up for the helpless, the weak, and the unprotected.
-
-* Rang 1: Courageux
-* Rang 1: Warding Shield
-* Rang 2: Devoted Defender
-* Rang 2: Insight
-* Rang 3: Dual Wards ou True Guardian
-* Rang 4: Combat Challenge
-* Rang 5: Willing Sacrifice
-* Rang 6: Resuscitate ou True Defender
-
-**Intrusions du MJ:** A character focused on protecting others may periodically leave themselves vulnerable to attacks.
-
------
-
 ### Descends From Nobility
 
 A descendent of wealth and power, you carry a noble title and the abilities granted by a privileged upbringing.
@@ -811,7 +827,7 @@ You're a slacker, but you know a little about a lot of things.
 
 * Rang 1: Life Lessons
 * Rang 2: Totally Chill
-* Rang 3: Skill With Attacks ou Improvise
+* Rang 3: Compétence avec les attaques ou Improvise
 * Rang 4: Life Lessons
 * Rang 4: Compétence en Défense Supérieure
 * Rang 5: Potentiel amélioré supérieur
@@ -1104,7 +1120,7 @@ You're a celebrity and most people adore you.
 * Rang 1: Entourage
 * Rang 1: Celebrity Talent
 * Rang 2: Perks of Stardom
-* Rang 3: Incredible Health ou Skill With Attacks
+* Rang 3: Incredible Health ou Compétence avec les attaques
 * Rang 4: Captivate With Starshine
 * Rang 4: Expert Follower
 * Rang 5: Do You Know Who I Am?
@@ -1191,7 +1207,7 @@ You're a scrapper and love a good fight.
 * Rang 1: Wound Tender
 * Rang 2: Protector
 * Rang 2: Straightforward
-* Rang 3: Skill With Attacks ou Potentiel amélioré supérieur
+* Rang 3: Compétence avec les attaques ou Potentiel amélioré supérieur
 * Rang 4: Knock Out
 * Rang 5: Mastery With Attacks
 * Rang 6: Puissance améliorée supérieure ou Dégâts mortels
@@ -1243,7 +1259,7 @@ Insects. Rats. Bats. Even birds. You master one type of small creature that obey
 
 * Rang 1: Influence Swarm
 * Rang 2: Control Swarm
-* Rang 3: Living Armor ou Skill With Attacks
+* Rang 3: Living Armor ou Compétence avec les attaques
 * Rang 4: Call Swarm
 * Rang 5: Gain Unusual Companion
 * Rang 6: Deadly Swarm ou Compétence en Défense Supérieure
@@ -1317,7 +1333,7 @@ You're a crack starship pilot.
 * Rang 4: Enhanced Speed
 * Rang 5: Like the Back of Your Hand
 * Rang 6: Incomparable Pilot
-* Rang 6: Remote Control ou Skill With Attacks
+* Rang 6: Remote Control ou Compétence avec les attaques
 
 **Intrusions du MJ:** Starcraft get lost, break down, and are attacked in space. An alien stowaway is found.
 
@@ -1382,7 +1398,7 @@ You sailed with a crew of dread pirates, but you've decided to end your days as 
 * Rang 1: Sailor
 * Rang 2: Taking Advantage
 * Rang 2: Fearsome Reputation
-* Rang 3: Skill With Attacks ou Compétence en Défense Supérieure
+* Rang 3: Compétence avec les attaques ou Compétence en Défense Supérieure
 * Rang 4: Sea Legs
 * Rang 4: Habiletés motrices
 * Rang 5: Lost in the Chaos
@@ -1437,22 +1453,6 @@ You can project your mind out of your body to see faraway places and learn secre
 * Rang 6: Projection mentale ou Capteur amélioré
 
 **Intrusions du MJ:** Reuniting mind and body can sometimes be disorienting and require a character to spend a few moments to get their bearings.
-
------
-
-### Shepherds the Community
-
-You keep the place where you live safe from all danger.
-
-* Rang 1: Community Knowledge
-* Rang 1: Community Activist
-* Rang 2: Skill With Attacks
-* Rang 3: Shepherd's Fury ou Compétence en Défense Supérieure
-* Rang 4: Potentiel amélioré supérieur
-* Rang 5: Evasion
-* Rang 6: Compétence en Attaque Supérieure ou Protective Wall
-
-**Intrusions du MJ:** People in the community misunderstand the character's motives. Rivals try to oust the character.
 
 -----
 
@@ -1557,7 +1557,7 @@ You're a master of deduction, using evidence to find the answer.
 * Rang 1: Investigator
 * Rang 1: Sleuth
 * Rang 2: Out of Harm's Way
-* Rang 3: You Studied ou Skill With Attacks
+* Rang 3: You Studied ou Compétence avec les attaques
 * Rang 4: Draw Conclusion
 * Rang 5: Defuse Situation
 * Rang 6: Seize the Initiative ou Compétence en Défense Supérieure
@@ -1715,7 +1715,7 @@ Spellcaster who learns a variety of spells instead of focusing on just one kind 
 * Rang 3: Cypher Surge ou Faster Wild Magic
 * Rang 4: Expanded Repertoire
 * Rang 5: Magical Training
-* Rang 6: Maximize Cypher ou Wild Insight
+* Rang 6: Maximize Cypher ou Instinct de Magie Sauvage
 
 **Intrusions du MJ:** A spell performs erratically ou rebounds upon the caster. Something interferes with preparing spells. Spellcasting attracts the attention of a powerful creature ou potential rival. The cypher spell being cast is replaced with that of a random cypher.
 
@@ -1856,7 +1856,7 @@ You can exploit flaws in artificial systems, including but not limited to comput
 * Rang 1: Hack the Impossible
 * Rang 1: Computer Programming
 * Rang 2: Connected
-* Rang 3: Confidence Artist ou Skill With Attacks
+* Rang 3: Confidence Artist ou Compétence avec les attaques
 * Rang 4: Confuse Enemy
 * Rang 5: Work the Friendship
 * Rang 6: Call in Favor ou Potentiel amélioré supérieur
@@ -2518,7 +2518,7 @@ devices, learning powerful magic spells, uncovering forbidden secrets, ou someth
 * Lower-Rang ability: choose any Rang 1 replacement ability, above.
 * Compétence en Défense Supérieure
 * Practiced With All Weapons
-* Skill With Attacks
+* Compétence avec les attaques
 
 ### Rang 3
 
