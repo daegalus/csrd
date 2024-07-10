@@ -634,7 +634,7 @@ Modifient une capacité existante ou des effets ou paramètres de caractéristiq
 * Ne jamais échouer
 * Parfait Inconnu
 * Pensez à votre sortie
-* Physique améliorée
+* Physique amélioré
 * Physique amélioré supérieur
 * Poing de Fer
 <--->
@@ -854,13 +854,14 @@ Donnent un entrainement ou une spécialisation dans un ou plusieurs types de dé
 * Distortion
 * Entraîné sans armure
 * Esprit fermé
+* Evitement
 * Faites face aux vicissitudes
 * Juste un peu fou
 * Hors de danger
 * Maîtrise du Bouclier
 * Manteau de flammes
-<--->
 * Mentalement résistant
+<--->
 * Out of Harm's Way
 * Phase défensive
 * Position fortifiée
@@ -876,7 +877,6 @@ Donnent un entrainement ou une spécialisation dans un ou plusieurs types de dé
 * Robustesse
 * Serv-0 Defenseur
 * Sprint de Phase
-* Vol d'Evitement
 {{< /columns >}}
 
 **Rang Intermédiaire:**
@@ -946,7 +946,7 @@ Donnent un entrainement ou une spécialisation dans un ou plusieurs types de dé
 * Difficile à tuer
 * Energiser la créature
 * Energiser la foule
-* Evasion
+* Esquive
 <--->
 * Evitement par microgravité
 * Intouchable
@@ -2588,6 +2588,8 @@ Facilitateur.
 
 **Esprit polyvalent**: lorsque vous effectuez un jet de défense de vitesse, vous pouvez utiliser votre intelligence à la place de votre vitesse. Facilitateur.
 
+**Esquive**: Vous êtes difficile à affecter lorsque vous ne voulez pas être affecté. Vous êtes entraîné à toutes les tâches de défense. Facilitateur.
+
 **Esquive et résistance** (3 points de vitesse) : Vous pouvez relancer n’importe lequel de vos jets de défense de puissance, de vitesse ou d’intelligence et prendre le meilleur des deux résultats. Facilitateur.
 
 **Esquiver et répondre** (3 points de puissance) : Si une attaque au corps à corps vous manque, vous pouvez immédiatement effectuer une attaque au corps à corps en retour, mais pas plus d'une fois par tour. Facilitateur.
@@ -2602,9 +2604,11 @@ Facilitateur.
 
 **Evanescencence** (3 points de vitesse) : Vous entrez dans l'ombre ou à l'abri, et tous ceux qui vous observaient perdent complètement votre trace. Bien que vous ne soyez pas invisible, vous ne pouvez pas être vu jusqu'à ce que vous vous révéliez à nouveau en sortant de l'ombre ou en sortant d'un abri (ou en effectuant une attaque). Action.
 
-**Evasion**/Evasion: Vous êtes difficile à affecter lorsque vous ne voulez pas être affecté. Vous êtes entraîné à toutes les tâches de défense. Facilitateur.
+**Evasion (2 points de vitesse):** vous glissez vos attaches, vous faufilez à travers les barreaux, brisez l'emprise d'une créature qui vous tient, vous libérez des sables mouvants aspirés ou vous vous détachez de tout ce qui vous maintient en place. Action.
 
 **Évasion illusoire** (5 points d'Intelligence) : lorsque vous êtes sur le point d'être touché par une attaque, vous vous téléportez à une distance immédiate, laissant derrière vous une copie illusoire de vous-même qui sera frappée par cette attaque à votre place. Cela détruit l'illusion mais vous laisse indemne par l'attaque. Si l’attaque affecte une zone et que la téléportation ne peut pas vous faire sortir de cette zone, l’attaque vous affecte quand même normalement. Facilitateur.
+
+**Evitement** : si vous utilisez votre action uniquement pour vous déplacer, toutes les tâches de défense de vitesse sont facilitées. Facilitateur.
 
 **Evitement par microgravité**: en profitant des conditions de microgravité, vous obtenez un atout pour accélérer les tâches de défense en apesanteur ou
 conditions de faible gravité. Facilitateur.
@@ -3273,9 +3277,9 @@ Lorsque vous effectuez une action, vous utilisez le corps de la créature pour e
 
 **Phase défensive** (2 points d'Intelligence): Vous pouvez modifier votre phase pour que certaines attaques vous traversent sans danger. Pendant les dix minutes suivantes, vous gagnez un atout pour vos tâches de défense de vitesse, mais pendant ce temps, vous perdez tout bénéfice de l'armure que vous portez. Action à initier.
 
-**Physique améliorée** : vous gagnez 3 points à répartir entre vos réserves de puissance et de vitesse comme vous le souhaitez. Facilitateur.
+**Physique amélioré** : vous gagnez 3 points à répartir entre vos réserves de puissance et de vitesse comme vous le souhaitez. Facilitateur.
 
-**Physique améliorée supérieure**: vous gagnez 6 points à répartir entre vos réserves de puissance et de vitesse comme vous le souhaitez. Facilitateur.
+**Physique amélioré supérieure**: vous gagnez 6 points à répartir entre vos réserves de puissance et de vitesse comme vous le souhaitez. Facilitateur.
 
 **Physiquement doué**: chaque fois que vous dépensez des points de votre réserve de puissance ou de votre réserve de vitesse pour une action pour quelque raison que ce soit, si vous obtenez un 1 sur le dé associé, vous relancez, en prenant toujours le deuxième résultat (même si c'est un autre 1). Facilitateur.
 
@@ -4043,8 +4047,6 @@ Cela prend entre une action et des heures de concentration, selon ce que le MJ e
 **Vol** (4+ points d'Intelligence) : Vous pouvez flotter et voler dans les airs pendant une heure. Pour chaque niveau d'Effort appliqué, vous pouvez affecter une créature supplémentaire de votre taille ou moins. Vous devez toucher la créature pour lui conférer le pouvoir de voler. Vous dirigez le mouvement de l’autre créature, et pendant qu’elle vole, elle doit rester en vue ou tomber. En termes de mouvement terrestre, une créature volante se déplace à environ 32 km par heure et n'est pas affectée par le terrain. Action à initier.
 
 **Vol Court** (3 points de puissance ou 3 points de vitesse) : vous pouvez voler sur une courte distance lors de votre mouvement ce tour. Si tout ce que vous faites est de vous déplacer pendant votre tour, vous pouvez voler sur une longue distance. Facilitateur.
-
-**Vol d’Evitement** : si vous utilisez votre action uniquement pour vous déplacer, toutes les tâches de défense de vitesse sont facilitées. Facilitateur.
 
 **Vol électrique** (5 points d'Intelligence) : Vous dégagez une aura d'électricité crépitante qui vous permet de voler sur une longue distance à chaque tour pendant dix minutes. Vous ne pouvez pas transporter d’autres créatures avec vous. Action à activer.
 

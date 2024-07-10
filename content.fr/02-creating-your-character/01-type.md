@@ -885,9 +885,9 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Assassin/Espion:** Explorateur et Guerrier sont de bons choix de type pour un personnage assassin. Les Motivations appropriées sont Maîtrise l'Armement, Bouge comme un Chat, Assassine, et Rôde dans les Bas Quartiers.
 
-**Barbare:** Un personnage barbare est probablement un Guerrier ou (pour se concentrer un peu plus sur les compétences que sur le combat) un Explorateur. Les bonnes Motivations parmi lesquels choisir sont Vit dans la Nature Sauvage, Maîtrise l'Armement, N'a pas Besoin d'Arme, Never Says Die, Performs Feats of Strength, et Rages.
+**Barbare:** Un personnage barbare est probablement un Guerrier ou (pour se concentrer un peu plus sur les compétences que sur le combat) un Explorateur. Les bonnes Motivations parmi lesquels choisir sont Vit dans la Nature Sauvage, Maîtrise l'Armement, N'a pas Besoin d'Arme, Ne S'Avoue Jamais Vaincu, Accompli des Prouesses de Force, et Se Met en Rage.
 
-**Barde:** Les bardes dans la fiction et les jeux fantastiques sont des troubadours, des ménestrels et des conteurs, avec peut-être un élément surnaturel. Les bardes sont généralement des explorateurs ou des émissaires. Les Motivations appropriées sont Entertains, Helps Their Friends, Infiltrates, and Maîtrise les Sortilèges.
+**Barde:** Les bardes dans la fiction et les jeux fantastiques sont des troubadours, des ménestrels et des conteurs, avec peut-être un élément surnaturel. Les bardes sont généralement des explorateurs ou des émissaires. Les Motivations appropriées sont Divertit, Aide ses Amis, Se Cache dans les Ombres, and Maîtrise les Sortilèges.
 
 **Clerc or Prêtre:** Les prêtres académiques sont généralement des Adeptes ou des Emissaires, mais les prêtres martiaux sont souvent des Guerriers (peut-être avec une Préférence magique). Pour un clerc typique doté d’un ensemble polyvalent de capacités, choisissez la Motivation Channels Divine Blessings.
 
@@ -908,15 +908,15 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Combattant:** Les combattants sont presque toujours du type Guerrier, mais certains sont des Explorateurs. Un combattant typique a probablement une motivation comme Maîtrise l'Armement or Wields an Enchanted Weapon\*. Pour des options supplémentaires basées sur le choix d'un rôle de combat spécifique, voir ce qui suit:
 
-* **Fighter (guardian):** Brandishes an Exotic Shield, Defends the Gate, Masters Defense, Never Says Die, Stands Like a Bastion.
+* **Fighter (guardian):** Brandishes an Exotic Shield, Defends the Gate, Masters Defense, Ne S'Avoue Jamais Vaincu, Stands Like a Bastion.
 * **Fighter (melee):** Fights Dirty, Fights With Panache, Looks For Trouble, N'a pas Besoin d'Arme, Wields Two Weapons at Once
 * **Fighter (ranged):** Is Licensed to Carry, Throws With Deadly Accuracy
 
 **Pistolero:** Un pistolero est probablemebt un Guerrier ou un Explorateur, et certains peuvent être des Emissaires avec une Préférence de Combat. ALes Motivations appropriées sont Is Licensed to Carry, Maîtrise l'Armement, Sailed Beneath the Jolly Roger, et Wields an Enchanted Weapon\*.
 
-**Inquisiteur:** Les inquisiteurs sont généralement des Explorateurs, des Emissaires ou des Guerriers, selon qu'ils ont tendance à posséder de nombreuses compétences, à être doués pour interagir avec les gens ou à combattre. Les Motivations appropriées sont Infiltrates, Metes Out Justice, and Operates Undercover.
+**Inquisiteur:** Les inquisiteurs sont généralement des Explorateurs, des Emissaires ou des Guerriers, selon qu'ils ont tendance à posséder de nombreuses compétences, à être doués pour interagir avec les gens ou à combattre. Les Motivations appropriées sont Se Cache dans les Ombres, Metes Out Justice, and Operates Undercover.
 
-**Marchant:** Un Explorateur spécialisé dans les interactions sociales, comme Entertains ou Leads, ferait un bon personnage marchand, mais le choix le plus évident serait un Emissaire.
+**Marchant:** Un Explorateur spécialisé dans les interactions sociales, comme Divertit ou Leads, ferait un bon personnage marchand, mais le choix le plus évident serait un Emissaire.
 
 **Moine or Spécialiste des Arts Martiaux:** En tant que maîtres du combat à mains nues, les moines sont généralement des Guerriers ou des Explorateurs (avec peut-être une Préférence de combat). Les Motivations appropriées sont les Fights With Panache, N'a pas Besoin d'Arme, and Throws With Deadly Accuracy.
 
@@ -924,7 +924,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Ranger:** Les Rangers mélangent combat et compétences, et sont donc généralement des Explorateurs (peut-être avec une Préférence de combat) ou des Guerriers (peut-être avec une Préférence de compétences et de connaissances). Les Motivations appropriées sont Controls Beasts, Hunts, Vit dans la Nature Sauvage, Slays Monsters, Throws With Deadly Accuracy, et Wields Two Weapons at Once.
 
-**Roublard ou Voleur:** La plupart des personnages de type voleur sont des Explorateurs, mais un voleur axé sur l'interaction pourrait facilement être un Emissaire (peut-être avec une Préférence furtive). Les Motivations appropriées sont Explores Dark Places, Fights Dirty, Hunts, Infiltrates, Is Wanted by the Law, Bouge comme un Chat, Sailed Beneath the Jolly Roger, and Rôde dans les Bas Quartiers.
+**Roublard ou Voleur:** La plupart des personnages de type voleur sont des Explorateurs, mais un voleur axé sur l'interaction pourrait facilement être un Emissaire (peut-être avec une Préférence furtive). Les Motivations appropriées sont Explores Dark Places, Fights Dirty, Hunts, Se Cache dans les Ombres, Is Wanted by the Law, Bouge comme un Chat, Sailed Beneath the Jolly Roger, and Rôde dans les Bas Quartiers.
 
 **Sorcier:** Les sorciers, dans notre cas, sont des mages qui ont des capacités magiques inhérentes (par opposition aux magiciens, qui étudient longuement et durement pour obtenir leurs sorts). La plupart des sorciers sont des Adeptes, mais certains sont des Explorateurs ou des Emissaires. La Motivation Maîtrise les Sortilèges donne à un sorcier typique un ensemble efficace de capacités, et la plupart des choix de Motivation fournissent un ensemble thématique de sorts. Pour les sorciers de diverses lignées magiques, consultez ce qui suit :
 
@@ -936,7 +936,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 * **Sorcier (fiend):** Se Revêt d'un Halo de Feu, Keeps a Magic Ally
 * **Sorcier (undead):** Consorts With the Dead, Shepherds Spirits
 
-**Escroc ou Arnaqueur:** Ces gens intelligents sont généralement des Emissaires, bien qu'ils puissent être des Adeptes s'ils sont très magiques (ou des Explorateurs s'ils ne sont pas magiques du tout). Les choix de Motivation incluent Fights Dirty, Rôde dans les Bas Quartiers ou Entertains.
+**Escroc ou Arnaqueur:** Ces gens intelligents sont généralement des Emissaires, bien qu'ils puissent être des Adeptes s'ils sont très magiques (ou des Explorateurs s'ils ne sont pas magiques du tout). Les choix de Motivation incluent Fights Dirty, Rôde dans les Bas Quartiers ou Divertit.
 
 **Guerrier-Mage:** Pour ces personnages inhabituels qui utilisent un mélange d'attaques avec des armes et de sorts, incarnez un Guerrier à Préférence magique ou un expert à Préférence de combat ou de magie. Les Motivations appropriées incluent Fights With Panache, Maîtrise l'Armement, and Wields an Enchanted Weapon\*.
 

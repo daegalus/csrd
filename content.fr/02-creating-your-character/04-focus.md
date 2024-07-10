@@ -20,7 +20,7 @@ Lorsqu'une Motivations est choisie pour un personnage, celui-ci obtient une conn
 
 Chaque focus propose également une ou plusieurs suggestions --- intrusions GM --- pour les effets ou conséquences possibles de très bons ou de très mauvais lancers de dés.
 
-Quelques Motivations présentées dans ce chapitre fournissent une « option d'échange de type » qui permet à un joueur d'échanger une capacité qui serait autrement acquise grâce à son type contre la capacité indiquée. Un joueur n'est pas obligé de procéder à l'échange ; ils ont simplement le choix. Par exemple, la Motivation Aime le Vide offre la possibilité d'acquérir la capacité Ayez une Combinaison Spatiale, Vous Voyagerez au lieu d'une capacité de type.
+Quelques Motivations présentées dans ce chapitre fournissent une « Option d'échange de type » qui permet à un joueur d'échanger une capacité qui serait autrement acquise grâce à son type contre la capacité indiquée. Un joueur n'est pas obligé de procéder à l'échange ; ils ont simplement le choix. Par exemple, la Motivation Aime le Vide offre la possibilité d'acquérir la capacité Ayez une Combinaison Spatiale, Vous Voyagerez au lieu d'une capacité de type.
 
 Au fur et à mesure qu'un personnage progresse vers un nouveau rang, une Motivation confère plus de capacités. L'avantage de chaque rang est généralement appelé Action ou Enabler. Si une capacité est étiquetée Action, un personnage doit effectuer une action pour l'utiliser. Si une capacité est étiquetée Facilitateur, elle améliore d'autres actions ou donne un autre avantage, mais ce n'est pas une action. Une capacité qui permet à un personnage de faire exploser ses ennemis avec des lasers est une action. Une capacité qui accorde des dégâts supplémentaires lorsqu'une attaque est effectuée est un Facilitateur. Un Facilitateur est utilisé au même tour qu’une autre action, et souvent dans le cadre d’une autre action.
 
@@ -141,6 +141,25 @@ Prodige en musculature, vous pouvez transporter un poids incroyable, projeter vo
 
 -----
 
+### Aide ses Amis
+
+Vous aimez vos amis et les aidez à sortir de toute difficulté, quoi qu'il arrive.
+
+**Option d'échange de type:** Conseils d'un ami
+
+* Rang 1: Aide amicale
+* Rang 1: Courageux
+* Rang 2: Faites face aux vicissitudes
+* Rang 3: Copain ou Compétence avec les attaques
+* Rang 4: En Danger
+* Rang 4: Physique amélioré
+* Rang 5: Inspirer l'action
+* Rang 6: Considération approfondie ou Compétence en défense
+
+**Intrusions du MJ:** D’autres ont parfois des arrière-pensées. La loi s’y intéresse indûment. Même lorsque tout se passe bien, les répercussions s’ensuivent.
+
+-----
+
 ### Assassine
 
 Vous êtes un assassin, que ce soit par métier, par inclination, ou parce que vous vouliez vous faire tuer. (Quelqu'un qui Assassine peut disposer d'un équipement supplémentaire, notamment trois doses d'un poison de lame de niveau 2 qui inflige 5 points de dégâts.)
@@ -208,6 +227,21 @@ Votre chair est constituée de minéraux durs, ce qui fait de vous un humanoïde
 * Rang 6: Ultra amélioration ou Sursaut mental
 
 **Intrusions du MJ:** Les créatures de pierre oublient parfois leur propre force ou leur propre poids. Une statue ambulante peut terrifier les gens ordinaires.
+
+-----
+
+### Divertit
+
+Vous vous donnez en spectacle principalement pour divertir les autres.
+
+* Rang 1: Légèreté
+* Rang 2: Facilité Inspirante
+* Rang 3: Compétences en Connaissances ou Potentiel amélioré supérieur
+* Rang 4: Calme
+* Rang 5: Assistance compétente
+* Rang 6: Maître du spectacle ou Performance vindicative
+
+**Intrusions du MJ:** Le public est agacé ou offensé. Les instruments de musique se cassent. Les peintures sèchent dans leurs pots. Les paroles d'un poème ou d'une chanson sont oubliées.
 
 -----
 
@@ -355,6 +389,23 @@ Vous avancez sans être vu, volant les riches pour parvenir à vos fins.
 * Rang 6: Rat des Allées ou Mettre le paquet
 
 **Intrusions du MJ:** Les voleurs sont jetés en prison. De puissants ennemis se font.
+
+-----
+
+### Se Cache dans les Ombres
+
+La subtilité, la ruse et la furtivité vous permettent d'accéder là où les autres ne peuvent pas aller.
+
+* Rang 1: Compétences furtives
+* Rang 1: Sentir les Attitudes
+* Rang 2: Usurper l'identité
+* Rang 2: Evitement
+* Rang 3: Conscience ou Compétence avec les attaques
+* Rang 4: Invisibilité
+* Rang 5: Esquive
+* Rang 6: Lavage de cerveau ou Saut de Côté
+
+**Intrusions du MJ:** Les espions sont traités durement lorsqu’ils sont capturés. Les alliés désavouent les infiltrés qui se font prendre. Il vaut mieux laisser certains secrets inconnus.
 
 -----
 
@@ -510,10 +561,10 @@ You have honed the power of your mind to perform amazing psychic deeds.
 Your preternatural insight and ability make you a scientist capable of amazing feats.
 
 * Rang 1: Lab Analysis
-* Rang 1: Knowledge Skills
+* Rang 1: Compétences en Connaissances
 * Rang 2: Modify Device
 * Rang 3: Better Living Through Chemistry ou Incredible Health
-* Rang 4: Knowledge Skills
+* Rang 4: Compétences en Connaissances
 * Rang 4: Just a Bit Mad
 * Rang 5: Weird Science Breakthrough
 * Rang 6: Incredible Feat of Science
@@ -559,7 +610,7 @@ Your ability to communicate and lead beasts is uncanny.
 
 You can sway the attraction of gravity itself.
 
-**Type Swap Option:** Weighty
+**Option d'échange de type:** Weighty
 
 * Rang 1: Hover
 * Rang 2: Avantage de Vitesse Amélioré
@@ -659,7 +710,7 @@ Everyone wants you on their side when it comes to a fight because nothing gets b
 
 You stand up for the helpless, the weak, and the unprotected.
 
-* Rang 1: Courageous
+* Rang 1: Courageux
 * Rang 1: Warding Shield
 * Rang 2: Devoted Defender
 * Rang 2: Insight
@@ -676,14 +727,14 @@ You stand up for the helpless, the weak, and the unprotected.
 
 A descendent of wealth and power, you carry a noble title and the abilities granted by a privileged upbringing.
 
-**Type Swap Option:** Retinue
+**Option d'échange de type:** Retinue
 
 * Rang 1: Privileged Nobility
 * Rang 2: Trained Interlocutor
 * Rang 3: Advanced Command ou Noble's Courage
 * Rang 4: Expert Follower
 * Rang 5: Asserting Your Privilege
-* Rang 6: Able Assistance ou Mind of a Leader
+* Rang 6: Assistance compétente ou Mind of a Leader
 
 **Intrusions du MJ:** Debts incurred by a family are owed by the character. A long-lost sibling seeks to disinherit rivals. An assassin finds the character.
 
@@ -752,21 +803,6 @@ You command metal and the power of magnetism.
 * Rang 6: Diamagnetism ou Iron Punch
 
 **Intrusions du MJ:** The metal twists, bends, ou produces shrapnel. A lapse in concentration might cause something to slip ou drop at just the wrong time.
-
------
-
-### Entertains
-
-You perform, mostly for the benefit of others.
-
-* Rang 1: Levity
-* Rang 2: Inspiring Ease
-* Rang 3: Knowledge Skills ou Potentiel amélioré supérieur
-* Rang 4: Calm
-* Rang 5: Able Assistance
-* Rang 6: Master Entertainer ou Vindictive Performance
-
-**Intrusions du MJ:** The audience is annoyed ou offended. Musical instruments break. Paints dry in their pots. The words to a poem ou song are forgotten.
 
 -----
 
@@ -901,11 +937,11 @@ Your body is part machine.
 Electronic aids implanted in your brain make you a mental powerhouse.
 
 * Rang 1: Enhanced Intellect
-* Rang 1: Knowledge Skills
+* Rang 1: Compétences en Connaissances
 * Rang 2: Network Tap
 * Rang 3: Action Processor ou Machine Telepathy
 * Rang 4: Greater Enhanced Intellect
-* Rang 4: Knowledge Skills
+* Rang 4: Compétences en Connaissances
 * Rang 5: See the Future
 * Rang 6: Machine Enhancement ou Mind Surge
 
@@ -948,25 +984,6 @@ You can change your appearance to look like anyone else.
 
 -----
 
-### Helps Their Friends
-
-You love your friends and help them out of any difficulty, no matter what.
-
-**Type Swap Option:** Advice From a Friend
-
-* Rang 1: Friendly Help
-* Rang 1: Courageous
-* Rang 2: Weather the Vicissitudes
-* Rang 3: Buddy System ou Skill With Attacks
-* Rang 4: In Harm's Way
-* Rang 4: Enhanced Physique
-* Rang 5: Inspire Action
-* Rang 6: Deep Consideration ou Skill With Defense
-
-**Intrusions du MJ:** Others sometimes have ulterior motives. The law takes an undue interest. Even when everything goes right, repercussions follow.
-
------
-
 ### Hunts
 
 You are a stalking hunter who excels at bringing down your selected quarry.
@@ -978,7 +995,7 @@ You are a stalking hunter who excels at bringing down your selected quarry.
 * Rang 3: Horde Fighting ou Sprint and Grab
 * Rang 4: Attaque surprise
 * Rang 5: Hunter's Drive
-* Rang 6: Greater Skill With Attacks ou Multiple Quarry
+* Rang 6: Compétence en Attaque Supérieure ou Multiple Quarry
 
 **Intrusions du MJ:** The quarry notices the character. The quarry isn't as vulnerable as it seemed.
 
@@ -999,23 +1016,6 @@ You can teleport from one place to another by briefly passing through a parallel
 
 -----
 
-### Infiltrates
-
-Subtlety, guile, and stealth allow you to get in where others can't.
-
-* Rang 1: Compétences furtives
-* Rang 1: Sense Attitudes
-* Rang 2: Impersonate
-* Rang 2: Flight Not Fight
-* Rang 3: Awareness ou Skill With Attacks
-* Rang 4: Invisibility
-* Rang 5: Evasion
-* Rang 6: Brainwashing ou Spring Away
-
-**Intrusions du MJ:** Spies are treated harshly when caught. Allies disavow infiltrators who get caught. Some secrets are better left unknown.
-
------
-
 ### Interprets the Law
 
 You excel at winning others over to your views.
@@ -1023,7 +1023,7 @@ You excel at winning others over to your views.
 * Rang 1: Opening Statement
 * Rang 1: Knowledge of the Law
 * Rang 2: Debate
-* Rang 3: Able Assistance ou Enhanced Intellect Edge
+* Rang 3: Assistance compétente ou Enhanced Intellect Edge
 * Rang 4: Castigate
 * Rang 5: No One Knows Better
 * Rang 6: Potentiel amélioré supérieur ou Legal Intern
@@ -1157,7 +1157,7 @@ You're a scrapper and love a good fight.
 
 When it's just you, your spacesuit, and the panorama of stars wheeling out forever and always, you are at peace.
 
-**Type Swap Option:** Have Spacesuit, Will Travel
+**Option d'échange de type:** Have Spacesuit, Will Travel
 
 * Rang 1: Vacuum Skilled
 * Rang 1: Microgravity Adept
@@ -1418,7 +1418,7 @@ You keep the place where you live safe from all danger.
 * Rang 3: Shepherd's Fury ou Skill With Defense
 * Rang 4: Potentiel amélioré supérieur
 * Rang 5: Evasion
-* Rang 6: Greater Skill With Attacks ou Protective Wall
+* Rang 6: Compétence en Attaque Supérieure ou Protective Wall
 
 **Intrusions du MJ:** People in the community misunderstand the character's motives. Rivals try to oust the character.
 
@@ -1512,7 +1512,7 @@ Although wielding a sword in a setting where people usually do not carry such we
 * Rang 3: Trained Slayer
 * Rang 3: Improved Monster Bane ou Misdirect
 * Rang 4: Fight On
-* Rang 5: Greater Skill With Attacks (swords)
+* Rang 5: Compétence en Attaque Supérieure (swords)
 * Rang 6: Murderer ou Heroic Monster Bane
 
 **Intrusions du MJ:** The monster laid a trap ou set an ambush. The monster has previously undisclosed abilities. The monster's mother vows revenge.
