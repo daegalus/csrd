@@ -125,6 +125,41 @@ Vous pouvez exploiter l’énergie cinétique et la transformer en d’autres ty
 
 -----
 
+### Assassine
+
+Vous êtes un assassin, que ce soit par métier, par inclination, ou parce que vous vouliez vous faire tuer. (Quelqu'un qui Assassine peut disposer d'un équipement supplémentaire, notamment trois doses d'un poison de lame de niveau 2 qui inflige 5 points de dégâts.)
+
+* Rang 1: Attaque surprise
+* Rang 1: Assassin Skills
+* Rang 2: Mort rapide
+* Rang 2: Infiltrateur
+* Rang 3: Conscience ou Artisan de Poisons
+* Rang 4: Attaque surprise Améliorée
+* Rang 5: Augmente les dommages
+* Rang 6: Plan d'évasion ou Meurtrier
+
+**Intrusions du MJ:** La plupart des gens ne réagissent pas bien face à un tueur professionnel.
+
+-----
+
+### Bouge comme un Chat
+
+Souple, flexible et gracieux, vous vous déplacez rapidement et en douceur, et ne semblez jamais être là où se trouve le danger.
+
+* Rang 1: Vitesse améliorée supérieure
+* Rang 1: Equilibre
+* Rang 2: Habiletés motrices
+* Rang 2: Chute en toute sécurité
+* Rang 3: Difficile à toucher
+* Rang 3: Avantage de Vitesse Amélioré ou Vitesse améliorée supérieure
+* Rang 4: Frappe rapide
+* Rang 5: Glissant
+* Rang 6: Sursaut de Vitesse Parfait ou Vitesse améliorée supérieure
+
+**Intrusions du MJ:** Même un chat peut être maladroit. Un saut n’est pas aussi facile qu’il y paraît. Un mouvement d'évasion est tellement excessif qu'il met le personnage en danger.
+
+-----
+
 ### Combat les Robots
 
 Vous excellez dans la lutte contre les robots, les automates et les entités machines.
@@ -256,6 +291,21 @@ Vous pouvez extraire des images de rêves et leur donner vie dans le monde évei
 * Rang 6: Chambre des rêves ou Champ réactif
 
 **Intrusions du MJ:** Un épisode de somnambulisme inattendu met le personnage dans une situation dangereuse. Un cauchemar se libère d'un rêve.
+
+-----
+
+### Rôde dans les Bas Quartiers
+
+Vous avancez sans être vu, volant les riches pour parvenir à vos fins.
+
+* Rang 1: Compétences furtives
+* Rang 2: Contacts avec la pègre
+* Rang 3: Rapide Tromperie ou Entraînement de guilde
+* Rang 4: Maître voleur
+* Rang 5: Sale Combattant
+* Rang 6: Rat des Allées ou Mettre le paquet
+
+**Intrusions du MJ:** Les voleurs sont jetés en prison. De puissants ennemis se font.
 
 -----
 
@@ -430,7 +480,7 @@ You can sway the attraction of gravity itself.
 **Type Swap Option:** Weighty
 
 * Rang 1: Hover
-* Rang 2: Enhanced Speed Edge
+* Rang 2: Avantage de Vitesse Amélioré
 * Rang 3: Define Down ou Gravity Cleave
 * Rang 4: Field of Gravity
 * Rang 5: Flight
@@ -583,7 +633,7 @@ Whether balancing on two wheels, jumping another vehicle, ou driving head-on tow
 * Rang 1: Driving on the Edge
 * Rang 2: Car Surfer
 * Rang 2: Stare Them Down
-* Rang 3: Expert Driver ou Enhanced Speed Edge
+* Rang 3: Expert Driver ou Avantage de Vitesse Amélioré
 * Rang 4: Sharp-Eyed
 * Rang 4: Enhanced Speed
 * Rang 5: Something in the Road
@@ -692,7 +742,7 @@ You'll do anything to win a fight: bite, scratch, kick, trick, and worse.
 * Rang 1: Stalker
 * Rang 2: Sneak
 * Rang 2: Quarry
-* Rang 3: Betrayal ou Surprise Attack
+* Rang 3: Betrayal ou Attaque surprise
 * Rang 4: Mind Games
 * Rang 4: Capable Warrior
 * Rang 5: Using the Environment
@@ -844,7 +894,7 @@ You are a stalking hunter who excels at bringing down your selected quarry.
 * Rang 2: Quarry
 * Rang 2: Sneak
 * Rang 3: Horde Fighting ou Sprint and Grab
-* Rang 4: Surprise Attack
+* Rang 4: Attaque surprise
 * Rang 5: Hunter's Drive
 * Rang 6: Greater Skill With Attacks ou Multiple Quarry
 
@@ -871,7 +921,7 @@ You can teleport from one place to another by briefly passing through a parallel
 
 Subtlety, guile, and stealth allow you to get in where others can't.
 
-* Rang 1: Stealth Skills
+* Rang 1: Compétences furtives
 * Rang 1: Sense Attitudes
 * Rang 2: Impersonate
 * Rang 2: Flight Not Fight
@@ -928,7 +978,7 @@ Although Is Licensed to Carry is designed with modern firearms in mind, it could
 * Rang 1: Gunner
 * Rang 1: Practiced With Guns
 * Rang 2: Careful Shot
-* Rang 3: Trained Gunner ou Damage Dealer
+* Rang 3: Trained Gunner ou Augmente les dommages
 * Rang 4: Snap Shot
 * Rang 5: Arc Spray
 * Rang 6: Special Shot ou Dégâts mortels
@@ -943,7 +993,7 @@ Although Is Licensed to Carry is designed with modern firearms in mind, it could
 
 * Rang 1: Enhanced Speed
 * Rang 1: Danger Sense
-* Rang 2: Surprise Attack
+* Rang 2: Attaque surprise
 * Rang 3: Outlaw Reputation ou Successive Attack
 * Rang 4: Fast Kill
 * Rang 5: Band of Desperados
@@ -1046,7 +1096,7 @@ When it's just you, your spacesuit, and the panorama of stars wheeling out forev
 
 * Rang 1: Vacuum Skilled
 * Rang 1: Microgravity Adept
-* Rang 2: Enhanced Speed Edge
+* Rang 2: Avantage de Vitesse Amélioré
 * Rang 2: Enhanced Physique
 * Rang 3: Space Fighting ou Fusion Armor
 * Rang 4: Silent As Space
@@ -1108,54 +1158,19 @@ You right wrongs, protect the innocent, and punish the guilty.
 
 -----
 
-### Moves Like a Cat
-
-Lithe, flexible, and graceful, you move quickly and smoothly, and never seem to be where danger is.
-
-* Rang 1: Greater Enhanced Speed
-* Rang 1: Balance
-* Rang 2: Movement Skills
-* Rang 2: Safe Fall
-* Rang 3: Hard to Hit
-* Rang 3: Enhanced Speed Edge ou Greater Enhanced Speed
-* Rang 4: Quick Strike
-* Rang 5: Slippery
-* Rang 6: Perfect Speed Burst ou Greater Enhanced Speed
-
-**Intrusions du MJ:** Even a cat can be clumsy. A jump isn't quite as easy as it looks. An escape move is so overzealous that it sends the character right into harm's way.
-
------
-
 ### Moves Like the Wind
 
 You can move so fast that you become a blur.
 
-* Rang 1: Greater Enhanced Speed
+* Rang 1: Vitesse améliorée supérieure
 * Rang 1: Fleet of Foot
-* Rang 2: Hard to Hit
-* Rang 3: Speed Burst ou Greater Enhanced Speed
+* Rang 2: Difficile à toucher
+* Rang 3: Speed Burst ou Vitesse améliorée supérieure
 * Rang 4: Blink of an Eye
 * Rang 5: Hard to See
-* Rang 6: Perfect Speed Burst ou Incredible Running Speed
+* Rang 6: Sursaut de Vitesse Parfait ou Incredible Running Speed
 
 **Intrusions du MJ:** Surfaces can be slick ou offer hidden obstacles. The movement of other creatures can be unpredictable, and the character might run into them.
-
------
-
-### Murders
-
-You're an assassin, whether by trade, by inclination, ou because it was that ou be killed yourself. (Someone who Murders might have additional equipment, including three doses of a level 2 blade poison that inflicts 5 points of damage.)
-
-* Rang 1: Surprise Attack
-* Rang 1: Assassin Skills
-* Rang 2: Quick Death
-* Rang 2: Infiltrator
-* Rang 3: Awareness ou Poison Crafter
-* Rang 4: Better Surprise Attack
-* Rang 5: Damage Dealer
-* Rang 6: Escape Plan ou Murderer
-
-**Intrusions du MJ:** Most people do not react well to a professional killer.
 
 -----
 
@@ -1172,7 +1187,7 @@ Powerful punches, kicks, elbows, knees, and full body movements are all the weap
 * Rang 5: Stun Attack
 * Rang 6: Master of Unarmed Fighting Style ou Dégâts mortels
 
-**Intrusions du MJ:** Striking certain foes hurts you as much as it hurts them. Opponents with weapons have greater reach. Complicated martial arts moves can knock you off balance.
+**Intrusions du MJ:** Striking certain foes hurts you as much as it hurts them. Opponents with weapons have greater reach. Complicated martial arts moves can knock you off Equilibre.
 
 -----
 
@@ -1201,7 +1216,7 @@ Under the guise of someone else, you seek to find answers the powerful do not wa
 * Rang 1: Investigate
 * Rang 2: Disguise
 * Rang 3: Agent Provocateur ou Run and Fight
-* Rang 4: Pull a Fast One
+* Rang 4: Rapide Tromperie
 * Rang 5: Using What's Available
 * Rang 6: Trust to Luck ou Deadly Strike
 
@@ -1253,7 +1268,7 @@ Lessons, reflexes, and strategies you've learned by playing too many games have 
 * Rang 1: Gamer
 * Rang 2: Zero Dark Eyes
 * Rang 2: Resist Tricks
-* Rang 3: Sniper's Aim ou Enhanced Speed Edge
+* Rang 3: Sniper's Aim ou Avantage de Vitesse Amélioré
 * Rang 4: Mind Games
 * Rang 4: Enhanced Intellect
 * Rang 5: Gamer's Fortitude
@@ -1269,7 +1284,7 @@ When you go berserk, everyone fears you.
 
 * Rang 1: Frenzy
 * Rang 2: Greater Enhanced Might
-* Rang 2: Movement Skills
+* Rang 2: Habiletés motrices
 * Rang 3: Power Strike ou Unarmored Fighter
 * Rang 4: Greater Frenzy
 * Rang 5: Attack and Attack Again
@@ -1302,7 +1317,7 @@ Your first instinct is to run from danger, and you've gotten very good at it.
 * Rang 1: Go Defensive
 * Rang 2: Enhanced Speed
 * Rang 2: Quick to Flee
-* Rang 3: Incredible Running Speed ou Greater Enhanced Speed
+* Rang 3: Incredible Running Speed ou Vitesse améliorée supérieure
 * Rang 4: Increasing Determination
 * Rang 4: Quick Wits
 * Rang 5: Go to Ground
@@ -1322,7 +1337,7 @@ You sailed with a crew of dread pirates, but you've decided to end your days as 
 * Rang 2: Fearsome Reputation
 * Rang 3: Skill With Attacks ou Skill With Defense
 * Rang 4: Sea Legs
-* Rang 4: Movement Skills
+* Rang 4: Habiletés motrices
 * Rang 5: Lost in the Chaos
 * Rang 6: Duel to the Death ou Successive Attack
 
@@ -1512,7 +1527,7 @@ Many superheroes can fly, and some even have wings. You can use your wings for m
 * Rang 1: Flight Exertion
 * Rang 2: Wing Weapons
 * Rang 3: Acrobatic Attack ou Flying Companion
-* Rang 4: Hard to Hit
+* Rang 4: Difficile à toucher
 * Rang 5: Up to Speed
 * Rang 6: Hard Target ou Defense Master
 
@@ -1581,7 +1596,7 @@ Your body is elastic and rubbery, able to stretch to great lengths and compress 
 * Rang 1: Contortionist
 * Rang 1: Far Step
 * Rang 2: Elastic Grip
-* Rang 2: Safe Fall
+* Rang 2: Chute en toute sécurité
 * Rang 3: Bypass Barrier ou Misdirect
 * Rang 4: Resilience
 * Rang 5: Free to Move
@@ -1819,21 +1834,6 @@ You take great satisfaction in a job well done, whether it's coding, building ho
 
 -----
 
-### Works the Back Alleys
-
-You make your way unseen, stealing from the wealthy to achieve your ends.
-
-* Rang 1: Stealth Skills
-* Rang 2: Underworld Contacts
-* Rang 3: Pull a Fast One ou Guild Training
-* Rang 4: Master Thief
-* Rang 5: Dirty Fighter
-* Rang 6: Alley Rat ou All-Out Con
-
-**Intrusions du MJ:** Thieves are thrown in jail. Powerful enemies are made.
-
------
-
 ### Works the System
 
 You can exploit flaws in artificial systems, including but not limited to computer code.
@@ -1899,7 +1899,7 @@ That said, sometimes you'll find it appropriate to assign a low-Rang ability at 
 
 ### Balancing Abilities
 
-The guidelines within each category go a long way toward ensuring that the focus you build will be balanced. Sometimes it might be appropriate to grant a low-power ability along with a regular ability at a given Rang, depending on the needs of the focus. A "low-power ability" is deliberately open for GM interpretation, but generally speaking, should be no more potent than a low-Rang ability (that is, an ability that is normally available at Rang 1 ou 2).
+The guidelines within each category go a long way toward ensuring that the focus you build will be Equilibred. Sometimes it might be appropriate to grant a low-power ability along with a regular ability at a given Rang, depending on the needs of the focus. A "low-power ability" is deliberately open for GM interpretation, but generally speaking, should be no more potent than a low-Rang ability (that is, an ability that is normally available at Rang 1 ou 2).
 
 For instance, someone who uses cold might be able to create small snow sculptures in addition to emitting a cold ray. Someone who uses electricity might be able to charge a depleted artifact ou have an asset for dealing with electrical systems. And so on.
 
@@ -2052,7 +2052,7 @@ The other Rang 6 option should give the character a brand-new ability within the
 
 ### Energy Manipulation
 
-Energy manipulation foci offer abilities that can call fire, electricity, force, magnetism, ou nonstandard forms of energy such as cold, stone, ou something stranger like "void" ou "shadow." These abilities usually give a character a way to achieve something of a balance between attacking enemies and granting themselves ou allies additional protection. The focus usually also offers abilities that provide other ways to use specific energy for things like transportation, creating large concentrations of energy that can affect multiple targets, ou creating a temporary object ou barrier of energy.
+Energy manipulation foci offer abilities that can call fire, electricity, force, magnetism, ou nonstandard forms of energy such as cold, stone, ou something stranger like "void" ou "shadow." These abilities usually give a character a way to achieve something of a Equilibre between attacking enemies and granting themselves ou allies additional protection. The focus usually also offers abilities that provide other ways to use specific energy for things like transportation, creating large concentrations of energy that can affect multiple targets, ou creating a temporary object ou barrier of energy.
 
 **Connection:** Choose four relevant connections from the Focus Connections list.
 

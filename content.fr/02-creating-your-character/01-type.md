@@ -871,7 +871,7 @@ Le personnage de Mary porte un petit couteau caché dans son sac en cas de probl
 
 Mary choisit Résilient comme descripteur et décide qu'elle peut probablement apprendre la vérité derrière certaines des choses étranges dont elle a entendu parler sans ressentir trop de traumatisme si c'est horrible. Résiliente augmente sa Réserve de Puissance à 10 et sa Réserve d'Intelligence à 16. Elle est entraînée aux actions de défense de Puissance et d'Intelligence et gagne un jet de récupération supplémentaire chaque jour. Au début, Mary est triste que son descripteur lui donne une incapacité dans les tâches de connaissances et d'énigmes, mais elle se rend ensuite compte que le défaut correspond bien à son personnage --- elle est meilleure pour amener les gens à lui dire ce qu'elle a besoin de savoir qu'à comprendre l'information elle-même.
 
-Pour sa concentration, Mary choisit Moves Like a Cat, lui accordant une Réserve de Vitesse finale de 18 et un entraînement à l'équilibre. En fin de compte, elle est gracieuse et rapide, charismatique et plus robuste qu'elle ne le pensait au départ grâce à son dynamisme. Elle est prête à enquêter sur ce qui est bizarre.
+Pour sa concentration, Mary choisit Bouge comme un Chat, lui accordant une Réserve de Vitesse finale de 18 et un entraînement à l'équilibre. En fin de compte, elle est gracieuse et rapide, charismatique et plus robuste qu'elle ne le pensait au départ grâce à son dynamisme. Elle est prête à enquêter sur ce qui est bizarre.
 
 Pour son arc de personnage, Mary choisit Fall From Grace. Elle décide qu'elle est obsédée par un livre étrange qui appartient à sa famille depuis des générations, et son personnage est attiré par ses langages et ses rituels étranges.
 
@@ -883,7 +883,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Alchemiste:** Dans le sens où un alchimiste est quelqu'un qui fabrique des objets magiques ou des choses similaires, Adepte et Explorateur sont des choix de type appropriés pour les alchimistes universitaires. Pour un alchimiste général qui fabrique des potions aux effets magiques, choisissez la Motivation Maîtrise les Sortilèges (au lieu de sorts, vous apprenez des potions). Pour celui qui se transforme en une créature puissante et dangereuse, choisissez Hurle à la Lune. Pour celui qui aime lancer des bombes, choisissez Se Revêt d'un Halo de Feu. Pour un guérisseur, choisissez Fait des Miracles.
 
-**Assassin/Espion:** Explorateur et Guerrier sont de bons choix de type pour un personnage assassin. Les Motivations appropriées sont Maîtrise l'Armement, Moves Like a Cat, Murders, et Works the Back Alleys.
+**Assassin/Espion:** Explorateur et Guerrier sont de bons choix de type pour un personnage assassin. Les Motivations appropriées sont Maîtrise l'Armement, Bouge comme un Chat, Assassine, et Rôde dans les Bas Quartiers.
 
 **Barbare:** Un personnage barbare est probablement un Guerrier ou (pour se concentrer un peu plus sur les compétences que sur le combat) un Explorateur. Les bons Motivations parmi lesquels choisir sont Lives in the Wilderness, Maîtrise l'Armement, Needs No Weapon, Never Says Die, Performs Feats of Strength, et Rages.
 
@@ -924,7 +924,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Ranger:** Les Rangers mélangent combat et compétences, et sont donc généralement des Explorateurs (peut-être avec une Préférence de combat) ou des Guerriers (peut-être avec une Préférence de compétences et de connaissances). Les Motivations appropriées sont Controls Beasts, Hunts, Lives in the Wilderness, Slays Monsters, Throws With Deadly Accuracy, et Wields Two Weapons at Once.
 
-**Roublard ou Voleur:** La plupart des personnages de type voleur sont des Explorateurs, mais un voleur axé sur l'interaction pourrait facilement être un Emissaire (peut-être avec une Préférence furtive). Les Motivations appropriées sont Explores Dark Places, Fights Dirty, Hunts, Infiltrates, Is Wanted by the Law, Moves Like a Cat, Sailed Beneath the Jolly Roger, and Works the Back Alleys.
+**Roublard ou Voleur:** La plupart des personnages de type voleur sont des Explorateurs, mais un voleur axé sur l'interaction pourrait facilement être un Emissaire (peut-être avec une Préférence furtive). Les Motivations appropriées sont Explores Dark Places, Fights Dirty, Hunts, Infiltrates, Is Wanted by the Law, Bouge comme un Chat, Sailed Beneath the Jolly Roger, and Rôde dans les Bas Quartiers.
 
 **Sorcier:** Les sorciers, dans notre cas, sont des mages qui ont des capacités magiques inhérentes (par opposition aux magiciens, qui étudient longuement et durement pour obtenir leurs sorts). La plupart des sorciers sont des Adeptes, mais certains sont des Explorateurs ou des Emissaires. La Motivation Maîtrise les Sortilèges donne à un sorcier typique un ensemble efficace de capacités, et la plupart des choix de Motivation fournissent un ensemble thématique de sorts. Pour les sorciers de diverses lignées magiques, consultez ce qui suit :
 
@@ -936,7 +936,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 * **Sorcier (fiend):** Se Revêt d'un Halo de Feu, Keeps a Magic Ally
 * **Sorcier (undead):** Consorts With the Dead, Shepherds Spirits
 
-**Escroc ou Arnaqueur:** Ces gens intelligents sont généralement des Emissaires, bien qu'ils puissent être des Adeptes s'ils sont très magiques (ou des Explorateurs s'ils ne sont pas magiques du tout). Les choix de Motivation incluent Fights Dirty, Works the Back Alleys ou Entertains.
+**Escroc ou Arnaqueur:** Ces gens intelligents sont généralement des Emissaires, bien qu'ils puissent être des Adeptes s'ils sont très magiques (ou des Explorateurs s'ils ne sont pas magiques du tout). Les choix de Motivation incluent Fights Dirty, Rôde dans les Bas Quartiers ou Entertains.
 
 **Guerrier-Mage:** Pour ces personnages inhabituels qui utilisent un mélange d'attaques avec des armes et de sorts, incarnez un Guerrier à Préférence magique ou un expert à Préférence de combat ou de magie. Les Motivations appropriées incluent Fights With Panache, Maîtrise l'Armement, and Wields an Enchanted Weapon\*.
 
