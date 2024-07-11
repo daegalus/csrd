@@ -891,26 +891,26 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Clerc or Prêtre:** Les prêtres académiques sont généralement des Adeptes ou des Emissaires, mais les prêtres martiaux sont souvent des Guerriers (peut-être avec une Préférence magique). Pour un clerc typique doté d’un ensemble polyvalent de capacités, choisissez la Motivation Canalise les Bénédictions Divines.
 
-* **Cleric (mort):** S'Associe avec les Morts, Guide les Esprits
-* **Cleric (connaissance):** Apprend Rapidement, Voit Au-Delà, Préfèrerait Lire
-* **Cleric (vie):** Défend les Faibles, Guide la Communauté, Fait des Miracles
-* **Cleric (light):** Blazes With Radiance, Canalise les Bénédictions Divines
-* **Cleric (storm):** Rides the Lightning, Thunders
-* **Cleric (trickery):** Prend une Forme Animale\* (voir aussi les options pour les voleurs)
-* **Cleric (war):** Maîtrise l'Armement (voir aussi les options pour les combattants)
+* **Clerc (mort):** S'Associe avec les Morts, Guide les Esprits
+* **Clerc (connaissance):** Apprend Rapidement, Voit Au-Delà, Préfèrerait Lire
+* **Clerc (vie):** Défend les Faibles, Guide la Communauté, Fait des Miracles
+* **Clerc (lumière):** Illumine avec Eclat, Canalise les Bénédictions Divines
+* **Clerc (tempête):** Façonne la Foudre, Thunders
+* **Clerc (tricherie):** Prend une Forme Animale\* (voir aussi les options pour les voleurs)
+* **Clerc (guerre):** Maîtrise l'Armement (voir aussi les options pour les combattants)
 
-**Druid:** En tant que sorte très spécifique de prêtre de la nature, un personnage druide est généralement un Adepte ou un Explorateur (dans les deux cas utilisant probablement la Préference magique). Un druide typique a probablement pour Motivation Canalise les Bénédictions Divines ou Vit dans la Nature Sauvage, mais pour des options plus spécifiques, voir les Motivations suivantes:
+**Druide:** En tant que sorte très spécifique de prêtre de la nature, un personnage druide est généralement un Adepte ou un Explorateur (dans les deux cas utilisant probablement la Préference magique). Un druide typique a probablement pour Motivation Canalise les Bénédictions Divines ou Vit dans la Nature Sauvage, mais pour des options plus spécifiques, voir les Motivations suivantes:
 
-* **Druid (animal companion):** Controls Beasts, Masters the Swarm
-* **Druid (elemental):** Demeure dans la pierre, Se Revêt d'un Halo de Feu, Moves Like the Wind, Rides the Lightning, Wears a Sheen of Ice
-* **Druid (nature affinity):** Speaks for the Land
-* **Druid (transformation):** Demeure dans la pierre, Prend une Forme Animale\*, Walks the Wild Woods\*
+* **Druide (animal companion):** Controls Beasts, Masters the Swarm
+* **Druide (elemental):** Demeure dans la pierre, Se Revêt d'un Halo de Feu, Moves Like the Wind, Façonne la Foudre, Wears a Sheen of Ice
+* **Druide (nature affinity):** Speaks for the Land
+* **Druide (transformation):** Demeure dans la pierre, Prend une Forme Animale\*, Walks the Wild Woods\*
 
 **Combattant:** Les combattants sont presque toujours du type Guerrier, mais certains sont des Explorateurs. Un combattant typique a probablement une motivation comme Maîtrise l'Armement or Wields an Enchanted Weapon\*. Pour des options supplémentaires basées sur le choix d'un rôle de combat spécifique, voir ce qui suit:
 
-* **Fighter (guardian):** Brandishes an Exotic Shield, Defends the Gate, Masters Defense, Ne S'Avoue Jamais Vaincu, Stands Like a Bastion.
-* **Fighter (melee):** Fights Dirty, Fights With Panache, Looks For Trouble, N'a pas Besoin d'Arme, Wields Two Weapons at Once
-* **Fighter (ranged):** Is Licensed to Carry, Throws With Deadly Accuracy
+* **Guerrier (guardian):** Brandishes an Exotic Shield, Defends the Gate, Masters Defense, Ne S'Avoue Jamais Vaincu, Stands Like a Bastion.
+* **Guerrier (melee):** Fights Dirty, Fights With Panache, Looks For Trouble, N'a pas Besoin d'Arme, Wields Two Weapons at Once
+* **Guerrier (ranged):** Is Licensed to Carry, Throws With Deadly Accuracy
 
 **Pistolero:** Un pistolero est probablemebt un Guerrier ou un Explorateur, et certains peuvent être des Emissaires avec une Préférence de Combat. ALes Motivations appropriées sont Is Licensed to Carry, Maîtrise l'Armement, Sailed Beneath the Jolly Roger, et Wields an Enchanted Weapon\*.
 
@@ -928,10 +928,10 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Sorcier:** Les sorciers, dans notre cas, sont des mages qui ont des capacités magiques inhérentes (par opposition aux magiciens, qui étudient longuement et durement pour obtenir leurs sorts). La plupart des sorciers sont des Adeptes, mais certains sont des Explorateurs ou des Emissaires. La Motivation Maîtrise les Sortilèges donne à un sorcier typique un ensemble efficace de capacités, et la plupart des choix de Motivation fournissent un ensemble thématique de sorts. Pour les sorciers de diverses lignées magiques, consultez ce qui suit :
 
-* **Sorcier (angel):** Blazes With Radiance, Canalise les Bénédictions Divines, Keeps a Magic Ally
+* **Sorcier (angel):** Illumine avec Eclat, Canalise les Bénédictions Divines, Keeps a Magic Ally
 * **Sorcier (destiny):** Descends From Nobility, Was Foretold
-* **Sorcier (dragon):** Se Revêt d'un Halo de Feu, Rides the Lightning, Wears a Sheen of Ice
-* **Sorcier (elemental):** Demeure dans la pierre, Se Revêt d'un Halo de Feu, Employs Magnetism, Moves Like the Wind, Rides the Lightning, Wears a Sheen of Ice
+* **Sorcier (dragon):** Se Revêt d'un Halo de Feu, Façonne la Foudre, Wears a Sheen of Ice
+* **Sorcier (elemental):** Demeure dans la pierre, Se Revêt d'un Halo de Feu, Employs Magnetism, Moves Like the Wind, Façonne la Foudre, Wears a Sheen of Ice
 * **Sorcier (fey):** Prend une Forme Animale\*
 * **Sorcier (fiend):** Se Revêt d'un Halo de Feu, Keeps a Magic Ally
 * **Sorcier (undead):** S'Associe avec les Morts, Guide les Esprits
@@ -950,7 +950,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 * **Magicien (conjurer or summoner):** Controls Beasts, Keeps a Magic Ally
 * **Magicien (diviner):** Apprend Rapidement, Voit Au-Delà, Separates Mind From Body, Solves Mysteries
 * **Magicien (enchanter):** Commands Mental Powers, Leads
-* **Magicien (evoker):** Se Revêt d'un Halo de Feu, Blazes With Radiance, Rides the Lightning, Thunders, Wears a Sheen of Ice
+* **Magicien (evoker):** Se Revêt d'un Halo de Feu, Illumine avec Eclat, Façonne la Foudre, Thunders, Wears a Sheen of Ice
 * **Magicien (illusionist):** Awakens Dreams, Crafts Illusions
 * **Magicien (necromancer):** S'Associe avec les Morts, Guide les Esprits
 * **Magicien (transmuter):** Controls Gravity, Focuses Mind Over Matter, Prend une Forme Animale\*

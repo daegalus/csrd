@@ -1738,9 +1738,9 @@ L'esprit élevé se souvient de tout ce qu'il a connu dans la vie et possède la
 
 **Appris des trucs**: Vous êtes entraîné dans deux domaines de connaissances de votre choix, ou spécialisé dans un domaine de connaissances de votre choix. Facilitateur.
 
-**Arme de charge** (2+ points d'Intelligence) : Dans le cadre d'une attaque avec votre arme enchantée, vous la chargez de pouvoir magique, lui conférant 2 points de dégâts énergétiques supplémentaires. Si vous effectuez plus d'une attaque pendant votre tour, vous choisissez de dépenser ou non le coût de cette capacité avant d'effectuer chaque attaque. Facilitateur.
-
 **Arme de défense**: lorsque vous utilisez votre arme enchantée, vous êtes entraîné aux tâches de défense rapide. Facilitateur.
+
+**Arme Electrique** (2+ points d'Intelligence) : Dans le cadre d'une attaque avec votre arme enchantée, vous la chargez de pouvoir magique, lui conférant 2 points de dégâts énergétiques supplémentaires. Si vous effectuez plus d'une attaque pendant votre tour, vous choisissez de dépenser ou non le coût de cette capacité avant d'effectuer chaque attaque. Facilitateur.
 
 **Arme enchantée** (1 point d'Intelligence) : Vous vous harmonisez avec une arme physique, comme une épée, un marteau ou un arc. Vous savez exactement où il se trouve s’il se trouve à une courte distance de vous, et vous connaissez sa direction générale et sa distance s’il est plus éloigné. Toutes vos autres capacités de concentration nécessitent que vous teniez ou maniiez cette arme. Vous ne pouvez être harmonisé qu’à une seule arme à la fois ; vous harmoniser avec une deuxième arme perd l’harmonisation avec la première. Action à initier, dix minutes à réaliser. Facilitateur.
 Si vous vous harmonisez à une arme différente, inventez une histoire expliquant pourquoi vous êtes capable de le faire et pourquoi vous avez choisi cette nouvelle arme.

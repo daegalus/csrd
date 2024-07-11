@@ -295,6 +295,22 @@ Vous vous donnez en spectacle principalement pour divertir les autres.
 
 -----
 
+### Façonne la Foudre
+
+Vous créez et déchargez de l’énergie électrique.
+
+* Rang 1: Choc Electrique
+* Rang 1: Charge
+* Rang 2: Comme l'éclair
+* Rang 3: Armure électrique ou Charge Drainante
+* Rang 4: Eclairs de puissance
+* Rang 5: Vol électrique
+* Rang 6: Aussi Rapide que l'Eclair ou Mur de foudre
+
+**Intrusions du MJ:** Les cibles autres que celles prévues sont choquées. Les objets explosent.
+
+-----
+
 ### Fait des Miracles
 
 Vous pouvez guérir les autres d’un simple toucher, modifier le temps pour aider les autres et êtes généralement aimé de tous.
@@ -307,6 +323,22 @@ Vous pouvez guérir les autres d’un simple toucher, modifier le temps pour aid
 * Rang 6: Main Guérisseuse Supérieure ou Restaurer la vie
 
 **Intrusions du MJ:** Les tentatives de guérison pourraient plutôt causer du tort. Une communauté ou un individu a si désespérément besoin d'un guérisseur qu'il en a un contre son gré.
+
+-----
+
+### Fait Résonner le Tonnerre
+
+Vous émettez un son destructeur et manipulez les paysages sonores.
+
+* Rang 1: Faisceau de Tonnerre
+* Rang 2: Barrière de conversion sonore
+* Rang 3: Annuler le son ou Echolocation
+* Rang 4: Cri fracassant
+* Rang 5: Grondement subsonique
+* Rang 5: Amplifier les sons
+* Rang 6: Tremblement de terre ou Vibration mortelle
+
+**Intrusions du MJ:** Les bruits forts attirent l’attention.
 
 -----
 
@@ -1357,22 +1389,6 @@ Lessons, reflexes, and strategies you've learned by playing too many games have 
 
 -----
 
-### Rides the Lightning
-
-You create and discharge electrical power.
-
-* Rang 1: Shock
-* Rang 1: Charge
-* Rang 2: Bolt Rider
-* Rang 3: Electric Armor ou Drain Charge
-* Rang 4: Bolts of Power
-* Rang 5: Electrical Flight
-* Rang 6: Flash Across the Miles ou Wall of Lightning
-
-**Intrusions du MJ:** Targets other than those intended are shocked. Objects explode.
-
------
-
 ### Runs Away
 
 Your first instinct is to run from danger, and you've gotten very good at it.
@@ -1576,7 +1592,7 @@ Your spiritual connection to nature and the environment grants you mystical abil
 * Rang 3: Apaiser la Bête Sauvage ou Communication
 * Rang 4: Moon Shape
 * Rang 5: Insect Eruption
-* Rang 6: Call the Storm ou Earthquake
+* Rang 6: Call the Storm ou Tremblement de terre
 
 **Intrusions du MJ:** An injured natural (but dangerous) creature is discovered. Someone's poaching wildlife for their skins, leaving the carcasses to rot. A tree falls in the forest, one of the last elder trees.
 
@@ -1655,29 +1671,13 @@ Everything that leaves your hand goes exactly where you'd like it to go and at t
 
 -----
 
-### Thunders
-
-You emit destructive sound and manipulate soundscapes.
-
-* Rang 1: Thunder Beam
-* Rang 2: Sound Conversion Barrier
-* Rang 3: Nullify Sound ou Echolocation
-* Rang 4: Shattering Shout
-* Rang 5: Subsonic Rumble
-* Rang 5: Amplify Sounds
-* Rang 6: Earthquake ou Lethal Vibration
-
-**Intrusions du MJ:** Loud noises attract attention.
-
------
-
 ### Touches The Sky
 
 You can summon storms ou break them apart.
 
 * Rang 1: Hover
 * Rang 2: Wind Armor
-* Rang 3: Bolts of Power ou Storm Seed
+* Rang 3: Eclairs de puissance ou Storm Seed
 * Rang 4: Windrider
 * Rang 5: Cold Burst
 * Rang 6: Control Weather ou Wind Chariot
@@ -1789,8 +1789,8 @@ You command the wintery power of cold and ice.
 You have a weapon with strange abilities, and your knowledge of its powers has allowed you to create a unique style of combat with it.
 
 * Rang 1: Enchanted Weapon
-* Rang 1: Innate Power
-* Rang 1: Charge Weapon
+* Rang 1: Innate PowerArme de 
+* Rang 1: Arme Electrique
 * Rang 2: Power Crash
 * Rang 3: Rapid Attack ou Throw Enchanted Weapon
 * Rang 4: Defending Weapon
@@ -2069,8 +2069,8 @@ The following are examples and not meant to provide a complete list of all possi
 * Absorbs Energy
 * Bears a Halo of Fire
 * Dances With Dark Matter
-* Rides the Lightning
-* Thunders
+* Façonne la Foudre
+* Fait Résonner le Tonnerre
 * Wears a Sheen of Ice
 
 **Ability Selection Guidelines**
