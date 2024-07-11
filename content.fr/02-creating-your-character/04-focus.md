@@ -471,6 +471,22 @@ En vous spécialisant dans le lancement de sortilèges et en tenant un livre de 
 
 -----
 
+### Marche dans Les Forêts Primaires
+
+Un adepte de la magie de la nature qui s'appuie sur le pouvoir et la force des arbres.
+
+* Rang 1: Vie en pleine nature
+* Rang 1: Récupération du patient
+* Rang 2: Corps en bois
+* Rang 3: Compagnon Arbre ou Sensibilisation à la nature sauvage
+* Rang 4: Voyage dans les arbres
+* Rang 5: Grand arbre
+* Rang 6: Forêt Terrifiante ou Floraison réparatrice
+
+**Intrusions du MJ:** Un personnage ou une créature en bois prend feu. Un coup sauvage d'une branche d'arbre frappe ou fait trébucher un allié. Certains arbres ont un mauvais cœur et détestent toutes les choses qui marchent.
+
+-----
+
 ### N'a pas Besoin d'Arme
 
 Des coups de poing, de pied, de coude, des genoux et des mouvements complets du corps sont toutes les armes dont vous avez besoin.
@@ -1733,22 +1749,6 @@ Spellcaster who learns a variety of spells instead of focusing on just one kind 
 * Rang 6: Maximize Cypher ou Instinct de Magie Sauvage
 
 **Intrusions du MJ:** A spell performs erratically ou rebounds upon the caster. Something interferes with preparing spells. Spellcasting attracts the attention of a powerful creature ou potential rival. The cypher spell being cast is replaced with that of a random cypher.
-
------
-
-### Walks The Wild Woods
-
-An adherent of nature magic who draws on the power and strength of trees.
-
-* Rang 1: Vie en pleine nature
-* Rang 1: Patient Recovery
-* Rang 2: Wooden Body
-* Rang 3: Tree Companion ou Sensibilisation à la nature sauvage
-* Rang 4: Tree Travel
-* Rang 5: Great Tree
-* Rang 6: Dreadwood ou Restorative Bloom
-
-**Intrusions du MJ:** A wooden character catches fire. A wild swing from a tree branch hits ou trips an ally. Some trees have evil hearts and hate all walking things.
 
 -----
 
