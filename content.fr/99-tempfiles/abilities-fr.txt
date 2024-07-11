@@ -130,7 +130,7 @@ Artifact Tinkerer/Bricoleur d'artefacts: si vous passez au moins une journée à
 ==
 As Foretold in Prophecy/Comme le prédit la prophétie : vous accomplissez quelque chose qui prouve que vous êtes véritablement l'élu. La prochaine tâche que vous tenterez est facilitée par trois étapes. Vous ne pouvez plus utiliser cette capacité avant d'avoir effectué une action de récupération d'une heure ou de dix heures. Action.
 ==
-As if One Creature/Comme s'il n'y a qu'une seule créature : lorsque vous et votre bête (grâce à votre capacité Compagnon Bête) êtes à distance immédiate l'un de l'autre, vous pouvez partager les dégâts infligés à l'un ou l'autre de vous. Par exemple, si l'un de vous est touché par une arme et lui inflige 4 points de dégâts, répartissez les dégâts entre vous deux comme bon vous semble. Seules l'Armure et les résistances de la cible initialement endommagée entrent en jeu. Ainsi, si vous avez 2 armures et êtes frappé par une explosion de force pour 4 points de dégâts, votre bête peut subir les 2 points de dégâts que vous subiriez, mais son armure n'entre pas en jeu, ni son immunité aux explosions de force, si n'importe lequel. Facilitateur.
+As If One Creature/Comme s'il n'y a qu'une seule créature : lorsque vous et votre bête (grâce à votre capacité Compagnon Bête) êtes à distance immédiate l'un de l'autre, vous pouvez partager les dégâts infligés à l'un ou l'autre de vous. Par exemple, si l'un de vous est touché par une arme et lui inflige 4 points de dégâts, répartissez les dégâts entre vous deux comme bon vous semble. Seules l'Armure et les résistances de la cible initialement endommagée entrent en jeu. Ainsi, si vous avez 2 armures et êtes frappé par une explosion de force pour 4 points de dégâts, votre bête peut subir les 2 points de dégâts que vous subiriez, mais son armure n'entre pas en jeu, ni son immunité aux explosions de force, si n'importe lequel. Facilitateur.
 Assassin Skills/Compétences d'assassin: Vous êtes entraîné aux tâches de furtivité et de déguisement. Facilitateur.
 ==
 Assassin Strike/Frappe d'Assassin (5 points d'Intelligence) : Si vous réussissez à attaquer une créature qui ignorait auparavant votre présence, vous infligez 9 points de dégâts supplémentaires. Facilitateur.
@@ -225,7 +225,7 @@ Blink of an Eye/En un Clin d'oeil (4 points de Vitesse) : Vous vous déplacez ju
 ==
 Block/Bloquer (3 points de Vitesse): Vous bloquez automatiquement la prochaine attaque de mêlée lancée contre vous dans la minute suivante. Action à initier.
 ==
-Block for another/Bloquer pour un autre: si vous utilisez une arme légère ou moyenne, vous pouvez bloquer les attaques lancées contre un allié proche de vous. Choisissez une créature à portée immédiate. Vous fournissez un atout aux tâches de défense de vitesse de cette créature. Vous ne pouvez pas utiliser Quick Block lorsque vous utilisez Block for Another. Facilitateur.
+Block for Another/Bloquer pour un autre: si vous utilisez une arme légère ou moyenne, vous pouvez bloquer les attaques lancées contre un allié proche de vous. Choisissez une créature à portée immédiate. Vous fournissez un atout aux tâches de défense de vitesse de cette créature. Vous ne pouvez pas utiliser Quick Block lorsque vous utilisez Block for Another. Facilitateur.
 ==
 Blood Fever/Fièvre sanguinolente: Lorsque vous n'avez aucun point dans une ou deux Pools, vous gagnez un atout aux jets d'attaque ou de défense (au choix). Facilitateur.
 ==
@@ -535,7 +535,7 @@ Diamagnetism/Diamagnétisme : vous magnétisez tout objet non métallique à co
 Dimentional Squeeze/Compression dimensionnelle (2+ points d'Intelligence) : Vous vous tassez dans une dimension de transition, vous permettant d'apparaître instantanément n'importe où vous le souhaitez à courte portée si vous avez un chemin clair et dégagé vers cet emplacement. Vous pouvez franchir une barrière intermédiaire si elle comporte un espace ouvert dans lequel vous pouvez facilement passer votre tête – environ 1 pied carré (30 cm sur 30 cm carrés). En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour passer à travers une ouverture plus petite dans une barrière ; chaque niveau d'effort utilisé de cette manière réduit la taille minimale de l'ouverture d'un quart. Vous atterrissez en toute sécurité lorsque vous utilisez cette capacité. Action.
 Dimension de transition : une dimension dans laquelle les distances sont plus courtes que celles des autres dimensions, donc le voyage à travers elle est plus rapide que le mouvement normal.
 ==
-Dirty Fighter/Sale Combattant (2 points de vitesse) : Vous distrayez, aveuglez, ennuyez, gênez ou interférez de toute autre manière avec un ennemi, entravant ses attaques et ses défenses pendant une minute. Action.
+Dirty Fighter/Combattant Hors-la-loi (2 points de vitesse) : Vous distrayez, aveuglez, ennuyez, gênez ou interférez de toute autre manière avec un ennemi, entravant ses attaques et ses défenses pendant une minute. Action.
 ==
 Disable Mechanisms/Mécanismes de désactivation (3 points de vitesse) : Avec un œil vif et des mouvements rapides, vous perturbez certaines fonctions d'un robot ou d'une machine et lui infligez l'une des pénalités suivantes :
 - Toutes ses tâches sont entravées pendant une minute.
@@ -1476,7 +1476,7 @@ Moving Like Water/Se déplacer comme l'eau (3 points de vitesse) : vous tournez
 ==
 Multiple Copying/Copie multiple : lorsque vous utilisez Copy Power, vous pouvez copier deux capacités de la créature en même temps. En plus des options normales d'utilisation de l'Effort avec Copy Power, vous pouvez appliquer des niveaux d'Effort pour copier des capacités supplémentaires, chaque niveau d'Effort copiant une capacité supplémentaire au-delà des deux initiaux (trois pour un niveau d'Effort, quatre pour deux niveaux et bientôt). Facilitateur.
 ==
-Multiple Quarry/Carrière Multiple (6 points d'Intelligence) : Cette capacité fonctionne comme la capacité Carrière sauf que vous pouvez sélectionner jusqu'à trois créatures comme proie. Vous devez être capable de voir les trois créatures lorsque vous lancez cette capacité. Si vous possédez Hunter's Drive, cela s'applique aux trois créatures. Action à initier.
+Multiple Quarry/Multiples Proies (6 points d'Intelligence) : Cette capacité fonctionne comme la capacité Carrière sauf que vous pouvez sélectionner jusqu'à trois créatures comme proie. Vous devez être capable de voir les trois créatures lorsque vous lancez cette capacité. Si vous possédez Hunter's Drive, cela s'applique aux trois créatures. Action à initier.
 ==
 Multiple Skills/Compétences multiples : Vous êtes entraîné à trois compétences de votre choix dans lesquelles vous n'êtes pas déjà entraîné. Vous pouvez sélectionner cette capacité plusieurs fois. Chaque fois que vous le sélectionnez, vous devez choisir trois compétences différentes. Facilitateur.
 ==

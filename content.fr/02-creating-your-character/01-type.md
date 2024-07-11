@@ -199,7 +199,7 @@ Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajoute
 * Arc Spray
 * Improved Success
 * Jump Attack
-* Mastery in Armor
+* Maîtrise en Armure
 * Mastery With Attacks
 * Mastery With Defense
 * Parry
@@ -632,7 +632,7 @@ Choisissez trois Capacités ci-dessous (ou d'un rang inférieur) à ajouter à v
 
 * Again and Again
 * Inspire Coordinated Actions
-* Mastery in Armor
+* Maîtrise en Armure
 * Mastery With Attacks
 * Negate Danger
 * Share Defense
@@ -909,7 +909,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 **Combattant:** Les combattants sont presque toujours du type Guerrier, mais certains sont des Explorateurs. Un combattant typique a probablement une motivation comme Maîtrise l'Armement or Porte une Arme Enchantée\*. Pour des options supplémentaires basées sur le choix d'un rôle de combat spécifique, voir ce qui suit:
 
 * **Guerrier (guardien):** Brandit un Bouclier Exotique, Garde le Passage, Maîtrise la Défense, Ne S'Avoue Jamais Vaincu, Résiste Comme une Citadelle.
-* **Guerrier (melee):** Fights Dirty, Fights With Panache, Looks For Trouble, N'a pas Besoin d'Arme, Wields Two Weapons at Once
+* **Guerrier (mélée):** Se Bat Sans Respecter de Règle, Fights With Panache, Looks For Trouble, N'a pas Besoin d'Arme, Wields Two Weapons at Once
 * **Guerrier (ranged):** Is Licensed to Carry, Throws With Deadly Accuracy
 
 **Pistolero:** Un pistolero est probablemebt un Guerrier ou un Explorateur, et certains peuvent être des Emissaires avec une Préférence de Combat. ALes Motivations appropriées sont Is Licensed to Carry, Maîtrise l'Armement, Sailed Beneath the Jolly Roger, et Porte une Arme Enchantée\*.
@@ -924,7 +924,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Ranger:** Les Rangers mélangent combat et compétences, et sont donc généralement des Explorateurs (peut-être avec une Préférence de combat) ou des Guerriers (peut-être avec une Préférence de compétences et de connaissances). Les Motivations appropriées sont Contrôle les Bêtes Sauvages, Hunts, Vit dans la Nature Sauvage, Slays Monsters, Throws With Deadly Accuracy, et Wields Two Weapons at Once.
 
-**Roublard ou Voleur:** La plupart des personnages de type voleur sont des Explorateurs, mais un voleur axé sur l'interaction pourrait facilement être un Emissaire (peut-être avec une Préférence furtive). Les Motivations appropriées sont Explores Dark Places, Fights Dirty, Hunts, Se Cache dans les Ombres, Is Wanted by the Law, Bouge comme un Chat, Sailed Beneath the Jolly Roger, and Rôde dans les Bas Quartiers.
+**Roublard ou Voleur:** La plupart des personnages de type voleur sont des Explorateurs, mais un voleur axé sur l'interaction pourrait facilement être un Emissaire (peut-être avec une Préférence furtive). Les Motivations appropriées sont Explores Dark Places, Se Bat Sans Respecter de Règle, Hunts, Se Cache dans les Ombres, Is Wanted by the Law, Bouge comme un Chat, Sailed Beneath the Jolly Roger, and Rôde dans les Bas Quartiers.
 
 **Sorcier:** Les sorciers, dans notre cas, sont des mages qui ont des capacités magiques inhérentes (par opposition aux magiciens, qui étudient longuement et durement pour obtenir leurs sorts). La plupart des sorciers sont des Adeptes, mais certains sont des Explorateurs ou des Emissaires. La Motivation Maîtrise les Sortilèges donne à un sorcier typique un ensemble efficace de capacités, et la plupart des choix de Motivation fournissent un ensemble thématique de sorts. Pour les sorciers de diverses lignées magiques, consultez ce qui suit :
 
@@ -936,7 +936,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 * **Sorcier (fiend):** Se Revêt d'un Halo de Feu, Keeps a Magic Ally
 * **Sorcier (undead):** S'Associe avec les Morts, Guide les Esprits
 
-**Escroc ou Arnaqueur:** Ces gens intelligents sont généralement des Emissaires, bien qu'ils puissent être des Adeptes s'ils sont très magiques (ou des Explorateurs s'ils ne sont pas magiques du tout). Les choix de Motivation incluent Fights Dirty, Rôde dans les Bas Quartiers ou Divertit.
+**Escroc ou Arnaqueur:** Ces gens intelligents sont généralement des Emissaires, bien qu'ils puissent être des Adeptes s'ils sont très magiques (ou des Explorateurs s'ils ne sont pas magiques du tout). Les choix de Motivation incluent Se Bat Sans Respecter de Règle, Rôde dans les Bas Quartiers ou Divertit.
 
 **Guerrier-Mage:** Pour ces personnages inhabituels qui utilisent un mélange d'attaques avec des armes et de sorts, incarnez un Guerrier à Préférence magique ou un expert à Préférence de combat ou de magie. Les Motivations appropriées incluent Fights With Panache, Maîtrise l'Armement, and Porte une Arme Enchantée\*.
 

@@ -683,7 +683,6 @@ Modifient une capacité existante ou des effets ou paramètres de caractéristiq
 * Augmente les dommages
 * Bouclier Explosif
 * Bouquet d'évasion
-* Carrière Multiple
 * Champ de renforcement (Fréquence de résonance)
 * Chanceux-Malchanceux
 * Charge en Horde
@@ -718,6 +717,7 @@ Modifient une capacité existante ou des effets ou paramètres de caractéristiq
 * Modification magistrale de l'armure
 <--->
 * Modifier la puissance de l'artefact
+* Multiples Proies
 * Multiplicité
 * Percée scientifique étrange
 * Physiquement doué
@@ -1225,11 +1225,12 @@ Donnent la possibilité de faire une attaque spéciale de mélée ou à distance
 * Briser les rangs
 * Briser leur esprit
 * Cauchemar
+* Combattant Hors-la-loi
 * Concussion
 * Coup final
 * Désactiver les mécanismes
-<--->
 * Destructeur
+<--->
 * Détonation biomorphique
 * Drain de puissance
 * Embrassez la nuit
@@ -1250,12 +1251,11 @@ Donnent la possibilité de faire une attaque spéciale de mélée ou à distance
 * Performance vindicative
 * Poids du monde
 * Poussière Retourne à la Poussière
-<--->
 * Provoquer l'ennemi
+<--->
 * Punir tous les coupables
 * Regard terrifiant
 * Retour à l'expéditeur
-* Sale Combattant
 * Saut de Côté
 * Siphon solaire
 * Stratagème mortel
@@ -1969,8 +1969,6 @@ Calme Stranger/Calmeer un Etranger (2+ points d'Intelligence) : Vous pouvez fair
 **Captiver ou Inspirer**: vous pouvez utiliser cette capacité de deux manières. Soit vos paroles retiennent l'attention de tous les PNJ qui les entendent aussi longtemps que vous parlez, soit vos paroles incitent tous les PNJ qui les entendent à fonctionner comme s'ils étaient d'un niveau supérieur pendant l'heure suivante. Dans les deux cas, vous choisissez quels PNJ sont affectés. Si quelqu’un dans la foule est attaqué pendant que vous essayez de lui parler, vous perdez l’attention de la foule. Action à initier.
 
 **Carnivore sous la Lune** (4+ points d'Intelligence) : Vous vous transformez en un animal carnivore, comme un loup, un ours ou une autre créature terrestre, pendant une heure maximum. Si vous essayez de changer pendant la journée lorsque vous n'êtes pas profondément sous terre (ou loin de la lumière du jour), vous devez appliquer un niveau d'effort. Dans votre nouvelle forme, vous ajoutez 8 points à votre Réserve de Puissance, gagnez +2 à votre Avantage de Puissance, ajoutez 2 points à votre Speed ​​Pool et gagnez +2 à votre Speed ​​Edge. Revenir à votre forme normale est une tâche de difficulté 2. Sous forme de bête, vous êtes sujet à des crises de rage (déclenchées par l'intrusion du MJ), au cours desquelles vous attaquez toutes les créatures vivantes à courte portée, et la seule façon de mettre fin à la rage est de revenir à votre forme normale. Quoi qu’il en soit, une fois revenu à votre forme normale, vous subissez une pénalité de -1 à tous les jets pendant une heure. Si vous n’avez pas tué et mangé au moins une créature substantielle alors que vous étiez sous forme de bête, la pénalité passe à -2 et affecte tous vos jets du jour suivant. Action pour changer ; action pour revenir en arrière.
-
-**Carrière Multiple** (6 points d'Intelligence) : Cette capacité fonctionne comme la capacité Carrière sauf que vous pouvez sélectionner jusqu'à trois créatures comme proie. Vous devez être capable de voir les trois créatures lorsque vous lancez cette capacité. Si vous possédez Hunter’s Drive, cela s’applique aux trois créatures. Action à initier.
 
 **Casseur**: Vous êtes entraîné aux tâches liées à l'endommagement d'objets dans le but de les casser, de les percer ou de les démolir. C'est une action de Puissance pour endommager un objet, et en cas de succès, l'objet descend d'un cran sur la piste de dégâts de l'objet. Si le jet de Puissance dépasse la difficulté de deux crans, l'objet se déplace de deux crans vers le bas de la piste de dégâts de l'objet. Si le jet de Puissance dépasse la difficulté de quatre niveaux, l'objet descend de trois niveaux sur la piste de dégâts de l'objet et est immédiatement détruit. Un matériau fragile réduit le niveau effectif de l'objet, tandis qu'un matériau dur comme le bois ou la pierre ajoute 1 au niveau effectif ou 2 pour les objets très durs comme ceux en métal. Facilitateur.
 
@@ -3160,6 +3158,8 @@ Dans les campagnes où les personnages peuvent voyager dans des dimensions paral
 
 **Mouvements de culbute** (5 points de vitesse) : Lorsque vous utilisez une action pour vous déplacer, les jets de défense de vitesse sont allégés jusqu'à la fin de votre prochain tour. Facilitateur.
 
+**Multiples Proies** (6 points d'Intelligence) : Cette capacité fonctionne comme la capacité Proie sauf que vous pouvez sélectionner jusqu'à trois créatures comme proie. Vous devez être capable de voir les trois créatures lorsque vous lancez cette capacité. Si vous possédez Hunter’s Drive, cela s’applique aux trois créatures. Action à initier.
+
 **Multiplicité** (6 points de puissance) : Cette capacité fonctionne comme Duplicata, sauf que vous pouvez créer deux doublons. Action à initier.
 
 **Mur avec des dents** : Vous infligez 2 points de dégâts supplémentaires avec toutes vos attaques lorsque vous utilisez votre capacité Mur vivant. Facilitateur.
@@ -3604,7 +3604,7 @@ L'augmentation du coût d'effort pour les utilisations répétées de Rétrécir
 
 **Saisissez l'instant** (4+ points de vitesse) : Si vous réussissez un jet de défense de vitesse pour résister à une attaque, vous gagnez une action. Vous pouvez utiliser l'action immédiatement même si vous avez déjà joué un tour dans le tour. Vous n’effectuez aucune action lors du tour suivant, sauf si vous appliquez un niveau d’Effort lorsque vous utilisez Saisissez l'instant. Facilitateur.
 
-**Sale Combattant** (2 points de vitesse) : Vous distrayez, aveuglez, ennuyez, gênez ou interférez de toute autre manière avec un ennemi, entravant ses attaques et ses défenses pendant une minute. Action.
+**Combattant Hors-la-loi** (2 points de vitesse) : Vous distrayez, aveuglez, ennuyez, gênez ou interférez de toute autre manière avec un ennemi, entravant ses attaques et ses défenses pendant une minute. Action.
 
 **Sans âge**: votre corps et votre esprit ne vieillissent pas. À moins que vous ne soyez tué par la violence (ou par une force extérieure telle qu'un poison ou une infection), vous ne mourrez jamais. Facilitateur.
 
@@ -4060,7 +4060,7 @@ Si vous souhaitez rendre plus difficile la récupération du pouvoir volé par q
 
 **Volonté de Légende** : Vous êtes immunisé contre les attaques qui pourraient captiver, hypnotiser, charmer ou autrement influencer votre esprit. Facilitateur.
 
-**Volonté du Chasseur** (5 points d'Intelligence) : Par la force de la volonté, lorsque vous le souhaitez, vous vous accordez de plus grandes prouesses dans la chasse pendant dix minutes. Pendant ce temps, vous gagnez un atout pour toutes les tâches impliquant votre proie, y compris les attaques. Votre proie est la créature que vous avez sélectionnée avec votre capacité Carrière. Facilitateur.
+**Volonté du Chasseur** (5 points d'Intelligence) : Par la force de la volonté, lorsque vous le souhaitez, vous vous accordez de plus grandes prouesses dans la chasse pendant dix minutes. Pendant ce temps, vous gagnez un atout pour toutes les tâches impliquant votre proie, y compris les attaques. Votre proie est la créature que vous avez sélectionnée avec votre capacité Proie. Facilitateur.
 
 **Vous avez une Intuition** (4 points d'intelligence) : Vous avez une intuition étrange lorsqu'il s'agit de trouver des choses. Pendant l'exploration, vous pouvez étendre vos sens jusqu'à 1,5 km dans n'importe quelle direction et poser au MJ une question générale très simple (généralement une question par oui ou par non) à propos de cette zone, telle que « Y a-t-il un orc ? campement à proximité ? ou "Y a-t-il de la matière noire dans cette carcasse rouillée?" Si la réponse que vous cherchez ne se trouve pas dans la zone, vous ne recevez aucune information. Action.
 

@@ -244,6 +244,39 @@ Fervent disciple d’un être divin, vous canalisez une partie du pouvoir de vot
 
 -----
 
+### Cherche les Ennuis
+
+Vous êtes un bagarreur et aimez les bons combats.
+
+* Rang 1: Poings de fureur
+* Rang 1: Premier Soins
+* Rang 2: Protecteur
+* Rang 2: Simple et Direct
+* Rang 3: Compétence avec les attaques ou Potentiel amélioré supérieur
+* Rang 4: Knock Out
+* Rang 5: Maîtrise des attaques
+* Rang 6: Puissance améliorée supérieure ou Dégâts mortels
+
+**Intrusions du MJ:** Les armes se brisent ou s'envolent même sous la poigne la plus forte. Les bagarreurs trébuchent et tombent. Même le champ de bataille peut jouer contre vous avec des objets qui tombent ou s'effondrent.
+
+-----
+
+### Combat avec Panache
+
+Vous êtes un casse-cou audacieux qui se bat avec un style flamboyant et amusant à regarder.
+
+* Rang 1: Attaque avec style
+* Rang 2: Blocage rapide
+* Rang 3: Attaque acrobatique ou Vantardise flamboyante
+* Rang 4: Bloquer pour un autre
+* Rang 4: Meurtre Rapide
+* Rang 5: Utilisation de l'environnement
+* Rang 6: Esprit Agile ou Retour à l'expéditeur
+
+**Intrusions du MJ:** La démonstration semble ridicule, maladroite ou peu spectaculaire.
+
+-----
+
 ### Combat les Robots
 
 Vous excellez dans la lutte contre les robots, les automates et les entités machines.
@@ -698,7 +731,7 @@ Vous avancez sans être vu, volant les riches pour parvenir à vos fins.
 * Rang 2: Contacts avec la pègre
 * Rang 3: Rapide Tromperie ou Entraînement de guilde
 * Rang 4: Maître voleur
-* Rang 5: Sale Combattant
+* Rang 5: Combattant Hors-la-loi
 * Rang 6: Rat des Allées ou Mettre le paquet
 
 **Intrusions du MJ:** Les voleurs sont jetés en prison. De puissants ennemis se font.
@@ -717,6 +750,40 @@ Les morts répondent à vos questions, et leurs cadavres réanimés vous servent
 * Rang 6: Véritable Nécromancie ou Mot de mort
 
 **Intrusions du MJ:** La réputation nécromantique du personnage les précède. Un cadavre cherche à se venger d'avoir été réanimé.
+
+-----
+
+### Se Bat avec Deux Armes à la fois
+
+Vous portez de l'acier dans chaque main, prêt à affronter n'importe quel ennemi.
+
+* Rang 1: Deux Armes Légères
+* Rang 2: Double frappe
+* Rang 2: Infiltrateur
+* Rang 3: Deux Armes Moyennes ou Coupe Précise
+* Rang 4: Double défense
+* Rang 5: Double Distraction
+* Rang 6: Attaque de désarmement ou Attaque Tournoyante
+
+**Intrusions du MJ:** Une lame se brise en deux ou une arme se détache de la poigne de son porteur.
+
+-----
+
+### Se Bat Sans Respecter de Règle
+
+Vous ferez n'importe quoi pour gagner un combat : mordre, gratter, donner un coup de pied, tromper et pire encore.
+
+* Rang 1: Pisteur
+* Rang 1: Traqueur
+* Rang 2: Furtif
+* Rang 2: Proie
+* Rang 3: Trahison ou Attaque surprise
+* Rang 4: Jeux d'esprit
+* Rang 4: Guerrier Capable
+* Rang 5: Utilisation de l'environnement
+* Rang 6: Torsion du couteau ou Meurtrier
+
+**Intrusions du MJ:** Les gens voient mal ceux qui trichent ou se battent sans honneur. Parfois, un sale tour se retourne contre vous.
 
 -----
 
@@ -1088,7 +1155,7 @@ A bit translucent, you're slightly out of phase and can move through solid objec
 You're the archetypal treasure hunter, scavenger, and finder of lost things.
 
 * Rang 1: Superb Explorer
-* Rang 2: Superb Infiltrator
+* Rang 2: Infiltrateur Confirmé
 * Rang 2: Eyes Adjusted
 * Rang 3: Nightstrike ou Slippery Customer
 * Rang 4: Hard-Won Resilience
@@ -1096,40 +1163,6 @@ You're the archetypal treasure hunter, scavenger, and finder of lost things.
 * Rang 6: Blinding Attack ou Embraced by Darkness
 
 **Intrusions du MJ:** Possessions fall out of pockets ou bags in the dark; maps get lost; information gained fails to include an important detail.
-
------
-
-### Fights Dirty
-
-You'll do anything to win a fight: bite, scratch, kick, trick, and worse.
-
-* Rang 1: Tracker
-* Rang 1: Stalker
-* Rang 2: Sneak
-* Rang 2: Quarry
-* Rang 3: Betrayal ou Attaque surprise
-* Rang 4: Mind Games
-* Rang 4: Capable Warrior
-* Rang 5: Using the Environment
-* Rang 6: Twisting the Knife ou Murderer
-
-**Intrusions du MJ:** People look poorly upon those who cheat ou fight without honor. Sometimes a dirty trick backfires.
-
------
-
-### Fights With Panache
-
-You're a swashbuckling daredevil who fights with flamboyant style that's entertaining to watch.
-
-* Rang 1: Attack Flourish
-* Rang 2: Quick Block
-* Rang 3: Acrobatic Attack ou Flamboyant Boast
-* Rang 4: Block for Another
-* Rang 4: Fast Kill
-* Rang 5: Using the Environment
-* Rang 6: Agile Wit ou Return to Sender
-
-**Intrusions du MJ:** The display comes off looking silly, clumsy, ou unattractive.
 
 -----
 
@@ -1235,14 +1268,14 @@ You can change your appearance to look like anyone else.
 
 You are a stalking hunter who excels at bringing down your selected quarry.
 
-* Rang 1: Attack Flourish
-* Rang 1: Tracker
-* Rang 2: Quarry
+* Rang 1: Attaque avec style
+* Rang 1: Pisteur
+* Rang 2: Proie
 * Rang 2: Sneak
 * Rang 3: Horde Fighting ou Sprint and Grab
 * Rang 4: Attaque surprise
 * Rang 5: Hunter's Drive
-* Rang 6: Compétence en Attaque Supérieure ou Multiple Quarry
+* Rang 6: Compétence en Attaque Supérieure ou Multiples Proies
 
 **Intrusions du MJ:** The quarry notices the character. The quarry isn't as vulnerable as it seemed.
 
@@ -1324,7 +1357,7 @@ Although Is Licensed to Carry is designed with modern firearms in mind, it could
 * Rang 1: Danger Sense
 * Rang 2: Attaque surprise
 * Rang 3: Outlaw Reputation ou Successive Attack
-* Rang 4: Fast Kill
+* Rang 4: Meurtre Rapide
 * Rang 5: Band of Desperados
 * Rang 6: Pas encore mort ou Dégâts mortels
 
@@ -1334,7 +1367,7 @@ Although Is Licensed to Carry is designed with modern firearms in mind, it could
 
 ### Keeps a Magic Ally
 
-An allied magic creature bound to an object (such as a minor djinn in a lamp, ou a ghost in a pipe) is your friend, protector, and weapon.
+An allied magic creature bound to an object (such as a minor djinn in a lamp, ou a ghost in a pipe) is your friend, Protecteur, and weapon.
 
 * Rang 1: Bound Magic Creature
 * Rang 2: Object Bond
@@ -1362,23 +1395,6 @@ Your natural leadership capability allows you to command others, including a loy
 * Rang 6: Band of Followers ou Mind of a Leader
 
 **Intrusions du MJ:** Followers fail, betray, lie, become corrupted, get kidnapped, ou die.
-
------
-
-### Looks for Trouble
-
-You're a scrapper and love a good fight.
-
-* Rang 1: Fists of Fury
-* Rang 1: Wound Tender
-* Rang 2: Protector
-* Rang 2: Straightforward
-* Rang 3: Compétence avec les attaques ou Potentiel amélioré supérieur
-* Rang 4: Knock Out
-* Rang 5: Mastery With Attacks
-* Rang 6: Puissance améliorée supérieure ou Dégâts mortels
-
-**Intrusions du MJ:** Weapons break ou fly from even the strongest grip. Brawlers trip and fall. Even the battlefield can work against you with things falling ou collapsing.
 
 -----
 
@@ -1466,7 +1482,7 @@ Lessons, reflexes, and strategies you've learned by playing too many games have 
 * Rang 2: Zero Dark Eyes
 * Rang 2: Resist Tricks
 * Rang 3: Sniper's Aim ou Avantage de Vitesse Amélioré
-* Rang 4: Mind Games
+* Rang 4: Jeux d'esprit
 * Rang 4: Intelligence améliorée
 * Rang 5: Gamer's Fortitude
 * Rang 6: Mind Surge ou Gaming God
@@ -1630,7 +1646,7 @@ Although wielding a sword in a setting where people usually do not carry such we
 * Rang 3: Improved Monster Bane ou Misdirect
 * Rang 4: Fight On
 * Rang 5: Compétence en Attaque Supérieure (swords)
-* Rang 6: Murderer ou Heroic Monster Bane
+* Rang 6: Meurtrier ou Heroic Monster Bane
 
 **Intrusions du MJ:** The monster laid a trap ou set an ambush. The monster has previously undisclosed abilities. The monster's mother vows revenge.
 
@@ -1643,7 +1659,7 @@ Many superheroes can fly, and some even have wings. You can use your wings for m
 * Rang 1: Hover
 * Rang 1: Flight Exertion
 * Rang 2: Wing Weapons
-* Rang 3: Acrobatic Attack ou Flying Companion
+* Rang 3: Attaque acrobatique ou Flying Companion
 * Rang 4: Difficile à toucher
 * Rang 5: Up to Speed
 * Rang 6: Hard Target ou Maître de la défense
@@ -1814,22 +1830,6 @@ You bend light and manipulate beams of force for offense and defense.
 * Rang 6: Concussion ou Générer un champ de force
 
 **Intrusions du MJ:** Invisibility partially fades, revealing the character’s presence. A force field is pierced by an unusual ou unexpected attack.
-
------
-
-### Wields Two Weapons at Once
-
-You bear steel with both hands, ready to take on any foe.
-
-* Rang 1: Dual Light Wield
-* Rang 2: Double Strike
-* Rang 2: Infiltrator
-* Rang 3: Dual Medium Wield ou Precise Cut
-* Rang 4: Dual Defense
-* Rang 5: Dual Distraction
-* Rang 6: Disarming Attack ou Attaque Tournoyante
-
-**Intrusions du MJ:** A blade snaps in two ou a weapon flies loose from its bearer's grip.
 
 -----
 
@@ -2351,7 +2351,7 @@ To achieve this end, a striker combat focus might offer mastery of a particular 
 
 **Connection:** Choose four relevant connections from the Focus Connections list.
 
-**Additional Equipment:** The weapon, tool, ou other special item ou substance (if any) required to engage in the particular style of combat. For instance, a dose of level 5 poison for Fights Dirty ou Murders, a trophy from a previously defeated foe for Battles Robots, ou stylish clothes for Fights With Panache.
+**Additional Equipment:** The weapon, tool, ou other special item ou substance (if any) required to engage in the particular style of combat. For instance, a dose of level 5 poison for Se Bat Sans Respecter de Règle ou Murders, a trophy from a previously defeated foe for Battles Robots, ou stylish clothes for Combat avec Panache.
 
 **Minor Effect Suggestions:** The target is so dazzled by your expertise that it is dazed for one round, hindering all of its tasks.
 
@@ -2360,11 +2360,11 @@ To achieve this end, a striker combat focus might offer mastery of a particular 
 The following are examples and not meant to provide a complete list of all possible foci in this category.
 
 * Battles Robots
-* Fights Dirty
-* Fights With Panache
+* Se Bat Sans Respecter de Règle
+* Combat avec Panache
 * Hunts
 * Is Licensed to Carry
-* Looks for Trouble
+* Cherche les Ennuis
 * Masters Weaponry
 * Murders
 * Needs No Weapon
@@ -2372,7 +2372,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Rages
 * Slays Monsters
 * Throws With Deadly Accuracy
-* Wields Two Weapons at Once
+* Se Bat avec Deux Armes à la fois
 
 **Ability Selection Guidelines**
 
