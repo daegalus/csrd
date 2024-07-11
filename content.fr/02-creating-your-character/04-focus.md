@@ -417,6 +417,22 @@ Votre capacité naturelle de leadership vous permet de commander aux autres, y c
 
 -----
 
+### Dispose d'un Allié Magique
+
+Une créature magique alliée liée à un objet (comme un djinn mineur dans une lampe, ou un fantôme dans une pipe) est votre ami, votre Protecteur et votre arme.
+
+* Rang 1: Créature magique liée
+* Rang 2: Lien d'objet
+* Rang 2: Placard caché
+* Rang 3: Souhait mineur ou Monture
+* Rang 4: Lien d'Objet Amélioré
+* Rang 5: Souhait modéré
+* Rang 6: Maîtrise des liens d'objet ou Faites confiance à la chance
+
+**Intrusions du MJ:** La créature disparaît de manière inattendue dans son objet lié. L'objet lié se fissure. La créature n'est pas d'accord et ne fait pas ce qui lui est demandé. La créature dit qu'elle s'en va à moins qu'une tâche ne soit accomplie pour elle.
+
+-----
+
 ### Divertit
 
 Vous vous donnez en spectacle principalement pour divertir les autres.
@@ -1469,22 +1485,6 @@ You're a celebrity and most people adore you.
 * Rang 6: Pas encore mort ou Dégâts mortels
 
 **Intrusions du MJ:** Most people do not take well to discovering a wanted outlaw in their midst.
-
------
-
-### Keeps a Magic Ally
-
-An allied magic creature bound to an object (such as a minor djinn in a lamp, ou a ghost in a pipe) is your friend, Protecteur, and weapon.
-
-* Rang 1: Bound Magic Creature
-* Rang 2: Object Bond
-* Rang 2: Hidden Closet
-* Rang 3: Minor Wish ou Monture
-* Rang 4: Improved Object Bond
-* Rang 5: Moderate Wish
-* Rang 6: Object Bond Mastery ou Faites confiance à la chance
-
-**Intrusions du MJ:** The creature unexpectedly disappears into its bound object. The bound object cracks. The creature disagrees and doesn't do as asked. The creature says it's leaving unless a task is performed for it.
 
 -----
 
