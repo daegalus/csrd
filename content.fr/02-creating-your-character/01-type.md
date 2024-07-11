@@ -902,7 +902,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 **Druide:** En tant que sorte très spécifique de prêtre de la nature, un personnage druide est généralement un Adepte ou un Explorateur (dans les deux cas utilisant probablement la Préference magique). Un druide typique a probablement pour Motivation Canalise les Bénédictions Divines ou Vit dans la Nature Sauvage, mais pour des options plus spécifiques, voir les Motivations suivantes:
 
 * **Druide (animal companion):** Contrôle les Bêtes Sauvages, Maîtrise l'Essaim
-* **Druide (elemental):** Demeure dans la pierre, Se Revêt d'un Halo de Feu, Moves Like the Wind, Façonne la Foudre, Wears a Sheen of Ice
+* **Druide (elemental):** Demeure dans la pierre, Se Revêt d'un Halo de Feu, Va Comme le Vent, Façonne la Foudre, Porte un Eclat de Glace
 * **Druide (nature affinity):** Speaks for the Land
 * **Druide (transformation):** Demeure dans la pierre, Prend une Forme Animale\*, Walks the Wild Woods\*
 
@@ -930,8 +930,8 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 * **Sorcier (angel):** Illumine avec Eclat, Canalise les Bénédictions Divines, Keeps a Magic Ally
 * **Sorcier (destiny):** Descends From Nobility, Was Foretold
-* **Sorcier (dragon):** Se Revêt d'un Halo de Feu, Façonne la Foudre, Wears a Sheen of Ice
-* **Sorcier (elemental):** Demeure dans la pierre, Se Revêt d'un Halo de Feu, Employs Magnetism, Moves Like the Wind, Façonne la Foudre, Wears a Sheen of Ice
+* **Sorcier (dragon):** Se Revêt d'un Halo de Feu, Façonne la Foudre, Porte un Eclat de Glace
+* **Sorcier (elemental):** Demeure dans la pierre, Se Revêt d'un Halo de Feu, Employs Magnetism, Va Comme le Vent, Façonne la Foudre, Porte un Eclat de Glace
 * **Sorcier (fey):** Prend une Forme Animale\*
 * **Sorcier (fiend):** Se Revêt d'un Halo de Feu, Keeps a Magic Ally
 * **Sorcier (undead):** S'Associe avec les Morts, Guide les Esprits
@@ -946,11 +946,11 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Magicien:** Pour les besoins de cette liste, les magiciens étudient longuement les connaissances magiques pour apprendre les méthodes de lancement de sorts (contrairement aux sorciers, aux démonistes, etc.). Les magiciens sont généralement des Adeptes, mais un magicien orienté vers la personne pourrait être un Emissaire (peut-être avec une Préférence magique). Pour un Magicien généraliste qui possède une variété de sorts, choisissez le focus Maîtrise les Sortilèges. Pour des types plus spécifiques de Magiciens, consultez ce qui suit :
 
-* **Magicien (abjurer):** Absorbs Energy, Focuses Mind Over Matter, Wears a Sheen of Ice
+* **Magicien (abjurer):** Absorbs Energy, Focuses Mind Over Matter, Porte un Eclat de Glace
 * **Magicien (conjurer or summoner):** Contrôle les Bêtes Sauvages, Keeps a Magic Ally
 * **Magicien (diviner):** Apprend Rapidement, Voit Au-Delà, Separates Mind From Body, Solves Mysteries
 * **Magicien (enchanter):** Commands Mental Powers, Leads
-* **Magicien (evoker):** Se Revêt d'un Halo de Feu, Illumine avec Eclat, Façonne la Foudre, Thunders, Wears a Sheen of Ice
+* **Magicien (evoker):** Se Revêt d'un Halo de Feu, Illumine avec Eclat, Façonne la Foudre, Thunders, Porte un Eclat de Glace
 * **Magicien (illusionist):** Awakens Dreams, Crafts Illusions
 * **Magicien (necromancer):** S'Associe avec les Morts, Guide les Esprits
 * **Magicien (transmuter):** Controls Gravity, Focuses Mind Over Matter, Prend une Forme Animale\*

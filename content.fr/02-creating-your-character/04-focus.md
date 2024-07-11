@@ -504,6 +504,21 @@ Vous n’abandonnez jamais, vous pouvez ignorer les coups et revenir toujours po
 
 -----
 
+### Porte un Eclat de Glace
+
+Vous maîtrisez la puissance hivernale du froid et de la glace.
+
+* Rang 1: Armure de Glace
+* Rang 2: Toucher  Glacial
+* Rang 3: Toucher de Froid Paralysant ou Création de Glace
+* Rang 4: Armure de glace résiliente
+* Rang 5: Explosion de froid
+* Rang 6: Tempête de Glace ou Gantelets d'hiver
+
+**Intrusions du MJ:** La glace rend les surfaces glissantes. Un froid extrême provoque la fissuration et la rupture des objets.
+
+-----
+
 ### Préfèrerait Lire
 
 Les livres sont vos amis. Qu'y a-t-il de plus important que la connaissance ? Rien.
@@ -630,6 +645,22 @@ Vous pouvez envelopper votre corps de flammes, ce qui vous protège et nuit à v
 * Rang 6: Serviteur du Feu ou Piste Infernale
 
 **Intrusions du MJ:** Le feu brûle des matières inflammables. Le feu se propage de manière incontrôlable. Les créatures primitives craignent le feu et attaquent souvent ce qu'elles craignent.
+
+-----
+
+### Va Comme le Vent
+
+Vous pouvez vous déplacer si vite que vous devenez flou.
+
+* Rang 1: Vitesse améliorée supérieure
+* Rang 1: Pied Léger
+* Rang 2: Difficile à toucher
+* Rang 3: Sursaut de Vitesse ou Vitesse améliorée supérieure
+* Rang 4: En un Clin d'oeil
+* Rang 5: Difficile à voir
+* Rang 6: Sursaut de Vitesse Parfait ou Vitesse de course incroyable
+
+**Intrusions du MJ:** Les surfaces peuvent être glissantes ou présenter des obstacles cachés. Le mouvement des autres créatures peut être imprévisible et le personnage peut les rencontrer.
 
 -----
 
@@ -1021,7 +1052,7 @@ You can fly, and you're superstrong, hard to hurt, and fast too. Is there anythi
 * Rang 1: Hover
 * Rang 2: Potentiel amélioré supérieur
 * Rang 3: Réserves cachées ou Voir à travers la matière
-* Rang 4: Blink of an Eye
+* Rang 4: En un Clin d'oeil
 * Rang 4: Up to Speed
 * Rang 5: Pas encore mort
 * Rang 6: Lumière brûlante ou Ignorer l'Affliction
@@ -1318,22 +1349,6 @@ You right wrongs, protect the innocent, and punish the guilty.
 
 -----
 
-### Moves Like the Wind
-
-You can move so fast that you become a blur.
-
-* Rang 1: Vitesse améliorée supérieure
-* Rang 1: Fleet of Foot
-* Rang 2: Difficile à toucher
-* Rang 3: Speed Burst ou Vitesse améliorée supérieure
-* Rang 4: Blink of an Eye
-* Rang 5: Hard to See
-* Rang 6: Sursaut de Vitesse Parfait ou Incredible Running Speed
-
-**Intrusions du MJ:** Surfaces can be slick ou offer hidden obstacles. The movement of other creatures can be unpredictable, and the character might run into them.
-
------
-
 ### Opère sous Couverture
 
 Under the guise of someone else, you seek to find answers the powerful do not want divulged.
@@ -1396,7 +1411,7 @@ Your first instinct is to run from danger, and you've gotten very good at it.
 * Rang 1: Go Defensive
 * Rang 2: Enhanced Speed
 * Rang 2: Quick to Flee
-* Rang 3: Incredible Running Speed ou Vitesse améliorée supérieure
+* Rang 3: Vitesse de course incroyable ou Vitesse améliorée supérieure
 * Rang 4: Détermination croissante
 * Rang 4: Quick Wits
 * Rang 5: Go to Ground
@@ -1679,7 +1694,7 @@ You can summon storms ou break them apart.
 * Rang 2: Wind Armor
 * Rang 3: Eclairs de puissance ou Storm Seed
 * Rang 4: Windrider
-* Rang 5: Cold Burst
+* Rang 5: Explosion de froid
 * Rang 6: Control Weather ou Wind Chariot
 
 **Intrusions du MJ:** An ally is accidentally struck by a fork of lightning. An unexpected grounding effect inflicts damage. The weather is seeded by a much smaller effect, and a storm grows out of control.
@@ -1751,21 +1766,6 @@ You are the "chosen one," and prophecy, prediction, prognostication, ou some oth
 * Rang 6: As Foretold in Prophecy ou Potentiel amélioré supérieur
 
 **Intrusions du MJ:** An enemy described in prophecy appears. Unbelievers threaten to ruin the moment. The character gains a reputation in outside circles as a fraud.
-
------
-
-### Wears a Sheen of Ice
-
-You command the wintery power of cold and ice.
-
-* Rang 1: Ice Armor
-* Rang 2: Frost Touch
-* Rang 3: Freezing Touch ou Ice Creation
-* Rang 4: Resilient Ice Armor
-* Rang 5: Cold Burst
-* Rang 6: Ice Storm ou Winter Gauntlets
-
-**Intrusions du MJ:** Ice makes surfaces slippery. Extreme cold causes objects to crack and break.
 
 -----
 
@@ -1926,7 +1926,7 @@ Here's another example: the focus Controls Gravity could conceivably be an envir
 
 The same malleability of concept holds true in other realms. For instance, if someone is able to call up and mold raw earth, they might use it to transform themselves into a being of stone (tank combat), to batter foes (striker combat), ou to create walls, barricades, and shields to protect their allies (support).
 
-If you're looking for an ability and can't seem to find the right one in the vast catalog in the Abilities chapter, consider reskinning one to make it seem new (and to accomplish what you need). Reskinning means that you use the underlying mechanics of an ability as written but change the flavor in some fashion. For instance, maybe you're creating a new earth-moving focus but can't find enough earth-related abilities to meet your need. It's easy enough to change up other abilities so they use earth instead of fire, cold, ou magnetism. For instance, Wings of Fire might become Wings of Earth, Ice Armor could become Earth Armor, and so on. These alterations change nothing except the type of damage and any knock-on effects (for instance, Wings of Earth might generate clouds of dust in their wake).
+If you're looking for an ability and can't seem to find the right one in the vast catalog in the Abilities chapter, consider reskinning one to make it seem new (and to accomplish what you need). Reskinning means that you use the underlying mechanics of an ability as written but change the flavor in some fashion. For instance, maybe you're creating a new earth-moving focus but can't find enough earth-related abilities to meet your need. It's easy enough to change up other abilities so they use earth instead of fire, cold, ou magnetism. For instance, Wings of Fire might become Wings of Earth, Armure de Glace could become Earth Armor, and so on. These alterations change nothing except the type of damage and any knock-on effects (for instance, Wings of Earth might generate clouds of dust in their wake).
 
 ### Abilities That Reference Other Abilities
 
@@ -2071,7 +2071,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Dances With Dark Matter
 * Façonne la Foudre
 * Fait Résonner le Tonnerre
-* Wears a Sheen of Ice
+* Porte un Eclat de Glace
 
 **Ability Selection Guidelines**
 
@@ -2311,7 +2311,7 @@ The following are examples and not meant to provide a complete list of all possi
 
 * Exists Partially Out of Phase
 * Moves Like a Cat
-* Moves Like the Wind
+* Va Comme le Vent
 * Runs Away
 * Shreds the Walls of the World
 * Travels Through Time
