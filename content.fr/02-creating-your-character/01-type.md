@@ -425,7 +425,7 @@ Elle peut porter trois cyphers. Le MJ lui donne une potion qui agit comme un té
 
 Pour son descripteur, Jen choisit Graceful, ce qui ajoute 2 points à sa Réserve de Vitesse, la portant à 13. Ce descripteur signifie qu'elle est formée à l'équilibre et à tout ce qui nécessite des mouvements prudents, des arts du spectacle physiques et des tâches de Défense de Vitesse. Peut-être qu'elle est danseuse. En fait, elle commence à développer une histoire qui implique des mouvements gracieux et souples qu'elle intègre dans ses sorts.
 
-Pour sa concentration, elle choisit Leads. Cela lui donne une formation aux interactions sociales, ce qui, encore une fois, l'aide à se démarquer : elle est douée dans toutes sortes de situations. De plus, elle possède la capacité Good Advice, ce qui lui permet d'être un point focal de son groupe.
+Pour sa concentration, elle choisit Dirige. Cela lui donne une formation aux interactions sociales, ce qui, encore une fois, l'aide à se démarquer : elle est douée dans toutes sortes de situations. De plus, elle possède la capacité Good Advice, ce qui lui permet d'être un point focal de son groupe.
 
 Ses sorts et ses capacités de concentration coûtent des points d'Intelligence à activer, elle est donc heureuse d'avoir beaucoup de points dans sa réserve d'Intelligence. De plus, son Intellect Edge contribuera à réduire ces coûts. Si elle utilise son explosion de force Assaut sans appliquer d'Effort, cela coûte 0 point d'Intelligence et inflige 4 points de dégâts. Son avantage intellectuel lui permettra d'économiser des points et de les consacrer à l'application de l'effort à d'autres fins, peut-être pour augmenter la précision d'Onslaught.
 
@@ -916,7 +916,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Inquisiteur:** Les inquisiteurs sont généralement des Explorateurs, des Emissaires ou des Guerriers, selon qu'ils ont tendance à posséder de nombreuses compétences, à être doués pour interagir avec les gens ou à combattre. Les Motivations appropriées sont Se Cache dans les Ombres, Rend la Justice, et Opère sous Couverture.
 
-**Marchant:** Un Explorateur spécialisé dans les interactions sociales, comme Divertit ou Leads, ferait un bon personnage marchand, mais le choix le plus évident serait un Emissaire.
+**Marchand:** Un Explorateur spécialisé dans les interactions sociales, comme Divertit ou Dirige, ferait un bon personnage marchand, mais le choix le plus évident serait un Emissaire.
 
 **Moine or Spécialiste des Arts Martiaux:** En tant que maîtres du combat à mains nues, les moines sont généralement des Guerriers ou des Explorateurs (avec peut-être une Préférence de combat). Les Motivations appropriées sont les Combat avec Panache, N'a pas Besoin d'Arme, and Lance avec une Précision Mortelle.
 
@@ -949,7 +949,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 * **Magicien (abjurer):** Absorbs Energy, Focuses Mind Over Matter, Porte un Eclat de Glace
 * **Magicien (conjurer or summoner):** Contrôle les Bêtes Sauvages, Keeps a Magic Ally
 * **Magicien (diviner):** Apprend Rapidement, Voit Au-Delà, Separates Mind From Body, Solves Mysteries
-* **Magicien (enchanter):** Commands Mental Powers, Leads
+* **Magicien (enchanter):** Commands Mental Powers, Dirige
 * **Magicien (evoker):** Se Revêt d'un Halo de Feu, Illumine avec Eclat, Façonne la Foudre, Thunders, Porte un Eclat de Glace
 * **Magicien (illusionist):** Awakens Dreams, Crafts Illusions
 * **Magicien (necromancer):** S'Associe avec les Morts, Guide les Esprits

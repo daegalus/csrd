@@ -383,6 +383,23 @@ Votre chair est constituée de minéraux durs, ce qui fait de vous un humanoïde
 
 -----
 
+### Dirige
+
+Votre capacité naturelle de leadership vous permet de commander aux autres, y compris à un groupe de fidèles.
+
+* Rang 1: Charisme naturel
+* Rang 1: Bon conseil
+* Rang 2: Potentiel amélioré
+* Rang 2: Suivant de base
+* Rang 3: Commandement avancé ou Disciple expert
+* Rang 4: Captiver ou Inspirer
+* Rang 5: Potentiel amélioré supérieur
+* Rang 6: Bande de suivants ou Esprit de leader
+
+**Intrusions du MJ:** Les adeptes échouent, trahissent, mentent, se corrompent, se font kidnapper ou meurent.
+
+-----
+
 ### Divertit
 
 Vous vous donnez en spectacle principalement pour divertir les autres.
@@ -982,7 +999,7 @@ The word "robot" is used in this focus, though the robot you create might look v
 * Rang 1: Robot Assistant
 * Rang 1: Robot Builder
 * Rang 2: Robot Control
-* Rang 3: Expert Follower ou Compétence en Défense Supérieure
+* Rang 3: Disciple expert ou Compétence en Défense Supérieure
 * Rang 4: Robot Upgrade
 * Rang 5: Robot Fleet
 * Rang 6: Robot Evolution ou Robot Upgrade
@@ -1133,10 +1150,10 @@ A descendent of wealth and power, you carry a noble title and the abilities gran
 
 * Rang 1: Privileged Nobility
 * Rang 2: Trained Interlocutor
-* Rang 3: Advanced Command ou Noble's Courage
-* Rang 4: Expert Follower
+* Rang 3: Commandement avancé ou Noble's Courage
+* Rang 4: Disciple expert
 * Rang 5: Asserting Your Privilege
-* Rang 6: Assistance compétente ou Mind of a Leader
+* Rang 6: Assistance compétente ou Esprit de leader
 
 **Intrusions du MJ:** Debts incurred by a family are owed by the character. A long-lost sibling seeks to disinherit rivals. An assassin finds the character.
 
@@ -1409,7 +1426,7 @@ You're a celebrity and most people adore you.
 * Rang 2: Perks of Stardom
 * Rang 3: Incredible Health ou Compétence avec les attaques
 * Rang 4: Captivate With Starshine
-* Rang 4: Expert Follower
+* Rang 4: Disciple expert
 * Rang 5: Do You Know Who I Am?
 * Rang 6: Transcend the Script ou Compagnon amélioré
 
@@ -1446,23 +1463,6 @@ An allied magic creature bound to an object (such as a minor djinn in a lamp, ou
 * Rang 6: Object Bond Mastery ou Faites confiance à la chance
 
 **Intrusions du MJ:** The creature unexpectedly disappears into its bound object. The bound object cracks. The creature disagrees and doesn't do as asked. The creature says it's leaving unless a task is performed for it.
-
------
-
-### Leads
-
-Your natural leadership capability allows you to command others, including a loyal band of followers.
-
-* Rang 1: Natural Charisma
-* Rang 1: Good Advice
-* Rang 2: Enhanced Potential
-* Rang 2: Basic Follower
-* Rang 3: Advanced Command ou Expert Follower
-* Rang 4: Captivate ou Inspire
-* Rang 5: Potentiel amélioré supérieur
-* Rang 6: Band of Followers ou Mind of a Leader
-
-**Intrusions du MJ:** Followers fail, betray, lie, become corrupted, get kidnapped, ou die.
 
 -----
 
