@@ -128,6 +128,24 @@ Bien que Is Licensed to Carry soit conçu pour les armes à feu modernes, il pou
 **Intrusions du MJ:** Ratés ou confiture ! L'attaque échoue et l'action est perdue, et une action supplémentaire est nécessaire pour résoudre le problème.
 -----
 
+### A Navigué sous Pavillon Pirate
+
+Vous avez navigué avec un équipage de redoutables pirates, mais vous avez décidé de mettre fin à vos jours de pirate et de rejoindre une autre cause. La question est : votre passé vous laissera-t-il partir si facilement ?
+
+* Rang 1: Ignorez la Douleur
+* Rang 1: Marin
+* Rang 2: Prendre l'avantage
+* Rang 2: Réputation redoutable
+* Rang 3: Compétence avec les attaques ou Compétence en Défense Supérieure
+* Rang 4: Le pied marin
+* Rang 4: Habiletés motrices
+* Rang 5: Perdu dans le chaos
+* Rang 6: Duel à mort ou Attaque successive
+
+**Intrusions du MJ:** Les dangers de la haute mer sont nombreux, notamment les tempêtes violentes et les maladies. D'autres pirates s'en sortent parfois grâce à la trahison. Un pirate retrouve d'anciens compagnons de navigation pour trouver un trésor caché.
+
+-----
+
 ### Absorbe l'Energie
 
 Vous pouvez exploiter l’énergie cinétique et la transformer en d’autres types d’énergie.
@@ -621,24 +639,6 @@ Des coups de poing, de pied, de coude, des genoux et des mouvements complets du 
 
 -----
 
-### Navigue sous Pavillon Pirate
-
-Vous avez navigué avec un équipage de redoutables pirates, mais vous avez décidé de mettre fin à vos jours de pirate et de rejoindre une autre cause. La question est : votre passé vous laissera-t-il partir si facilement ?
-
-* Rang 1: Ignorez la Douleur
-* Rang 1: Marin
-* Rang 2: Prendre l'avantage
-* Rang 2: Réputation redoutable
-* Rang 3: Compétence avec les attaques ou Compétence en Défense Supérieure
-* Rang 4: Le pied marin
-* Rang 4: Habiletés motrices
-* Rang 5: Perdu dans le chaos
-* Rang 6: Duel à mort ou Attaque successive
-
-**Intrusions du MJ:** Les dangers de la haute mer sont nombreux, notamment les tempêtes violentes et les maladies. D'autres pirates s'en sortent parfois grâce à la trahison. Un pirate retrouve d'anciens compagnons de navigation pour trouver un trésor caché.
-
------
-
 ### Ne S'Avoue Jamais Vaincu
 
 Vous n’abandonnez jamais, vous pouvez ignorer les coups et revenir toujours pour vous battre.
@@ -735,6 +735,24 @@ Vous pouvez vous transformer en animal.
 {{< hint info >}}
 Forme de bête Supérieure s'applique en utilisant Forme animale.
 {{< /hint >}}
+
+-----
+
+### Rend la Justice
+
+Vous redressez les torts, protégez les innocents et punissez les coupables.
+
+* Rang 1: Porter un jugement
+* Rang 1: Désignation
+* Rang 2: Défendre les innocents
+* Rang 2: Désignation Améliorée
+* Rang 3: Défendre tous les innocents ou Punir le coupable
+* Rang 4: Trouver le coupable
+* Rang 4: Désignation supérieure
+* Rang 5: Punir tous les coupables
+* Rang 6: Au diable les coupables ou Inspirez les innocents
+
+**Intrusions du MJ:** La culpabilité ou l'innocence peuvent être compliquées. Certaines personnes sont mécontentes de la présomption d'un juge autoproclamé. Porter un jugement fait des ennemis.
 
 -----
 
@@ -1451,24 +1469,6 @@ When it's just you, your spacesuit, and the panorama of stars wheeling out forev
 
 -----
 
-### Metes Out Justice
-
-You right wrongs, protect the innocent, and punish the guilty.
-
-* Rang 1: Make Judgment
-* Rang 1: Designation
-* Rang 2: Defend the Innocent
-* Rang 2: Improved Designation
-* Rang 3: Defend All the Innocent ou Punish the Guilty
-* Rang 4: Find the Guilty
-* Rang 4: Greater Designation
-* Rang 5: Punish All the Guilty
-* Rang 6: Damn the Guilty ou Inspire the Innocent
-
-**Intrusions du MJ:** Guilt ou innocence can be complicated. Some people resent the presumption of a self-appointed judge. Passing judgment makes enemies.
-
------
-
 ### Opère sous Couverture
 
 Under the guise of someone else, you seek to find answers the powerful do not want divulged.
@@ -1872,7 +1872,7 @@ Every focus has an overarching style, whether that's exploration, energy manipul
 
 Each focus category has an overarching theme, followed by selection guidelines that describe how to choose abilities for each Rang from the Abilities chapter, from Rang 1 to Rang 6.
 
-The newly created focus should be named in the form of a verb, like Contrôle les Bêtes Sauvages ou Abides in Stone. For instance, a fire-using focus created by following the guidelines in the energy manipulation focus category might be called Bears a Halo of Fire (one of the sample foci in this chapter). Alternatively, a new fire-using focus should get an all-new name like Stokes the Flames of the Apocalypse ou Lights Fires With a Thought.
+The newly created focus should be named in the form of a verb, like Contrôle les Bêtes Sauvages ou Demeure dans la pierre For instance, a fire-using focus created by following the guidelines in the energy manipulation focus category might be called Bears a Halo of Fire (one of the sample foci in this chapter). Alternatively, a new fire-using focus should get an all-new name like Stokes the Flames of the Apocalypse ou Lights Fires With a Thought.
 
 ## Focus Categories
 
@@ -2468,10 +2468,10 @@ The following are examples and not meant to provide a complete list of all possi
 * Garde le Passage
 * Fuses Flesh and Steel
 * Grows to Towering Heights
-* Howls at the Moon
+* Hurle à la Lune
 * Lives in the Wilderness
 * Maîtrise la Défense
-* Never Says Die
+* Ne S'Avoue Jamais Vaincu
 * Résiste Comme une Citadelle
 
 **Ability Selection Guidelines**
