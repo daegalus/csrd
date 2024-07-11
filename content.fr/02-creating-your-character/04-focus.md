@@ -655,6 +655,23 @@ Vous n’abandonnez jamais, vous pouvez ignorer les coups et revenir toujours po
 
 -----
 
+### Opère sous Couverture
+
+Sous l’apparence de quelqu’un d’autre, vous cherchez à trouver des réponses que les puissants ne veulent pas divulguer.
+
+(Quelqu'un qui Opère sous Couverture pourrait avoir un équipement supplémentaire comprenant un kit de déguisement.)
+
+* Rang 1: Enquêter
+* Rang 2: Déguisement
+* Rang 3: Agent Provocateur ou Courir et combattre
+* Rang 4: Rapide Tromperie
+* Rang 5: Utiliser ce qui est disponible
+* Rang 6: Faites confiance à la chance ou Frappe mortelle
+
+**Intrusions du MJ:** La malchance peut ruiner les meilleurs projets. Les déguisements échouent. Les alliés se révèlent également être des agents.
+
+-----
+
 ### Parle au Nom de la Terre
 
 Votre connexion spirituelle avec la nature et l’environnement vous confère des capacités mystiques.
@@ -1426,7 +1443,7 @@ An allied magic creature bound to an object (such as a minor djinn in a lamp, ou
 * Rang 3: Minor Wish ou Monture
 * Rang 4: Improved Object Bond
 * Rang 5: Moderate Wish
-* Rang 6: Object Bond Mastery ou Trust to Luck
+* Rang 6: Object Bond Mastery ou Faites confiance à la chance
 
 **Intrusions du MJ:** The creature unexpectedly disappears into its bound object. The bound object cracks. The creature disagrees and doesn't do as asked. The creature says it's leaving unless a task is performed for it.
 
@@ -1466,23 +1483,6 @@ When it's just you, your spacesuit, and the panorama of stars wheeling out forev
 * Rang 6: Weightless Shot ou Reactive Field
 
 **Intrusions du MJ:** Spacesuits develop glitches. Air refill cartridges sometimes misreport capacity. Micrometeorites are common in space.
-
------
-
-### Opère sous Couverture
-
-Under the guise of someone else, you seek to find answers the powerful do not want divulged.
-
-(Someone who Opère sous Couverture might have additional equipment that includes a disguise kit.)
-
-* Rang 1: Investigate
-* Rang 2: Disguise
-* Rang 3: Agent Provocateur ou Run and Fight
-* Rang 4: Rapide Tromperie
-* Rang 5: Using What's Available
-* Rang 6: Trust to Luck ou Frappe mortelle
-
-**Intrusions du MJ:** Bad luck can ruin the best plans. Disguises fail. Allies are revealed to be agents, too.
 
 -----
 
