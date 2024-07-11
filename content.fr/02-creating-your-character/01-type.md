@@ -922,32 +922,32 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Paladin/Chevalier/Parangon:** En tant que guerriers sacrés mêlant prouesses martiales et magie, les paladins sont généralement des Guerriers ou des Explorateurs (dans les deux cas, peut-être modifiés avec la Préférence magique). Les bonnes Motivations pour ce type de personnage incluent Garde le Passage, Défend les Faibles, Rend la Justice, Tue les Monstres, and Porte une Arme Enchantée\*.
 
-**Ranger:** Les Rangers mélangent combat et compétences, et sont donc généralement des Explorateurs (peut-être avec une Préférence de combat) ou des Guerriers (peut-être avec une Préférence de compétences et de connaissances). Les Motivations appropriées sont Contrôle les Bêtes Sauvages, Hunts, Vit dans la Nature Sauvage, Tue les Monstres, Lance avec une Précision Mortelle, et Se Bat avec Deux Armes à la fois.
+**Ranger:** Les Rangers mélangent combat et compétences, et sont donc généralement des Explorateurs (peut-être avec une Préférence de combat) ou des Guerriers (peut-être avec une Préférence de compétences et de connaissances). Les Motivations appropriées sont Contrôle les Bêtes Sauvages, Chasse, Vit dans la Nature Sauvage, Tue les Monstres, Lance avec une Précision Mortelle, et Se Bat avec Deux Armes à la fois.
 
-**Roublard ou Voleur:** La plupart des personnages de type voleur sont des Explorateurs, mais un voleur axé sur l'interaction pourrait facilement être un Emissaire (peut-être avec une Préférence furtive). Les Motivations appropriées sont Explore des Endroits Sombres, Se Bat Sans Respecter de Règle, Hunts, Se Cache dans les Ombres, Is Wanted by the Law, Bouge comme un Chat, A Navigué sous Pavillon Pirate, and Rôde dans les Bas Quartiers.
+**Roublard ou Voleur:** La plupart des personnages de type voleur sont des Explorateurs, mais un voleur axé sur l'interaction pourrait facilement être un Emissaire (peut-être avec une Préférence furtive). Les Motivations appropriées sont Explore des Endroits Sombres, Se Bat Sans Respecter de Règle, Chasse, Se Cache dans les Ombres, Is Wanted by the Law, Bouge comme un Chat, A Navigué sous Pavillon Pirate, and Rôde dans les Bas Quartiers.
 
 **Sorcier:** Les sorciers, dans notre cas, sont des mages qui ont des capacités magiques inhérentes (par opposition aux magiciens, qui étudient longuement et durement pour obtenir leurs sorts). La plupart des sorciers sont des Adeptes, mais certains sont des Explorateurs ou des Emissaires. La Motivation Maîtrise les Sortilèges donne à un sorcier typique un ensemble efficace de capacités, et la plupart des choix de Motivation fournissent un ensemble thématique de sorts. Pour les sorciers de diverses lignées magiques, consultez ce qui suit :
 
-* **Sorcier (angel):** Illumine avec Eclat, Canalise les Bénédictions Divines, Keeps a Magic Ally
+* **Sorcier (ange):** Illumine avec Eclat, Canalise les Bénédictions Divines, Dispose d'un Allié Magique
 * **Sorcier (destiny):** Descends From Nobility, Was Foretold
 * **Sorcier (dragon):** Se Revêt d'un Halo de Feu, Façonne la Foudre, Porte un Eclat de Glace
 * **Sorcier (elemental):** Demeure dans la pierre, Se Revêt d'un Halo de Feu, Employs Magnetism, Va Comme le Vent, Façonne la Foudre, Porte un Eclat de Glace
 * **Sorcier (fey):** Prend une Forme Animale\*
-* **Sorcier (fiend):** Se Revêt d'un Halo de Feu, Keeps a Magic Ally
+* **Sorcier (fiend):** Se Revêt d'un Halo de Feu, Dispose d'un Allié Magique
 * **Sorcier (undead):** S'Associe avec les Morts, Guide les Esprits
 
 **Escroc ou Arnaqueur:** Ces gens intelligents sont généralement des Emissaires, bien qu'ils puissent être des Adeptes s'ils sont très magiques (ou des Explorateurs s'ils ne sont pas magiques du tout). Les choix de Motivation incluent Se Bat Sans Respecter de Règle, Rôde dans les Bas Quartiers ou Divertit.
 
 **Guerrier-Mage:** Pour ces personnages inhabituels qui utilisent un mélange d'attaques avec des armes et de sorts, incarnez un Guerrier à Préférence magique ou un expert à Préférence de combat ou de magie. Les Motivations appropriées incluent Combat avec Panache, Maîtrise l'Armement, and Porte une Arme Enchantée\*.
 
-**Démoniste ou Occultiste:** Pour les besoins de cette liste, les Démoniste et les Occultiste sont des mages qui acquièrent des pouvoirs magiques grâce aux pactes qu'ils concluent avec des entités d'un autre monde. La plupart des démonistes sont des Adeptes, mais les Explorateurs et les Emissaires (peut-être avec une Préférence magique) peuvent être des options intéressantes. Les Motivations interressantes pour un occultiste incluent Dances With Dark Matter, Keeps a Magic Ally, Maîtrise l'Essaim, Separates Mind From Body, and Was Foretold, mais aussi (en fonction de l'entité et du pacte) la plupart des Motivations des Sorciers et des Magiciens fonctionnent tout aussi bien.
+**Démoniste ou Occultiste:** Pour les besoins de cette liste, les Démoniste et les Occultiste sont des mages qui acquièrent des pouvoirs magiques grâce aux pactes qu'ils concluent avec des entités d'un autre monde. La plupart des démonistes sont des Adeptes, mais les Explorateurs et les Emissaires (peut-être avec une Préférence magique) peuvent être des options intéressantes. Les Motivations interressantes pour un occultiste incluent Dances With Dark Matter, Dispose d'un Allié Magique, Maîtrise l'Essaim, Separates Mind From Body, and Was Foretold, mais aussi (en fonction de l'entité et du pacte) la plupart des Motivations des Sorciers et des Magiciens fonctionnent tout aussi bien.
 
 **Mage du Chaos:** Ceux qui utilisent la magie chaotique sont généralement des Adeptes, mais un amateur peut être un Explorateur ou un Emissaire une Préférence magique. La meilleure Motivation qui convient à ce thème est Uses Wild Magic\*.
 
 **Magicien:** Pour les besoins de cette liste, les magiciens étudient longuement les connaissances magiques pour apprendre les méthodes de lancement de sorts (contrairement aux sorciers, aux démonistes, etc.). Les magiciens sont généralement des Adeptes, mais un magicien orienté vers la personne pourrait être un Emissaire (peut-être avec une Préférence magique). Pour un Magicien généraliste qui possède une variété de sorts, choisissez le focus Maîtrise les Sortilèges. Pour des types plus spécifiques de Magiciens, consultez ce qui suit :
 
 * **Magicien (abjurer):** Absorbs Energy, Focuses Mind Over Matter, Porte un Eclat de Glace
-* **Magicien (conjurer or summoner):** Contrôle les Bêtes Sauvages, Keeps a Magic Ally
+* **Magicien (conjurer or summoner):** Contrôle les Bêtes Sauvages, Dispose d'un Allié Magique
 * **Magicien (diviner):** Apprend Rapidement, Voit Au-Delà, Separates Mind From Body, Solves Mysteries
 * **Magicien (enchanter):** Commands Mental Powers, Dirige
 * **Magicien (evoker):** Se Revêt d'un Halo de Feu, Illumine avec Eclat, Façonne la Foudre, Thunders, Porte un Eclat de Glace
