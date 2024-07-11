@@ -912,7 +912,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 * **Guerrier (mélée):** Se Bat Sans Respecter de Règle, Combat avec Panache, Cherche les Ennuis, N'a pas Besoin d'Arme, Se Bat avec Deux Armes à la fois
 * **Guerrier (à distance):** A le Droit de Porter une Arme à Feu, Lance avec une Précision Mortelle
 
-**Pistolero/Pirate:** Un pistolero est probablement un Guerrier ou un Explorateur, et certains peuvent être des Emissaires avec une Préférence de Combat. Les Motivations appropriées sont A le Droit de Porter une Arme à Feu, Maîtrise l'Armement, Sailed Beneath the Jolly Roger, et Porte une Arme Enchantée\*.
+**Pistolero/Pirate:** Un pistolero est probablement un Guerrier ou un Explorateur, et certains peuvent être des Emissaires avec une Préférence de Combat. Les Motivations appropriées sont A le Droit de Porter une Arme à Feu, Maîtrise l'Armement, Navigue sous Pavillon Pirate, et Porte une Arme Enchantée\*.
 
 **Inquisiteur:** Les inquisiteurs sont généralement des Explorateurs, des Emissaires ou des Guerriers, selon qu'ils ont tendance à posséder de nombreuses compétences, à être doués pour interagir avec les gens ou à combattre. Les Motivations appropriées sont Se Cache dans les Ombres, Metes Out Justice, and Operates Undercover.
 
@@ -924,7 +924,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Ranger:** Les Rangers mélangent combat et compétences, et sont donc généralement des Explorateurs (peut-être avec une Préférence de combat) ou des Guerriers (peut-être avec une Préférence de compétences et de connaissances). Les Motivations appropriées sont Contrôle les Bêtes Sauvages, Hunts, Vit dans la Nature Sauvage, Slays Monsters, Lance avec une Précision Mortelle, et Se Bat avec Deux Armes à la fois.
 
-**Roublard ou Voleur:** La plupart des personnages de type voleur sont des Explorateurs, mais un voleur axé sur l'interaction pourrait facilement être un Emissaire (peut-être avec une Préférence furtive). Les Motivations appropriées sont Explores Dark Places, Se Bat Sans Respecter de Règle, Hunts, Se Cache dans les Ombres, Is Wanted by the Law, Bouge comme un Chat, Sailed Beneath the Jolly Roger, and Rôde dans les Bas Quartiers.
+**Roublard ou Voleur:** La plupart des personnages de type voleur sont des Explorateurs, mais un voleur axé sur l'interaction pourrait facilement être un Emissaire (peut-être avec une Préférence furtive). Les Motivations appropriées sont Explores Dark Places, Se Bat Sans Respecter de Règle, Hunts, Se Cache dans les Ombres, Is Wanted by the Law, Bouge comme un Chat, Navigue sous Pavillon Pirate, and Rôde dans les Bas Quartiers.
 
 **Sorcier:** Les sorciers, dans notre cas, sont des mages qui ont des capacités magiques inhérentes (par opposition aux magiciens, qui étudient longuement et durement pour obtenir leurs sorts). La plupart des sorciers sont des Adeptes, mais certains sont des Explorateurs ou des Emissaires. La Motivation Maîtrise les Sortilèges donne à un sorcier typique un ensemble efficace de capacités, et la plupart des choix de Motivation fournissent un ensemble thématique de sorts. Pour les sorciers de diverses lignées magiques, consultez ce qui suit :
 

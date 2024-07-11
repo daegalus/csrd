@@ -621,6 +621,24 @@ Des coups de poing, de pied, de coude, des genoux et des mouvements complets du 
 
 -----
 
+### Navigue sous Pavillon Pirate
+
+Vous avez navigué avec un équipage de redoutables pirates, mais vous avez décidé de mettre fin à vos jours de pirate et de rejoindre une autre cause. La question est : votre passé vous laissera-t-il partir si facilement ?
+
+* Rang 1: Ignorez la Douleur
+* Rang 1: Marin
+* Rang 2: Prendre l'avantage
+* Rang 2: Réputation redoutable
+* Rang 3: Compétence avec les attaques ou Compétence en Défense Supérieure
+* Rang 4: Le pied marin
+* Rang 4: Habiletés motrices
+* Rang 5: Perdu dans le chaos
+* Rang 6: Duel à mort ou Attaque successive
+
+**Intrusions du MJ:** Les dangers de la haute mer sont nombreux, notamment les tempêtes violentes et les maladies. D'autres pirates s'en sortent parfois grâce à la trahison. Un pirate retrouve d'anciens compagnons de navigation pour trouver un trésor caché.
+
+-----
+
 ### Ne S'Avoue Jamais Vaincu
 
 Vous n’abandonnez jamais, vous pouvez ignorer les coups et revenir toujours pour vous battre.
@@ -1371,7 +1389,7 @@ You're a celebrity and most people adore you.
 * Rang 1: Enhanced Speed
 * Rang 1: Danger Sense
 * Rang 2: Attaque surprise
-* Rang 3: Outlaw Reputation ou Successive Attack
+* Rang 3: Outlaw Reputation ou Attaque successive
 * Rang 4: Meurtre Rapide
 * Rang 5: Band of Desperados
 * Rang 6: Pas encore mort ou Dégâts mortels
@@ -1523,24 +1541,6 @@ Your first instinct is to run from danger, and you've gotten very good at it.
 
 -----
 
-### Sailed Beneath the Jolly Roger
-
-You sailed with a crew of dread pirates, but you've decided to end your days as a pirate and join some other cause. The question is, will your past let you go so easily?
-
-* Rang 1: Ignore the Pain
-* Rang 1: Sailor
-* Rang 2: Taking Advantage
-* Rang 2: Fearsome Reputation
-* Rang 3: Compétence avec les attaques ou Compétence en Défense Supérieure
-* Rang 4: Sea Legs
-* Rang 4: Habiletés motrices
-* Rang 5: Lost in the Chaos
-* Rang 6: Duel to the Death ou Successive Attack
-
-**Intrusions du MJ:** The dangers of the high seas are many, including severe storms and disease. Other pirates sometimes get ahead through betrayal. A pirate tracks down former sailing mates to find hidden treasure.
-
------
-
 ### Scavenges
 
 When not running and hiding, you sift the ruins of civilization for useful remnants to ensure your survival.
@@ -1548,7 +1548,7 @@ When not running and hiding, you sift the ruins of civilization for useful remna
 * Rang 1: Post-Apocalyptic Survivor
 * Rang 1: Ruin Lore
 * Rang 2: Junkmonger
-* Rang 3: Taking Advantage ou Incredible Health
+* Rang 3: Prendre l'avantage ou Incredible Health
 * Rang 4: Know Where to Look
 * Rang 5: Recycled Cyphers
 * Rang 6: Artifact Scavenger ou Reactive Field
