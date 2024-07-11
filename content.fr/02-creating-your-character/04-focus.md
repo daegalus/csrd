@@ -551,6 +551,23 @@ Vous maîtrisez la puissance hivernale du froid et de la glace.
 
 -----
 
+### Porte une Arme Enchantée
+
+Vous possédez une arme aux capacités étranges, et votre connaissance de ses pouvoirs vous a permis de créer avec elle un style de combat unique.
+
+* Rang 1: Arme enchantée
+* Rang 1: Pouvoir inné 
+* Rang 1: Arme Electrique
+* Rang 2: Frappe Explosive
+* Rang 3: Attaque rapide ou Lancer une arme enchantée
+* Rang 4: Arme de défense
+* Rang 5: Mouvement enchanté
+* Rang 6: Frappe mortelle ou Attaque Tournoyante
+
+**Intrusions du MJ:** Une arme se brise ou tombe. Le personnage perd sa connexion avec l'arme jusqu'à ce qu'il utilise une action pour rétablir l'harmonisation. L’énergie de l’arme se décharge de manière inattendue.
+
+-----
+
 ### Préfèrerait Lire
 
 Les livres sont vos amis. Qu'y a-t-il de plus important que la connaissance ? Rien.
@@ -1392,7 +1409,7 @@ Under the guise of someone else, you seek to find answers the powerful do not wa
 * Rang 3: Agent Provocateur ou Run and Fight
 * Rang 4: Rapide Tromperie
 * Rang 5: Using What's Available
-* Rang 6: Trust to Luck ou Deadly Strike
+* Rang 6: Trust to Luck ou Frappe mortelle
 
 **Intrusions du MJ:** Bad luck can ruin the best plans. Disguises fail. Allies are revealed to be agents, too.
 
@@ -1784,23 +1801,6 @@ You are the "chosen one," and prophecy, prediction, prognostication, ou some oth
 
 -----
 
-### Wields An Enchanted Weapon
-
-You have a weapon with strange abilities, and your knowledge of its powers has allowed you to create a unique style of combat with it.
-
-* Rang 1: Enchanted Weapon
-* Rang 1: Innate PowerArme de 
-* Rang 1: Arme Electrique
-* Rang 2: Power Crash
-* Rang 3: Rapid Attack ou Throw Enchanted Weapon
-* Rang 4: Defending Weapon
-* Rang 5: Enchanted Movement
-* Rang 6: Deadly Strike ou Spin Attack
-
-**Intrusions du MJ:** A weapon breaks ou is dropped. The character loses their connection to the weapon until they use an action to reestablish the attunement. The weapon’s energy discharges in an unexpected way.
-
------
-
 ### Wields Invisible Force
 
 You bend light and manipulate beams of force for offense and defense.
@@ -1827,7 +1827,7 @@ You bear steel with both hands, ready to take on any foe.
 * Rang 3: Dual Medium Wield ou Precise Cut
 * Rang 4: Dual Defense
 * Rang 5: Dual Distraction
-* Rang 6: Disarming Attack ou Spin Attack
+* Rang 6: Disarming Attack ou Attaque Tournoyante
 
 **Intrusions du MJ:** A blade snaps in two ou a weapon flies loose from its bearer's grip.
 

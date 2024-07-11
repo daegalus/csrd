@@ -903,16 +903,16 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 * **Druide (animal companion):** Contrôle les Bêtes Sauvages, Maîtrise l'Essaim
 * **Druide (elemental):** Demeure dans la pierre, Se Revêt d'un Halo de Feu, Va Comme le Vent, Façonne la Foudre, Porte un Eclat de Glace
-* **Druide (nature affinity):** Speaks for the Land
-* **Druide (transformation):** Demeure dans la pierre, Prend une Forme Animale\*, Walks the Wild Woods\*
+* **Druide (affinité avec la nature):** Parle au Nom de la Terre
+* **Druide (transformation):** Demeure dans la pierre, Prend une Forme Animale\*, Marche dans Les Forêts Primaires\*
 
-**Combattant:** Les combattants sont presque toujours du type Guerrier, mais certains sont des Explorateurs. Un combattant typique a probablement une motivation comme Maîtrise l'Armement or Wields an Enchanted Weapon\*. Pour des options supplémentaires basées sur le choix d'un rôle de combat spécifique, voir ce qui suit:
+**Combattant:** Les combattants sont presque toujours du type Guerrier, mais certains sont des Explorateurs. Un combattant typique a probablement une motivation comme Maîtrise l'Armement or Porte une Arme Enchantée\*. Pour des options supplémentaires basées sur le choix d'un rôle de combat spécifique, voir ce qui suit:
 
 * **Guerrier (guardian):** Brandishes an Exotic Shield, Defends the Gate, Masters Defense, Ne S'Avoue Jamais Vaincu, Stands Like a Bastion.
 * **Guerrier (melee):** Fights Dirty, Fights With Panache, Looks For Trouble, N'a pas Besoin d'Arme, Wields Two Weapons at Once
 * **Guerrier (ranged):** Is Licensed to Carry, Throws With Deadly Accuracy
 
-**Pistolero:** Un pistolero est probablemebt un Guerrier ou un Explorateur, et certains peuvent être des Emissaires avec une Préférence de Combat. ALes Motivations appropriées sont Is Licensed to Carry, Maîtrise l'Armement, Sailed Beneath the Jolly Roger, et Wields an Enchanted Weapon\*.
+**Pistolero:** Un pistolero est probablemebt un Guerrier ou un Explorateur, et certains peuvent être des Emissaires avec une Préférence de Combat. ALes Motivations appropriées sont Is Licensed to Carry, Maîtrise l'Armement, Sailed Beneath the Jolly Roger, et Porte une Arme Enchantée\*.
 
 **Inquisiteur:** Les inquisiteurs sont généralement des Explorateurs, des Emissaires ou des Guerriers, selon qu'ils ont tendance à posséder de nombreuses compétences, à être doués pour interagir avec les gens ou à combattre. Les Motivations appropriées sont Se Cache dans les Ombres, Metes Out Justice, and Operates Undercover.
 
@@ -920,7 +920,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Moine or Spécialiste des Arts Martiaux:** En tant que maîtres du combat à mains nues, les moines sont généralement des Guerriers ou des Explorateurs (avec peut-être une Préférence de combat). Les Motivations appropriées sont les Fights With Panache, N'a pas Besoin d'Arme, and Throws With Deadly Accuracy.
 
-**Paladin/Chevalier/Parangon:** En tant que guerriers sacrés mêlant prouesses martiales et magie, les paladins sont généralement des Guerriers ou des Explorateurs (dans les deux cas, peut-être modifiés avec la Préférence magique). Les bonnes Motivations pour ce type de personnage incluent Defends the Gate, Défend les Faibles, Metes Out Justice, Slays Monsters, and Wields an Enchanted Weapon\*.
+**Paladin/Chevalier/Parangon:** En tant que guerriers sacrés mêlant prouesses martiales et magie, les paladins sont généralement des Guerriers ou des Explorateurs (dans les deux cas, peut-être modifiés avec la Préférence magique). Les bonnes Motivations pour ce type de personnage incluent Defends the Gate, Défend les Faibles, Metes Out Justice, Slays Monsters, and Porte une Arme Enchantée\*.
 
 **Ranger:** Les Rangers mélangent combat et compétences, et sont donc généralement des Explorateurs (peut-être avec une Préférence de combat) ou des Guerriers (peut-être avec une Préférence de compétences et de connaissances). Les Motivations appropriées sont Contrôle les Bêtes Sauvages, Hunts, Vit dans la Nature Sauvage, Slays Monsters, Throws With Deadly Accuracy, et Wields Two Weapons at Once.
 
@@ -938,7 +938,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Escroc ou Arnaqueur:** Ces gens intelligents sont généralement des Emissaires, bien qu'ils puissent être des Adeptes s'ils sont très magiques (ou des Explorateurs s'ils ne sont pas magiques du tout). Les choix de Motivation incluent Fights Dirty, Rôde dans les Bas Quartiers ou Divertit.
 
-**Guerrier-Mage:** Pour ces personnages inhabituels qui utilisent un mélange d'attaques avec des armes et de sorts, incarnez un Guerrier à Préférence magique ou un expert à Préférence de combat ou de magie. Les Motivations appropriées incluent Fights With Panache, Maîtrise l'Armement, and Wields an Enchanted Weapon\*.
+**Guerrier-Mage:** Pour ces personnages inhabituels qui utilisent un mélange d'attaques avec des armes et de sorts, incarnez un Guerrier à Préférence magique ou un expert à Préférence de combat ou de magie. Les Motivations appropriées incluent Fights With Panache, Maîtrise l'Armement, and Porte une Arme Enchantée\*.
 
 **Démoniste ou Occultiste:** Pour les besoins de cette liste, les Démoniste et les Occultiste sont des mages qui acquièrent des pouvoirs magiques grâce aux pactes qu'ils concluent avec des entités d'un autre monde. La plupart des démonistes sont des Adeptes, mais les Explorateurs et les Emissaires (peut-être avec une Préférence magique) peuvent être des options intéressantes. Les Motivations interressantes pour un occultiste incluent Dances With Dark Matter, Keeps a Magic Ally, Maîtrise l'Essaim, Separates Mind From Body, and Was Foretold, mais aussi (en fonction de l'entité et du pacte) la plupart des Motivations des Sorciers et des Magiciens fonctionnent tout aussi bien.
 
@@ -957,7 +957,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 ## Lancement de sort Préparés ou Spontanés
 
-Les personnages pratiquant la magie obtiennent leurs capacités (qui peuvent être des sorts, des rituels ou autre chose) en fonction de leur Type et de leur Motivation, et ils peuvent utiliser ces capacités comme bon leur semble tant qu'ils dépensent les points de Réserve requis. Techniquement, cela les rend plus semblables à des lanceurs de sorts spontanés. Si vous souhaitez jouer quelque chose qui ressemble davantage à un magicien préparant ses sorts avec un large choix de capacités que vous affinez chaque jour, envisagez une Motivation axée sur le lancement de sorts comme CCanalise les Bénédictions Divines, Maîtrise les Sortilèges, or Speaks for the Land, et envisagez de l'augmenter avec la règle facultative de lancement de sorts.
+Les personnages pratiquant la magie obtiennent leurs capacités (qui peuvent être des sorts, des rituels ou autre chose) en fonction de leur Type et de leur Motivation, et ils peuvent utiliser ces capacités comme bon leur semble tant qu'ils dépensent les points de Réserve requis. Techniquement, cela les rend plus semblables à des lanceurs de sorts spontanés. Si vous souhaitez jouer quelque chose qui ressemble davantage à un magicien préparant ses sorts avec un large choix de capacités que vous affinez chaque jour, envisagez une Motivation axée sur le lancement de sorts comme CCanalise les Bénédictions Divines, Maîtrise les Sortilèges, or Parle au Nom de la Terre, et envisagez de l'augmenter avec la règle facultative de lancement de sorts.
 
 ## Plus de Personnalisation
 
