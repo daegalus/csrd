@@ -93,7 +93,6 @@ Vous fournit ou modifie un suivant, ou vous donne un bénéfice supplémentaire 
 {{< columns >}}
 
 * Assistant Robot
-* Compagnon Bête
 * Contrôle de l’Essaim
 * Créature magique liée
 * Duplicata
@@ -107,6 +106,7 @@ Vous fournit ou modifie un suivant, ou vous donne un bénéfice supplémentaire 
 * Petit Compagnon
 * Serv-0
 * Suivant de base
+* Une Bête comme Compagnon
 {{< /columns >}}
 
 **Rang Intermédiaire:**
@@ -2094,15 +2094,13 @@ En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'ut
 
 **Comme l’éclair** (4 points d'Intelligence) : Vous pouvez vous déplacer sur une longue distance d'un endroit à un autre presque instantanément, porté par un éclair. Vous devez être en mesure de voir le nouvel emplacement et il ne doit y avoir aucune barrière intermédiaire. Action.
 
-**Comme s'il n'y a qu'une seule créature** : lorsque vous et votre bête (grâce à votre capacité Compagnon Bête) êtes à distance immédiate l'un de l'autre, vous pouvez partager les dégâts infligés à l'un ou l'autre de vous. Par exemple, si l'un de vous est touché par une arme et lui inflige 4 points de dégâts, répartissez les dégâts entre vous deux comme bon vous semble. Seules l'Armure et les résistances de la cible initialement endommagée entrent en jeu. Ainsi, si vous avez 2 armures et êtes frappé par une explosion de force pour 4 points de dégâts, votre bête peut subir les 2 points de dégâts que vous subiriez, mais son armure n'entre pas en jeu, ni son immunité aux explosions de force, si n'importe lequel. Facilitateur.
+**Comme s'il n'y a qu'une seule créature** : lorsque vous et votre bête (grâce à votre capacité Une Bête comme Compagnon) êtes à distance immédiate l'un de l'autre, vous pouvez partager les dégâts infligés à l'un ou l'autre de vous. Par exemple, si l'un de vous est touché par une arme et lui inflige 4 points de dégâts, répartissez les dégâts entre vous deux comme bon vous semble. Seules l'Armure et les résistances de la cible initialement endommagée entrent en jeu. Ainsi, si vous avez 2 armures et êtes frappé par une explosion de force pour 4 points de dégâts, votre bête peut subir les 2 points de dégâts que vous subiriez, mais son armure n'entre pas en jeu, ni son immunité aux explosions de force, si n'importe lequel. Facilitateur.
 
 **Comment les autres pensent**: Vous avez une idée de la façon dont les gens pensent. Vous êtes entraîné à l’une des tâches suivantes : persuasion, tromperie ou détection de mensonges. Facilitateur.
 
 **Communication** (2 points d'Intelligence) : Vous pouvez transmettre un concept de base à une créature qui ne peut normalement pas parler ou comprendre la parole. La créature peut également vous donner une réponse très basique à une question simple. Action.
 
 **Compagnon Arbre** (5+ points d'Intelligence) : Vous animez un arbre d'environ votre taille ou moins, créant une créature de niveau 3 avec 1 armure. L'arbre suit vos commandes verbales pendant une heure, après quoi il redevient un arbre normal (et s'enracine là où il se trouve). À moins que l'arbre ne soit tué par des dégâts, vous pouvez l'animer à nouveau lorsque la durée de la capacité expire, mais tous les dégâts qu'il subit sont reportés dans son nouvel état animé. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour affecter plus d'arbres ; chaque niveau d’Effort utilisé affecte un arbre supplémentaire. Action.
-
-**Compagnon Bête** : Une créature de niveau 2 de votre taille ou moins vous accompagne et suit vos instructions. Vous et le MJ devez définir les détails de votre créature, et vous ferez probablement des jets pour elle en combat ou lorsqu'elle entreprend des actions. Le compagnon bête agit à votre tour. En tant que créature de niveau 2, elle a un nombre cible de 6 et 6 points de vie et elle inflige 2 points de dégâts. Son mouvement est basé sur son type de créature (aviaire, nageur, etc.). Si votre compagnon bête meurt, vous pouvez chasser dans la nature pendant 1d6 jours pour en trouver un nouveau. Facilitateur. (Le niveau d'une créature détermine son nombre cible, sa santé et dommages, sauf indication contraire. Ainsi un compagnon bête de niveau 2 a un nombre cible de 6 et une santé de 6, et il inflige 2 points de dégâts. Un compagnon bête de niveau 4 a un nombre cible de 12 et une santé de 12, et il inflige 4 points de dégâts. Et ainsi de suite.)
 
 **Compagnon Machine Amélioré**: La machine issue de votre capacité Compagnon Machine s'améliore, devenant une créature de niveau 5 avec la capacité soit de voler sur une longue distance à chaque tour (et de vous transporter) pendant un maximum de dix minutes à la fois, soit de transporter un chiffre supplémentaire pendant vous qui ne compte pas dans votre limite de cypher. Facilitateur.
 
@@ -3307,7 +3305,7 @@ Lorsque vous effectuez une action, vous utilisez le corps de la créature pour e
 
 **Plongeur**: Vous pouvez plonger en toute sécurité dans l'eau depuis des hauteurs allant jusqu'à 100 pieds (30 m) et vous pouvez résister à la pression lorsque vous êtes dans une eau aussi profonde que 100 pieds (30 m). Facilitateur.
 
-**Plus forts ensemble**: lorsque vous et votre compagnon de la capacité Compagnon Bête êtes à distance immédiate l'un de l'autre, vous infligez 2 points de dégâts supplémentaires lorsque vous attaquez et vous gagnez tous les deux un atout pour les actions de défense. Facilitateur.
+**Plus forts ensemble**: lorsque vous et votre compagnon de la capacité Une Bête comme Compagnon êtes à distance immédiate l'un de l'autre, vous infligez 2 points de dégâts supplémentaires lorsque vous attaquez et vous gagnez tous les deux un atout pour les actions de défense. Facilitateur.
 
 **Plus grand**: lorsque vous utilisez Agrandir, vous pouvez choisir de grandir jusqu'à 12 pieds (4 m) de hauteur et vous ajoutez 3 points temporaires supplémentaires à votre réserve de puissance. Facilitateur.
 
@@ -3928,6 +3926,8 @@ Si vous disposez déjà de la téléportation courte lorsque vous sélectionnez 
 **Un coup du Destin**: L'expérience vous a beaucoup appris, notamment que parfois la chance est quelque chose que vous devez créer vous-même. Lorsque vous obtenez un 1, vous pouvez relancer. Vous devez utiliser le nouveau résultat, même s’il s’agit d’un autre 1. Enabler.
 
 **Un sourire et un mot** : lorsque vous utilisez l'Effort sur toute action impliquant des interactions, même celles liées à calmer des animaux ou à communiquer avec quelqu'un ou quelque chose dont vous ne parlez pas la langue, vous gagnez un niveau d'Effort gratuit sur la tâche. Action.
+
+**Une Bête comme Compagnon** : Une créature de niveau 2 de votre taille ou moins vous accompagne et suit vos instructions. Vous et le MJ devez définir les détails de votre créature, et vous ferez probablement des jets pour elle en combat ou lorsqu'elle entreprend des actions. Le compagnon bête agit à votre tour. En tant que créature de niveau 2, elle a un nombre cible de 6 et 6 points de vie et elle inflige 2 points de dégâts. Son mouvement est basé sur son type de créature (aviaire, nageur, etc.). Si votre compagnon bête meurt, vous pouvez chasser dans la nature pendant 1d6 jours pour en trouver un nouveau. Facilitateur. (Le niveau d'une créature détermine son nombre cible, sa santé et dommages, sauf indication contraire. Ainsi un compagnon bête de niveau 2 a un nombre cible de 6 et une santé de 6, et il inflige 2 points de dégâts. Un compagnon bête de niveau 4 a un nombre cible de 12 et une santé de 12, et il inflige 4 points de dégâts. Et ainsi de suite.)
 
 **Une information dans le réseau** (4 points d'Intelligence) : Vous pouvez poser une question au MJ et obtenir une réponse très courte si vous réussissez un jet d'Intelligence contre une difficulté assignée par le MJ. Plus la réponse est obscure, plus la tâche est difficile. En cas d'échec, un retour d'information ou peut-être une défense du réseau auquel vous accédez vous inflige 4 points de dégâts d'Intelligence (ignore l'armure). Action. (En général, les connaissances que vous pourriez trouver en cherchant ailleurs que votre emplacement actuel sont de niveau 1, tandis que les connaissances obscures du passé sont de niveau 7. Acquérir des connaissances sur le futur est impossible.)
 

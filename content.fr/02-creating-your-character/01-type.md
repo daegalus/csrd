@@ -901,7 +901,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Druide:** En tant que sorte très spécifique de prêtre de la nature, un personnage druide est généralement un Adepte ou un Explorateur (dans les deux cas utilisant probablement la Préference magique). Un druide typique a probablement pour Motivation Canalise les Bénédictions Divines ou Vit dans la Nature Sauvage, mais pour des options plus spécifiques, voir les Motivations suivantes:
 
-* **Druide (animal companion):** Controls Beasts, Masters the Swarm
+* **Druide (animal companion):** Contrôle les Bêtes Sauvages, Maîtrise l'Essaim
 * **Druide (elemental):** Demeure dans la pierre, Se Revêt d'un Halo de Feu, Moves Like the Wind, Façonne la Foudre, Wears a Sheen of Ice
 * **Druide (nature affinity):** Speaks for the Land
 * **Druide (transformation):** Demeure dans la pierre, Prend une Forme Animale\*, Walks the Wild Woods\*
@@ -922,7 +922,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Paladin/Chevalier/Parangon:** En tant que guerriers sacrés mêlant prouesses martiales et magie, les paladins sont généralement des Guerriers ou des Explorateurs (dans les deux cas, peut-être modifiés avec la Préférence magique). Les bonnes Motivations pour ce type de personnage incluent Defends the Gate, Défend les Faibles, Metes Out Justice, Slays Monsters, and Wields an Enchanted Weapon\*.
 
-**Ranger:** Les Rangers mélangent combat et compétences, et sont donc généralement des Explorateurs (peut-être avec une Préférence de combat) ou des Guerriers (peut-être avec une Préférence de compétences et de connaissances). Les Motivations appropriées sont Controls Beasts, Hunts, Vit dans la Nature Sauvage, Slays Monsters, Throws With Deadly Accuracy, et Wields Two Weapons at Once.
+**Ranger:** Les Rangers mélangent combat et compétences, et sont donc généralement des Explorateurs (peut-être avec une Préférence de combat) ou des Guerriers (peut-être avec une Préférence de compétences et de connaissances). Les Motivations appropriées sont Contrôle les Bêtes Sauvages, Hunts, Vit dans la Nature Sauvage, Slays Monsters, Throws With Deadly Accuracy, et Wields Two Weapons at Once.
 
 **Roublard ou Voleur:** La plupart des personnages de type voleur sont des Explorateurs, mais un voleur axé sur l'interaction pourrait facilement être un Emissaire (peut-être avec une Préférence furtive). Les Motivations appropriées sont Explores Dark Places, Fights Dirty, Hunts, Se Cache dans les Ombres, Is Wanted by the Law, Bouge comme un Chat, Sailed Beneath the Jolly Roger, and Rôde dans les Bas Quartiers.
 
@@ -940,14 +940,14 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Guerrier-Mage:** Pour ces personnages inhabituels qui utilisent un mélange d'attaques avec des armes et de sorts, incarnez un Guerrier à Préférence magique ou un expert à Préférence de combat ou de magie. Les Motivations appropriées incluent Fights With Panache, Maîtrise l'Armement, and Wields an Enchanted Weapon\*.
 
-**Démoniste ou Occultiste:** Pour les besoins de cette liste, les Démoniste et les Occultiste sont des mages qui acquièrent des pouvoirs magiques grâce aux pactes qu'ils concluent avec des entités d'un autre monde. La plupart des démonistes sont des Adeptes, mais les Explorateurs et les Emissaires (peut-être avec une Préférence magique) peuvent être des options intéressantes. Les Motivations interressantes pour un occultiste incluent Dances With Dark Matter, Keeps a Magic Ally, Masters the Swarm, Separates Mind From Body, and Was Foretold, mais aussi (en fonction de l'entité et du pacte) la plupart des Motivations des Sorciers et des Magiciens fonctionnent tout aussi bien.
+**Démoniste ou Occultiste:** Pour les besoins de cette liste, les Démoniste et les Occultiste sont des mages qui acquièrent des pouvoirs magiques grâce aux pactes qu'ils concluent avec des entités d'un autre monde. La plupart des démonistes sont des Adeptes, mais les Explorateurs et les Emissaires (peut-être avec une Préférence magique) peuvent être des options intéressantes. Les Motivations interressantes pour un occultiste incluent Dances With Dark Matter, Keeps a Magic Ally, Maîtrise l'Essaim, Separates Mind From Body, and Was Foretold, mais aussi (en fonction de l'entité et du pacte) la plupart des Motivations des Sorciers et des Magiciens fonctionnent tout aussi bien.
 
 **Mage du Chaos:** Ceux qui utilisent la magie chaotique sont généralement des Adeptes, mais un amateur peut être un Explorateur ou un Emissaire une Préférence magique. La meilleure Motivation qui convient à ce thème est Uses Wild Magic\*.
 
 **Magicien:** Pour les besoins de cette liste, les magiciens étudient longuement les connaissances magiques pour apprendre les méthodes de lancement de sorts (contrairement aux sorciers, aux démonistes, etc.). Les magiciens sont généralement des Adeptes, mais un magicien orienté vers la personne pourrait être un Emissaire (peut-être avec une Préférence magique). Pour un Magicien généraliste qui possède une variété de sorts, choisissez le focus Maîtrise les Sortilèges. Pour des types plus spécifiques de Magiciens, consultez ce qui suit :
 
 * **Magicien (abjurer):** Absorbs Energy, Focuses Mind Over Matter, Wears a Sheen of Ice
-* **Magicien (conjurer or summoner):** Controls Beasts, Keeps a Magic Ally
+* **Magicien (conjurer or summoner):** Contrôle les Bêtes Sauvages, Keeps a Magic Ally
 * **Magicien (diviner):** Apprend Rapidement, Voit Au-Delà, Separates Mind From Body, Solves Mysteries
 * **Magicien (enchanter):** Commands Mental Powers, Leads
 * **Magicien (evoker):** Se Revêt d'un Halo de Feu, Illumine avec Eclat, Façonne la Foudre, Thunders, Wears a Sheen of Ice

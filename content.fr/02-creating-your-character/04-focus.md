@@ -245,6 +245,23 @@ Vous excellez dans la lutte contre les robots, les automates et les entités mac
 
 -----
 
+### Contrôle les Bêtes Sauvages
+
+Votre capacité à communiquer et à diriger des bêtes est surnaturelle.
+
+* Rang 1: Une Bête comme Compagnon
+* Rang 2: Apaiser la Bête Sauvage
+* Rang 2: Communication
+* Rang 3: Monture ou Plus forts ensemble
+* Rang 4: Yeux de bête
+* Rang 4: Compagnon amélioré
+* Rang 5: Appel de Bête
+* Rang 6: Comme s'il n'y a qu'une seule créature ou Contrôler le sauvage
+
+**Intrusions du MJ:** La communauté est réticente à accueillir des animaux dangereux. Les bêtes incontrôlables deviennent un véritable danger.
+
+-----
+
 ### Défend les Faibles
 
 Vous défendez les impuissants, les faibles et ceux qui ne sont pas protégés.
@@ -421,6 +438,21 @@ Vous êtes un maître d'arme d'un type particulier d'arme, qu'il s'agisse d'une 
 * Rang 6: Meurtrier ou Frappe mortelle
 
 **Intrusions du MJ:** Les armes se brisent. Les armes peuvent être volées. Les armes peuvent être lâchées ou arrachées de votre main.
+
+-----
+
+### Maîtrise l'Essaim
+
+Insectes. Rats. Chauves-souris. Même les oiseaux. Vous maîtrisez un type de petite créature qui vous obéit.
+
+* Rang 1: Influence d'Essaim
+* Rang 2: Contrôle de l'Essaim
+* Rang 3: Armure vivante ou Compétence avec les attaques
+* Rang 4: Appeller un essaim
+* Rang 5: Gagner un compagnon inhabituel
+* Rang 6: Essaim mortel ou Compétence en Défense Supérieure
+
+**Intrusions du MJ:** Une commande est mal comprise. Le contrôle est irrégulier ou est perdu. Les morsures et les piqûres ne sont pas rares chez les maîtres de l'essaim.
 
 -----
 
@@ -716,23 +748,6 @@ Your preternatural insight and ability make you a scientist capable of amazing f
 * Rang 6: Inventor ou Champ défensif
 
 **Intrusions du MJ:** Creations get out of control. Side effects cannot always be predicted. Weird science terrifies people and can draw the media. When a device created ou modified by weird science is depleted, it detonates.
-
------
-
-### Controls Beasts
-
-Your ability to communicate and lead beasts is uncanny.
-
-* Rang 1: Beast Companion
-* Rang 2: Apaiser la Bête Sauvage
-* Rang 2: Communication
-* Rang 3: Mount ou Stronger Together
-* Rang 4: Beast Eyes
-* Rang 4: Improved Companion
-* Rang 5: Beast Call
-* Rang 6: As If One Creature ou Control the Savage
-
-**Intrusions du MJ:** The community is reluctant to welcome dangerous animals. Out-of-control beasts become a real hazard.
 
 -----
 
@@ -1156,7 +1171,7 @@ You're a celebrity and most people adore you.
 * Rang 4: Captivate With Starshine
 * Rang 4: Expert Follower
 * Rang 5: Do You Know Who I Am?
-* Rang 6: Transcend the Script ou Improved Companion
+* Rang 6: Transcend the Script ou Compagnon amélioré
 
 **Intrusions du MJ:** Fans are endangered ou hurt on your behalf. Someone in your entourage betrays you. Your show, tour, contract, ou other event is canceled. The media posts photos of you in an embarrassing situation.
 
@@ -1205,7 +1220,7 @@ An allied magic creature bound to an object (such as a minor djinn in a lamp, ou
 * Rang 1: Bound Magic Creature
 * Rang 2: Object Bond
 * Rang 2: Hidden Closet
-* Rang 3: Minor Wish ou Mount
+* Rang 3: Minor Wish ou Monture
 * Rang 4: Improved Object Bond
 * Rang 5: Moderate Wish
 * Rang 6: Object Bond Mastery ou Trust to Luck
@@ -1282,21 +1297,6 @@ You use protective equipment and practiced techniques to avoid becoming hurt in 
 * Rang 6: Defense Master ou Wear It Well
 
 **Intrusions du MJ:** Shields break when hit, as do weapons used to parry. Armor straps break.
-
------
-
-### Masters the Swarm
-
-Insects. Rats. Bats. Even birds. You master one type of small creature that obeys you.
-
-* Rang 1: Influence Swarm
-* Rang 2: Control Swarm
-* Rang 3: Living Armor ou Compétence avec les attaques
-* Rang 4: Call Swarm
-* Rang 5: Gain Unusual Companion
-* Rang 6: Deadly Swarm ou Compétence en Défense Supérieure
-
-**Intrusions du MJ:** A command is misunderstood. Control is erratic ou is lost. Bites and stings are not uncommon for masters of the swarm.
 
 -----
 
@@ -1873,7 +1873,7 @@ Every focus has an overarching style, whether that's exploration, energy manipul
 
 Each focus category has an overarching theme, followed by selection guidelines that describe how to choose abilities for each Rang from the Abilities chapter, from Rang 1 to Rang 6.
 
-The newly created focus should be named in the form of a verb, like Controls Beasts ou Abides in Stone. For instance, a fire-using focus created by following the guidelines in the energy manipulation focus category might be called Bears a Halo of Fire (one of the sample foci in this chapter). Alternatively, a new fire-using focus should get an all-new name like Stokes the Flames of the Apocalypse ou Lights Fires With a Thought.
+The newly created focus should be named in the form of a verb, like Contrôle les Bêtes Sauvages ou Abides in Stone. For instance, a fire-using focus created by following the guidelines in the energy manipulation focus category might be called Bears a Halo of Fire (one of the sample foci in this chapter). Alternatively, a new fire-using focus should get an all-new name like Stokes the Flames of the Apocalypse ou Lights Fires With a Thought.
 
 ## Focus Categories
 
@@ -1966,10 +1966,10 @@ The following are examples and not meant to provide a complete list of all possi
 
 * Builds Robots
 * Consorts With the Dead
-* Controls Beasts
+* Contrôle les Bêtes Sauvages
 * Exists in Two Places at Once
 * Leads
-* Masters the Swarm
+* Maîtrise l'Essaim
 * Shepherds Spirits
 
 **Ability Selection Guidelines**
