@@ -213,6 +213,22 @@ Souple, flexible et gracieux, vous vous déplacez rapidement et en douceur, et n
 
 -----
 
+### Brandit un Bouclier Exotique
+
+Vous déployez un incroyable bouclier de force pure qui offre une protection et des options offensives.
+
+* Rang 1: Bouclier de Champ de Force
+* Rang 1: Frappe de Force
+* Rang 2: Bouclier enveloppant
+* Rang 3: Pulsation de Guérison ou Lancer un bouclier de force
+* Rang 4: Bouclier énergisé
+* Rang 5: Mur de Force
+* Rang 6: Bouclier rebondissant ou Bouclier Explosif
+
+**Intrusions du MJ:** Le bouclier est temporairement perdu. Un ennemi se retrouve temporairement avec le bouclier.
+
+-----
+
 ### Canalise les Bénédictions Divines
 
 Fervent disciple d’un être divin, vous canalisez une partie du pouvoir de votre divinité pour réaliser des merveilles.
@@ -359,6 +375,22 @@ Vous émettez un son destructeur et manipulez les paysages sonores.
 
 -----
 
+### Garde le Passage
+
+Tout le monde veut que vous soyez à ses côtés lorsqu’il s’agit d’un combat, car rien ne vous échappe.
+
+* Rang 1: Position fortifiée
+* Rang 1: Ralliez-vous à moi
+* Rang 2: Esprit de puissance
+* Rang 3: Constructeur de fortifications ou Détourner les attaques
+* Rang 4: Puissance améliorée supérieure
+* Rang 5: Champ de renforcement
+* Rang 6: Générer un champ de force ou Attaque Etourdissante
+
+**Intrusions du MJ:** Une structure d'importance stratégique s’effondre. L'ennemi attaque depuis une direction inattendue.
+
+-----
+
 ### Guide la Communauté
 
 Vous gardez le lieu où vous vivez à l'abri de tout danger.
@@ -453,6 +485,23 @@ Insectes. Rats. Chauves-souris. Même les oiseaux. Vous maîtrisez un type de pe
 * Rang 6: Essaim mortel ou Compétence en Défense Supérieure
 
 **Intrusions du MJ:** Une commande est mal comprise. Le contrôle est irrégulier ou est perdu. Les morsures et les piqûres ne sont pas rares chez les maîtres de l'essaim.
+
+-----
+
+### Maîtrise la Défense
+
+Vous utilisez un équipement de protection et des techniques pratiquées pour éviter de vous blesser lors d'un combat.
+
+* Rang 1: Maîtrise du Bouclier
+* Rang 2: Robuste
+* Rang 2: Pratique des armures
+* Rang 3: Esquive et résistance ou Esquiver et répondre
+* Rang 4: Tour de Volonté
+* Rang 4: Expérimenté en armure
+* Rang 5: Rien que Défendre
+* Rang 6: Maître de la défense ou Portez-la bien
+
+**Intrusions du MJ:** Les boucliers se brisent lorsqu'ils sont touchés, tout comme les armes utilisées pour parer. Les sangles d'armure se brisent.
 
 -----
 
@@ -619,6 +668,28 @@ Vous pouvez extraire des images de rêves et leur donner vie dans le monde évei
 
 -----
 
+### Résiste Comme une Citadelle
+
+Votre armure, ainsi que votre taille, votre force, votre entraînement incroyable ou l'amélioration de votre machine, vous rendent difficile à déplacer ou à blesser.
+
+{{< hint info >}}
+Certains personnages qui Résiste Comme une Citadelle sont peut-être déjà des experts en armure. Ils peuvent choisir une capacité de Rang 1 différente au lieu de Pratique des armures.
+{{< /hint >}}
+
+* Rang 1: Pratique des armures
+* Rang 1: Défenseur expérimenté
+* Rang 2: Résistez aux éléments
+* Rang 3: Inamovible
+* Rang 3: Puissance améliorée supérieure ou Pratique de toutes les armes
+* Rang 4: Mur vivant
+* Rang 5: Robustesse
+* Rang 5: Maîtrise en Armure
+* Rang 6: Dégâts mortels ou Entraînement au bouclier
+
+**Intrusions du MJ:** L'armure est endommagée. Les ennemis de moindre taille conspirent de manière ingénieuse.
+
+-----
+
 ### Rôde dans les Bas Quartiers
 
 Vous avancez sans être vu, volant les riches pour parvenir à vos fins.
@@ -742,22 +813,6 @@ Vous avez un sens psychique qui vous permet de voir ce que les autres ne peuvent
 * Rang 6: Projection mentale ou Conscience totale
 
 **Intrusions du MJ:** Certains secrets sont trop terribles pour être connus.
-
------
-
-### Brandishes an Exotic Shield
-
-You deploy an amazing shield of pure force that provides protection and some offensive options.
-
-* Rang 1: Force Field Shield
-* Rang 1: Force Bash
-* Rang 2: Enveloping Shield
-* Rang 3: Healing Pulse ou Throw Force Shield
-* Rang 4: Energized Shield
-* Rang 5: Force Wall
-* Rang 6: Bouncing Shield ou Shield Burst
-
-**Intrusions du MJ:** The shield is temporarily lost. A foe temporarily ends up with the shield.
 
 -----
 
@@ -912,22 +967,6 @@ You can manipulate shadow and "dark" matter.
 * Rang 6: Dark Matter Structure ou Embrace the Night
 
 **Intrusions du MJ:** Dark matter skulks away as if possessed by a mind of its own.
-
------
-
-### Defends the Gate
-
-Everyone wants you on their side when it comes to a fight because nothing gets by you.
-
-* Rang 1: Fortified Position
-* Rang 1: Rally to Me
-* Rang 2: Mind for Might
-* Rang 3: Fortification Builder ou Détourner les attaques
-* Rang 4: Puissance améliorée supérieure
-* Rang 5: Reinforcing Field
-* Rang 6: Generate Force Field ou Attaque Etourdissante
-
-**Intrusions du MJ:** A strategically important structure collapses. The enemy attacks from an unexpected direction.
 
 -----
 
@@ -1363,23 +1402,6 @@ When it's just you, your spacesuit, and the panorama of stars wheeling out forev
 
 -----
 
-### Masters Defense
-
-You use protective equipment and practiced techniques to avoid becoming hurt in a fight.
-
-* Rang 1: Shield Master
-* Rang 2: Sturdy
-* Rang 2: Practiced in Armor
-* Rang 3: Dodge and Resist ou Dodge and Respond
-* Rang 4: Tower of Will
-* Rang 4: Experienced in Armor
-* Rang 5: Nothing but Defend
-* Rang 6: Defense Master ou Wear It Well
-
-**Intrusions du MJ:** Shields break when hit, as do weapons used to parry. Armor straps break.
-
------
-
 ### Metes Out Justice
 
 You right wrongs, protect the innocent, and punish the guilty.
@@ -1624,7 +1646,7 @@ Many superheroes can fly, and some even have wings. You can use your wings for m
 * Rang 3: Acrobatic Attack ou Flying Companion
 * Rang 4: Difficile à toucher
 * Rang 5: Up to Speed
-* Rang 6: Hard Target ou Defense Master
+* Rang 6: Hard Target ou Maître de la défense
 
 **Intrusions du MJ:** A wing gets hurt ou restrained, causing the character to fall. Flying high makes the character an obvious target for an unexpected foe.
 
@@ -1643,28 +1665,6 @@ You're a master of deduction, using evidence to find the answer.
 * Rang 6: Seize the Initiative ou Compétence en Défense Supérieure
 
 **Intrusions du MJ:** Evidence disappears, red herrings confuse, and witnesses lie. Initial research can be faulty.
-
------
-
-### Stands Like a Bastion
-
-Your armor, along with your size, strength, incredible training, ou machine enhancement, makes you difficult to move ou hurt.
-
-{{< hint info >}}
-Some characters who Stand Like a Bastion might already be experts in armor. They can choose a different Rang 1 ability instead of Practiced in Armor.
-{{< /hint >}}
-
-* Rang 1: Practiced in Armor
-* Rang 1: Experienced Defender
-* Rang 2: Resist the Elements
-* Rang 3: Unmovable
-* Rang 3: Puissance améliorée supérieure ou Practiced With All Weapons
-* Rang 4: Living Wall
-* Rang 5: Hardiness
-* Rang 5: Mastery in Armor
-* Rang 6: Dégâts mortels ou Shield Training
-
-**Intrusions du MJ:** Armor is damaged. Small foes conspire in ingenious ways.
 
 -----
 
@@ -1811,7 +1811,7 @@ You bend light and manipulate beams of force for offense and defense.
 * Rang 3: Force Field Barrier ou Multi-Vanish
 * Rang 4: Invisibility
 * Rang 5: Champ défensif
-* Rang 6: Concussion ou Generate Force Field
+* Rang 6: Concussion ou Générer un champ de force
 
 **Intrusions du MJ:** Invisibility partially fades, revealing the character’s presence. A force field is pierced by an unusual ou unexpected attack.
 
@@ -2465,15 +2465,15 @@ Some tank combat foci involve a physical transformation that grants additional p
 The following are examples and not meant to provide a complete list of all possible foci in this category.
 
 * Abides in Stone
-* Brandishes an Exotic Shield
-* Defends the Gate
+* Brandit un Bouclier Exotique
+* Garde le Passage
 * Fuses Flesh and Steel
 * Grows to Towering Heights
 * Howls at the Moon
 * Lives in the Wilderness
-* Masters Defense
+* Maîtrise la Défense
 * Never Says Die
-* Stands Like a Bastion
+* Résiste Comme une Citadelle
 
 **Ability Selection Guidelines**
 
@@ -2517,7 +2517,7 @@ devices, learning powerful magic spells, uncovering forbidden secrets, ou someth
 
 * Lower-Rang ability: choose any Rang 1 replacement ability, above.
 * Compétence en Défense Supérieure
-* Practiced With All Weapons
+* Pratique de toutes les armes
 * Compétence avec les attaques
 
 ### Rang 3

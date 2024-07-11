@@ -181,7 +181,7 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 
 * Amazing Effort
 * Capable Warrior
-* Experienced Defender
+* Défenseur expérimenté
 * Feint
 * Increased Effects
 * Momentum
@@ -539,7 +539,7 @@ Explorateurs de Premier Rang ont les capacités suivantes:
 <--->
 * Physical Skills
 * Practiced in Armor
-* Practiced With All Weapons
+* Pratique de toutes les armes
 * Surging Confidence
 * Trained Without Armor
 {{< /columns >}}
@@ -908,7 +908,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Combattant:** Les combattants sont presque toujours du type Guerrier, mais certains sont des Explorateurs. Un combattant typique a probablement une motivation comme Maîtrise l'Armement or Porte une Arme Enchantée\*. Pour des options supplémentaires basées sur le choix d'un rôle de combat spécifique, voir ce qui suit:
 
-* **Guerrier (guardian):** Brandishes an Exotic Shield, Defends the Gate, Masters Defense, Ne S'Avoue Jamais Vaincu, Stands Like a Bastion.
+* **Guerrier (guardien):** Brandit un Bouclier Exotique, Garde le Passage, Maîtrise la Défense, Ne S'Avoue Jamais Vaincu, Résiste Comme une Citadelle.
 * **Guerrier (melee):** Fights Dirty, Fights With Panache, Looks For Trouble, N'a pas Besoin d'Arme, Wields Two Weapons at Once
 * **Guerrier (ranged):** Is Licensed to Carry, Throws With Deadly Accuracy
 
@@ -920,7 +920,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Moine or Spécialiste des Arts Martiaux:** En tant que maîtres du combat à mains nues, les moines sont généralement des Guerriers ou des Explorateurs (avec peut-être une Préférence de combat). Les Motivations appropriées sont les Fights With Panache, N'a pas Besoin d'Arme, and Throws With Deadly Accuracy.
 
-**Paladin/Chevalier/Parangon:** En tant que guerriers sacrés mêlant prouesses martiales et magie, les paladins sont généralement des Guerriers ou des Explorateurs (dans les deux cas, peut-être modifiés avec la Préférence magique). Les bonnes Motivations pour ce type de personnage incluent Defends the Gate, Défend les Faibles, Metes Out Justice, Slays Monsters, and Porte une Arme Enchantée\*.
+**Paladin/Chevalier/Parangon:** En tant que guerriers sacrés mêlant prouesses martiales et magie, les paladins sont généralement des Guerriers ou des Explorateurs (dans les deux cas, peut-être modifiés avec la Préférence magique). Les bonnes Motivations pour ce type de personnage incluent Garde le Passage, Défend les Faibles, Metes Out Justice, Slays Monsters, and Porte une Arme Enchantée\*.
 
 **Ranger:** Les Rangers mélangent combat et compétences, et sont donc généralement des Explorateurs (peut-être avec une Préférence de combat) ou des Guerriers (peut-être avec une Préférence de compétences et de connaissances). Les Motivations appropriées sont Contrôle les Bêtes Sauvages, Hunts, Vit dans la Nature Sauvage, Slays Monsters, Throws With Deadly Accuracy, et Wields Two Weapons at Once.
 
