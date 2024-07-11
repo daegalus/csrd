@@ -109,6 +109,25 @@ Si vous souhaitez aller encore plus loin, vous pouvez déterminer d'où viennent
 
 La description complète de chaque capacité de concentration répertoriée dans cette section se trouve dans le chapitre Capacités, qui contient des descriptions du type, de la saveur et des capacités de concentration dans un seul et vaste catalogue.
 
+### A le Droit de Porter une Arme à Feu
+
+Vous portez une arme à feu et vous savez comment l'utiliser lors d'un combat.
+
+{{< hint info >}}
+Bien que Is Licensed to Carry soit conçu pour les armes à feu modernes, il pourrait s'appliquer aux armes à silex, aux blasters laser futuristes ou à d'autres armes à distance.
+{{< /hint >}}
+
+* Rang 1: Tireur
+* Rang 1: Pratique des armes à feu
+* Rang 2: Tir prudent
+* Rang 3: Tireur entraîné ou Augmente les dommages
+* Rang 4: Tir Rapide
+* Rang 5: Tirs en éventail
+* Rang 6: Tir Spécial ou Dégâts mortels
+
+**Intrusions du MJ:** Ratés ou confiture ! L'attaque échoue et l'action est perdue, et une action supplémentaire est nécessaire pour résoudre le problème.
+-----
+
 ### Absorbe l'Energie
 
 Vous pouvez exploiter l’énergie cinétique et la transformer en d’autres types d’énergie.
@@ -485,6 +504,22 @@ Vous pouvez créer de la lumière, la sculpter, la détourner de vous ou la rass
 * Rang 6: Lumière vivante ou Champ défensif
 
 **Intrusions du MJ:** Les alliés sont accidentellement éblouis ou aveuglés. Des éclairs lumineux attirent les gardes.
+
+-----
+
+### Lance avec une Précision Mortelle
+
+Tout ce qui quitte votre main va exactement là où vous souhaitez qu'il aille et à la portée et à la vitesse nécessaires pour produire l'impact parfait.
+
+* Rang 1: Précision
+* Rang 2: Visée prudente
+* Rang 3: Lancer rapide ou Compétence en Défense Supérieure
+* Rang 4: Tout est une arme
+* Rang 4: Lanceur spécialisé
+* Rang 5: Tourbillon de lancers
+* Rang 6: Dégâts mortels ou Maîtrise de la défense
+
+**Intrusions du MJ:** Les attaques manquées touchent la mauvaise cible. Les ricochets peuvent être dangereux. Les armes improvisées se brisent.
 
 -----
 
@@ -1329,26 +1364,6 @@ You're a celebrity and most people adore you.
 
 -----
 
-### Is Licensed to Carry
-
-You carry a gun and you know how to use it in a fight.
-
-{{< hint info >}}
-Although Is Licensed to Carry is designed with modern firearms in mind, it could apply to flintlock weapons, futuristic laser blasters, ou other ranged weapons.
-{{< /hint >}}
-
-* Rang 1: Gunner
-* Rang 1: Practiced With Guns
-* Rang 2: Careful Shot
-* Rang 3: Trained Gunner ou Augmente les dommages
-* Rang 4: Snap Shot
-* Rang 5: Arc Spray
-* Rang 6: Special Shot ou Dégâts mortels
-
-**Intrusions du MJ:** Misfire ou jam! The attack fails and the action is lost, plus an additional action is needed to fix the problem.
-
------
-
 ### Is Wanted by the Law
 
 "WANTED, DEAD ou ALIVE" posters (or their equivalent) have appeared featuring your face. It's up to you whether it's a mistake that snowballed out of control ou you actually would kill someone just for looking at you.
@@ -1716,22 +1731,6 @@ You use your organic brain like a computer, interfacing "wirelessly" with any el
 * Rang 6: Control Machine ou Improved Machine Companion
 
 **Intrusions du MJ:** The machine malfunctions ou acts unpredictably.
-
------
-
-### Throws With Deadly Accuracy
-
-Everything that leaves your hand goes exactly where you'd like it to go and at the range and speed to make the perfect impact.
-
-* Rang 1: Precision
-* Rang 2: Careful Aim
-* Rang 3: Quick Throw ou Compétence en Défense Supérieure
-* Rang 4: Everything Is a Weapon
-* Rang 4: Specialized Throwing
-* Rang 5: Whirlwind of Throws
-* Rang 6: Dégâts mortels ou Mastery With Defense
-
-**Intrusions du MJ:** Missed attacks strike the wrong target. Ricochets can be dangerous. Improvised weapons break.
 
 -----
 
@@ -2371,7 +2370,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Performs Feats of Strength
 * Rages
 * Slays Monsters
-* Throws With Deadly Accuracy
+* Lance avec une Précision Mortelle
 * Se Bat avec Deux Armes à la fois
 
 **Ability Selection Guidelines**

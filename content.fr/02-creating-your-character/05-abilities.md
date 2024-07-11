@@ -1767,8 +1767,6 @@ Si vous vous harmonisez à une arme différente, inventez une histoire expliquan
 
 **Armure électrique** (4 points d'Intelligence) : Lorsque vous le souhaitez, l'électricité crépite sur votre corps pendant dix minutes, vous accordant +1 d'armure. Lorsque vous êtes électrifié, vous disposez d'une armure supplémentaire de +2 contre les dégâts électriques spécifiquement, et vous infligez 2 points de dégâts à toute créature qui vous touche ou vous attaque avec une arme de mêlée conductrice d'électricité. Facilitateur.
 
-**Artilleur entraîné**: vous pouvez choisir entre deux avantages. Soit vous êtes entraîné au maniement des armes à feu, soit vous possédez la capacité Pulvérisation (qui coûte 2 points de vitesse) : Si une arme a la capacité de tirer des coups rapides sans rechargement (généralement appelée arme à tir rapide, comme un pistolet automatique), vous pouvez pulvériser plusieurs tirs autour de votre cible pour augmenter les chances de toucher. Ce mouvement utilise 1d6 + 1 cartouches de munitions (ou toutes les munitions de l'arme, si elle en contient moins que le nombre obtenu). Le jet d'attaque est allégé. Si l'attaque réussit, elle inflige 1 point de dégâts de moins que la normale. Facilitateur (être formé à l'utilisation des armes à feu) ou action (Pulvérisation).
-
 **Artisan**: Vous êtes entraîné à la fabrication de deux types d'objets. Facilitateur.
 
 **Artisan de Poisons**: Vous êtes formé à la fabrication, à la détection, à l’identification et à la résistance aux poisons. Votre fabrication de poison vous a conféré une certaine immunité contre les poisons ; vous avez +5 d'armure qui s'applique spécifiquement aux dégâts de poison. Facilitateur.
@@ -3820,6 +3818,8 @@ Facilitateur.
 **Tirer une conclusion** (3 points d'Intelligence) : Après une observation et une enquête minutieuses (interroger un ou plusieurs PNJ sur un sujet, fouiller une zone ou un dossier, etc.) d'une durée de quelques minutes, vous pouvez apprendre un fait pertinent. Cette capacité est une tâche de difficulté Intelligence 3. Chaque fois que vous utilisez cette capacité, la tâche est entravée par une étape supplémentaire. La difficulté revient à 3 après dix heures de repos. Action.
 
 **Tireur** : Vous infligez 1 point de dégâts supplémentaire avec les armes à feu. Facilitateur.
+
+**Tireur entraîné**: vous pouvez choisir entre deux avantages. Soit vous êtes entraîné au maniement des armes à feu, soit vous possédez la capacité Pulvérisation (qui coûte 2 points de vitesse) : Si une arme a la capacité de tirer des coups rapides sans rechargement (généralement appelée arme à tir rapide, comme un pistolet automatique), vous pouvez pulvériser plusieurs tirs autour de votre cible pour augmenter les chances de toucher. Ce mouvement utilise 1d6 + 1 cartouches de munitions (ou toutes les munitions de l'arme, si elle en contient moins que le nombre obtenu). Le jet d'attaque est allégé. Si l'attaque réussit, elle inflige 1 point de dégâts de moins que la normale. Facilitateur (être formé à l'utilisation des armes à feu) ou action (Pulvérisation).
 
 **Tirs en éventail** (3 points de Vitesse): Si une arme a la capacité de tirer des coups rapides sans recharger (généralement appelée arme à tir rapide, comme une arbalète à manivelle), vous pouvez tirer avec votre arme sur jusqu'à trois cibles (toutes à côté de les uns les autres) en même temps. Effectuez un jet d'attaque séparé contre chaque cible. Chaque attaque est gênée. Action.
 

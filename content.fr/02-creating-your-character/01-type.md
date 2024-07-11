@@ -200,8 +200,8 @@ Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajoute
 * Improved Success
 * Jump Attack
 * Maîtrise en Armure
-* Mastery With Attacks
-* Mastery With Defense
+* Maîtrise des attaques
+* Maîtrise de la défense
 * Parry
 
 {{< hint info >}}
@@ -618,7 +618,7 @@ Choisissez trois Capacités ci-dessous (ou d'un rang inférieur) à ajouter à v
 * Group Friendship
 * Hard to Kill
 * Jump Attack
-* Mastery With Defense
+* Maîtrise de la défense
 * Parry
 * Physically Gifted
 * Take Command
@@ -633,7 +633,7 @@ Choisissez trois Capacités ci-dessous (ou d'un rang inférieur) à ajouter à v
 * Again and Again
 * Inspire Coordinated Actions
 * Maîtrise en Armure
-* Mastery With Attacks
+* Maîtrise des attaques
 * Negate Danger
 * Share Defense
 * Spin Attack
@@ -909,20 +909,20 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 **Combattant:** Les combattants sont presque toujours du type Guerrier, mais certains sont des Explorateurs. Un combattant typique a probablement une motivation comme Maîtrise l'Armement or Porte une Arme Enchantée\*. Pour des options supplémentaires basées sur le choix d'un rôle de combat spécifique, voir ce qui suit:
 
 * **Guerrier (guardien):** Brandit un Bouclier Exotique, Garde le Passage, Maîtrise la Défense, Ne S'Avoue Jamais Vaincu, Résiste Comme une Citadelle.
-* **Guerrier (mélée):** Se Bat Sans Respecter de Règle, Fights With Panache, Looks For Trouble, N'a pas Besoin d'Arme, Wields Two Weapons at Once
-* **Guerrier (ranged):** Is Licensed to Carry, Throws With Deadly Accuracy
+* **Guerrier (mélée):** Se Bat Sans Respecter de Règle, Combat avec Panache, Cherche les Ennuis, N'a pas Besoin d'Arme, Se Bat avec Deux Armes à la fois
+* **Guerrier (à distance):** A le Droit de Porter une Arme à Feu, Lance avec une Précision Mortelle
 
-**Pistolero:** Un pistolero est probablemebt un Guerrier ou un Explorateur, et certains peuvent être des Emissaires avec une Préférence de Combat. ALes Motivations appropriées sont Is Licensed to Carry, Maîtrise l'Armement, Sailed Beneath the Jolly Roger, et Porte une Arme Enchantée\*.
+**Pistolero/Pirate:** Un pistolero est probablement un Guerrier ou un Explorateur, et certains peuvent être des Emissaires avec une Préférence de Combat. Les Motivations appropriées sont A le Droit de Porter une Arme à Feu, Maîtrise l'Armement, Sailed Beneath the Jolly Roger, et Porte une Arme Enchantée\*.
 
 **Inquisiteur:** Les inquisiteurs sont généralement des Explorateurs, des Emissaires ou des Guerriers, selon qu'ils ont tendance à posséder de nombreuses compétences, à être doués pour interagir avec les gens ou à combattre. Les Motivations appropriées sont Se Cache dans les Ombres, Metes Out Justice, and Operates Undercover.
 
 **Marchant:** Un Explorateur spécialisé dans les interactions sociales, comme Divertit ou Leads, ferait un bon personnage marchand, mais le choix le plus évident serait un Emissaire.
 
-**Moine or Spécialiste des Arts Martiaux:** En tant que maîtres du combat à mains nues, les moines sont généralement des Guerriers ou des Explorateurs (avec peut-être une Préférence de combat). Les Motivations appropriées sont les Fights With Panache, N'a pas Besoin d'Arme, and Throws With Deadly Accuracy.
+**Moine or Spécialiste des Arts Martiaux:** En tant que maîtres du combat à mains nues, les moines sont généralement des Guerriers ou des Explorateurs (avec peut-être une Préférence de combat). Les Motivations appropriées sont les Combat avec Panache, N'a pas Besoin d'Arme, and Lance avec une Précision Mortelle.
 
 **Paladin/Chevalier/Parangon:** En tant que guerriers sacrés mêlant prouesses martiales et magie, les paladins sont généralement des Guerriers ou des Explorateurs (dans les deux cas, peut-être modifiés avec la Préférence magique). Les bonnes Motivations pour ce type de personnage incluent Garde le Passage, Défend les Faibles, Metes Out Justice, Slays Monsters, and Porte une Arme Enchantée\*.
 
-**Ranger:** Les Rangers mélangent combat et compétences, et sont donc généralement des Explorateurs (peut-être avec une Préférence de combat) ou des Guerriers (peut-être avec une Préférence de compétences et de connaissances). Les Motivations appropriées sont Contrôle les Bêtes Sauvages, Hunts, Vit dans la Nature Sauvage, Slays Monsters, Throws With Deadly Accuracy, et Wields Two Weapons at Once.
+**Ranger:** Les Rangers mélangent combat et compétences, et sont donc généralement des Explorateurs (peut-être avec une Préférence de combat) ou des Guerriers (peut-être avec une Préférence de compétences et de connaissances). Les Motivations appropriées sont Contrôle les Bêtes Sauvages, Hunts, Vit dans la Nature Sauvage, Slays Monsters, Lance avec une Précision Mortelle, et Se Bat avec Deux Armes à la fois.
 
 **Roublard ou Voleur:** La plupart des personnages de type voleur sont des Explorateurs, mais un voleur axé sur l'interaction pourrait facilement être un Emissaire (peut-être avec une Préférence furtive). Les Motivations appropriées sont Explores Dark Places, Se Bat Sans Respecter de Règle, Hunts, Se Cache dans les Ombres, Is Wanted by the Law, Bouge comme un Chat, Sailed Beneath the Jolly Roger, and Rôde dans les Bas Quartiers.
 
@@ -938,7 +938,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Escroc ou Arnaqueur:** Ces gens intelligents sont généralement des Emissaires, bien qu'ils puissent être des Adeptes s'ils sont très magiques (ou des Explorateurs s'ils ne sont pas magiques du tout). Les choix de Motivation incluent Se Bat Sans Respecter de Règle, Rôde dans les Bas Quartiers ou Divertit.
 
-**Guerrier-Mage:** Pour ces personnages inhabituels qui utilisent un mélange d'attaques avec des armes et de sorts, incarnez un Guerrier à Préférence magique ou un expert à Préférence de combat ou de magie. Les Motivations appropriées incluent Fights With Panache, Maîtrise l'Armement, and Porte une Arme Enchantée\*.
+**Guerrier-Mage:** Pour ces personnages inhabituels qui utilisent un mélange d'attaques avec des armes et de sorts, incarnez un Guerrier à Préférence magique ou un expert à Préférence de combat ou de magie. Les Motivations appropriées incluent Combat avec Panache, Maîtrise l'Armement, and Porte une Arme Enchantée\*.
 
 **Démoniste ou Occultiste:** Pour les besoins de cette liste, les Démoniste et les Occultiste sont des mages qui acquièrent des pouvoirs magiques grâce aux pactes qu'ils concluent avec des entités d'un autre monde. La plupart des démonistes sont des Adeptes, mais les Explorateurs et les Emissaires (peut-être avec une Préférence magique) peuvent être des options intéressantes. Les Motivations interressantes pour un occultiste incluent Dances With Dark Matter, Keeps a Magic Ally, Maîtrise l'Essaim, Separates Mind From Body, and Was Foretold, mais aussi (en fonction de l'entité et du pacte) la plupart des Motivations des Sorciers et des Magiciens fonctionnent tout aussi bien.
 
