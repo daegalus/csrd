@@ -281,6 +281,23 @@ Fervent disciple d’un être divin, vous canalisez une partie du pouvoir de vot
 
 -----
 
+### Chasse
+
+Vous êtes un chasseur traquant qui excelle à abattre la proie que vous avez choisie.
+
+* Rang 1: Attaque avec style
+* Rang 1: Pisteur
+* Rang 2: Proie
+* Rang 2: Furtif
+* Rang 3: Combats de Horde ou Court et Attrape
+* Rang 4: Attaque surprise
+* Rang 5: Volonté du Chasseur
+* Rang 6: Compétence en Attaque Supérieure ou Multiples Proies
+
+**Intrusions du MJ:** La Proie remarque le personnage. La carrière n'est pas aussi vulnérable qu'il y paraît.
+
+-----
+
 ### Cherche les Ennuis
 
 Vous êtes un bagarreur et aimez les bons combats.
@@ -412,6 +429,22 @@ Vous vous donnez en spectacle principalement pour divertir les autres.
 * Rang 6: Maître du spectacle ou Performance vindicative
 
 **Intrusions du MJ:** Le public est agacé ou offensé. Les instruments de musique se cassent. Les peintures sèchent dans leurs pots. Les paroles d'un poème ou d'une chanson sont oubliées.
+
+-----
+
+### Explore des Endroits Sombres
+
+Vous êtes l'archétype du chasseur de trésors, du charognard et du chercheur d'objets perdus.
+
+* Rang 1: Explorateur Confirmé
+* Rang 2: Infiltrateur Confirmé
+* Rang 2: Yeux ajustés
+* Rang 3: Frappe nocturne ou Client Fuyant
+* Rang 4: Résilience durement gagnée
+* Rang 5: Explorateur des ténèbres
+* Rang 6: Attaque aveuglante ou Fussionne avec les Ténèbres
+
+**Intrusions du MJ:** Les biens tombent des poches ou des sacs dans le noir ; les cartes se perdent ; les informations obtenues n’incluent pas un détail important.
 
 -----
 
@@ -1277,22 +1310,6 @@ A bit translucent, you're slightly out of phase and can move through solid objec
 
 -----
 
-### Explores Dark Places
-
-You're the archetypal treasure hunter, scavenger, and finder of lost things.
-
-* Rang 1: Superb Explorer
-* Rang 2: Infiltrateur Confirmé
-* Rang 2: Eyes Adjusted
-* Rang 3: Nightstrike ou Slippery Customer
-* Rang 4: Hard-Won Resilience
-* Rang 5: Dark Explorer
-* Rang 6: Blinding Attack ou Embraced by Darkness
-
-**Intrusions du MJ:** Possessions fall out of pockets ou bags in the dark; maps get lost; information gained fails to include an important detail.
-
------
-
 ### Flies Faster Than a Bullet
 
 You can fly, and you're superstrong, hard to hurt, and fast too. Is there anything you can't do?
@@ -1388,23 +1405,6 @@ You can change your appearance to look like anyone else.
 * Rang 6: Divide Your Mind ou Infer Thoughts
 
 **Intrusions du MJ:** Part of the disguise slips. An NPJ thinks the disguised character is someone they know very well.
-
------
-
-### Hunts
-
-You are a stalking hunter who excels at bringing down your selected quarry.
-
-* Rang 1: Attaque avec style
-* Rang 1: Pisteur
-* Rang 2: Proie
-* Rang 2: Sneak
-* Rang 3: Horde Fighting ou Sprint and Grab
-* Rang 4: Attaque surprise
-* Rang 5: Hunter's Drive
-* Rang 6: Compétence en Attaque Supérieure ou Multiples Proies
-
-**Intrusions du MJ:** The quarry notices the character. The quarry isn't as vulnerable as it seemed.
 
 -----
 
@@ -2165,7 +2165,7 @@ a compass would be basic equipment, while someone who uses psychic abilities mig
 
 The following are examples and not meant to provide a complete list of all possible foci in this category.
 
-* Explores Dark Places
+* Explore des Endroits Sombres
 * Infiltrates
 * Opère sous Couverture
 * Pilots Starcraft
@@ -2361,7 +2361,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Battles Robots
 * Se Bat Sans Respecter de Règle
 * Combat avec Panache
-* Hunts
+* Chasse
 * Is Licensed to Carry
 * Cherche les Ennuis
 * Masters Weaponry

@@ -792,7 +792,7 @@ Augmentent votre mouvement (comme en augmentant votre Vitesse de mouvement de ba
 * Aussi Rapide que l'Eclair
 * Chambre des rêves
 * Chariot à vent
-* Embrassé par les Ténèbres
+* Fussionne avec les Ténèbres
 * Juggernaut
 * Lumière vivante
 * Marche impossible
@@ -2493,8 +2493,6 @@ Vous ne pouvez probablement pas utiliser Déguisement Other pour déguiser une s
 
 **Embrassez la nuit** (7+ points d'Intelligence) : Vous façonnez une façade vraiment horrible d'une créature à partir de rubans tourbillonnants de matière noire et la lancez sur vos ennemis à longue portée. À chaque tour, vous pouvez attaquer une cible à longue portée en utilisant la création comme arme. Lorsque vous attaquez, la créature insère de fines vrilles d’ombre dans les yeux et le cerveau de la cible. La cible subit 3 points de dégâts d'Intelligence (ignore l'Armure) et est étourdie pendant un round de sorte qu'elle perd son prochain tour. Alternativement, vous pouvez amener la créature à entreprendre d'autres actions, à condition que vous soyez capable de la voir et de la contrôler mentalement comme votre action. La créature se disperse après environ une minute. Action à initier.
 
-**Embrassé par les Ténèbres** (6 points d'Intelligence) : Durant l'heure suivante, vous adoptez certaines caractéristiques d'une ombre grâce à une adaptation fondamentale de votre chair ou d'un appareil que vous avez gardé secret. Votre apparence est une silhouette sombre. Lorsque vous appliquez un niveau d'effort à des tâches de furtivité, vous obtenez un niveau d'effort gratuit sur la tâche. Pendant ce temps, vous pouvez vous déplacer dans les airs à une vitesse d'une courte distance par round, et vous pouvez traverser des barrières solides (même celles qui sont scellées pour empêcher le passage de la lumière ou de l'ombre), mais pas les barrières énergétiques, à un rythme réduit. taux de 1 pied (30 cm) par tour. Vous pouvez percevoir en passant à travers une barrière ou un objet, ce qui vous permet de regarder à travers les murs. En tant qu’ombre, vous ne pouvez pas affecter ou être affecté par la matière normale. De même, vous ne pouvez pas attaquer, toucher ou affecter quoi que ce soit. Cependant, les attaques et les effets qui dépendent de la lumière peuvent vous affecter, et des éclats de lumière soudains peuvent potentiellement vous faire perdre votre prochain tour. Action à initier.
-
 **Embrouiller** (1 point d'Intelligence) : lorsque vous parlez avec une créature intelligente qui peut vous comprendre et qui n'est pas hostile, vous convainquez cette créature d'entreprendre une action raisonnable au tour suivant. Une action raisonnable doit être convenue par le MJ ; cela ne doit pas mettre la créature ou ses alliés en danger évident ou être totalement hors de son caractère. Action.
 
 **Embrouiller les Mémoires personnelles** (3 points d'intelligence) : Si vous interagissez avec ou étudiez une cible pendant au moins un tour, vous obtenez une idée du fonctionnement de son esprit, que vous pouvez utiliser contre elle de la manière la plus directe possible. Vous pouvez tenter de le confondre et lui faire oublier ce qui vient de se passer. En cas de réussite, vous effacez jusqu'aux cinq dernières minutes de sa mémoire. Action à préparer ; action à initier.
@@ -2741,6 +2739,8 @@ Etant aussi grande, votre forme de bête bénéficie des bonus supplémentaires 
 **Furtif**: vous êtes entraîné aux tâches de furtivité et d'initiative. Facilitateur.
 
 **Fusion** : Vous pouvez fusionner vos chiffres et artefacts manifestes avec votre corps. Ces appareils fusionnés fonctionnent comme s’ils étaient d’un niveau supérieur. Facilitateur.
+
+**Fussionne avec les Ténèbres** (6 points d'Intelligence) : Durant l'heure suivante, vous adoptez certaines caractéristiques d'une ombre grâce à une adaptation fondamentale de votre chair ou d'un appareil que vous avez gardé secret. Votre apparence est une silhouette sombre. Lorsque vous appliquez un niveau d'effort à des tâches de furtivité, vous obtenez un niveau d'effort gratuit sur la tâche. Pendant ce temps, vous pouvez vous déplacer dans les airs à une vitesse d'une courte distance par round, et vous pouvez traverser des barrières solides (même celles qui sont scellées pour empêcher le passage de la lumière ou de l'ombre), mais pas les barrières énergétiques, à un rythme réduit. taux de 1 pied (30 cm) par tour. Vous pouvez percevoir en passant à travers une barrière ou un objet, ce qui vous permet de regarder à travers les murs. En tant qu’ombre, vous ne pouvez pas affecter ou être affecté par la matière normale. De même, vous ne pouvez pas attaquer, toucher ou affecter quoi que ce soit. Cependant, les attaques et les effets qui dépendent de la lumière peuvent vous affecter, et des éclats de lumière soudains peuvent potentiellement vous faire perdre votre prochain tour. Action à initier.
 
 **Fustiger** (4 points d'Intelligence) : Vous intimidez tellement tout adversaire à longue portée qui comprend la parole (même si ce n'est pas votre langue) qu'il perd sa prochaine action et que toutes ses autres actions sont gênées pendant une minute. Chaque fois que vous tentez cette capacité contre la même cible, vous devez appliquer un niveau d'effort de plus que celui appliqué lors de la tentative précédente. Action.
 
