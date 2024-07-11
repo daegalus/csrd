@@ -504,6 +504,22 @@ Vous n’abandonnez jamais, vous pouvez ignorer les coups et revenir toujours po
 
 -----
 
+### Parle au Nom de la Terre
+
+Votre connexion spirituelle avec la nature et l’environnement vous confère des capacités mystiques.
+
+* Rang 1: Graines de fureur
+* Rang 1: Connaissances en milieu sauvage
+* Rang 2: Feuillage agrippant
+* Rang 3: Apaiser la Bête Sauvage ou Communication
+* Rang 4: Carnivore sous la Lune
+* Rang 5: Eruption d'insectes
+* Rang 6: Appeler la tempête ou Tremblement de terre
+
+**Intrusions du MJ:** Une créature naturelle (mais dangereuse) blessée est découverte. Quelqu'un braconne des animaux sauvages pour leur peau, laissant les carcasses pourrir. Un arbre tombe dans la forêt, un des derniers sureaux.
+
+-----
+
 ### Porte un Eclat de Glace
 
 Vous maîtrisez la puissance hivernale du froid et de la glace.
@@ -1597,22 +1613,6 @@ You're a master of deduction, using evidence to find the answer.
 
 -----
 
-### Speaks for the Land
-
-Your spiritual connection to nature and the environment grants you mystical abilities.
-
-* Rang 1: Seeds of Fury
-* Rang 1: Wilderness Lore
-* Rang 2: Grasping Foliage
-* Rang 3: Apaiser la Bête Sauvage ou Communication
-* Rang 4: Moon Shape
-* Rang 5: Insect Eruption
-* Rang 6: Call the Storm ou Tremblement de terre
-
-**Intrusions du MJ:** An injured natural (but dangerous) creature is discovered. Someone's poaching wildlife for their skins, leaving the carcasses to rot. A tree falls in the forest, one of the last elder trees.
-
------
-
 ### Stands Like a Bastion
 
 Your armor, along with your size, strength, incredible training, ou machine enhancement, makes you difficult to move ou hurt.
@@ -2268,7 +2268,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Emerged From the Obelisk
 * Flies Faster Than a Bullet
 * Masters Spells
-* Speaks for the Land
+* Parle au Nom de la Terre
 
 **Ability Selection Guidelines**
 
