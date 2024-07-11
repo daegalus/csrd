@@ -929,9 +929,9 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 **Sorcier:** Les sorciers, dans notre cas, sont des mages qui ont des capacités magiques inhérentes (par opposition aux magiciens, qui étudient longuement et durement pour obtenir leurs sorts). La plupart des sorciers sont des Adeptes, mais certains sont des Explorateurs ou des Emissaires. La Motivation Maîtrise les Sortilèges donne à un sorcier typique un ensemble efficace de capacités, et la plupart des choix de Motivation fournissent un ensemble thématique de sorts. Pour les sorciers de diverses lignées magiques, consultez ce qui suit :
 
 * **Sorcier (ange):** Illumine avec Eclat, Canalise les Bénédictions Divines, Dispose d'un Allié Magique
-* **Sorcier (destiny):** Descends From Nobility, Was Foretold
+* **Sorcier (destinée):** A des Ascendants Nobles, A été Choisi(e)
 * **Sorcier (dragon):** Se Revêt d'un Halo de Feu, Façonne la Foudre, Porte un Eclat de Glace
-* **Sorcier (elemental):** Demeure dans la pierre, Se Revêt d'un Halo de Feu, Employs Magnetism, Va Comme le Vent, Façonne la Foudre, Porte un Eclat de Glace
+* **Sorcier (elemental):** Demeure dans la pierre, Se Revêt d'un Halo de Feu, Contrôle le Magnétisme, Va Comme le Vent, Façonne la Foudre, Porte un Eclat de Glace
 * **Sorcier (fey):** Prend une Forme Animale\*
 * **Sorcier (fiend):** Se Revêt d'un Halo de Feu, Dispose d'un Allié Magique
 * **Sorcier (undead):** S'Associe avec les Morts, Guide les Esprits
@@ -940,7 +940,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Guerrier-Mage:** Pour ces personnages inhabituels qui utilisent un mélange d'attaques avec des armes et de sorts, incarnez un Guerrier à Préférence magique ou un expert à Préférence de combat ou de magie. Les Motivations appropriées incluent Combat avec Panache, Maîtrise l'Armement, and Porte une Arme Enchantée\*.
 
-**Démoniste ou Occultiste:** Pour les besoins de cette liste, les Démoniste et les Occultiste sont des mages qui acquièrent des pouvoirs magiques grâce aux pactes qu'ils concluent avec des entités d'un autre monde. La plupart des démonistes sont des Adeptes, mais les Explorateurs et les Emissaires (peut-être avec une Préférence magique) peuvent être des options intéressantes. Les Motivations interressantes pour un occultiste incluent Dances With Dark Matter, Dispose d'un Allié Magique, Maîtrise l'Essaim, Separates Mind From Body, and Was Foretold, mais aussi (en fonction de l'entité et du pacte) la plupart des Motivations des Sorciers et des Magiciens fonctionnent tout aussi bien.
+**Démoniste ou Occultiste:** Pour les besoins de cette liste, les Démoniste et les Occultiste sont des mages qui acquièrent des pouvoirs magiques grâce aux pactes qu'ils concluent avec des entités d'un autre monde. La plupart des démonistes sont des Adeptes, mais les Explorateurs et les Emissaires (peut-être avec une Préférence magique) peuvent être des options intéressantes. Les Motivations interressantes pour un occultiste incluent Dances With Dark Matter, Dispose d'un Allié Magique, Maîtrise l'Essaim, Separates Mind From Body, and A été Choisi(e), mais aussi (en fonction de l'entité et du pacte) la plupart des Motivations des Sorciers et des Magiciens fonctionnent tout aussi bien.
 
 **Mage du Chaos:** Ceux qui utilisent la magie chaotique sont généralement des Adeptes, mais un amateur peut être un Explorateur ou un Emissaire une Préférence magique. La meilleure Motivation qui convient à ce thème est Uses Wild Magic\*.
 

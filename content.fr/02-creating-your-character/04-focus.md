@@ -381,6 +381,21 @@ Vous excellez dans la lutte contre les robots, les automates et les entités mac
 
 -----
 
+### Contrôle le Magnétisme
+
+Vous maîtrisez le métal et le pouvoir du magnétisme.
+
+* Rang 1: Déplacer le métal
+* Rang 2: Repousser le métal
+* Rang 3: Détruire le métal ou Tir Guidé
+* Rang 4: Champ magnétique
+* Rang 5: Commander le Métal
+* Rang 6: Diamagnétisme ou Lancer Objet en Fer
+
+**Intrusions du MJ:** Le métal se tord, se plie ou produit des éclats d'obus. Un manque de concentration peut faire glisser ou tomber quelque chose au mauvais moment.
+
+-----
+
 ### Contrôle les Bêtes Sauvages
 
 Votre capacité à communiquer et à diriger des bêtes est surnaturelle.
@@ -1297,21 +1312,6 @@ Your body, hard as crystal, gives you a suite of unique abilities, gained after 
 
 -----
 
-### Employs Magnetism
-
-You command metal and the power of magnetism.
-
-* Rang 1: Move Metal
-* Rang 2: Repel Metal
-* Rang 3: Destroy Metal ou Guide Bolt
-* Rang 4: Magnetic Field
-* Rang 5: Command Metal
-* Rang 6: Diamagnetism ou Iron Punch
-
-**Intrusions du MJ:** The metal twists, bends, ou produces shrapnel. A lapse in concentration might cause something to slip ou drop at just the wrong time.
-
------
-
 ### Exists in Two Places at Once
 
 You exist in two places at once.
@@ -2118,7 +2118,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Controls Gravity
 * Crafts Illusions
 * Crafts Unique Objects
-* Employs Magnetism
+* Contrôle le Magnétisme
 * Focuses Mind Over Matter
 
 **Ability Selection Guidelines**
