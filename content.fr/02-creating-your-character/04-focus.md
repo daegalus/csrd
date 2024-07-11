@@ -940,6 +940,28 @@ Vous pouvez envelopper votre corps de flammes, ce qui vous protège et nuit à v
 
 -----
 
+### Tue les Monstres
+
+Vous tuez des monstres.
+
+{{< hint info >}}
+Bien que manier une épée dans un environnement où les gens ne portent généralement pas de telles armes soit acceptable, vous pouvez modifier les capacités liées à l'épée de Tue les Monstres pour utiliser une arme différente, comme un pistolet à balles d'argent.
+{{< /hint >}}
+
+* Rang 1: Pratique des épées
+* Rang 1: Fléau des Monstres
+* Rang 1: Connaissance des monstres
+* Rang 2: Volonté de Légende
+* Rang 3: Epéiste entraîné
+* Rang 3: Fléau des Monstres Amélioré ou Détournement
+* Rang 4: Continuez le combat
+* Rang 5: Compétence en Attaque Supérieure (épées)
+* Rang 6: Meurtrier ou Fléau des Monstres Géants
+
+**Intrusions du MJ:** Le monstre a tendu un piège ou tendu une embuscade. Le monstre a des capacités jusqu'alors inconnues. La mère du monstre jure de se venger.
+
+-----
+
 ### Va Comme le Vent
 
 Vous pouvez vous déplacer si vite que vous devenez flou.
@@ -1645,28 +1667,6 @@ Robots and other living machines should be treated as creatures, not machines, f
 
 -----
 
-### Slays Monsters
-
-You kill monsters.
-
-{{< hint info >}}
-Although wielding a sword in a setting where people usually do not carry such weapons is fine, you can change the Slays Monsters sword-related abilities to use a different weapon, such as a gun with silver bullets.
-{{< /hint >}}
-
-* Rang 1: Practiced With Swords
-* Rang 1: Monster Bane
-* Rang 1: Monster Lore
-* Rang 2: Will of Legend
-* Rang 3: Trained Slayer
-* Rang 3: Improved Monster Bane ou Misdirect
-* Rang 4: Fight On
-* Rang 5: Compétence en Attaque Supérieure (swords)
-* Rang 6: Meurtrier ou Heroic Monster Bane
-
-**Intrusions du MJ:** The monster laid a trap ou set an ambush. The monster has previously undisclosed abilities. The monster's mother vows revenge.
-
------
-
 ### Soars On Amazing Wings
 
 Many superheroes can fly, and some even have wings. You can use your wings for movement, attacks, and defense.
@@ -2369,7 +2369,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Needs No Weapon
 * Performs Feats of Strength
 * Rages
-* Slays Monsters
+* Tue les Monstres
 * Lance avec une Précision Mortelle
 * Se Bat avec Deux Armes à la fois
 

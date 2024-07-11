@@ -46,7 +46,7 @@ Is Idolized by Millions
 Is Licensed to Carry/A le Droit de Porter une Arme à Feu
 Is Wanted by the Law
 Keeps a Magic Ally
-Leads
+Leads/Dirige
 Learns Quickly/Apprend Rapidement
 Lives in the Wilderness/Vit dans la Nature Sauvage
 Looks for Trouble/Cherche les Ennuis
@@ -78,7 +78,7 @@ Shepherds Spirits/Guide les Esprits
 Shreds the Walls of the World
 Shrinks To Minute Size
 Siphons Power
-Slays Monsters
+Slays Monsters/Tue les Monstres
 Soars On Amazing Wings
 Solves Mysteries
 Speaks for the Land/Parle au Nom de la Terre

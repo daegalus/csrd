@@ -2394,7 +2394,7 @@ Wilderness Lore/Connaissances en milieu sauvage: Vous êtes formé à la navigat
 ==
 Will of a Leader/Volonté d'un leader (9 points d'Intelligence) : Vous renforcez le dévouement et les capacités de vos alliés. Chaque allié à portée immédiate gagne +1 Edge pour une statistique de son choix pendant une heure. Vous bénéficiez également de cet avantage pour une statistique de votre choix. Action.
 ==
-Will of a Legend/Volonté de Légende : Vous êtes immunisé contre les attaques qui pourraient captiver, hypnotiser, charmer ou autrement influencer votre esprit. Facilitateur.
+Will of Legend/Volonté de Légende : Vous êtes immunisé contre les attaques qui pourraient captiver, hypnotiser, charmer ou autrement influencer votre esprit. Facilitateur.
 ==
 Willing Sacrifice/Sacrifice volontaire: lorsque vous effectuez une attaque destinée à un autre personnage, vous savez comment prendre l'attaque de manière à minimiser son effet. L'attaque vous frappe automatiquement, mais au lieu de subir 1 point de dégâts supplémentaire, vous subissez 1 point de dégâts en moins (jusqu'à un minimum de 1 point). De plus, vous pouvez effectuer plus d'une attaque au cours d'un round donné à condition que toutes les attaques soient initialement destinées à une seule cible. Facilitateur. (Deux personnages tentant de lancer une attaque en même temps s'annulent.)
 ==
