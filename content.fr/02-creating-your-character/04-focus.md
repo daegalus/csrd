@@ -109,6 +109,23 @@ Si vous souhaitez aller encore plus loin, vous pouvez déterminer d'où viennent
 
 La description complète de chaque capacité de concentration répertoriée dans cette section se trouve dans le chapitre Capacités, qui contient des descriptions du type, de la saveur et des capacités de concentration dans un seul et vaste catalogue.
 
+### A des Ascendants Nobles
+
+Descendant de la richesse et du pouvoir, vous portez un titre noble et les capacités conférées par une éducation privilégiée.
+
+**Option d'échange de type:** Suite de Servants
+
+* Rang 1: Noblesse privilégiée
+* Rang 2: Interlocuteur qualifié
+* Rang 3: Commandement avancé ou Courage du noble
+* Rang 4: Disciple expert
+* Rang 5: Affirmer votre privilège
+* Rang 6: Assistance compétente ou Esprit de leader
+
+**Intrusions du MJ:** Les dettes contractées par une famille sont dues par le personnage. Un frère perdu depuis longtemps cherche à déshériter ses rivaux. Un assassin retrouve le personnage.
+
+-----
+
 ### A le Droit de Porter une Arme à Feu
 
 Vous portez une arme à feu et vous savez comment l'utiliser lors d'un combat.
@@ -143,6 +160,22 @@ Vous avez navigué avec un équipage de redoutables pirates, mais vous avez déc
 * Rang 6: Duel à mort ou Attaque successive
 
 **Intrusions du MJ:** Les dangers de la haute mer sont nombreux, notamment les tempêtes violentes et les maladies. D'autres pirates s'en sortent parfois grâce à la trahison. Un pirate retrouve d'anciens compagnons de navigation pour trouver un trésor caché.
+
+-----
+
+### A été Choisi(e)
+
+Vous êtes « l’élu » et la prophétie, la prédiction, le pronostic ou toute autre méthode de détermination attend de vous de grandes choses un jour.
+
+* Rang 1: Compétences d'interaction
+* Rang 1: Connaître
+* Rang 2: Destiné à la grandeur
+* Rang 3: Surmontez tous les obstacles ou  Résilience durement gagnée
+* Rang 4: Centre d'attention
+* Rang 5: Montrez-leur le chemin
+* Rang 6: Comme le prédit la prophétie ou Potentiel amélioré supérieur
+
+**Intrusions du MJ:**Un ennemi décrit dans la prophétie apparaît. Les incroyants menacent de gâcher ce moment. Le personnage acquiert une réputation de fraudeur dans les cercles extérieurs.
 
 -----
 
@@ -1213,23 +1246,6 @@ You can manipulate shadow and "dark" matter.
 
 -----
 
-### Descends From Nobility
-
-A descendent of wealth and power, you carry a noble title and the abilities granted by a privileged upbringing.
-
-**Option d'échange de type:** Retinue
-
-* Rang 1: Privileged Nobility
-* Rang 2: Trained Interlocutor
-* Rang 3: Commandement avancé ou Noble's Courage
-* Rang 4: Disciple expert
-* Rang 5: Asserting Your Privilege
-* Rang 6: Assistance compétente ou Esprit de leader
-
-**Intrusions du MJ:** Debts incurred by a family are owed by the character. A long-lost sibling seeks to disinherit rivals. An assassin finds the character.
-
------
-
 ### Doesn't Do Much
 
 You're a slacker, but you know a little about a lot of things.
@@ -1411,7 +1427,7 @@ For brief periods, you can grow larger and, with enough experience, to towering 
 You can change your appearance to look like anyone else.
 
 * Rang 1: Face Morph
-* Rang 1: Interaction Skills
+* Rang 1: Compétences d'interaction
 * Rang 2: Body Morph
 * Rang 2: War Flesh
 * Rang 3: Disguise Other ou Resilience
@@ -1784,23 +1800,6 @@ Spellcaster who learns a variety of spells instead of focusing on just one kind 
 
 -----
 
-### Was Foretold
-
-You are the "chosen one," and prophecy, prediction, prognostication, ou some other method of determination expects great things of you one day.
-
-* Rang 1: Interaction Skills
-* Rang 1: Knowing
-* Rang 2: Destined for Greatness
-* Rang 3: Overcome All Obstacles ou  Hard-Won Resilience
-
-* Rang 4: Center of Attention
-* Rang 5: Show Them the Way
-* Rang 6: As Foretold in Prophecy ou Potentiel amélioré supérieur
-
-**Intrusions du MJ:** An enemy described in prophecy appears. Unbelievers threaten to ruin the moment. The character gains a reputation in outside circles as a fraud.
-
------
-
 ### Wears Power Armor
 
 * Rang 1: Powered Armor
@@ -1842,7 +1841,7 @@ You take great satisfaction in a job well done, whether it's coding, building ho
 * Rang 4: Enhanced Might
 * Rang 4: Tough It Out
 * Rang 5: Expert Skill
-* Rang 6: Potentiel amélioré supérieur ou  Hard-Won Resilience
+* Rang 6: Potentiel amélioré supérieur ou  Résilience durement gagnée
 
 **Intrusions du MJ:** Repairs sometimes fail. Wiring can be tricky to decipher and still carry an electrical charge. Some people are rude to those who work for a living.
 
@@ -2263,7 +2262,7 @@ superhero-themed focus might grant a superhero costume.
 The following are examples and not meant to provide a complete list of all possible foci in this category.
 
 * Channels Divine Blessings
-* Descends From Nobility
+* A des Ascendants Nobles
 * Emerged From the Obelisk
 * Flies Faster Than a Bullet
 * Masters Spells

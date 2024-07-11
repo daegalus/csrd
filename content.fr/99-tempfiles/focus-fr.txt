@@ -19,7 +19,7 @@ Crafts Unique Objects
 Dances With Dark Matter
 Defends the Gate/Garde le Passage
 Defends the Weak/Défend les Faibles
-Descends From Nobility
+Descends From Nobility/A des Ascendants Nobles
 Doesn't Do Much
 Drives Like A Maniac
 Emerged From the Obelisk
@@ -92,7 +92,7 @@ Touches The Sky
 Travels Through Time
 Uses Wild Magic
 Walks The Wild Woods/Marche dans Les Forêts Primaires
-Was Foretold
+Was Foretold/A été Choisi(e)
 Wears a Sheen of Ice/Porte un Eclat de Glace
 Wears Power Armor
 Wields An Enchanted Weapon/Porte une Arme Enchantée
