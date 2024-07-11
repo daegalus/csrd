@@ -16,7 +16,7 @@ Controls Gravity
 Copies Superpowers
 Crafts Illusions
 Crafts Unique Objects
-Dances With Dark Matter
+Dances With Dark Matter/Manipule la Matière Noire
 Defends the Gate/Garde le Passage
 Defends the Weak/Défend les Faibles
 Descends From Nobility/A des Ascendants Nobles
@@ -72,7 +72,7 @@ Sailed Beneath the Jolly Roger/A Navigué sous Pavillon Pirate
 Scavenges
 Sculpts Hard Light
 Sees Beyond/Voit Au-Delà
-Separates Mind From Body  
+Separates Mind From Body/Peut Séparer son Esprit de son Corps
 Shepherds the Community/Guide la Communauté
 Shepherds Spirits/Guide les Esprits
 Shreds the Walls of the World

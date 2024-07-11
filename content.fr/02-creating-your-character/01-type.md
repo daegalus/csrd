@@ -940,7 +940,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Guerrier-Mage:** Pour ces personnages inhabituels qui utilisent un mélange d'attaques avec des armes et de sorts, incarnez un Guerrier à Préférence magique ou un expert à Préférence de combat ou de magie. Les Motivations appropriées incluent Combat avec Panache, Maîtrise l'Armement, and Porte une Arme Enchantée\*.
 
-**Démoniste ou Occultiste:** Pour les besoins de cette liste, les Démoniste et les Occultiste sont des mages qui acquièrent des pouvoirs magiques grâce aux pactes qu'ils concluent avec des entités d'un autre monde. La plupart des démonistes sont des Adeptes, mais les Explorateurs et les Emissaires (peut-être avec une Préférence magique) peuvent être des options intéressantes. Les Motivations interressantes pour un occultiste incluent Dances With Dark Matter, Dispose d'un Allié Magique, Maîtrise l'Essaim, Separates Mind From Body, and A été Choisi(e), mais aussi (en fonction de l'entité et du pacte) la plupart des Motivations des Sorciers et des Magiciens fonctionnent tout aussi bien.
+**Démoniste ou Occultiste:** Pour les besoins de cette liste, les Démoniste et les Occultiste sont des mages qui acquièrent des pouvoirs magiques grâce aux pactes qu'ils concluent avec des entités d'un autre monde. La plupart des démonistes sont des Adeptes, mais les Explorateurs et les Emissaires (peut-être avec une Préférence magique) peuvent être des options intéressantes. Les Motivations interressantes pour un occultiste incluent Manipule la Matière Noire, Dispose d'un Allié Magique, Maîtrise l'Essaim, Peut Séparer son Esprit de son Corps, and A été Choisi(e), mais aussi (en fonction de l'entité et du pacte) la plupart des Motivations des Sorciers et des Magiciens fonctionnent tout aussi bien.
 
 **Mage du Chaos:** Ceux qui utilisent la magie chaotique sont généralement des Adeptes, mais un amateur peut être un Explorateur ou un Emissaire une Préférence magique. La meilleure Motivation qui convient à ce thème est Uses Wild Magic\*.
 
@@ -948,7 +948,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 * **Magicien (abjurer):** Absorbs Energy, Focuses Mind Over Matter, Porte un Eclat de Glace
 * **Magicien (conjurer or summoner):** Contrôle les Bêtes Sauvages, Dispose d'un Allié Magique
-* **Magicien (diviner):** Apprend Rapidement, Voit Au-Delà, Separates Mind From Body, Solves Mysteries
+* **Magicien (diviner):** Apprend Rapidement, Voit Au-Delà, Peut Séparer son Esprit de son Corps, Solves Mysteries
 * **Magicien (enchanter):** Commands Mental Powers, Dirige
 * **Magicien (evoker):** Se Revêt d'un Halo de Feu, Illumine avec Eclat, Façonne la Foudre, Thunders, Porte un Eclat de Glace
 * **Magicien (illusionist):** Awakens Dreams, Crafts Illusions

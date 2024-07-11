@@ -720,6 +720,21 @@ En vous spécialisant dans le lancement de sortilèges et en tenant un livre de 
 
 -----
 
+### Manipule la Matière Noire
+
+Vous pouvez manipuler l'ombre et la matière « noire ».
+
+* Rang 1: Rubans de matière noire
+* Rang 2: Ailes du Vide
+* Rang 3: Manteau de matière noire ou Frappe de matière noire
+* Rang 4: Coquille de matière noire
+* Rang 5: Surfeur de Matière Noire
+* Rang 6: Structure de matière noire ou Embrassez la nuit
+
+**Intrusions du MJ:** La matière noire s'éloigne comme si elle était possédée par son propre esprit.
+
+-----
+
 ### Marche dans Les Forêts Primaires
 
 Un adepte de la magie de la nature qui s'appuie sur le pouvoir et la force des arbres.
@@ -799,6 +814,22 @@ Votre connexion spirituelle avec la nature et l’environnement vous confère de
 * Rang 6: Appeler la tempête ou Tremblement de terre
 
 **Intrusions du MJ:** Une créature naturelle (mais dangereuse) blessée est découverte. Quelqu'un braconne des animaux sauvages pour leur peau, laissant les carcasses pourrir. Un arbre tombe dans la forêt, un des derniers sureaux.
+
+-----
+
+### Peut Séparer son Esprit de son Corps
+
+Vous pouvez projeter votre esprit hors de votre corps pour voir des endroits lointains et découvrir des secrets qui autrement resteraient cachés.
+
+* Rang 1: Troisième œil
+* Rang 2: Esprit ouvert
+* Rang 2: Sens aiguisés
+* Rang 3: Troisième œil itinérant ou Trouver ce qui est caché
+* Rang 4: Capteur
+* Rang 5: Passager psychique
+* Rang 6: Projection mentale ou Capteur amélioré
+
+**Intrusions du MJ:** Réunir l’esprit et le corps peut parfois être désorientant et nécessiter qu’un personnage passe quelques instants pour se repérer.
 
 -----
 
@@ -1246,21 +1277,6 @@ Cyphersmith works only in a setting where the cyphers are physical objects. If t
 
 -----
 
-### Dances With Dark Matter
-
-You can manipulate shadow and "dark" matter.
-
-* Rang 1: Ribbons of Dark Matter
-* Rang 2: Void Wings
-* Rang 3: Dark Matter Shroud ou Dark Matter Strike
-* Rang 4: Dark Matter Shell
-* Rang 5: Windwracked Traveler
-* Rang 6: Dark Matter Structure ou Embrace the Night
-
-**Intrusions du MJ:** Dark matter skulks away as if possessed by a mind of its own.
-
------
-
 ### Doesn't Do Much
 
 You're a slacker, but you know a little about a lot of things.
@@ -1611,22 +1627,6 @@ You create physical objects out of hard light that you can use for offense and d
 
 -----
 
-### Separates Mind From Body  
-
-You can project your mind out of your body to see faraway places and learn secrets that would otherwise remain hidden.
-
-* Rang 1: Third Eye
-* Rang 2: Open Mind
-* Rang 2: Sharp Senses
-* Rang 3: Roaming Third Eye ou Trouver ce qui est caché
-* Rang 4: Capteur
-* Rang 5: Psychic Passenger
-* Rang 6: Projection mentale ou Capteur amélioré
-
-**Intrusions du MJ:** Reuniting mind and body can sometimes be disorienting and require a character to spend a few moments to get their bearings.
-
------
-
 ### Shreds the Walls of the World
 
 Speed plus phasing gives you a unique ability to evade danger and simultaneously inflict damage.
@@ -1821,7 +1821,7 @@ You bend light and manipulate beams of force for offense and defense.
 
 * Rang 1: Vanish
 * Rang 2: Entangling Force
-* Rang 2: Sharp Senses
+* Rang 2: Sens aiguisés
 * Rang 3: Force Field Barrier ou Multi-Vanish
 * Rang 4: Invisibility
 * Rang 5: Champ défensif
@@ -2066,7 +2066,7 @@ The following are examples and not meant to provide a complete list of all possi
 
 * Absorbs Energy
 * Bears a Halo of Fire
-* Dances With Dark Matter
+* Manipule la Matière Noire
 * Façonne la Foudre
 * Fait Résonner le Tonnerre
 * Porte un Eclat de Glace
@@ -2169,7 +2169,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Opère sous Couverture
 * Pilots Starcraft
 * Sees Beyond
-* Separates Mind From Body
+* Peut Séparer son Esprit de son Corps
 
 **Ability Selection Guidelines**
 
