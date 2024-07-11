@@ -1138,6 +1138,22 @@ Vous avez un sens psychique qui vous permet de voir ce que les autres ne peuvent
 
 -----
 
+### Utilise la Magie Sauvage
+
+Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur un seul type de magie.
+
+* Rang 1: Répertoire magique
+* Rang 1: Lancement de Cypher
+* Rang 2: Répertoire étendu
+* Rang 3: Sursaut de Cypher ou Magie Sauvage plus rapide
+* Rang 4: Répertoire étendu
+* Rang 5: Entraînement magique
+* Rang 6: Maximiser le Cypher ou Instinct de Magie Sauvage
+
+**Intrusions du MJ:** Un sort s'exécute de manière erratique ou rebondit sur le lanceur. Quelque chose interfère avec la préparation des sorts. Le lancement de sorts attire l'attention d'une créature puissante ou d'un rival potentiel. Le sort de chiffre lancé est remplacé par celui d'un chiffre aléatoire.
+
+-----
+
 ### Builds Robots
 
 Your robotic creations do as they are commanded.
@@ -1784,19 +1800,19 @@ Although all character choices are subject to GM approval, Travels Through Time 
 
 -----
 
-### Uses Wild Magic
+### Utilise la Magie Sauvage
 
-Spellcaster who learns a variety of spells instead of focusing on just one kind of magic.
+Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur un seul type de magie.
 
-* Rang 1: Magical Repertoire
-* Rang 1: Cypher Casting
-* Rang 2: Expanded Repertoire
-* Rang 3: Cypher Surge ou Faster Wild Magic
-* Rang 4: Expanded Repertoire
-* Rang 5: Magical Training
-* Rang 6: Maximize Cypher ou Instinct de Magie Sauvage
+* Rang 1: Répertoire magique
+* Rang 1: Lancement de Cypher
+* Rang 2: Répertoire étendu
+* Rang 3: Sursaut de Cypher ou Magie Sauvage plus rapide
+* Rang 4: Répertoire étendu
+* Rang 5: Entraînement magique
+* Rang 6: Maximiser le Cypher ou Instinct de Magie Sauvage
 
-**Intrusions du MJ:** A spell performs erratically ou rebounds upon the caster. Something interferes with preparing spells. Spellcasting attracts the attention of a powerful creature ou potential rival. The cypher spell being cast is replaced with that of a random cypher.
+**Intrusions du MJ:** Un sort s'exécute de manière erratique ou rebondit sur le lanceur. Quelque chose interfère avec la préparation des sorts. Le lancement de sorts attire l'attention d'une créature puissante ou d'un rival potentiel. Le sort de chiffre lancé est remplacé par celui d'un chiffre aléatoire.
 
 -----
 
