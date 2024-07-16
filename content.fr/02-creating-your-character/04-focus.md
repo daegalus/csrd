@@ -480,6 +480,22 @@ Votre capacité à communiquer et à diriger des bêtes est surnaturelle.
 
 -----
 
+### Copie des Superpouvoirs
+
+Vous pouvez copier les compétences, les capacités et les super pouvoirs des autres.
+
+* Rang 1: Compétences en Prêt
+* Rang 1: Compétences en Prêt
+* Rang 2: Pouvoir de copie
+* Rang 3: Voler le pouvoir ou Pouvoirs génériques
+* Rang 4: Copie Améliorée
+* Rang 5: Mémoire de Pouvoir Copié
+* Rang 6: Copie étonnante ou Multiple
+
+**Copying GM Intrusions:** Un pouvoir copié se termine de manière inattendue ou devient incontrôlable. Un pouvoir copié n’apporte pas de pouvoirs secondaires (comme gagner une super vitesse sans protection contre la friction de l’air, ou ne pas être immunisé contre la chaleur de vos propres éclairs de feu).
+
+-----
+
 ### Défend les Faibles
 
 Vous défendez les impuissants, les faibles et ceux qui ne sont pas protégés.
@@ -1284,22 +1300,6 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 * Rang 6: Connaître l'inconn ou Intelligence Améliorée Supérieure
 
 **Intrusions du MJ:** Too many predicted results threaten to overwhelm and stun the character. A result points to imminent disaster.
-
------
-
-### Copies Superpowers
-
-You can copy others’ skills, abilities, and superpowers.
-
-* Rang 1: Compétences en Prêt
-* Rang 1: Compétences en Prêt
-* Rang 2: Copy Power
-* Rang 3: Steal Power ou Wildcard Powers
-* Rang 4: Improved Copying
-* Rang 5: Power Memory
-* Rang 6: Amazing Copying ou Multiple
-
-**Copying GM Intrusions:** A copied power ends unexpectedly ou goes out of control. A copied power doesn’t bring secondary powers with it (like gaining superspeed without protection from air friction, ou not being immune to the heat from your own fire bolts).
 
 -----
 

@@ -1115,7 +1115,7 @@ Facilitateur.
 ==
 Improved Companion/Compagnon amélioré: votre compagnon (comme une bête contrôlée) ou votre suiveur passe au niveau 4. En tant que créature de niveau 4, il a un nombre cible de 12 et 12 points de vie, et il inflige 4 points de dégâts (bien que dans la plupart des cas, à la place d'attaquer, il apporte un atout à vos attaques). Vous pouvez acquérir cette capacité une fois par niveau. Chaque fois que vous le sélectionnez, il augmente le niveau de votre compagnon ou suiveur de 1. Enabler.
 ==
-Improved Copy/Copie Améliorée : vous pouvez utiliser Copy Power pour copier des capacités plus puissantes. En plus des options normales d'utilisation de l'Effort avec Pouvoir de Copie, si vous appliquez un niveau d'Effort, le MJ choisit une capacité de niveau intermédiaire qui ressemble le plus à ce pouvoir (au lieu d'une capacité de niveau inférieur). Facilitateur.
+Improved Copying/Copie Améliorée : vous pouvez utiliser Copy Power pour copier des capacités plus puissantes. En plus des options normales d'utilisation de l'Effort avec Pouvoir de Copie, si vous appliquez un niveau d'Effort, le MJ choisit une capacité de niveau intermédiaire qui ressemble le plus à ce pouvoir (au lieu d'une capacité de niveau inférieur). Facilitateur.
 
 Lorsque vous utilisez la Copie Améliorée, une capacité copiée doit être de niveau faible, moyen ou élevé selon la façon dont elle est répertoriée dans les catégories de capacités. Peu importe si un type ou un objectif le rend disponible à un niveau inférieur ou supérieur.
 ==
@@ -1832,7 +1832,7 @@ Robot Builder/Constructeur de robots: vous êtes formé aux tâches liées à la
 ==
 Robot Control/Contrôle du robot (2+ points d'intelligence) : Vous utilisez votre connaissance du commandement et du contrôle des robots (et éventuellement des appareils qui transmettent sur la fréquence appropriée) pour affecter tout système mécanisé ou robot de niveau 2 ou inférieur à courte portée. Vous pouvez rendre plusieurs cibles inactives tant que vous concentrez toute votre attention sur elles. Si vous vous concentrez sur une seule cible, vous pouvez tenter d'en prendre le contrôle actif pendant une minute, en lui ordonnant d'effectuer des tâches simples en votre nom pendant que vous vous concentrez. En plus des options normales d'utilisation d'Effort, vous pouvez choisir d'utiliser Effort pour augmenter le niveau maximum du système mécanisé ou du robot. Ainsi, pour affecter une cible de niveau 4 (deux niveaux au-dessus de la limite normale), vous devez appliquer deux niveaux d'Effort. Action à initier.
 ==
-Robot Evolution/Evolution du robot: votre premier assistant artificiel de la capacité Robot Assistant passe au niveau 5, et chacun de vos robots de niveau 2 de la flotte de robots passe au niveau 3. Au lieu de choisir cette option, vous pouvez choisir une mise à niveau de la capacité Robot Upgrade. Facilitateur.
+Robot Evolution/Robot Evolution: votre premier assistant artificiel de la capacité Robot Assistant passe au niveau 5, et chacun de vos robots de niveau 2 de la flotte de robots passe au niveau 3. Au lieu de choisir cette option, vous pouvez choisir une mise à niveau de la capacité Robot Upgrade. Facilitateur.
 ==
 Robot Fighter/Combattant de Robot: Lorsque vous combattez un robot ou une machine intelligente, vous êtes formé aux attaques et à la défense. Facilitateur.
 ==
