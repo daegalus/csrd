@@ -1372,6 +1372,22 @@ Vous avez un sens psychique qui vous permet de voir ce que les autres ne peuvent
 
 -----
 
+### Vole Plus Vite qu'une Balle
+
+Vous pouvez voler et vous êtes super fort, difficile à blesser et rapide aussi. Y a-t-il quelque chose que vous ne pouvez pas faire ?
+
+* Rang 1: Survol
+* Rang 2: Potentiel amélioré supérieur
+* Rang 3: Réserves cachées ou Voir à travers la matière
+* Rang 4: En un Clin d'oeil
+* Rang 4: Accélérer
+* Rang 5: Pas encore mort
+* Rang 6: Lumière brûlante ou Ignorer l'Affliction
+
+**Intrusions de la MJ:** Un ennemi trouve le personnage. Un matériau étrange est découvert pour annuler les capacités du personnage.
+
+-----
+
 ### Utilise la Magie Sauvage
 
 Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur un seul type de magie.
@@ -1402,22 +1418,6 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 * Rang 6: Connaître l'inconn ou Intelligence Améliorée Supérieure
 
 **Intrusions de la MJ:** Too many predicted results threaten to overwhelm and stun the character. A result points to imminent disaster.
-
------
-
-### Flies Faster Than a Bullet
-
-You can fly, and you're superstrong, hard to hurt, and fast too. Is there anything you can't do?
-
-* Rang 1: Survol
-* Rang 2: Potentiel amélioré supérieur
-* Rang 3: Réserves cachées ou Voir à travers la matière
-* Rang 4: En un Clin d'oeil
-* Rang 4: Up to Speed
-* Rang 5: Pas encore mort
-* Rang 6: Lumière brûlante ou Ignorer l'Affliction
-
-**Intrusions de la MJ:** A nemesis finds the character. A strange material is found to nullify the character's abilities.
 
 -----
 
@@ -1724,7 +1724,7 @@ Many superheroes can fly, and some even have wings. You can use your wings for m
 * Rang 2: Wing Weapons
 * Rang 3: Attaque acrobatique ou Flying Companion
 * Rang 4: Difficile à toucher
-* Rang 5: Up to Speed
+* Rang 5: Accélérer
 * Rang 6: Hard Target ou Maître de la défense
 
 **Intrusions de la MJ:** A wing gets hurt ou restrained, causing the character to fall. Flying high makes the character an obvious target for an unexpected foe.
@@ -2280,7 +2280,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Channels Divine Blessings
 * A des Ascendants Nobles
 * Est sorti de l'Obélisque
-* Flies Faster Than a Bullet
+* Vole Plus Vite qu'une Balle
 * Masters Spells
 * Parle au Nom de la Terre
 
