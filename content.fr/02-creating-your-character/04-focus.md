@@ -743,6 +743,21 @@ Vous émettez un son destructeur et manipulez les paysages sonores.
 
 -----
 
+### Fusionne la Chair et l'Acier
+
+Votre corps est en partie une machine.
+
+* Rang 1: Corps amélioré
+* Rang 2: Interface
+* Rang 3: Ensemble de détection ou Armement
+* Rang 4: Fusion
+* Rang 5: Réserves Partagées
+* Rang 6: Sursaut mental ou Ultra amélioration
+
+**Intrusions de la MJ:** Dans la plupart des sociétés, les gens ont peur de quelqu'un qui possède des pièces mécaniques.
+
+-----
+
 ### Garde le Passage
 
 Tout le monde veut que vous soyez à ses côtés lorsqu’il s’agit d’un combat, car rien ne vous échappe.
@@ -1421,21 +1436,6 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 
 -----
 
-### Fuses Flesh and Steel
-
-Your body is part machine.
-
-* Rang 1: Enhanced Body
-* Rang 2: Interface
-* Rang 3: Sensing Package ou Weaponization
-* Rang 4: Fusion
-* Rang 5: Deep Reserves
-* Rang 6: Mind Surge ou Ultra Enhancement
-
-**Intrusions de la MJ:** People in most societies are afraid of someone who is revealed to have mechanical parts.
-
------
-
 ### Fuses Mind and Machine
 
 Electronic aids implanted in your brain make you a mental powerhouse.
@@ -1447,7 +1447,7 @@ Electronic aids implanted in your brain make you a mental powerhouse.
 * Rang 4: Intelligence Améliorée Supérieure
 * Rang 4: Compétences en Connaissances
 * Rang 5: See the Future
-* Rang 6: Machine Enhancement ou Mind Surge
+* Rang 6: Machine Enhancement ou Sursaut mental
 
 **Intrusions de la MJ:** Machines malfunction and shut down. Powerful machine intelligences can take control of lesser thinking machines. Some people don't trust a person who isn't fully organic.
 
@@ -1604,7 +1604,7 @@ Lessons, reflexes, and strategies you've learned by playing too many games have 
 * Rang 4: Jeux d'esprit
 * Rang 4: Intelligence améliorée
 * Rang 5: Gamer's Fortitude
-* Rang 6: Mind Surge ou Gaming God
+* Rang 6: Sursaut mental ou Gaming God
 
 **Intrusions de la MJ:** Missed attacks strike the wrong target. Equipment breaks. Sometimes people react negatively to someone who has lived most of their life in imaginary game worlds.
 
@@ -2481,7 +2481,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Abides in Stone
 * Brandit un Bouclier Exotique
 * Garde le Passage
-* Fuses Flesh and Steel
+* Fusionne la Chair et l'Acier
 * Grows to Towering Heights
 * Hurle à la Lune
 * Lives in the Wilderness
