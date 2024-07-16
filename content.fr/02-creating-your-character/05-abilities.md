@@ -1244,7 +1244,7 @@ Donnent la possibilité de faire une attaque spéciale de mélée ou à distance
 * Libération explosive
 * Machine aveugle
 * Maître de la défense
-* Mettre un Ennemie en Phase
+* Mettre un Ennemi en Phase
 * Meurtrier
 * Mot de mort
 * Mur de protection
@@ -3103,7 +3103,7 @@ Enfin, l'allié magique peut se transformer en fumée et en flammes lors de son 
 
 **Mettre le paquet** (7 points d'Intelligence): Vous y mettez tout. Vous ajoutez trois niveaux d'effort gratuits à la prochaine tâche que vous tentez. Vous ne pouvez plus utiliser cette capacité avant d’avoir pris une action de récupération de dix heures. Action.
 
-**Mettre un Ennemie en Phase** (6+ points d'Intelligence) : Vous rassemblez de l'énergie perturbatrice au bout de votre doigt et touchez une créature. Si la cible est un PNJ ou une créature de niveau 3 ou inférieur, elle passe en phase comme si elle avait utilisé la capacité Fantôme. Cependant, à moins qu'il ne parvienne à contrôler son mouvement tout en étant en phase, ce que la plupart des créatures n'ont aucune expérience, il commence à couler à travers la matière solide. S’il ne peut pas se contrôler ou mettre fin à l’effet, il pourrait disparaître pour de bon, car lorsqu’il redeviendra solide après dix minutes, il se trouvera probablement au plus profond de la terre. Pour chaque niveau d’Effort supplémentaire que vous appliquez, vous pouvez tenter d’affecter une cible d’un niveau supérieur. Action.
+**Mettre un Ennemi en Phase** (6+ points d'Intelligence) : Vous rassemblez de l'énergie perturbatrice au bout de votre doigt et touchez une créature. Si la cible est un PNJ ou une créature de niveau 3 ou inférieur, elle passe en phase comme si elle avait utilisé la capacité Fantôme. Cependant, à moins qu'il ne parvienne à contrôler son mouvement tout en étant en phase, ce que la plupart des créatures n'ont aucune expérience, il commence à couler à travers la matière solide. S’il ne peut pas se contrôler ou mettre fin à l’effet, il pourrait disparaître pour de bon, car lorsqu’il redeviendra solide après dix minutes, il se trouvera probablement au plus profond de la terre. Pour chaque niveau d’Effort supplémentaire que vous appliquez, vous pouvez tenter d’affecter une cible d’un niveau supérieur. Action.
 
 **Meurtre Rapide** (2 points de vitesse) : Vous savez tuer rapidement. Lorsque vous frappez avec une attaque au corps à corps ou à distance, vous infligez 4 points de dégâts supplémentaires. Vous ne pouvez pas effectuer cette attaque deux rounds consécutifs. Action.
 

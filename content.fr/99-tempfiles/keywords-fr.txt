@@ -7,4 +7,4 @@ Ability/Capacité
 Cypher/Cypher
 Descriptor/Descripteur
 Flavor/Préférence
-
+Type/Type

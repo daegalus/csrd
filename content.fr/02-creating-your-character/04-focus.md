@@ -629,6 +629,21 @@ Vous existez en deux endroits en même Ttemps.
 
 -----
 
+### Existe Partiellement Hors de Phase
+
+Un peu translucide, vous êtes légèrement déphasé et pouvez vous déplacer à travers des objets solides.
+
+* Rang 1: Traverser les murs
+* Rang 2: Phase défensive
+* Rang 3: Attaque de Phase ou Porte de phase
+* Rang 4: Fantôme
+* Rang 5: Intouchable
+* Rang 6: Attaque de Phase Améliorée ou Mettre un Ennemi en Phase
+
+**Intrusions de la MJ:** Le personnage est envoyé dans une dimension inattendue. Le personnage se perd dans un grand objet solide.
+
+-----
+
 ### Explore des Endroits Sombres
 
 Vous êtes l'archétype du chasseur de trésors, du charognard et du chercheur d'objets perdus.
@@ -1390,21 +1405,6 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 
 -----
 
-### Exists Partially Out of Phase
-
-A bit translucent, you're slightly out of phase and can move through solid objects.
-
-* Rang 1: Walk Through Walls
-* Rang 2: Defensive Phasing
-* Rang 3: Phased Attack ou Phase Door
-* Rang 4: Ghost
-* Rang 5: Untouchable
-* Rang 6: Enhanced Phased Attack ou Phase Foe
-
-**Intrusions de la MJ:** The character is sent phasing into an unexpected dimension. The character becomes lost in a large solid.
-
------
-
 ### Flies Faster Than a Bullet
 
 You can fly, and you're superstrong, hard to hurt, and fast too. Is there anything you can't do?
@@ -1666,10 +1666,10 @@ Speed plus phasing gives you a unique ability to evade danger and simultaneously
 * Rang 1: Phase Sprint
 * Rang 1: Disrupting Touch
 * Rang 2: Scratch Existence
-* Rang 3: Invisible Phasing ou Walk Through Walls
+* Rang 3: Invisible Phasing ou Traverser les murs
 * Rang 4: Phase Detonation
 * Rang 5: Very Long Sprinting
-* Rang 6: Shred Existence ou Untouchable While Moving
+* Rang 6: Shred Existence ou Intouchable en mouvement
 
 **Intrusions de la MJ:** Moving so quickly while sprinting sometimes leads to stumbles on unexpected, exotic obstacles.
 
@@ -2323,7 +2323,7 @@ The classic movement expertise focus is one that relies on speed to make more at
 
 The following are examples and not meant to provide a complete list of all possible foci in this category.
 
-* Exists Partially Out of Phase
+* Existe Partiellement Hors de Phase
 * Moves Like a Cat
 * Va Comme le Vent
 * Runs Away
