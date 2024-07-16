@@ -743,6 +743,23 @@ Vous émettez un son destructeur et manipulez les paysages sonores.
 
 -----
 
+### Fussionne l'Esprit et la Machine
+
+Les aides électroniques implantées dans votre cerveau font de vous une surpuissance cérébrale.
+
+* Rang 1: Intelligence améliorée
+* Rang 1: Compétences en Connaissances
+* Rang 2: Une information dans le réseau
+* Rang 3: Processeur d'action ou Télépathie machine
+* Rang 4: Intelligence Améliorée Supérieure
+* Rang 4: Compétences en Connaissances
+* Rang 5: Voir l'avenir
+* Rang 6: Amélioration de la machine ou Sursaut mental
+
+**Intrusions de la MJ:** Les machines fonctionnent mal et s'arrêtent. De puissantes intelligences artificielles peuvent prendre le contrôle de machines moins pensantes. Certaines personnes ne font pas confiance à une personne qui n’est pas entièrement biologique.
+
+-----
+
 ### Fusionne la Chair et l'Acier
 
 Votre corps est en partie une machine.
@@ -1433,23 +1450,6 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 * Rang 6: Connaître l'inconn ou Intelligence Améliorée Supérieure
 
 **Intrusions de la MJ:** Too many predicted results threaten to overwhelm and stun the character. A result points to imminent disaster.
-
------
-
-### Fuses Mind and Machine
-
-Electronic aids implanted in your brain make you a mental powerhouse.
-
-* Rang 1: Intelligence améliorée
-* Rang 1: Compétences en Connaissances
-* Rang 2: Network Tap
-* Rang 3: Action Processor ou Machine Telepathy
-* Rang 4: Intelligence Améliorée Supérieure
-* Rang 4: Compétences en Connaissances
-* Rang 5: See the Future
-* Rang 6: Machine Enhancement ou Sursaut mental
-
-**Intrusions de la MJ:** Machines malfunction and shut down. Powerful machine intelligences can take control of lesser thinking machines. Some people don't trust a person who isn't fully organic.
 
 -----
 
@@ -2229,7 +2229,7 @@ The following are examples and not meant to provide a complete list of all possi
 
 * Commande aux pouvoirs Mentaux
 * Poursuit des Sciences Etranges
-* Fuses Mind and Machine
+* Fussionne l'Esprit et la Machine
 * Is Idolized by Millions
 * Résout des Mystères
 * Talks to Machines
