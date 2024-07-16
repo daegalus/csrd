@@ -22,7 +22,7 @@ Advanced Command/Commandement avancé (7 points d'Intelligence): Une cible à co
 ==
 Advantage to Disadvantage/Avantage par Désavantage (3 points de Vitesse) : Avec un certain nombre de mouvements rapides, vous lancez une attaque contre un ennemi armé, lui infligeant des dégâts et le désarmant de sorte que son arme soit maintenant entre vos mains ou à 10 pieds (3 m) au sol. - à vous de choisir. Cette attaque désarmante est entravée. Action.
 ==
-Advantage of Being Big/Avantages d'être grand: lorsque vous utilisez Enlarge, vous êtes si grand que vous pouvez déplacer des objets massifs plus facilement, escalader des bâtiments en utilisant des poignées et des pieds inaccessibles aux personnes de taille normale et sauter beaucoup plus loin. Pendant que vous profitez des effets d'Agrandir, toutes les tâches d'escalade, de levage et de saut sont facilitées. Facilitateur.
+Advantages of Being Big/Avantages d'être grand: lorsque vous utilisez Enlarge, vous êtes si grand que vous pouvez déplacer des objets massifs plus facilement, escalader des bâtiments en utilisant des poignées et des pieds inaccessibles aux personnes de taille normale et sauter beaucoup plus loin. Pendant que vous profitez des effets d'Agrandir, toutes les tâches d'escalade, de levage et de saut sont facilitées. Facilitateur.
 ==
 Advantage being small/Avantages d'être petit: Vous avez appris à exploiter votre force et votre précision proportionnellement à votre taille. Vos dégâts ne sont plus réduits de moitié lorsque vous utilisez Shrink, et les tâches d'escalade et de saut sont facilitées. Facilitateur.
 ==

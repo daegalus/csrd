@@ -791,6 +791,23 @@ Tout le monde veut que vous soyez à ses côtés lorsqu’il s’agit d’un com
 
 -----
 
+### Grandit Jusqu'au Ciel
+
+Pendant de brèves périodes, vous pouvez grandir et, avec suffisamment d'expérience, atteindre des hauteurs imposantes.
+
+* Rang 1: Agrandir
+* Rang 1: Agrandissement Efrayant
+* Rang 2: Plus grand
+* Rang 2: Avantages d'être grand
+* Rang 3: Enorme ou Lancer
+* Rang 4: Saisir
+* Rang 5: Gargantuesque
+* Rang 6: Colossal ou Dégâts mortels
+
+**Intrusions de la MJ:** Une croissance rapide renverse les meubles, brise les plafonds ou les luminaires suspendus. Un personnage agrandi perce le sol.
+
+-----
+
 ### Guide la Communauté
 
 Vous gardez le lieu où vous vivez à l'abri de tout danger.
@@ -1453,23 +1470,6 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 
 -----
 
-### Grows to Towering Heights
-
-For brief periods, you can grow larger and, with enough experience, to towering heights.
-
-* Rang 1: Enlarge
-* Rang 1: Freakishly Large
-* Rang 2: Bigger
-* Rang 2: Advantages of Being Big
-* Rang 3: Huge ou Throw
-* Rang 4: Grab
-* Rang 5: Gargantuan
-* Rang 6: Colossal ou Dégâts mortels
-
-**Intrusions de la MJ:** Rapid growth knocks over furnishings ou smashes through ceilings ou hanging lights. An enlarged character breaks through the floor.
-
------
-
 ### Has A Thousand Faces
 
 You can change your appearance to look like anyone else.
@@ -1683,15 +1683,15 @@ You can shrink down to the size of a bug and, with enough experience, even small
 * Rang 1: Beneath Notice
 * Rang 2: Smaller
 * Rang 2: Advantages of Being Small
-* Rang 3: Enlarge ou Quick Switch
+* Rang 3: Agrandir ou Quick Switch
 * Rang 4: Petit vol
 * Rang 5: Shrink Others
-* Rang 6: Bigger ou Tiny
+* Rang 6: Plus grand ou Tiny
 
 **Intrusions de la MJ:** A creature thinks the small character is potential food. The small character gets trapped in a tiny space ou under a falling object.
 
 {{< hint info >}}
-A character who Shrinks to Minute Size who chooses to learn abilities like Enlarge will never be quite as big as one who Grows to Towering Heights, but they can enjoy the advantages of being big ou small as needed.
+A character who Shrinks to Minute Size who chooses to learn abilities like Agrandir will never be quite as big as one who Grandit Jusqu'au Ciel, but they can enjoy the Avantages d'être grand ou small as needed.
 {{< /hint >}}
 
 -----
@@ -2482,7 +2482,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Brandit un Bouclier Exotique
 * Garde le Passage
 * Fusionne la Chair et l'Acier
-* Grows to Towering Heights
+* Grandit Jusqu'au Ciel
 * Hurle à la Lune
 * Lives in the Wilderness
 * Maîtrise la Défense
