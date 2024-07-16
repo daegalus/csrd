@@ -15,7 +15,7 @@ Controls Beasts/Contrôle les Bêtes Sauvages
 Controls Gravity/Contrôle la Gravité
 Copies Superpowers/Copie des Superpouvoirs
 Crafts Illusions/Façonne des Illusions
-Crafts Unique Objects
+Crafts Unique Objects/Façonne des Objets Uniques
 Dances With Dark Matter/Manipule la Matière Noire
 Defends the Gate/Garde le Passage
 Defends the Weak/Défend les Faibles

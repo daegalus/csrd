@@ -51,7 +51,7 @@ Choisissez une connexion qui va bien avec la Motivation. Si vous êtes un MJ en 
 15. Choisissez un autre PJ. Vous craignez que ce personnage soit jaloux de vos capacités et craignez que cela puisse entraîner des problèmes.
 16. Choisissez un autre PJ. Vous l'avez accidentellement attrapé dans un piège que vous aviez tendu et il a dû se libérer tout seul.
 17. Choisissez un autre PJ. Vous avez déjà été embauché pour retrouver quelqu'un qui était proche de ce personnage.
-18. Choisissez deux PJ (de préférence ceux qui sont susceptibles de gêner vos attaques). Lorsque vous ratez une attaque et que les règles du MJ vous imposent de frapper quelqu'un d'autre que votre cible, vous touchez l'un de ces deux personnages.
+18. Choisissez deux PJ (de préférence ceux qui sont susceptibles de gêner vos attaques). Lorsque vous ratez une attaque et que les règles de la MJ vous imposent de frapper quelqu'un d'autre que votre cible, vous touchez l'un de ces deux personnages.
 19. Choisissez un autre PJ. Vous ne savez pas comment ni d'où, mais ce personnage a un plan pour les bouteilles d'alcool rare et peut vous les procurer à moitié prix.
 20. Choisissez un autre PJ. Vous avez récemment perdu un bien et vous êtes convaincu qu'il l'a pris. Qu’il l’ait fait ou non, cela dépend de lui.
 21. Choisissez un autre PJ. Il semble toujours savoir où vous êtes, ou du moins dans quelle direction vous vous situez par rapport à lui.
@@ -122,7 +122,7 @@ Descendant de la richesse et du pouvoir, vous portez un titre noble et les capac
 * Rang 5: Affirmer votre privilège
 * Rang 6: Assistance compétente ou Esprit de leader
 
-**Intrusions du MJ:** Les dettes contractées par une famille sont dues par le personnage. Un frère perdu depuis longtemps cherche à déshériter ses rivaux. Un assassin retrouve le personnage.
+**Intrusions de la MJ:** Les dettes contractées par une famille sont dues par le personnage. Un frère perdu depuis longtemps cherche à déshériter ses rivaux. Un assassin retrouve le personnage.
 
 -----
 
@@ -142,7 +142,7 @@ Bien que Is Licensed to Carry soit conçu pour les armes à feu modernes, il pou
 * Rang 5: Tirs en éventail
 * Rang 6: Tir Spécial ou Dégâts mortels
 
-**Intrusions du MJ:** Ratés ou confiture ! L'attaque échoue et l'action est perdue, et une action supplémentaire est nécessaire pour résoudre le problème.
+**Intrusions de la MJ:** Ratés ou confiture ! L'attaque échoue et l'action est perdue, et une action supplémentaire est nécessaire pour résoudre le problème.
 -----
 
 ### A Navigué sous Pavillon Pirate
@@ -159,7 +159,7 @@ Vous avez navigué avec un équipage de redoutables pirates, mais vous avez déc
 * Rang 5: Perdu dans le chaos
 * Rang 6: Duel à mort ou Attaque successive
 
-**Intrusions du MJ:** Les dangers de la haute mer sont nombreux, notamment les tempêtes violentes et les maladies. D'autres pirates s'en sortent parfois grâce à la trahison. Un pirate retrouve d'anciens compagnons de navigation pour trouver un trésor caché.
+**Intrusions de la MJ:** Les dangers de la haute mer sont nombreux, notamment les tempêtes violentes et les maladies. D'autres pirates s'en sortent parfois grâce à la trahison. Un pirate retrouve d'anciens compagnons de navigation pour trouver un trésor caché.
 
 -----
 
@@ -175,7 +175,7 @@ Vous êtes « l’élu » et la prophétie, la prédiction, le pronostic ou tout
 * Rang 5: Montrez-leur le chemin
 * Rang 6: Comme le prédit la prophétie ou Potentiel amélioré supérieur
 
-**Intrusions du MJ:**Un ennemi décrit dans la prophétie apparaît. Les incroyants menacent de gâcher ce moment. Le personnage acquiert une réputation de fraudeur dans les cercles extérieurs.
+**Intrusions de la MJ:**Un ennemi décrit dans la prophétie apparaît. Les incroyants menacent de gâcher ce moment. Le personnage acquiert une réputation de fraudeur dans les cercles extérieurs.
 
 -----
 
@@ -191,7 +191,7 @@ Vous pouvez exploiter l’énergie cinétique et la transformer en d’autres ty
 * Rang 5: Energiser la créature
 * Rang 6: Energiser la foule ou Surcharge d'Appareil
 
-**Intrusions du MJ:** L'énergie va au sol de manière destructrice. Certains prédateurs se nourrissent directement d’énergie. Un élément involontaire est vidé de son énergie.
+**Intrusions de la MJ:** L'énergie va au sol de manière destructrice. Certains prédateurs se nourrissent directement d’énergie. Un élément involontaire est vidé de son énergie.
 
 -----
 
@@ -207,7 +207,7 @@ Prodige en musculature, vous pouvez transporter un poids incroyable, projeter vo
 * Rang 5: Coup brutal
 * Rang 6: Puissance améliorée supérieure ou Attaque sautée
 
-**Intrusions du MJ:** Il est facile de briser des objets délicats en blessant quelqu'un accidentellement.
+**Intrusions de la MJ:** Il est facile de briser des objets délicats en blessant quelqu'un accidentellement.
 
 -----
 
@@ -226,7 +226,7 @@ Vous aimez vos amis et les aidez à sortir de toute difficulté, quoi qu'il arri
 * Rang 5: Inspirer l'action
 * Rang 6: Considération approfondie ou Compétence en défense
 
-**Intrusions du MJ:** D’autres ont parfois des arrière-pensées. La loi s’y intéresse indûment. Même lorsque tout se passe bien, les répercussions s’ensuivent.
+**Intrusions de la MJ:** D’autres ont parfois des arrière-pensées. La loi s’y intéresse indûment. Même lorsque tout se passe bien, les répercussions s’ensuivent.
 
 -----
 
@@ -244,7 +244,7 @@ Vous faites face aux mauvaises situations au fur et à mesure qu’elles survien
 * Rang 5: Appris des trucs
 * Rang 6: Deux choses à la fois ou Compétence en Défense Supérieure
 
-**Intrusions du MJ:** Les accidents et les erreurs sont de grands professeurs.
+**Intrusions de la MJ:** Les accidents et les erreurs sont de grands professeurs.
 
 -----
 
@@ -261,7 +261,7 @@ Vous êtes un assassin, que ce soit par métier, par inclination, ou parce que v
 * Rang 5: Augmente les dommages
 * Rang 6: Plan d'évasion ou Meurtrier
 
-**Intrusions du MJ:** La plupart des gens ne réagissent pas bien face à un tueur professionnel.
+**Intrusions de la MJ:** La plupart des gens ne réagissent pas bien face à un tueur professionnel.
 
 -----
 
@@ -279,7 +279,7 @@ Souple, flexible et gracieux, vous vous déplacez rapidement et en douceur, et n
 * Rang 5: Glissant
 * Rang 6: Sursaut de Vitesse Parfait ou Vitesse améliorée supérieure
 
-**Intrusions du MJ:** Même un chat peut être maladroit. Un saut n’est pas aussi facile qu’il y paraît. Un mouvement d'évasion est tellement excessif qu'il met le personnage en danger.
+**Intrusions de la MJ:** Même un chat peut être maladroit. Un saut n’est pas aussi facile qu’il y paraît. Un mouvement d'évasion est tellement excessif qu'il met le personnage en danger.
 
 -----
 
@@ -295,7 +295,7 @@ Vous déployez un incroyable bouclier de force pure qui offre une protection et 
 * Rang 5: Mur de Force
 * Rang 6: Bouclier rebondissant ou Bouclier Explosif
 
-**Intrusions du MJ:** Le bouclier est temporairement perdu. Un ennemi se retrouve temporairement avec le bouclier.
+**Intrusions de la MJ:** Le bouclier est temporairement perdu. Un ennemi se retrouve temporairement avec le bouclier.
 
 -----
 
@@ -310,7 +310,7 @@ Fervent disciple d’un être divin, vous canalisez une partie du pouvoir de vot
 * Rang 5: Intervention divine
 * Rang 6: Symbole divin ou Invoquer un démon
 
-**Intrusions du MJ:** Un démon enquête sur l'utilisation de la magie divine. Une secte rivale est opposée aux enseignements du personnage.
+**Intrusions de la MJ:** Un démon enquête sur l'utilisation de la magie divine. Une secte rivale est opposée aux enseignements du personnage.
 
 -----
 
@@ -327,7 +327,7 @@ Vous êtes un chasseur traquant qui excelle à abattre la proie que vous avez ch
 * Rang 5: Volonté du Chasseur
 * Rang 6: Compétence en Attaque Supérieure ou Multiples Proies
 
-**Intrusions du MJ:** La Proie remarque le personnage. La carrière n'est pas aussi vulnérable qu'il y paraît.
+**Intrusions de la MJ:** La Proie remarque le personnage. La carrière n'est pas aussi vulnérable qu'il y paraît.
 
 -----
 
@@ -344,7 +344,7 @@ Vous êtes un bagarreur et aimez les bons combats.
 * Rang 5: Maîtrise des attaques
 * Rang 6: Puissance améliorée supérieure ou Dégâts mortels
 
-**Intrusions du MJ:** Les armes se brisent ou s'envolent même sous la poigne la plus forte. Les bagarreurs trébuchent et tombent. Même le champ de bataille peut jouer contre vous avec des objets qui tombent ou s'effondrent.
+**Intrusions de la MJ:** Les armes se brisent ou s'envolent même sous la poigne la plus forte. Les bagarreurs trébuchent et tombent. Même le champ de bataille peut jouer contre vous avec des objets qui tombent ou s'effondrent.
 
 -----
 
@@ -360,7 +360,7 @@ Vous êtes un casse-cou audacieux qui se bat avec un style flamboyant et amusant
 * Rang 5: Utilisation de l'environnement
 * Rang 6: Esprit Agile ou Retour à l'expéditeur
 
-**Intrusions du MJ:** La démonstration semble ridicule, maladroite ou peu spectaculaire.
+**Intrusions de la MJ:** La démonstration semble ridicule, maladroite ou peu spectaculaire.
 
 -----
 
@@ -377,7 +377,7 @@ Vous excellez dans la lutte contre les robots, les automates et les entités mac
 * Rang 5: Drain de puissance
 * Rang 6: Désactiver les mécanismes ou Dégâts mortels
 
-**Intrusions du MJ:** Le robot explose lors de sa défaite. D'autres robots s'en prennent au personnage pour se venger.
+**Intrusions de la MJ:** Le robot explose lors de sa défaite. D'autres robots s'en prennent au personnage pour se venger.
 
 -----
 
@@ -392,7 +392,7 @@ Vous avez perfectionné le pouvoir de votre esprit pour accomplir des actes psyc
 * Rang 5: Précognition
 * Rang 6: Contrôle mental ou Réseau télépathique 
 
-**Intrusions du MJ:** Quelque chose aperçu dans l’esprit de la cible est horrible. Une boucle de rétroaction permet à la cible de lire dans les pensées du personnage.
+**Intrusions de la MJ:** Quelque chose aperçu dans l’esprit de la cible est horrible. Une boucle de rétroaction permet à la cible de lire dans les pensées du personnage.
 
 -----
 
@@ -407,7 +407,7 @@ Vous pouvez déplacer des objets par télékinésie avec votre esprit sans les t
 * Rang 5: Attaque psychokinétique
 * Rang 6: Ramener amélioré ou Remodeler
 
-**Intrusions du MJ:** Une pensée qui dérape et les objets en mouvement tombent ou les objets fragiles se brisent. Parfois, le mauvais objet bouge, tombe ou se casse.
+**Intrusions de la MJ:** Une pensée qui dérape et les objets en mouvement tombent ou les objets fragiles se brisent. Parfois, le mauvais objet bouge, tombe ou se casse.
 
 -----
 
@@ -427,7 +427,7 @@ Le mot « robot » est utilisé dans cette Motivation, bien que le robot que vou
 * Rang 5: Flotte de robots
 * Rang 6: Robot Evolution ou Mise à niveau du robot
 
-**Intrusions du MJ:** Le robot est piraté, acquiert son propre esprit ou explose de manière inattendue.
+**Intrusions de la MJ:** Le robot est piraté, acquiert son propre esprit ou explose de manière inattendue.
 
 -----
 
@@ -444,7 +444,7 @@ Vous pouvez influencer l’attraction de la gravité elle-même.
 * Rang 5: Vol
 * Rang 6: Gravité Coupante Améliorée ou Poids du monde
 
-**Intrusions du MJ:** Les spectateurs réagissent avec une peur irraisonnée. Une interaction étrange envoie un allié ou un objet s'envoler dans le ciel.
+**Intrusions de la MJ:** Les spectateurs réagissent avec une peur irraisonnée. Une interaction étrange envoie un allié ou un objet s'envoler dans le ciel.
 
 -----
 
@@ -459,7 +459,7 @@ Vous maîtrisez le métal et le pouvoir du magnétisme.
 * Rang 5: Commander le Métal
 * Rang 6: Diamagnétisme ou Lancer Objet en Fer
 
-**Intrusions du MJ:** Le métal se tord, se plie ou produit des éclats d'obus. Un manque de concentration peut faire glisser ou tomber quelque chose au mauvais moment.
+**Intrusions de la MJ:** Le métal se tord, se plie ou produit des éclats d'obus. Un manque de concentration peut faire glisser ou tomber quelque chose au mauvais moment.
 
 -----
 
@@ -476,7 +476,7 @@ Votre capacité à communiquer et à diriger des bêtes est surnaturelle.
 * Rang 5: Appel de Bête
 * Rang 6: Comme s'il n'y a qu'une seule créature ou Contrôler le sauvage
 
-**Intrusions du MJ:** La communauté est réticente à accueillir des animaux dangereux. Les bêtes incontrôlables deviennent un véritable danger.
+**Intrusions de la MJ:** La communauté est réticente à accueillir des animaux dangereux. Les bêtes incontrôlables deviennent un véritable danger.
 
 -----
 
@@ -509,7 +509,7 @@ Vous défendez les impuissants, les faibles et ceux qui ne sont pas protégés.
 * Rang 5: Sacrifice volontaire
 * Rang 6: Réanimer ou Véritable défenseur
 
-**Intrusions du MJ:** Un personnage soucieux de protéger les autres peut périodiquement se rendre vulnérable aux attaques.
+**Intrusions de la MJ:** Un personnage soucieux de protéger les autres peut périodiquement se rendre vulnérable aux attaques.
 
 -----
 
@@ -527,7 +527,7 @@ Votre chair est constituée de minéraux durs, ce qui fait de vous un humanoïde
 * Rang 5: Toujours comme une statue
 * Rang 6: Ultra amélioration ou Sursaut mental
 
-**Intrusions du MJ:** Les créatures de pierre oublient parfois leur propre force ou leur propre poids. Une statue ambulante peut terrifier les gens ordinaires.
+**Intrusions de la MJ:** Les créatures de pierre oublient parfois leur propre force ou leur propre poids. Une statue ambulante peut terrifier les gens ordinaires.
 
 -----
 
@@ -544,7 +544,7 @@ Votre capacité naturelle de leadership vous permet de commander aux autres, y c
 * Rang 5: Potentiel amélioré supérieur
 * Rang 6: Bande de suivants ou Esprit de leader
 
-**Intrusions du MJ:** Les adeptes échouent, trahissent, mentent, se corrompent, se font kidnapper ou meurent.
+**Intrusions de la MJ:** Les adeptes échouent, trahissent, mentent, se corrompent, se font kidnapper ou meurent.
 
 -----
 
@@ -560,7 +560,7 @@ Une créature magique alliée liée à un objet (comme un djinn mineur dans une 
 * Rang 5: Souhait modéré
 * Rang 6: Maîtrise des liens d'objet ou Faites confiance à la chance
 
-**Intrusions du MJ:** La créature disparaît de manière inattendue dans son objet lié. L'objet lié se fissure. La créature n'est pas d'accord et ne fait pas ce qui lui est demandé. La créature dit qu'elle s'en va à moins qu'une tâche ne soit accomplie pour elle.
+**Intrusions de la MJ:** La créature disparaît de manière inattendue dans son objet lié. L'objet lié se fissure. La créature n'est pas d'accord et ne fait pas ce qui lui est demandé. La créature dit qu'elle s'en va à moins qu'une tâche ne soit accomplie pour elle.
 
 -----
 
@@ -575,7 +575,7 @@ Vous vous donnez en spectacle principalement pour divertir les autres.
 * Rang 5: Assistance compétente
 * Rang 6: Maître du spectacle ou Performance vindicative
 
-**Intrusions du MJ:** Le public est agacé ou offensé. Les instruments de musique se cassent. Les peintures sèchent dans leurs pots. Les paroles d'un poème ou d'une chanson sont oubliées.
+**Intrusions de la MJ:** Le public est agacé ou offensé. Les instruments de musique se cassent. Les peintures sèchent dans leurs pots. Les paroles d'un poème ou d'une chanson sont oubliées.
 
 -----
 
@@ -591,7 +591,7 @@ Vous êtes l'archétype du chasseur de trésors, du charognard et du chercheur d
 * Rang 5: Explorateur des ténèbres
 * Rang 6: Attaque aveuglante ou Fussionne avec les Ténèbres
 
-**Intrusions du MJ:** Les biens tombent des poches ou des sacs dans le noir ; les cartes se perdent ; les informations obtenues n’incluent pas un détail important.
+**Intrusions de la MJ:** Les biens tombent des poches ou des sacs dans le noir ; les cartes se perdent ; les informations obtenues n’incluent pas un détail important.
 
 -----
 
@@ -606,7 +606,28 @@ Vous façonnez des images à partir de la lumière qui sont si parfaites qu’el
 * Rang 5: Image terrifiante
 * Rang 6: Illusion grandiose ou Illusion permanente
 
-**Intrusions du MJ:** L'illusion n'est pas crédible. L’illusion est percée au mauvais moment.
+**Intrusions de la MJ:** L'illusion n'est pas crédible. L’illusion est percée au mauvais moment.
+
+-----
+
+### Façonne des Objets Uniques
+
+Vous êtes un inventeur d'objets étranges et utiles.
+
+* Rang 1: Artisan
+* Rang 1: Maîtrise de l'Identification des appareils
+* Rang 2: Bricoleur d'artefacts
+* Rang 2: Travail rapide
+* Rang 3: Maître artisan ou Armes intégrées
+* Rang 4: Maîtrise des Cyphers
+* Rang 5: Innovateur
+* Rang 6: Inventeur ou Armure Corporelle
+
+**Intrusions de la MJ:** L'objet fonctionne mal, se casse, ou subit une panne catastrophique ou inattendue.
+
+{{< hint info >}}
+Maîtrise des Cyphers fonctionne uniquement dans un contexte où les chiffres sont des objets physiques. Si ce n'est pas le cas, cette capacité devrait probablement être remplacée par quelque chose qui s'apparente à Percée scientifique étrange de la Motivation Poursuit des Sciences Etranges.
+{{< /hint >}}
 
 -----
 
@@ -622,7 +643,7 @@ Vous créez et déchargez de l’énergie électrique.
 * Rang 5: Vol électrique
 * Rang 6: Aussi Rapide que l'Eclair ou Mur de foudre
 
-**Intrusions du MJ:** Les cibles autres que celles prévues sont choquées. Les objets explosent.
+**Intrusions de la MJ:** Les cibles autres que celles prévues sont choquées. Les objets explosent.
 
 -----
 
@@ -637,7 +658,7 @@ Vous pouvez guérir les autres d’un simple toucher, modifier le temps pour aid
 * Rang 5: Annuler
 * Rang 6: Main Guérisseuse Supérieure ou Restaurer la vie
 
-**Intrusions du MJ:** Les tentatives de guérison pourraient plutôt causer du tort. Une communauté ou un individu a si désespérément besoin d'un guérisseur qu'il en a un contre son gré.
+**Intrusions de la MJ:** Les tentatives de guérison pourraient plutôt causer du tort. Une communauté ou un individu a si désespérément besoin d'un guérisseur qu'il en a un contre son gré.
 
 -----
 
@@ -653,7 +674,7 @@ Vous émettez un son destructeur et manipulez les paysages sonores.
 * Rang 5: Amplifier les sons
 * Rang 6: Tremblement de terre ou Vibration mortelle
 
-**Intrusions du MJ:** Les bruits forts attirent l’attention.
+**Intrusions de la MJ:** Les bruits forts attirent l’attention.
 
 -----
 
@@ -669,7 +690,7 @@ Tout le monde veut que vous soyez à ses côtés lorsqu’il s’agit d’un com
 * Rang 5: Champ de renforcement
 * Rang 6: Générer un champ de force ou Attaque Etourdissante
 
-**Intrusions du MJ:** Une structure d'importance stratégique s’effondre. L'ennemi attaque depuis une direction inattendue.
+**Intrusions de la MJ:** Une structure d'importance stratégique s’effondre. L'ennemi attaque depuis une direction inattendue.
 
 -----
 
@@ -685,7 +706,7 @@ Vous gardez le lieu où vous vivez à l'abri de tout danger.
 * Rang 5: Evasion
 * Rang 6: Compétence en Attaque Supérieure ou Mur de protection
 
-**Intrusions du MJ:** Les membres de la communauté comprennent mal les motivations du personnage. Les rivaux tentent d'évincer le personnage.
+**Intrusions de la MJ:** Les membres de la communauté comprennent mal les motivations du personnage. Les rivaux tentent d'évincer le personnage.
 
 -----
 
@@ -702,7 +723,7 @@ Les âmes errantes, les esprits de la nature et les êtres élémentaires vous a
 * Rang 5: Appeler l'esprit d'un mort
 * Rang 6: Appeler un esprit d'un autre monde ou Absorber l'Esprit
 
-**Intrusions du MJ:** Certaines personnes ne font pas confiance à ceux qui s'occupent des esprits. Parfois, les morts ne veulent pas de berger.
+**Intrusions de la MJ:** Certaines personnes ne font pas confiance à ceux qui s'occupent des esprits. Parfois, les morts ne veulent pas de berger.
 
 -----
 
@@ -717,7 +738,7 @@ Pendant de brèves périodes, vous devenez une créature redoutable et puissante
 * Rang 5: Forme de bête améliorée
 * Rang 6: Dégâts mortels ou Contrôle parfait
 
-**Intrusions du MJ:** Le changement se produit de manière incontrôlée. Les gens ont peur des monstres.
+**Intrusions de la MJ:** Le changement se produit de manière incontrôlée. Les gens ont peur des monstres.
 
 -----
 
@@ -733,7 +754,7 @@ Vous pouvez créer de la lumière, la sculpter, la détourner de vous ou la rass
 * Rang 5: Disparaître
 * Rang 6: Lumière vivante ou Champ défensif
 
-**Intrusions du MJ:** Les alliés sont accidentellement éblouis ou aveuglés. Des éclairs lumineux attirent les gardes.
+**Intrusions de la MJ:** Les alliés sont accidentellement éblouis ou aveuglés. Des éclairs lumineux attirent les gardes.
 
 -----
 
@@ -749,7 +770,7 @@ Tout ce qui quitte votre main va exactement là où vous souhaitez qu'il aille e
 * Rang 5: Tourbillon de lancers
 * Rang 6: Dégâts mortels ou Maîtrise de la défense
 
-**Intrusions du MJ:** Les attaques manquées touchent la mauvaise cible. Les ricochets peuvent être dangereux. Les armes improvisées se brisent.
+**Intrusions de la MJ:** Les attaques manquées touchent la mauvaise cible. Les ricochets peuvent être dangereux. Les armes improvisées se brisent.
 
 -----
 
@@ -767,7 +788,7 @@ Vous êtes un maître d'arme d'un type particulier d'arme, qu'il s'agisse d'une 
 * Rang 5: Maîtrise extrême
 * Rang 6: Meurtrier ou Frappe mortelle
 
-**Intrusions du MJ:** Les armes se brisent. Les armes peuvent être volées. Les armes peuvent être lâchées ou arrachées de votre main.
+**Intrusions de la MJ:** Les armes se brisent. Les armes peuvent être volées. Les armes peuvent être lâchées ou arrachées de votre main.
 
 -----
 
@@ -782,7 +803,7 @@ Insectes. Rats. Chauves-souris. Même les oiseaux. Vous maîtrisez un type de pe
 * Rang 5: Gagner un compagnon inhabituel
 * Rang 6: Essaim mortel ou Compétence en Défense Supérieure
 
-**Intrusions du MJ:** Une commande est mal comprise. Le contrôle est irrégulier ou est perdu. Les morsures et les piqûres ne sont pas rares chez les maîtres de l'essaim.
+**Intrusions de la MJ:** Une commande est mal comprise. Le contrôle est irrégulier ou est perdu. Les morsures et les piqûres ne sont pas rares chez les maîtres de l'essaim.
 
 -----
 
@@ -799,7 +820,7 @@ Vous utilisez un équipement de protection et des techniques pratiquées pour é
 * Rang 5: Rien que Défendre
 * Rang 6: Maître de la défense ou Portez-la bien
 
-**Intrusions du MJ:** Les boucliers se brisent lorsqu'ils sont touchés, tout comme les armes utilisées pour parer. Les sangles d'armure se brisent.
+**Intrusions de la MJ:** Les boucliers se brisent lorsqu'ils sont touchés, tout comme les armes utilisées pour parer. Les sangles d'armure se brisent.
 
 -----
 
@@ -814,7 +835,7 @@ En vous spécialisant dans le lancement de sortilèges et en tenant un livre de 
 * Rang 5: Mur de Granit
 * Rang 6: Invoquer un démon ou Mot de mort
 
-**Intrusions du MJ:** Le sort tourne mal. La créature invoquée se retourne contre le lanceur. Un lanceur de sorts rival est attiré par l'utilisation de la magie.
+**Intrusions de la MJ:** Le sort tourne mal. La créature invoquée se retourne contre le lanceur. Un lanceur de sorts rival est attiré par l'utilisation de la magie.
 
 -----
 
@@ -829,7 +850,7 @@ Vous pouvez manipuler l'ombre et la matière « noire ».
 * Rang 5: Surfeur de Matière Noire
 * Rang 6: Structure de matière noire ou Embrassez la nuit
 
-**Intrusions du MJ:** La matière noire s'éloigne comme si elle était possédée par son propre esprit.
+**Intrusions de la MJ:** La matière noire s'éloigne comme si elle était possédée par son propre esprit.
 
 -----
 
@@ -845,7 +866,7 @@ Un adepte de la magie de la nature qui s'appuie sur le pouvoir et la force des a
 * Rang 5: Grand arbre
 * Rang 6: Forêt Terrifiante ou Floraison réparatrice
 
-**Intrusions du MJ:** Un personnage ou une créature en bois prend feu. Un coup sauvage d'une branche d'arbre frappe ou fait trébucher un allié. Certains arbres ont un mauvais cœur et détestent toutes les choses qui marchent.
+**Intrusions de la MJ:** Un personnage ou une créature en bois prend feu. Un coup sauvage d'une branche d'arbre frappe ou fait trébucher un allié. Certains arbres ont un mauvais cœur et détestent toutes les choses qui marchent.
 
 -----
 
@@ -862,7 +883,7 @@ Des coups de poing, de pied, de coude, des genoux et des mouvements complets du 
 * Rang 5: Attaque Etourdissante
 * Rang 6: Maître du style de combat à mains nues ou Dégâts mortels
 
-**Intrusions du MJ:** Frapper certains ennemis vous fait autant de mal qu'à eux. Les adversaires armés ont une plus grande portée. Des mouvements d'arts martiaux compliqués peuvent vous faire perdre l'équilibre.
+**Intrusions de la MJ:** Frapper certains ennemis vous fait autant de mal qu'à eux. Les adversaires armés ont une plus grande portée. Des mouvements d'arts martiaux compliqués peuvent vous faire perdre l'équilibre.
 
 -----
 
@@ -878,7 +899,7 @@ Vous n’abandonnez jamais, vous pouvez ignorer les coups et revenir toujours po
 * Rang 5: Pas encore mort
 * Rang 6: Défi final ou Ignorer l'Affliction
 
-**Intrusions du MJ:** Parfois, ce sont les équipements ou les armes qui lâchent.
+**Intrusions de la MJ:** Parfois, ce sont les équipements ou les armes qui lâchent.
 
 -----
 
@@ -895,7 +916,7 @@ Sous l’apparence de quelqu’un d’autre, vous cherchez à trouver des répon
 * Rang 5: Utiliser ce qui est disponible
 * Rang 6: Faites confiance à la chance ou Frappe mortelle
 
-**Intrusions du MJ:** La malchance peut ruiner les meilleurs projets. Les déguisements échouent. Les alliés se révèlent également être des agents.
+**Intrusions de la MJ:** La malchance peut ruiner les meilleurs projets. Les déguisements échouent. Les alliés se révèlent également être des agents.
 
 -----
 
@@ -911,7 +932,7 @@ Votre connexion spirituelle avec la nature et l’environnement vous confère de
 * Rang 5: Eruption d'insectes
 * Rang 6: Appeler la tempête ou Tremblement de terre
 
-**Intrusions du MJ:** Une créature naturelle (mais dangereuse) blessée est découverte. Quelqu'un braconne des animaux sauvages pour leur peau, laissant les carcasses pourrir. Un arbre tombe dans la forêt, un des derniers sureaux.
+**Intrusions de la MJ:** Une créature naturelle (mais dangereuse) blessée est découverte. Quelqu'un braconne des animaux sauvages pour leur peau, laissant les carcasses pourrir. Un arbre tombe dans la forêt, un des derniers sureaux.
 
 -----
 
@@ -927,7 +948,7 @@ Vous pouvez projeter votre esprit hors de votre corps pour voir des endroits loi
 * Rang 5: Passager psychique
 * Rang 6: Projection mentale ou Capteur amélioré
 
-**Intrusions du MJ:** Réunir l’esprit et le corps peut parfois être désorientant et nécessiter qu’un personnage passe quelques instants pour se repérer.
+**Intrusions de la MJ:** Réunir l’esprit et le corps peut parfois être désorientant et nécessiter qu’un personnage passe quelques instants pour se repérer.
 
 -----
 
@@ -942,7 +963,7 @@ Vous maîtrisez la puissance hivernale du froid et de la glace.
 * Rang 5: Explosion de froid
 * Rang 6: Tempête de Glace ou Gantelets d'hiver
 
-**Intrusions du MJ:** La glace rend les surfaces glissantes. Un froid extrême provoque la fissuration et la rupture des objets.
+**Intrusions de la MJ:** La glace rend les surfaces glissantes. Un froid extrême provoque la fissuration et la rupture des objets.
 
 -----
 
@@ -959,7 +980,7 @@ Vous possédez une arme aux capacités étranges, et votre connaissance de ses p
 * Rang 5: Mouvement enchanté
 * Rang 6: Frappe mortelle ou Attaque Tournoyante
 
-**Intrusions du MJ:** Une arme se brise ou tombe. Le personnage perd sa connexion avec l'arme jusqu'à ce qu'il utilise une action pour rétablir l'harmonisation. L’énergie de l’arme se décharge de manière inattendue.
+**Intrusions de la MJ:** Une arme se brise ou tombe. Le personnage perd sa connexion avec l'arme jusqu'à ce qu'il utilise une action pour rétablir l'harmonisation. L’énergie de l’arme se décharge de manière inattendue.
 
 -----
 
@@ -977,7 +998,7 @@ Votre perspicacité et vos capacités surnaturelles font de vous un scientifique
 * Rang 6: Incroyable exploit scientifique
 * Rang 6: Inventeur ou Champ défensif
 
-**Intrusions du MJ:** Les créations deviennent incontrôlables. Les effets secondaires ne sont pas toujours prévisibles. Les sciences étranges terrifient les gens et peuvent attirer l’attention des médias. Lorsqu'un appareil créé ou modifié par une science étrange est épuisé, il explose.
+**Intrusions de la MJ:** Les créations deviennent incontrôlables. Les effets secondaires ne sont pas toujours prévisibles. Les sciences étranges terrifient les gens et peuvent attirer l’attention des médias. Lorsqu'un appareil créé ou modifié par une science étrange est épuisé, il explose.
 
 -----
 
@@ -994,7 +1015,7 @@ Les livres sont vos amis. Qu'y a-t-il de plus important que la connaissance ? Ri
 * Rang 6: La connaissance, c'est le pouvoir
 * Rang 6: Tour de l'Intelligenceou Lire les signes
 
-**Intrusions du MJ:** Les livres brûlent, sont mouillés ou se perdent. Les ordinateurs tombent en panne ou perdent de la puissance. Les verres se cassent.
+**Intrusions de la MJ:** Les livres brûlent, sont mouillés ou se perdent. Les ordinateurs tombent en panne ou perdent de la puissance. Les verres se cassent.
 
 ### Prend une Forme Animale
 
@@ -1008,7 +1029,7 @@ Vous pouvez vous transformer en animal.
 * Rang 5: Difficile à tuer
 * Rang 6: Vitesse flou ou Prêter une forme animale
 
-**Intrusions du MJ:** Le personnage change de forme de manière inattendue. Un PNJ est effrayé par votre agressivité envers le métamorphe. La transformation prend plus de temps que prévu.
+**Intrusions de la MJ:** Le personnage change de forme de manière inattendue. Un PNJ est effrayé par votre agressivité envers le métamorphe. La transformation prend plus de temps que prévu.
 
 {{< hint info >}}
 Forme de bête Supérieure s'applique en utilisant Forme animale.
@@ -1030,7 +1051,7 @@ Vous redressez les torts, protégez les innocents et punissez les coupables.
 * Rang 5: Punir tous les coupables
 * Rang 6: Au diable les coupables ou Inspirez les innocents
 
-**Intrusions du MJ:** La culpabilité ou l'innocence peuvent être compliquées. Certaines personnes sont mécontentes de la présomption d'un juge autoproclamé. Porter un jugement fait des ennemis.
+**Intrusions de la MJ:** La culpabilité ou l'innocence peuvent être compliquées. Certaines personnes sont mécontentes de la présomption d'un juge autoproclamé. Porter un jugement fait des ennemis.
 
 -----
 
@@ -1046,7 +1067,7 @@ Vous maîtrisez la déduction et utilisez des faits et des indices pour trouver 
 * Rang 5: Désamorcer la situation
 * Rang 6: Prendre l'initiative ou Compétence en Défense Supérieure
 
-**Intrusions du MJ:** Les preuves disparaissent, les fausses pistes confondent et les témoins mentent. La recherche initiale peut être erronée.
+**Intrusions de la MJ:** Les preuves disparaissent, les fausses pistes confondent et les témoins mentent. La recherche initiale peut être erronée.
 
 -----
 
@@ -1062,7 +1083,7 @@ Vous pouvez extraire des images de rêves et leur donner vie dans le monde évei
 * Rang 5: Cauchemar
 * Rang 6: Chambre des rêves ou Champ réactif
 
-**Intrusions du MJ:** Un épisode de somnambulisme inattendu met le personnage dans une situation dangereuse. Un cauchemar se libère d'un rêve.
+**Intrusions de la MJ:** Un épisode de somnambulisme inattendu met le personnage dans une situation dangereuse. Un cauchemar se libère d'un rêve.
 
 -----
 
@@ -1084,7 +1105,7 @@ Certains personnages qui Résiste Comme une Citadelle sont peut-être déjà des
 * Rang 5: Maîtrise en Armure
 * Rang 6: Dégâts mortels ou Entraînement au bouclier
 
-**Intrusions du MJ:** L'armure est endommagée. Les ennemis de moindre taille conspirent de manière ingénieuse.
+**Intrusions de la MJ:** L'armure est endommagée. Les ennemis de moindre taille conspirent de manière ingénieuse.
 
 -----
 
@@ -1099,7 +1120,7 @@ Vous avancez sans être vu, volant les riches pour parvenir à vos fins.
 * Rang 5: Combattant Hors-la-loi
 * Rang 6: Rat des Allées ou Mettre le paquet
 
-**Intrusions du MJ:** Les voleurs sont jetés en prison. De puissants ennemis se font.
+**Intrusions de la MJ:** Les voleurs sont jetés en prison. De puissants ennemis se font.
 
 -----
 
@@ -1114,7 +1135,7 @@ Les morts répondent à vos questions, et leurs cadavres réanimés vous servent
 * Rang 5: Regard terrifiant
 * Rang 6: Véritable Nécromancie ou Mot de mort
 
-**Intrusions du MJ:** La réputation nécromantique du personnage les précède. Un cadavre cherche à se venger d'avoir été réanimé.
+**Intrusions de la MJ:** La réputation nécromantique du personnage les précède. Un cadavre cherche à se venger d'avoir été réanimé.
 
 -----
 
@@ -1130,7 +1151,7 @@ Vous portez de l'acier dans chaque main, prêt à affronter n'importe quel ennem
 * Rang 5: Double Distraction
 * Rang 6: Attaque de désarmement ou Attaque Tournoyante
 
-**Intrusions du MJ:** Une lame se brise en deux ou une arme se détache de la poigne de son porteur.
+**Intrusions de la MJ:** Une lame se brise en deux ou une arme se détache de la poigne de son porteur.
 
 -----
 
@@ -1148,7 +1169,7 @@ Vous ferez n'importe quoi pour gagner un combat : mordre, gratter, donner un cou
 * Rang 5: Utilisation de l'environnement
 * Rang 6: Torsion du couteau ou Meurtrier
 
-**Intrusions du MJ:** Les gens voient mal ceux qui trichent ou se battent sans honneur. Parfois, un sale tour se retourne contre vous.
+**Intrusions de la MJ:** Les gens voient mal ceux qui trichent ou se battent sans honneur. Parfois, un sale tour se retourne contre vous.
 
 -----
 
@@ -1165,7 +1186,7 @@ La subtilité, la ruse et la furtivité vous permettent d'accéder là où les a
 * Rang 5: Esquive
 * Rang 6: Lavage de cerveau ou Saut de Côté
 
-**Intrusions du MJ:** Les espions sont traités durement lorsqu’ils sont capturés. Les alliés désavouent les infiltrés qui se font prendre. Il vaut mieux laisser certains secrets inconnus.
+**Intrusions de la MJ:** Les espions sont traités durement lorsqu’ils sont capturés. Les alliés désavouent les infiltrés qui se font prendre. Il vaut mieux laisser certains secrets inconnus.
 
 -----
 
@@ -1181,7 +1202,7 @@ Quand vous devenez fou, tout le monde vous craint.
 * Rang 5: Attaquez et attaquez encore
 * Rang 6: Potentiel amélioré supérieur ou Dégâts mortels
 
-**Intrusions du MJ:** Il est facile pour un berserker de perdre le contrôle et d'attaquer ses amis comme ses ennemis.
+**Intrusions de la MJ:** Il est facile pour un berserker de perdre le contrôle et d'attaquer ses amis comme ses ennemis.
 
 -----
 
@@ -1196,7 +1217,7 @@ Vous pouvez envelopper votre corps de flammes, ce qui vous protège et nuit à v
 * Rang 5: Vrilles de feu
 * Rang 6: Serviteur du Feu ou Piste Infernale
 
-**Intrusions du MJ:** Le feu brûle des matières inflammables. Le feu se propage de manière incontrôlable. Les créatures primitives craignent le feu et attaquent souvent ce qu'elles craignent.
+**Intrusions de la MJ:** Le feu brûle des matières inflammables. Le feu se propage de manière incontrôlable. Les créatures primitives craignent le feu et attaquent souvent ce qu'elles craignent.
 
 -----
 
@@ -1218,7 +1239,7 @@ Bien que manier une épée dans un environnement où les gens ne portent génér
 * Rang 5: Compétence en Attaque Supérieure (épées)
 * Rang 6: Meurtrier ou Fléau des Monstres Géants
 
-**Intrusions du MJ:** Le monstre a tendu un piège ou tendu une embuscade. Le monstre a des capacités jusqu'alors inconnues. La mère du monstre jure de se venger.
+**Intrusions de la MJ:** Le monstre a tendu un piège ou tendu une embuscade. Le monstre a des capacités jusqu'alors inconnues. La mère du monstre jure de se venger.
 
 -----
 
@@ -1234,7 +1255,7 @@ Vous pouvez vous déplacer si vite que vous devenez flou.
 * Rang 5: Difficile à voir
 * Rang 6: Sursaut de Vitesse Parfait ou Vitesse de course incroyable
 
-**Intrusions du MJ:** Les surfaces peuvent être glissantes ou présenter des obstacles cachés. Le mouvement des autres créatures peut être imprévisible et le personnage peut les rencontrer.
+**Intrusions de la MJ:** Les surfaces peuvent être glissantes ou présenter des obstacles cachés. Le mouvement des autres créatures peut être imprévisible et le personnage peut les rencontrer.
 
 -----
 
@@ -1251,7 +1272,7 @@ Vous pouvez survivre dans des étendues sauvages où d'autres périssent.
 * Rang 5: La nature est de votre côté
 * Rang 6: Faire Corps avec la Nature ou Camouflage sauvage
 
-**Intrusions du MJ:** Les habitants des villes et des villages dénigrent parfois ceux qui ont l'air (et sentent) comme s'ils vivaient dans la nature, comme s'ils étaient ignorants ou barbares.
+**Intrusions de la MJ:** Les habitants des villes et des villages dénigrent parfois ceux qui ont l'air (et sentent) comme s'ils vivaient dans la nature, comme s'ils étaient ignorants ou barbares.
 
 -----
 
@@ -1266,7 +1287,7 @@ Vous avez un sens psychique qui vous permet de voir ce que les autres ne peuvent
 * Rang 5: Voir à travers le temps
 * Rang 6: Projection mentale ou Conscience totale
 
-**Intrusions du MJ:** Certains secrets sont trop terribles pour être connus.
+**Intrusions de la MJ:** Certains secrets sont trop terribles pour être connus.
 
 -----
 
@@ -1282,7 +1303,7 @@ Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur
 * Rang 5: Entraînement magique
 * Rang 6: Maximiser le Cypher ou Instinct de Magie Sauvage
 
-**Intrusions du MJ:** Un sort s'exécute de manière erratique ou rebondit sur le lanceur. Quelque chose interfère avec la préparation des sorts. Le lancement de sorts attire l'attention d'une créature puissante ou d'un rival potentiel. Le sort de chiffre lancé est remplacé par celui d'un chiffre aléatoire.
+**Intrusions de la MJ:** Un sort s'exécute de manière erratique ou rebondit sur le lanceur. Quelque chose interfère avec la préparation des sorts. Le lancement de sorts attire l'attention d'une créature puissante ou d'un rival potentiel. Le sort de chiffre lancé est remplacé par celui d'un chiffre aléatoire.
 
 -----
 
@@ -1299,28 +1320,7 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 * Rang 5: Further Mathematics
 * Rang 6: Connaître l'inconn ou Intelligence Améliorée Supérieure
 
-**Intrusions du MJ:** Too many predicted results threaten to overwhelm and stun the character. A result points to imminent disaster.
-
------
-
-### Crafts Unique Objects
-
-You're an inventor of strange and useful objects.
-
-* Rang 1: Crafter
-* Rang 1: Master Identifier
-* Rang 2: Artifact Tinkerer
-* Rang 2: Quick Work
-* Rang 3: Master Crafter ou Built-In Weaponry
-* Rang 4: Cyphersmith
-* Rang 5: Innovator
-* Rang 6: Inventeur ou Fusion Armor
-
-**Intrusions du MJ:** The object malfunctions, breaks, ou suffers catastrophic ou unexpected failure.
-
-{{< hint info >}}
-Cyphersmith works only in a setting where the cyphers are physical objects. If this isn't the case, this ability should probably be replaced with something akin to Percée scientifique étrange from the Poursuit des Sciences Etranges focus.
-{{< /hint >}}
+**Intrusions de la MJ:** Too many predicted results threaten to overwhelm and stun the character. A result points to imminent disaster.
 
 -----
 
@@ -1336,7 +1336,7 @@ You're a slacker, but you know a little about a lot of things.
 * Rang 5: Potentiel amélioré supérieur
 * Rang 6 Drawing on Life's Experiences ou Quick Wits
 
-**Intrusions du MJ:** New situations are confounding and stressful. Past actions (or inactions) come back to haunt the character.
+**Intrusions de la MJ:** New situations are confounding and stressful. Past actions (or inactions) come back to haunt the character.
 
 -----
 
@@ -1356,7 +1356,7 @@ Whether balancing on two wheels, jumping another vehicle, ou driving head-on tow
 * Rang 5: Something in the Road
 * Rang 6: Trick Driver ou Dégâts mortels
 
-**Intrusions du MJ:** The engine develops a knock. The bridge on the road ahead is out. The windshield shatters. Someone unexpectedly runs in front of the vehicle.
+**Intrusions de la MJ:** The engine develops a knock. The bridge on the road ahead is out. The windshield shatters. Someone unexpectedly runs in front of the vehicle.
 
 -----
 
@@ -1371,7 +1371,7 @@ Your body, hard as crystal, gives you a suite of unique abilities, gained after 
 * Rang 5: Resonant Frequency
 * Rang 6: Resonant Quake ou Return to the Obelisk
 
-**Intrusions du MJ:** Cyphers and artifacts react unexpectedly in the character's hands.
+**Intrusions de la MJ:** Cyphers and artifacts react unexpectedly in the character's hands.
 
 -----
 
@@ -1386,7 +1386,7 @@ You exist in two places at once.
 * Rang 5: Coordinated Effort
 * Rang 6: Multiplicity ou Resilient Duplicate
 
-**Intrusions du MJ:** Perceiving the world from two different places disorients the character, causing momentary vertigo, nausea, ou confusion.
+**Intrusions de la MJ:** Perceiving the world from two different places disorients the character, causing momentary vertigo, nausea, ou confusion.
 
 -----
 
@@ -1401,7 +1401,7 @@ A bit translucent, you're slightly out of phase and can move through solid objec
 * Rang 5: Untouchable
 * Rang 6: Enhanced Phased Attack ou Phase Foe
 
-**Intrusions du MJ:** The character is sent phasing into an unexpected dimension. The character becomes lost in a large solid.
+**Intrusions de la MJ:** The character is sent phasing into an unexpected dimension. The character becomes lost in a large solid.
 
 -----
 
@@ -1417,7 +1417,7 @@ You can fly, and you're superstrong, hard to hurt, and fast too. Is there anythi
 * Rang 5: Pas encore mort
 * Rang 6: Lumière brûlante ou Ignorer l'Affliction
 
-**Intrusions du MJ:** A nemesis finds the character. A strange material is found to nullify the character's abilities.
+**Intrusions de la MJ:** A nemesis finds the character. A strange material is found to nullify the character's abilities.
 
 -----
 
@@ -1432,7 +1432,7 @@ Your body is part machine.
 * Rang 5: Deep Reserves
 * Rang 6: Mind Surge ou Ultra Enhancement
 
-**Intrusions du MJ:** People in most societies are afraid of someone who is revealed to have mechanical parts.
+**Intrusions de la MJ:** People in most societies are afraid of someone who is revealed to have mechanical parts.
 
 -----
 
@@ -1449,7 +1449,7 @@ Electronic aids implanted in your brain make you a mental powerhouse.
 * Rang 5: See the Future
 * Rang 6: Machine Enhancement ou Mind Surge
 
-**Intrusions du MJ:** Machines malfunction and shut down. Powerful machine intelligences can take control of lesser thinking machines. Some people don't trust a person who isn't fully organic.
+**Intrusions de la MJ:** Machines malfunction and shut down. Powerful machine intelligences can take control of lesser thinking machines. Some people don't trust a person who isn't fully organic.
 
 -----
 
@@ -1466,7 +1466,7 @@ For brief periods, you can grow larger and, with enough experience, to towering 
 * Rang 5: Gargantuan
 * Rang 6: Colossal ou Dégâts mortels
 
-**Intrusions du MJ:** Rapid growth knocks over furnishings ou smashes through ceilings ou hanging lights. An enlarged character breaks through the floor.
+**Intrusions de la MJ:** Rapid growth knocks over furnishings ou smashes through ceilings ou hanging lights. An enlarged character breaks through the floor.
 
 -----
 
@@ -1484,7 +1484,7 @@ You can change your appearance to look like anyone else.
 * Rang 5: Memory Becomes Action
 * Rang 6: Divide Your Mind ou Infer Thoughts
 
-**Intrusions du MJ:** Part of the disguise slips. An NPJ thinks the disguised character is someone they know very well.
+**Intrusions de la MJ:** Part of the disguise slips. An NPJ thinks the disguised character is someone they know very well.
 
 -----
 
@@ -1499,7 +1499,7 @@ You can teleport from one place to another by briefly passing through a parallel
 * Rang 5: Medium Teleportation
 * Rang 6: Teleportation ou Teleportive Wound
 
-**Intrusions du MJ:** A teleport goes awry, landing the character in a dangerous place. Inertia (such as from falling) continues through the teleport, injuring the character.
+**Intrusions de la MJ:** A teleport goes awry, landing the character in a dangerous place. Inertia (such as from falling) continues through the teleport, injuring the character.
 
 -----
 
@@ -1515,7 +1515,7 @@ You excel at winning others over to your views.
 * Rang 5: No One Knows Better
 * Rang 6: Potentiel amélioré supérieur ou Legal Intern
 
-**Intrusions du MJ:** Onlookers react badly to a know-it-all. A distraction ou interruption throws the character's argument off the rails.
+**Intrusions de la MJ:** Onlookers react badly to a know-it-all. A distraction ou interruption throws the character's argument off the rails.
 
 -----
 
@@ -1532,7 +1532,7 @@ You're a celebrity and most people adore you.
 * Rang 5: Do You Know Who I Am?
 * Rang 6: Transcend the Script ou Compagnon amélioré
 
-**Intrusions du MJ:** Fans are endangered ou hurt on your behalf. Someone in your entourage betrays you. Your show, tour, contract, ou other event is canceled. The media posts photos of you in an embarrassing situation.
+**Intrusions de la MJ:** Fans are endangered ou hurt on your behalf. Someone in your entourage betrays you. Your show, tour, contract, ou other event is canceled. The media posts photos of you in an embarrassing situation.
 
 -----
 
@@ -1548,7 +1548,7 @@ You're a celebrity and most people adore you.
 * Rang 5: Band of Desperados
 * Rang 6: Pas encore mort ou Dégâts mortels
 
-**Intrusions du MJ:** Most people do not take well to discovering a wanted outlaw in their midst.
+**Intrusions de la MJ:** Most people do not take well to discovering a wanted outlaw in their midst.
 
 -----
 
@@ -1562,13 +1562,13 @@ When it's just you, your spacesuit, and the panorama of stars wheeling out forev
 * Rang 1: Microgravity Adept
 * Rang 2: Avantage de Vitesse Amélioré
 * Rang 2: Enhanced Physique
-* Rang 3: Space Fighting ou Fusion Armor
+* Rang 3: Space Fighting ou Armure Corporelle
 * Rang 4: Silent As Space
 * Rang 4: Push Off and Throw
 * Rang 5: Microgravity Avoidance
 * Rang 6: Weightless Shot ou Reactive Field
 
-**Intrusions du MJ:** Spacesuits develop glitches. Air refill cartridges sometimes misreport capacity. Micrometeorites are common in space.
+**Intrusions de la MJ:** Spacesuits develop glitches. Air refill cartridges sometimes misreport capacity. Micrometeorites are common in space.
 
 -----
 
@@ -1588,7 +1588,7 @@ You're a crack starship pilot.
 * Rang 6: Incomparable Pilot
 * Rang 6: Remote Control ou Compétence avec les attaques
 
-**Intrusions du MJ:** Starcraft get lost, break down, and are attacked in space. An alien stowaway is found.
+**Intrusions de la MJ:** Starcraft get lost, break down, and are attacked in space. An alien stowaway is found.
 
 -----
 
@@ -1606,7 +1606,7 @@ Lessons, reflexes, and strategies you've learned by playing too many games have 
 * Rang 5: Gamer's Fortitude
 * Rang 6: Mind Surge ou Gaming God
 
-**Intrusions du MJ:** Missed attacks strike the wrong target. Equipment breaks. Sometimes people react negatively to someone who has lived most of their life in imaginary game worlds.
+**Intrusions de la MJ:** Missed attacks strike the wrong target. Equipment breaks. Sometimes people react negatively to someone who has lived most of their life in imaginary game worlds.
 
 -----
 
@@ -1623,7 +1623,7 @@ Your first instinct is to run from danger, and you've gotten very good at it.
 * Rang 5: Go to Ground
 * Rang 6: Burst of Escape ou Compétence en Défense Supérieure
 
-**Intrusions du MJ:** Quick movements sometimes lead to dropped items, slipping on uneven ground, ou going the wrong way by accident.
+**Intrusions de la MJ:** Quick movements sometimes lead to dropped items, slipping on uneven ground, ou going the wrong way by accident.
 
 -----
 
@@ -1639,7 +1639,7 @@ When not running and hiding, you sift the ruins of civilization for useful remna
 * Rang 5: Recycled Cyphers
 * Rang 6: Artifact Scavenger ou Reactive Field
 
-**Intrusions du MJ:** An item made with recycled junk breaks. Someone shows up claiming that the useful item ou piece of junk scavenged belongs to them. A recycled cypher explodes.
+**Intrusions de la MJ:** An item made with recycled junk breaks. Someone shows up claiming that the useful item ou piece of junk scavenged belongs to them. A recycled cypher explodes.
 
 -----
 
@@ -1655,7 +1655,7 @@ You create physical objects out of hard light that you can use for offense and d
 * Rang 5: Improved Sculpt Light
 * Rang 6: Champ défensif ou Vol
 
-**Intrusions du MJ:** A hard light object disappears early. A hard light object cannot affect a certain creature ou color.
+**Intrusions de la MJ:** A hard light object disappears early. A hard light object cannot affect a certain creature ou color.
 
 -----
 
@@ -1671,7 +1671,7 @@ Speed plus phasing gives you a unique ability to evade danger and simultaneously
 * Rang 5: Very Long Sprinting
 * Rang 6: Shred Existence ou Untouchable While Moving
 
-**Intrusions du MJ:** Moving so quickly while sprinting sometimes leads to stumbles on unexpected, exotic obstacles.
+**Intrusions de la MJ:** Moving so quickly while sprinting sometimes leads to stumbles on unexpected, exotic obstacles.
 
 -----
 
@@ -1688,7 +1688,7 @@ You can shrink down to the size of a bug and, with enough experience, even small
 * Rang 5: Shrink Others
 * Rang 6: Bigger ou Tiny
 
-**Intrusions du MJ:** A creature thinks the small character is potential food. The small character gets trapped in a tiny space ou under a falling object.
+**Intrusions de la MJ:** A creature thinks the small character is potential food. The small character gets trapped in a tiny space ou under a falling object.
 
 {{< hint info >}}
 A character who Shrinks to Minute Size who chooses to learn abilities like Enlarge will never be quite as big as one who Grows to Towering Heights, but they can enjoy the advantages of being big ou small as needed.
@@ -1711,7 +1711,7 @@ Robots and other living machines should be treated as creatures, not machines, f
 * Rang 5: Share the Power
 * Rang 6: Explosive Release ou Sun Siphon
 
-**Intrusions du MJ:** Drained power also transmits something unwanted---compulsions, afflictions, ou alien thoughts. Siphoned power can overload the character, causing feedback.
+**Intrusions de la MJ:** Drained power also transmits something unwanted---compulsions, afflictions, ou alien thoughts. Siphoned power can overload the character, causing feedback.
 
 -----
 
@@ -1727,7 +1727,7 @@ Many superheroes can fly, and some even have wings. You can use your wings for m
 * Rang 5: Up to Speed
 * Rang 6: Hard Target ou Maître de la défense
 
-**Intrusions du MJ:** A wing gets hurt ou restrained, causing the character to fall. Flying high makes the character an obvious target for an unexpected foe.
+**Intrusions de la MJ:** A wing gets hurt ou restrained, causing the character to fall. Flying high makes the character an obvious target for an unexpected foe.
 
 -----
 
@@ -1744,7 +1744,7 @@ Your body is elastic and rubbery, able to stretch to great lengths and compress 
 * Rang 5: Free to Move
 * Rang 6:Break the Ranks ou Pas encore mort
 
-**Intrusions du MJ:** An attack ou effect interferes with the character’s elasticity. A stretched limb becomes overstressed and weak.
+**Intrusions de la MJ:** An attack ou effect interferes with the character’s elasticity. A stretched limb becomes overstressed and weak.
 
 -----
 
@@ -1762,7 +1762,7 @@ You use your organic brain like a computer, interfacing "wirelessly" with any el
 * Rang 5: Information Gathering
 * Rang 6: Control Machine ou Improved Machine Companion
 
-**Intrusions du MJ:** The machine malfunctions ou acts unpredictably.
+**Intrusions de la MJ:** The machine malfunctions ou acts unpredictably.
 
 -----
 
@@ -1777,7 +1777,7 @@ You can summon storms ou break them apart.
 * Rang 5: Explosion de froid
 * Rang 6: Control Weather ou Wind Chariot
 
-**Intrusions du MJ:** An ally is accidentally struck by a fork of lightning. An unexpected grounding effect inflicts damage. The weather is seeded by a much smaller effect, and a storm grows out of control.
+**Intrusions de la MJ:** An ally is accidentally struck by a fork of lightning. An unexpected grounding effect inflicts damage. The weather is seeded by a much smaller effect, and a storm grows out of control.
 
 -----
 
@@ -1796,7 +1796,7 @@ Although all character choices are subject to GM approval, Travels Through Time 
 * Rang 5: Time Doppelganger
 * Rang 6: Call Through Time ou Time Travel
 
-**Intrusions du MJ:** Paradoxes are created. Others remember past events differently.
+**Intrusions de la MJ:** Paradoxes are created. Others remember past events differently.
 
 -----
 
@@ -1812,7 +1812,7 @@ Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur
 * Rang 5: Entraînement magique
 * Rang 6: Maximiser le Cypher ou Instinct de Magie Sauvage
 
-**Intrusions du MJ:** Un sort s'exécute de manière erratique ou rebondit sur le lanceur. Quelque chose interfère avec la préparation des sorts. Le lancement de sorts attire l'attention d'une créature puissante ou d'un rival potentiel. Le sort de chiffre lancé est remplacé par celui d'un chiffre aléatoire.
+**Intrusions de la MJ:** Un sort s'exécute de manière erratique ou rebondit sur le lanceur. Quelque chose interfère avec la préparation des sorts. Le lancement de sorts attire l'attention d'une créature puissante ou d'un rival potentiel. Le sort de chiffre lancé est remplacé par celui d'un chiffre aléatoire.
 
 -----
 
@@ -1821,13 +1821,13 @@ Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur
 * Rang 1: Powered Armor
 * Rang 1: Enhanced Might
 * Rang 2: Heads-Up Display
-* Rang 3: Fusion Armor ou Incredible  Health
+* Rang 3: Armure Corporelle ou Incredible  Health
 
 * Rang 4: Force Blast
 * Rang 5: Field-Reinforced Armor
 * Rang 6: Masterful Armor Modification (Jet Assisted Flight) ou Masterful Armor Modification (Cypher Pod)
 
-**Intrusions du MJ:** The armor won't come off. The armor acts under its own power. The armor suffers a momentary power loss. NPJs are scared by the power armor.
+**Intrusions de la MJ:** The armor won't come off. The armor acts under its own power. The armor suffers a momentary power loss. NPJs are scared by the power armor.
 
 -----
 
@@ -1843,7 +1843,7 @@ You bend light and manipulate beams of force for offense and defense.
 * Rang 5: Champ défensif
 * Rang 6: Concussion ou Générer un champ de force
 
-**Intrusions du MJ:** Invisibility partially fades, revealing the character’s presence. A force field is pierced by an unusual ou unexpected attack.
+**Intrusions de la MJ:** Invisibility partially fades, revealing the character’s presence. A force field is pierced by an unusual ou unexpected attack.
 
 -----
 
@@ -1859,7 +1859,7 @@ You take great satisfaction in a job well done, whether it's coding, building ho
 * Rang 5: Expert Skill
 * Rang 6: Potentiel amélioré supérieur ou  Résilience durement gagnée
 
-**Intrusions du MJ:** Repairs sometimes fail. Wiring can be tricky to decipher and still carry an electrical charge. Some people are rude to those who work for a living.
+**Intrusions de la MJ:** Repairs sometimes fail. Wiring can be tricky to decipher and still carry an electrical charge. Some people are rude to those who work for a living.
 
 -----
 
@@ -1875,7 +1875,7 @@ You can exploit flaws in artificial systems, including but not limited to comput
 * Rang 5: Work the Friendship
 * Rang 6: Call in Favor ou Potentiel amélioré supérieur
 
-**Intrusions du MJ:** Contacts sometimes have ulterior motives. Devices sometimes have failsafes ou even traps.
+**Intrusions de la MJ:** Contacts sometimes have ulterior motives. Devices sometimes have failsafes ou even traps.
 
 -----
 
@@ -2133,7 +2133,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Calcule l'Incalculable
 * Contrôle la Gravité
 * Façonne des Illusions
-* Crafts Unique Objects
+* Façonne des Objets Uniques
 * Contrôle le Magnétisme
 * Concentre l'Esprit sur la Matière
 
@@ -2538,7 +2538,7 @@ devices, learning powerful magic spells, uncovering forbidden secrets, ou someth
 
 * Lower-Rang ability: choose any Rang 1 ou 2 replacement ability, above.
 * Santé incroyable
-* Fusion Armor
+* Armure Corporelle
 
 ### Rang 4
 

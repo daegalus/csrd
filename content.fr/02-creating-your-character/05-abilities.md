@@ -1136,13 +1136,13 @@ Donnent la possibilité de faire une attaque spéciale de mélée ou à distance
 {{< columns >}}
 
 * Allumage
+* Armes intégrées
 * Attaque acrobatique
 * Attaque de Phase
 * Attaque en réponse
 * Attaque étourdissante
 * Attaque rapide
 * Attaque Surprise Améliorée
-* Built-in Weaponry
 * Centre d'attention
 * Charge Drainante
 * Courir et combattre

@@ -46,7 +46,7 @@ Alley Rat/Rat des Allées (6 points d'Intelligence): lorsque vous êtes dans une
 ==
 Always Tinkering/Toujours bricoler: si vous disposez d'outils et de matériel et que vous transportez moins de chiffres que votre limite, vous pouvez créer un chiffre manifeste si vous avez une heure à consacrer. Le nouveau chiffre est aléatoire et toujours 2 niveaux inférieurs à la normale (minimum 1). C'est aussi capricieux et fragile. C'est ce qu'on appelle des chiffres capricieux. Si vous en donnez un à quelqu'un d'autre, il s'effondre immédiatement, inutile. Action à initier ; une heure pour terminer.
 ==
-Amazing Copy/Copie étonnante: vous pouvez utiliser Copy Power pour copier des capacités plus puissantes. En plus des options normales d'utilisation de l'Effort avec Pouvoir de Copie, si vous appliquez deux niveaux d'Effort, le MJ choisit une capacité de haut niveau qui ressemble le plus à ce pouvoir (au lieu d'une capacité de bas niveau). Facilitateur.
+Amazing Copying/Copie étonnante: vous pouvez utiliser Copy Power pour copier des capacités plus puissantes. En plus des options normales d'utilisation de l'Effort avec Pouvoir de Copie, si vous appliquez deux niveaux d'Effort, le MJ choisit une capacité de haut niveau qui ressemble le plus à ce pouvoir (au lieu d'une capacité de bas niveau). Facilitateur.
 ==
 Amazing Effort/Effort incroyable: lorsque vous appliquez au moins un niveau d'effort à une tâche hors combat, vous obtenez un niveau d'effort gratuit sur cette tâche. Lorsque vous choisissez cette capacité, décidez si elle s'applique à l'Effort de puissance ou à l'Effort de vitesse. Facilitateur.
 ==
@@ -268,7 +268,7 @@ Brute Strike/Coup brutal (4 points de puissance): vous infligez 4 points de dég
 ==
 Buddy System/Copain (3 points d'Intelligence): Choisissez un personnage à côté de vous. Ce personnage devient votre copain pendant dix minutes. Vous êtes entraîné à toutes les tâches impliquant la recherche, la guérison, l'interaction avec et la protection de votre copain. De plus, lorsque vous vous tenez à côté de votre copain, vous disposez tous les deux d'un atout dans les tâches de défense rapide. Vous ne pouvez avoir qu'un seul copain à la fois. Action à initier.
 ==
-Built-in Weaponery/Armes intégrées: des implants biomécaniques, un joyau magique fusionné sur votre front ou quelque chose d'aussi sauvage vous fournissent désormais des armes inhérentes. Cela vous permet de tirer une explosion d'énergie à longue portée qui inflige 5 points de dégâts. L'utilisation de cette capacité est gratuite. Action.
+Built-In Weaponry/Armes intégrées: des implants biomécaniques, un joyau magique fusionné sur votre front ou quelque chose d'aussi sauvage vous fournissent désormais des armes inhérentes. Cela vous permet de tirer une explosion d'énergie à longue portée qui inflige 5 points de dégâts. L'utilisation de cette capacité est gratuite. Action.
 ==
 Burning Light/Lumière brûlante (3 points d'Intelligence) : Vous envoyez un faisceau de lumière sur une créature à longue portée, puis resserrez le faisceau jusqu'à ce qu'il brûle, lui infligeant 5 points de dégâts. Action.
 ==
