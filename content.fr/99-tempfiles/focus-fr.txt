@@ -8,13 +8,13 @@ Brandishes an Exotic Shield/Brandit un Bouclier Exotique
 Builds Robots
 Calculates the Incalculable
 Channels Divine Blessings/Canalise les Bénédictions Divines
-Commands Mental Powers
+Commands Mental Powers/Commande aux pouvoirs Mentaux
 Conducts Weird Science
 Consorts With the Dead/S'Associe avec les Morts
 Controls Beasts/Contrôle les Bêtes Sauvages
-Controls Gravity
+Controls Gravity/Contrôle la Gravité
 Copies Superpowers
-Crafts Illusions
+Crafts Illusions/Façonne des Illusions
 Crafts Unique Objects
 Dances With Dark Matter/Manipule la Matière Noire
 Defends the Gate/Garde le Passage
@@ -31,7 +31,7 @@ Explores Dark Places/Explore des Endroits Sombres
 Fights Dirty/Se Bat Sans Respecter de Règle
 Fights With Panache/Combat avec Panache
 Flies Faster Than a Bullet
-Focuses Mind Over Matter
+Focuses Mind Over Matter/Concentre l'Esprit sur la Matière
 Fuses Flesh and Steel
 Fuses Mind and Machine
 Grows to Towering Heights
@@ -80,7 +80,7 @@ Shrinks To Minute Size
 Siphons Power
 Slays Monsters/Tue les Monstres
 Soars On Amazing Wings
-Solves Mysteries
+Solves Mysteries/Résout des Mystères
 Speaks for the Land/Parle au Nom de la Terre
 Stands Like a Bastion/Résiste Comme une Citadelle
 Stretches

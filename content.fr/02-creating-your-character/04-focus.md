@@ -381,6 +381,53 @@ Vous excellez dans la lutte contre les robots, les automates et les entités mac
 
 -----
 
+### Commande aux pouvoirs Mentaux
+
+Vous avez perfectionné le pouvoir de votre esprit pour accomplir des actes psychiques incroyables.
+
+* Rang 1: Télépathique
+* Rang 2: Lecture mentale
+* Rang 3: Projection Psychique ou Suggestion Psychique
+* Rang 4: Use Senses of Others
+* Rang 5: Précognition
+* Rang 6: Contrôle mental ou Réseau télépathique 
+
+**Intrusions du MJ:** Quelque chose aperçu dans l’esprit de la cible est horrible. Une boucle de rétroaction permet à la cible de lire dans les pensées du personnage.
+
+-----
+
+### Concentre l'Esprit sur la Matière
+
+Vous pouvez déplacer des objets par télékinésie avec votre esprit sans les toucher physiquement.
+
+* Rang 1: Détourner les attaques
+* Rang 2: Télékinésie
+* Rang 3: Manteau d'opportunité ou Améliorer la force
+* Rang 4: Ramener
+* Rang 5: Attaque psychokinétique
+* Rang 6: Ramener amélioré ou Remodeler
+
+**Intrusions du MJ:** Une pensée qui dérape et les objets en mouvement tombent ou les objets fragiles se brisent. Parfois, le mauvais objet bouge, tombe ou se casse.
+
+-----
+
+### Contrôle la Gravité
+
+Vous pouvez influencer l’attraction de la gravité elle-même.
+
+**Option d'échange de type:** Lourd
+
+* Rang 1: Survol
+* Rang 2: Avantage de Vitesse Amélioré
+* Rang 3: Définir le bas ou Gravité Coupante
+* Rang 4: Champ de gravité
+* Rang 5: Vol
+* Rang 6: Gravité Coupante Améliorée ou Poids du monde
+
+**Intrusions du MJ:** Les spectateurs réagissent avec une peur irraisonnée. Une interaction étrange envoie un allié ou un objet s'envoler dans le ciel.
+
+-----
+
 ### Contrôle le Magnétisme
 
 Vous maîtrisez le métal et le pouvoir du magnétisme.
@@ -509,6 +556,21 @@ Vous êtes l'archétype du chasseur de trésors, du charognard et du chercheur d
 * Rang 6: Attaque aveuglante ou Fussionne avec les Ténèbres
 
 **Intrusions du MJ:** Les biens tombent des poches ou des sacs dans le noir ; les cartes se perdent ; les informations obtenues n’incluent pas un détail important.
+
+-----
+
+### Façonne des Illusions
+
+Vous façonnez des images à partir de la lumière qui sont si parfaites qu’elles semblent réelles.
+
+* Rang 1: Illusion mineure
+* Rang 2: Déguisement illusoire
+* Rang 3: Lancer Illusion ou Illusion majeure
+* Rang 4: Image Miroir
+* Rang 5: Image terrifiante
+* Rang 6: Illusion grandiose ou Illusion permanente
+
+**Intrusions du MJ:** L'illusion n'est pas crédible. L’illusion est percée au mauvais moment.
 
 -----
 
@@ -918,6 +980,22 @@ Vous redressez les torts, protégez les innocents et punissez les coupables.
 
 -----
 
+### Résout des Mystères
+
+Vous maîtrisez la déduction et utilisez des faits et des indices pour trouver la réponse.
+
+* Rang 1: Enquêteur
+* Rang 1: Détective
+* Rang 2: Hors de danger
+* Rang 3: Vous avez étudié ou Compétence avec les attaques
+* Rang 4: Tirer une conclusion
+* Rang 5: Désamorcer la situation
+* Rang 6: Prendre l'initiative ou Compétence en Défense Supérieure
+
+**Intrusions du MJ:** Les preuves disparaissent, les fausses pistes confondent et les témoins mentent. La recherche initiale peut être erronée.
+
+-----
+
 ### Réveille les rêves
 
 Vous pouvez extraire des images de rêves et leur donner vie dans le monde éveillé.
@@ -1191,21 +1269,6 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 
 -----
 
-### Commands Mental Powers
-
-You have honed the power of your mind to perform amazing psychic deeds.
-
-* Rang 1: Telepathic
-* Rang 2: Mind Reading
-* Rang 3: Psychic Burst ou Psychic Suggestion
-* Rang 4: Use Senses of Others
-* Rang 5: Precognition
-* Rang 6: Mind Control ou Telepathic Network
-
-**Intrusions du MJ:** Something glimpsed in the target's mind is horrifying. A feedback loop allows the target to read the character's mind.
-
------
-
 ### Poursuit des Sciences Etranges
 
 Your preternatural insight and ability make you a scientist capable of amazing feats.
@@ -1224,23 +1287,6 @@ Your preternatural insight and ability make you a scientist capable of amazing f
 
 -----
 
-### Controls Gravity
-
-You can sway the attraction of gravity itself.
-
-**Option d'échange de type:** Weighty
-
-* Rang 1: Hover
-* Rang 2: Avantage de Vitesse Amélioré
-* Rang 3: Define Down ou Gravity Cleave
-* Rang 4: Field of Gravity
-* Rang 5: Flight
-* Rang 6: Improved Gravity Cleave ou Weight of the World
-
-**Intrusions du MJ:** Onlookers react with unreasoning fear. A weird interaction sends an ally ou object careening into the sky.
-
------
-
 ### Copies Superpowers
 
 You can copy others’ skills, abilities, and superpowers.
@@ -1254,21 +1300,6 @@ You can copy others’ skills, abilities, and superpowers.
 * Rang 6: Amazing Copying ou Multiple
 
 **Copying GM Intrusions:** A copied power ends unexpectedly ou goes out of control. A copied power doesn’t bring secondary powers with it (like gaining superspeed without protection from air friction, ou not being immune to the heat from your own fire bolts).
-
------
-
-### Crafts Illusions
-
-You fashion images from light that are so perfect they seem real.
-
-* Rang 1: Minor Illusion
-* Rang 2: Illusory Disguise
-* Rang 3: Cast Illusion ou Major Illusion
-* Rang 4: Illusory Selves
-* Rang 5: Terrifying Image
-* Rang 6: Grandiose Illusion ou Permanent Illusion
-
-**Intrusions du MJ:** The illusion isn't believable. The illusion is pierced at just the wrong moment.
 
 -----
 
@@ -1334,7 +1365,7 @@ Whether balancing on two wheels, jumping another vehicle, ou driving head-on tow
 Your body, hard as crystal, gives you a suite of unique abilities, gained after an interaction with a floating crystalline obelisk.
 
 * Rang 1: Crystalline Body
-* Rang 2: Hover
+* Rang 2: Survol
 * Rang 3: Inhabit Crystal ou Immovable
 * Rang 4: Crystal Lens
 * Rang 5: Resonant Frequency
@@ -1378,7 +1409,7 @@ A bit translucent, you're slightly out of phase and can move through solid objec
 
 You can fly, and you're superstrong, hard to hurt, and fast too. Is there anything you can't do?
 
-* Rang 1: Hover
+* Rang 1: Survol
 * Rang 2: Potentiel amélioré supérieur
 * Rang 3: Réserves cachées ou Voir à travers la matière
 * Rang 4: En un Clin d'oeil
@@ -1387,21 +1418,6 @@ You can fly, and you're superstrong, hard to hurt, and fast too. Is there anythi
 * Rang 6: Lumière brûlante ou Ignorer l'Affliction
 
 **Intrusions du MJ:** A nemesis finds the character. A strange material is found to nullify the character's abilities.
-
------
-
-### Focuses Mind Over Matter
-
-You can telekinetically move objects with your mind without physically touching them.
-
-* Rang 1: Détourner les attaques
-* Rang 2: Telekinesis
-* Rang 3: Cloak of Opportunity ou Enhance Strength
-* Rang 4: Apportation
-* Rang 5: Psychokinetic Attack
-* Rang 6: Improved Apportation ou Reshape
-
-**Intrusions du MJ:** One mental slip, and moving objects drop ou fragile objects break. Sometimes the wrong item moves, falls, ou breaks.
 
 -----
 
@@ -1637,7 +1653,7 @@ You create physical objects out of hard light that you can use for offense and d
 * Rang 3: Harder Light ou Sculpt Light
 * Rang 4: Intelligence Améliorée Supérieure
 * Rang 5: Improved Sculpt Light
-* Rang 6: Champ défensif ou Flight
+* Rang 6: Champ défensif ou Vol
 
 **Intrusions du MJ:** A hard light object disappears early. A hard light object cannot affect a certain creature ou color.
 
@@ -1668,7 +1684,7 @@ You can shrink down to the size of a bug and, with enough experience, even small
 * Rang 2: Smaller
 * Rang 2: Advantages of Being Small
 * Rang 3: Enlarge ou Quick Switch
-* Rang 4: Small Flight
+* Rang 4: Petit vol
 * Rang 5: Shrink Others
 * Rang 6: Bigger ou Tiny
 
@@ -1703,8 +1719,8 @@ Robots and other living machines should be treated as creatures, not machines, f
 
 Many superheroes can fly, and some even have wings. You can use your wings for movement, attacks, and defense.
 
-* Rang 1: Hover
-* Rang 1: Flight Exertion
+* Rang 1: Survol
+* Rang 1: Vol Court
 * Rang 2: Wing Weapons
 * Rang 3: Attaque acrobatique ou Flying Companion
 * Rang 4: Difficile à toucher
@@ -1712,22 +1728,6 @@ Many superheroes can fly, and some even have wings. You can use your wings for m
 * Rang 6: Hard Target ou Maître de la défense
 
 **Intrusions du MJ:** A wing gets hurt ou restrained, causing the character to fall. Flying high makes the character an obvious target for an unexpected foe.
-
------
-
-### Solves Mysteries
-
-You're a master of deduction, using evidence to find the answer.
-
-* Rang 1: Investigator
-* Rang 1: Sleuth
-* Rang 2: Out of Harm's Way
-* Rang 3: You Studied ou Compétence avec les attaques
-* Rang 4: Draw Conclusion
-* Rang 5: Defuse Situation
-* Rang 6: Seize the Initiative ou Compétence en Défense Supérieure
-
-**Intrusions du MJ:** Evidence disappears, red herrings confuse, and witnesses lie. Initial research can be faulty.
 
 -----
 
@@ -1770,7 +1770,7 @@ You use your organic brain like a computer, interfacing "wirelessly" with any el
 
 You can summon storms ou break them apart.
 
-* Rang 1: Hover
+* Rang 1: Survol
 * Rang 2: Wind Armor
 * Rang 3: Eclairs de puissance ou Storm Seed
 * Rang 4: Windrider
@@ -1936,7 +1936,7 @@ Choosing to create a focus that uses a particular concept---say, creating illusi
 
 In the same way, if a focus grants a character the ability to call some kind of force ou energy, that doesn't mean the focus should automatically be built using the energy manipulation category guidelines (though of course it *could,* if attacking and protecting yourself with that energy is the point). But a focus could be built that grants abilities to call energy ou force that is primarily focused on durability, suggesting a tank combat focus (someone who can take a lot of punishment in a fight); ou blasting away with a main concern for maximizing damage, thus suggesting a striker combat focus; ou creating a follower composed of that energy ou force, suggesting an ally use focus (that is, someone who uses helping creatures, NPJs, ou even duplicate versions of themselves to give them a leg up).
 
-Here's another example: the focus Controls Gravity could conceivably be an environment manipulation focus ou an energy manipulation focus. It depends on whether the focus is more concerned with crushing and holding things in place (environment manipulation) ou on blasting things and protecting yourself with gravity (energy manipulation).
+Here's another example: the focus Contrôle la Gravité could conceivably be an environment manipulation focus ou an energy manipulation focus. It depends on whether the focus is more concerned with crushing and holding things in place (environment manipulation) ou on blasting things and protecting yourself with gravity (energy manipulation).
 
 The same malleability of concept holds true in other realms. For instance, if someone is able to call up and mold raw earth, they might use it to transform themselves into a being of stone (tank combat), to batter foes (striker combat), ou to create walls, barricades, and shields to protect their allies (support).
 
@@ -2080,7 +2080,7 @@ Energy manipulation foci offer abilities that can call fire, electricity, force,
 
 The following are examples and not meant to provide a complete list of all possible foci in this category.
 
-* Absorbs Energy
+* Absorbe l'Energie
 * Bears a Halo of Fire
 * Manipule la Matière Noire
 * Façonne la Foudre
@@ -2131,11 +2131,11 @@ The following are examples and not meant to provide a complete list of all possi
 * Awakens Dreams
 * Blazes With Radiance
 * Calculates the Incalculable
-* Controls Gravity
-* Crafts Illusions
+* Contrôle la Gravité
+* Façonne des Illusions
 * Crafts Unique Objects
 * Contrôle le Magnétisme
-* Focuses Mind Over Matter
+* Concentre l'Esprit sur la Matière
 
 **Ability Selection Guidelines**
 
@@ -2227,11 +2227,11 @@ These foci grant influence through training and persuasion, by direct mental man
 
 The following are examples and not meant to provide a complete list of all possible foci in this category.
 
-* Commands Mental Powers
+* Commande aux pouvoirs Mentaux
 * Poursuit des Sciences Etranges
 * Fuses Mind and Machine
 * Is Idolized by Millions
-* Solves Mysteries
+* Résout des Mystères
 * Talks to Machines
 * Works the System
 

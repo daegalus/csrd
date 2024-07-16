@@ -895,7 +895,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 * **Clerc (connaissance):** Apprend Rapidement, Voit Au-Delà, Préfèrerait Lire
 * **Clerc (vie):** Défend les Faibles, Guide la Communauté, Fait des Miracles
 * **Clerc (lumière):** Illumine avec Eclat, Canalise les Bénédictions Divines
-* **Clerc (tempête):** Façonne la Foudre, Thunders
+* **Clerc (tempête):** Façonne la Foudre, Fait Résonner le Tonnerre
 * **Clerc (tricherie):** Prend une Forme Animale\* (voir aussi les options pour les voleurs)
 * **Clerc (guerre):** Maîtrise l'Armement (voir aussi les options pour les combattants)
 
@@ -946,14 +946,14 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Magicien:** Pour les besoins de cette liste, les magiciens étudient longuement les connaissances magiques pour apprendre les méthodes de lancement de sorts (contrairement aux sorciers, aux démonistes, etc.). Les magiciens sont généralement des Adeptes, mais un magicien orienté vers la personne pourrait être un Emissaire (peut-être avec une Préférence magique). Pour un Magicien généraliste qui possède une variété de sorts, choisissez le focus Maîtrise les Sortilèges. Pour des types plus spécifiques de Magiciens, consultez ce qui suit :
 
-* **Magicien (abjurer):** Absorbs Energy, Focuses Mind Over Matter, Porte un Eclat de Glace
+* **Magicien (abjurer):** Absorbe l'Energie, Concentre l'Esprit sur la Matière, Porte un Eclat de Glace
 * **Magicien (conjurer or summoner):** Contrôle les Bêtes Sauvages, Dispose d'un Allié Magique
-* **Magicien (diviner):** Apprend Rapidement, Voit Au-Delà, Peut Séparer son Esprit de son Corps, Solves Mysteries
-* **Magicien (enchanter):** Commands Mental Powers, Dirige
-* **Magicien (evoker):** Se Revêt d'un Halo de Feu, Illumine avec Eclat, Façonne la Foudre, Thunders, Porte un Eclat de Glace
-* **Magicien (illusionist):** Awakens Dreams, Crafts Illusions
+* **Magicien (diviner):** Apprend Rapidement, Voit Au-Delà, Peut Séparer son Esprit de son Corps, Résout des Mystères
+* **Magicien (enchanter):** Commande aux pouvoirs Mentaux, Dirige
+* **Magicien (evoker):** Se Revêt d'un Halo de Feu, Illumine avec Eclat, Façonne la Foudre, Fait Résonner le Tonnerre, Porte un Eclat de Glace
+* **Magicien (illusionist):** Réveille les rêves, Façonne des Illusions
 * **Magicien (necromancer):** S'Associe avec les Morts, Guide les Esprits
-* **Magicien (transmuter):** Controls Gravity, Focuses Mind Over Matter, Prend une Forme Animale\*
+* **Magicien (transmuter):** Contrôle la Gravité, Concentre l'Esprit sur la Matière, Prend une Forme Animale\*
 
 ## Lancement de sort Préparés ou Spontanés
 
