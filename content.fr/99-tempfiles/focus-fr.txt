@@ -5,7 +5,7 @@ Battles Robots/Combat les Robots
 Bears a Halo of Fire/Se Revêt d'un Halo de Feu
 Blazes With Radiance/Illumine avec Eclat
 Brandishes an Exotic Shield/Brandit un Bouclier Exotique
-Builds Robots
+Builds Robots/Construit des Robots
 Calculates the Incalculable
 Channels Divine Blessings/Canalise les Bénédictions Divines
 Commands Mental Powers/Commande aux pouvoirs Mentaux

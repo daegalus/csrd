@@ -9,7 +9,7 @@ description: Le Type de personnage est le coeur de votre personnage. Son type vo
 Le Type de personnage est le coeur de votre personnage. Son type vous aide à déterminer sa place dans le monde et les relations avec les autres dans la campagne. C'est le "nom" dans la phrase "Je suis un/e *nom+adjectif* qui *proposition*"
 
 {{< hint info >}}
-In some roleplaying games, your character type might be called your character class.
+Dans certains jeux de rôle, votre type de personnage peut être appelé votre classe de personnage.
 {{< /hint >}}
 
 Vous pouvez choisir parmi quatre types de personnage: Guerrier, Adepte, Explorateur, et Emissaire. Toutefois, vous pourriez ne pas vouloir utiliser ces termes génériques. Ce chapitre vous propose, pour chaque type, quelques alternatives de noms qui pourraient être plus adapté à un genre particulier. Vous trouverez peut-être que des noms comme "Guerrier" ou "Explorateur" ne sonnent pas juste, en particulier dans des campagnes se déroulant à une époque contemporaine. Comme toujours, vous êtes libre de faire comme vous voulez. (Votre type est ce que votre personnage est. Vous devriez utiliser le nom que vous voulez pour votre type, du moment qu'il s'accorde à la fois au personnage et à la campagne.)
@@ -22,9 +22,9 @@ Au final, des options plus fondamentales de personnalisation sont fournies à la
 
 ## Intrusion de Joueur
 
-Une intrusion de joueur est quand un joueur choisi d'altérer quelque chose dans la campagne, rendant les choses plus facile pour le PJ. De manièr conceptuelle, c'est l'inverse d'un intrusion du MJ qui donne au joueur des points d'expérience en introduisant une complication inatendue pour le personnage. Dans le cas du joueur, ce dernier dépense un 1 XP et présente une solution à un problème ou une complication. Ce que l'intrusion du joueur peut faire est en général introduire un changement du monde ou des circonstances en cours, plutôt que de changer directement le personnage. Par exemple, une intrusion qui propose que le cypher qui vient d'être utilisé a une charge supplémentaire, est appropriée, mais une intrusion qui propose que le personnage est soigné ne l'est pas. Si le joueur n'a pas d'XP à dépenser, il ne peut pas utiliser d'intrusion de joueur.
+Une intrusion de joueur est quand un joueur choisi d'altérer quelque chose dans la campagne, rendant les choses plus facile pour le PJ. De manièr conceptuelle, c'est l'inverse d'un intrusion de la MJ qui donne au joueur des points d'expérience en introduisant une complication inatendue pour le personnage. Dans le cas du joueur, ce dernier dépense un 1 XP et présente une solution à un problème ou une complication. Ce que l'intrusion du joueur peut faire est en général introduire un changement du monde ou des circonstances en cours, plutôt que de changer directement le personnage. Par exemple, une intrusion qui propose que le cypher qui vient d'être utilisé a une charge supplémentaire, est appropriée, mais une intrusion qui propose que le personnage est soigné ne l'est pas. Si le joueur n'a pas d'XP à dépenser, il ne peut pas utiliser d'intrusion de joueur.
 
-Quelques exemples d'intrusion de joueur sont proposées pour chaque type. Cela dit, toutes les intrusions de joueur listées ici ne sont pas appropriées à chaque situation. Le MJ peut autoriser les joueurs à proposer d'autres suggestions d'intrusion de joueur, mais le MJ a le dernier mot pour savoir si une intrusion est appropriée en fonction du type de personnage et de la situation. Si le MJ refuse l'intrusion, le joueur ne dépense pas de XP, et l'intrusion n'a simplement pas lieu.
+Quelques exemples d'intrusion de joueur sont proposées pour chaque type. Cela dit, toutes les intrusions de joueur listées ici ne sont pas appropriées à chaque situation. Le MJ peut autoriser les joueurs à proposer d'autres suggestions d'intrusion de joueur, mais la MJ a le dernier mot pour savoir si une intrusion est appropriée en fonction du type de personnage et de la situation. Si la MJ refuse l'intrusion, le joueur ne dépense pas de XP, et l'intrusion n'a simplement pas lieu.
 
 Utiliser une intrusion ne requiert pas du personnage d'utiliser une action pour l'activer. Une intrusion de joueur survient tout simplement.
 
@@ -91,7 +91,7 @@ Votre type vous aide à déterminer la relation que vous avez avec la campagne e
 
 ### Intrusions de Joueur pour un Guerrier
 
-Vus pouvez dépenser un XP pour utiliser une des ces intrusions de joueur, à condition que la situation soit appropriée et que le MJ soit d'accord.
+Vus pouvez dépenser un XP pour utiliser une des ces intrusions de joueur, à condition que la situation soit appropriée et que la MJ soit d'accord.
 
 **Position Parfaite:** Vous combattez au moins trois adversaires et chacun d'eux se trouve exactement à la bonne position pour vous pour faire un mouvement pour lequel vous vous êtes entrainé il y a longtemps, vous permettant de les attaquer tous les trois en une seule action. Faites un jet d'attaque pour chaque adversaire. Vous restez limité par la quantité d'Effort que vous pouvez allouer en une seule action.
 
@@ -267,7 +267,7 @@ Les Adeptes sont quasiment à chaque fois les représentants du paranormal ou de
 
 ### Intrusions de Joueur our Adeptes
 
-Wuand vous jouez un Adepte, vous pouvez dépenser un point d'expérience pour utiliser une des intrusions de joueur ci-dessous, du moment que la situation s'y prête que je le MJ soit d'accord.
+Wuand vous jouez un Adepte, vous pouvez dépenser un point d'expérience pour utiliser une des intrusions de joueur ci-dessous, du moment que la situation s'y prête que je la MJ soit d'accord.
 
 **Disfonctionnement Avantageux:** Un objet utilisé contre vous disfonctionne. Cela peut blesser son utilisateur ou l'un de ses alliés pour un round, ou cela déclenche un effet secondaire dramatique et distrayant pour quelques rounds.
 
@@ -328,7 +328,7 @@ Les Adeptes de Premier Rang disposent des capacités suivantes :
 
 **Armes:** Vous pouvez utiliser des armes légères sans pénalité. Vous avez une inaptitude pour les armes moyennes et lourdes; vos attaques avec ces armes sont atténuées.
 
-**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de motivations en un seul grand catalaogue. (Les capacités des Adeptes nécessite au moins une main libre à moins que le MJ en décide autrement.)
+**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de motivations en un seul grand catalaogue. (Les capacités des Adeptes nécessite au moins une main libre à moins que la MJ en décide autrement.)
 
 * Distortion
 * Erase Memories
@@ -433,7 +433,7 @@ Pour son arc de personnage, Jen choisit Aid a Friend. Elle décide que lorsque s
 {{< /hint >}}
 
 {{< hint info >}}
-Les MJ sont toujours libres de présélectionner les capacités spéciales d'un type à un rang donné pour renforcer la campagne. Dans le cadre fantastique de la sorcière de Jen, le MJ aurait pu dire que tous les sorciers (adeptes) commencent par l'entraînement magique comme l'une de leurs capacités de rang 1. Cela ne rend pas le personnage moins puissant ou spécial, mais cela en dit long sur son rôle dans le monde et ses attentes dans le jeu.
+Les MJ sont toujours libres de présélectionner les capacités spéciales d'un type à un rang donné pour renforcer la campagne. Dans le cadre fantastique de la sorcière de Jen, la MJ aurait pu dire que tous les sorciers (adeptes) commencent par l'entraînement magique comme l'une de leurs capacités de rang 1. Cela ne rend pas le personnage moins puissant ou spécial, mais cela en dit long sur son rôle dans le monde et ses attentes dans le jeu.
 {{< /hint >}}
 
 ## Explorateur
@@ -460,7 +460,7 @@ Vous êtes une personne portée sur l'action et les capacités physiques, faisan
 
 ### Intrusions de Joueur d'Explorateurs
 
-Quand vous jouez un Explorateur, vous pouvez dépenser 1 XP pour utiliser l'une des intrusions de joueur ci-dessous, à condition que la situation est appropriée et que le MJ soit d'accord.
+Quand vous jouez un Explorateur, vous pouvez dépenser 1 XP pour utiliser l'une des intrusions de joueur ci-dessous, à condition que la situation est appropriée et que la MJ soit d'accord.
 
 **Dysfonctionnement Opportun:** Un piège ou un objet dangereux dysfonctionne avant qu'il puisse vous affecter.
 
@@ -682,7 +682,7 @@ Vous êtes doué avec les mots et bon avec les gens. Vous parlez pour vous sorti
 
 ### Intrusions de Joueur pour les Emissaires
 
-Quand vous jouez un Emissaire, vous pouvez dépenser 1 XP pour utiliser l'une des intrusions de joueur ci-dessous, à condition que la situation est appropriée et que le MJ soit d'accord.
+Quand vous jouez un Emissaire, vous pouvez dépenser 1 XP pour utiliser l'une des intrusions de joueur ci-dessous, à condition que la situation est appropriée et que la MJ soit d'accord.
 
 **PNJ Amical:** Un PNJ que vous ne connaissez pas, quelqu'un que vous ne connaissez pas très bien, ou quelqu'un que vous connaissez mais qui n'a pas été particulièrement amical dans le passé, choisit de vous aider, sans nécessairement expliquer pourquoi. Peut-être qu'ils vous demanderont une faveur en retour par la suite, en fonction des ennuis qu'ils se donnent.
 
@@ -743,7 +743,7 @@ Les Emissaires ont les capacités suivantes:
 
 **Equipement de Départ:** Vêtements appropriés et une arme légère de votre choix, ainsi que deux objets très cher, deux objets moyennement cher, et au plus quatre objets peu chers.
 
-**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de motivations en un seul grand catalaogue. (Certaines capacités d'Emissaire, comme Mind Reading ou True Senses, impose un élément surnaturel.  Si ce n'est pas apprprié pour le personnage ou la campagne, ces capacités peuvent être remplacées par quelque chose de la Préférence Furtivité, ou alors le MJ peut les modifier légèrement afin qu'elles soient basées sur des talents ou des intuitions extraordinaires plutôt que sur du supernaturel.)
+**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de motivations en un seul grand catalaogue. (Certaines capacités d'Emissaire, comme Mind Reading ou True Senses, impose un élément surnaturel.  Si ce n'est pas apprprié pour le personnage ou la campagne, ces capacités peuvent être remplacées par quelque chose de la Préférence Furtivité, ou alors la MJ peut les modifier légèrement afin qu'elles soient basées sur des talents ou des intuitions extraordinaires plutôt que sur du supernaturel.)
 
 {{< columns >}}
 
@@ -865,7 +865,7 @@ Mary veut créer un émissaire pour une campagne d'horreur lovecraftienne. Elle 
 
 Mary choisit Fast Talk et Spin Identity pour l'aider à se rendre dans des endroits et à apprendre des choses qu'elle veut savoir. C'est un peu une escroc. Cependant, elle est gentille avec ses amis et choisit également l'encouragement. Mary complète ses capacités de premier rang avec des compétences d'interaction (tromperie et persuasion).
 
-Un émissaire commence normalement par deux cyphers, mais le MJ décide que les personnages de cette campagne commencent par un seul --- à cause de quelque chose d'effrayant lié à leur passé. Le cypher de Mary est une étrange montre de poche que lui a offerte son grand-père. Elle ne sait ni comment ni pourquoi, mais lorsqu'elle est activée, la montre lui permet d'effectuer deux fois plus d'actions pendant trois tours.
+Un émissaire commence normalement par deux cyphers, mais la MJ décide que les personnages de cette campagne commencent par un seul --- à cause de quelque chose d'effrayant lié à leur passé. Le cypher de Mary est une étrange montre de poche que lui a offerte son grand-père. Elle ne sait ni comment ni pourquoi, mais lorsqu'elle est activée, la montre lui permet d'effectuer deux fois plus d'actions pendant trois tours.
 
 Le personnage de Mary porte un petit couteau caché dans son sac en cas de problème. En tant qu'arme légère, elle inflige 2 points de dégâts, mais les attaques avec elle sont facilitées.
 
@@ -961,7 +961,7 @@ Les personnages pratiquant la magie obtiennent leurs capacités (qui peuvent êt
 
 ## Plus de Personnalisation
 
-Les règles de cette section sont plus avancées et impliquent toujours le MJ. Elles peuvent être utilisées par le MJ pour personnaliser un type afin de mieux l'adapter au genre ou au contexte, ou par un joueur et un MJ pour peaufiner un personnage afin de l'adapter à un concept.
+Les règles de cette section sont plus avancées et impliquent toujours la MJ. Elles peuvent être utilisées par la MJ pour personnaliser un type afin de mieux l'adapter au genre ou au contexte, ou par un joueur et un MJ pour peaufiner un personnage afin de l'adapter à un concept.
 
 ### Modifier les Aspects d'un Type
 

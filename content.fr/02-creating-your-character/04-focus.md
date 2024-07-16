@@ -8,7 +8,7 @@ description: La Motivation est ce qui rend un personnage unique. Une Motivation 
 
 La Motivation est ce qui rend un personnage unique. Il n'y a pas deux PJ dans un groupe qui devraient avoir le même objectif. Une Motivation donne des avantages à un personnage lorsqu'il crée son personnage et à chaque fois qu'il passe au rang suivant. C'est le verbe de la phrase "Je suis un *adjectif nom* qui *verbes*".
 
-Ce chapitre contient près d'une centaine d'exemples de Motivation, tels que Bears a Halo of Fire, Serait plutôt en train de lire et Pilots Starcraft. Ces Motivations peuvent être choisies et utilisées telles que présentées par un joueur, ou par le MJ qui les ajoute à une liste de Motivation disponibles pour ses joueurs lors de leur prochaine campagne.
+Ce chapitre contient près d'une centaine d'exemples de Motivation, tels que Se Revêt d'un Halo de Feu, Serait plutôt en train de lire et Pilots Starcraft. Ces Motivations peuvent être choisies et utilisées telles que présentées par un joueur, ou par le MJ qui les ajoute à une liste de Motivation disponibles pour ses joueurs lors de leur prochaine campagne.
 
 De plus, la seconde moitié de ce chapitre fournit des outils permettant au MJ ou à un joueur entreprenant de créer ses propres Motivations personnalisés qui correspondent parfaitement aux besoins d'un jeu ou d'une campagne donnée, comme présenté dans Création de nouveles Motivations.
 
@@ -408,6 +408,26 @@ Vous pouvez déplacer des objets par télékinésie avec votre esprit sans les t
 * Rang 6: Ramener amélioré ou Remodeler
 
 **Intrusions du MJ:** Une pensée qui dérape et les objets en mouvement tombent ou les objets fragiles se brisent. Parfois, le mauvais objet bouge, tombe ou se casse.
+
+-----
+
+### Construit des Robots
+
+Vos créations robotiques font ce qu'on leur commande.
+
+{{< hint info >}}
+Le mot « robot » est utilisé dans cette Motivation, bien que le robot que vous créez puisse être très différent de celui créé par quelqu'un d'autre, selon le genre. Les robots Steampunk, les robots organiques ou même les golems magiques sont tous des « robots » réalisables.
+{{< /hint >}}
+
+* Rang 1: Assistant Robot
+* Rang 1: Constructeur de robots
+* Rang 2: Contrôle du robot
+* Rang 3: Disciple expert ou Compétence en Défense Supérieure
+* Rang 4: Mise à niveau du robot
+* Rang 5: Flotte de robots
+* Rang 6: Robot Evolution ou Mise à niveau du robot
+
+**Intrusions du MJ:** Le robot est piraté, acquiert son propre esprit ou explose de manière inattendue.
 
 -----
 
@@ -927,6 +947,24 @@ Vous possédez une arme aux capacités étranges, et votre connaissance de ses p
 
 -----
 
+### Poursuit des Sciences Etranges
+
+Votre perspicacité et vos capacités surnaturelles font de vous un scientifique capable de prouesses incroyables.
+
+* Rang 1: Analyse en laboratoire
+* Rang 1: Compétences en Connaissances
+* Rang 2: Modifier l'appareil
+* Rang 3: Mieux vivre grâce à la chimie ou Santé incroyable
+* Rang 4: Compétences en Connaissances
+* Rang 4: Juste un peu fou
+* Rang 5: Percée scientifique étrange
+* Rang 6: Incroyable exploit scientifique
+* Rang 6: Inventeur ou Champ défensif
+
+**Intrusions du MJ:** Les créations deviennent incontrôlables. Les effets secondaires ne sont pas toujours prévisibles. Les sciences étranges terrifient les gens et peuvent attirer l’attention des médias. Lorsqu'un appareil créé ou modifié par une science étrange est épuisé, il explose.
+
+-----
+
 ### Préfèrerait Lire
 
 Les livres sont vos amis. Qu'y a-t-il de plus important que la connaissance ? Rien.
@@ -1232,27 +1270,7 @@ Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur
 
 -----
 
-### Builds Robots
-
-Your robotic creations do as they are commanded.
-
-{{< hint info >}}
-The word "robot" is used in this focus, though the robot you create might look very different from one created by someone else, depending on the genre. Steampunk robots, organic robots, ou even magical golems are all feasible "robots."
-{{< /hint >}}
-
-* Rang 1: Robot Assistant
-* Rang 1: Robot Builder
-* Rang 2: Robot Control
-* Rang 3: Disciple expert ou Compétence en Défense Supérieure
-* Rang 4: Robot Upgrade
-* Rang 5: Robot Fleet
-* Rang 6: Robot Evolution ou Robot Upgrade
-
-**Intrusions du MJ:** The robot is hacked, gains a mind of its own, ou unexpectedly detonates.
-
------
-
-### Calculates the Incalculable
+### Calcule l'Incalculable
 
 Awesome mathematical ability allows you to model the world in real time, giving you an edge over everyone.
 
@@ -1266,24 +1284,6 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 * Rang 6: Connaître l'inconn ou Intelligence Améliorée Supérieure
 
 **Intrusions du MJ:** Too many predicted results threaten to overwhelm and stun the character. A result points to imminent disaster.
-
------
-
-### Poursuit des Sciences Etranges
-
-Your preternatural insight and ability make you a scientist capable of amazing feats.
-
-* Rang 1: Lab Analysis
-* Rang 1: Compétences en Connaissances
-* Rang 2: Modify Device
-* Rang 3: Better Living Through Chemistry ou Incredible Health
-* Rang 4: Compétences en Connaissances
-* Rang 4: Just a Bit Mad
-* Rang 5: Weird Science Breakthrough
-* Rang 6: Incredible Feat of Science
-* Rang 6: Inventor ou Champ défensif
-
-**Intrusions du MJ:** Creations get out of control. Side effects cannot always be predicted. Weird science terrifies people and can draw the media. When a device created ou modified by weird science is depleted, it detonates.
 
 -----
 
@@ -1314,12 +1314,12 @@ You're an inventor of strange and useful objects.
 * Rang 3: Master Crafter ou Built-In Weaponry
 * Rang 4: Cyphersmith
 * Rang 5: Innovator
-* Rang 6: Inventor ou Fusion Armor
+* Rang 6: Inventeur ou Fusion Armor
 
 **Intrusions du MJ:** The object malfunctions, breaks, ou suffers catastrophic ou unexpected failure.
 
 {{< hint info >}}
-Cyphersmith works only in a setting where the cyphers are physical objects. If this isn't the case, this ability should probably be replaced with something akin to Weird Science Breakthrough from the Poursuit des Sciences Etranges focus.
+Cyphersmith works only in a setting where the cyphers are physical objects. If this isn't the case, this ability should probably be replaced with something akin to Percée scientifique étrange from the Poursuit des Sciences Etranges focus.
 {{< /hint >}}
 
 -----
@@ -1526,7 +1526,7 @@ You're a celebrity and most people adore you.
 * Rang 1: Entourage
 * Rang 1: Celebrity Talent
 * Rang 2: Perks of Stardom
-* Rang 3: Incredible Health ou Compétence avec les attaques
+* Rang 3: Santé incroyable ou Compétence avec les attaques
 * Rang 4: Captivate With Starshine
 * Rang 4: Disciple expert
 * Rang 5: Do You Know Who I Am?
@@ -1634,7 +1634,7 @@ When not running and hiding, you sift the ruins of civilization for useful remna
 * Rang 1: Post-Apocalyptic Survivor
 * Rang 1: Ruin Lore
 * Rang 2: Junkmonger
-* Rang 3: Prendre l'avantage ou Incredible Health
+* Rang 3: Prendre l'avantage ou Santé incroyable
 * Rang 4: Know Where to Look
 * Rang 5: Recycled Cyphers
 * Rang 6: Artifact Scavenger ou Reactive Field
@@ -1887,7 +1887,7 @@ Every focus has an overarching style, whether that's exploration, energy manipul
 
 Each focus category has an overarching theme, followed by selection guidelines that describe how to choose abilities for each Rang from the Abilities chapter, from Rang 1 to Rang 6.
 
-The newly created focus should be named in the form of a verb, like Contrôle les Bêtes Sauvages ou Demeure dans la pierre For instance, a fire-using focus created by following the guidelines in the energy manipulation focus category might be called Bears a Halo of Fire (one of the sample foci in this chapter). Alternatively, a new fire-using focus should get an all-new name like Stokes the Flames of the Apocalypse ou Lights Fires With a Thought.
+The newly created focus should be named in the form of a verb, like Contrôle les Bêtes Sauvages ou Demeure dans la pierre For instance, a fire-using focus created by following the guidelines in the energy manipulation focus category might be called Se Revêt d'un Halo de Feu (one of the sample foci in this chapter). Alternatively, a new fire-using focus should get an all-new name like Stokes the Flames of the Apocalypse ou Lights Fires With a Thought.
 
 ## Focus Categories
 
@@ -1978,7 +1978,7 @@ Multiple potential themes exist within the ally use category, from abilities tha
 
 The following are examples and not meant to provide a complete list of all possible foci in this category.
 
-* Builds Robots
+* Construit des Robots
 * Consorts With the Dead
 * Contrôle les Bêtes Sauvages
 * Exists in Two Places at Once
@@ -2081,7 +2081,7 @@ Energy manipulation foci offer abilities that can call fire, electricity, force,
 The following are examples and not meant to provide a complete list of all possible foci in this category.
 
 * Absorbe l'Energie
-* Bears a Halo of Fire
+* Se Revêt d'un Halo de Feu
 * Manipule la Matière Noire
 * Façonne la Foudre
 * Fait Résonner le Tonnerre
@@ -2128,9 +2128,9 @@ For example, rather than blasting a foe with a gravity pulse that does damage, a
 
 The following are examples and not meant to provide a complete list of all possible foci in this category.
 
-* Awakens Dreams
-* Blazes With Radiance
-* Calculates the Incalculable
+* Réveille les rêves
+* Illumine avec Eclat
+* Calcule l'Incalculable
 * Contrôle la Gravité
 * Façonne des Illusions
 * Crafts Unique Objects
@@ -2537,7 +2537,7 @@ devices, learning powerful magic spells, uncovering forbidden secrets, ou someth
 ### Rang 3
 
 * Lower-Rang ability: choose any Rang 1 ou 2 replacement ability, above.
-* Incredible Health
+* Santé incroyable
 * Fusion Armor
 
 ### Rang 4
