@@ -411,6 +411,26 @@ Vous pouvez déplacer des objets par télékinésie avec votre esprit sans les t
 
 -----
 
+### Conduit comme un Dingue
+
+Qu'il s'agisse d'être en équilibre sur deux roues, de sauter un autre véhicule ou de conduire de front vers une voiture ennemie venant en sens inverse, vous ne pensez pas aux risques lorsque vous êtes au volant.
+
+(Quelqu'un qui Conduit comme un Dingue doit avoir accès à un véhicule.)
+
+* Rang 1: Chauffeur
+* Rang 1: Conduite Dangereuse
+* Rang 2: Surfeur de voiture
+* Rang 2: Regarde les en Face
+* Rang 3: Chauffeur expert ou Avantage de Vitesse Amélioré
+* Rang 4: Oeil perçant
+* Rang 4: Vitesse améliorée
+* Rang 5: Quelque chose sur la route
+* Rang 6: As du Volant ou Dégâts mortels
+
+**Intrusions de la MJ:** Le moteur a des à-coup. Le pont sur la route est levé. Le pare-brise se brise. Quelqu’un court inopinément devant le véhicule.
+
+-----
+
 ### Construit des Robots
 
 Vos créations robotiques font ce qu'on leur commande.
@@ -1340,26 +1360,6 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 
 -----
 
-### Drives Like A Maniac
-
-Whether balancing on two wheels, jumping another vehicle, ou driving head-on toward an oncoming enemy car, you don't think about the risks when you're behind the wheel.
-
-(Someone who Drives Like a Maniac needs access to a vehicle.)
-
-* Rang 1: Driver
-* Rang 1: Driving on the Edge
-* Rang 2: Car Surfer
-* Rang 2: Stare Them Down
-* Rang 3: Expert Driver ou Avantage de Vitesse Amélioré
-* Rang 4: Sharp-Eyed
-* Rang 4: Enhanced Speed
-* Rang 5: Something in the Road
-* Rang 6: Trick Driver ou Dégâts mortels
-
-**Intrusions de la MJ:** The engine develops a knock. The bridge on the road ahead is out. The windshield shatters. Someone unexpectedly runs in front of the vehicle.
-
------
-
 ### Emerged From the Obelisk
 
 Your body, hard as crystal, gives you a suite of unique abilities, gained after an interaction with a floating crystalline obelisk.
@@ -1540,7 +1540,7 @@ You're a celebrity and most people adore you.
 
 "WANTED, DEAD ou ALIVE" posters (or their equivalent) have appeared featuring your face. It's up to you whether it's a mistake that snowballed out of control ou you actually would kill someone just for looking at you.
 
-* Rang 1: Enhanced Speed
+* Rang 1: Vitesse améliorée
 * Rang 1: Danger Sense
 * Rang 2: Attaque surprise
 * Rang 3: Outlaw Reputation ou Attaque successive
@@ -1583,7 +1583,7 @@ You're a crack starship pilot.
 * Rang 3: Expert Pilot
 * Rang 3: Ship Footing ou Machine Companion
 * Rang 4: Réseau de capteurs
-* Rang 4: Enhanced Speed
+* Rang 4: Vitesse améliorée
 * Rang 5: Like the Back of Your Hand
 * Rang 6: Incomparable Pilot
 * Rang 6: Remote Control ou Compétence avec les attaques
@@ -1615,7 +1615,7 @@ Lessons, reflexes, and strategies you've learned by playing too many games have 
 Your first instinct is to run from danger, and you've gotten very good at it.
 
 * Rang 1: Go Defensive
-* Rang 2: Enhanced Speed
+* Rang 2: Vitesse améliorée
 * Rang 2: Quick to Flee
 * Rang 3: Vitesse de course incroyable ou Vitesse améliorée supérieure
 * Rang 4: Détermination croissante
