@@ -599,6 +599,21 @@ Vous vous donnez en spectacle principalement pour divertir les autres.
 
 -----
 
+### Est sorti de l'Obélisque
+
+Votre corps, dur comme du cristal, vous confère une suite de capacités uniques, acquises après une interaction avec un obélisque cristallin flottant.
+
+* Rang 1: Corps de Cristal
+* Rang 2: Survol
+* Rang 3: Habiter le cristal ou Immobile
+* Rang 4: Lentille Cristalline
+* Rang 5: Fréquence de résonance
+* Rang 6: Tremblement de résonance ou Retour à l'Obélisque
+
+**Intrusions de la MJ:** Les cyphers et les artefacts réagissent de manière inattendue entre les mains du personnage.
+
+-----
+
 ### Explore des Endroits Sombres
 
 Vous êtes l'archétype du chasseur de trésors, du charognard et du chercheur d'objets perdus.
@@ -1357,21 +1372,6 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 * Rang 6: Connaître l'inconn ou Intelligence Améliorée Supérieure
 
 **Intrusions de la MJ:** Too many predicted results threaten to overwhelm and stun the character. A result points to imminent disaster.
-
------
-
-### Emerged From the Obelisk
-
-Your body, hard as crystal, gives you a suite of unique abilities, gained after an interaction with a floating crystalline obelisk.
-
-* Rang 1: Crystalline Body
-* Rang 2: Survol
-* Rang 3: Inhabit Crystal ou Immovable
-* Rang 4: Crystal Lens
-* Rang 5: Resonant Frequency
-* Rang 6: Resonant Quake ou Return to the Obelisk
-
-**Intrusions de la MJ:** Cyphers and artifacts react unexpectedly in the character's hands.
 
 -----
 
@@ -2279,7 +2279,7 @@ The following are examples and not meant to provide a complete list of all possi
 
 * Channels Divine Blessings
 * A des Ascendants Nobles
-* Emerged From the Obelisk
+* Est sorti de l'Obélisque
 * Flies Faster Than a Bullet
 * Masters Spells
 * Parle au Nom de la Terre
