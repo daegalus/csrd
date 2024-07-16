@@ -145,6 +145,22 @@ Bien que Is Licensed to Carry soit conçu pour les armes à feu modernes, il pou
 **Intrusions de la MJ:** Ratés ou confiture ! L'attaque échoue et l'action est perdue, et une action supplémentaire est nécessaire pour résoudre le problème.
 -----
 
+### A été Choisi(e)
+
+Vous êtes « l’élu » et la prophétie, la prédiction, le pronostic ou toute autre méthode de détermination attend de vous de grandes choses un jour.
+
+* Rang 1: Compétences d'interaction
+* Rang 1: Connaître
+* Rang 2: Destiné à la grandeur
+* Rang 3: Surmontez tous les obstacles ou  Résilience durement gagnée
+* Rang 4: Centre d'attention
+* Rang 5: Montrez-leur le chemin
+* Rang 6: Comme le prédit la prophétie ou Potentiel amélioré supérieur
+
+**Intrusions de la MJ:**Un ennemi décrit dans la prophétie apparaît. Les incroyants menacent de gâcher ce moment. Le personnage acquiert une réputation de fraudeur dans les cercles extérieurs.
+
+-----
+
 ### A Navigué sous Pavillon Pirate
 
 Vous avez navigué avec un équipage de redoutables pirates, mais vous avez décidé de mettre fin à vos jours de pirate et de rejoindre une autre cause. La question est : votre passé vous laissera-t-il partir si facilement ?
@@ -163,19 +179,21 @@ Vous avez navigué avec un équipage de redoutables pirates, mais vous avez déc
 
 -----
 
-### A été Choisi(e)
+### A un Millier de Visages
 
-Vous êtes « l’élu » et la prophétie, la prédiction, le pronostic ou toute autre méthode de détermination attend de vous de grandes choses un jour.
+Vous pouvez changer votre apparence pour ressembler à n’importe qui d’autre.
 
+* Rang 1: Changement de Visage
 * Rang 1: Compétences d'interaction
-* Rang 1: Connaître
-* Rang 2: Destiné à la grandeur
-* Rang 3: Surmontez tous les obstacles ou  Résilience durement gagnée
-* Rang 4: Centre d'attention
-* Rang 5: Montrez-leur le chemin
-* Rang 6: Comme le prédit la prophétie ou Potentiel amélioré supérieur
+* Rang 2: Altération corporelle
+* Rang 2: Chair de guerre
+* Rang 3: Déguiser un autre ou Résilience
+* Rang 4: Sans âge
+* Rang 4: Pensez à votre sortie
+* Rang 5: La mémoire devient une action
+* Rang 6: Divisez votre esprit ou Déduire des pensées
 
-**Intrusions de la MJ:**Un ennemi décrit dans la prophétie apparaît. Les incroyants menacent de gâcher ce moment. Le personnage acquiert une réputation de fraudeur dans les cercles extérieurs.
+**Intrusions de la MJ:** Une partie du déguisement glisse. Un PNJ pense que le personnage déguisé est quelqu'un qu'il connaît très bien.
 
 -----
 
@@ -1470,24 +1488,6 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 
 -----
 
-### Has A Thousand Faces
-
-You can change your appearance to look like anyone else.
-
-* Rang 1: Face Morph
-* Rang 1: Compétences d'interaction
-* Rang 2: Body Morph
-* Rang 2: War Flesh
-* Rang 3: Disguise Other ou Resilience
-* Rang 4: Ageless
-* Rang 4: Think Your Way Out
-* Rang 5: Memory Becomes Action
-* Rang 6: Divide Your Mind ou Infer Thoughts
-
-**Intrusions de la MJ:** Part of the disguise slips. An NPJ thinks the disguised character is someone they know very well.
-
------
-
 ### Ignores Physical Distance
 
 You can teleport from one place to another by briefly passing through a parallel dimension.
@@ -1740,7 +1740,7 @@ Your body is elastic and rubbery, able to stretch to great lengths and compress 
 * Rang 2: Elastic Grip
 * Rang 2: Chute en toute sécurité
 * Rang 3: Bypass Barrier ou Misdirect
-* Rang 4: Resilience
+* Rang 4: Résilience
 * Rang 5: Free to Move
 * Rang 6:Break the Ranks ou Pas encore mort
 
