@@ -614,6 +614,21 @@ Votre corps, dur comme du cristal, vous confère une suite de capacités uniques
 
 -----
 
+### Existe en Deux Endroits en Même Temps
+
+Vous existez en deux endroits en même Ttemps.
+
+* Rang 1: Duplicata
+* Rang 2: Partager les sens
+* Rang 3: Duplication Supérieure ou Duplicata résilient
+* Rang 4: Transfert de dégâts
+* Rang 5: Effort coordonné
+* Rang 6: Multiplicité ou Duplicata résilient
+
+**Intrusions de la MJ:** Percevoir le monde à partir de deux endroits différents désoriente le personnage, provoquant des vertiges momentanés, des nausées ou une confusion.
+
+-----
+
 ### Explore des Endroits Sombres
 
 Vous êtes l'archétype du chasseur de trésors, du charognard et du chercheur d'objets perdus.
@@ -1375,21 +1390,6 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 
 -----
 
-### Exists in Two Places at Once
-
-You exist in two places at once.
-
-* Rang 1: Duplicate
-* Rang 2: Share Senses
-* Rang 3: Superior Duplicate ou Resilient Duplicate
-* Rang 4: Damage Transference
-* Rang 5: Coordinated Effort
-* Rang 6: Multiplicity ou Resilient Duplicate
-
-**Intrusions de la MJ:** Perceiving the world from two different places disorients the character, causing momentary vertigo, nausea, ou confusion.
-
------
-
 ### Exists Partially Out of Phase
 
 A bit translucent, you're slightly out of phase and can move through solid objects.
@@ -1981,7 +1981,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Construit des Robots
 * Consorts With the Dead
 * Contrôle les Bêtes Sauvages
-* Exists in Two Places at Once
+* Existe en Deux Endroits en Même Temps
 * Leads
 * Maîtrise l'Essaim
 * Shepherds Spirits
