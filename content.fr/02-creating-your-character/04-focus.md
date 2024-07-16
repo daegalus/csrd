@@ -887,6 +887,22 @@ Des coups de poing, de pied, de coude, des genoux et des mouvements complets du 
 
 -----
 
+### Ne Fait pas Grand Chose
+
+Vous êtes un fainéant, mais vous en savez un peu sur beaucoup de choses.
+
+* Rang 1: Leçons de vie
+* Rang 2: Totalement Chill
+* Rang 3: Compétence avec les attaques ou Improvise
+* Rang 4: Leçons de vie
+* Rang 4: Compétence en Défense Supérieure
+* Rang 5: Potentiel amélioré supérieur
+* Rang 6: S'appuyer sur les expériences de la vie ou Vif d'esprit
+
+**Intrusions de la MJ:** Les nouvelles situations sont déroutantes et stressantes. Les actions (ou inactions) passées reviennent hanter le personnage.
+
+-----
+
 ### Ne S'Avoue Jamais Vaincu
 
 Vous n’abandonnez jamais, vous pouvez ignorer les coups et revenir toujours pour vous battre.
@@ -1321,22 +1337,6 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 * Rang 6: Connaître l'inconn ou Intelligence Améliorée Supérieure
 
 **Intrusions de la MJ:** Too many predicted results threaten to overwhelm and stun the character. A result points to imminent disaster.
-
------
-
-### Doesn't Do Much
-
-You're a slacker, but you know a little about a lot of things.
-
-* Rang 1: Life Lessons
-* Rang 2: Totally Chill
-* Rang 3: Compétence avec les attaques ou Improvise
-* Rang 4: Life Lessons
-* Rang 4: Compétence en Défense Supérieure
-* Rang 5: Potentiel amélioré supérieur
-* Rang 6 Drawing on Life's Experiences ou Quick Wits
-
-**Intrusions de la MJ:** New situations are confounding and stressful. Past actions (or inactions) come back to haunt the character.
 
 -----
 
@@ -2031,7 +2031,7 @@ In addition, because the benefits provided by such foci are mostly straightforwa
 
 The following are examples and not meant to provide a complete list of all possible foci in this category.
 
-* Doesn't Do Much
+* Ne Fait pas Grand Chose
 * Interprets the Law
 * Learns Quickly
 * Works for a Living
