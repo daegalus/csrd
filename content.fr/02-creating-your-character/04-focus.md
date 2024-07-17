@@ -8,7 +8,7 @@ description: La Motivation est ce qui rend un personnage unique. Une Motivation 
 
 La Motivation est ce qui rend un personnage unique. Il n'y a pas deux PJ dans un groupe qui devraient avoir le même objectif. Une Motivation donne des avantages à un personnage lorsqu'il crée son personnage et à chaque fois qu'il passe au rang suivant. C'est le verbe de la phrase "Je suis un *adjectif nom* qui *verbes*".
 
-Ce chapitre contient près d'une centaine d'exemples de Motivation, tels que Se Revêt d'un Halo de Feu, Serait plutôt en train de lire et Pilots Starcraft. Ces Motivations peuvent être choisies et utilisées telles que présentées par un joueur, ou par le MJ qui les ajoute à une liste de Motivation disponibles pour ses joueurs lors de leur prochaine campagne.
+Ce chapitre contient près d'une centaine d'exemples de Motivation, tels que Se Revêt d'un Halo de Feu, Serait plutôt en train de lire et Pilote un Vaisseau Spatial. Ces Motivations peuvent être choisies et utilisées telles que présentées par un joueur, ou par le MJ qui les ajoute à une liste de Motivation disponibles pour ses joueurs lors de leur prochaine campagne.
 
 De plus, la seconde moitié de ce chapitre fournit des outils permettant au MJ ou à un joueur entreprenant de créer ses propres Motivations personnalisés qui correspondent parfaitement aux besoins d'un jeu ou d'une campagne donnée, comme présenté dans Création de nouveles Motivations.
 
@@ -1184,6 +1184,26 @@ Vous pouvez projeter votre esprit hors de votre corps pour voir des endroits loi
 
 -----
 
+### Pilote un Vaisseau Spatial
+
+Vous êtes un excellent pilote de vaisseau.
+
+* Rang 1: Pilote
+* Rang 1: Connaissances en Prêt
+* Rang 2: Récupération et confort
+* Rang 2: Mentalement résistant
+* Rang 3: Pilote Expert
+* Rang 3: A l'Aise à Bord ou Compagnon machine
+* Rang 4: Réseau de capteurs
+* Rang 4: Vitesse améliorée
+* Rang 5: Comme le dos de votre main
+* Rang 6: Pilote Incomparable
+* Rang 6: Télécommande ou Compétence avec les attaques
+
+**Intrusions de la MJ:** Un vaisseau spatial se perd, tombe en panne et est attaqué dans l'espace. Un passager clandestin extraterrestre est retrouvé.
+
+-----
+
 ### Porte un Eclat de Glace
 
 Vous maîtrisez la puissance hivernale du froid et de la glace.
@@ -1569,26 +1589,6 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 * Rang 6: Connaître l'inconn ou Intelligence Améliorée Supérieure
 
 **Intrusions de la MJ:** Too many predicted results threaten to overwhelm and stun the character. A result points to imminent disaster.
-
------
-
-### Pilots Starcraft
-
-You're a crack starship pilot.
-
-* Rang 1: Pilot
-* Rang 1: Flex Lore
-* Rang 2: Salvage and Comfort
-* Rang 2: Mentally Tough
-* Rang 3: Expert Pilot
-* Rang 3: Ship Footing ou Machine Companion
-* Rang 4: Réseau de capteurs
-* Rang 4: Vitesse améliorée
-* Rang 5: Like the Back of Your Hand
-* Rang 6: Incomparable Pilot
-* Rang 6: Remote Control ou Compétence avec les attaques
-
-**Intrusions de la MJ:** Starcraft get lost, break down, and are attacked in space. An alien stowaway is found.
 
 -----
 
@@ -2183,7 +2183,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Explore des Endroits Sombres
 * Infiltrates
 * Opère sous Couverture
-* Pilots Starcraft
+* Pilote un Vaisseau Spatial
 * Sees Beyond
 * Peut Séparer son Esprit de son Corps
 
