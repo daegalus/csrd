@@ -905,6 +905,22 @@ Vous pouvez créer de la lumière, la sculpter, la détourner de vous ou la rass
 
 -----
 
+### Interprète la Loi
+
+Vous excellez à convaincre les autres de partager vos opinions.
+
+* Rang 1: Persuasion et Tromperie
+* Rang 1: Connaissance de la loi
+* Rang 2: Débat
+* Rang 3: Assistance compétente ou Avantage d'Intelligence amélioré
+* Rang 4: Fustiger
+* Rang 5: Personne ne sait mieux
+* Rang 6: Potentiel amélioré supérieur ou Stagiaire juridique
+
+**Intrusions de la MJ:** Les spectateurs réagissent mal à un je-sais-tout. Une distraction ou une interruption fait dérailler l’argumentation du personnage.
+
+-----
+
 ### Lance avec une Précision Mortelle
 
 Tout ce qui quitte votre main va exactement là où vous souhaitez qu'il aille et à la portée et à la vitesse nécessaires pour produire l'impact parfait.
@@ -1503,22 +1519,6 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 
 -----
 
-### Interprets the Law
-
-You excel at winning others over to your views.
-
-* Rang 1: Opening Statement
-* Rang 1: Knowledge of the Law
-* Rang 2: Debate
-* Rang 3: Assistance compétente ou Avantage d'Intelligence amélioré
-* Rang 4: Castigate
-* Rang 5: No One Knows Better
-* Rang 6: Potentiel amélioré supérieur ou Legal Intern
-
-**Intrusions de la MJ:** Onlookers react badly to a know-it-all. A distraction ou interruption throws the character's argument off the rails.
-
------
-
 ### Is Idolized by Millions
 
 You're a celebrity and most people adore you.
@@ -2032,7 +2032,7 @@ In addition, because the benefits provided by such foci are mostly straightforwa
 The following are examples and not meant to provide a complete list of all possible foci in this category.
 
 * Ne Fait pas Grand Chose
-* Interprets the Law
+* Interprète la Loi
 * Learns Quickly
 * Works for a Living
 * Préfèrerait Lire
