@@ -617,6 +617,23 @@ Vous vous donnez en spectacle principalement pour divertir les autres.
 
 -----
 
+### Est Idolatré par Millions
+
+Vous êtes une célébrité et la plupart des gens vous adorent.
+
+* Rang 1: Entourage
+* Rang 1: Talent de célébrité
+* Rang 2: Avantages de la célébrité
+* Rang 3: Santé incroyable ou Compétence avec les attaques
+* Rang 4: Captiver avec Eclat
+* Rang 4: Disciple expert
+* Rang 5: Est-ce que tu sais qui je suis?
+* Rang 6: Transcendez le scénario ou Compagnon amélioré
+
+**Intrusions de la MJ:** Les fans sont mis en danger ou blessés à votre place. Quelqu'un dans votre entourage vous trahit. Votre spectacle, tournée, contrat, ou autre événement est annulé. Les médias publient des photos de vous dans une situation embarrassante.
+
+-----
+
 ### Est sorti de l'Obélisque
 
 Votre corps, dur comme du cristal, vous confère une suite de capacités uniques, acquises après une interaction avec un obélisque cristallin flottant.
@@ -1519,23 +1536,6 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 
 -----
 
-### Is Idolized by Millions
-
-You're a celebrity and most people adore you.
-
-* Rang 1: Entourage
-* Rang 1: Celebrity Talent
-* Rang 2: Perks of Stardom
-* Rang 3: Santé incroyable ou Compétence avec les attaques
-* Rang 4: Captivate With Starshine
-* Rang 4: Disciple expert
-* Rang 5: Do You Know Who I Am?
-* Rang 6: Transcend the Script ou Compagnon amélioré
-
-**Intrusions de la MJ:** Fans are endangered ou hurt on your behalf. Someone in your entourage betrays you. Your show, tour, contract, ou other event is canceled. The media posts photos of you in an embarrassing situation.
-
------
-
 ### Is Wanted by the Law
 
 "WANTED, DEAD ou ALIVE" posters (or their equivalent) have appeared featuring your face. It's up to you whether it's a mistake that snowballed out of control ou you actually would kill someone just for looking at you.
@@ -2230,7 +2230,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Commande aux pouvoirs Mentaux
 * Poursuit des Sciences Etranges
 * Fussionne l'Esprit et la Machine
-* Is Idolized by Millions
+* Est Idolatré par Millions
 * Résout des Mystères
 * Talks to Machines
 * Works the System

@@ -42,7 +42,7 @@ Hunts/chasse
 Ignores Physical Distance/Ignore les Distances Physiques
 Infiltrates/Se Cache dans les Ombres
 Interprets the Law/Interprète la Loi
-Is Idolized by Millions
+Is Idolized by Millions/Est Idolatré par Millions
 Is Licensed to Carry/A le Droit de Porter une Arme à Feu
 Is Wanted by the Law
 Keeps a Magic Ally/Dispose d'un Allié Magique
