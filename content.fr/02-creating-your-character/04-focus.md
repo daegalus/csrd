@@ -685,6 +685,22 @@ Votre corps, dur comme du cristal, vous confère une suite de capacités uniques
 
 -----
 
+### Est un Récupérateur
+
+Lorsque vous ne courez pas et ne vous cachez pas, vous fouillez les ruines de la civilisation à la recherche de vestiges utiles pour assurer votre survie.
+
+* Rang 1: Survivant post-apocalyptique
+* Rang 1: Connaissance des ruines
+* Rang 2: De Déchet à Objet
+* Rang 3: Prendre l'avantage ou Santé incroyable
+* Rang 4: Sachez où chercher
+* Rang 5: Cyphers recyclés
+* Rang 6: Pilleur d'artifact ou Champ réactif
+
+**Intrusions de la MJ:** Un objet fabriqué à partir de déchets recyclés se casse. Quelqu'un se présente en prétendant que l'objet ou le morceau de ferraille récupéré lui appartient. Un cypher recyclé explose.
+
+-----
+
 ### Existe en Deux Endroits en Même Temps
 
 Vous existez en deux endroits en même Ttemps.
@@ -1624,22 +1640,6 @@ Lessons, reflexes, and strategies you've learned by playing too many games have 
 * Rang 6: Sursaut mental ou Gaming God
 
 **Intrusions de la MJ:** Missed attacks strike the wrong target. Equipment breaks. Sometimes people react negatively to someone who has lived most of their life in imaginary game worlds.
-
------
-
-### Scavenges
-
-When not running and hiding, you sift the ruins of civilization for useful remnants to ensure your survival.
-
-* Rang 1: Post-Apocalyptic Survivor
-* Rang 1: Ruin Lore
-* Rang 2: Junkmonger
-* Rang 3: Prendre l'avantage ou Santé incroyable
-* Rang 4: Know Where to Look
-* Rang 5: Recycled Cyphers
-* Rang 6: Artifact Scavenger ou Champ réactif
-
-**Intrusions de la MJ:** An item made with recycled junk breaks. Someone shows up claiming that the useful item ou piece of junk scavenged belongs to them. A recycled cypher explodes.
 
 -----
 
