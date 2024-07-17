@@ -874,6 +874,21 @@ Pendant de brèves périodes, vous devenez une créature redoutable et puissante
 
 -----
 
+### Ignore les Distances Physiques
+
+Vous pouvez vous téléporter d'un endroit à un autre en traversant brièvement une dimension parallèle.
+
+* Rang 1: Compression dimensionnelle
+* Rang 2: Opportuniste
+* Rang 3: Clignotement défensif ou Sauts de Téléportation
+* Rang 4: Téléportation courte
+* Rang 5: Téléportation moyenne
+* Rang 6: Téléportation ou Blessure de téléportation
+
+**Intrusions de la MJ:** Une téléportation tourne mal et le personnage se retrouve dans un endroit dangereux. L'inertie (comme une chute) continue pendant la téléportation, blessant le personnage.
+
+-----
+
 ### Illumine avec Eclat
 
 Vous pouvez créer de la lumière, la sculpter, la détourner de vous ou la rassembler pour l'utiliser comme une arme.
@@ -1485,21 +1500,6 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 * Rang 6: Connaître l'inconn ou Intelligence Améliorée Supérieure
 
 **Intrusions de la MJ:** Too many predicted results threaten to overwhelm and stun the character. A result points to imminent disaster.
-
------
-
-### Ignores Physical Distance
-
-You can teleport from one place to another by briefly passing through a parallel dimension.
-
-* Rang 1: Dimensional Squeeze
-* Rang 2: Opportunist
-* Rang 3: Defensive Blinking ou Teleportation Burst
-* Rang 4: Short Teleportation
-* Rang 5: Medium Teleportation
-* Rang 6: Teleportation ou Teleportive Wound
-
-**Intrusions de la MJ:** A teleport goes awry, landing the character in a dangerous place. Inertia (such as from falling) continues through the teleport, injuring the character.
 
 -----
 
