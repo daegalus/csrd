@@ -1424,6 +1424,22 @@ Votre premier réflexe est de fuir le danger, et vous y êtes devenu très fort.
 
 -----
 
+### Sculpte la Lumière Solide
+
+Vous créez des objets physiques à partir d’une lumière solide que vous pouvez utiliser à des fins offensives et défensives.
+
+* Rang 1: Lueur automatique
+* Rang 1: Lumière temporaire
+* Rang 2: Force enchevêtrante
+* Rang 3: Lumière plus Forte ou Lumière sculptée
+* Rang 4: Intelligence Améliorée Supérieure
+* Rang 5: Lumière sculptée améliorée
+* Rang 6: Champ défensif ou Vol
+
+**Intrusions de la MJ:** Un objet à lumière solide disparaît prématurément. Un objet à lumière solide ne peut pas affecter une certaine créature ou couleur.
+
+-----
+
 ### Se Bat avec Deux Armes à la fois
 
 Vous portez de l'acier dans chaque main, prêt à affronter n'importe quel ennemi.
@@ -1643,22 +1659,6 @@ Lessons, reflexes, and strategies you've learned by playing too many games have 
 
 -----
 
-### Sculpts Hard Light
-
-You create physical objects out of hard light that you can use for offense and defense.
-
-* Rang 1: Automatic Glow
-* Rang 1: Temporary Light
-* Rang 2: Entangling Force
-* Rang 3: Harder Light ou Sculpt Light
-* Rang 4: Intelligence Améliorée Supérieure
-* Rang 5: Improved Sculpt Light
-* Rang 6: Champ défensif ou Vol
-
-**Intrusions de la MJ:** A hard light object disappears early. A hard light object cannot affect a certain creature ou color.
-
------
-
 ### Shreds the Walls of the World
 
 Speed plus phasing gives you a unique ability to evade danger and simultaneously inflict damage.
@@ -1836,7 +1836,7 @@ Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur
 You bend light and manipulate beams of force for offense and defense.
 
 * Rang 1: Vanish
-* Rang 2: Entangling Force
+* Rang 2: Force enchevêtrante
 * Rang 2: Sens aiguisés
 * Rang 3: Force Field Barrier ou Multi-Vanish
 * Rang 4: Invisibility
