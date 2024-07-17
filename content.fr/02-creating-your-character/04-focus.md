@@ -1391,6 +1391,23 @@ Les morts répondent à vos questions, et leurs cadavres réanimés vous servent
 
 -----
 
+### S'enfuit
+
+Votre premier réflexe est de fuir le danger, et vous y êtes devenu très fort.
+
+* Rang 1: Devenez défensif
+* Rang 2: Vitesse améliorée
+* Rang 2: Rapide à fuir
+* Rang 3: Vitesse de course incroyable ou Vitesse améliorée supérieure
+* Rang 4: Détermination croissante
+* Rang 4: Vif d'esprit
+* Rang 5: Aller au sol
+* Rang 6: Bouquet d'évasion ou Compétence en Défense Supérieure
+
+**Intrusions de la MJ:** Des mouvements rapides entraînent parfois des chutes d'objets, des glissements sur un sol irrégulier ou une mauvaise direction par accident.
+
+-----
+
 ### Se Bat avec Deux Armes à la fois
 
 Vous portez de l'acier dans chaque main, prêt à affronter n'importe quel ennemi.
@@ -1607,23 +1624,6 @@ Lessons, reflexes, and strategies you've learned by playing too many games have 
 * Rang 6: Sursaut mental ou Gaming God
 
 **Intrusions de la MJ:** Missed attacks strike the wrong target. Equipment breaks. Sometimes people react negatively to someone who has lived most of their life in imaginary game worlds.
-
------
-
-### Runs Away
-
-Your first instinct is to run from danger, and you've gotten very good at it.
-
-* Rang 1: Go Defensive
-* Rang 2: Vitesse améliorée
-* Rang 2: Quick to Flee
-* Rang 3: Vitesse de course incroyable ou Vitesse améliorée supérieure
-* Rang 4: Détermination croissante
-* Rang 4: Quick Wits
-* Rang 5: Go to Ground
-* Rang 6: Burst of Escape ou Compétence en Défense Supérieure
-
-**Intrusions de la MJ:** Quick movements sometimes lead to dropped items, slipping on uneven ground, ou going the wrong way by accident.
 
 -----
 
@@ -2326,7 +2326,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Existe Partiellement Hors de Phase
 * Moves Like a Cat
 * Va Comme le Vent
-* Runs Away
+* S'enfuit
 * Shreds the Walls of the World
 * Travels Through Time
 * Works the Back Alleys
