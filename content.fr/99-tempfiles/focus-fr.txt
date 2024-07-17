@@ -67,7 +67,7 @@ Pilots Starcraft/Pilote un Vaisseau Spatial
 Plays Too Many Games
 Rages/Se Met en Rage
 Rides the Lightning/Façonne la Foudre
-Runs Away
+Runs Away/S'enfuit
 Sailed Beneath the Jolly Roger/A Navigué sous Pavillon Pirate
 Scavenges/Est un Récupérateur
 Sculpts Hard Light/Sculpte la Lumière Solide
@@ -75,7 +75,7 @@ Sees Beyond/Voit Au-Delà
 Separates Mind From Body/Peut Séparer son Esprit de son Corps
 Shepherds the Community/Guide la Communauté
 Shepherds Spirits/Guide les Esprits
-Shreds the Walls of the World
+Shreds the Walls of the World/Déchire les Murs du Monde
 Shrinks To Minute Size
 Siphons Power
 Slays Monsters/Tue les Monstres

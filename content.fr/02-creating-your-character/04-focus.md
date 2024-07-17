@@ -554,6 +554,22 @@ Vous pouvez copier les compétences, les capacités et les super pouvoirs des au
 
 -----
 
+### Déchire les Murs du Monde
+
+La vitesse et le phasage vous donnent une capacité unique à échapper au danger et à infliger simultanément des dégâts.
+
+* Rang 1: Sprint de Phase
+* Rang 1: Toucher perturbateur
+* Rang 2: Rayer l'Existence
+* Rang 3: Invisibilité de Phase ou Traverser les murs
+* Rang 4: Détonation de phase
+* Rang 5: Très long sprint
+* Rang 6: Déchirer L'Existence ou Intouchable en mouvement
+
+**Intrusions de la MJ:** Se déplacer si rapidement en sprintant conduit parfois à trébucher sur des obstacles inattendus et exotiques.
+
+-----
+
 ### Défend les Faibles
 
 Vous défendez les impuissants, les faibles et ceux qui ne sont pas protégés.
@@ -1659,22 +1675,6 @@ Lessons, reflexes, and strategies you've learned by playing too many games have 
 
 -----
 
-### Shreds the Walls of the World
-
-Speed plus phasing gives you a unique ability to evade danger and simultaneously inflict damage.
-
-* Rang 1: Phase Sprint
-* Rang 1: Disrupting Touch
-* Rang 2: Scratch Existence
-* Rang 3: Invisible Phasing ou Traverser les murs
-* Rang 4: Phase Detonation
-* Rang 5: Very Long Sprinting
-* Rang 6: Shred Existence ou Intouchable en mouvement
-
-**Intrusions de la MJ:** Moving so quickly while sprinting sometimes leads to stumbles on unexpected, exotic obstacles.
-
------
-
 ### Shrinks To Minute Size
 
 You can shrink down to the size of a bug and, with enough experience, even smaller.
@@ -2327,7 +2327,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Moves Like a Cat
 * Va Comme le Vent
 * S'enfuit
-* Shreds the Walls of the World
+* Déchire les Murs du Monde
 * Travels Through Time
 * Works the Back Alleys
 
