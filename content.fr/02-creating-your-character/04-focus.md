@@ -634,6 +634,22 @@ Vous êtes une célébrité et la plupart des gens vous adorent.
 
 -----
 
+### Est Recherché par la Loi
+
+Des affiches "WANTED, DEAD or ALIVE" (ou leur équivalent) sont apparues avec votre visage. C'est à vous de décider si c'est une erreur qui est devenue incontrôlable ou si vous tueriez quelqu'un juste pour un regard.
+
+* Rang 1: Vitesse améliorée
+* Rang 1: Sens du Danger
+* Rang 2: Attaque surprise
+* Rang 3: Réputation de hors-la-loi ou Attaque successive
+* Rang 4: Meurtre Rapide
+* Rang 5: Bande de Desperados
+* Rang 6: Pas encore mort ou Dégâts mortels
+
+**Intrusions de la MJ:** La plupart des gens n’aiment pas découvrir parmi eux un hors-la-loi recherché.
+
+-----
+
 ### Est sorti de l'Obélisque
 
 Votre corps, dur comme du cristal, vous confère une suite de capacités uniques, acquises après une interaction avec un obélisque cristallin flottant.
@@ -1533,22 +1549,6 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 * Rang 6: Connaître l'inconn ou Intelligence Améliorée Supérieure
 
 **Intrusions de la MJ:** Too many predicted results threaten to overwhelm and stun the character. A result points to imminent disaster.
-
------
-
-### Is Wanted by the Law
-
-"WANTED, DEAD ou ALIVE" posters (or their equivalent) have appeared featuring your face. It's up to you whether it's a mistake that snowballed out of control ou you actually would kill someone just for looking at you.
-
-* Rang 1: Vitesse améliorée
-* Rang 1: Danger Sense
-* Rang 2: Attaque surprise
-* Rang 3: Outlaw Reputation ou Attaque successive
-* Rang 4: Meurtre Rapide
-* Rang 5: Band of Desperados
-* Rang 6: Pas encore mort ou Dégâts mortels
-
-**Intrusions de la MJ:** Most people do not take well to discovering a wanted outlaw in their midst.
 
 -----
 

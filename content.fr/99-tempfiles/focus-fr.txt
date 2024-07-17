@@ -44,7 +44,7 @@ Infiltrates/Se Cache dans les Ombres
 Interprets the Law/Interprète la Loi
 Is Idolized by Millions/Est Idolatré par Millions
 Is Licensed to Carry/A le Droit de Porter une Arme à Feu
-Is Wanted by the Law
+Is Wanted by the Law/Est Recherché par la Loi
 Keeps a Magic Ally/Dispose d'un Allié Magique
 Leads/Dirige
 Learns Quickly/Apprend Rapidement

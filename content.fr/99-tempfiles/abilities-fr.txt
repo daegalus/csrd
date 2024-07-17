@@ -155,7 +155,7 @@ Babel : Après avoir entendu parler une langue pendant quelques minutes, on peut
 ==
 Balance/Equilibre : Vous êtes entraîné à l'équilibre. Facilitateur.
 ==
-Band of Desperados /Bande de Desperados: Votre réputation attire une bande de six adeptes PNJ desperados de niveau 2 qui vous sont entièrement dévoués. Vous et le MJ devez régler les détails de ces adeptes. Si un adepte meurt, vous en gagnez un nouveau après au moins deux semaines et un recrutement approprié. Facilitateur.
+Band of Desperados/Bande de Desperados: Votre réputation attire une bande de six adeptes PNJ desperados de niveau 2 qui vous sont entièrement dévoués. Vous et le MJ devez régler les détails de ces adeptes. Si un adepte meurt, vous en gagnez un nouveau après au moins deux semaines et un recrutement approprié. Facilitateur.
 ==
 Band of Followers/Bande de suivants: vous gagnez quatre suiveurs de niveau 3. Ils ne sont pas limités sur leurs modifications. Facilitateur.
 ==
@@ -298,7 +298,7 @@ Capable Warrior/Guerrier Capable: Vos attaques infligent 1 point de dégâts sup
 ==
 Captivate or Inspire/Captiver ou Inspirer: vous pouvez utiliser cette capacité de deux manières. Soit vos paroles retiennent l'attention de tous les PNJ qui les entendent aussi longtemps que vous parlez, soit vos paroles incitent tous les PNJ qui les entendent à fonctionner comme s'ils étaient d'un niveau supérieur pendant l'heure suivante. Dans les deux cas, vous choisissez quels PNJ sont affectés. Si quelqu'un dans la foule est attaqué pendant que vous essayez de lui parler, vous perdez l'attention de la foule. Action à initier.
 ==
-Captivate with Starshine/Captiver avec Eclat: Tant que vous parlez, vous gardez l'attention de tous les PNJ de niveau 2 ou inférieur qui peuvent vous entendre. Si vous possédez également la capacité Enthrall, vous pouvez de la même manière captiver tous les PNJ de niveau 3. Action à initier.
+Captivate With Starshine/Captiver avec Eclat: Tant que vous parlez, vous gardez l'attention de tous les PNJ de niveau 2 ou inférieur qui peuvent vous entendre. Si vous possédez également la capacité Enthrall, vous pouvez de la même manière captiver tous les PNJ de niveau 3. Action à initier.
 ==
 Car Surfer/Surfeur de voiture: Vous pouvez vous tenir debout ou vous déplacer sur un véhicule en mouvement (comme sur le capot, sur le toit, dans la porte ouverte, etc.) avec l'espoir raisonnable de ne pas tomber. À moins que le véhicule ne vire brusquement, ne s'arrête brusquement ou ne se livre à des manœuvres extrêmes, rester debout ou se déplacer sur un véhicule en mouvement est une tâche courante pour vous. Si le véhicule s'engage dans des manœuvres extrêmes comme celles décrites, les tâches de maintien à la surface du véhicule sont facilitées. Facilitateur.
 ==
