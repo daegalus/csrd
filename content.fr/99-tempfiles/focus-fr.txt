@@ -50,7 +50,7 @@ Leads/Dirige
 Learns Quickly/Apprend Rapidement
 Lives in the Wilderness/Vit dans la Nature Sauvage
 Looks for Trouble/Cherche les Ennuis
-Loves the Void
+Loves the Void/Aime le Vide
 Masters Defense/Maîtrise la Défense
 Masters Spells/Maîtrise les Sortilèges
 Masters the Swarm/Maîtrise l'Essaim

@@ -20,7 +20,7 @@ Lorsqu'une Motivations est choisie pour un personnage, celui-ci obtient une conn
 
 Chaque focus propose également une ou plusieurs suggestions --- intrusions GM --- pour les effets ou conséquences possibles de très bons ou de très mauvais lancers de dés.
 
-Quelques Motivations présentées dans ce chapitre fournissent une « Option d'échange de type » qui permet à un joueur d'échanger une capacité qui serait autrement acquise grâce à son type contre la capacité indiquée. Un joueur n'est pas obligé de procéder à l'échange ; ils ont simplement le choix. Par exemple, la Motivation Aime le Vide offre la possibilité d'acquérir la capacité Ayez une Combinaison Spatiale, Vous Voyagerez au lieu d'une capacité de type.
+Quelques Motivations présentées dans ce chapitre fournissent une « Option d'échange de type » qui permet à un joueur d'échanger une capacité qui serait autrement acquise grâce à son type contre la capacité indiquée. Un joueur n'est pas obligé de procéder à l'échange ; ils ont simplement le choix. Par exemple, la Motivation Aime le Aime le Vide offre la possibilité d'acquérir la capacité Ayez une Combinaison Spatiale, Vous Voyagerez au lieu d'une capacité de type.
 
 Au fur et à mesure qu'un personnage progresse vers un nouveau rang, une Motivation confère plus de capacités. L'avantage de chaque rang est généralement appelé Action ou Enabler. Si une capacité est étiquetée Action, un personnage doit effectuer une action pour l'utiliser. Si une capacité est étiquetée Facilitateur, elle améliore d'autres actions ou donne un autre avantage, mais ce n'est pas une action. Une capacité qui permet à un personnage de faire exploser ses ennemis avec des lasers est une action. Une capacité qui accorde des dégâts supplémentaires lorsqu'une attaque est effectuée est un Facilitateur. Un Facilitateur est utilisé au même tour qu’une autre action, et souvent dans le cadre d’une autre action.
 
@@ -245,6 +245,26 @@ Vous aimez vos amis et les aidez à sortir de toute difficulté, quoi qu'il arri
 * Rang 6: Considération approfondie ou Compétence en défense
 
 **Intrusions de la MJ:** D’autres ont parfois des arrière-pensées. La loi s’y intéresse indûment. Même lorsque tout se passe bien, les répercussions s’ensuivent.
+
+-----
+
+### Aime le Vide
+
+Lorsqu'il n'y a que vous, votre combinaison spatiale et le panorama d'étoiles qui défilent pour toujours et à jamais, vous êtes en paix.
+
+**Option d'échange de type:** Ayez une Combinaison Spatiale, Vous Voyagerez
+
+* Rang 1: Compétences sous Vide Spatial
+* Rang 1: Adepte de la microgravité
+* Rang 2: Avantage de Vitesse Amélioré
+* Rang 2: Physique amélioré
+* Rang 3: Combat spatial ou Armure Corporelle
+* Rang 4: Silencieux comme l'espace
+* Rang 4: Sauter en Microgravité
+* Rang 5: Evitement par microgravité
+* Rang 6: Tir en apesanteur ou Champ réactif
+
+**Intrusions de la MJ:** Les combinaisons spatiales développent des problèmes. Les cartouches de recharge d’air indiquent parfois mal leur capacité. Les micrométéorites sont courantes dans l'espace.
 
 -----
 
@@ -1040,7 +1060,7 @@ En vous spécialisant dans le lancement de sortilèges et en tenant un livre de 
 Vous pouvez manipuler l'ombre et la matière « noire ».
 
 * Rang 1: Rubans de matière noire
-* Rang 2: Ailes du Vide
+* Rang 2: Ailes du Aime le Vide
 * Rang 3: Manteau de matière noire ou Frappe de matière noire
 * Rang 4: Coquille de matière noire
 * Rang 5: Surfeur de Matière Noire
@@ -1552,26 +1572,6 @@ Awesome mathematical ability allows you to model the world in real time, giving 
 
 -----
 
-### Loves the Void
-
-When it's just you, your spacesuit, and the panorama of stars wheeling out forever and always, you are at peace.
-
-**Option d'échange de type:** Have Spacesuit, Will Travel
-
-* Rang 1: Vacuum Skilled
-* Rang 1: Microgravity Adept
-* Rang 2: Avantage de Vitesse Amélioré
-* Rang 2: Enhanced Physique
-* Rang 3: Space Fighting ou Armure Corporelle
-* Rang 4: Silent As Space
-* Rang 4: Push Off and Throw
-* Rang 5: Microgravity Avoidance
-* Rang 6: Weightless Shot ou Reactive Field
-
-**Intrusions de la MJ:** Spacesuits develop glitches. Air refill cartridges sometimes misreport capacity. Micrometeorites are common in space.
-
------
-
 ### Pilots Starcraft
 
 You're a crack starship pilot.
@@ -1637,7 +1637,7 @@ When not running and hiding, you sift the ruins of civilization for useful remna
 * Rang 3: Prendre l'avantage ou Santé incroyable
 * Rang 4: Know Where to Look
 * Rang 5: Recycled Cyphers
-* Rang 6: Artifact Scavenger ou Reactive Field
+* Rang 6: Artifact Scavenger ou Champ réactif
 
 **Intrusions de la MJ:** An item made with recycled junk breaks. Someone shows up claiming that the useful item ou piece of junk scavenged belongs to them. A recycled cypher explodes.
 
@@ -2544,7 +2544,7 @@ devices, learning powerful magic spells, uncovering forbidden secrets, ou someth
 
 * Lower-Rang ability: choose any Rang 1, 2, ou 3 replacement ability, above.
 * Poison Resistance
-* Built-in Weaponry
+* Armes intégrées
 
 ### Rang 5
 
@@ -2555,5 +2555,5 @@ devices, learning powerful magic spells, uncovering forbidden secrets, ou someth
 ### Rang 6
 
 * Lower-Rang ability: choose any Rang 1, 2, 3, 4, ou 5 replacement ability, above.
-* Reactive Field
+* Champ réactif
 * Abilities
