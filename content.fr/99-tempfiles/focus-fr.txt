@@ -98,7 +98,7 @@ Wears Power Armor/Porte une Armure Mécanique
 Wields An Enchanted Weapon/Porte une Arme Enchantée
 Wields Invisible Force/Contrôle une Force Invisible
 Wields Two Weapons at Once/Se Bat avec Deux Armes à la fois
-Works for a Living
+Works for a Living/Construit et Répare
 Works Miracles/Fait des Miracles
 Works the Back Alleys/Rôde dans les Bas Quartiers
 Works the System

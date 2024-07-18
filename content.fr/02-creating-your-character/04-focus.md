@@ -553,6 +553,22 @@ Vous pliez la lumière et manipulez des faisceaux de force pour l’attaque et l
 **Intrusions de la MJ:** L’invisibilité s’estompe partiellement, révélant la présence du personnage. Un champ de force est transpercé par une attaque inhabituelle ou inattendue.
 -----
 
+### Construit et Répare
+
+Vous tirez une grande satisfaction d'un travail bien fait, qu'il s'agisse de coder, de construire des maisons ou d'exploiter des astéroïdes.
+
+* Rang 1: Travaux Manuels
+* Rang 2: Muscles de fer
+* Rang 3: Oeil pour les détails ou Improvise
+* Rang 4: Puissance Améliorée
+* Rang 4: Tenez bon
+* Rang 5: Compétence d'expert
+* Rang 6: Potentiel amélioré supérieur ou  Résilience durement gagnée
+
+**Intrusions de la MJ:** Les réparations échouent parfois. Le câblage peut être difficile à déchiffrer tout en portant une charge électrique. Certaines personnes sont impolis envers ceux qui travaillent pour gagner leur vie.
+
+-----
+
 ### Copie des Superpouvoirs
 
 Vous pouvez copier les compétences, les capacités et les super pouvoirs des autres.
@@ -1845,22 +1861,6 @@ Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur
 
 -----
 
-### Works for a Living
-
-You take great satisfaction in a job well done, whether it's coding, building houses, ou mining asteroids.
-
-* Rang 1: Handy
-* Rang 2: Muscles of Iron
-* Rang 3: Eye for Detail ou Improvise
-* Rang 4: Puissance Améliorée
-* Rang 4: Tough It Out
-* Rang 5: Expert Skill
-* Rang 6: Potentiel amélioré supérieur ou  Résilience durement gagnée
-
-**Intrusions de la MJ:** Repairs sometimes fail. Wiring can be tricky to decipher and still carry an electrical charge. Some people are rude to those who work for a living.
-
------
-
 ### Works the System
 
 You can exploit flaws in artificial systems, including but not limited to computer code.
@@ -2021,7 +2021,7 @@ In addition, because the benefits provided by such foci are mostly straightforwa
 
 **Connection:** Choose four relevant connections from the Focus Connections list.
 
-**Additional Equipment:** Any object necessary to fulfill the overarching theme of the focus. For instance, a focus called Préfèrerait Lire should grant a handful of books to the character. A focus called Works for a Living should provide a set of tools.
+**Additional Equipment:** Any object necessary to fulfill the overarching theme of the focus. For instance, a focus called Préfèrerait Lire should grant a handful of books to the character. A focus called Construit et Répare should provide a set of tools.
 
 **Minor Effect Suggestions:** Next action is eased.
 
@@ -2032,7 +2032,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Ne Fait pas Grand Chose
 * Interprète la Loi
 * Learns Quickly
-* Works for a Living
+* Construit et Répare
 * Préfèrerait Lire
 
 **Ability Selection Guidelines**
@@ -2052,7 +2052,7 @@ Alternatively, provide a branch-out ability suggested at Rang 5.
 
 Finally, if the focus has yet to grant some kind of defense, a defensive ability could be provided here.
 
-**Rang 5:** Choose an ability that allows the character to branch out slightly---perhaps one like Expert Skill that allows them to automatically succeed on a task they're trained in.
+**Rang 5:** Choose an ability that allows the character to branch out slightly---perhaps one like Compétence d'expert that allows them to automatically succeed on a task they're trained in.
 Alternatively, if a nonstandard benefit was provided at Rang 4, provide the benefits suggested at Rang 4 here.
 
 **Rang 6:** Choose two high-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
