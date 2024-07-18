@@ -1559,6 +1559,25 @@ Vous pouvez envelopper votre corps de flammes, ce qui vous protège et nuit à v
 
 -----
 
+### Siphonne les Pouvoirs
+
+Vous aspirez le pouvoir des machines et des créatures afin de vous donner du pouvoir.
+
+{{< hint info >}}
+Les robots et autres machines vivantes doivent être traités comme des créatures, et non comme des machines, dans le but d’en siphonner l’énergie.
+{{< /hint >}}
+
+* Rang 1: Drain de Machine
+* Rang 2: Drain de Créature
+* Rang 3: Drain à distance ou Draîner la vie
+* Rang 4: Stocker l'énergie
+* Rang 5: Partagez le pouvoir
+* Rang 6: Libération explosive ou Siphon solaire
+
+**Intrusions de la MJ:** Le pouvoir drainé transmet également quelque chose de indésirable : des contraintes, des afflictions ou des pensées étrangères. La puissance siphonnée peut surcharger le personnage, provoquant une réaction.
+
+-----
+
 ### Tue les Monstres
 
 Vous tuez des monstres.
@@ -1693,25 +1712,6 @@ Lessons, reflexes, and strategies you've learned by playing too many games have 
 * Rang 6: Sursaut mental ou Gaming God
 
 **Intrusions de la MJ:** Missed attacks strike the wrong target. Equipment breaks. Sometimes people react negatively to someone who has lived most of their life in imaginary game worlds.
-
------
-
-### Siphons Power
-
-You suck power out of machines and creatures alike in order to empower yourself.
-
-{{< hint info >}}
-Robots and other living machines should be treated as creatures, not machines, for the purposes of siphoning power from them.
-{{< /hint >}}
-
-* Rang 1: Drain Machine
-* Rang 2: Drain Creature
-* Rang 3: Drain at a Distance ou Unraveling Consumption
-* Rang 4: Store Energy
-* Rang 5: Share the Power
-* Rang 6: Explosive Release ou Sun Siphon
-
-**Intrusions de la MJ:** Drained power also transmits something unwanted---compulsions, afflictions, ou alien thoughts. Siphoned power can overload the character, causing feedback.
 
 -----
 
@@ -2417,7 +2417,7 @@ The other option could be a different way of inflicting damage, either using the
 
 ### Support
 
-Foci that allow a character to help others succeed, defend others, heal others who are hurt, and so on are support foci. Of course, most foci abilities are often used in aid of others, but support foci (such as Siphons Power) prioritize aiding, healing, and improving the character who takes the focus.
+Foci that allow a character to help others succeed, defend others, heal others who are hurt, and so on are support foci. Of course, most foci abilities are often used in aid of others, but support foci (such as Siphonne les Pouvoirs) prioritize aiding, healing, and improving the character who takes the focus.
 
 Support foci rely on a variety of methods to provide their help, including martial training used in defense, supernatural ou sci-fi means of providing healing, ou simply easing the cares of others through entertainment.
 
@@ -2431,13 +2431,13 @@ Support foci rely on a variety of methods to provide their help, including marti
 
 The following are examples and not meant to provide a complete list of all possible foci in this category.
 
-* Defends the Weak
-* Entertains
-* Helps Their Friends
-* Metes Out Justice
-* Shepherds the Community
-* Siphons Power
-* Works Miracles
+* Défend les Faibles
+* Divertit
+* Aide ses Amis
+* Rend la Justice
+* Guide la Communauté
+* Siphonne les Pouvoirs
+* Fait des Miracles
 
 **Ability Selection Guidelines**
 
