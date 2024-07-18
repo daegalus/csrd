@@ -1006,6 +1006,21 @@ Vous excellez à convaincre les autres de partager vos opinions.
 
 -----
 
+### Invoque la Tempète
+
+Vous pouvez invoquer des tempêtes ou les briser.
+
+* Rang 1: Survol
+* Rang 2: Armure de vent
+* Rang 3: Eclairs de puissance ou Graine de Tempête
+* Rang 4: Surfeur des Vents
+* Rang 5: Explosion de froid
+* Rang 6: Contrôle de la météo ou Chariot à vent
+
+**Intrusions de la MJ:** Un allié est accidentellement frappé par une fourchette de foudre. Un effet d'échouement inattendu inflige des dégâts. Le temps est influencé par un effet beaucoup plus faible et une tempête devient incontrôlable.
+
+-----
+
 ### Lance avec une Précision Mortelle
 
 Tout ce qui quitte votre main va exactement là où vous souhaitez qu'il aille et à la portée et à la vitesse nécessaires pour produire l'impact parfait.
@@ -1763,21 +1778,6 @@ Lessons, reflexes, and strategies you've learned by playing too many games have 
 * Rang 6: Sursaut mental ou Gaming God
 
 **Intrusions de la MJ:** Missed attacks strike the wrong target. Equipment breaks. Sometimes people react negatively to someone who has lived most of their life in imaginary game worlds.
-
------
-
-### Touches The Sky
-
-You can summon storms ou break them apart.
-
-* Rang 1: Survol
-* Rang 2: Wind Armor
-* Rang 3: Eclairs de puissance ou Storm Seed
-* Rang 4: Windrider
-* Rang 5: Explosion de froid
-* Rang 6: Control Weather ou Wind Chariot
-
-**Intrusions de la MJ:** An ally is accidentally struck by a fork of lightning. An unexpected grounding effect inflicts damage. The weather is seeded by a much smaller effect, and a storm grows out of control.
 
 -----
 

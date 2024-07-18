@@ -88,7 +88,7 @@ Takes Animal Shape/Prend une Forme Animale
 Talks to Machines/Parle aux Machines
 Throws With Deadly Accuracy/Lance avec une Précision Mortelle
 Thunders/Fait Résonner le Tonnerre
-Touches The Sky
+Touches The Sky/Invoque la Tempète
 Travels Through Time
 Uses Wild Magic/Utilise la Magie Sauvage
 Walks The Wild Woods/Marche dans Les Forêts Primaires
