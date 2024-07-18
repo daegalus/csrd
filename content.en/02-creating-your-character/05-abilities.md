@@ -3425,6 +3425,8 @@ The GM determines what the spirit might know, based on the knowledge it possesse
 
 **Quick Study:** You learn from repetitive actions. You gain a +1 bonus to rolls for similar tasks after the first time (such as operating the same device or making attacks against the same foe). Once you move on to a new task, the familiarity with the old task fades---unless you start doing it again. Enabler.
 
+**Quick Switch:** You can activate Shrink as part of another action (the ability is now an enabler for you instead of an action). While the one-minute duration of Shrink is active, on your turn you can change size once before taking an action and once after taking an action. For example, on your turn you could change to small size, make an attack, and then return to your normal size, or you could change to your normal size, use your action to move a short distance, and then return to small size. Enabler.
+
 **Quick Throw (2 Speed points):** After using a thrown light weapon, you draw another light weapon and make another thrown attack against the same target or a different one. Action.
 
 **Quick to Flee:** You are trained in stealth and movement tasks. Enabler.
