@@ -489,6 +489,22 @@ Le mot « robot » est utilisé dans cette Motivation, bien que le robot que vou
 
 -----
 
+### Contourne le Système
+
+Vous pouvez exploiter les failles des systèmes artificiels, y compris, mais sans s'y limiter, le code informatique.
+
+* Rang 1: Hackez l'impossible
+* Rang 1: Programmation informatique
+* Rang 2: Connecté
+* Rang 3: Artiste de la confiance ou Compétence avec les attaques
+* Rang 4: Confondre l'ennemi
+* Rang 5: Entretenir l'amitié
+* Rang 6: Demande d'une faveur ou Potentiel amélioré supérieur
+
+**Intrusions de la MJ:** Les contacts ont parfois des arrière-pensées. Les appareils ont parfois des sécurités ou même des pièges.
+
+-----
+
 ### Contrôle la Gravité
 
 Vous pouvez influencer l’attraction de la gravité elle-même.
@@ -1861,22 +1877,6 @@ Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur
 
 -----
 
-### Works the System
-
-You can exploit flaws in artificial systems, including but not limited to computer code.
-
-* Rang 1: Hack the Impossible
-* Rang 1: Computer Programming
-* Rang 2: Connected
-* Rang 3: Confidence Artist ou Compétence avec les attaques
-* Rang 4: Confuse Enemy
-* Rang 5: Work the Friendship
-* Rang 6: Call in Favor ou Potentiel amélioré supérieur
-
-**Intrusions de la MJ:** Contacts sometimes have ulterior motives. Devices sometimes have failsafes ou even traps.
-
------
-
 ## Creating New Foci
 
 This section provides everything you need to create your own foci.
@@ -2231,7 +2231,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Est Idolatré par Millions
 * Résout des Mystères
 * Parle aux Machines
-* Works the System
+* Contourne le Système
 
 **Ability Selection Guidelines**
 
