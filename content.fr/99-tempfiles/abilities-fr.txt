@@ -24,7 +24,7 @@ Advantage to Disadvantage/Avantage par Désavantage (3 points de Vitesse) : Avec
 ==
 Advantages of Being Big/Avantages d'être grand: lorsque vous utilisez Enlarge, vous êtes si grand que vous pouvez déplacer des objets massifs plus facilement, escalader des bâtiments en utilisant des poignées et des pieds inaccessibles aux personnes de taille normale et sauter beaucoup plus loin. Pendant que vous profitez des effets d'Agrandir, toutes les tâches d'escalade, de levage et de saut sont facilitées. Facilitateur.
 ==
-Advantage being small/Avantages d'être petit: Vous avez appris à exploiter votre force et votre précision proportionnellement à votre taille. Vos dégâts ne sont plus réduits de moitié lorsque vous utilisez Shrink, et les tâches d'escalade et de saut sont facilitées. Facilitateur.
+Advantages of Being Small/Avantages d'être petit: Vous avez appris à exploiter votre force et votre précision proportionnellement à votre taille. Vos dégâts ne sont plus réduits de moitié lorsque vous utilisez Shrink, et les tâches d'escalade et de saut sont facilitées. Facilitateur.
 ==
 Advice from a Friend/Conseils d'un ami (1 point d'intelligence): Vous connaissez les forces et les faiblesses de votre ami et comment le motiver à réussir. Lorsque vous donnez à un allié une suggestion concernant sa prochaine action, le personnage est entraîné à cette action pendant un round. Action.
 ==
@@ -1720,6 +1720,8 @@ Quick Strike/Frappe rapide (4 points de vitesse) : Vous effectuez une attaque au
 ==
 Quick Study/Etude rapide: vous apprenez des actions répétitives. Vous gagnez un bonus de +1 aux jets pour des tâches similaires après la première fois (comme utiliser le même appareil ou effectuer des attaques contre le même ennemi). Une fois que vous passez à une nouvelle tâche, la familiarité avec l'ancienne tâche s'estompe, à moins que vous ne recommenciez à la refaire. Facilitateur.
 ==
+Quick Switch/Changements Rapides: Vous pouvez activer Rétrécir dans le cadre d'une autre action (la capacité est désormais un Facilitateur pour vous au lieu d'une action). Pendant que la durée d'une minute de Rétrécissement est active, pendant votre tour, vous pouvez changer de taille une fois avant d'effectuer une action et une fois après avoir effectué une action. Par exemple, pendant votre tour, vous pouvez passer à une taille petite, effectuer une attaque, puis revenir à votre taille normale, ou vous pouvez revenir à votre taille normale, utiliser votre action pour vous déplacer sur une courte distance, puis revenir à une taille petite. Facilitateur.
+==
 Quick Throw/Lancer rapide (2 points de vitesse) : Après avoir utilisé une arme légère de lancer, vous dégainez une autre arme légère et effectuez une autre attaque lancée contre la même cible ou une autre. Action.
 ==
 Quick to Flee/Rapide à fuir: vous êtes entraîné aux tâches de furtivité et de mouvement. Facilitateur.
@@ -2319,7 +2321,7 @@ Verbal Misdirection/Distraction verbale (2+ points d'intelligence) : avec une co
 ==
 Versatile Mind/Esprit polyvalent: lorsque vous effectuez un jet de défense de vitesse, vous pouvez utiliser votre intelligence à la place de votre vitesse. Facilitateur.
 ==
-Very Long Sprint/Très long sprint: lorsque vous utilisez Phase Sprint, vous pouvez parcourir une très longue distance au lieu d'une longue distance. Facilitateur.
+Very Long Sprinting/Très long sprint: lorsque vous utilisez Phase Sprint, vous pouvez parcourir une très longue distance au lieu d'une longue distance. Facilitateur.
 ==
 Vigilance (2 points d'Intelligence) : Vous adoptez une approche prudente du combat, en vous concentrant davantage sur votre protection que sur le fait de blesser vos adversaires. Tant que cette capacité est active, vous gagnez un atout aux jets de défense Vitesse contre les attaques de mêlée et à distance, et vos attaques de mêlée et à distance sont gênées. Cet effet dure aussi longtemps que vous le souhaitez, mais il prend fin si aucun combat n'a lieu à portée de vos sens. Action à initier.
 ==

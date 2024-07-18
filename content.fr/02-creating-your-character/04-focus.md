@@ -1523,6 +1523,27 @@ Quand vous devenez fou, tout le monde vous craint.
 
 -----
 
+### Se Réduit à une Taille Infime
+
+Vous pouvez réduire à la taille d'un bug et, avec suffisamment d'expérience, encore plus petit.
+
+* Rang 1: Rétrécir
+* Rang 1: Sans être remarqué
+* Rang 2: Plus petit
+* Rang 2: Avantages d'être petit
+* Rang 3: Agrandir ou Changements Rapides
+* Rang 4: Petit vol
+* Rang 5: Rétrécir les autres
+* Rang 6: Plus grand ou Tiny
+
+**Intrusions de la MJ:** Une créature pense que le petit personnage est de la nourriture potentielle. Le petit personnage se retrouve coincé dans un espace minuscule ou sous un objet qui tombe.
+
+{{< hint info >}}
+Un personnage qui Se Réduit à une Taille Infime et qui choisit d'apprendre des capacités comme Agrandir ne sera jamais aussi grand que celui qui Grandit Jusqu'au Ciel, mais il peut profiter des Avantages d'être grand ou petit selon ses besoins.
+{{< /hint >}}
+
+-----
+
 ### Se Revêt d'un Halo de Feu
 
 Vous pouvez envelopper votre corps de flammes, ce qui vous protège et nuit à vos ennemis.
@@ -1672,27 +1693,6 @@ Lessons, reflexes, and strategies you've learned by playing too many games have 
 * Rang 6: Sursaut mental ou Gaming God
 
 **Intrusions de la MJ:** Missed attacks strike the wrong target. Equipment breaks. Sometimes people react negatively to someone who has lived most of their life in imaginary game worlds.
-
------
-
-### Shrinks To Minute Size
-
-You can shrink down to the size of a bug and, with enough experience, even smaller.
-
-* Rang 1: Shrink
-* Rang 1: Beneath Notice
-* Rang 2: Smaller
-* Rang 2: Advantages of Being Small
-* Rang 3: Agrandir ou Quick Switch
-* Rang 4: Petit vol
-* Rang 5: Shrink Others
-* Rang 6: Plus grand ou Tiny
-
-**Intrusions de la MJ:** A creature thinks the small character is potential food. The small character gets trapped in a tiny space ou under a falling object.
-
-{{< hint info >}}
-A character who Shrinks to Minute Size who chooses to learn abilities like Agrandir will never be quite as big as one who Grandit Jusqu'au Ciel, but they can enjoy the Avantages d'être grand ou small as needed.
-{{< /hint >}}
 
 -----
 
