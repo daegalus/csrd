@@ -1440,6 +1440,22 @@ Votre premier réflexe est de fuir le danger, et vous y êtes devenu très fort.
 
 -----
 
+### S'Envole Grâce à ses Ailes
+
+De nombreux super-héros peuvent voler et certains ont même des ailes. Vous pouvez utiliser vos ailes pour vous déplacer, attaquer et vous défendre.
+
+* Rang 1: Survol
+* Rang 1: Vol Court
+* Rang 2: Ailes comme Arme
+* Rang 3: Attaque acrobatique ou Compagnon volant
+* Rang 4: Difficile à toucher
+* Rang 5: Accélérer
+* Rang 6: Cible difficile ou Maître de la défense
+
+**Intrusions de la MJ:** Une aile est blessée ou retenue, provoquant la chute du personnage. Voler haut fait du personnage une cible évidente pour un ennemi inattendu.
+
+-----
+
 ### Sculpte la Lumière Solide
 
 Vous créez des objets physiques à partir d’une lumière solide que vous pouvez utiliser à des fins offensives et défensives.
@@ -1712,22 +1728,6 @@ Lessons, reflexes, and strategies you've learned by playing too many games have 
 * Rang 6: Sursaut mental ou Gaming God
 
 **Intrusions de la MJ:** Missed attacks strike the wrong target. Equipment breaks. Sometimes people react negatively to someone who has lived most of their life in imaginary game worlds.
-
------
-
-### Soars On Amazing Wings
-
-Many superheroes can fly, and some even have wings. You can use your wings for movement, attacks, and defense.
-
-* Rang 1: Survol
-* Rang 1: Vol Court
-* Rang 2: Wing Weapons
-* Rang 3: Attaque acrobatique ou Flying Companion
-* Rang 4: Difficile à toucher
-* Rang 5: Accélérer
-* Rang 6: Hard Target ou Maître de la défense
-
-**Intrusions de la MJ:** A wing gets hurt ou restrained, causing the character to fall. Flying high makes the character an obvious target for an unexpected foe.
 
 -----
 
