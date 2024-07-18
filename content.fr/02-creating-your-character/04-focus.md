@@ -1456,6 +1456,23 @@ De nombreux super-héros peuvent voler et certains ont même des ailes. Vous pou
 
 -----
 
+### S'Etire
+
+Votre corps est élastique et caoutchouteux, capable de s’étirer sur de grandes longueurs et de se comprimer lorsqu’il est frappé.
+
+* Rang 1: Contorsionniste
+* Rang 1: Grand Pas
+* Rang 2: Poignée élastique
+* Rang 2: Chute en toute sécurité
+* Rang 3: Contourner la barrière ou Détournement
+* Rang 4: Résilience
+* Rang 5: Libre de se déplacer
+* Rang 6: Briser les rangs ou Pas encore mort
+
+**Intrusions de la MJ:** Une attaque ou un effet perturbe l’élasticité du personnage. Un membre étiré devient trop sollicité et faible.
+
+-----
+
 ### Sculpte la Lumière Solide
 
 Vous créez des objets physiques à partir d’une lumière solide que vous pouvez utiliser à des fins offensives et défensives.
@@ -1728,23 +1745,6 @@ Lessons, reflexes, and strategies you've learned by playing too many games have 
 * Rang 6: Sursaut mental ou Gaming God
 
 **Intrusions de la MJ:** Missed attacks strike the wrong target. Equipment breaks. Sometimes people react negatively to someone who has lived most of their life in imaginary game worlds.
-
------
-
-### Stretches
-
-Your body is elastic and rubbery, able to stretch to great lengths and compress when struck.
-
-* Rang 1: Contortionist
-* Rang 1: Far Step
-* Rang 2: Elastic Grip
-* Rang 2: Chute en toute sécurité
-* Rang 3: Bypass Barrier ou Misdirect
-* Rang 4: Résilience
-* Rang 5: Free to Move
-* Rang 6:Break the Ranks ou Pas encore mort
-
-**Intrusions de la MJ:** An attack ou effect interferes with the character’s elasticity. A stretched limb becomes overstressed and weak.
 
 -----
 
