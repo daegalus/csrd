@@ -1730,6 +1730,25 @@ Vous pouvez voler et vous êtes super fort, difficile à blesser et rapide aussi
 
 -----
 
+### Voyage à Travers le Temps
+
+Vous pouvez voir à travers le temps, essayer de le traverser et éventuellement même le parcourir.
+
+{{< hint info >}}
+Bien que tous les choix de personnages soient soumis à l'approbation du MJ, Voyage à Travers le Temps est un sujet sur lequel le MJ et le joueur devraient probablement avoir une longue conversation à l'avance, afin que le joueur connaisse les règles du voyage dans le temps (le cas échéant) qui existent dans le réglage du MJ. Un personnage avec cette concentration peut modifier radicalement un décor, si les règles du voyage dans le temps le permettent.
+{{< /hint >}}
+
+* Rang 1: Anticipation
+* Rang 2: Voir Historique
+* Rang 3: Accélération temporelle ou Boucle temporelle
+* Rang 4: Dislocation temporelle
+* Rang 5: Doppelganger Temporel
+* Rang 6: Appel à travers le temps ou Voyage dans le temps
+
+**Intrusions de la MJ:** Des paradoxes se créent. D’autres se souviennent différemment des événements passés.
+
+-----
+
 ### Utilise la Magie Sauvage
 
 Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur un seul type de magie.
@@ -1778,25 +1797,6 @@ Lessons, reflexes, and strategies you've learned by playing too many games have 
 * Rang 6: Sursaut mental ou Gaming God
 
 **Intrusions de la MJ:** Missed attacks strike the wrong target. Equipment breaks. Sometimes people react negatively to someone who has lived most of their life in imaginary game worlds.
-
------
-
-### Travels Through Time
-
-You can see through time, try to reach through it, and eventually even travel through it.
-
-{{< hint info >}}
-Although all character choices are subject to GM approval, Travels Through Time is a focus that the GM and player should probably have a long conversation about ahead of time, so the player knows the rules of time travel (if any) that exist in the GM's setting. A character with this focus can drastically alter a setting, if the rules of time travel allow it.
-{{< /hint >}}
-
-* Rang 1: Anticipation
-* Rang 2: See History
-* Rang 3: Temporal Acceleration ou Time Loop
-* Rang 4: Temporal Dislocation
-* Rang 5: Time Doppelganger
-* Rang 6: Call Through Time ou Time Travel
-
-**Intrusions de la MJ:** Paradoxes are created. Others remember past events differently.
 
 -----
 
@@ -2328,7 +2328,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Va Comme le Vent
 * S'enfuit
 * Déchire les Murs du Monde
-* Travels Through Time
+* Voyage à Travers le Temps
 * Works the Back Alleys
 
 **Ability Selection Guidelines**
