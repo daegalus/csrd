@@ -161,6 +161,24 @@ Vous êtes « l’élu » et la prophétie, la prédiction, le pronostic ou tout
 
 -----
 
+### A Joué à Trop de Jeux
+
+Les leçons, les réflexes et les stratégies que vous avez appris en jouant à trop de jeux ont des applications dans le monde réel, où les gens qui ne jouent pas assez travaillent dur et vivent leur vie morne.
+
+* Rang 1: Leçons de jeu
+* Rang 1: Joueur
+* Rang 2: Voir dans le Noir
+* Rang 2: Résoudre des Enigmes
+* Rang 3: Objectif du tireur d'élite ou Avantage de Vitesse Amélioré
+* Rang 4: Jeux d'esprit
+* Rang 4: Intelligence améliorée
+* Rang 5: Endurance du joueur
+* Rang 6: Sursaut mental ou Dieu du jeu
+
+**Intrusions de la MJ:** Les attaques manquées touchent la mauvaise cible. Le matériel tombe en panne. Parfois, les gens réagissent négativement à quelqu’un qui a vécu la majeure partie de sa vie dans des mondes de jeu imaginaires.
+
+-----
+
 ### A Navigué sous Pavillon Pirate
 
 Vous avez navigué avec un équipage de redoutables pirates, mais vous avez décidé de mettre fin à vos jours de pirate et de rejoindre une autre cause. La question est : votre passé vous laissera-t-il partir si facilement ?
@@ -1840,24 +1858,6 @@ Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur
 * Rang 6: Maximiser le Cypher ou Instinct de Magie Sauvage
 
 **Intrusions de la MJ:** Un sort s'exécute de manière erratique ou rebondit sur le lanceur. Quelque chose interfère avec la préparation des sorts. Le lancement de sorts attire l'attention d'une créature puissante ou d'un rival potentiel. Le sort de chiffre lancé est remplacé par celui d'un chiffre aléatoire.
-
------
-
-### Plays Too Many Games
-
-Lessons, reflexes, and strategies you've learned by playing too many games have applications in the real world, where people who don't play enough toil and live their dreary lives.
-
-* Rang 1: Game Lessons
-* Rang 1: Gamer
-* Rang 2: Zero Dark Eyes
-* Rang 2: Resist Tricks
-* Rang 3: Sniper's Aim ou Avantage de Vitesse Amélioré
-* Rang 4: Jeux d'esprit
-* Rang 4: Intelligence améliorée
-* Rang 5: Gamer's Fortitude
-* Rang 6: Sursaut mental ou Gaming God
-
-**Intrusions de la MJ:** Missed attacks strike the wrong target. Equipment breaks. Sometimes people react negatively to someone who has lived most of their life in imaginary game worlds.
 
 -----
 
