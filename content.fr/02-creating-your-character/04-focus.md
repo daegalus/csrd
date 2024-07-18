@@ -337,6 +337,23 @@ Vous déployez un incroyable bouclier de force pure qui offre une protection et 
 
 -----
 
+### Calcule l'Incalculable
+
+Des capacités mathématiques impressionnantes vous permettent de modéliser le monde en temps réel, vous donnant ainsi un avantage sur tout le monde.
+
+* Rang 1: Equation prédictive
+* Rang 1: Mathématiques supérieures
+* Rang 2: Modèle prédictif
+* Rang 3: Défense subconsciente ou Intelligence améliorée
+* Rang 4: Diagramme de combat
+* Rang 5: Intelligence Améliorée Supérieure
+* Rang 5: Mathématiques Complémentaires
+* Rang 6: Connaître l'inconnu ou Intelligence Améliorée Supérieure
+
+**Intrusions de la MJ:** Trop de résultats prédits menacent de submerger et d’étourdir le personnage. Un résultat indique un désastre imminent.
+
+-----
+
 ### Canalise les Bénédictions Divines
 
 Fervent disciple d’un être divin, vous canalisez une partie du pouvoir de votre divinité pour réaliser des merveilles.
@@ -1823,23 +1840,6 @@ Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur
 * Rang 6: Maximiser le Cypher ou Instinct de Magie Sauvage
 
 **Intrusions de la MJ:** Un sort s'exécute de manière erratique ou rebondit sur le lanceur. Quelque chose interfère avec la préparation des sorts. Le lancement de sorts attire l'attention d'une créature puissante ou d'un rival potentiel. Le sort de chiffre lancé est remplacé par celui d'un chiffre aléatoire.
-
------
-
-### Calcule l'Incalculable
-
-Awesome mathematical ability allows you to model the world in real time, giving you an edge over everyone.
-
-* Rang 1: Predictive Equation
-* Rang 1: Higher Mathematics
-* Rang 2: Predictive Model
-* Rang 3: Subconscious Defense ou Intelligence améliorée
-* Rang 4: Cognizant Offense
-* Rang 5: Intelligence Améliorée Supérieure
-* Rang 5: Further Mathematics
-* Rang 6: Connaître l'inconn ou Intelligence Améliorée Supérieure
-
-**Intrusions de la MJ:** Too many predicted results threaten to overwhelm and stun the character. A result points to imminent disaster.
 
 -----
 
