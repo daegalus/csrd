@@ -1200,6 +1200,24 @@ Votre connexion spirituelle avec la nature et l’environnement vous confère de
 
 -----
 
+### Parle aux Machines
+
+Vous utilisez votre cerveau organique comme un ordinateur, en interface « sans fil » avec n’importe quel appareil électronique. Vous pouvez les contrôler et les influencer d’une manière que d’autres ne peuvent pas.
+
+* Rang 1: Affinité machine
+* Rang 1: Interface distante
+* Rang 2: Puissance d'attraction
+* Rang 2: Charmer une Machine
+* Rang 3: Interface intelligente ou Commander une Machine
+* Rang 4: Compagnon machine
+* Rang 4: Combattant de Robot
+* Rang 5: Collecte d'informations
+* Rang 6: Contrôle de Machine ou Compagnon Machine Amélioré
+
+**Intrusions de la MJ:** La machine fonctionne mal ou agit de manière imprévisible.
+
+-----
+
 ### Peut Séparer son Esprit de son Corps
 
 Vous pouvez projeter votre esprit hors de votre corps pour voir des endroits lointains et découvrir des secrets qui autrement resteraient cachés.
@@ -1748,24 +1766,6 @@ Lessons, reflexes, and strategies you've learned by playing too many games have 
 
 -----
 
-### Talks to Machines
-
-You use your organic brain like a computer, interfacing "wirelessly" with any electronic device. You can control and influence them in ways that others can't.
-
-* Rang 1: Machine Affinity
-* Rang 1: Distant Interface
-* Rang 2: Coaxing Power
-* Rang 2: Charm Machine
-* Rang 3: Intelligent Interface ou Command Machine
-* Rang 4: Machine Companion
-* Rang 4: Robot Fighter
-* Rang 5: Information Gathering
-* Rang 6: Control Machine ou Improved Machine Companion
-
-**Intrusions de la MJ:** The machine malfunctions ou acts unpredictably.
-
------
-
 ### Touches The Sky
 
 You can summon storms ou break them apart.
@@ -2232,7 +2232,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Fussionne l'Esprit et la Machine
 * Est Idolatré par Millions
 * Résout des Mystères
-* Talks to Machines
+* Parle aux Machines
 * Works the System
 
 **Ability Selection Guidelines**

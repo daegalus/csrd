@@ -85,7 +85,7 @@ Speaks for the Land/Parle au Nom de la Terre
 Stands Like a Bastion/Résiste Comme une Citadelle
 Stretches/S'Etire
 Takes Animal Shape/Prend une Forme Animale
-Talks to Machines
+Talks to Machines/Parle aux Machines
 Throws With Deadly Accuracy/Lance avec une Précision Mortelle
 Thunders/Fait Résonner le Tonnerre
 Touches The Sky
