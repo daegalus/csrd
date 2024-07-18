@@ -1301,6 +1301,20 @@ Vous possédez une arme aux capacités étranges, et votre connaissance de ses p
 
 -----
 
+### Porte une Armure Mécanique
+
+* Rang 1: Armure motorisée
+* Rang 1: Puissance Améliorée
+* Rang 2: Affichage Tête Haute
+* Rang 3: Armure Corporelle ou Santé incroyable
+* Rang 4: Explosion de Force
+* Rang 5: Armure Renforcée par Champs de Force
+* Rang 6: Modification magistrale de l'armure (Vol assisté par réacteur) ou Modification magistrale de l'armure (Cypher Pod)
+
+**Intrusions de la MJ:** L'armure ne s'enlève pas. L'armure agit par ses propres moyens. L'armure subit une perte de puissance momentanée. Les PNJ ont peur de l'armure assistée.
+
+-----
+
 ### Poursuit des Sciences Etranges
 
 Votre perspicacité et vos capacités surnaturelles font de vous un scientifique capable de prouesses incroyables.
@@ -1816,21 +1830,6 @@ Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur
 
 -----
 
-### Wears Power Armor
-
-* Rang 1: Powered Armor
-* Rang 1: Enhanced Might
-* Rang 2: Heads-Up Display
-* Rang 3: Armure Corporelle ou Incredible  Health
-
-* Rang 4: Force Blast
-* Rang 5: Field-Reinforced Armor
-* Rang 6: Masterful Armor Modification (Jet Assisted Flight) ou Masterful Armor Modification (Cypher Pod)
-
-**Intrusions de la MJ:** The armor won't come off. The armor acts under its own power. The armor suffers a momentary power loss. NPJs are scared by the power armor.
-
------
-
 ### Wields Invisible Force
 
 You bend light and manipulate beams of force for offense and defense.
@@ -1854,7 +1853,7 @@ You take great satisfaction in a job well done, whether it's coding, building ho
 * Rang 1: Handy
 * Rang 2: Muscles of Iron
 * Rang 3: Eye for Detail ou Improvise
-* Rang 4: Enhanced Might
+* Rang 4: Puissance Améliorée
 * Rang 4: Tough It Out
 * Rang 5: Expert Skill
 * Rang 6: Potentiel amélioré supérieur ou  Résilience durement gagnée
