@@ -538,6 +538,21 @@ Votre capacité à communiquer et à diriger des bêtes est surnaturelle.
 
 -----
 
+### Contrôle une Force Invisible
+
+Vous pliez la lumière et manipulez des faisceaux de force pour l’attaque et la défense.
+
+* Rang 1: Disparaître
+* Rang 2: Force enchevêtrante
+* Rang 2: Sens aiguisés
+* Rang 3: Barrière de champ de force ou Invisibilité Multiple
+* Rang 4: Invisibilité
+* Rang 5: Champ défensif
+* Rang 6: Concussion ou Générer un champ de force
+
+**Intrusions de la MJ:** L’invisibilité s’estompe partiellement, révélant la présence du personnage. Un champ de force est transpercé par une attaque inhabituelle ou inattendue.
+-----
+
 ### Copie des Superpouvoirs
 
 Vous pouvez copier les compétences, les capacités et les super pouvoirs des autres.
@@ -1827,22 +1842,6 @@ Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur
 * Rang 6: Maximiser le Cypher ou Instinct de Magie Sauvage
 
 **Intrusions de la MJ:** Un sort s'exécute de manière erratique ou rebondit sur le lanceur. Quelque chose interfère avec la préparation des sorts. Le lancement de sorts attire l'attention d'une créature puissante ou d'un rival potentiel. Le sort de chiffre lancé est remplacé par celui d'un chiffre aléatoire.
-
------
-
-### Wields Invisible Force
-
-You bend light and manipulate beams of force for offense and defense.
-
-* Rang 1: Vanish
-* Rang 2: Force enchevêtrante
-* Rang 2: Sens aiguisés
-* Rang 3: Force Field Barrier ou Multi-Vanish
-* Rang 4: Invisibility
-* Rang 5: Champ défensif
-* Rang 6: Concussion ou Générer un champ de force
-
-**Intrusions de la MJ:** Invisibility partially fades, revealing the character’s presence. A force field is pierced by an unusual ou unexpected attack.
 
 -----
 
