@@ -1977,12 +1977,12 @@ Multiple potential themes exist within the ally use category, from abilities tha
 The following are examples and not meant to provide a complete list of all possible foci in this category.
 
 * Construit des Robots
-* Consorts With the Dead
+* S'Associe avec les Morts
 * Contrôle les Bêtes Sauvages
 * Existe en Deux Endroits en Même Temps
-* Leads
+* Dirige
 * Maîtrise l'Essaim
-* Shepherds Spirits
+* Guide les Esprits
 
 **Ability Selection Guidelines**
 
@@ -2031,7 +2031,7 @@ The following are examples and not meant to provide a complete list of all possi
 
 * Ne Fait pas Grand Chose
 * Interprète la Loi
-* Learns Quickly
+* Apprend Rapidement
 * Construit et Répare
 * Préfèrerait Lire
 
@@ -2182,7 +2182,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Infiltrates
 * Opère sous Couverture
 * Pilote un Vaisseau Spatial
-* Sees Beyond
+* Voit Au-Delà
 * Peut Séparer son Esprit de son Corps
 
 **Ability Selection Guidelines**
@@ -2275,11 +2275,11 @@ superhero-themed focus might grant a superhero costume.
 
 The following are examples and not meant to provide a complete list of all possible foci in this category.
 
-* Channels Divine Blessings
+* Canalise les Bénédictions Divines
 * A des Ascendants Nobles
 * Est sorti de l'Obélisque
 * Vole Plus Vite qu'une Balle
-* Masters Spells
+* Maîtrise les Sortilèges
 * Parle au Nom de la Terre
 
 **Ability Selection Guidelines**
@@ -2322,12 +2322,12 @@ The classic movement expertise focus is one that relies on speed to make more at
 The following are examples and not meant to provide a complete list of all possible foci in this category.
 
 * Existe Partiellement Hors de Phase
-* Moves Like a Cat
+* Bouge comme un Chat
 * Va Comme le Vent
 * S'enfuit
 * Déchire les Murs du Monde
 * Voyage à Travers le Temps
-* Works the Back Alleys
+* Rôde dans les Bas Quartiers
 
 **Ability Selection Guidelines**
 
@@ -2363,7 +2363,7 @@ To achieve this end, a striker combat focus might offer mastery of a particular 
 
 **Connection:** Choose four relevant connections from the Focus Connections list.
 
-**Additional Equipment:** The weapon, tool, ou other special item ou substance (if any) required to engage in the particular style of combat. For instance, a dose of level 5 poison for Se Bat Sans Respecter de Règle ou Murders, a trophy from a previously defeated foe for Battles Robots, ou stylish clothes for Combat avec Panache.
+**Additional Equipment:** The weapon, tool, ou other special item ou substance (if any) required to engage in the particular style of combat. For instance, a dose of level 5 poison for Se Bat Sans Respecter de Règle ou Assassine, a trophy from a previously defeated foe for Battles Robots, ou stylish clothes for Combat avec Panache.
 
 **Minor Effect Suggestions:** The target is so dazzled by your expertise that it is dazed for one round, hindering all of its tasks.
 
@@ -2371,17 +2371,17 @@ To achieve this end, a striker combat focus might offer mastery of a particular 
 
 The following are examples and not meant to provide a complete list of all possible foci in this category.
 
-* Battles Robots
+* Combat les Robots
 * Se Bat Sans Respecter de Règle
 * Combat avec Panache
 * Chasse
-* Is Licensed to Carry
+* A le Droit de Porter une Arme à Feu
 * Cherche les Ennuis
-* Masters Weaponry
-* Murders
-* Needs No Weapon
-* Performs Feats of Strength
-* Rages
+* Maîtrise l'Armement
+* Assassine
+* N'a pas Besoin d'Arme
+* Accompli des Prouesses de Force
+* Se Met en Rage
 * Tue les Monstres
 * Lance avec une Précision Mortelle
 * Se Bat avec Deux Armes à la fois
@@ -2476,13 +2476,13 @@ Some tank combat foci involve a physical transformation that grants additional p
 
 The following are examples and not meant to provide a complete list of all possible foci in this category.
 
-* Abides in Stone
+* Demeure dans la pierre
 * Brandit un Bouclier Exotique
 * Garde le Passage
 * Fusionne la Chair et l'Acier
 * Grandit Jusqu'au Ciel
 * Hurle à la Lune
-* Lives in the Wilderness
+* Vit dans la Nature Sauvage
 * Maîtrise la Défense
 * Ne S'Avoue Jamais Vaincu
 * Résiste Comme une Citadelle
@@ -2522,8 +2522,8 @@ devices, learning powerful magic spells, uncovering forbidden secrets, ou someth
 
 ### Rang 1
 
-* Combat Prowess
-* Enhanced Potential
+* Prouesses au combat
+* Potentiel amélioré
 
 ### Rang 2
 
@@ -2541,7 +2541,7 @@ devices, learning powerful magic spells, uncovering forbidden secrets, ou someth
 ### Rang 4
 
 * Lower-Rang ability: choose any Rang 1, 2, ou 3 replacement ability, above.
-* Poison Resistance
+* Résistance au poison
 * Armes intégrées
 
 ### Rang 5

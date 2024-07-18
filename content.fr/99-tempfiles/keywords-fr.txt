@@ -2,7 +2,7 @@ Might/Puissance
 Intellect/Intelligence
 Speed/Vitesse
 Egde/Avantage
-Focus/Motivations
+Focus/Motivation
 Ability/Capacité
 Cypher/Cypher
 Descriptor/Descripteur
