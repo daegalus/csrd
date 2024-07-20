@@ -1877,72 +1877,71 @@ Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur
 
 -----
 
-## Creating New Foci
+## Créer une nouvelle Motivation
 
-This section provides everything you need to create your own foci.
+Cette section fournit tout ce dont vous avez besoin pour créer vos propres Motivation.
 
-Every focus has an overarching style, whether that's exploration, energy manipulation, ou simply dealing a lot of damage in combat. These broad classifications are called focus categories.
+Chaque Motivation a un thème principal, qu'il s'agisse d'exploration, de manipulation d'énergie ou simplement d'infliger beaucoup de dégâts au combat. Ces grandes classifications sont appelées catégories de Motivation.
 
-Each focus category has an overarching theme, followed by selection guidelines that describe how to choose abilities for each Rang from the Abilities chapter, from Rang 1 to Rang 6.
+Chaque catégorie de Motivation a un thème principal, suivi de directives de sélection qui décrivent comment choisir les capacités pour chaque rang du chapitre Capacités, du rang 1 au rang 6.
 
-The newly created focus should be named in the form of a verb, like Contrôle les Bêtes Sauvages ou Demeure dans la pierre For instance, a fire-using focus created by following the guidelines in the energy manipulation focus category might be called Se Revêt d'un Halo de Feu (one of the sample foci in this chapter). Alternatively, a new fire-using focus should get an all-new name like Stokes the Flames of the Apocalypse ou Lights Fires With a Thought.
+La Motivation nouvellement créée doit être nommée sous la forme d'un verbe, comme Contrôle les Bêtes Sauvages ou Demeure dans la pierre. Par exemple, une Motivation utilisant le feu créée en suivant les directives de la catégorie des Motivations de manipulation d'énergie pourrait être appelé Se Revêt d' un Halo de Feu (l'un des exemples de Motivation de ce chapitre). Alternativement, une nouvelle Motivation utilisant le feu devrait recevoir un tout nouveau nom comme Attiser les flammes de l'Apocalypse ou Allumer les feux avec une pensée.
 
-## Focus Categories
+## Catégories de Motivation
 
-* Ally use
 * Basic
-* Energy manipulation
-* Environment manipulation
+* Combat défensif
+* Combat offensif
+* Expertise des mouvements
 * Exploration
 * Influence
-* Irregular
-* Movement expertise
-* Striker combat
-* Support
-* Tank combat
+* Irrégulier
+* Manipulation d'énergie
+* Manipulation de l'environement
+* Soutien
+* Utilisation d'alliés
 
-## Choosing Abilities By Relative Power
+## Choisir une Capacité en fonction de la Puissance Relative
 
-The ability selection guidelines invite you to choose an ability from one of three ranges: low Rang, mid Rang, and high Rang. These ranges correspond with the power "grades" given for every ability. These abilities are further sorted into ability categories based on the kinds of things they do---abilities that improve physical attacks are in the attack skill category, abilities that assist allies are in the support category, and so on. Look for the grades and categories in the Ability Categories and Relative Power section of the Abilities chapter.
+Les indications de sélection des capacités vous invitent à choisir une capacité parmi l’une des trois gammes : Rang bas, Rang moyen et Rang élevé. Ces plages correspondent aux « grades » de puissance donnés pour chaque capacité. Ces capacités sont ensuite classées en catégories de capacités en fonction du type de choses qu'ils font : les capacités qui améliorent les attaques physiques sont dans la catégorie des compétences d'attaque, les capacités qui aident les alliés sont dans la catégorie de soutien, et ainsi de suite. Recherchez les notes et les catégories dans la section Catégories de capacités et puissance relative du chapitre Capacités.
 
-Low-Rang abilities are best suited for focus options at Rangs 1 and 2. Mid-Rang abilities are best suited for focus options at Rangs 3 and 4. High-Rang abilities are best suited for focus options at Rangs 5 and 6.
+Les capacités de rang bas sont mieux adaptées aux options de Motivation aux rangs 1 et 2. Les capacités de rang intermédiaire sont mieux adaptées aux options de Motivation aux rangs 3 et 4. Les capacités de rang élevé sont mieux adaptées aux options de Motivation aux rangs 5 ​​et 6.
 
-That said, sometimes you'll find it appropriate to assign a low-Rang ability at Rang 3 ou 4, ou maybe a mid-Rang ability at Rang 1 ou 2. Do so sparingly, but don't rule it out. It might be the only way to get all the abilities you want for the focus you're building. Higher-Rang abilities usually cost more Pool points to use. So if a mid-Rang ability is made available at Rang 1 ou 2, ou a high-Rang ability is made available at Rang 3 ou 4, the higher cost will be a balancing factor.
+Cela dit, vous trouverez parfois approprié d'attribuer une capacité de bas rang au rang 3 ou 4, ou peut-être une capacité de milieu de gamme au rang 1 ou 2. Faites-le avec parcimonie, mais ne l'excluez pas. C’est peut-être le seul moyen d’obtenir toutes les capacités souhaitées pour la Motivation que vous développez. Les capacités de rang supérieur coûtent généralement plus de points de réserve à utiliser. Ainsi, si une capacité de milieu de gamme est disponible au rang 1 ou 2, ou qu'une capacité de haut rang est disponible au rang 3 ou 4, le coût plus élevé sera un facteur d'équilibrage.
 
-### Balancing Abilities
+### Equilibrer les Capacités
 
-The guidelines within each category go a long way toward ensuring that the focus you build will be Equilibred. Sometimes it might be appropriate to grant a low-power ability along with a regular ability at a given Rang, depending on the needs of the focus. A "low-power ability" is deliberately open for GM interpretation, but generally speaking, should be no more potent than a low-Rang ability (that is, an ability that is normally available at Rang 1 ou 2).
+Les indications au sein de chaque catégorie contribuent grandement à garantir que la Motivation que vous développez sera équilibrée. Parfois, il peut être approprié d'accorder une capacité de faible puissance avec une capacité normale à un rang donné, en fonction des besoins du focus. Une "capacité de faible puissance" est délibérément ouverte à l'interprétation du MJ, mais d'une manière générale, elle ne devrait pas être plus puissante qu'une capacité de bas rang (c'est-à-dire une capacité qui est normalement disponible au rang 1 ou 2).
 
-For instance, someone who uses cold might be able to create small snow sculptures in addition to emitting a cold ray. Someone who uses electricity might be able to charge a depleted artifact ou have an asset for dealing with electrical systems. And so on.
+Par exemple, quelqu'un qui utilise le froid pourrait être capable de créer de petites sculptures de neige en plus d'émettre un rayon froid. Quelqu'un qui utilise de l'électricité pourrait être en mesure de recharger un artefact épuisé ou disposer d'un atout pour gérer les systèmes électriques. Et ainsi de suite.
 
-Often, the focus guidelines note this as a possibility. However, you have great leeway in deciding if a focus needs an additional ability, even if the guidelines for that Rang don't indicate one. If you do add an ability, ou there is a  
-higher-power ability at a Rang that normally shouldn't have it, it might mean that the choice given at the next Rang, ou the previous Rang, isn't quite as good. Balancing a focus is a bit of an art. Resist the urge to overpower the focus, but don't underpower it, either.
+Souvent, les indications de Motivation mentionnent cela comme une possibilité. Cependant, vous disposez d'une grande latitude pour décider si une Motivation nécessite une capacité supplémentaire, même si les indications de ce rang n'en indiquent pas. Si vous ajoutez une capacité, ou s'il existe une capacité de puissance plus élevée dans un rang qui ne devrait normalement pas l'avoir, cela peut signifier que le choix donné au rang suivant, ou au rang précédent, n'est pas aussi bon. Équilibrer une Motivation est un peu un art. Résistez à l’envie de donner trop de puissance à la Motivation, mais ne la sous-estimez pas non plus.
 
-### Ability Guidelines Are Not Perscriptive
+### Les Indications de Capacité ne sont pas Prescriptives
 
-Each focus category provides a guideline for what kind of ability you should select at every Rang. But don't regard the guidelines as something that you can't vary. They're not prescriptive; they're just a place to start. You might want to vary the kind of ability at a particular Rang that isn't indicated in the guidelines. As long as the chosen ability falls within the expected power curve for that Rang, it's fine. The guideline isn't meant to be a straitjacket.
+Chaque catégorie de Motivation fournit une ligne directrice sur le type de capacité que vous devez sélectionner à chaque rang. Mais ne considérez pas les indications comme quelque chose que vous ne pouvez pas modifier. Elles ne sont pas prescriptives; elles ne sont qu'un point de départ. Vous souhaiterez peut-être varier le type de capacité d'un rang particulier qui n'est pas indiqué dans les indications. Tant que la capacité choisie se situe dans la courbe de puissance attendue pour ce Rang, tout va bien. L'indication' n’est pas censée être une camisole de force.
 
-For example, if you're building a cold-using focus for a game set in a fantasy genre, you may decide that an ability that calls up a demon is a better choice at a particular Rang than an ability that does damage in an area, which is what the Rang 5 guideline for energy manipulation calls for. Making the change is probably especially valid if you call your new focus something like Channels the Ninth Circle.
+Par exemple, si vous construisez une Motivation d'utilisation du froid pour un jeu se déroulant dans un genre fantastique, vous pouvez décider qu'une capacité qui invoque un démon est un meilleur choix à un rang particulier qu'une capacité qui inflige des dégâts dans une zone, ce que demande l'indication Rang 5 pour la manipulation de l'énergie. Faire le changement est probablement particulièrement valable si vous appelez votre nouveau focus quelque chose comme Cannalise le Neuvième Cercle.
 
-### Ability Swap
+### Echange de Capacité
 
-If you're creating a focus and you think it should provide a suite of abilities at first Rang that would mechanically overload it, you have the option to add one as a "swap" ability. Doing so is as easy as allowing a character to swap out one of their type abilities for an indicated low-Rang focus ability. The ability is gained instead of one of the abilities normally granted by the character's type.
+Si vous créez une Motivation et que vous pensez qu'elle devrait fournir une suite de capacités au premier rang qui la surchargeraient mécaniquement, vous avez la possibilité d'en ajouter une en tant que capacité « d'échange ». Pour ce faire, il suffit de permettre à un personnage d'échanger l'une de ses capacités de type contre une capacité de Motivation de moindre rang. La capacité est acquise à la place d'une des capacités normalement accordées par le type du personnage.
 
-### Concept And Category
+### Concept et Categorie
 
-Choosing to create a focus that uses a particular concept---say, creating illusions---doesn't lock you into creating a focus within a particular category---in this case, environment manipulation. A focus can be constructed in a variety of ways using a particular energy, tool, ou concept, each ultimately leading to a focus that provides different results. It all depends on your ends. In this case, creating illusions might be used to sway others, which argues for a focus built using the influence category guidelines.
+Choisir de créer une Motivation qui utilise un concept particulier --- par exemple, créer des illusions --- ne vous oblige pas à créer une Motivation dans une catégorie particulière --- dans ce cas, la manipulation de l'environnement. Une Motivation peut être construite de différentes manières en utilisant une énergie, un outil ou un concept particulier, chacun conduisant finalement à une Motivation qui fournit des résultats différents. Tout dépend de vos objectifs. Dans ce cas, la création d’illusions pourrait être utilisée pour influencer les autres, ce qui plaide en faveur d’une Motivation basée sur les indications de la catégorie d’influence.
 
-In the same way, if a focus grants a character the ability to call some kind of force ou energy, that doesn't mean the focus should automatically be built using the energy manipulation category guidelines (though of course it *could,* if attacking and protecting yourself with that energy is the point). But a focus could be built that grants abilities to call energy ou force that is primarily focused on durability, suggesting a tank combat focus (someone who can take a lot of punishment in a fight); ou blasting away with a main concern for maximizing damage, thus suggesting a striker combat focus; ou creating a follower composed of that energy ou force, suggesting an ally use focus (that is, someone who uses helping creatures, NPJs, ou even duplicate versions of themselves to give them a leg up).
+De la même manière, si une Motivation accorde à un personnage la possibilité d'invoquer une sorte de force ou d'énergie, cela ne signifie pas que le Motivation doit automatiquement être construite en utilisant les indications de la catégorie de manipulation d'énergie (même si bien sûr cela serait possible si attaquer et vous protéger avec cette énergie est le but). Mais une Motivation pourrait être construite pour accorder des capacités de création d'énergie ou de force principalement axées sur la résistance, cela suggère une orientation vers le combat défensif (quelqu'un qui peut encaisser beaucoup de dégats dans un combat) ; ou des capacités se concentrant sur tirer avec le souci principal de maximiser les dégâts, suggérant ainsi une Motivation de catégorie combat offensif ; ou alors vous créez un suivant composé de cette énergie ou force, suggérant ainsi une Motivation de catégorie utilisation d'alliés (c'est-à-dire quelqu'un qui utilise des créatures aidantes, des PNJ, ou même qui duplique des versions d'eux-mêmes pour vous donner un coup de pouce).
 
-Here's another example: the focus Contrôle la Gravité could conceivably be an environment manipulation focus ou an energy manipulation focus. It depends on whether the focus is more concerned with crushing and holding things in place (environment manipulation) ou on blasting things and protecting yourself with gravity (energy manipulation).
+Voici un autre exemple : la Motivaton Contrôle la Gravité pourrait éventuellement être une Motivation de catégorie manipulation de l'environnement ou de catégorie manipulation d'énergie. Cela dépend si l'accent est davantage mis sur l'écrasement et le maintien des objets en place (manipulation de l'environnement) ou sur le fait de faire exploser des objets et de se protéger grâce à la gravité (manipulation d'énergie).
 
-The same malleability of concept holds true in other realms. For instance, if someone is able to call up and mold raw earth, they might use it to transform themselves into a being of stone (tank combat), to batter foes (striker combat), ou to create walls, barricades, and shields to protect their allies (support).
+La même souplesse du concept s’applique à d’autres domaines. Par exemple, si quelqu'un est capable d'invoquer et de modeler de la terre brute, il peut l'utiliser pour se transformer en un être de pierre (combat défensif), pour battre des ennemis (combat offensif), ou pour créer des murs, des barricades et des boucliers pour protéger leurs alliés (soutien).
 
-If you're looking for an ability and can't seem to find the right one in the vast catalog in the Abilities chapter, consider reskinning one to make it seem new (and to accomplish what you need). Reskinning means that you use the underlying mechanics of an ability as written but change the flavor in some fashion. For instance, maybe you're creating a new earth-moving focus but can't find enough earth-related abilities to meet your need. It's easy enough to change up other abilities so they use earth instead of fire, cold, ou magnetism. For instance, Wings of Fire might become Wings of Earth, Armure de Glace could become Earth Armor, and so on. These alterations change nothing except the type of damage and any knock-on effects (for instance, Wings of Earth might generate clouds of dust in their wake).
+Si vous recherchez une capacité et que vous n'arrivez pas à trouver celle qui vous convient dans le vaste catalogue du chapitre Capacités, envisagez d'en modifier une afin d'en créer une nouvelle (et pour accomplir ce dont vous avez besoin). Cette modification consiste à utiliser les mécanismes sous-jacents d'une capacité tels qu'ils sont écrits, mais que vous en modifiez les effets visibles d'une manière ou d'une autre. Par exemple, vous êtes peut-être en train de créer un nouvel objectif de déplacement de terre, mais vous ne parvenez pas à trouver suffisamment de capacités liées à la terre pour répondre à vos besoins. Il est assez facile de modifier d'autres capacités pour qu'ils utilisent la terre au lieu du feu, du froid ou du magnétisme. Par exemple, Ailes de Feu pourrait devenir Ailes de Terre, Armure de Glace pourrait devenir Armure de Terre, et ainsi de suite. Ces altérations ne changent rien sauf le type de dégâts et les éventuelles répercussions (par exemple, Ailes de Terre pourrait générer des nuages ​​de poussière dans leur sillage).
 
-### Abilities That Reference Other Abilities
+### Des Capacités qui font référence à d'autres Capacités
 
-Some abilities in the Abilities chapter reference other abilities. If you select an ability for your focus ou type that refers to ou modifies a lower-Rang ability, also include that lower-Rang ability in your type ou focus as a selection a PJ can make at a lower Rang.
+Certaines capacités du chapitre Capacités font référence à d’autres capacités. Si,pour votre Motivation ou votre type, vous sélectionnez une capacité qui fait référence ou modifie une capacité de rang inférieur, incluez également cette capacité de rang inférieur dans votre type ou focus en tant que sélection qu'un PJ peut faire à un rang inférieur.
 
 ## Creating Brand-New Abilities
 
