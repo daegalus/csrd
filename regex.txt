@@ -20,3 +20,6 @@ No Column to Column2 converter
 Monster Name/Level to columns2
 ^([A-Z \-']+) (\d+ \(\d+\))
 {{< hint danger >}} {{< columns2 >}} \u\L$1 <---> $2 {{< /columns2 >}}{{< /hint >}}
+
+Table Row:
+<tr>\n<td>(.*)<\/td>\n<td>(.*)<\/td>\n<\/tr>
