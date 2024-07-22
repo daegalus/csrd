@@ -1899,7 +1899,7 @@ La Motivation nouvellement créée doit être nommée sous la forme d'un verbe, 
 * Manipulation d'énergie
 * Manipulation de l'environement
 * Soutien
-* Utilisation d'alliés
+* Utilisation d'Alliés
 
 ## Choisir une Capacité en fonction de la Puissance Relative
 
@@ -1931,7 +1931,7 @@ Si vous créez une Motivation et que vous pensez qu'elle devrait fournir une sui
 
 Choisir de créer une Motivation qui utilise un concept particulier --- par exemple, créer des illusions --- ne vous oblige pas à créer une Motivation dans une catégorie particulière --- dans ce cas, la manipulation de l'environnement. Une Motivation peut être construite de différentes manières en utilisant une énergie, un outil ou un concept particulier, chacun conduisant finalement à une Motivation qui fournit des résultats différents. Tout dépend de vos objectifs. Dans ce cas, la création d’illusions pourrait être utilisée pour influencer les autres, ce qui plaide en faveur d’une Motivation basée sur les indications de la catégorie d’influence.
 
-De la même manière, si une Motivation accorde à un personnage la possibilité d'invoquer une sorte de force ou d'énergie, cela ne signifie pas que le Motivation doit automatiquement être construite en utilisant les indications de la catégorie de manipulation d'énergie (même si bien sûr cela serait possible si attaquer et vous protéger avec cette énergie est le but). Mais une Motivation pourrait être construite pour accorder des capacités de création d'énergie ou de force principalement axées sur la résistance, cela suggère une orientation vers le combat défensif (quelqu'un qui peut encaisser beaucoup de dégats dans un combat) ; ou des capacités se concentrant sur tirer avec le souci principal de maximiser les dégâts, suggérant ainsi une Motivation de catégorie combat offensif ; ou alors vous créez un suivant composé de cette énergie ou force, suggérant ainsi une Motivation de catégorie utilisation d'alliés (c'est-à-dire quelqu'un qui utilise des créatures aidantes, des PNJ, ou même qui duplique des versions d'eux-mêmes pour vous donner un coup de pouce).
+De la même manière, si une Motivation accorde à un personnage la possibilité d'invoquer une sorte de force ou d'énergie, cela ne signifie pas que le Motivation doit automatiquement être construite en utilisant les indications de la catégorie de manipulation d'énergie (même si bien sûr cela serait possible si attaquer et vous protéger avec cette énergie est le but). Mais une Motivation pourrait être construite pour accorder des capacités de création d'énergie ou de force principalement axées sur la résistance, cela suggère une orientation vers le combat défensif (quelqu'un qui peut encaisser beaucoup de dégats dans un combat) ; ou des capacités se concentrant sur tirer avec le souci principal de maximiser les dégâts, suggérant ainsi une Motivation de catégorie combat offensif ; ou alors vous créez un suivant composé de cette énergie ou force, suggérant ainsi une Motivation de catégorie Utilisation d'Alliés (c'est-à-dire quelqu'un qui utilise des créatures aidantes, des PNJ, ou même qui duplique des versions d'eux-mêmes pour vous donner un coup de pouce).
 
 Voici un autre exemple : la Motivaton Contrôle la Gravité pourrait éventuellement être une Motivation de catégorie manipulation de l'environnement ou de catégorie manipulation d'énergie. Cela dépend si l'accent est davantage mis sur l'écrasement et le maintien des objets en place (manipulation de l'environnement) ou sur le fait de faire exploser des objets et de se protéger grâce à la gravité (manipulation d'énergie).
 
@@ -1955,25 +1955,25 @@ Une bonne règle approximative est qu'une capacité typique devrait coûter auta
 
 Pensez aux genres de choses qui pourraient surprendre, alarmer, ou tourner à la catastrophe pour quelqu'un avec la Motivation qui vient d'être créée, et assignez les en tant qu'intrusion de MJ pour cette Motivation. En général c'est souvent fait de manière improvisée en cours de partie. Mais en leur accordant un peu de réflexion pendant l'élaboration de la Motivation, quand les idées sont toutes fraîches dans votre tête, cela a de bonnes chances de fournir des options diaboliques.
 
-## Focus Categories
+## Catégories de Motivation
 
 -----
 
-### Ally Use
+### Utilisation d'Alliés
 
-Foci that prioritize providing NPJ followers to the character are ally use foci. The followers give aid to the PJ in a variety of ways, but at base they usually provide an asset to the character's actions.
+Les Motivations qui donne la priorité à fournir des suivants PNJ à un personnage sont des Motivations d'Utilisation d'Alliés. Les suivants fournissent une aide au PJ de façon très variée, mais surtout ils donnent un Atout pour les actions du personnage.
 
-Multiple potential themes exist within the ally use category, from abilities that allow a character to summon ou craft allies to those that allow them to attract allies through fame, magic, ou essential authority ou charisma.
+Il y a plusieurs thèmes potentiels dans la catégorie Utilisation d'Alliés, depuis les capacités qui permettent au pesonnage d'invoquer ou de fabriquer des alliés, à celles qui leur donne la possibilité d'attirer des suivants par la célébrité, la magie, l'autorité ou le charisme.
 
-**Connection:** Choose four relevant connections from the Focus Connections list.
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
 
-**Additional Equipment:** Any object necessary for the character to keep an ally. For instance, someone with a focus that uses super-science to create robot allies would require tools to build and repair those allies. Some foci in this category don't require anything to gain ou retain their benefits.
+**Equipement Supplémentaire:** N'importe quel objet qui peut être nécessaire au personnage pour conserver un allié. Par exemple, quelqu'un avec une Motivation qui utilise de la super-science pour créer des alliés robots pourrait avoir besoin d'outils pour construire et réparer ces alliés. Certaines Motivations dans cette catégorie n'ont besoin de rien pour acquérir oou conserver leurs bénéfices.
 
-**Minor Effect Suggestions:** The NPJ ally's tasks are eased on its next turn.
+**Suggestions d'Effet Mineurs:** Les tâches de l'allié PNJ sont facilitées à son prohain tour..
 
-**Major Effect Suggestions:** The NPJ ally gains an immediate extra action.
+**Suggestions d'Effets Majeurs:** L'allié PNJ gagne une action supplémentaire immédiatement.
 
-The following are examples and not meant to provide a complete list of all possible foci in this category.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
 
 * Construit des Robots
 * S'Associe avec les Morts
