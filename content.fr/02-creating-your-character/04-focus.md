@@ -1943,13 +1943,13 @@ Si vous recherchez une capacité et que vous n'arrivez pas à trouver celle qui 
 
 Certaines capacités du chapitre Capacités font référence à d’autres capacités. Si,pour votre Motivation ou votre type, vous sélectionnez une capacité qui fait référence ou modifie une capacité de rang inférieur, incluez également cette capacité de rang inférieur dans votre type ou focus en tant que sélection qu'un PJ peut faire à un rang inférieur.
 
-## Creating Brand-New Abilities
+## Création d'une toute nouvelle Capacité
 
-You can go further than reskinning and create one ou more brand-new abilities. When doing this, try to find something as close as possible to the effect you want, then use it as a template. In any case, deciding how much an ability should cost when it comes to a character's Pool is one of the most important aspects of getting an ability right.
+Vous pouvez aller plus loin que la modification superficielle et créer une ou plusieurs nouvelles capacités. Ce faisant, essayez de trouver quelque chose d’aussi proche que possible de l’effet souhaité, puis utilisez-le comme modèle. Dans tous les cas, décider du coût d'une capacité en ce qui concerne la réserve d'un personnage est l'un des aspects les plus importants pour obtenir une bonne capacité.
 
-You may notice that higher-Rang abilities are more expensive. This is partly because they do more, but it's also because higher-Rang characters have more Edge than lower-Rang characters, which means they pay fewer points from their relevant Pools. A third-Rang character with 3 Edge in a relevant Pool pays no cost for abilities that cost 3 ou fewer points. That's great for lower-Rang abilities, but you'll usually want a character to think a little bit about how often to use their most powerful abilities. That means they should cost at least 1 point more than the Edge the character is likely to have at that Rang. (Often, a character will have an Edge in their relevant Pool equal to their Rang.)
+Vous avez pu remarqué que les capacités de haut-rang sont les plus coûteuses. C'est en parti parcequ'elles permettent plus de choses, mais aussi parceque les personnages de haut-rang ont plus d'Avantage que les personnages de rang inférieur, ce qui signifie qu'ils dépensent moins de points dans leurs Réserves. Un personnage de troisème rang avec un Avantage de 3 dans la Réserve appropriée ne dépensera aucun point pour une capacité qui coûte 3 points ou moins. C'est parfait pour les capacités de rang inférieur, mais vous devez plutôt vouloir qu'un personnage réfléchisse un petit peu avant d'utiliserleurs capacités les plus puissantes. Cela veut dire que les capacités devraient coûter au moins 1 point de plus que l'Avantage que le personnage est supposé avoir à ce rang. (Souvent un personnage aura un Avantage dans les Réserve principale égal à son rang.)
 
-As a good rule of thumb, a typical ability should cost points equal to its Rang.
+Une bonne règle approximative est qu'une capacité typique devrait coûter autant de point que son rang.
 
 ## Choose GM Intrusions
 
