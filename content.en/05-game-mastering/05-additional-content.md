@@ -1,6 +1,6 @@
 ---
 title: Additional Rules and Supplementary Content
-weight: 4
+weight: 5
 description: Additional Rules and Supplementary content from The Stars Are Fire, Godforsaken, We Are All Mad Here, Claim The Sky, Stay Alive, Rust and Redemption, It's Only Magic, and Cypher Shorts
 ---
 
@@ -20,167 +20,125 @@ Any PC can learn two cantrips by spending 2 XP. How they learn them depends on t
 
 Unless the theme of the setting is that everyone is quite proficient in magic, it’s probably best to limit an individual NPC to knowing just a couple of cantrips, with many people not knowing any at all. A reasonable guideline is that an NPC can know a number of cantrips equal to their level.
 
-The following are examples of typical cantrips in a modern fantasy setting:
+The following are examples of typical cantrips in a modern fantasy setting
 
-Bee Cantrip (1 Intellect point): You summon a nearby level 0 bee, housefly, gnat, or similar flying pest to a spot within an immediate distance. The pest acts normally and (appearing in an unfamiliar area) probably begins flying around, possibly landing on a creature. The cantrip doesn’t work if there are no suitable pests within a short distance. Action.
+**Bee Cantrip (1 Intellect point):** You summon a nearby level 0 bee, housefly, gnat, or similar flying pest to a spot within an immediate distance. The pest acts normally and (appearing in an unfamiliar area) probably begins flying around, possibly landing on a creature. The cantrip doesn’t work if there are no suitable pests within a short distance. Action.
 
 A level 0 creature isn’t a threat to a character and is instantly killed if hit. However, tiny creatures like the ones described in the Bee and Bug cantrips usually have a level 2 modifier for Speed defense because of their size.
 
-1.  Bug Cantrip (1 Intellect point): You summon a nearby level 0 spider, cockroach, silverfish, or similar crawling pest to a spot within an immediate distance. The pest acts normally and (appearing in an unfamiliar area) probably begins moving around, possibly crawling on a creature. The cantrip doesn’t work if there are no suitable pests within a short distance. Action.
+**Bug Cantrip (1 Intellect point):** You summon a nearby level 0 spider, cockroach, silverfish, or similar crawling pest to a spot within an immediate distance. The pest acts normally and (appearing in an unfamiliar area) probably begins moving around, possibly crawling on a creature. The cantrip doesn’t work if there are no suitable pests within a short distance. Action.
 
-<!-- -->
+**Candles Cantrip (1 Intellect point):** You create up to four candle-like lights that move to your mental commands (but no farther away than how far you can reach), lasting about ten minutes. Each light can be a different color. Action.
 
-1.  Candles Cantrip (1 Intellect point): You create up to four candle-like lights that move to your mental commands (but no farther away than how far you can reach), lasting about ten minutes. Each light can be a different color. Action.
+**Chill Cantrip (1 Intellect point):** You lower the temperature of a target within short range. If the target is a creature, for the next couple of rounds they feel like they’re standing under an air conditioning vent. If the target is an object no larger than a 1-foot (30 cm) cube, you cool it down as if you’d dunked it into a bucket of ice. Action.
 
-<!-- -->
+**Clean Cantrip (1 Intellect point):** You remove dirt, mud, and similar substances from one set of clothing (such as the clothes you’re wearing), about 1 cubic foot of loose material (clothes, curtains, a box of toys, and so on), or an immediate area on a surface (such as a wall or floor). When used on clothing, this also does a decent job of removing wrinkles. Action.
 
-1.  Chill Cantrip (1 Intellect point): You lower the temperature of a target within short range. If the target is a creature, for the next couple of rounds they feel like they’re standing under an air conditioning vent. If the target is an object no larger than a 1-foot (30 cm) cube, you cool it down as if you’d dunked it into a bucket of ice. Action.
+**Color Cantrip (1 Intellect point):** You change the color of an object, or you brighten or dull its color. The object can be up to about 1 cubic foot in size and up to a short distance away. If used to change a creature’s hair color, it lasts a few days. Action.
 
-<!-- -->
+**Convenient Rideshare Cantrip (1 Intellect point):** When using a rideshare or taxi app, you are connected with a driver who can pick you up within a couple of minutes. If you use this cantrip in a remote area where drivers are scarce, results can get strange; for example, the car and driver might be ghosts, you might have to share your ride with a dangerous supernatural creature, or you might arrive at your destination minutes before or hours after you were picked up. Action.
 
-1.  Clean Cantrip (1 Intellect point): You remove dirt, mud, and similar substances from one set of clothing (such as the clothes you’re wearing), about 1 cubic foot of loose material (clothes, curtains, a box of toys, and so on), or an immediate area on a surface (such as a wall or floor). When used on clothing, this also does a decent job of removing wrinkles. Action.
+**Cooking Cantrip (1 Intellect point):** You accelerate the preparation and cooking of one dish, reducing the time until it’s ready by about ten minutes. (Time-consuming cooking, such as a large turkey, requires multiple castings.) Under normal circumstances, this doesn’t burn, overcook, or otherwise ruin the dish. Action.
 
-Color Cantrip (1 Intellect point): You change the color of an object, or you brighten or dull its color. The object can be up to about 1 cubic foot in size and up to a short distance away. If used to change a creature’s hair color, it lasts a few days. Action.
+**Cut Cantrip (1 Intellect point):** You cut an object up to level 2 as if using a sharp knife or a pair of scissors, up to an immediate distance away. For example, this works on rope, candles, food, cloth, paper, or even a thin wire or thin chain necklace. The object usually gives off harmless blue sparks when it’s cut. Action.
 
-1.  Convenient Rideshare Cantrip (1 Intellect point): When using a rideshare or taxi app, you are connected with a driver who can pick you up within a couple of minutes. If you use this cantrip in a remote area where drivers are scarce, results can get strange; for example, the car and driver might be ghosts, you might have to share your ride with a dangerous supernatural creature, or you might arrive at your destination minutes before or hours after you were picked up. Action.
+**Darkness Cantrip (1 Intellect point):** You suppress light in a cubic or spherical area about 1 foot (30 cm) across within an immediate distance. Outdoors or in bright light, this area becomes very dim; otherwise, it becomes darkness. When you create this area, decide if it remains at a specific location (such as on a desk) or if it is attached to some part of you (such as your head or left hand) and moves with you. The cantrip ends after about a minute. Action.
 
-<!-- -->
+**Erase Cantrip (1 Intellect point):** You erase up to a page of text from a typical surface (such as paper, parchment, wood, or plastic) within immediate range. The writing slowly disappears over a few seconds. Affecting magical writing requires an Intellect-based attack roll. Action.
 
-1.  Cooking Cantrip (1 Intellect point): You accelerate the preparation and cooking of one dish, reducing the time until it’s ready by about ten minutes. (Time-consuming cooking, such as a large turkey, requires multiple castings.) Under normal circumstances, this doesn’t burn, overcook, or otherwise ruin the dish. Action.
+{{< hint info >}}
+Erase Cantrip doesn’t remove fingerprints, impressions in the paper, or other evidence that writing used to be there.
+{{< /hint >}}
 
-<!-- -->
+**Exterminate Cantrip (1 Intellect point):** You create a bolt of energy that kills one common vermin creature (level 0) within a short distance, such as a fly, worm, cockroach, or mouse. One casting can affect multiple smaller creatures (such as ants or fleas) within 1 cubic foot. The spell is accompanied by a quick bolt of black and yellow energy. Action
 
-1.  Cut Cantrip (1 Intellect point): You cut an object up to level 2 as if using a sharp knife or a pair of scissors, up to an immediate distance away. For example, this works on rope, candles, food, cloth, paper, or even a thin wire or thin chain necklace. The object usually gives off harmless blue sparks when it’s cut. Action.
+{{< hint info >}}
+Exterminate Cantrip is an exception to the rule that trying to cause direct harm with a cantrip is hindered by two steps. A swarm whose level is 1 or higher is unaffected by this cantrip, even though the individual creatures in the swarm might be.
+{{< /hint >}}
 
-<!-- -->
+**Extra Chair Cantrip (1 Intellect point):** A table you touch somehow has room (and a chair) for one more person to comfortably sit there without affecting anyone else at the table. This lasts anywhere from ten minutes to an hour, or less if the person in the extra chair leaves for more than a few minutes. Action.
 
-1.  Darkness Cantrip (1 Intellect point): You suppress light in a cubic or spherical area about 1 foot (30 cm) across within an immediate distance. Outdoors or in bright light, this area becomes very dim; otherwise, it becomes darkness. When you create this area, decide if it remains at a specific location (such as on a desk) or if it is attached to some part of you (such as your head or left hand) and moves with you. The cantrip ends after about a minute. Action.
+**Extra Fries Cantrip (1 Intellect point):** You update a recent fast food or delivery order so that when it arrives, it includes an additional order of French fries or other side available from the restaurant (tater tots, coleslaw, mashed potatoes, and so on). Sometimes this happens for free, and sometimes you have to pay an additional charge. Remember to tip your server. Action.
 
-<!-- -->
-
-1.  Erase Cantrip (1 Intellect point): You erase up to a page of text from a typical surface (such as paper, parchment, wood, or plastic) within immediate range. The writing slowly disappears over a few seconds. Affecting magical writing requires an Intellect-based attack roll. Action.
-
-> Erase Cantrip doesn’t remove fingerprints, impressions in the paper, or other evidence that writing used to be there.
-
-1.  Exterminate Cantrip (1 Intellect point): You create a bolt of energy that kills one common vermin creature (level 0) within a short distance, such as a fly, worm, cockroach, or mouse. One casting can affect multiple smaller creatures (such as ants or fleas) within 1 cubic foot. The spell is accompanied by a quick bolt of black and yellow energy. Action.
-
-> Exterminate Cantrip is an exception to the rule that trying to cause direct harm with a cantrip is hindered by two steps. A swarm whose level is 1 or higher is unaffected by this cantrip, even though the individual creatures in the swarm might be.
-
-1.  Extra Chair Cantrip (1 Intellect point): A table you touch somehow has room (and a chair) for one more person to comfortably sit there without affecting anyone else at the table. This lasts anywhere from ten minutes to an hour, or less if the person in the extra chair leaves for more than a few minutes. Action.
-
-<!-- -->
-
-1.  Extra Fries Cantrip (1 Intellect point): You update a recent fast food or delivery order so that when it arrives, it includes an additional order of French fries or other side available from the restaurant (tater tots, coleslaw, mashed potatoes, and so on). Sometimes this happens for free, and sometimes you have to pay an additional charge. Remember to tip your server. Action.
-
-Fire Crown Cantrip (1 Intellect point): You create a crown-like manifestation of fire on your head that lasts for ten minutes. The fire doesn’t burn you. If anyone touches it or makes a melee attack aimed at your head, you can make a free Intellect-based attack roll against them to inflict 1 point of damage. Action.
+**Fire Crown Cantrip (1 Intellect point):** You create a crown-like manifestation of fire on your head that lasts for ten minutes. The fire doesn’t burn you. If anyone touches it or makes a melee attack aimed at your head, you can make a free Intellect-based attack roll against them to inflict 1 point of damage. Action.
 
 Variants of Fire Crown Cantrip create a crown of lightning, smoke, ice, water, or thorns.
 
-Firework Cantrip (1 Intellect point): You create an illusory firework within short range, which bursts with sparkling lights and a loud pop. The effect is obviously an illusion but might distract or startle people who aren’t expecting it. Action.
+**Firework Cantrip (1 Intellect point):** You create an illusory firework within short range, which bursts with sparkling lights and a loud pop. The effect is obviously an illusion but might distract or startle people who aren’t expecting it. Action.
 
-Flavor Cantrip (1 Intellect point): You touch one plate or bowl of food or one large glass or mug of liquid, improving its flavor. This doesn’t affect the nutritional value or texture, nor does it fix spoiled food; it just makes it taste more to your preference (so you could eat spoiled meat or moldy vegetables and they’d taste fine). You decide the sort of flavor change—more or less spicy, salty, savory, sweet, and so on, in any combination appropriate for food or drink. Action.
+**Flavor Cantrip (1 Intellect point):** You touch one plate or bowl of food or one large glass or mug of liquid, improving its flavor. This doesn’t affect the nutritional value or texture, nor does it fix spoiled food; it just makes it taste more to your preference (so you could eat spoiled meat or moldy vegetables and they’d taste fine). You decide the sort of flavor change—more or less spicy, salty, savory, sweet, and so on, in any combination appropriate for food or drink. Action.
 
-1.  Forbidden Topic Cantrip (1 Intellect point): Wards an immediate area (enough to cover a large table at a holiday family gathering) against conversation about a topic of your choice, such as “the election,” “Mommy’s trial,” or “that Cordell kid.” Anytime someone in the area attempts to talk about this topic, make an Intellect-based roll against them; success means they either talk about something else or remain silent. The cantrip lasts for ten minutes or until you fail an Intellect-based roll to stop someone from talking about that topic. Action.
+**Forbidden Topic Cantrip (1 Intellect point):** Wards an immediate area (enough to cover a large table at a holiday family gathering) against conversation about a topic of your choice, such as “the election,” “Mommy’s trial,” or “that Cordell kid.” Anytime someone in the area attempts to talk about this topic, make an Intellect-based roll against them; success means they either talk about something else or remain silent. The cantrip lasts for ten minutes or until you fail an Intellect-based roll to stop someone from talking about that topic. Action.
 
-<!-- -->
+**Gather Cantrip (1 Intellect point):** You gather a scattered bunch of items into a small space, as if you had spent a minute sweeping them together with your hands or a broom. This affects about 1 square yard (1 sq m), up to an immediate distance away. The cantrip is mainly useful for collecting things that have been spilled, or for making it easier to clean up a room. Action.
 
-1.  Gather Cantrip (1 Intellect point): You gather a scattered bunch of items into a small space, as if you had spent a minute sweeping them together with your hands or a broom. This affects about 1 square yard (1 sq m), up to an immediate distance away. The cantrip is mainly useful for collecting things that have been spilled, or for making it easier to clean up a room. Action.
+**Ghostly Wings Cantrip (1 Intellect point):** You sprout a pair of ghostly wings that immediately unfurl, then vanish a few seconds later. If you cast this cantrip while falling, you reduce the damage from the fall by 1 point. Enabler.
 
-<!-- -->
+**Green Light Cantrip (1 Intellect point):** You tweak the traffic lights at an intersection within long range so that one of them turns green within a few seconds. The other lights in that system automatically adjust to compensate (turning yellow and then red for cross traffic). Depending on that traffic system, the light remains green anywhere from about ten seconds to a minute. Enabler.
 
-1.  Ghostly Wings Cantrip (1 Intellect point): You sprout a pair of ghostly wings that immediately unfurl, then vanish a few seconds later. If you cast this cantrip while falling, you reduce the damage from the fall by 1 point. Enabler.
+**Hand Cantrip (1 Intellect point):** You levitate or manipulate an object of 10 pounds (4.5 kg) or less at up to a short distance. The effect is not particularly strong—about the same strength as trying to push, pull, or twist something just using the strength of your hand (without your arm). Action.
 
-<!-- -->
+**Hide Cantrip (1 Intellect point):** You conceal one target within immediate range for about a minute. The target can be no larger than a typical rabbit, or several objects no larger than dice. The target is basically invisible to anyone in front of you, but the illusion doesn’t work on anyone to your side or behind you. (If someone is intent on seeing the invisible target, make an Intellect-based attack roll against them to hide it from their view.) Action.
 
-1.  Green Light Cantrip (1 Intellect point): You tweak the traffic lights at an intersection within long range so that one of them turns green within a few seconds. The other lights in that system automatically adjust to compensate (turning yellow and then red for cross traffic). Depending on that traffic system, the light remains green anywhere from about ten seconds to a minute. Enabler.
+**Light Switch Cantrip (1 Intellect point):** You toggle up to four light controls (such as a wall switch or a lamp’s button, knob, or pull cord) within short range. You must be able to see these light controls or have a clear idea of where they are (such as turning on your front porch light and living room floor lamp from outside your home). You can toggle these switches on or off in any combination. Action.
 
-Hand Cantrip (1 Intellect point): You levitate or manipulate an object of 10 pounds (4.5 kg) or less at up to a short distance. The effect is not particularly strong—about the same strength as trying to push, pull, or twist something just using the strength of your hand (without your arm). Action.
+**Loudness Cantrip (1 Intellect point):** You amplify your voice, allowing you to speak at up to three times your normal volume. This isn’t enough to harm anyone, but you can speak comfortably to a large crowd or across a very long distance without effort. Action.
 
-1.  Hide Cantrip (1 Intellect point): You conceal one target within immediate range for about a minute. The target can be no larger than a typical rabbit, or several objects no larger than dice. The target is basically invisible to anyone in front of you, but the illusion doesn’t work on anyone to your side or behind you. (If someone is intent on seeing the invisible target, make an Intellect-based attack roll against them to hide it from their view.) Action.
+**Mask Cantrip (1 Intellect point):** You create a costume mask on the face of a creature you touch. The mask can be simple (like a domino mask), fancy (like a masquerade ball mask), or deceptive (like a Halloween costume mask of a monster or specific person). The mask is obviously just a mask, not a disguise, but a deceptive mask viewed from at least a short distance away might fool someone into thinking it’s a real face, providing an asset to disguise tasks at this range. The mask lasts for about a minute. If removed, the mask immediately disappears. Action.
 
-<!-- -->
+**Mending Cantrip (1 Intellect point):** You touch a broken object of up to level 3 and attempt to magically repair a single break or tear in it, such as a cracked stone wall, a shattered hand mirror, or a torn piece of clothing. The damage can be no larger than about what you can cover with both of your open hands. If you succeed at an Intellect-based roll against the object’s level, you repair it (although it still shows signs of being previously broken, and may be fragile there). You can use this ability multiple times on the same object to repair larger breaks. Action.
 
-1.  Light Switch Cantrip (1 Intellect point): You toggle up to four light controls (such as a wall switch or a lamp’s button, knob, or pull cord) within short range. You must be able to see these light controls or have a clear idea of where they are (such as turning on your front porch light and living room floor lamp from outside your home). You can toggle these switches on or off in any combination. Action.
+**Message Cantrip (1 Intellect point):** You whisper a short message (about five to ten seconds) to a creature you can see within a long distance. The target hears it as if you had whispered it in their ear. Action.
 
-<!-- -->
+**Mystic Eyes Cantrip (1 Intellect point):** You change the appearance of your eyes. If you just change their color to a different hue (such as to blue, green, or brown), the change lasts for an hour. If you change them to something unusual, such as red, yellow, solid black, or glowing, it only lasts for a minute. Action.
 
-1.  Loudness Cantrip (1 Intellect point): You amplify your voice, allowing you to speak at up to three times your normal volume. This isn’t enough to harm anyone, but you can speak comfortably to a large crowd or across a very long distance without effort. Action.
+**Obedient Flames Cantrip (1 Intellect point):** You affect flames within a short distance, making them appear brighter or dimmer, flicker strangely, or change color. This lasts for one minute. You can affect up to several dozen candles, a few torches, or one typical campfire with each casting of the cantrip. Action.
 
-Mask Cantrip (1 Intellect point): You create a costume mask on the face of a creature you touch. The mask can be simple (like a domino mask), fancy (like a masquerade ball mask), or deceptive (like a Halloween costume mask of a monster or specific person). The mask is obviously just a mask, not a disguise, but a deceptive mask viewed from at least a short distance away might fool someone into thinking it’s a real face, providing an asset to disguise tasks at this range. The mask lasts for about a minute. If removed, the mask immediately disappears. Action.
+**Open and Close Cantrip (1 Intellect point):** You open or close a small object within short range, such as a bag, box, bottle, footlocker, window, or lightweight door. This cantrip cannot lock or unlock locks. Action.
 
-Mending Cantrip (1 Intellect point): You touch a broken object of up to level 3 and attempt to magically repair a single break or tear in it, such as a cracked stone wall, a shattered hand mirror, or a torn piece of clothing. The damage can be no larger than about what you can cover with both of your open hands. If you succeed at an Intellect-based roll against the object’s level, you repair it (although it still shows signs of being previously broken, and may be fragile there). You can use this ability multiple times on the same object to repair larger breaks. Action.
+**Pen Cantrip (1 Intellect point):** You write with your finger on a surface for up to ten minutes as if using a common ballpoint pen. The “ink” immediately dries once you write, but it can be smeared or cleaned up like a normal pen. The ink is blue, black, or dark brown, decided when you cast this cantrip. Action.
 
-1.  Message Cantrip (1 Intellect point): You whisper a short message (about five to ten seconds) to a creature you can see within a long distance. The target hears it as if you had whispered it in their ear. Action.
+**Present Cantrip (1 Intellect point):** You teleport an object within an immediate distance into your upturned hand. The item has to be something you’re carrying (such as a gem in your pouch or a dagger in your boot), something you can see (such as a coffee cup or mobile phone on the other side of the table), or something you know is within range (such as a note you saw someone put in their pocket). The cantrip affects one small object (for example, a cup or mobile phone) or up to a dozen smaller items from the same location (perhaps coins or dice). Action.
 
-Mystic Eyes Cantrip (1 Intellect point): You change the appearance of your eyes. If you just change their color to a different hue (such as to blue, green, or brown), the change lasts for an hour. If you change them to something unusual, such as red, yellow, solid black, or glowing, it only lasts for a minute. Action.
+**Quiet Cantrip (1 Intellect point):** You muffle the noise from one target within a short distance for a few seconds. Breaking a window or knocking a glass off the table would be no louder than someone tapping their finger on the glass. An obnoxious security alarm would only be as loud as a computer speaker. A ringing phone would be barely audible. If you cast this on a willing creature, they gain an asset on stealth tasks for one round if they move no more than an immediate distance on their turn. Action.
 
-Obedient Flames Cantrip (1 Intellect point): You affect flames within a short distance, making them appear brighter or dimmer, flicker strangely, or change color. This lasts for one minute. You can affect up to several dozen candles, a few torches, or one typical campfire with each casting of the cantrip. Action.
+{{< hint info >}}
+Affecting an unwilling creature (or something they’re carrying) with an ability requires an attack roll to succeed. If you’re using a cantrip, by default that attack roll is hindered by two steps
+{{< /hint >}}
 
-1.  Open and Close Cantrip (1 Intellect point): You open or close a small object within short range, such as a bag, box, bottle, footlocker, window, or lightweight door. This cantrip cannot lock or unlock locks. Action.
+**Rainbow Cantrip (1 Intellect point):** You create a softly glowing band of colors resembling a rainbow, extending from your hand to an object or willing creature within short range. The far end doesn’t move (a creature could move away from it by going around a corner or out of range). You can anchor your end in place or allow it to move when your hand moves. The rainbow gives off light like a candle and lasts about a minute. Action.
 
-<!-- -->
+**Reshape Cantrip (1 Intellect point):** You change the shape of a metal, glass, or stone object you touch into a different shape. For example, you could turn a coin into a ring, a cup into a plate, or a piece of glass into something resembling a gemstone. This normally lasts about a minute, but the object tends to revert early if anyone else touches or examines it too closely. Action.
 
-1.  Pen Cantrip (1 Intellect point): You write with your finger on a surface for up to ten minutes as if using a common ballpoint pen. The “ink” immediately dries once you write, but it can be smeared or cleaned up like a normal pen. The ink is blue, black, or dark brown, decided when you cast this cantrip. Action.
+**Smoke Cantrip (1 Intellect point):** You create a harmless puff of smoke within an immediate distance. The smoke fills about a 1-foot (30 cm) cube and dissipates over the next few rounds. You decide if the smoke is white, grey, blue, brown, green, red, or yellow. Action.
 
-<!-- -->
+**Sprout Cantrip (1 Intellect point):** You make seeds sprout at an accelerated rate, causing a week’s worth of growth to happen in just a few moments. The seeds must be within a 1-foot (30 cm) cube and no more than an immediate distance from you. If the seeds are in viable soil, they take root as if planted there. If cast on immature or closed flowers, they bloom. If cast on a piece of unripe fruit, it immediately ripens. Action.
 
-1.  Present Cantrip (1 Intellect point): You teleport an object within an immediate distance into your upturned hand. The item has to be something you’re carrying (such as a gem in your pouch or a dagger in your boot), something you can see (such as a coffee cup or mobile phone on the other side of the table), or something you know is within range (such as a note you saw someone put in their pocket). The cantrip affects one small object (for example, a cup or mobile phone) or up to a dozen smaller items from the same location (perhaps coins or dice). Action.
+**Stitch Cantrip (1 Intellect point):** You sew two touched pieces of cloth or thin leather together, up to about 2 square yards (1.5 sq m). The stitches are of the same quality of hand stitching by a tailor or leatherworker of reasonable skill. You choose the path of the stitches, so you could create a piece of clothing by casting this cantrip several times. Instead of sewing together two items, you can unravel the stitches of a touched object, affecting up to 2 square yards (1.5 sq m). Action.
 
-<!-- -->
+**Tattoo Cantrip (1 Intellect point):** You create an image on your skin, as if tattooed there by a reasonably talented artist. The image can be no larger than your hand, and consists of just one color. You can cast this cantrip multiple times to create a larger tattoo, use more colors, or both. The image lasts about an hour. Action.
 
-1.  Quiet Cantrip (1 Intellect point): You muffle the noise from one target within a short distance for a few seconds. Breaking a window or knocking a glass off the table would be no louder than someone tapping their finger on the glass. An obnoxious security alarm would only be as loud as a computer speaker. A ringing phone would be barely audible. If you cast this on a willing creature, they gain an asset on stealth tasks for one round if they move no more than an immediate distance on their turn. Action.
+**Throwing Stone Cantrip (1 Intellect point):** You summon a nearby object of stone, brick, concrete, cement, asphalt, or a similar hard and common mineral to your hand. The cantrip doesn’t work if there are no suitable loose materials within a short distance. Action.
 
-> Affecting an unwilling creature (or something they’re carrying) with an ability requires an attack roll to succeed. If you’re using a cantrip, by default that attack roll is hindered by two steps
+**Tie Cantrip (1 Intellect point):** You control a piece of string, rope, or twine within short range, causing it to tie itself to another object within 1 foot (30 cm) of it, using any sort of simple, common knot (such as a square knot). Instead of tying a knot, you can cast this cantrip on a simple knot within short range, untying it. Action.
 
-Rainbow Cantrip (1 Intellect point): You create a softly glowing band of colors resembling a rainbow, extending from your hand to an object or willing creature within short range. The far end doesn’t move (a creature could move away from it by going around a corner or out of range). You can anchor your end in place or allow it to move when your hand moves. The rainbow gives off light like a candle and lasts about a minute. Action.
+**Tiny Illusion Cantrip (1 Intellect point):** You create a single image of a creature or object within immediate range. The image must fit within a 1-foot (30 cm) cube. The image can move (for example, you could make the illusion of a mouse jump or crawl around), but it can’t leave the area defined by the cube. The illusion includes sound (up to the volume of a person’s normal speaking voice) but not smell. It lasts for one minute, but if you want to change the original illusion significantly—such as making a creature appear to be wounded— you must concentrate on it again (though doing so doesn’t cost additional Intellect points). If you move beyond immediate range of the cube, the illusion vanishes. Action to create; action to modify.
 
-1.  Reshape Cantrip (1 Intellect point): You change the shape of a metal, glass, or stone object you touch into a different shape. For example, you could turn a coin into a ring, a cup into a plate, or a piece of glass into something resembling a gemstone. This normally lasts about a minute, but the object tends to revert early if anyone else touches or examines it too closely. Action.
+**Tremor Cantrip (1 Intellect point):** You make the ground or floor vibrate within a short area, feeling similar to a mild earthquake. Other objects on the floor might vibrate or slide (no more than a hand’s span) because of this vibration. Action.
 
-<!-- -->
+**Warm Cantrip (1 Intellect point):** You raise the temperature in a very small area (about 1 cubic foot) within short range, enough to make someone’s face feel flushed or warm a drink to about the temperature of freshly served coffee. Action.
 
-1.  Smoke Cantrip (1 Intellect point): You create a harmless puff of smoke within an immediate distance. The smoke fills about a 1-foot (30 cm) cube and dissipates over the next few rounds. You decide if the smoke is white, grey, blue, brown, green, red, or yellow. Action.
+**Wash Car Cantrip (1 Intellect point):** You clean the outside of a typical passenger automobile within immediate range as if it had gone through an automatic car wash. Very large or very dirty cars may require multiple castings. The cantrip works on motorcycles, bicycles, and other small vehicles as well. Action.
 
-<!-- -->
+**Wet or Dry Cantrip (1 Intellect point):** You alter the moisture level of an object or area within immediate range, affecting about a 1-foot (30 cm) cube or one set of clothing. If you want the target to be wetter, it is dampened as if you poured a cup of water on it. If you want it drier, it is dried as if you hung it out in the sun on a warm day. Action.
 
-1.  Sprout Cantrip (1 Intellect point): You make seeds sprout at an accelerated rate, causing a week’s worth of growth to happen in just a few moments. The seeds must be within a 1-foot (30 cm) cube and no more than an immediate distance from you. If the seeds are in viable soil, they take root as if planted there. If cast on immature or closed flowers, they bloom. If cast on a piece of unripe fruit, it immediately ripens. Action.
+**Wireless Network Cantrip (1 Intellect point):** You improve wireless network reception in an immediate area for ten minutes. This improves poor or average reception to full strength and zero bars to at least one bar. When you cast this cantrip, you decide if this improved reception affects everyone in the area or just you. Action.
 
-Stitch Cantrip (1 Intellect point): You sew two touched pieces of cloth or thin leather together, up to about 2 square yards (1.5 sq m). The stitches are of the same quality of hand stitching by a tailor or leatherworker of reasonable skill. You choose the path of the stitches, so you could create a piece of clothing by casting this cantrip several times. Instead of sewing together two items, you can unravel the stitches of a touched object, affecting up to 2 square yards (1.5 sq m). Action.
+**Wrap Cantrip (1 Intellect point):** You use available materials to wrap up an object within an immediate distance. The wrapped object must fit within a 1-foot (30 cm) cube. For example, you could wrap a gift box with decorative paper, wrap a piece of paper around a letter to create an envelope, or wrap a pile of potatoes with burlap to create an easily carried bundle. Action.
 
-Tattoo Cantrip (1 Intellect point): You create an image on your skin, as if tattooed there by a reasonably talented artist. The image can be no larger than your hand, and consists of just one color. You can cast this cantrip multiple times to create a larger tattoo, use more colors, or both. The image lasts about an hour. Action.
+**Youth Cantrip (1 Intellect point):** You change the appearance of your face so you look about ten years younger than your normal appearance, lasting about an hour. Action.
 
-1.  Throwing Stone Cantrip (1 Intellect point): You summon a nearby object of stone, brick, concrete, cement, asphalt, or a similar hard and common mineral to your hand. The cantrip doesn’t work if there are no suitable loose materials within a short distance. Action.
-
-<!-- -->
-
-1.  Tie Cantrip (1 Intellect point): You control a piece of string, rope, or twine within short range, causing it to tie itself to another object within 1 foot (30 cm) of it, using any sort of simple, common knot (such as a square knot). Instead of tying a knot, you can cast this cantrip on a simple knot within short range, untying it. Action.
-
-<!-- -->
-
-1.  Tiny Illusion Cantrip (1 Intellect point): You create a single image of a creature or object within immediate range. The image must fit within a 1-foot (30 cm) cube. The image can move (for example, you could make the illusion of a mouse jump or crawl around), but it can’t leave the area defined by the cube. The illusion includes sound (up to the volume of a person’s normal speaking voice) but not smell. It lasts for one minute, but if you want to change the original illusion significantly—such as making a creature appear to be wounded— you must concentrate on it again (though doing so doesn’t cost additional Intellect points). If you move beyond immediate range of the cube, the illusion vanishes. Action to create; action to modify.
-
-Tremor Cantrip (1 Intellect point): You make the ground or floor vibrate within a short area, feeling similar to a mild earthquake. Other objects on the floor might vibrate or slide (no more than a hand’s span) because of this vibration. Action.
-
-Warm Cantrip (1 Intellect point): You raise the temperature in a very small area (about 1 cubic foot) within short range, enough to make someone’s face feel flushed or warm a drink to about the temperature of freshly served coffee. Action.
-
-1.  Wash Car Cantrip (1 Intellect point): You clean the outside of a typical passenger automobile within immediate range as if it had gone through an automatic car wash. Very large or very dirty cars may require multiple castings. The cantrip works on motorcycles, bicycles, and other small vehicles as well. Action.
-
-<!-- -->
-
-1.  Wet or Dry Cantrip (1 Intellect point): You alter the moisture level of an object or area within immediate range, affecting about a 1-foot (30 cm) cube or one set of clothing. If you want the target to be wetter, it is dampened as if you poured a cup of water on it. If you want it drier, it is dried as if you hung it out in the sun on a warm day. Action.
-
-<!-- -->
-
-1.  Wireless Network Cantrip (1 Intellect point): You improve wireless network reception in an immediate area for ten minutes. This improves poor or average reception to full strength and zero bars to at least one bar. When you cast this cantrip, you decide if this improved reception affects everyone in the area or just you. Action.
-
-<!-- -->
-
-1.  Wrap Cantrip (1 Intellect point): You use available materials to wrap up an object within an immediate distance. The wrapped object must fit within a 1-foot (30 cm) cube. For example, you could wrap a gift box with decorative paper, wrap a piece of paper around a letter to create an envelope, or wrap a pile of potatoes with burlap to create an easily carried bundle. Action.
-
-<!-- -->
-
-1.  Youth Cantrip (1 Intellect point): You change the appearance of your face so you look about ten years younger than your normal appearance, lasting about an hour. Action.
-
-Optional Rules: Learning Cantrips
+##### Optional Rules: Learning Cantrips
 
 In some fantasy settings, cantrips are commonly available, but not everyone knows how to cast them (in the same way that phone and computer apps are common, but not everyone knows how to code an app). When someone tries to learn a cantrip, have them attempt a level 3 Intellect-based task (skills such as magical lore affect this). If they succeed, they learn the cantrip. If they fail, they don’t. A PC only spends the 2 XP to learn cantrips when they succeed at this roll. This way, learning a cantrip isn’t automatic—it’s more like passing a final exam. And there are ways for the character to “cram” for this test, including expending Effort, getting help, or using an appropriate asset.
 
@@ -190,45 +148,43 @@ Magic is a community affair, and magicians are more powerful in groups. A coven 
 
 For magician NPCs in a coven, the GM can assume that their rank is equal to their NPC level (with a maximum of 6).
 
-> Spending XP to advance a character’s rank in a coven does not count as one of the four character advancements needed to reach a higher tier
+{{< hint info >}}
+Spending XP to advance a character’s rank in a coven does not count as one of the four character advancements needed to reach a higher tier
+{{< /hint >}}
 
-Joining A Coven
+### Joining A Coven
 
 Joining an existing coven at rank 1 requires a vow and a ritual. Characters must commit to pursuing the coven’s goals and living in accordance with its values. The ritual is a demonstration of dedication to the coven’s purpose, and varies in difficulty accordingly. Characters receive their talisman once the ritual is complete.
 
-Coven Talismans
+### Coven Talismans
 
 A coven talisman is a small item, such as a pendant or ring, that represents a character’s affiliation with the coven. Every coven member may carry a slightly different talisman, but they should be clearly related. The Benevolent Bakers’ talismans might include a necklace, a pin, and a keychain, all with the same whisk design.
 
 Coven talismans are a type of artifact, with a level equal to the character’s rank within the coven and a depletion of “—.” The talisman is what allows the character to use their coven abilities; if the talisman isn’t on the character’s person or within short range, all of the character’s coven magic is hindered by two steps. When a person advances within the coven, the talisman’s appearance may change to reflect this. While these talismans don’t require a depletion roll with each use, a character’s coven talisman automatically depletes if they break from the coven.
 
-Advancing Within A Coven
+### Advancing Within A Coven
 
 Advancing within a coven is a separate matter from advancing a character. In fact, coven advancement is more similar to a long-term benefit of spending XP. Coven advancement should occur after a character has learned, discovered, or achieved something that aligns with the coven’s mission and values.
 
 To advance within the coven, the player spends 3 XP. Characters may mark the occasion with a celebration or let it pass quietly
 
-Breaking From A Coven
+### Breaking From A Coven
 
 If a character wishes to leave a coven, they relinquish their coven talisman and lose access to their coven abilities. But a character can also break from their coven by behaving in opposition to its values—such as if a Benevolent Baker were to knowingly poison someone. This causes their coven talisman to become depleted, meaning that they can no longer use their coven abilities.
 
 To restore their place in the coven, a disgraced character must begin by making amends with the other members. They then take their coven talisman to an epicenter and perform a ritual with a difficulty equal to their former coven rank. Upon completing the ritual, they regain that rank within the coven and can access spells accordingly.
 
-Forming A New Coven
+### Forming A New Coven
 
 Creating a new coven simply requires a bit of discussion among the GM and players. Begin by deciding on the following:
 
-- What’s the coven called?
+* What’s the coven called?
+* What are one or two goals for the coven’s magic? What do they want to learn how to do? What skill do the players want the coven to be known for?
+* What are a few succinct values? What do the players agree are the most important things a magician can be? Competent? Fair? Determined? Kind? Loyal? Wealthy?
+* What does the coven talisman look like?
+* What does the initiation ritual (which exemplifies the coven’s goals and values) consist of?
 
-- What are one or two goals for the coven’s magic? What do they want to learn how to do? What skill do the players want the coven to be known for?
-
-- What are a few succinct values? What do the players agree are the most important things a magician can be? Competent? Fair? Determined? Kind? Loyal? Wealthy?
-
-- What does the coven talisman look like?
-
-- What does the initiation ritual (which exemplifies the coven’s goals and values) consist of?
-
-Selecting Coven Abilities
+### Selecting Coven Abilities
 
 Coven abilities are chosen by the GM and players. To start, they need to decide the rank 1 ability. They can determine the rank 2 ability when at least one character is ready to advance within the coven. In a longer campaign, selecting abilities on an ongoing basis—rather than choosing them all at once—means that the players can choose their next coven ability based on what obstacles they expect their characters to face.
 
@@ -238,31 +194,28 @@ Because covens form around unifying goals and principles, coven abilities should
 
 If a pre-existing ability doesn’t capture what the players and GM are looking for, the GM is always free to create new ones. To return to the example of the Benevolent Bakers, no abilities in the Cypher System Rulebook specifically pertain to making food, but the bakers could modify an ability like Natural Crafter to suit their needs.
 
-## CRAFTING MAGIC ITEMS
+## Crafting Magic Items
 
-Crafting Cyphers
+### Crafting Cyphers
 
-1\. Choose Cypher Level. Creating a low-level cypher is easier than creating a high-level one. The character decides what level of cypher to create, which must be in the level range for the cypher as listed in the Cypher System Rulebook. Note that some cyphers have the same effect no matter what level they are, so the character could make crafting easier by creating the lowest-level version of that cypher, but the GM is always able to rule that a particular cypher must be crafted at a certain level or higher for it to work. In particular, a stim is very strong for its level range and should always be treated as a level 6 cypher when crafted by a PC.
-
-2\. Determine Ingredients. Crafting a magical cypher requires strange and exotic ingredients with inherent magical properties—gems, ink from weird creatures, mysterious herbs, and so on. The level of the cypher determines how expensive these materials are, according to the following table.
-
-3\. Assess Difficulty. The difficulty of a cypher crafting task is always equal to 1 + the level of the cypher. The crafter can reduce the assessed difficulty of the task with skill training (such as being trained or specialized in brewing potions or crafting magic items), assets, special abilities provided by their focus or type, and so on. Using a formula, recipe, or other guideline for a specific cypher counts as an asset for this purpose.
+1. Choose Cypher Level. Creating a low-level cypher is easier than creating a high-level one. The character decides what level of cypher to create, which must be in the level range for the cypher as listed in the Cypher System Rulebook. Note that some cyphers have the same effect no matter what level they are, so the character could make crafting easier by creating the lowest-level version of that cypher, but the GM is always able to rule that a particular cypher must be crafted at a certain level or higher for it to work. In particular, a stim is very strong for its level range and should always be treated as a level 6 cypher when crafted by a PC.
+2. Determine Ingredients. Crafting a magical cypher requires strange and exotic ingredients with inherent magical properties—gems, ink from weird creatures, mysterious herbs, and so on. The level of the cypher determines how expensive these materials are, according to the following table.
+3. Assess Difficulty. The difficulty of a cypher crafting task is always equal to 1 + the level of the cypher. The crafter can reduce the assessed difficulty of the task with skill training (such as being trained or specialized in brewing potions or crafting magic items), assets, special abilities provided by their focus or type, and so on. Using a formula, recipe, or other guideline for a specific cypher counts as an asset for this purpose.
 
 Because this is an activity requiring special knowledge, it is not possible for a character with no skill (or with an inability in this skill) to do this sort of crafting; the character cannot attempt the task at all.
 
 For example, Vanya the alchemist wants to create a level 6 healing potion. A level 6 potion has an assessed difficulty of 7 (1 + the level of the cypher). Vanya is trained in brewing potions, so the assessed difficulty is lowered to 6. If she also uses a potion recipe she found in a book of magic, the assessed difficulty becomes 5.
 
-4\. Determine Time to Craft. The amount of time it takes to craft a magical cypher is determined by the assessed difficulty, so decreasing that difficulty not only means the character is more likely to succeed, but also that they have to spend less time on crafting it. For any time in excess of nine hours, the process is assumed to have stages where the character is not actively working on it, just checking on it occasionally to make sure everything is going as planned—allowing the base ingredients of a potion to cook for a few hours, stirring to make sure the ingredients don’t congeal, allowing ink on a scroll to dry, and so on. In other words, the character is able to perform other actions in the vicinity of the crafting (such as studying, resting, eating, and so on), but they couldn’t craft during a business trip or in the middle of a wedding. In our previous potion example, the assessed difficulty is 5, so Vanya’s time to craft is one day.
-
-5\. Complete Subtasks. The character must complete multiple subtasks that are steps toward finishing the process—one subtask per level of assessed difficulty. The first subtask’s difficulty is 1, and each successive task’s difficulty increases by 1 until the character reaches the last, hardest task with a difficulty equal to the cypher’s assessed difficulty. Generally, subtask attempts occur at equally divided intervals over the course of the full time required to craft the item. If the character fails on a subtask, the item isn’t ruined. Instead, the character only wasted the time spent on that subtask, and they can spend that much time again and try to succeed at that same subtask. If the crafter fails twice in a row on the same subtask, they can continue crafting, but they lose crafting time, and one of the most expensive ingredients is destroyed (or consumed or ruined) and must be replaced before the crafting can continue.
+4. Determine Time to Craft. The amount of time it takes to craft a magical cypher is determined by the assessed difficulty, so decreasing that difficulty not only means the character is more likely to succeed, but also that they have to spend less time on crafting it. For any time in excess of nine hours, the process is assumed to have stages where the character is not actively working on it, just checking on it occasionally to make sure everything is going as planned—allowing the base ingredients of a potion to cook for a few hours, stirring to make sure the ingredients don’t congeal, allowing ink on a scroll to dry, and so on. In other words, the character is able to perform other actions in the vicinity of the crafting (such as studying, resting, eating, and so on), but they couldn’t craft during a business trip or in the middle of a wedding. In our previous potion example, the assessed difficulty is 5, so Vanya’s time to craft is one day.
+5. Complete Subtasks. The character must complete multiple subtasks that are steps toward finishing the process—one subtask per level of assessed difficulty. The first subtask’s difficulty is 1, and each successive task’s difficulty increases by 1 until the character reaches the last, hardest task with a difficulty equal to the cypher’s assessed difficulty. Generally, subtask attempts occur at equally divided intervals over the course of the full time required to craft the item. If the character fails on a subtask, the item isn’t ruined. Instead, the character only wasted the time spent on that subtask, and they can spend that much time again and try to succeed at that same subtask. If the crafter fails twice in a row on the same subtask, they can continue crafting, but they lose crafting time, and one of the most expensive ingredients is destroyed (or consumed or ruined) and must be replaced before the crafting can continue.
 
 For example, Vanya’s potion brewing (assessed difficulty of 5) is divided into five subtasks (starting at difficulty 1 and ending at 5). Because the crafting time is one day, each subtask takes about five hours (twenty-four hours in a day divided by five subtasks). If Vanya fails on the difficulty 3 subtask, she’s lost five hours of work but can try again. If she fails a second time, she loses another five hours of work and ruins one of her expensive ingredients, which must be replaced before she can continue. When Vanya succeeds at the last subtask (difficulty 5), the potion is finished. Players might ask if they can apply Effort to each subtask. However, applying Effort is something they do in the moment, not over the course of days or weeks. Generally speaking, Effort cannot be applied to any crafting task or subtask that exceeds one day.
 
-Magical Crafting Skills
+### Magical Crafting Skills
 
 Depending on the setting, a character learning how to craft magic items might become trained or specialized in a general “crafting magic items” skill, or need to have a specific skill for each kind of item they might craft, such as “brewing potions” or “crafting wands.” The GM should decide if characters need a specific skill or if the general skill covers all sorts of crafted magic items.
 
-Ingredients
+#### Ingredients
 
 | Cypher Level | Materials Consumed       |
 |--------------|--------------------------|
@@ -277,7 +230,7 @@ Ingredients
 | 9            | One very expensive item  |
 | 10           | Two very expensive items |
 
-Time to Craft
+#### Time to Craft
 
 | Assessed Difficulty | Time to Craft |
 |---------------------|---------------|
@@ -292,7 +245,7 @@ Time to Craft
 | 9                   | Two months    |
 | 10                  | Six months    |
 
-Crafting Artifacts
+### Crafting Artifacts
 
 The simple way of handling artifacts in a modern fantasy game is to treat an artifact as gaining a long-term benefit of character advancement. The character and GM agree on the artifact being crafted, the character spends 3 XP, the GM hand-waves the crafting process (or has the player narratively describe it), and the character gains the artifact.
 
@@ -304,313 +257,73 @@ Sometimes characters might want or need to carry more than their normal allotmen
 
 Side Effects of Exceeding Cypher Limits
 
-<table>
-<colgroup>
-<col style="width: 42%" />
-<col style="width: 57%" />
-</colgroup>
-<thead>
-<tr>
-<th>D00</th>
-<th>Effect</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>01-02</td>
-<td>Hair of everyone in immediate range stands straight out</td>
-</tr>
-<tr>
-<td>03-04</td>
-<td>Ugly faces manifest on surfaces in the area</td>
-</tr>
-<tr>
-<td>05-06</td>
-<td>Character’s skin color changes to something unusual (blue, orange purple)</td>
-</tr>
-<tr>
-<td>07-08</td>
-<td>Character’s footprints are glowing red arrows</td>
-</tr>
-<tr>
-<td>09-10</td>
-<td>Flowers in short range wilt and dissolve into stinky goo</td>
-</tr>
-<tr>
-<td>11-12</td>
-<td>Character’s skin grows fishlike eyes, which dry and fall off like scabs</td>
-</tr>
-<tr>
-<td>13-14</td>
-<td>Internet speeds within short range slow to a crawl</td>
-</tr>
-<tr>
-<td>15-16</td>
-<td>Character develops prominent skin rash resembling corporate logos</td>
-</tr>
-<tr>
-<td>17-18</td>
-<td>Character says the word “sexy” in place of any adjective</td>
-</tr>
-<tr>
-<td>19-20</td>
-<td>Dogs bark angrily at the character</td>
-</tr>
-<tr>
-<td>21-22</td>
-<td>Character sheds fingernails, quickly replaced by circuit boards</td>
-</tr>
-<tr>
-<td>23-24</td>
-<td>Character keeps seeing UFOs</td>
-</tr>
-<tr>
-<td>25-26</td>
-<td>Cypher randomizes names and icons of nearby apps</td>
-</tr>
-<tr>
-<td>27-28</td>
-<td>Character takes on the outward appearance of a different intelligent species (chimera, nix, and so on) each hour</td>
-</tr>
-<tr>
-<td>29-30</td>
-<td><p>Cypher becomes overcharged (acts</p>
-<p>as +1 level) and erratic (tasks to use</p>
-<p>it are hindered)</p></td>
-</tr>
-<tr>
-<td>31-32</td>
-<td><p>Character’s hand sometimes turns</p>
-<p>into a battered plastic duplicate and</p>
-<p>falls off, with a new hand growing to</p>
-<p>replace it within seconds</p></td>
-</tr>
-<tr>
-<td>33-34</td>
-<td><p>Character compelled to dig through</p>
-<p>nearby trash cans in search of</p>
-<p>discarded batteries</p></td>
-</tr>
-<tr>
-<td>35-36</td>
-<td><p>Character’s head surrounded by</p>
-<p>floating illusions of rude gestures</p>
-<p>and inappropriate words</p></td>
-</tr>
-<tr>
-<td>37-38</td>
-<td><p>Character’s vision distorted so all</p>
-<p>writing appears undecipherably</p>
-<p>blurred</p></td>
-</tr>
-<tr>
-<td>39-40</td>
-<td><p>Birds creepily follow the character</p>
-<p>and sometimes call their name</p></td>
-</tr>
-<tr>
-<td>41-42</td>
-<td><p>Character frequently drops business</p>
-<p>cards with publicly viewable links to</p>
-<p>their browser history</p></td>
-</tr>
-<tr>
-<td>43-44</td>
-<td><p>Cypher reads aloud all text visible</p>
-<p>within short range</p></td>
-</tr>
-<tr>
-<td>45-46</td>
-<td><p>Cypher makes frequent beeping</p>
-<p>noise like a large truck backing up</p></td>
-</tr>
-<tr>
-<td>47-48</td>
-<td><p>Cypher grows hard legs and noisily</p>
-<p>follows the character, hindering</p>
-<p>interaction and stealth tasks</p></td>
-</tr>
-<tr>
-<td>49-50</td>
-<td><p>Cypher coats itself in a sticky</p>
-<p>honey-like substance</p></td>
-</tr>
-<tr>
-<td>51-52</td>
-<td><p>Character’s thoughts broadcasted to</p>
-<p>everyone within long range</p></td>
-</tr>
-<tr>
-<td>53-54</td>
-<td><p>Character followed by a cloud of</p>
-<p>clothing-eating moths</p></td>
-</tr>
-<tr>
-<td>55-56</td>
-<td><p>Random cypher vanishes, leaving</p>
-<p>behind a handful of wet soil</p></td>
-</tr>
-<tr>
-<td>57-58</td>
-<td><p>Character’s voice is digitally</p>
-<p>distorted and difficult to understand,</p>
-<p>hindering interaction tasks</p></td>
-</tr>
-<tr>
-<td>59-60</td>
-<td><p>Character quotes commercial jingles</p>
-<p>and catchphrases every few minutes</p></td>
-</tr>
-<tr>
-<td>61-62</td>
-<td><p>Character or cypher emits a strong</p>
-<p>smell of asphalt or gasoline</p></td>
-</tr>
-<tr>
-<td>63-64</td>
-<td><p>Bugs frequently fly into character’s</p>
-<p>mouth when they speak</p></td>
-</tr>
-<tr>
-<td>65-66</td>
-<td><p>Open flames in short range give off</p>
-<p>noisy sparks like small fireworks</p></td>
-</tr>
-<tr>
-<td>67-68</td>
-<td><p>Character feels intoxicated by a mild</p>
-<p>hallucinogen, hindering all tasks</p></td>
-</tr>
-<tr>
-<td>69-70</td>
-<td>Character sets off nearby car alarms</td>
-</tr>
-<tr>
-<td>71-72</td>
-<td><p>Character’s eyes shine like powerful</p>
-<p>flashlights, hindering their visual</p>
-<p>perception tasks</p></td>
-</tr>
-<tr>
-<td>73-74</td>
-<td><p>Any coffee within immediate range</p>
-<p>tastes like nickels</p></td>
-</tr>
-<tr>
-<td>75-76</td>
-<td><p>Causes short circuits in nearby wired</p>
-<p>electronics</p></td>
-</tr>
-<tr>
-<td>77-78</td>
-<td><p>Character receives frequent spam</p>
-<p>phone calls about nonexistent</p>
-<p>services (engine moisturizing,</p>
-<p>aspirin condensation, aligning</p>
-<p>apartment chakras)</p></td>
-</tr>
-<tr>
-<td>79-80</td>
-<td><p>Character followed by flying camera</p>
-<p>drones</p></td>
-</tr>
-<tr>
-<td>81-82</td>
-<td><p>Magical interference suppresses</p>
-<p>the cypher’s function unless the</p>
-<p>character spends 4 Intellect points</p>
-<p>to cleanse its aura</p></td>
-</tr>
-<tr>
-<td>83-84</td>
-<td><p>Magical interference decreases</p>
-<p>character’s Intellect Edge by 2</p></td>
-</tr>
-<tr>
-<td>85-86</td>
-<td>Attracts an internet d@emon</td>
-</tr>
-<tr>
-<td>87-88</td>
-<td>Attracts a zorp</td>
-</tr>
-<tr>
-<td>89-90</td>
-<td><p>Character gets jittery (hindered</p>
-<p>Speed-based tasks) unless they</p>
-<p>chain-smoke cigarettes</p></td>
-</tr>
-<tr>
-<td>91</td>
-<td><p>Character’s bones become brittle,</p>
-<p>hindering Might tasks</p></td>
-</tr>
-<tr>
-<td>92</td>
-<td><p>Cypher is painfully cold to the touch,</p>
-<p>inflicting 1 point of damage each</p>
-<p>round it touches bare skin</p></td>
-</tr>
-<tr>
-<td>93</td>
-<td><p>Character occasionally is hurled</p>
-<p>horizontally an immediate distance</p>
-<p>with great force (typically 4 points of</p>
-<p>ambient damage)</p></td>
-</tr>
-<tr>
-<td>94</td>
-<td><p>Character develops severe allergy to</p>
-<p>a common food ingredient (wheat,</p>
-<p>eggs, citrus)</p></td>
-</tr>
-<tr>
-<td>95</td>
-<td><p>Vehicle brake lines within short</p>
-<p>range dramatically rupture</p></td>
-</tr>
-<tr>
-<td>96</td>
-<td><p>Electronic devices within short range</p>
-<p>tend to lose power, overheat, or</p>
-<p>catch fire</p></td>
-</tr>
-<tr>
-<td>97</td>
-<td><p>Character frequently steps on nails,</p>
-<p>broken glass, or other sharp things</p>
-<p>(1 or 2 points of damage, ignores</p>
-<p>Armor)</p></td>
-</tr>
-<tr>
-<td>98</td>
-<td><p>Character always bites their own</p>
-<p>tongue (1 point of damage, ignores</p>
-<p>Armor) whenever they cast a spell</p></td>
-</tr>
-<tr>
-<td>99</td>
-<td><p>Two cyphers begin fighting each</p>
-<p>other with switchblades and energy</p>
-<p>blasts, must be restrained or</p>
-<p>separated</p></td>
-</tr>
-<tr>
-<td>00+</td>
-<td><p>Cypher functions normally, but</p>
-<p>explodes like a grenade shortly after</p>
-<p>it is activated or the magic ends</p></td>
-</tr>
-</tbody>
-</table>
+| D00 | Effect |
+| --- | --- |
+| 01-02 | Hair of everyone in immediate range stands straight out |
+| 03-04 | Ugly faces manifest on surfaces in the area |
+| 05-06 | Character’s skin color changes to something unusual (blue, orange purple) |
+| 07-08 | Character’s footprints are glowing red arrows |
+| 09-10 | Flowers in short range wilt and dissolve into stinky goo |
+| 11-12 | Character’s skin grows fishlike eyes, which dry and fall off like scabs |
+| 13-14 | Internet speeds within short range slow to a crawl |
+| 15-16 | Character develops prominent skin rash resembling corporate logos |
+| 17-18 | Character says the word “sexy” in place of any adjective |
+| 19-20 | Dogs bark angrily at the character |
+| 21-22 | Character sheds fingernails, quickly replaced by circuit boards |
+| 23-24 | Character keeps seeing UFOs |
+| 25-26 | Cypher randomizes names and icons of nearby apps |
+| 27-28 | Character takes on the outward appearance of a different intelligent species (chimera, nix, and so on) each hour |
+| 29-30 | Cypher becomes overcharged (acts as +1 level) and erratic (tasks to use it are hindered)  |
+| 31-32 | Character’s hand sometimes turns into a battered plastic duplicate and falls off, with a new hand growing to replace it within seconds  |
+| 33-34 | Character compelled to dig through nearby trash cans in search of discarded batteries  |
+| 35-36 | Character’s head surrounded by floating illusions of rude gestures and inappropriate words  |
+| 37-38 | Character’s vision distorted so all writing appears undecipherably blurred  |
+| 39-40 | Birds creepily follow the character and sometimes call their name  |
+| 41-42 | Character frequently drops business cards with publicly viewable links to their browser history  |
+| 43-44 | Cypher reads aloud all text visible within short range  |
+| 45-46 | Cypher makes frequent beeping noise like a large truck backing up  |
+| 47-48 | Cypher grows hard legs and noisily follows the character, hindering interaction and stealth tasks  |
+| 49-50 | Cypher coats itself in a sticky honey-like substance  |
+| 51-52 | Character’s thoughts broadcasted to everyone within long range  |
+| 53-54 | Character followed by a cloud of clothing-eating moths  |
+| 55-56 | Random cypher vanishes, leaving behind a handful of wet soil  |
+| 57-58 | Character’s voice is digitally distorted and difficult to understand, hindering interaction tasks  |
+| 59-60 | Character quotes commercial jingles and catchphrases every few minutes  |
+| 61-62 | Character or cypher emits a strong smell of asphalt or gasoline  |
+| 63-64 | Bugs frequently fly into character’s mouth when they speak  |
+| 65-66 | Open flames in short range give off noisy sparks like small fireworks  |
+| 67-68 | Character feels intoxicated by a mild hallucinogen, hindering all tasks  |
+| 69-70 | Character sets off nearby car alarms |
+| 71-72 | Character’s eyes shine like powerful flashlights, hindering their visual perception tasks  |
+| 73-74 | Any coffee within immediate range tastes like nickels  |
+| 75-76 | Causes short circuits in nearby wired electronics  |
+| 77-78 | Character receives frequent spam phone calls about nonexistent services (engine moisturizing, aspirin condensation, aligning apartment chakras)  |
+| 79-80 | Character followed by flying camera drones  |
+| 81-82 | Magical interference suppresses the cypher’s function unless the character spends 4 Intellect points to cleanse its aura  |
+| 83-84 | Magical interference decreases character’s Intellect Edge by 2  |
+| 85-86 | Attracts an internet d@emon |
+| 87-88 | Attracts a zorp |
+| 89-90 | Character gets jittery (hindered Speed-based tasks) unless they chain-smoke cigarettes  |
+| 91 | Character’s bones become brittle, hindering Might tasks  |
+| 92 | Cypher is painfully cold to the touch, inflicting 1 point of damage each round it touches bare skin  |
+| 93 | Character occasionally is hurled horizontally an immediate distance with great force (typically 4 points of ambient damage)  |
+| 94 | Character develops severe allergy to a common food ingredient (wheat, eggs, citrus)  |
+| 95 | Vehicle brake lines within short range dramatically rupture  |
+| 96 | Electronic devices within short range tend to lose power, overheat, or catch fire  |
+| 97 | Character frequently steps on nails, broken glass, or other sharp things (1 or 2 points of damage, ignores Armor)  |
+| 98 | Character always bites their own tongue (1 point of damage, ignores Armor) whenever they cast a spell  |
+| 99 | Two cyphers begin fighting each other with switchblades and energy blasts, must be restrained or separated  |
+| 00+ | Cypher functions normally, but explodes like a grenade shortly after it is activated or the magic ends  |
 
-## FAMILIARS
+## Familiars
 
 In the most general sense, a familiar is a creature (usually in the form of a small animal) bonded to a magical person as a companion. However, a familiar’s role, intelligence, relationship with their person, powers, and vulnerabilities vary greatly from setting to setting. A familiar might be just a pet or comfort animal, with no special abilities. They might have an empathic or telepathic connection with their person. They might be an extension of the person’s soul, with harm to the familiar causing harm to the person. They might be a fully supernatural creature, able to assist with magical tasks or provide advice. A magical world might only have one of these kinds of familiars, or any of them.
 
+{{< hint danger >}}
 CONTENT WARNING: This section talks about the death of pets.
+{{< /hint >}}
 
-Standard Pet
+### Standard Pet
 
 The simplest sort of familiar is one that is a normal animal that has an emotional bond with a character, essentially the same role as a typical pet or comfort animal. The familiar has no special abilities, doesn’t affect the character’s magical abilities in any way, and is not meant to help in combat. Their death doesn’t cause the character physical harm (although it probably causes emotional harm, just like the loss of any pet), and the character can gain a new familiar after a certain amount of time. For this type of familiar, a character should choose the Critter Companion ability, which gives them a level 1 creature.
 
@@ -618,7 +331,7 @@ If the character wants a bigger or tougher creature that is otherwise still a no
 
 As a slightly more magical variant, choose either of these abilities, but instead of finding a replacement for the creature if it dies, the character can perform a magical ritual (taking 1d6 days) to return them to life.
 
-Unusual Familiar
+### Unusual Familiar
 
 There’s no reason a familiar has to resemble a common Earth animal such as a cat, frog, or hawk. If the setting is a world other than Earth, and it has its own animal species that don’t exist on Earth (such as monkey-lizards, capybara-bats, and raven‑snakes), those kinds of creatures are valid choices for a familiar.
 
@@ -626,105 +339,86 @@ If a familiar is a creature whose body is created by the bond with a magician (i
 
 History and fantasy literature has suggested other forms for familiars, such as fiendish-looking imps, tiny dragons, alchemy-crafted homunculi, fairies, intelligent floating skulls, and spirits resembling human children. Exactly what sorts of unusual familiars are available in the setting is up to the GM, but their appearance generally doesn’t affect their game statistics. For example, a flying skull familiar and a bat familiar probably have the same level, movement, and modifiers.
 
-Magical Familiar
+### Magical Familiar
 
 This kind of familiar is more of a magical creature than a standard pet. Advantages compared to a standard pet are the familiar’s ability to be physical or intangible, its telepathic connection to the character, and (unlike a standard pet familiar) the fact that it can’t truly die. The disadvantages of this kind of familiar are that they cannot travel too far away from you and they spend most of their time asleep and intangible instead of actively assisting you. For this type of familiar, a character should choose the Bound Magic Familiar ability.
 
-Soulbound Familiar
+### Soulbound Familiar
 
 This is the most powerful and versatile kind of familiar. They have significant magical abilities, but this requires a bond between the character and familiar that makes them both vulnerable in certain ways.
 
 For this type of familiar, a character should choose the Soul Familiar ability.
 
-Modifying A Familiar
+### Modifying A Familiar
 
 The following character abilities can be used to improve your familiar or the connection you have with it. (Although most of the ability descriptions refer to the Beast Companion ability, they have the same effect on a familiar as on a beast companion.)
 
-Tier 3: Stronger Together
+* Tier 3: Stronger Together
+* Tier 4: Beast Eyes
+* Tier 5: Improved Companion
+* Tier 6: As If One Creature
 
-Tier 4: Beast Eyes
-
-Tier 5: Improved Companion
-
-Tier 6: As If One Creature
-
-## REVIVING ARTIFACTS
+## Reviving Artifacts
 
 While all artifacts have a depletion stat, in some settings artifacts may be “revived” after they deplete. Usually doing this has some kind of high cost, whether that be money, time, work, or the like. Depending on the setting, a character might take an artifact to a well-known repair person who charges a pretty penny for their services, they could make a bargain with a powerful entity who has special magic to bring items back to life, or they might sneak into a corporation to steal a prototype power source to get their artifact back in working condition.
 
 Typically, a revived artifact has the same depletion rate as it did when it was new. However, some repairs or fixes may be less substantial than others. In this case, move the depletion rate down to the next smaller die type. So an artifact that started at 1 in 1d00 would now be 1 in 1d20 (and if repaired again, might be 1 in 1d10). If the artifact’s depletion is already using a d6, double the depletion number (for example, from 1–2 in 1d6 to 1–4 in 1d6). If the depletion number is equal to or higher than the highest number the die can roll (like 1–6 on a d6), change the artifact’s depletion to “automatic.”
 
-## OPTIONAL MODERN MAGIC FLAVOR
+## Optional Modern Magic Flavor
 
-## MODERN MAGIC FLAVORS
+## Modern Magic Flavors
 
-Charms and Figments Flavor
+### Charms and Figments Flavor
 
 Creating illusions and affecting minds are sometimes considered “soft” magical disciplines (as opposed to “hard” disciplines that manipulate energy or physical matter). It’s common for a character with an interest in one to learn a few spells in the other.
 
-Tier 1:
+#### Tier 1:
 
 Background Music (1+ Intellect points): You create quiet background music in a short area, loud enough to be heard in a room with normal conversation, but not so loud to be distracting or overwhelming. The music repeats through up to ten songs you know, lasting up to an hour. In addition to the normal options for using Effort, you can use Effort to increase the duration; each level of Effort adds one hour to the play time and five songs to the playlist. Action.
 
-Fast Talk
+* Fast Talk
+* Goad
+* Impart Ideal
+* Mental Link
+* Minor Illusion
 
-Goad
+#### Tier 2:
 
-Impart Ideal
 
-Mental Link
+* Calm Stranger
+* Cloud Personal Memories
+* Illusory Duplicate
+* Misdirect Blame
 
-Minor Illusion
+#### Tier 3:
 
-Tier 2:
+* Advanced Command
+* Illusory Disguise
+* Soothe the Savage
 
-Calm Stranger
+#### Tier 4:
 
-Cloud Personal Memories
+* Calm
+* Major Illusion
+* Mind Control
+* Psychic Burst
+* Psychic Suggestion
 
-Illusory Duplicate
+#### Tier 5:
 
-Misdirect Blame
+* Crowd Control
+* Mind Games
+* Projection
 
-Tier 3:
+#### Tier 6:
 
-Advanced Command
-
-Illusory Disguise
-
-Soothe the Savage
-
-Tier 4:
-
-Calm
-
-Major Illusion
-
-Mind Control
-
-Psychic Burst
-
-Psychic Suggestion
-
-Tier 5:
-
-Crowd Control
-
-Mind Games
-
-Projection
-
-Tier 6:
-
-Flee
-
-Terrifying Image
-
-Cozy Magic Flavor
+* Flee
+* Terrifying Image
+* Cozy Magic Flavor
 
 Sometimes a sorcerer isn’t interested in combat magic and secret of the universe. Sometimes “cozy magic” is enough: bonding with a group of close friends, having a nice house, and providing support and comfort in times of need.
 
-Tier 1:
+### Tier 1:
 
 Advice From A Friend
 
@@ -858,7 +552,7 @@ Enhance Athletics (2 Intellect points): You enhance the ability of one creature 
 
 Mage Clock: You can mentally connect to a universal magical clock, allowing you to know the local time, down to a tenth of a second. You can have up to three magical timers at once, each of which sounds a mental alarm after an amount of time you specify or at a specific time (such as nine minutes from now, three hours from now, or 8 o’clock in the morning). Action.
 
-Spellpay (1 Intellect point): You initiate a transaction with another person or business cashier within short range, giving them an amount of money that you specify. The currency comes from cash in your possession, money in your account, or a mix of both; the recipient receives this money in the same form as it came from you. For example, if you send someone \$150, \$50 of which is cash in your wallet and \$100 of which comes from your bank account, they suddenly have \$50 cash on hand and \$100 in their bank account. Instead of a transaction between two people, you can instead use this ability to access your account, withdrawing or depositing cash as if using a teller machine. Action.
+Spellpay (1 Intellect point): You initiate a transaction with another person or business cashier within short range, giving them an amount of money that you specify. The currency comes from cash in your possession, money in your account, or a mix of both; the recipient receives this money in the same form as it came from you. For example, if you send someone $150, $50 of which is cash in your wallet and $100 of which comes from your bank account, they suddenly have $50 cash on hand and $100 in their bank account. Instead of a transaction between two people, you can instead use this ability to access your account, withdrawing or depositing cash as if using a teller machine. Action.
 
 Spellpay can access any monetary account you use, such as a checking or savings account through a bank or credit union, or a mobile payment service such as Apple Pay, PayPal, or Venmo
 
@@ -956,7 +650,7 @@ Reactive Field
 
 Untouchable
 
-## OPTIONAL RULES FOR THE APOCALYPSE
+## Optional Rules For The Apocalypse
 
 The optional rules presented in this chapter accommodate a variety of circumstances that PCs could face after civilization falls. Some represent useful information that rarely comes up in other games but is ever‑present in almost every post‑apocalyptic game, such as scavenging and how to repair before‑times machines, the game effects of exposure and starvation, and so on.
 
@@ -968,7 +662,7 @@ Most of the rules are meant for the GM’s eyes only—things that happen behind
 
 Realistic Versus Fantastic Optional Rules: Some of the optional rules presented here are for realistic or plausible scenarios like nuclear war or climate change, and some are for fantastic events and settings such as time storms, the return of magic, or incredible mutations. Realistic optional rules usually also apply in games that use one or more fantastic optional rules. Ultimately, it’s your choice. Feel free to use some, all, or none of these optional rules when running your game, or introduce others of your own devising (or from another genre sourcebook) to provide a unique twist to the game.
 
-## EXPOSURE, STARVATION, AND DEHYDRATION
+### Exposure, Starvation, And Dehydration
 
 Codifying the effects of exposure, starvation, and dehydration for a tabletop RPG probably makes sense only in a post‑apocalyptic scenario, given that survival is a primary theme of the genre.
 
@@ -976,7 +670,8 @@ When to Use: If PCs are exposed to the elements, don’t have enough food, and/o
 
 Effect: As noted under Too Cold, Too Hot, Starvation, and Dehydration hereafter.
 
-## EXPOSURE  
+#### Exposure
+
 The human body can withstand temperatures that are too cold for it or too hot for it for a brief period before degrading.
 
 Too Cold
@@ -991,19 +686,19 @@ Prolonged exposure to a wet‑bulb temperature of 95° F (35° C) is the upper l
 
 In game terms, PCs in too‑hot conditions suffer 1 point of ambient damage per ten minutes. In addition, a character exposed to extreme heat must make a level 4 Might defense roll (hindered if the character is also dehydrated) every ten minutes. On a failed roll, the character descends one step on the damage track.
 
-## RULE OF THREE
+##### Rule Of Three
 
 One popular mnemonic for knowing how long a person can survive in extreme circumstances is the Rule of Three. It goes something like this: You can survive for three minutes without oxygen, you can survive for three days without water, and you can survive for three weeks without food. However, the rule depends on a person not being directly exposed to the environment and not being under physical duress, and requires someone who can hold their breath for three minutes, which is not most people. Usually, in a post‑apocalyptic RPG scenario, PCs won’t have such luxuries.
 
-## STARVATION
+#### Starvation
 
 Generally, a PC can survive without food for about ten days to several weeks. In game terms, PCs who go without food take 3 points of ambient damage each day. On any day a PC has taken starvation damage, their tasks are hindered (even if the character makes a recovery roll to regain lost Pool points). In addition, after seven days without food, a starving character must make a level 5 Might defense roll each day that follows. On a failed roll, the character descends one step on the damage track.
 
-## DEHYDRATION
+#### Dehydration
 
 Generally, a PC can survive without water for three to five days, but this time frame can be shorter in extreme heat or physical activity. In game terms, PCs who go without water take 3 points of ambient damage every twelve hours. On any day a PC has taken dehydration damage, their tasks are hindered (even if the character makes a recovery roll to regain lost Pool points). In addition, after one day without water, a dehydrated character must succeed on a level 5 Might defense roll each day. On a failed roll, the character descends one step on the damage track.
 
-## RADIATION IN THE REAL WORLD
+### Radiation In The Real World
 
 Exposure to dangerous amounts of radiation can cause severe damage to the human body, including cellular mutations, cancer, and death.
 
@@ -1035,7 +730,7 @@ Level 8 disease: Nausea, vomiting, diarrhea, and fatigue appear within minutes t
 
 Each day the PC fails a Might defense roll, they descend one step on the damage track. If they succeed on three Might defense rolls, they gradually improve and throw off the sickness effects within a few weeks.
 
-## SCAVENGING, REPAIRING, AND BUILDING
+### Scavenging, Repairing, And Building
 
 Survivors need food and shelter in a world turned upside down.
 
@@ -1106,26 +801,13 @@ Most of the time, it’s not important to know the level of a useful item PCs fi
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>01</td>
-<td>Water filter straw or bottle</td>
-</tr>
-<tr>
-<td>02</td>
-<td>Windproof matches, box</td>
-</tr>
-<tr>
-<td>03</td>
-<td>Gas mask</td>
-</tr>
-<tr>
-<td>04</td>
-<td>Soap, shampoo, or other hygiene product</td>
-</tr>
+| 01 | Water filter straw or bottle |
+| 02 | Windproof matches, box |
+| 03 | Gas mask |
+| 04 | Soap, shampoo, or other hygiene product |
 <tr>
 <td>05</td>
-<td><p>Tool, hand (the right tool for the job provides an asset on repair and crafting tasks)</p>
-<table>
+<td>Tool, hand (the right tool for the job provides an asset on repair and crafting tasks) <table>
 <colgroup>
 <col style="width: 10%" />
 <col style="width: 89%" />
@@ -1190,18 +872,11 @@ Most of the time, it’s not important to know the level of a useful item PCs fi
 </tbody>
 </table></td>
 </tr>
-<tr>
-<td>06</td>
-<td>Carabiner</td>
-</tr>
-<tr>
-<td>07-08</td>
-<td>Bungee cords</td>
-</tr>
+| 06 | Carabiner |
+| 07-08 | Bungee cords |
 <tr>
 <td>09-10</td>
-<td><p>Tool, corded or battery‑powered (the right tool for the job provides an asset on repair and crafting tasks)</p>
-<table>
+<td>Tool, corded or battery‑powered (the right tool for the job provides an asset on repair and crafting tasks) <table>
 <colgroup>
 <col style="width: 8%" />
 <col style="width: 90%" />
@@ -1268,8 +943,7 @@ Most of the time, it’s not important to know the level of a useful item PCs fi
 </tr>
 <tr>
 <td>11</td>
-<td><p>Construction/repair supply (the right material provides an asset to a task that would benefit from its use; counts as one load of construction junk)</p>
-<table>
+<td>Construction/repair supply (the right material provides an asset to a task that would benefit from its use; counts as one load of construction junk) <table>
 <colgroup>
 <col style="width: 9%" />
 <col style="width: 90%" />
@@ -1302,22 +976,12 @@ Most of the time, it’s not important to know the level of a useful item PCs fi
 </tbody>
 </table></td>
 </tr>
-<tr>
-<td>12</td>
-<td>Nightvision goggles</td>
-</tr>
-<tr>
-<td>13</td>
-<td>First aid kit (provides an asset to 1d20 healing-related tasks before exhaustion)</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Ammunition handloading tool set (provides an asset to crafting ammunition)</td>
-</tr>
+| 12 | Nightvision goggles |
+| 13 | First aid kit (provides an asset to 1d20 healing-related tasks before exhaustion) |
+| 14 | Ammunition handloading tool set (provides an asset to crafting ammunition) |
 <tr>
 <td>15-16</td>
-<td><p>Over the counter (OTC) medicine (provides an asset to one qualifying healing‑related task)</p>
-<table>
+<td>Over the counter (OTC) medicine (provides an asset to one qualifying healing‑related task) <table>
 <colgroup>
 <col style="width: 7%" />
 <col style="width: 92%" />
@@ -1366,18 +1030,11 @@ Most of the time, it’s not important to know the level of a useful item PCs fi
 </tbody>
 </table></td>
 </tr>
-<tr>
-<td>17</td>
-<td>Pads and tampons</td>
-</tr>
-<tr>
-<td>18</td>
-<td>Condoms</td>
-</tr>
+| 17 | Pads and tampons |
+| 18 | Condoms |
 <tr>
 <td>19</td>
-<td><p>Prescription medicine (vanquishes or treats symptoms of an eligible disease or illness, if enough medicine is found)</p>
-<table>
+<td>Prescription medicine (vanquishes or treats symptoms of an eligible disease or illness, if enough medicine is found) <table>
 <colgroup>
 <col style="width: 9%" />
 <col style="width: 89%" />
@@ -1492,34 +1149,15 @@ Most of the time, it’s not important to know the level of a useful item PCs fi
 </tbody>
 </table></td>
 </tr>
-<tr>
-<td>20</td>
-<td>Binoculars</td>
-</tr>
-<tr>
-<td>21</td>
-<td>Horse, trained for riding (typically found with a few days of feed)</td>
-</tr>
-<tr>
-<td>22</td>
-<td>Magnifying glass</td>
-</tr>
-<tr>
-<td>23</td>
-<td>Glasses, readers</td>
-</tr>
-<tr>
-<td>24</td>
-<td>Box of black permanent markers</td>
-</tr>
-<tr>
-<td>25</td>
-<td>Scissors</td>
-</tr>
+| 20 | Binoculars |
+| 21 | Horse, trained for riding (typically found with a few days of feed) |
+| 22 | Magnifying glass |
+| 23 | Glasses, readers |
+| 24 | Box of black permanent markers |
+| 25 | Scissors |
 <tr>
 <td>26-35</td>
-<td><p>Food and water (enough for five people for one day)</p>
-<table>
+<td>Food and water (enough for five people for one day) <table>
 <colgroup>
 <col style="width: 18%" />
 <col style="width: 80%" />
@@ -1754,22 +1392,12 @@ Most of the time, it’s not important to know the level of a useful item PCs fi
 </tbody>
 </table></td>
 </tr>
-<tr>
-<td>36</td>
-<td>Food cache (enough for five people for 1d20 weeks)</td>
-</tr>
-<tr>
-<td>37</td>
-<td>Water cache (enough for six people for 1d20 weeks)</td>
-</tr>
-<tr>
-<td>38</td>
-<td>Plastic bag (won’t last long)</td>
-</tr>
+| 36 | Food cache (enough for five people for 1d20 weeks) |
+| 37 | Water cache (enough for six people for 1d20 weeks) |
+| 38 | Plastic bag (won’t last long) |
 <tr>
 <td>39-45</td>
-<td><p>Textbook or “how‑to” manual (asset to related knowledge task if studied for about an hour)</p>
-<table>
+<td>Textbook or “how‑to” manual (asset to related knowledge task if studied for about an hour) <table>
 <colgroup>
 <col style="width: 12%" />
 <col style="width: 86%" />
@@ -1834,66 +1462,23 @@ Most of the time, it’s not important to know the level of a useful item PCs fi
 </tbody>
 </table></td>
 </tr>
-<tr>
-<td>46</td>
-<td>Supply stash (roll on this table 1d6 +2 times)</td>
-</tr>
-<tr>
-<td>47</td>
-<td>Books (1d10 books of fiction)</td>
-</tr>
-<tr>
-<td>48</td>
-<td>Toy wagon</td>
-</tr>
-<tr>
-<td>49</td>
-<td>Shopping cart or baby carriage</td>
-</tr>
-<tr>
-<td>50</td>
-<td>Wheelbarrow</td>
-</tr>
-<tr>
-<td>51</td>
-<td>Skateboard, roller skates/blades, or similar</td>
-</tr>
-<tr>
-<td>52</td>
-<td>Can opener or can punch</td>
-</tr>
-<tr>
-<td>53</td>
-<td>Gloves</td>
-</tr>
-<tr>
-<td>54</td>
-<td>Sunglasses or safety goggles</td>
-</tr>
-<tr>
-<td>55</td>
-<td>Ear plugs</td>
-</tr>
-<tr>
-<td>56</td>
-<td>Extension cord or power tree</td>
-</tr>
-<tr>
-<td>57</td>
-<td>Lighter, butane</td>
-</tr>
-<tr>
-<td>58</td>
-<td>Lighter, plasma</td>
-</tr>
-<tr>
-<td>59</td>
-<td>Flashlight, battery and/or crank-powered</td>
-</tr>
+| 46 | Supply stash (roll on this table 1d6 +2 times) |
+| 47 | Books (1d10 books of fiction) |
+| 48 | Toy wagon |
+| 49 | Shopping cart or baby carriage |
+| 50 | Wheelbarrow |
+| 51 | Skateboard, roller skates/blades, or similar |
+| 52 | Can opener or can punch |
+| 53 | Gloves |
+| 54 | Sunglasses or safety goggles |
+| 55 | Ear plugs |
+| 56 | Extension cord or power tree |
+| 57 | Lighter, butane |
+| 58 | Lighter, plasma |
+| 59 | Flashlight, battery and/or crank-powered |
 <tr>
 <td>60-63</td>
-<td><p>Weapon, melee</p>
-<table>
+<td>Weapon, melee <table>
 <colgroup>
 <col style="width: 11%" />
 <col style="width: 88%" />
@@ -1958,18 +1543,11 @@ Most of the time, it’s not important to know the level of a useful item PCs fi
 </tbody>
 </table></td>
 </tr>
-<tr>
-<td>64</td>
-<td>Broom or mop</td>
-</tr>
-<tr>
-<td>65</td>
-<td>Padlock with keys</td>
-</tr>
+| 64 | Broom or mop |
+| 65 | Padlock with keys |
 <tr>
 <td>66</td>
-<td><p>Armor</p>
-<table style="width:100%;">
+<td>Armor <table style="width:100%;">
 <colgroup>
 <col style="width: 5%" />
 <col style="width: 94%" />
@@ -2014,34 +1592,15 @@ Most of the time, it’s not important to know the level of a useful item PCs fi
 </tbody>
 </table></td>
 </tr>
-<tr>
-<td>67</td>
-<td>Bivouac sack</td>
-</tr>
-<tr>
-<td>68</td>
-<td>SCUBA gear</td>
-</tr>
-<tr>
-<td>69</td>
-<td>Straitjacket</td>
-</tr>
-<tr>
-<td>70</td>
-<td>Game, physical (puzzle, board game, RPG)</td>
-</tr>
-<tr>
-<td>71</td>
-<td>Canteen</td>
-</tr>
-<tr>
-<td>72</td>
-<td>Hazmat suit (light armor, +2 Armor against chemical and radiation damage)</td>
-</tr>
+| 67 | Bivouac sack |
+| 68 | SCUBA gear |
+| 69 | Straitjacket |
+| 70 | Game, physical (puzzle, board game, RPG) |
+| 71 | Canteen |
+| 72 | Hazmat suit (light armor, +2 Armor against chemical and radiation damage) |
 <tr>
 <td>73-74</td>
-<td><p>Vehicle</p>
-<table>
+<td>Vehicle <table>
 <colgroup>
 <col style="width: 10%" />
 <col style="width: 88%" />
@@ -2158,8 +1717,7 @@ Most of the time, it’s not important to know the level of a useful item PCs fi
 </tr>
 <tr>
 <td>75-78</td>
-<td><p>Firearm (usually found with about 10 bullets or shells)</p>
-<table>
+<td>Firearm (usually found with about 10 bullets or shells) <table>
 <colgroup>
 <col style="width: 8%" />
 <col style="width: 91%" />
@@ -2214,42 +1772,17 @@ Most of the time, it’s not important to know the level of a useful item PCs fi
 </tbody>
 </table></td>
 </tr>
-<tr>
-<td>79</td>
-<td>Hand grenade (4 points of damage in immediate range)</td>
-</tr>
-<tr>
-<td>80</td>
-<td>Ammunition cache (100 shells or bullets for 1d6 different weapons)</td>
-</tr>
-<tr>
-<td>81</td>
-<td>Bolt cutters</td>
-</tr>
-<tr>
-<td>82</td>
-<td>Climbing gear</td>
-</tr>
-<tr>
-<td>83</td>
-<td>Crowbar</td>
-</tr>
-<tr>
-<td>84</td>
-<td>Handcuffs</td>
-</tr>
-<tr>
-<td>85</td>
-<td>Firearm cache (1d6+ 4 firearms; a mix of light, medium, and heavy weapons, each usually found with about 10 bullets or shells)</td>
-</tr>
-<tr>
-<td>86-87</td>
-<td>Boots</td>
-</tr>
+| 79 | Hand grenade (4 points of damage in immediate range) |
+| 80 | Ammunition cache (100 shells or bullets for 1d6 different weapons) |
+| 81 | Bolt cutters |
+| 82 | Climbing gear |
+| 83 | Crowbar |
+| 84 | Handcuffs |
+| 85 | Firearm cache (1d6+ 4 firearms; a mix of light, medium, and heavy weapons, each usually found with about 10 bullets or shells) |
+| 86-87 | Boots |
 <tr>
 <td>88</td>
-<td><p>Power</p>
-<table style="width:100%;">
+<td>Power <table style="width:100%;">
 <colgroup>
 <col style="width: 8%" />
 <col style="width: 91%" />
@@ -2309,14 +1842,10 @@ Most of the time, it’s not important to know the level of a useful item PCs fi
 </tbody>
 </table></td>
 </tr>
-<tr>
-<td>89</td>
-<td>Lantern, kerosene or battery</td>
-</tr>
+| 89 | Lantern, kerosene or battery |
 <tr>
 <td>90</td>
-<td><p>Electronics, consumer, general (functional, but without power or network connection, normally considered junk)</p>
-<table>
+<td>Electronics, consumer, general (functional, but without power or network connection, normally considered junk) <table>
 <colgroup>
 <col style="width: 10%" />
 <col style="width: 89%" />
@@ -2381,42 +1910,17 @@ Most of the time, it’s not important to know the level of a useful item PCs fi
 </tbody>
 </table></td>
 </tr>
-<tr>
-<td>91</td>
-<td>Art supplies</td>
-</tr>
-<tr>
-<td>92</td>
-<td>Mask, dust and particulates</td>
-</tr>
-<tr>
-<td>93</td>
-<td>Rope, nylon</td>
-</tr>
-<tr>
-<td>94</td>
-<td>Sleeping bag</td>
-</tr>
-<tr>
-<td>95</td>
-<td>Tent</td>
-</tr>
-<tr>
-<td>96</td>
-<td>Tires, stored</td>
-</tr>
-<tr>
-<td>97</td>
-<td>Toilet paper, stored</td>
-</tr>
-<tr>
-<td>98</td>
-<td>Turntable and/or CD player (usually found with supply of old records and/or CDs of music)</td>
-</tr>
+| 91 | Art supplies |
+| 92 | Mask, dust and particulates |
+| 93 | Rope, nylon |
+| 94 | Sleeping bag |
+| 95 | Tent |
+| 96 | Tires, stored |
+| 97 | Toilet paper, stored |
+| 98 | Turntable and/or CD player (usually found with supply of old records and/or CDs of music) |
 <tr>
 <td>99</td>
-<td><p>Loot (stuff people thought was valuable in the before‑times)</p>
-<table>
+<td>Loot (stuff people thought was valuable in the before‑times) <table>
 <colgroup>
 <col style="width: 10%" />
 <col style="width: 88%" />
@@ -2463,8 +1967,7 @@ Most of the time, it’s not important to know the level of a useful item PCs fi
 </tr>
 <tr>
 <td>00</td>
-<td><p>Radiation control item</p>
-<table style="width:100%;">
+<td>Radiation control item <table style="width:100%;">
 <colgroup>
 <col style="width: 6%" />
 <col style="width: 93%" />
@@ -2704,8 +2207,7 @@ Repairing and Crafting Difficulty and Time
 </tr>
 <tr>
 <td style="text-align: center;">6</td>
-<td><p>Generator, transmitter, watch, other</p>
-<p>complex electronic items</p></td>
+<td>Generator, transmitter, watch, other complex electronic items </td>
 <td style="text-align: center;">1 day</td>
 <td style="text-align: center;">2 months</td>
 <td>5 electronic, 1 vehicle</td>
@@ -3264,243 +2766,34 @@ Realistic Threats and Hazards
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>01-03</td>
-<td><p>Blocked road: The road ahead is so filled</p>
-<p>with abandoned, rusted before‑times vehicles that</p>
-<p>the PCs must walk if they want to take that route.</p>
-<p>Walkers are unable to see more than an immediate</p>
-<p>distance in any direction between the cars. If PCs</p>
-<p>have a vehicle larger than a bicycle, they’ll have to</p>
-<p>find another way or leave it behind.</p></td>
-</tr>
-<tr>
-<td>04-06</td>
-<td><p>Setting‑specific element: Choose a hazard</p>
-<p>from a set piece or optional rule you’re using, or if</p>
-<p>you want to shake things up, roll on the Fantastic</p>
-<p>Threats and Hazards table. Or just choose the next</p>
-<p>result on this table.</p></td>
-</tr>
-<tr>
-<td>07-10</td>
-<td><p>Angry ants (level 2): Thousands of biting</p>
-<p>ants pour from cracks in the pavement, attacking</p>
-<p>everything in an immediate area, inflicting 2 points</p>
-<p>of damage if they hit a target and, on a failed Might</p>
-<p>defense roll, dazing targets with pain for one round.</p>
-<p>Even if a target succeeds on its initial Speed defense</p>
-<p>roll, it takes 1 point of damage because the ants are</p>
-<p>everywhere.</p></td>
-</tr>
-<tr>
-<td>11-14</td>
-<td><p>Enraged wasps (level 3): This wasp swarm acts</p>
-<p>as a single level 3 creature whose stinging attacks</p>
-<p>ignore Armor. Attacks on the swarm that don’t deal</p>
-<p>area damage inflict only 1 point of damage.</p></td>
-</tr>
-<tr>
-<td>15-17</td>
-<td><p>Cannibal convoy: A before‑times RV pulls</p>
-<p>up. It’s the current property of a group of four to</p>
-<p>ten people who make the biofuel the vehicle runs</p>
-<p>on. They seem nice, but they’re actually cannibals</p>
-<p>thinking of inviting the PCs for dinner.</p></td>
-</tr>
-<tr>
-<td>18-20</td>
-<td><p>Earthquake, minor (level 3): The ground</p>
-<p>within long range of an epicenter heaves and shakes</p>
-<p>for one or more minutes. Each round, creatures in</p>
-<p>the area take either 3 points of damage due to the</p>
-<p>general shaking on a failed Speed defense roll, or</p>
-<p>6 points of damage if they are in or adjacent to a</p>
-<p>structure or terrain feature shedding debris on a</p>
-<p>failed Speed defense roll.</p></td>
-</tr>
-<tr>
-<td>21-23</td>
-<td><p>Radioactive crater (level 3): Inflicts 3 points</p>
-<p>of ambient damage per round and moves the</p>
-<p>character one step down the damage track each day</p>
-<p>they fail a difficulty 5 Might defense task.</p></td>
-</tr>
-<tr>
-<td>24-26</td>
-<td><p>Radioactive storm (level 3): Treat as a</p>
-<p>radioactive crater, but one that moves.</p></td>
-</tr>
-<tr>
-<td>27-29</td>
-<td><p>Exposed electrical wiring, minor (level 3):</p>
-<p>Inflicts 3 points of damage per round of contact,</p>
-<p>and the character is stunned and unable to take</p>
-<p>their next action until they succeed on a difficulty 3</p>
-<p>Might defense task.</p></td>
-</tr>
-<tr>
-<td>30-33</td>
-<td><p>Dilapidated infrastructure, minor (level 3):</p>
-<p>The floor gives way beneath a character who falls</p>
-<p>30 feet (9 m) on a failed Speed defense roll, taking</p>
-<p>3 points of ambient damage and moving one step</p>
-<p>down the damage track.</p></td>
-</tr>
-<tr>
-<td>34-40</td>
-<td><p>Poisoned waters, minor (level 3): Whether</p>
-<p>it’s water flooding a structure, a stream, a swamp,</p>
-<p>or a lake, drinking it inflicts 3 points of damage per</p>
-<p>round for three rounds on a failed Might defense</p>
-<p>task, and merely getting wet inflicts 1 point of</p>
-<p>damage per round for three rounds on a failed</p>
-<p>Might defense task.</p></td>
-</tr>
-<tr>
-<td>41-48</td>
-<td><p>Bridge, dangerous (level 4+): PCs on an</p>
-<p>overpass, train trestle, or other bridge must make a</p>
-<p>Speed defense roll as a section gives way beneath</p>
-<p>their feet, potentially dropping them 40 to 200 feet</p>
-<p>(12 to 60 m).</p></td>
-</tr>
-<tr>
-<td>49-53</td>
-<td><p>Burning structure (level 4): Everything in or</p>
-<p>within immediate range of this fire takes 4 points of</p>
-<p>damage each round on a failed Speed defense roll.</p>
-<p>If PCs can’t get away, choking smoke in the area</p>
-<p>means they must succeed on Might defense rolls</p>
-<p>each round or suffer 2 points of ambient damage</p>
-<p>and lose their next action.</p></td>
-</tr>
-<tr>
-<td>54-57</td>
-<td><p>Choking pollution (level 4): Asbestos and</p>
-<p>other substances once safely bound up in the</p>
-<p>infrastructure are loose, sometimes as clouds of</p>
-<p>dangerous particulate matter inflicting 4 points</p>
-<p>of damage per round for three rounds on a failed</p>
-<p>Might defense roll.</p></td>
-</tr>
-<tr>
-<td>58-67</td>
-<td><p>Raider patrol: Whether on scavenged trucks</p>
-<p>or motorcycles, or riding mutant pigs bred as war</p>
-<p>mounts (war pigs), a group of three to six fell riders</p>
-<p>is bad news.</p></td>
-</tr>
-<tr>
-<td>68-72</td>
-<td><p>Avalanche (level 5): A rumble precedes the</p>
-<p>falling snow as an avalanche of snow threatens to</p>
-<p>bury the PCs. (The avalanche could be debris or</p>
-<p>rubble instead of snow.)</p></td>
-</tr>
-<tr>
-<td>73-75</td>
-<td><p>Dilapidated infrastructure, major (level 5):</p>
-<p>The building, underpass tunnel, or cave collapses,</p>
-<p>or the bridge over which the vehicle is passing</p>
-<p>crumbles. Characters suffer 5 points of damage,</p>
-<p>and on a failed difficulty 5 Speed task are buried</p>
-<p>under suffocating rubble until they can escape</p>
-<p>or are rescued. For additional danger, treat as an</p>
-<p>unstable structure.</p></td>
-</tr>
-<tr>
-<td>76-78</td>
-<td><p>Disease (level 5+): Even if the world didn’t</p>
-<p>end because of a pandemic, disease threatens the</p>
-<p>PCs when they meet a group of especially unlucky</p>
-<p>(and diseased) survivors.</p></td>
-</tr>
-<tr>
-<td>79-80</td>
-<td><p>Flooded region (level 5): A failed Speed</p>
-<p>defense roll means the rushing waters envelop</p>
-<p>the character, inflicting 5 points of damage and</p>
-<p>moving them a short distance in the direction of the</p>
-<p>water’s flow. A serious flood could further endanger</p>
-<p>the character.</p></td>
-</tr>
-<tr>
-<td>81</td>
-<td><p>Firenado (level 5): Fire generates a vortex of</p>
-<p>flame and smoke, creating a rotating column of</p>
-<p>air that draws in flames and debris, resulting in a</p>
-<p>powerful whirlwind of fire. The vortex moves an</p>
-<p>immediate distance (on a roll of 1–3 on a d6) or a</p>
-<p>short distance (on a roll of 4–6 on a d6) each round</p>
-<p>in a random direction, persisting for 1d6 + 2</p>
-<p>rounds before dispersing. Anyone intersected by</p>
-<p>the firenado’s immediate‑radius area takes 5 points</p>
-<p>of damage each round on a failed Speed defense</p>
-<p>roll. The PC must also succeed on a Might defense</p>
-<p>roll or be pulled up into the firenado, burned</p>
-<p>for another 5 points of damage, and hurled in a</p>
-<p>random direction a short distance, which inflicts</p>
-<p>another 5 points of damage from falling and/or</p>
-<p>impacting other structures.</p></td>
-</tr>
-<tr>
-<td>82-84</td>
-<td><p>Poisoned waters, major (level 5): Drinking</p>
-<p>this slightly glowing water inflicts 5 points of</p>
-<p>damage per round for three rounds on a failed</p>
-<p>Might defense task, and merely getting wet inflicts</p>
-<p>3 points of damage per round for three rounds on a</p>
-<p>failed Might defense task.</p></td>
-</tr>
-<tr>
-<td>85-86</td>
-<td><p>Just a bear, but a big one: A regular grizzly</p>
-<p>bear is always frightening, before or after the end.</p></td>
-</tr>
-<tr>
-<td>87-88</td>
-<td><p>Nuclear fallout (level 5): Radioactive dust</p>
-<p>drifts to the ground or precipitates out as rain. PCs</p>
-<p>in the area suffer 1 point of ambient damage each</p>
-<p>minute, and if they remain for an hour or longer,</p>
-<p>they’re subject to radiation sickness.</p></td>
-</tr>
-<tr>
-<td>89-91</td>
-<td><p>Toxic spill (level 5): Sticky orange goo bursts</p>
-<p>from rusted ancient barrels. Characters who fail a</p>
-<p>Speed defense task are caught and held in place</p>
-<p>until they can escape the morass, taking 5 points of</p>
-<p>damage each round they remain stuck.</p></td>
-</tr>
-<tr>
-<td>92-94</td>
-<td><p>Unexploded ordnance (level 5): A buried</p>
-<p>land mine inflicts 5 points of damage to everything</p>
-<p>within short range if trod upon or otherwise set off.</p></td>
-</tr>
-<tr>
-<td>95-97</td>
-<td><p>Superstorm (level 6): With the climate</p>
-<p>destabilized, storms of unprecedented strength</p>
-<p>sometimes blow, creating winds that inflict 6 points</p>
-<p>of damage each round targets are exposed.</p></td>
-</tr>
-<tr>
-<td>98-99</td>
-<td><p>Radiation, extreme (level 8): This area was</p>
-<p>recently hit by a nuclear bomb or other extreme</p>
-<p>radioactive event, and those in the area for more</p>
-<p>than a minute who fail a Might defense roll suffer</p>
-<p>from radiation sickness.</p></td>
-</tr>
-<tr>
-<td>00</td>
-<td><p>Unexploded nuclear warhead (level 10): If not</p>
-<p>defused, it could kill everything in a several‑mile</p>
-<p>radius and is likely radioactive to boot.</p></td>
-</tr>
+| 01-03 | Blocked road: The road ahead is so filled with abandoned, rusted before‑times vehicles that the PCs must walk if they want to take that route. Walkers are unable to see more than an immediate distance in any direction between the cars. If PCs have a vehicle larger than a bicycle, they’ll have to find another way or leave it behind.  |
+| 04-06 | Setting‑specific element: Choose a hazard from a set piece or optional rule you’re using, or if you want to shake things up, roll on the Fantastic Threats and Hazards table. Or just choose the next result on this table.  |
+| 07-10 | Angry ants (level 2): Thousands of biting ants pour from cracks in the pavement, attacking everything in an immediate area, inflicting 2 points of damage if they hit a target and, on a failed Might defense roll, dazing targets with pain for one round. Even if a target succeeds on its initial Speed defense roll, it takes 1 point of damage because the ants are everywhere.  |
+| 11-14 | Enraged wasps (level 3): This wasp swarm acts as a single level 3 creature whose stinging attacks ignore Armor. Attacks on the swarm that don’t deal area damage inflict only 1 point of damage.  |
+| 15-17 | Cannibal convoy: A before‑times RV pulls up. It’s the current property of a group of four to ten people who make the biofuel the vehicle runs on. They seem nice, but they’re actually cannibals thinking of inviting the PCs for dinner.  |
+| 18-20 | Earthquake, minor (level 3): The ground within long range of an epicenter heaves and shakes for one or more minutes. Each round, creatures in the area take either 3 points of damage due to the general shaking on a failed Speed defense roll, or 6 points of damage if they are in or adjacent to a structure or terrain feature shedding debris on a failed Speed defense roll.  |
+| 21-23 | Radioactive crater (level 3): Inflicts 3 points of ambient damage per round and moves the character one step down the damage track each day they fail a difficulty 5 Might defense task.  |
+| 24-26 | Radioactive storm (level 3): Treat as a radioactive crater, but one that moves.  |
+| 27-29 | Exposed electrical wiring, minor (level 3): Inflicts 3 points of damage per round of contact, and the character is stunned and unable to take their next action until they succeed on a difficulty 3 Might defense task.  |
+| 30-33 | Dilapidated infrastructure, minor (level 3): The floor gives way beneath a character who falls 30 feet (9 m) on a failed Speed defense roll, taking 3 points of ambient damage and moving one step down the damage track.  |
+| 34-40 | Poisoned waters, minor (level 3): Whether it’s water flooding a structure, a stream, a swamp, or a lake, drinking it inflicts 3 points of damage per round for three rounds on a failed Might defense task, and merely getting wet inflicts 1 point of damage per round for three rounds on a failed Might defense task.  |
+| 41-48 | Bridge, dangerous (level 4+): PCs on an overpass, train trestle, or other bridge must make a Speed defense roll as a section gives way beneath their feet, potentially dropping them 40 to 200 feet (12 to 60 m).  |
+| 49-53 | Burning structure (level 4): Everything in or within immediate range of this fire takes 4 points of damage each round on a failed Speed defense roll. If PCs can’t get away, choking smoke in the area means they must succeed on Might defense rolls each round or suffer 2 points of ambient damage and lose their next action.  |
+| 54-57 | Choking pollution (level 4): Asbestos and other substances once safely bound up in the infrastructure are loose, sometimes as clouds of dangerous particulate matter inflicting 4 points of damage per round for three rounds on a failed Might defense roll.  |
+| 58-67 | Raider patrol: Whether on scavenged trucks or motorcycles, or riding mutant pigs bred as war mounts (war pigs), a group of three to six fell riders is bad news.  |
+| 68-72 | Avalanche (level 5): A rumble precedes the falling snow as an avalanche of snow threatens to bury the PCs. (The avalanche could be debris or rubble instead of snow.)  |
+| 73-75 | Dilapidated infrastructure, major (level 5): The building, underpass tunnel, or cave collapses, or the bridge over which the vehicle is passing crumbles. Characters suffer 5 points of damage, and on a failed difficulty 5 Speed task are buried under suffocating rubble until they can escape or are rescued. For additional danger, treat as an unstable structure.  |
+| 76-78 | Disease (level 5+): Even if the world didn’t end because of a pandemic, disease threatens the PCs when they meet a group of especially unlucky (and diseased) survivors.  |
+| 79-80 | Flooded region (level 5): A failed Speed defense roll means the rushing waters envelop the character, inflicting 5 points of damage and moving them a short distance in the direction of the water’s flow. A serious flood could further endanger the character.  |
+| 81 | Firenado (level 5): Fire generates a vortex of flame and smoke, creating a rotating column of air that draws in flames and debris, resulting in a powerful whirlwind of fire. The vortex moves an immediate distance (on a roll of 1–3 on a d6) or a short distance (on a roll of 4–6 on a d6) each round in a random direction, persisting for 1d6 + 2 rounds before dispersing. Anyone intersected by the firenado’s immediate‑radius area takes 5 points of damage each round on a failed Speed defense roll. The PC must also succeed on a Might defense roll or be pulled up into the firenado, burned for another 5 points of damage, and hurled in a random direction a short distance, which inflicts another 5 points of damage from falling and/or impacting other structures.  |
+| 82-84 | Poisoned waters, major (level 5): Drinking this slightly glowing water inflicts 5 points of damage per round for three rounds on a failed Might defense task, and merely getting wet inflicts 3 points of damage per round for three rounds on a failed Might defense task.  |
+| 85-86 | Just a bear, but a big one: A regular grizzly bear is always frightening, before or after the end.  |
+| 87-88 | Nuclear fallout (level 5): Radioactive dust drifts to the ground or precipitates out as rain. PCs in the area suffer 1 point of ambient damage each minute, and if they remain for an hour or longer, they’re subject to radiation sickness.  |
+| 89-91 | Toxic spill (level 5): Sticky orange goo bursts from rusted ancient barrels. Characters who fail a Speed defense task are caught and held in place until they can escape the morass, taking 5 points of damage each round they remain stuck.  |
+| 92-94 | Unexploded ordnance (level 5): A buried land mine inflicts 5 points of damage to everything within short range if trod upon or otherwise set off.  |
+| 95-97 | Superstorm (level 6): With the climate destabilized, storms of unprecedented strength sometimes blow, creating winds that inflict 6 points of damage each round targets are exposed.  |
+| 98-99 | Radiation, extreme (level 8): This area was recently hit by a nuclear bomb or other extreme radioactive event, and those in the area for more than a minute who fail a Might defense roll suffer from radiation sickness.  |
+| 00 | Unexploded nuclear warhead (level 10): If not defused, it could kill everything in a several‑mile radius and is likely radioactive to boot.  |
 </tbody>
 </table>
 
@@ -3522,173 +2815,23 @@ Fantastic Threats and Hazards
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>1</td>
-<td><p>Hallucinatory flowers (level 3): The</p>
-<p>ground floor of the ruin hosts a handful</p>
-<p>of purplish flowers growing up out of the</p>
-<p>rubble. A character who gets a puff of the</p>
-<p>pollen hallucinates their allies are actually</p>
-<p>cannibals trying to eat the affected character</p>
-<p>each round until the character succeeds on</p>
-<p>a Might defense roll.</p></td>
-</tr>
-<tr>
-<td>2</td>
-<td><p>AI instance, minor (level 3): An artificial</p>
-<p>intelligence in an old facility attempts to</p>
-<p>install itself in the wetware (the brain)</p>
-<p>of humans and any other nearby sapient</p>
-<p>creatures. Anyone within immediate range</p>
-<p>of a video screen playing carefully crafted</p>
-<p>symbols and sounds who fails an Intellect</p>
-<p>defense roll is stunned, losing their next</p>
-<p>turn as they stare in rapt attention. If</p>
-<p>they fail a subsequent defense roll, they</p>
-<p>come under the control of the AI for one</p>
-<p>minute, or until they succeed on an Intellect</p>
-<p>defense roll on their turn. A PC under AI</p>
-<p>control might stand and do nothing, fall</p>
-<p>mysteriously unconscious, or take an action</p>
-<p>to advance the AI’s goals.</p></td>
-</tr>
-<tr>
-<td>3-4</td>
-<td><p>Voracious cockroach swarm (level 3):</p>
-<p>This swarm, easily covering an area a</p>
-<p>short distance in diameter, doesn’t shrink</p>
-<p>from the light or from people. Indeed, it</p>
-<p>seems eerily intelligent, and if threatened,</p>
-<p>it attacks, inflicting 3 points of damage</p>
-<p>each round on everything in its area that</p>
-<p>fails a Speed defense roll, or 1 point on a</p>
-<p>successful roll.</p></td>
-</tr>
-<tr>
-<td>5</td>
-<td><p>Animate vegetation (level 4): Kudzu got a</p>
-<p>lot worse in the aftermath. Characters that</p>
-<p>fail a Speed defense roll take 4 points of</p>
-<p>damage each round from strangulation and</p>
-<p>vine constriction until they can escape</p></td>
-</tr>
-<tr>
-<td>6</td>
-<td><p>Ashy tide (level 4): A series of powerful</p>
-<p>wind gusts in the area kicks up a lot of</p>
-<p>fine grey ash. Except it’s not ash—it’s a</p>
-<p>collection of nanobots, each the size of a</p>
-<p>grain of sand or smaller, called ashy tide.</p></td>
-</tr>
-<tr>
-<td>7-8</td>
-<td><p>Glowing roach infestation: Four to ten</p>
-<p>glowing roaches the size of dogs have truly</p>
-<p>come into their own now that they’ve grown</p>
-<p>in stature and intelligence. They have little</p>
-<p>use for survivors, except as food.</p></td>
-</tr>
-<tr>
-<td>9</td>
-<td><p>Psychic lichen (level 4): Psychic lichen</p>
-<p>gently attacks the minds of nearby</p>
-<p>creatures, causing them to grow tired and</p>
-<p>nap if they fail an Intellect defense roll. If</p>
-<p>not awakened, the dozing body serves as</p>
-<p>food for a new psychic lichen colony.</p></td>
-</tr>
-<tr>
-<td>10</td>
-<td><p>Strike from the heavens (level 4): A</p>
-<p>before‑times war satellite becomes active</p>
-<p>and fires a focused microwave beam at</p>
-<p>the PCs in the area, inflicting 4 points of</p>
-<p>damage each round they remain in the area</p>
-<p>without solid cover and fail a Might defense</p>
-<p>roll, or 2 points on a successful roll.</p></td>
-</tr>
-<tr>
-<td>11</td>
-<td><p>Abomination lair: The abomination was</p>
-<p>a person once, or its ancestors were. Not</p>
-<p>anymore.</p></td>
-</tr>
-<tr>
-<td>12</td>
-<td><p>Fiery fissure (level 5): A crack splinters</p>
-<p>the ground along a newly forming fire‑filled</p>
-<p>fissure that stretches a long distance,</p>
-<p>zigging and zagging to catch several more</p>
-<p>targets than it might otherwise. PCs who fail</p>
-<p>a Speed defense roll fall in and are burned</p>
-<p>for 5 points of damage each round until</p>
-<p>they can climb out or be pulled out with a</p>
-<p>successful Might task as an action.</p></td>
-</tr>
-<tr>
-<td>13</td>
-<td><p>Glowing tide (level 5): Veins of</p>
-<p>yellow‑gold light branching across surfaces</p>
-<p>(roads, buildings, and bare earth) indicate</p>
-<p>that nanites are probably active, creating a</p>
-<p>dangerous area of glowing tide.</p></td>
-</tr>
-<tr>
-<td>14</td>
-<td><p>Time anomaly (level 5): The PCs</p>
-<p>encounter a wall of golden light whose</p>
-<p>interior ripples with lightning. It’s a</p>
-<p>time storm, and either it blocks the PCs’</p>
-<p>path, or worse, it’s gradually sweeping</p>
-<p>toward the characters.</p></td>
-</tr>
-<tr>
-<td>15</td>
-<td><p>AI instance, major (level 6): An artificial</p>
-<p>intelligence in a powered facility attempts</p>
-<p>to install itself in the wetware (the brain)</p>
-<p>of humans and any other nearby sapient</p>
-<p>creatures. Anyone within immediate range</p>
-<p>of a video screen playing carefully crafted</p>
-<p>symbols and sounds who fails an Intellect</p>
-<p>defense roll is stunned, losing their next</p>
-<p>turn as they stare in rapt attention. If</p>
-<p>they fail a subsequent defense roll, they</p>
-<p>come under the control of the AI (because</p>
-<p>an instance of the AI is running in their</p>
-<p>head). A target can make a new Intellect</p>
-<p>defense roll each day to try to reject the</p>
-<p>control. A PC under AI control might stand and do nothing, fall mysteriously unconscious, or take an action to advance the AI’s goals.</p></td>
-</tr>
-<tr>
-<td>16</td>
-<td><p>Hungry tide (level 6): A greyish‑green</p>
-<p>mist of nanobots a short distance in</p>
-<p>diameter drifts in the wind, until the</p>
-<p>hungry tide senses living organisms</p>
-<p>and moves a short distance each round</p>
-<p>toward them.</p></td>
-</tr>
-<tr>
-<td>17</td>
-<td><p>Quantum singularity (level 6): Attempts</p>
-<p>to change the past to avert the apocalypse</p>
-<p>have consequences, including these points</p>
-<p>of unstable space‑time. Characters who fail</p>
-<p>an Intellect defense task are teleported a</p>
-<p>short distance in a random direction and</p>
-<p>possibly several hours forward in time.</p></td>
-</tr>
-<tr>
-<td>18-19</td>
-<td>Rampaging wardroid (level 6): Wardroids may be what caused the apocalypse in the first place; whatever the case, one has wandered directly into the PCs’ path.</td>
-</tr>
-<tr>
-<td>20</td>
-<td><p>Mutant bear: The house‑sized</p>
-<p>radioactive bear, whose roar can be heard</p>
-<p>for miles, is something to avoid.</p></td>
-</tr>
+| 1 | Hallucinatory flowers (level 3): The ground floor of the ruin hosts a handful of purplish flowers growing up out of the rubble. A character who gets a puff of the pollen hallucinates their allies are actually cannibals trying to eat the affected character each round until the character succeeds on a Might defense roll.  |
+| 2 | AI instance, minor (level 3): An artificial intelligence in an old facility attempts to install itself in the wetware (the brain) of humans and any other nearby sapient creatures. Anyone within immediate range of a video screen playing carefully crafted symbols and sounds who fails an Intellect defense roll is stunned, losing their next turn as they stare in rapt attention. If they fail a subsequent defense roll, they come under the control of the AI for one minute, or until they succeed on an Intellect defense roll on their turn. A PC under AI control might stand and do nothing, fall mysteriously unconscious, or take an action to advance the AI’s goals.  |
+| 3-4 | Voracious cockroach swarm (level 3): This swarm, easily covering an area a short distance in diameter, doesn’t shrink from the light or from people. Indeed, it seems eerily intelligent, and if threatened, it attacks, inflicting 3 points of damage each round on everything in its area that fails a Speed defense roll, or 1 point on a successful roll.  |
+| 5 | Animate vegetation (level 4): Kudzu got a lot worse in the aftermath. Characters that fail a Speed defense roll take 4 points of damage each round from strangulation and vine constriction until they can escape  |
+| 6 | Ashy tide (level 4): A series of powerful wind gusts in the area kicks up a lot of fine grey ash. Except it’s not ash—it’s a collection of nanobots, each the size of a grain of sand or smaller, called ashy tide.  |
+| 7-8 | Glowing roach infestation: Four to ten glowing roaches the size of dogs have truly come into their own now that they’ve grown in stature and intelligence. They have little use for survivors, except as food.  |
+| 9 | Psychic lichen (level 4): Psychic lichen gently attacks the minds of nearby creatures, causing them to grow tired and nap if they fail an Intellect defense roll. If not awakened, the dozing body serves as food for a new psychic lichen colony.  |
+| 10 | Strike from the heavens (level 4): A before‑times war satellite becomes active and fires a focused microwave beam at the PCs in the area, inflicting 4 points of damage each round they remain in the area without solid cover and fail a Might defense roll, or 2 points on a successful roll.  |
+| 11 | Abomination lair: The abomination was a person once, or its ancestors were. Not anymore.  |
+| 12 | Fiery fissure (level 5): A crack splinters the ground along a newly forming fire‑filled fissure that stretches a long distance, zigging and zagging to catch several more targets than it might otherwise. PCs who fail a Speed defense roll fall in and are burned for 5 points of damage each round until they can climb out or be pulled out with a successful Might task as an action.  |
+| 13 | Glowing tide (level 5): Veins of yellow‑gold light branching across surfaces (roads, buildings, and bare earth) indicate that nanites are probably active, creating a dangerous area of glowing tide.  |
+| 14 | Time anomaly (level 5): The PCs encounter a wall of golden light whose interior ripples with lightning. It’s a time storm, and either it blocks the PCs’ path, or worse, it’s gradually sweeping toward the characters.  |
+| 15 | AI instance, major (level 6): An artificial intelligence in a powered facility attempts to install itself in the wetware (the brain) of humans and any other nearby sapient creatures. Anyone within immediate range of a video screen playing carefully crafted symbols and sounds who fails an Intellect defense roll is stunned, losing their next turn as they stare in rapt attention. If they fail a subsequent defense roll, they come under the control of the AI (because an instance of the AI is running in their head). A target can make a new Intellect defense roll each day to try to reject the control. A PC under AI control might stand and do nothing, fall mysteriously unconscious, or take an action to advance the AI’s goals.  |
+| 16 | Hungry tide (level 6): A greyish‑green mist of nanobots a short distance in diameter drifts in the wind, until the hungry tide senses living organisms and moves a short distance each round toward them.  |
+| 17 | Quantum singularity (level 6): Attempts to change the past to avert the apocalypse have consequences, including these points of unstable space‑time. Characters who fail an Intellect defense task are teleported a short distance in a random direction and possibly several hours forward in time.  |
+| 18-19 | Rampaging wardroid (level 6): Wardroids may be what caused the apocalypse in the first place; whatever the case, one has wandered directly into the PCs’ path. |
+| 20 | Mutant bear: The house‑sized radioactive bear, whose roar can be heard for miles, is something to avoid.  |
 </tbody>
 </table>
 
@@ -4101,19 +3244,9 @@ Horror Mode is unique among the horror modules in that the default assumption is
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>Exploring a large area</td>
-<td>Every time a new intrusion is indicated by a die roll</td>
-</tr>
-<tr>
-<td>Exploring</td>
-<td><p>Every ten minutes</p>
-<p>or every time a new intrusion is indicated by a die roll</p></td>
-</tr>
-<tr>
-<td>Combat</td>
-<td>Each Round</td>
-</tr>
+| Exploring a large area | Every time a new intrusion is indicated by a die roll |
+| Exploring | Every ten minutes or every time a new intrusion is indicated by a die roll  |
+| Combat | Each Round |
 </tbody>
 </table>
 
@@ -4460,49 +3593,16 @@ There are also many artifacts, cyphers, and other objects in the world that will
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>1</td>
-<td>Complete an important task for the one who cursed you.</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Complete an important task for (or make a large payment to) someone who promises to remove your curse.</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Make things right (return the stolen item, apologize, or undo whatever was done to cause the curse to happen in the first place).</td>
-</tr>
-<tr>
-<td>4</td>
-<td><p>Write the name of the curse</p>
-<p>on a scrap of paper, bind it in</p>
-<p>a cloth with an egg, bury it at a crossroads, and never look back.</p></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Pass the curse to someone else (this typically requires learning how the curse was done and then passing it to another person in the same way, but there are also more creative ways to make this happen).</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Collect five birds, five beetles, five cats, five fish, and five young winds.</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Die and return to life, which usually (but not always) takes advantage of a loophole that says death will end a curse.</td>
-</tr>
-<tr>
-<td>8</td>
-<td><p>Take three golden leaves from</p>
-<p>a golden tree to make tea with; drink the tea and read the leaves; then complete the task they suggest.</p></td>
-</tr>
-<tr>
-<td>9</td>
-<td>Kill the one who cast the curse (or otherwise find a way for them to die).</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Find a poem of which there is only one written copy, read it backward each morning for seven mornings in a row, and then burn the item upon which the poem is written.</td>
-</tr>
+| 1 | Complete an important task for the one who cursed you. |
+| 2 | Complete an important task for (or make a large payment to) someone who promises to remove your curse. |
+| 3 | Make things right (return the stolen item, apologize, or undo whatever was done to cause the curse to happen in the first place). |
+| 4 | Write the name of the curse on a scrap of paper, bind it in a cloth with an egg, bury it at a crossroads, and never look back.  |
+| 5 | Pass the curse to someone else (this typically requires learning how the curse was done and then passing it to another person in the same way, but there are also more creative ways to make this happen). |
+| 6 | Collect five birds, five beetles, five cats, five fish, and five young winds. |
+| 7 | Die and return to life, which usually (but not always) takes advantage of a loophole that says death will end a curse. |
+| 8 | Take three golden leaves from a golden tree to make tea with; drink the tea and read the leaves; then complete the task they suggest.  |
+| 9 | Kill the one who cast the curse (or otherwise find a way for them to die). |
+| 10 | Find a poem of which there is only one written copy, read it backward each morning for seven mornings in a row, and then burn the item upon which the poem is written. |
 </tbody>
 </table>
 
@@ -4667,48 +3767,16 @@ Item Intrusions
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>1</td>
-<td>A magical ability, cypher, or artifact does exactly what it’s supposed to, but also creates a weird side effect that affects a nearby friend (or foe).</td>
-</tr>
-<tr>
-<td>2</td>
-<td>A piece of equipment whispers lies into the character’s ear, making a convincing argument that their friends are not loyal.</td>
-</tr>
-<tr>
-<td>3</td>
-<td><p>A magical weapon breaks in</p>
-<p>the middle of combat and starts to cry.</p></td>
-</tr>
-<tr>
-<td>4</td>
-<td>A character’s belt turns into a snake and starts tightening around their middle.</td>
-</tr>
-<tr>
-<td>5</td>
-<td><p>A random object begins to wiggle and crack, as though it’s about</p>
-<p>to hatch.</p></td>
-</tr>
-<tr>
-<td>6</td>
-<td>The character’s weapon or armor begins to yell loudly for help while the PC is trying to sneak or hide.</td>
-</tr>
-<tr>
-<td>7</td>
-<td>A previously opened box, bottle, jar, or other container has locked itself back up, with an important item inside.</td>
-</tr>
-<tr>
-<td>8</td>
-<td>A cypher, artifact, or bit of magic is far more powerful than the characters realized, and affects a much larger area (or has a bigger effect) than they expected it to.</td>
-</tr>
-<tr>
-<td>9</td>
-<td>The glint of a recently acquired object or weapon is so shiny, it attracts the attention of a giant bird, beast, or dragon.</td>
-</tr>
-<tr>
-<td>10</td>
-<td>An item in the character’s hand or bag starts to replicate itself over and over.</td>
-</tr>
+| 1 | A magical ability, cypher, or artifact does exactly what it’s supposed to, but also creates a weird side effect that affects a nearby friend (or foe). |
+| 2 | A piece of equipment whispers lies into the character’s ear, making a convincing argument that their friends are not loyal. |
+| 3 | A magical weapon breaks in the middle of combat and starts to cry.  |
+| 4 | A character’s belt turns into a snake and starts tightening around their middle. |
+| 5 | A random object begins to wiggle and crack, as though it’s about to hatch.  |
+| 6 | The character’s weapon or armor begins to yell loudly for help while the PC is trying to sneak or hide. |
+| 7 | A previously opened box, bottle, jar, or other container has locked itself back up, with an important item inside. |
+| 8 | A cypher, artifact, or bit of magic is far more powerful than the characters realized, and affects a much larger area (or has a bigger effect) than they expected it to. |
+| 9 | The glint of a recently acquired object or weapon is so shiny, it attracts the attention of a giant bird, beast, or dragon. |
+| 10 | An item in the character’s hand or bag starts to replicate itself over and over. |
 </tbody>
 </table>
 
@@ -17993,40 +17061,13 @@ Effect: The poison creates a specific reaction for one hour in a creature who us
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>01-20</td>
-<td>Sleep. The creature falls into a deep, dreamless sleep. While sleeping, the creature cannot take any actions, but is protected by a glass coffin that grants +2 Armor. The creature wakes if they are touched by someone they love or if they take damage.</td>
-</tr>
-<tr>
-<td>21-40</td>
-<td>Disappear. The creature becomes invisible to everyone and everything for a number of rounds equal to the cypher level. During that time, they cannot be heard, felt, or sensed.</td>
-</tr>
-<tr>
-<td>41-60</td>
-<td><p>Alter. The creature becomes physically altered until they</p>
-<p>are unrecognizable, even</p>
-<p>by their loved ones. The alteration also affects their clothing, possessions, and any distinguishing characteristics or mannerisms.</p></td>
-</tr>
-<tr>
-<td>61-75</td>
-<td>Lost. The creature becomes deeply and frighteningly lost, even if they are in familiar surroundings (such as their own bedroom). They do not recognize any landmarks, cannot find their way, and feel a deep sense of panic.</td>
-</tr>
-<tr>
-<td>76-85</td>
-<td><p>Breathless. The creature feels</p>
-<p>like they are unable to breathe, gulping air and short of breath. Although they are not dying, they feel as though they are. All tasks are hindered.</p></td>
-</tr>
-<tr>
-<td>86-95</td>
-<td><p>Compulsion. The creature becomes obsessed with a single task, unable to do anything else until they achieve it. The</p>
-<p>task might be simple (picking</p>
-<p>the most beautiful rose from</p>
-<p>a garden) or complex (knitting seven sweaters from nettles). All actions that don’t contribute to completing the task are hindered.</p></td>
-</tr>
-<tr>
-<td>96-00</td>
-<td>Dutiful. The creature becomes much easier to interact with. All tasks to influence the poisoned creature are eased by two steps.</td>
-</tr>
+| 01-20 | Sleep. The creature falls into a deep, dreamless sleep. While sleeping, the creature cannot take any actions, but is protected by a glass coffin that grants +2 Armor. The creature wakes if they are touched by someone they love or if they take damage. |
+| 21-40 | Disappear. The creature becomes invisible to everyone and everything for a number of rounds equal to the cypher level. During that time, they cannot be heard, felt, or sensed. |
+| 41-60 | Alter. The creature becomes physically altered until they are unrecognizable, even by their loved ones. The alteration also affects their clothing, possessions, and any distinguishing characteristics or mannerisms.  |
+| 61-75 | Lost. The creature becomes deeply and frighteningly lost, even if they are in familiar surroundings (such as their own bedroom). They do not recognize any landmarks, cannot find their way, and feel a deep sense of panic. |
+| 76-85 | Breathless. The creature feels like they are unable to breathe, gulping air and short of breath. Although they are not dying, they feel as though they are. All tasks are hindered.  |
+| 86-95 | Compulsion. The creature becomes obsessed with a single task, unable to do anything else until they achieve it. The task might be simple (picking the most beautiful rose from a garden) or complex (knitting seven sweaters from nettles). All actions that don’t contribute to completing the task are hindered.  |
+| 96-00 | Dutiful. The creature becomes much easier to interact with. All tasks to influence the poisoned creature are eased by two steps. |
 </tbody>
 </table>
 
@@ -18905,20 +17946,9 @@ Depletion: — for the main effect, 1 in 1d10 for the secondary ability (check e
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>1-2</td>
-<td><p>Metal spikes appear along the sleeves,</p>
-<p>shoulders, and back, providing +1 Armor and +1 damage on unarmed attacks for a number of rounds equal to the artifact level.</p></td>
-</tr>
-<tr>
-<td>3-4</td>
-<td>The wings of the creature emerge from the back of the jacket, allowing the wearer to fly for a number of rounds equal to the artifact level.</td>
-</tr>
-<tr>
-<td>5-6</td>
-<td><p>The jacket taunts a foe selected by the wearer within short range for one minute. If the wearer succeeds on an Intellect attack, the foe selectively targets the wearer over other enemies for the duration. The wearer gains an asset on combat tasks, such as attacking and</p>
-<p>defending, for a number of rounds equal to the artifact level.</p></td>
-</tr>
+| 1-2 | Metal spikes appear along the sleeves, shoulders, and back, providing +1 Armor and +1 damage on unarmed attacks for a number of rounds equal to the artifact level.  |
+| 3-4 | The wings of the creature emerge from the back of the jacket, allowing the wearer to fly for a number of rounds equal to the artifact level. |
+| 5-6 | The jacket taunts a foe selected by the wearer within short range for one minute. If the wearer succeeds on an Intellect attack, the foe selectively targets the wearer over other enemies for the duration. The wearer gains an asset on combat tasks, such as attacking and defending, for a number of rounds equal to the artifact level.  |
 </tbody>
 </table>
 
@@ -20054,87 +19084,26 @@ Quirks Table
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>1</td>
-<td>Randomly changes the color of weapons, clothing, and other objects it touches.</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Causes some animals to shy away from it, and others to draw near to it.</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Musical instruments and birdsongs go flat in its presence.</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Gives the wielder an increased sense of smell.</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Draws bees and occasionally drips honey.</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Sometimes catches on fire when used; the blaze doesn’t do damage but it gives off heat and light.</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Produces a rash, tattoo, or other mark on the wielder’s skin.</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Causes the wielder to walk an inch or so above the ground.</td>
-</tr>
-<tr>
-<td>9</td>
-<td><p>Whistles music appropriate</p>
-<p>to what’s going on around it, including a nasal drone when it’s bored.</p></td>
-</tr>
-<tr>
-<td>10</td>
-<td>Sometimes moves of its own accord, but never when anyone’s looking at it.</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Talks constantly about its former owner, who it either loves or hates, depending on the day.</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Gives everyone nearby weird and unnatural dreams.</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Causes the wielder’s hair to grow faster than normal.</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Creates a cloud over itself constantly. Sometimes the cloud rains.</td>
-</tr>
-<tr>
-<td>15</td>
-<td>Draws fey creatures to it, whether it’s being used or not.</td>
-</tr>
-<tr>
-<td>16</td>
-<td>Whines incessantly if it hasn’t been used (or at least given some attention, such as being cleaned) in at least a day.</td>
-</tr>
-<tr>
-<td>17</td>
-<td>Emits various colored swirls and sparkles that form shapes in the air.</td>
-</tr>
-<tr>
-<td>18</td>
-<td>Changes appearance in some small way to match the wielder’s mood.</td>
-</tr>
-<tr>
-<td>19</td>
-<td>Sometimes points the way to something interesting or useful.</td>
-</tr>
-<tr>
-<td>20</td>
-<td>Occasionally changes into a completely different artifact overnight (including form and function); this effect lasts until the artifact is used in its new form, after which point it reverts back (or depletes).</td>
-</tr>
+| 1 | Randomly changes the color of weapons, clothing, and other objects it touches. |
+| 2 | Causes some animals to shy away from it, and others to draw near to it. |
+| 3 | Musical instruments and birdsongs go flat in its presence. |
+| 4 | Gives the wielder an increased sense of smell. |
+| 5 | Draws bees and occasionally drips honey. |
+| 6 | Sometimes catches on fire when used; the blaze doesn’t do damage but it gives off heat and light. |
+| 7 | Produces a rash, tattoo, or other mark on the wielder’s skin. |
+| 8 | Causes the wielder to walk an inch or so above the ground. |
+| 9 | Whistles music appropriate to what’s going on around it, including a nasal drone when it’s bored.  |
+| 10 | Sometimes moves of its own accord, but never when anyone’s looking at it. |
+| 11 | Talks constantly about its former owner, who it either loves or hates, depending on the day. |
+| 12 | Gives everyone nearby weird and unnatural dreams. |
+| 13 | Causes the wielder’s hair to grow faster than normal. |
+| 14 | Creates a cloud over itself constantly. Sometimes the cloud rains. |
+| 15 | Draws fey creatures to it, whether it’s being used or not. |
+| 16 | Whines incessantly if it hasn’t been used (or at least given some attention, such as being cleaned) in at least a day. |
+| 17 | Emits various colored swirls and sparkles that form shapes in the air. |
+| 18 | Changes appearance in some small way to match the wielder’s mood. |
+| 19 | Sometimes points the way to something interesting or useful. |
+| 20 | Occasionally changes into a completely different artifact overnight (including form and function); this effect lasts until the artifact is used in its new form, after which point it reverts back (or depletes). |
 </tbody>
 </table>
 
@@ -20402,31 +19371,12 @@ Depletion: 1 in 1d20
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>1</td>
-<td>Answers a question about the present (such as “Who is the fairest of them all?”) with a simple one- or two-word answer.</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Allows the viewer to check in on someone they know (and who knows them) from anywhere. The image lasts just a moment, and those being viewed are not aware that it has happened.</td>
-</tr>
-<tr>
-<td>3</td>
-<td><p>If the viewer stands before the mirror and shouts their own name three times, they are granted</p>
-<p>a glimpse of their future. This glimpse lasts just a moment, and is not guaranteed to come true.</p></td>
-</tr>
-<tr>
-<td>4</td>
-<td>If the viewer stands before the mirror at midnight while holding a light source, they are able to contact the ghost or spirit of a person or creature they know the name of. Whether or not the being agrees to talk with them is another matter.</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Distorts the appearance of everything it reflects, particularly by magnifying the horrible and ugly aspects of things and people while ignoring their good and beautiful aspects. Looking into the mirror inflicts 2 points of Intellect damage. Angling the mirror to reflect an object inflicts 2 points of damage to it.</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Coats the user’s skin with its reflective surface, offering protection. The first time the user would take damage, the mirror shatters instead, reflecting the damage back to the user’s attacker.</td>
-</tr>
+| 1 | Answers a question about the present (such as “Who is the fairest of them all?”) with a simple one- or two-word answer. |
+| 2 | Allows the viewer to check in on someone they know (and who knows them) from anywhere. The image lasts just a moment, and those being viewed are not aware that it has happened. |
+| 3 | If the viewer stands before the mirror and shouts their own name three times, they are granted a glimpse of their future. This glimpse lasts just a moment, and is not guaranteed to come true.  |
+| 4 | If the viewer stands before the mirror at midnight while holding a light source, they are able to contact the ghost or spirit of a person or creature they know the name of. Whether or not the being agrees to talk with them is another matter. |
+| 5 | Distorts the appearance of everything it reflects, particularly by magnifying the horrible and ugly aspects of things and people while ignoring their good and beautiful aspects. Looking into the mirror inflicts 2 points of Intellect damage. Angling the mirror to reflect an object inflicts 2 points of damage to it. |
+| 6 | Coats the user’s skin with its reflective surface, offering protection. The first time the user would take damage, the mirror shatters instead, reflecting the damage back to the user’s attacker. |
 </tbody>
 </table>
 
