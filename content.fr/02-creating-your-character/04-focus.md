@@ -1951,9 +1951,9 @@ Vous avez pu remarqué que les capacités de haut-rang sont les plus coûteuses.
 
 Une bonne règle approximative est qu'une capacité typique devrait coûter autant de point que son rang.
 
-## Choose GM Intrusions
+## Choisir des intrusions de MJ
 
-Think about the kinds of things that might surprise, alarm, ou go catastrophically wrong for someone with the new focus being created, and assign it as a GM intrusion for that focus. Of course, this often is done on the fly during the game. But giving the topic some thought while the focus is being constructed and the ideas are fresh in your head is likely to yield some particularly devilish options.
+Pensez aux genres de choses qui pourraient surprendre, alarmer, ou tourner à la catastrophe pour quelqu'un avec la Motivation qui vient d'être créée, et assignez les en tant qu'intrusion de MJ pour cette Motivation. En général c'est souvent fait de manière improvisée en cours de partie. Mais en leur accordant un peu de réflexion pendant l'élaboration de la Motivation, quand les idées sont toutes fraîches dans votre tête, cela a de bonnes chances de fournir des options diaboliques.
 
 ## Focus Categories
 
