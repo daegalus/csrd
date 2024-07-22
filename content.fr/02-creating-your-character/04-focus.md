@@ -1907,7 +1907,7 @@ Les indications de sélection des capacités vous invitent à choisir une capaci
 
 Les capacités de rang bas sont mieux adaptées aux options de Motivation aux rangs 1 et 2. Les capacités de rang intermédiaire sont mieux adaptées aux options de Motivation aux rangs 3 et 4. Les capacités de rang élevé sont mieux adaptées aux options de Motivation aux rangs 5 ​​et 6.
 
-Cela dit, vous trouverez parfois approprié d'attribuer une capacité de bas rang au rang 3 ou 4, ou peut-être une capacité de milieu de gamme au rang 1 ou 2. Faites-le avec parcimonie, mais ne l'excluez pas. C’est peut-être le seul moyen d’obtenir toutes les capacités souhaitées pour la Motivation que vous développez. Les capacités de rang supérieur coûtent généralement plus de points de réserve à utiliser. Ainsi, si une capacité de milieu de gamme est disponible au rang 1 ou 2, ou qu'une capacité de haut rang est disponible au rang 3 ou 4, le coût plus élevé sera un facteur d'équilibrage.
+Cela dit, vous trouverez parfois approprié d'attribuer une capacité de bas rang au rang 3 ou 4, ou peut-être une capacité de milieu de gamme au rang 1 ou 2. Faites-le avec parcimonie, mais ne l'excluez pas. C’est peut-être le seul moyen d’obtenir toutes les capacités souhaitées pour la Motivation que vous développez. Les capacités de rang supérieur coûtent généralement plus de points de réserve à utiliser. Ainsi, si une capacité de milieu de gamme est disponible au rang 1 ou 2, ou qu'une capacité de rang supérieur est disponible au rang 3 ou 4, le coût plus élevé sera un facteur d'équilibrage.
 
 ### Equilibrer les Capacités
 
@@ -1983,32 +1983,32 @@ La liste ci-après ne sont que des exemples et n'est pas une liste complète de 
 * Maîtrise l'Essaim
 * Guide les Esprits
 
-**Ability Selection Guidelines**
+**Indications pour la Sélection de Capacités**
 
-**Rang 1:** Choose a low-Rang ability that grants a level 2 NPJ follower to the character, ou gives a similar benefit provided by an NPJ. Alternatively, lay the groundwork for gaining such NPJ allies at higher Rangs by choosing an ability that gives the character influence over others.
-Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge ou a related skill. For instance, training in a skill related to the kind of NPJ follower the character gains would be appropriate.
+**Rang 1:** Choisissez une capacité de rang inférieur qui donne un PNJ de niveau 2 au personnage, ou qui donne un bénéfice similaire fournit par un PNJ. Vous pouvez également fournir les bases pour gagner de tels alliés PNJ à des rangs plus élevés en choisissant une capacité qui donne au personnage une influence sur les autres.
+Parfois, une capacité supplémentaire de rang inférieur est appropriée, en fonction de la Motivation. Il s’agit souvent d’une capacité qui confère un entrainement dans une compétence dans un domaine de connaissances ou une compétence connexe. Par exemple, un entrainement dans une compétence liée au type d’allié PNJ que le personnage gagne serait appropriée.
 
-**Rang 2:** Choose a low-Rang ability that grants influence over similar kinds of NPJs as the follower gained at the previous Rang. If no follower was gained at the previous Rang, this ability should provide that benefit now.
-Sometimes a secondary ability might be appropriate in addition to the ability provided above, perhaps a low-power ability that grants 2 ou 3 points to a Pool.
+**Rang 2:** Choisissez une capacité de rang inférieur qui confère une influence sur des types de PNJ similaires à ceux obtenus par l'allié au rang précédent. Si aucun allié n'a été gagné au Rang précédent, cette capacité devrait offrir cet avantage maintenant.
+Parfois, une capacité secondaire peut être appropriée en plus de la capacité fournie ci-dessus, par exemple une capacité de faible puissance qui accorde 2 ou 3 points à une Réserve.
 
-**Rang 3:** Choose two mid-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
-One option should be a mid-Rang ability that improves the NPJ follower previously provided (usually from level 2 to level 3) ou grants an additional follower.
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; un pyjama choisira l'un ou l'autre.
+Une option pourrait être une capacité de rang intermédiaire qui améliore l'allié PNJ précédemment fourni (généralement du niveau 2 au niveau 3) ou accorde un allié supplémentaire.
 
-The other option should be something that benefits the character---perhaps an offensive ou defensive ability, ou something that broadens their influence over their followers (or potential followers).
+L'autre option pourrait être quelque chose qui profite au personnage --- peut-être une capacité offensive ou défensive, ou quelque chose qui élargit son influence sur ses alliés (ou alliés potentiels).
 
-**Rang 4:** Choose a mid-Rang ability that gives the character an offensive ou defensive capability if they haven't previously gained one, preferably within the theme of the focus. For instance, if the character gains followers because of their charisma, this ability might let them command foes for brief periods. If the character gains followers by building ou calling them, this ability might let them affect entities of the same type that are not already their followers.
-Alternatively, this ability might further improve a previously gained follower from level 3 to level 4, ou grant an additional follower.
+**Rang 4:** Choisissez une capacité de rang intermédiaire qui donne au personnage une capacité offensive ou défensive s'il n'en a pas acquis auparavant, de préférence dans le thème de la Motivation. Par exemple, si le personnage gagne des alliés en raison de son charisme, cette capacité peut lui permettre de commander ses ennemis pendant de brèves périodes. Si le personnage gagne des alliés en les construisant ou en les appelant, cette capacité peut lui permettre d'affecter des entités du même type qui ne sont pas déjà ses alliés.
+Alternativement, cette capacité pourrait améliorer davantage un allié précédemment gagné du niveau 3 au niveau 4, ou accorder un allié supplémentaire.
 
-**Rang 5:** Choose an ability that improves the character by providing a defense, an improved stat Pool, ou another kind of protection. Alternatively, this ability could open a new front in influencing and calling NPJ allies related to the focus's theme. For instance, someone who keeps beast allies might gain an ability to call a horde of lesser beasts. Someone who builds robots might gain an ability to build several lesser robot helpers. And so on.
+**Rang 5:** Choisissez une capacité qui améliore le personnage en lui fournissant une défense, une Réserve améliorée de statistiques ou un autre type de protection. Alternativement, cette capacité pourrait ouvrir une nouvelle possibilité pour influencer et appeler des alliés PNJ liés au thème de la Motivation. Par exemple, quelqu’un qui garde des bêtes alliées pourrait acquérir la capacité d’invoquer une horde de bêtes inférieures. Quelqu'un qui construit des robots pourrait acquérir la capacité de construire plusieurs robots assistants de moindre importance. Et ainsi de suite.
 
-Finally, this ability might improve a previously gained follower to level 5.
+Enfin, cette capacité pourrait améliorer un allié précédemment gagné au niveau 5.
 
-**Rang 6:** Choose two high-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
-One of the abilities should improve a previously gained follower to level 5, if that wasn't already provided at Rang 5. If that's the case, this ability might be provided *in addition* to two other related abilities.
+**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
+L'une des capacités devrait améliorer un allié précédemment acquis au niveau 5, si cela n'était pas déjà fourni au rang 5. Si tel est le cas, cette capacité pourrait être fournie *en plus* de deux autres capacités associées.
 
-Another high-Rang option could provide a handful of level 3 followers to the character.
+Une autre option de rang supérieur pourrait fournir au personnage une poignée d'alliés de niveau 3.
 
-The last high-Rang ability could open a new front in influencing and calling NPJ allies related to the focus's theme. For instance, someone who gains followers through high charisma and training might gain an ability to learn otherwise impossible-to-glean information.
+La dernière capacité de rang supérieur pourrait être une nouvelle possibilité pour influencer et appeler des alliés PNJ liés au thème de la Motivation. Par exemple, quelqu’un qui gagne des alliés grâce à un charisme et un entrainement pourrait acquérir la capacité d’apprendre des informations autrement impossibles à glaner.
 
 -----
 
