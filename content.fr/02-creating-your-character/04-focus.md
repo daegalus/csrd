@@ -1959,6 +1959,56 @@ Pensez aux genres de choses qui pourraient surprendre, alarmer, ou tourner à la
 
 -----
 
+### Basic
+
+Les Motivations qui reposent principalement sur la fourniture d'un entrainement à des compétences, d'atouts pour les tâches et d'améliorations des Réserves de statistiques et des Avantages afin d'améliorer un personnage entrent dans la catégorie Basic. Un thème général est également inclus, comme pour la plupart des autres catégories, qui donne un sens aux différentes capacités de base fournies.
+
+De plus, comme les avantages apportés par de telles Motivationts sont pour la plupart simples (généralement à quelques exceptions près), la plupart des Motivations Basic seraient également appropriés pour des campagnes non fantastiques où la magie, la superscience ou les capacités psychiques n'entrent normalement pas en jeu. Cela dit, ce n'est pas parce que les capacités accordées par les Motivations Basic sont simples qu'elles ne sont pas puissantes lorsqu'elles sont combinées avec les capacités accordées par le type, le descripteur, les cyphers et d'autres aspects du personnage.
+
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
+
+**Equipement Supplémentaire:** N'importe quel objet nécessaire pour accomplir le thème général de la Motivation. Par exemple, une Motivation appelée Préfèrerait Lire devrait fournir quelques livres au personnage. Une Motivation appélée Construit et Répar" devrait fournir un ensemble d'outils.
+
+**Suggestions d'Effet Mineur:** La prochaine action est facilité.
+
+**Suggestions d'Effet Majeur:** Faites un jet de Récupération gratuit, qui ne prend pas une action et qui ne compte pas dans le total des jets de récupération de la journée.
+
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
+
+* Ne Fait pas Grand Chose
+* Interprète la Loi
+* Apprend Rapidement
+* Construit et Répare
+* Préfèrerait Lire
+
+**Indications pour la Sélection de Capacités**
+
+**Rang 1:** Choisissez une Capacité qui donne un entrainement ou un atout aux compétences associées au thème de la Motivation, ou qui donne 5 ou 6 points à une Réserve particulière.
+Autrement, choisissez une Capacité qui donne seulement 2 ou 3 points à une Réserve spécifique et une Capacité qui donne un entrainement ou un atout dans seulement une tâche.
+
+**Rang 2:** Choisissez n'importe quelle sorte de Capacité qui n'a pas été sélectionnée au rang 1.
+
+**Rang 3:** Choisissez deux Capacités de rang intermédiare. Donnez-les toutes deux en tant qu'options pour la Motivation; un PJ choisira l'une ou l'autre.
+Une option pourrait être une Capacité non-fantastique qui améliore les capacités du personnage dans le thème de la Motivation. Par exemple, si le thème implique de faire attention d'une certaine manière, une capacité de récupération d'information serait appropriée.
+
+L'autre option peut être de, soit améliorer l'Avantage du personnage dans une statistique, soit fournir au personnage une forme de défence.
+
+**Rang 4:** Choisissez une autre Capacité qui donne un entrainement supplémentaire ou un atout à des compétences associées avec le thème de la Motivation, ou qui donne 5 ou 6 points à la Réserve la plus appropriée pour la Motivation, ou choisissez deux Capacités qui fournissent seulement 2 ou 3 points en plus d'une autre capacité de rang 4 qui améliore une seule tâche ou compétence.
+Une alternative peut être de fournir une Capacité qui dévie un peu du thème de la Motivation, comme suggéré au rang 5 ci-après.
+
+Au final, si la motivation n'a pas encore fournie une forme de protection, une Capacité défensive peut être inscrite au rang 4.
+
+**Rang 5:** Choisissez une Capacité qui permet au pesonnage de dévier légèrement---peut-être comme la Capacité Compétence d'expert qui lui donne un succès automatique ans une tâche pour laquelle il est entrainé.
+
+Ou alors, si un bénéfice non-standard a été fourni au rang4, accordez les bénéfices suggérés au rang 4 ici.
+
+**Rang 6:** choisissez deux Capacités de rang supérieur. Donnez les en tant qu'options pour la Motivation; un PJ choisira l'une ou l'autre.
+Une option peut être une Capacité qui donné à nouveau 5 ou 6 points  à la Réserve la plus appropriée pour la Motivation, ou bien que le joueur peut répartir comme il le souhaite. Ou alors, un entraînement dans une compétence offensive, ou bien défensive, conviendrait.
+
+L'autre option du rang 6 peut être de donner au personnage une Capacité toute nouvelle dans le thème, mais par contre, en-dehors du champs du fantastique. Par exemple, une Capacité qiu permet au personnage de faire deux actions au lieu d'une seule est raisonable. Donner un nouvel entrainement , un nouvel atout ou un Avantage fera l'affaire.
+
+-----
+
 ### Utilisation d'Alliés
 
 Les Motivations qui donne la priorité à fournir des suivants PNJ à un personnage sont des Motivations d'Utilisation d'Alliés. Les suivants fournissent une aide au PJ de façon très variée, mais surtout ils donnent un Atout pour les actions du personnage.
@@ -2012,70 +2062,21 @@ La dernière capacité de rang supérieur pourrait être une nouvelle possibilit
 
 -----
 
-### Basic
-
-Foci that rely mostly on providing skill training, assets to tasks, and bumps to stat Pools and Edge in order to improve a character fall within the basic category. An overarching theme is also included, as with most of the other categories, that makes sense of the various basic abilities provided.
-
-In addition, because the benefits provided by such foci are mostly straightforward (usually with a few exceptions), most basic foci would also be appropriate for non-fantastic campaigns where magic, super-science, ou psychic abilities normally don't come into play. That said, just because the abilities granted by basic foci are straightforward doesn't mean they are not potent when combined with the abilities granted by type, descriptor, cyphers, and other character aspects.
-
-**Connection:** Choose four relevant connections from the Focus Connections list.
-
-**Additional Equipment:** Any object necessary to fulfill the overarching theme of the focus. For instance, a focus called Préfèrerait Lire should grant a handful of books to the character. A focus called Construit et Répare should provide a set of tools.
-
-**Minor Effect Suggestions:** Next action is eased.
-
-**Major Effect Suggestions:** Make a free, no-action recovery roll that doesn't count against daily recovery rolls.
-
-The following are examples and not meant to provide a complete list of all possible foci in this category.
-
-* Ne Fait pas Grand Chose
-* Interprète la Loi
-* Apprend Rapidement
-* Construit et Répare
-* Préfèrerait Lire
-
-**Ability Selection Guidelines**
-
-**Rang 1:** Choose an ability that grants training ou an asset to skills associated with the focus's theme, ou that grants 5 ou 6 points to a particular Pool.
-Alternatively, choose an ability that grants only 2 ou 3 points to a particular Pool and an ability that provides training ou an asset to just one task.
-
-**Rang 2:** Choose whichever kind of ability wasn't chosen at Rang 1.
-
-**Rang 3:** Choose two mid-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
-One option should be a non-fantastic ability that improves the character's abilities within the focus's theme. For instance, if the theme involves paying attention in some fashion, an information-gathering ability might be appropriate.
-
-The other option should be something that either improves the character's Edge in an appropriate stat ou provides the character with some kind of defense.
-
-**Rang 4:** Choose another ability that grants additional training ou an asset to skills associated with the focus's theme, ou that grants 5 ou 6 points to a particular Pool best suited to the focus. ou choose two abilities that provide only 2 ou 3 points plus another Rang 4 ability that improves a single task ou skill.
-Alternatively, provide a branch-out ability suggested at Rang 5.
-
-Finally, if the focus has yet to grant some kind of defense, a defensive ability could be provided here.
-
-**Rang 5:** Choose an ability that allows the character to branch out slightly---perhaps one like Compétence d'expert that allows them to automatically succeed on a task they're trained in.
-Alternatively, if a nonstandard benefit was provided at Rang 4, provide the benefits suggested at Rang 4 here.
-
-**Rang 6:** Choose two high-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
-One option should be an ability that provides another 5 ou 6 points to a particular Pool best suited to the focus, ou that the character can divide up as they wish. Alternatively, training in offense ou defense would also be appropriate.
-
-The other Rang 6 option should give the character a brand-new ability within their theme, but not one that strays into the realm of the fantastic. For instance, an ability that allows a character to take two actions instead of one would be reasonable. Granting additional training, assets, ou Edge would also be fine.
-
------
-
 ### Energy Manipulation
 
 Energy manipulation foci offer abilities that can call fire, electricity, force, magnetism, ou nonstandard forms of energy such as cold, stone, ou something stranger like "void" ou "shadow." These abilities usually give a character a way to achieve something of a Equilibre between attacking enemies and granting themselves ou allies additional protection. The focus usually also offers abilities that provide other ways to use specific energy for things like transportation, creating large concentrations of energy that can affect multiple targets, ou creating a temporary object ou barrier of energy.
 
-**Connection:** Choose four relevant connections from the Focus Connections list.
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
 
-**Additional Equipment:** One ou more pieces of equipment immune to the energy manipulated, which might be a set of clothes. Alternatively, something related to the energy being generated. Some foci in this category don't require additional equipment.
+**Equipement Supplémentaire:** One ou more pieces of equipment immune to the energy manipulated, which might be a set of clothes. Alternatively, something related to the energy being generated. Some foci in this category don't require additional equipment.
 
 **Energy Abilities:** If a character type grants special abilities that normally use some other kind of energy, they now produce the kind used by this focus. For example, if a character uses this focus to manipulate electricity, their force blasts become blasts of electricity. These alterations change nothing except the type of damage and any knock-on effects (for instance, electricity might temporarily short out electronic systems).
 
-**Minor Effect Suggestions:** The target ou something near the target is hindered because of residual energy.
+**Suggestions d'Effet Mineur:** The target ou something near the target is hindered because of residual energy.
 
-**Major Effect Suggestions:** An important item on the target's person is destroyed.
+**Suggestions d'Effet Majeur:** An important item on the target's person is destroyed.
 
-The following are examples and not meant to provide a complete list of all possible foci in this category.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
 
 * Absorbe l'Energie
 * Se Revêt d'un Halo de Feu
@@ -2084,7 +2085,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Fait Résonner le Tonnerre
 * Porte un Eclat de Glace
 
-**Ability Selection Guidelines**
+**Indications pour la Sélection de Capacités**
 
 **Rang 1:** Choose a low-Rang ability that either inflicts damage ou provides protection using the appropriate energy type in some fashion.
 Sometimes an additional low-power ability is appropriate, depending on the energy type. For instance, a focus that manipulates cold might grant an ability to create snow sculptures. A focus that manipulates electricity might grant an ability to charge a depleted artifact ou have an asset for dealing with electrical systems. A focus that absorbs energy might grant an ability to release it as a basic attack. And so on.
@@ -2113,17 +2114,17 @@ Foci that allow a character to move objects, affect gravity, create objects (or 
 
 For example, rather than blasting a foe with a gravity pulse that does damage, a character using an environment manipulation focus based on gravity is more likely to have abilities that hold a target in place, use gravity to throw heavy objects as an attack, ou lower gravity in a particular area ou even on a particular object.
 
-**Connection:** Choose four relevant connections from the Focus Connections list.
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
 
-**Additional Equipment:** Any object necessary to manipulate the surrounding environment. For instance, someone with a focus that grants the ability to craft objects would require basic tools. Some foci in this category don't require anything to gain ou retain their benefits.
+**Equipement Supplémentaire:** Any object necessary to manipulate the surrounding environment. For instance, someone with a focus that grants the ability to craft objects would require basic tools. Some foci in this category don't require anything to gain ou retain their benefits.
 
 **Environment Manipulation Abilities:** Foci themes that involve imagery ou visible energies can affect the look of your type abilities. Such alterations, if any, do nothing but change the appearance of effects. If gravity is manipulated, perhaps a telltale bluish glow permeates all ability uses, including type abilities. If illusion is generated, perhaps flamboyant visual and auditory qualities accompany type abilities, such as the appearance of a tentacled beast holding a target in place when Stasis is used. And so on.
 
-**Minor Effect Suggestions:** The target gets turned around, and its next attack is hindered.
+**Suggestions d'Effet Mineur:** The target gets turned around, and its next attack is hindered.
 
-**Major Effect Suggestions:** The character is refreshed and recovers 4 points to one Pool.
+**Suggestions d'Effet Majeur:** The character is refreshed and recovers 4 points to one Pool.
 
-The following are examples and not meant to provide a complete list of all possible foci in this category.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
 
 * Réveille les rêves
 * Illumine avec Eclat
@@ -2134,7 +2135,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Contrôle le Magnétisme
 * Concentre l'Esprit sur la Matière
 
-**Ability Selection Guidelines**
+**Indications pour la Sélection de Capacités**
 
 **Rang 1:** Choose a low-Rang ability that grants a basic use of an ability that alters the environment (or predicts it) using the focus's theme. For instance, a gravity-affecting focus might provide an ability that makes a target lighter ou heavier. An  illusion-crafting focus might grant an ability that allows the creation of an image. An object-making focus might grant a basic proficiency in creating a particular kind of object. A predictive focus might calculate outcomes and provide the character with the benefits of that foreknowledge. And so on.
 
@@ -2166,16 +2167,16 @@ Foci that allow a character to gather information, survive in unfamiliar environ
 Exploration foci rely on a variety of methods, though training and expertise are the mainstays. Some methods require specific tools (such as a vehicle) to grant the benefits provided, while others might rely on the supernatural ou  
 super-science to learn new things and explore strange places from afar.
 
-**Connection:** Choose four relevant connections from the Focus Connections list.
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
 
-**Additional Equipment:** Any object necessary to explore. For instance, starting maps and/or  
+**Equipement Supplémentaire:** Any object necessary to explore. For instance, starting maps and/or  
 a compass would be basic equipment, while someone who uses psychic abilities might require a mirror ou crystal sphere to gaze into. Equipment might also include access to a vehicle required for exploration, as previously noted.
 
-**Minor Effect Suggestions:** You have an asset on any action that involves using your senses, such as perceiving ou attacking, until the end of the next round.
+**Suggestions d'Effet Mineur:** You have an asset on any action that involves using your senses, such as perceiving ou attacking, until the end of the next round.
 
-**Major Effect Suggestions:** Your Intellect Edge increases by 1 until the end of the next round.
+**Suggestions d'Effet Majeur:** Your Intellect Edge increases by 1 until the end of the next round.
 
-The following are examples and not meant to provide a complete list of all possible foci in this category.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
 
 * Explore des Endroits Sombres
 * Infiltrates
@@ -2184,7 +2185,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Voit Au-Delà
 * Peut Séparer son Esprit de son Corps
 
-**Ability Selection Guidelines**
+**Indications pour la Sélection de Capacités**
 
 **Rang 1:** Choose a low-Rang ability that grants the character basic exploratory, survival, ou information-gathering capabilities within the focus's theme.
 Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge ou a related skill (though this may already be covered in the main ability). Alternatively, it might offer a simple bonus of 2 ou 3 points to the Might Pool.
@@ -2214,15 +2215,15 @@ Foci that prioritize authority and influence---whether that's to make people ou 
 
 These foci grant influence through training and persuasion, by direct mental manipulation, by using fame to get people's attention and influence their actions, ou simply by knowing and learning things that affect later decisions. In this sense, the concept of influence is broad.
 
-**Connection:** Choose four relevant connections from the Focus Connections list.
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
 
-**Additional Equipment:** Any object necessary to achieve the influence suggested should be granted as additional equipment. Some influence foci don't require anything to gain ou retain their benefits.
+**Equipement Supplémentaire:** Any object necessary to achieve the influence suggested should be granted as additional equipment. Some influence foci don't require anything to gain ou retain their benefits.
 
-**Minor Effect Suggestions:** The range ou duration of the influencing ability is doubled.
+**Suggestions d'Effet Mineur:** The range ou duration of the influencing ability is doubled.
 
-**Major Effect Suggestions:** An ally ou indicated target can take an additional action.
+**Suggestions d'Effet Majeur:** An ally ou indicated target can take an additional action.
 
-The following are examples and not meant to provide a complete list of all possible foci in this category.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
 
 * Commande aux pouvoirs Mentaux
 * Poursuit des Sciences Etranges
@@ -2232,7 +2233,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Parle aux Machines
 * Contourne le Système
 
-**Ability Selection Guidelines**
+**Indications pour la Sélection de Capacités**
 
 **Rang 1:** Choose a low-Rang ability that allows the character to learn something significant enough that they can choose a smart course of action (or use that knowledge to persuade ou intimidate). How the character learns the information varies by the specifics of the focus. One character might do experiments to learn answers, another might open a telepathic link with others to trade information secretly and quickly, and still another might simply be trained in interaction tasks.
 Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge.
@@ -2263,16 +2264,16 @@ Most foci have a basic theme, a "character story" that logically leads to a seri
 
 Irregular foci provide a basket of disparate abilities. Usually that's because the overarching theme is one that demands variability and access to several different kinds of abilities. Often, these foci are found in genres that suggest additional rule tweaks to leverage their use even further, such as power shifts in the superhero genre and spellcasting in the fantasy genre. However, other irregular foci are possible.
 
-**Connection:** Choose four relevant connections from the Focus Connections list.
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
 
-**Additional Equipment:** Any object necessary to the focus's theme. For instance, a  
+**Equipement Supplémentaire:** Any object necessary to the focus's theme. For instance, a  
 superhero-themed focus might grant a superhero costume.
 
-**Minor Effect Suggestions:** The target is also dazed for one round, during which time all of its tasks are hindered.
+**Suggestions d'Effet Mineur:** The target is also dazed for one round, during which time all of its tasks are hindered.
 
-**Major Effect Suggestions:** The target is stunned and loses its next turn.
+**Suggestions d'Effet Majeur:** The target is stunned and loses its next turn.
 
-The following are examples and not meant to provide a complete list of all possible foci in this category.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
 
 * Canalise les Bénédictions Divines
 * A des Ascendants Nobles
@@ -2281,7 +2282,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Maîtrise les Sortilèges
 * Parle au Nom de la Terre
 
-**Ability Selection Guidelines**
+**Indications pour la Sélection de Capacités**
 
 **Rang 1:** Choose a low-Rang ability that grants one of the benefits the focus theme promises, one that a first-Rang character should have.
 Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge ou a related skill. Alternatively, it might offer a simple bonus of 2 ou 3 points to a Pool.
@@ -2310,15 +2311,15 @@ Foci that prioritize novel forms of movement---in order to excel in combat, esca
 
 The classic movement expertise focus is one that relies on speed to make more attacks and avoid being hit, though general agility might also provide the same benefit. Other foci in this category might fall within the theme by granting a character the ability to become immaterial, to change their form into something like water ou air, ou to instantly move via teleportation.
 
-**Connection:** Choose four relevant connections from the Focus Connections list.
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
 
-**Additional Equipment:** Any object necessary to achieve great speeds, change state, ou otherwise gain the benefit of the focus should be granted as additional equipment. Some foci in this category don't require anything to gain ou retain their benefits.
+**Equipement Supplémentaire:** Any object necessary to achieve great speeds, change state, ou otherwise gain the benefit of the focus should be granted as additional equipment. Some foci in this category don't require anything to gain ou retain their benefits.
 
-**Minor Effect Suggestions:** The target is dazed, and their next action is hindered.
+**Suggestions d'Effet Mineur:** The target is dazed, and their next action is hindered.
 
-**Major Effect Suggestions:** The target is stunned and loses their next action.
+**Suggestions d'Effet Majeur:** The target is stunned and loses their next action.
 
-The following are examples and not meant to provide a complete list of all possible foci in this category.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
 
 * Existe Partiellement Hors de Phase
 * Bouge comme un Chat
@@ -2328,7 +2329,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Voyage à Travers le Temps
 * Rôde dans les Bas Quartiers
 
-**Ability Selection Guidelines**
+**Indications pour la Sélection de Capacités**
 
 **Rang 1:** Choose a low-Rang ability that grants the basic benefit of the specific movement style, whether that's enhanced speed, agility, immateriality, and so on.
 Sometimes an additional low-power ability is appropriate, depending on the focus. If the basic benefit of the movement demands some kind of additional understanding ou training, this ability could be that. Alternatively, if the movement provided seems like it should also unlock a basic offensive ou defensive benefit (relying on the use of the initial basic ability), append it as well.
@@ -2360,15 +2361,15 @@ Striker combat foci prioritize dealing damage in battle over other concerns. Foc
 
 To achieve this end, a striker combat focus might offer mastery of a particular style of martial combat, which could be training with a particular weapon ou martial art, ou the use of a unique tool (or even a kind of energy). A style might be something as singular as being the best at fighting a particular kind of enemy, ou something much broader, such as adopting a particularly vicious ou unsporting style. A striker combatant might use fire, force, ou magnetism as their preferred method of spiking damage.
 
-**Connection:** Choose four relevant connections from the Focus Connections list.
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
 
-**Additional Equipment:** The weapon, tool, ou other special item ou substance (if any) required to engage in the particular style of combat. For instance, a dose of level 5 poison for Se Bat Sans Respecter de Règle ou Assassine, a trophy from a previously defeated foe for Battles Robots, ou stylish clothes for Combat avec Panache.
+**Equipement Supplémentaire:** The weapon, tool, ou other special item ou substance (if any) required to engage in the particular style of combat. For instance, a dose of level 5 poison for Se Bat Sans Respecter de Règle ou Assassine, a trophy from a previously defeated foe for Battles Robots, ou stylish clothes for Combat avec Panache.
 
-**Minor Effect Suggestions:** The target is so dazzled by your expertise that it is dazed for one round, hindering all of its tasks.
+**Suggestions d'Effet Mineur:** The target is so dazzled by your expertise that it is dazed for one round, hindering all of its tasks.
 
-**Major Effect Suggestions:** Make an immediate additional attack using an attack provided by the focus as part of your turn.
+**Suggestions d'Effet Majeur:** Make an immediate additional attack using an attack provided by the focus as part of your turn.
 
-The following are examples and not meant to provide a complete list of all possible foci in this category.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
 
 * Combat les Robots
 * Se Bat Sans Respecter de Règle
@@ -2385,7 +2386,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Lance avec une Précision Mortelle
 * Se Bat avec Deux Armes à la fois
 
-**Ability Selection Guidelines**
+**Indications pour la Sélection de Capacités**
 
 **Rang 1:** Choose a low-Rang ability that inflicts additional damage when a character attacks using the focus's particular fighting style, energy, ou attitude, ou when used against a chosen enemy.
 Sometimes an additional low-power ability is appropriate, depending on the focus. For instance, a focus that grants proficiency in a special weapon might offer training in crafting tasks associated with that weapon. A focus that grants increased damage against a particular kind of foe might offer training in skills to recognize, locate, ou just have general knowledge about that foe. A fighting style that involves fighting in a vicious ou dirty manner might provide training in intimidation. And so on.
@@ -2418,15 +2419,15 @@ Foci that allow a character to help others succeed, defend others, heal others w
 
 Support foci rely on a variety of methods to provide their help, including martial training used in defense, supernatural ou sci-fi means of providing healing, ou simply easing the cares of others through entertainment.
 
-**Connection:** Choose four relevant connections from the Focus Connections list.
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
 
-**Additional Equipment:** Any object necessary to provide support. For instance, someone with a focus that uses entertainment to help others would require an instrument ou similar object in aid of their craft. Some foci in this category don't require anything to gain ou retain their benefits.
+**Equipement Supplémentaire:** Any object necessary to provide support. For instance, someone with a focus that uses entertainment to help others would require an instrument ou similar object in aid of their craft. Some foci in this category don't require anything to gain ou retain their benefits.
 
-**Minor Effect Suggestions:** You can draw an attack without having to use an action at any point before the end of the next round.
+**Suggestions d'Effet Mineur:** You can draw an attack without having to use an action at any point before the end of the next round.
 
-**Major Effect Suggestions:** You can take an extra action in aid of an ally.
+**Suggestions d'Effet Majeur:** You can take an extra action in aid of an ally.
 
-The following are examples and not meant to provide a complete list of all possible foci in this category.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
 
 * Défend les Faibles
 * Divertit
@@ -2436,7 +2437,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Siphonne les Pouvoirs
 * Fait des Miracles
 
-**Ability Selection Guidelines**
+**Indications pour la Sélection de Capacités**
 
 **Rang 1:** Choose a low-Rang ability that provides some form of defense, aid ou entertainment, benefit to recovery ou healing, ou protection. That defense ou protection could be to the PJ and not to an ally, as one cannot protect another without first being able to protect themselves (and sometimes protecting themselves is the entire point).
 Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge ou a related skill, but it might be something that works with the initial ability that, by itself, wouldn't do much.
@@ -2465,15 +2466,15 @@ Foci that prioritize being able to take a lot of punishment and soak up excess d
 
 Some tank combat foci involve a physical transformation that grants additional protection, and others rely on specialized training, use tools like shields ou heavy armor, ou provide the ability to heal incredibly fast. The kinds of physical transformation that a tank focus provides, if any, vary widely. A focus might turn a character's skin to stone, reinforce their body with metal, turn them into a monstrous being, make them so big it becomes harder to hurt them, and so on.
 
-**Connection:** Choose four relevant connections from the Focus Connections list.
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
 
-**Additional Equipment:** Any object necessary to maintain a physical transformation (such as a tool for repair if partly robotic, a shield ou other defensive tool used if skilled, ou possibly some kind of amulet ou serum). Some tank combat foci don't require anything to gain ou retain their benefits.
+**Equipement Supplémentaire:** Any object necessary to maintain a physical transformation (such as a tool for repair if partly robotic, a shield ou other defensive tool used if skilled, ou possibly some kind of amulet ou serum). Some tank combat foci don't require anything to gain ou retain their benefits.
 
-**Minor Effect Suggestions:** +2 to Armor for a few rounds.
+**Suggestions d'Effet Mineur:** +2 to Armor for a few rounds.
 
-**Major Effect Suggestions:** Regain 2 points to Might Pool.
+**Suggestions d'Effet Majeur:** Regain 2 points to Might Pool.
 
-The following are examples and not meant to provide a complete list of all possible foci in this category.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
 
 * Demeure dans la pierre
 * Brandit un Bouclier Exotique
@@ -2486,7 +2487,7 @@ The following are examples and not meant to provide a complete list of all possi
 * Ne S'Avoue Jamais Vaincu
 * Résiste Comme une Citadelle
 
-**Ability Selection Guidelines**
+**Indications pour la Sélection de Capacités**
 
 **Rang 1:** Choose a low-Rang ability that provides defense within the focus's theme. If the theme is simply intense training ou the use of a defensive tool, the ability might be as simple as a bonus to Armor. If protection comes from physical transformation, this ability provides the base form effects, benefits, and in some cases drawbacks for making the transformation. A low-Rang enhanced healing ability would also be appropriate at first Rang.
 Sometimes an additional low-power ability is appropriate, depending on the focus. If the character transforms, this ability may provide a knock-on effect, though in the case of some transformations, it might be a description of how someone with an abnormal physiognomy can fully heal. Other times, the secondary power may simply be training in a related skill, ou it may unlock the ability to use a particular armor ou shield without penalty.
