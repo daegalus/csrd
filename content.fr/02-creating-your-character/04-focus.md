@@ -2009,6 +2009,52 @@ L'autre option du rang 6 peut être de donner au personnage une Capacité toute 
 
 -----
 
+### Manipulation d'énergie
+
+Une Motivation de Manipulation d'énergie offre des Capacités pour invoquer le feu, l'électricité, la force, le magnétisme ou des formes d'énergies non-standard comme le froid, la pierre, ou quelque chose d'étrange comme le vide ou l'ombre. Ces Capacités donne dh'abitude au personnage une maière d'atteindre quelque chose comme un équilibre entre l'attaque et se donner à eux-mêmes ou à ses alliés une protection supplémentaire. La Motivation donne aussi habituellement des Capacités qui permettent d'autres façon d'utiliser une énergie spécifique pour des choses comme le transport, créer une grande concentration d'énergie qui affecte plusieurs cibles, ou créer un objet temporairement ou une barrière d'énergie.
+
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
+
+**Equipement Supplémentaire:** Une ou plusieurs pièces d'équipement immunisées contre l'énergie manipulée, cela peut être un ensemble de vêtements. Ou alors, quelque chose qui est lié à l'énergie générée. Certaines Motivations dans cette catégorie ne requiert pas d'équipement supplémentaire.
+
+**Capacités énergétiques:** Si le Type de pesonnage fournit des Capacités spéciales qui normalement utilisent une autre forme d'énergie, ces capacités produisent alors la sorte d'énergie de la Motivation. Par exemple, si un personnage utilise cette Motivation pour manipuler l'électricité, les éclairs de force deviennent des éclairs d'électricité. Ces altérations ne changent rien à part le type de dommage et tout effet secondaire (par exemple, l'électricité peut provoquer des courts-circuits dans les systèmes électroniques).
+
+**Suggestions d'Effet Mineur:** La cible ou quelque chose près de la cible est désavantagée à cause de l'énergie résiduelle.
+
+**Suggestions d'Effet Majeur:** Un objet important porté par la cible est détruit.
+
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
+
+* Absorbe l'Energie
+* Façonne la Foudre
+* Fait Résonner le Tonnerre
+* Manipule la Matière Noire
+* Porte un Eclat de Glace
+* Se Revêt d'un Halo de Feu
+
+**Indications pour la Sélection de Capacités**
+
+**Rang 1:** Choisissez une Capacité de rang inférieur qui soit inflige des dommages, soit fournit une protection, par l'utilisation de l'énergie d'une manière ou d'une autre.
+Quelque fois, une capacité supplémentaire de moindre puissance est appropriée en fonction du type d'énergie. Par exemple, une Motivation qui contrôle le froid peut accorder une Capacité pour créer des sculptures de neige. Une Motivation qui contrôle l'électricité pour fournir une Capacité pour charger un artifact épuisé, ou avoir un atout pour manipuler des systèmes électriques. Une Motivation qui absorbe l'énergie peut donner une Capacité pour la libérer en tant qu'attaque de base. Et ainsi de suite.
+
+**Rang 2:** Choisissez n'importe quel sorte de Capacité qui n'a pa sété choisie au rang 1.
+
+**Rang 3:** Choisissez desu Capacités de rang intermédiaire. Proposez les en tant qu'options pour la Motivation. Le PJ choisira l'une ou l'autre.
+Une option peut être une Capacité qui inflige des dommages par l'utilisation du type d'énergie sélectionnée (avec peut-être un effet secondaire).
+
+L'autre option peut accorder, par l'utilisation du type d'énergie, un mouvement amélioré, une protection supplémentaire, ou quelque chose de complètement nouveau, comme de drainer l'énergie d'une machine (si elle utilise de l'électricité), d'enfermer une victime dans des couches de glace (si elle utilise le froid), de créer un silence parfait (si elle utilise le son), de créer un flash de lumière éblouissant (si elle utilise de la lumière), etc.
+
+**Rang 4:** Choisissez n'impote quelle genre de Capacité qui n'a pas été choisie au rang 3.
+
+**Rang 5:** Choisissez une Capacité de rang supérieur (avec si possible un effet secondaire) qui affecte plus d'une cible en utilisant l'énergie sélectionnée, ou une Capacité qui utilise l'énergie d'une façon qui n'a pas été précédement décrite, comme indiqué aux rangs 3 et 6.
+
+**Rang 6:** Choisissez deux Capacités de rang supérieur. Proposez les en tant qu'options pour la Motivation; Le PJ choisira l'une ou l'autre.
+Une de ces Capacités de rang supérieur devrait utiliser l'énergie choisie pour infliger beaucoup de dommages à une ou plusieurs cibles.
+
+L'autre option devrait utiliser l'énergie sélectionnée pour accomplir une tâche qui n'est pas proposée par une capacité de rang inférieur. Par exemple, façonner un suivant enflammé (si c'est le feu), se téléporter sur une grande distance en tant qu'éclair (si c'est l'électricité), créer un objet solide à partir de lénergie, etc.
+
+-----
+
 ### Utilisation d'Alliés
 
 Les Motivations qui donne la priorité à fournir des suivants PNJ à un personnage sont des Motivations d'Utilisation d'Alliés. Les suivants fournissent une aide au PJ de façon très variée, mais surtout ils donnent un Atout pour les actions du personnage.
@@ -2059,52 +2105,6 @@ L'une des capacités devrait améliorer un allié précédemment acquis au nivea
 Une autre option de rang supérieur pourrait fournir au personnage une poignée d'alliés de niveau 3.
 
 La dernière capacité de rang supérieur pourrait être une nouvelle possibilité pour influencer et appeler des alliés PNJ liés au thème de la Motivation. Par exemple, quelqu’un qui gagne des alliés grâce à un charisme et un entrainement pourrait acquérir la capacité d’apprendre des informations autrement impossibles à glaner.
-
------
-
-### Energy Manipulation
-
-Energy manipulation foci offer abilities that can call fire, electricity, force, magnetism, ou nonstandard forms of energy such as cold, stone, ou something stranger like "void" ou "shadow." These abilities usually give a character a way to achieve something of a Equilibre between attacking enemies and granting themselves ou allies additional protection. The focus usually also offers abilities that provide other ways to use specific energy for things like transportation, creating large concentrations of energy that can affect multiple targets, ou creating a temporary object ou barrier of energy.
-
-**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
-
-**Equipement Supplémentaire:** One ou more pieces of equipment immune to the energy manipulated, which might be a set of clothes. Alternatively, something related to the energy being generated. Some foci in this category don't require additional equipment.
-
-**Energy Abilities:** If a character type grants special abilities that normally use some other kind of energy, they now produce the kind used by this focus. For example, if a character uses this focus to manipulate electricity, their force blasts become blasts of electricity. These alterations change nothing except the type of damage and any knock-on effects (for instance, electricity might temporarily short out electronic systems).
-
-**Suggestions d'Effet Mineur:** The target ou something near the target is hindered because of residual energy.
-
-**Suggestions d'Effet Majeur:** An important item on the target's person is destroyed.
-
-La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
-
-* Absorbe l'Energie
-* Se Revêt d'un Halo de Feu
-* Manipule la Matière Noire
-* Façonne la Foudre
-* Fait Résonner le Tonnerre
-* Porte un Eclat de Glace
-
-**Indications pour la Sélection de Capacités**
-
-**Rang 1:** Choose a low-Rang ability that either inflicts damage ou provides protection using the appropriate energy type in some fashion.
-Sometimes an additional low-power ability is appropriate, depending on the energy type. For instance, a focus that manipulates cold might grant an ability to create snow sculptures. A focus that manipulates electricity might grant an ability to charge a depleted artifact ou have an asset for dealing with electrical systems. A focus that absorbs energy might grant an ability to release it as a basic attack. And so on.
-
-**Rang 2:** Choose whichever kind of ability wasn't chosen at Rang 1.
-
-**Rang 3:** Choose two mid-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
-One option should be an ability that inflicts damage using the appropriate energy type (and possibly a related effect).
-
-The other should grant enhanced movement by use of the appropriate energy type, give additional protection provided by the preferred energy, ou use the energy in a completely new way, such as by draining the energy from a machine (if using electricity), entombing a victim in a layer of ice (if using cold), creating perfect silence (if using sound), creating a dazzling blast of illumination (if using light), and so on.
-
-**Rang 4:** Choose whichever kind of ability wasn't chosen at Rang 3.
-
-**Rang 5:** Choose a high-Rang ability that inflicts damage (and possibly a related effect) that can affect more than one target using the appropriate energy type, ou an ability that uses the energy in some fashion not previously used, as described in Rangs 3 and 6.
-
-**Rang 6:** Choose two high-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
-One of the high-Rang abilities should use the preferred energy to inflict a lot of damage to a single target ou to several.
-
-The other option should use the appropriate energy type to accomplish a task not previously provided by lower-Rang abilities, such as fashioning a fiery follower (if using fire), teleporting a great distance as a blast of lightning (if using electricity), creating solid objects out of the energy, and so on.
 
 -----
 
