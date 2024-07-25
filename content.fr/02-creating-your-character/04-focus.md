@@ -2055,6 +2055,58 @@ L'autre option devrait utiliser l'énergie sélectionnée pour accomplir une tâ
 
 -----
 
+### Manipulation de l'environnement
+
+Les Motivations qui permettent à un personnage de déplacer des objets, d'affecter la gravité, de créer des objets (ou des illusions d'objets), et ainsi de suite, sont des Motivations de Manipulation de l'environnement. Ceci dit, dans beaucoup de cas, comme de l'énergie est utilisée pour toutes ces actions, les catégories de l'énergie et de l'environnement se recoupent par endroit. Une Motivation de Manipulation de l'environnement donne la priorité aux Capacités qui affectent indirectement les adversaires et les alliés au travers d'objets, de forces et de modification de l'environnement; une Motivation de Manipulation de l'énergie  donne la priorité à provoquer des dommages directement sur les cibles avec l'énergie ou la force choisie.
+
+Par exemple, plutôt que de foudroyer un adversaire avec une pulsation de gravité qui fait des dommages, un personnag, utilisant une Motivation de Manipulation de l'environnement basée sur la gravité, a plus de chance d'avoir des Capacités qui maintiennent la cible sur place, ou qui utilisent la gravité pour lancer des objets lourds pour attaquer, ou qui diminuent la gravité dans une zone définie ou sur un objet particulier.
+
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
+
+**Equipement Supplémentaire:** Tout objet nécessaire pour manipuler l'environnement autour du personnage. Par exemple, une personne avec une Motivation qui donne une Capacité de fabrication d'objets pourrait nécessiter des outils. Certaines Motivations dans cette catégorie ne nécessitent rien de particulier pour acquérir ou conserver leurs bénéfices.
+
+**Capacités de Manipulation de l'environnement:** Les thèmes des Motivations qui implique des énergies visibles ou non peuvent avoir un impact sur l'apparence des Capacités de votre type. De telles changements, s'il y en a, ne font rien d'autre que changer l'apparence des effets. Si la gravité est manipulée, peut-être qu'une pâle lueur bleutée apparait à chaque utilisation des Capacités, même les Capacités du Type. Si une illusion est générée, peut-être que des effets visuels et auditifs impressionants accompagnent ce genre de Capacités, comme l'apparence d'un tentacule bestial qui enserre la cible quand la Capacité Stase est utilisée.
+
+**Suggestions d'Effet Mineur:** La cible pivote et sa prochaine attaque est atténuée.
+
+**Suggestions d'Effet Majeur:** Le personnage est régénéré et récupère 4 points dans une Réserve.
+
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
+
+* Calcule l'Incalculable
+* Concentre l'Esprit sur la Matière
+* Contrôle la Gravité
+* Contrôle le Magnétisme
+* Façonne des Illusions
+* Façonne des Objets Uniques
+* Illumine avec Eclat
+* Réveille les rêves
+
+**Indications pour la Sélection de Capacités**
+
+**Rang 1:** Choisissez une Capacité de rang inférieur qui confère une utilisation de base d'une Capacité qui modifie l'environnement en utilisant le thème de la Motivation. Par exemple, une Motivation qui affecte la gravité peut fournir une Capacité qui peut rendre une cible plus légère ou plus lourde. Une Motivation de création d'illusion peut fournir une Capacité qui permet la création d'une image. Une Motivation de fabrication d'objet peut fournir une compétence de base pour la création d'un type particulier d'objet. Une Motivation de prédiction, peut calculer des probabilités de résultats et fournir au personnage des bénéfices liés à ces informations.
+
+Quelque fois, une Capacité supplémentaire de faible puissance, dépendant de la Motivation. Souvent, c'est une Capacité qui donne un entrainement dans une compétence dans une catégorie de connaisance.
+
+**Rang 2:** Choisissez une Capacité de rang inférieur qui confère un moyen offensif ou défensif lié au thème de la Motivation.
+Ou alors, cette Capacité peut fournir un moyen supplémentaire ou tout nouveau pour manipuler l'environnement lié au thème de la Motivation.
+
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
+Une des options devrait être une Capacité de rang intermédiaire lié au thème de la Motivation qui fournit une Capacité de manipulation de l'environnement supplémentaire, ou qui améliore une Capacité de manipulation de l'environnement qui a été choisie précédemment. Cette Capacité n'est pas directement offensive ou défensive, mais fournit soit une toute nouvelle Capacité liée à la Capacité de base, soit une Capacité qui augmente la puissance, la portée, ou une autre extension d'une Capacité précédemment choisie.
+
+L'autre option de rang intermédiaire devrait fournir une Capacité offensive ou défensive liée à la forme spécifique du mouvement que la Motivation permet.
+
+**Rang 4:** Choisissez une Capacité de rang intermédiaire dont l'usage est soit offensive soit défensive, dans tous les cas il ne faut pas que ce soit une option déjà proposée à un rang précédent.
+
+**Rang 5:** Choisissez une Capacité de rang supérieur de manipulation de l'environnement. Par exemple, si la Motivation de manipulation est sur l'illusion, cette Capacité pourrait hanter une cible avec des images terrifiantes. Si la Motivation est basée sur la gravité, elle pourrait débloquer le vol. Si c'est magnétique, la Capacité peut permettre au personnage de changer la forme du métal. Si ce sont des pouvoirs télékinétiques, la Capacité pourrait autoriser le personnage à balancer des objets volumineux sur des cibles.
+
+**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
+Une des Capacités devrait fournir un moyen soit offensif, soit défensif, à l'opposé de la Capacité proposée au rang 4 (bien que que de rang supérieur).
+
+L'autre option devrait être quelqu chose qui explorer un peu plus loin l'usage de la manipulation de l'environnement. Cette Capacité devrait être plus puissante que celle de rang 5, ou une autre façon d'utiliser cette Capacité pour débloquer une facette non encore explorée.
+
+-----
+
 ### Utilisation d'Alliés
 
 Les Motivations qui donne la priorité à fournir des suivants PNJ à un personnage sont des Motivations d'Utilisation d'Alliés. Les suivants fournissent une aide au PJ de façon très variée, mais surtout ils donnent un Atout pour les actions du personnage.
@@ -2087,7 +2139,7 @@ Parfois, une capacité supplémentaire de rang inférieur est appropriée, en fo
 **Rang 2:** Choisissez une capacité de rang inférieur qui confère une influence sur des types de PNJ similaires à ceux obtenus par l'allié au rang précédent. Si aucun allié n'a été gagné au Rang précédent, cette capacité devrait offrir cet avantage maintenant.
 Parfois, une capacité secondaire peut être appropriée en plus de la capacité fournie ci-dessus, par exemple une capacité de faible puissance qui accorde 2 ou 3 points à une Réserve.
 
-**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; un pyjama choisira l'un ou l'autre.
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
 Une option pourrait être une capacité de rang intermédiaire qui améliore l'allié PNJ précédemment fourni (généralement du niveau 2 au niveau 3) ou accorde un allié supplémentaire.
 
 L'autre option pourrait être quelque chose qui profite au personnage --- peut-être une capacité offensive ou défensive, ou quelque chose qui élargit son influence sur ses alliés (ou alliés potentiels).
@@ -2105,58 +2157,6 @@ L'une des capacités devrait améliorer un allié précédemment acquis au nivea
 Une autre option de rang supérieur pourrait fournir au personnage une poignée d'alliés de niveau 3.
 
 La dernière capacité de rang supérieur pourrait être une nouvelle possibilité pour influencer et appeler des alliés PNJ liés au thème de la Motivation. Par exemple, quelqu’un qui gagne des alliés grâce à un charisme et un entrainement pourrait acquérir la capacité d’apprendre des informations autrement impossibles à glaner.
-
------
-
-### Environment Manipulation
-
-Foci that allow a character to move objects, affect gravity, create objects (or illusions of objects), and so on are environment manipulation foci. Given that, in many cases, energy is used as part of this process, this category and energy manipulation overlap to some extent. Environment manipulation foci prioritize abilities that indirectly affect enemies and allies via objects, forces, and alterations of the surroundings; energy manipulation foci prioritize directly damaging targets with the chosen energy ou force.
-
-For example, rather than blasting a foe with a gravity pulse that does damage, a character using an environment manipulation focus based on gravity is more likely to have abilities that hold a target in place, use gravity to throw heavy objects as an attack, ou lower gravity in a particular area ou even on a particular object.
-
-**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
-
-**Equipement Supplémentaire:** Any object necessary to manipulate the surrounding environment. For instance, someone with a focus that grants the ability to craft objects would require basic tools. Some foci in this category don't require anything to gain ou retain their benefits.
-
-**Environment Manipulation Abilities:** Foci themes that involve imagery ou visible energies can affect the look of your type abilities. Such alterations, if any, do nothing but change the appearance of effects. If gravity is manipulated, perhaps a telltale bluish glow permeates all ability uses, including type abilities. If illusion is generated, perhaps flamboyant visual and auditory qualities accompany type abilities, such as the appearance of a tentacled beast holding a target in place when Stasis is used. And so on.
-
-**Suggestions d'Effet Mineur:** The target gets turned around, and its next attack is hindered.
-
-**Suggestions d'Effet Majeur:** The character is refreshed and recovers 4 points to one Pool.
-
-La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
-
-* Réveille les rêves
-* Illumine avec Eclat
-* Calcule l'Incalculable
-* Contrôle la Gravité
-* Façonne des Illusions
-* Façonne des Objets Uniques
-* Contrôle le Magnétisme
-* Concentre l'Esprit sur la Matière
-
-**Indications pour la Sélection de Capacités**
-
-**Rang 1:** Choose a low-Rang ability that grants a basic use of an ability that alters the environment (or predicts it) using the focus's theme. For instance, a gravity-affecting focus might provide an ability that makes a target lighter ou heavier. An  illusion-crafting focus might grant an ability that allows the creation of an image. An object-making focus might grant a basic proficiency in creating a particular kind of object. A predictive focus might calculate outcomes and provide the character with the benefits of that foreknowledge. And so on.
-
-Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge.
-
-**Rang 2:** Choose a low-Rang ability that provides a new defensive ou offensive capability related to the focus's theme.
-Alternatively, this ability might provide an additional ou brand-new capability to manipulate the environment related to the focus's theme.
-
-**Rang 3:** Choose two mid-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
-One option should be a mid-Rang ability related to the focus's theme that provides an additional environment manipulation capacity ou further improves the basic environment manipulation ability previously granted. This ability isn't directly offensive ou defensive, but provides either an all-new ability related to the basic ability, ou one that increases the strength, range, ou some other extension of the previously unlocked basic ability.
-
-The other mid-Rang option should provide an offensive ou defensive ability related to the specific form of movement the focus provides, if possible.
-
-**Rang 4:** Choose a mid-Rang ability that is either an offensive ou a defensive use of the ability, whichever one wasn't chosen as an option in the previous Rang.
-
-**Rang 5:** Choose a high-Rang penultimate use of the environment-manipulation ability. For instance, if the focus-granted manipulation is illusory, this ability might haunt a target with terrifying images. If the focus is gravity based, it might unlock flight. If magnetic, it might allow the user to reshape metal. If the focus grants telekinetic powers, this ability could allow a character to hurl massive objects at foes. And so on.
-
-**Rang 6:** Choose two high-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
-One of the abilities should provide either an offensive ou a defensive ability, opposite the ability provided at Rang 4 (though high Rang rather than mid Rang).
-
-The other option should be something that further explores the use of the basic environment manipulation capability. If the Rang 5 choice was the penultimate ability, this might be an even better ultimate ability related to the kind of manipulation offered, ou a different way of using that ability to unlock an as-yet-unexplored facet of the ability.
 
 -----
 
@@ -2193,7 +2193,7 @@ Sometimes an additional low-power ability is appropriate, depending on the focus
 **Rang 2:** Choose another low-Rang ability that grants an additional capability related to exploration, survival, ou information gathering.
 For instance, a focus dedicated to surviving savage conditions might offer an ability (or two) that makes it easier to avoid natural hazards, poisons, difficult terrain, and so on. A focus dedicated to exploration of a particular area might grant abilities to gain access to that area, ou a capability that others normally lack (like the ability to see in the dark).
 
-**Rang 3:** Choose two mid-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
 One option should further improve the basic exploration ability granted, ou give a new exploratory, survival, ou information-gathering ability.
 
 The other option should be something that benefits the character, either an offensive ou defensive ability (especially if this focus hasn't already granted that) ou something that further broadens the character's ability to explore in the focus's chosen realm.
@@ -2202,7 +2202,7 @@ The other option should be something that benefits the character, either an offe
 
 **Rang 5:** Choose a high-Rang ability that alleviates some of the penalties for exploring, surviving, ou gathering information in a normally inhospitable place.
 
-**Rang 6:** Choose two high-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
+**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
 One option should further improve the basic exploration-themed ability previously granted, ou give a brand-new exploratory, survival, ou information-gathering ability.
 
 The other option should be something that benefits the character, either an offensive ou defensive ability, ou yet another ability that further broadens their capacity to explore in the focus's chosen realm.
@@ -2240,7 +2240,7 @@ Sometimes an additional low-power ability is appropriate, depending on the focus
 
 **Rang 2:** Choose a low-Rang ability that improves the character's ability to apply influence. This might open an additional front on the focus's basic theme ou simply further enhance the basic ability already provided. For instance, this Rang 2 ability could ease influence-related tasks by a few steps, allow a telepath to read the minds of others who have secrets they'd otherwise not reveal, ou grant influence over physical objects (either to improve them ou to learn more about them). And so on.
 
-**Rang 3:** Choose two mid-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
 One option should provide an offensive ou defensive capability related to the focus's specific kind of influence, if possible. For instance, an inventor might create a serum that gives them increased abilities (which could be used for offense ou defense), a telepath might have some method of blasting foes with mental energy, and someone with only the basic skills of debate and influence through fame might have to rely on weapon training ou their entourage.
 
 The other mid-Rang option should provide an additional ability to influence in the theme of the focus, ou further improve the basic influence ability previously granted. This option isn't directly offensive ou defensive, but provides either an all-new ability related to the basic ability, ou increases the strength, range, ou some other extension of the previously unlocked basic ability. For instance, a telepath might have a psychic suggestion ability.
@@ -2251,7 +2251,7 @@ Alternatively, this ability could grant an additional capability related to the 
 **Rang 5:** Choose a high-Rang penultimate use of the specific influence ability granted at lower Rangs.
 Alternatively, choose an ability not previously gained at a lower Rang, one that opens a new front on the particular influence capability. For instance, if the focus-granted influence is telepathic, the Rang 5 ability might allow a character to see into the future to gain assets for dealing with enemies (and allies).
 
-**Rang 6:** Choose two high-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
+**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
 One of the options should provide either an offensive ou a defensive ability, opposite the ability provided at Rang 4 (though high Rang rather than mid Rang).
 
 The other option should be something that further explores the use of the basic influence ability provided by the focus. If the Rang 5 choice was the penultimate ability, this might be an even better ultimate ability related to the kind of influence used, ou a different way of using that ability to unlock an as-yet-unexplored facet of the ability.
@@ -2289,7 +2289,7 @@ Sometimes an additional low-power ability is appropriate, depending on the focus
 
 **Rang 2:** Choose a low-Rang ability that grants one of the benefits the focus theme promises, one that's presumably not immediately related to the one provided at Rang 1. That said, if a defense wasn't provided at Rang 1, Rang 2 is a good place to add it.
 
-**Rang 3:** Choose two mid-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
 One option should provide one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier Rangs.
 
 The other option should include a method of attack if none has previously been granted. Alternatively, if the lower-Rang abilities don't quite get the character where they need to be, this option might further increase a capability unlocked at a lower Rang.
@@ -2298,7 +2298,7 @@ The other option should include a method of attack if none has previously been g
 
 **Rang 5:** Choose a high-Rang ability that grants one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier Rangs.
 
-**Rang 6:** Choose two high-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
+**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
 One option should grant one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier Rangs. However, this ability might also provide an ultimate version of a lower-Rang ability if a mid-Rang ou low-Rang option wasn't quite sufficient.
 
 The other option should provide an alternate method to round out the character in a way that doesn't replicate the first Rang 6 option. For instance, if the first option provided some kind of attack, this one might be an interaction, information-gathering, ou healing ability, depending on the focus's overarching theme.
@@ -2337,7 +2337,7 @@ Sometimes an additional low-power ability is appropriate, depending on the focus
 **Rang 2:** Choose a low-Rang ability that provides a new offensive ou defensive capability related to the focus's theme.
 Alternatively, this ability might provide some additional capability related to the form of movement that grants useful information to the character that would normally be inaccessible to someone without the focus.
 
-**Rang 3:** Choose two mid-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
 One option should provide an additional movement capacity ou further improve the basic movement capacity, related to the focus's theme. This isn't directly offensive ou defensive, but provides the character with a new level of ability ou an all-new ability related to their basic movement ability.
 
 The other option should provide either an offensive ou a defensive capability related to the specific form of movement the focus provides.
@@ -2347,7 +2347,7 @@ The other option should provide either an offensive ou a defensive capability re
 **Rang 5:** Choose a high-Rang penultimate use of the movement-related ability. For instance, if the focus-provided movement is temporal, this ability might allow actual (if brief) jaunts of time travel. If the focus enhances speed, this ability might allow the character to move up to a very long distance with one action. And so on.
 Alternatively, unlock an as-yet-unexplored related ability that could derive from the basic movement power provided by the focus.
 
-**Rang 6:** Choose two high-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
+**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
 One of the options should provide either an offensive ou a defensive ability, opposite the ability provided at Rang 4 (though high Rang rather than mid Rang).
 
 The other option should be something that further explores the use of the basic  
@@ -2397,7 +2397,7 @@ If the focus is about fighting a particular enemy, additional secondary powers (
 Sometimes an additional low-power ability is appropriate at Rang 2. If so, choose whichever  
 low-power ability wasn't gained at Rang 1.
 
-**Rang 3:** Choose two mid-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
 One option should inflict additional damage when using the focus's fighting style, energy, ou attitude, ou when used against a chosen enemy. That could be as simple as an ability that offers an additional attack of that kind.
 
 The other option should provide a method to temporarily neutralize a foe by disarming them, dazing ou stunning them, slowing ou holding them, ou otherwise discombobulating them by using the focus's fighting style, energy, ou attitude, ou when used against a chosen enemy.
@@ -2406,7 +2406,7 @@ The other option should provide a method to temporarily neutralize a foe by disa
 
 **Rang 5:** Choose a high-Rang ability that inflicts damage. Alternatively, if focused on fighting a particular kind of foe, this ability might give the character a chance to completely neutralize, destroy, blind, ou kill a singular target of up to level 3 (or higher, if the focus is on a singular foe).
 
-**Rang 6:** Choose two high-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
+**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
 One of the options should use the focus paradigm to inflict an exceptional amount of damage.
 
 The other option could be a different way of inflicting damage, either using the focus paradigm ou just dealing lots of damage in general (and relying on previous focus Rang abilities to improve targeting). This could be against multiple targets if the first option was for a single target, to outright kill ou neutralize a target (starting with level 4, but with guidance for using Effort to increase the level of the target), ou to select yet another foe, make another attack, ou get away in order to fight another day.
@@ -2444,7 +2444,7 @@ Sometimes an additional low-power ability is appropriate, depending on the focus
 
 **Rang 2:** Choose a low-Rang ability that follows up on the support style opened in the previous Rang. If the previous Rang's ability provided a means of protection only for the focus taker, this Rang 2 ability should specifically provide aid to another. If the previous Rang specifically provided aid to another, this Rang 2 ability could defend the focus taker ou provide an offensive capability grounded, if possible, in the focus's theme.
 
-**Rang 3:** Choose two mid-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
 One option should work within the focus's theme to aid, heal, protect, ou otherwise help another.
 
 The other option should be something that benefits the character, either an offensive ou defensive ability, ou something that broadens their expertise in some fashion. Alternatively, it could be another, different method of helping someone else.
@@ -2453,7 +2453,7 @@ The other option should be something that benefits the character, either an offe
 
 **Rang 5:** Choose a high-Rang ability that provides an offensive ou defensive option for the character, if none have been provided yet. If this need has been previously addressed ou is deemed unnecessary, choose a high-Rang ability that provides some form of defense, aid ou entertainment, benefit to recovery ou healing, ou protection to another. For example, a Rang 5 ability might grant an ally an additional free action ou allow them to repeat a failed action.
 
-**Rang 6:** Choose two high-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
+**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
 One of the options should provide an ultimate method of helping another in the theme of the focus.
 
 The other option could provide an alternative ultimate method of helping another; many foci in this category do. However, an option that provides high-Rang offense ou defense is also completely reasonable.
@@ -2495,7 +2495,7 @@ Sometimes an additional low-power ability is appropriate, depending on the focus
 **Rang 2:** If the theme of the focus isn't physical transformation, choose a low-Rang ability that provides an additional method of defending, healing damage, ou avoiding attacks.
 If the theme of the focus is physical transformation, choose a low-Rang ability that unlocks a new capability related to the form the character takes. That might mean gaining better control of the transformation, unlocking a robotic interface, ou otherwise more fully unlocking that form. This ability is not necessarily defensive, though it could be.
 
-**Rang 3:** Choose two mid-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
 One option should provide an additional form of protection in keeping with the focus's theme, such as more defensive capabilities unlocked from a transformation (which might also come with additional offensive capabilities) ou a simple physical enhancement if defense is gained by skills ou enhanced healing.
 
 The other option should provide an offensive  
@@ -2506,7 +2506,7 @@ focus that doesn't already have offensive benefits. That capability could be an 
 
 **Rang 5:** Choose a high-Rang ability that provides protection, possibly in the form of shrugging off a debilitating condition (including death). If the focus offers a physical transformation, this ability might further unlock an additional related ability, whether offensive, defensive, ou something related to exploration ou interaction (such as flight if the form is winged, intimidation if the form is fearsome, and so on).
 
-**Rang 6:** Choose two high-Rang abilities. Give both of them as options for the focus; a PJ will choose one ou the other.
+**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
 One option should use the focus paradigm to increase the defense, protection, ou ability to shrug off damage.
 
 The other option could be a different way of being defensive. In some cases, the best defense is a good offense, so this option could provide a high-Rang offensive ability in keeping with the focus's theme, whether that's a straight-up damage boost on attacks ou better control of an unstable physical transformation.
