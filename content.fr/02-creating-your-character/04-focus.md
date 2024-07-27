@@ -2009,6 +2009,51 @@ L'autre option du rang 6 peut être de donner au personnage une Capacité toute 
 
 -----
 
+### Exploration
+
+Les Motivations qui permettent à un personnage de récupérer des informations, de survivre dans des environnements non-familiers, et de trouver leur chemin vers de nouveaux emplacements ou de traquer des créatures particulières ou des adversaires, sont des Motivations d'exploration. Survivre dans des environnements non-familiers requiert une sélection raisonnable d'options défensives; toutefois, les Capacités qui permettent à un personnage de trouver et d'apprendre sont à donenr en priorité.
+
+Les Motivations d'exploration sont basées sur une variété de méthodes, bien que les piliers sont l'entrainement et l'expertise. Certaines méthodes requierent des outils spécifiques (comme unvéhicule) pour accorder les bénéfices fournis, tandis que d'autres pourraient se baser sur le supernaturel ou la superscience  pour apprendre de nouvelles choses et explorer de nouveaux endroits étranges et lointains.
+
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
+
+**Equipement Supplémentaire:** Tout objet nécessaire à l'exploration. Par exemple, des cartes et/ou un compas pourraient faire partie du matériel de base, tandis qu'un personnage qui utilise des pouvoirs psychiques pourrait avoir besoin d'un miroir ou d'une sphère de cristal pour regarder dedans. L'équipement pourrait aussi inclure l'accès à un véhicule nécessaire pour l'exploration.
+
+**Suggestions d'Effet Mineur:** Vous avez un Atout pour n'importe quelle action qui implique vos sens, pour percevoir ou pour attaquer, jusqu'à la fin du prochain round.
+
+**Suggestions d'Effet Majeur:** Votre Avantage d'Intelligence augmente de 1 jusqu'à la fun du prochain round.
+
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
+
+* Explore des Endroits Sombres
+* Infiltrates
+* Opère sous Couverture
+* Peut Séparer son Esprit de son Corps
+* Pilote un Vaisseau Spatial
+* Voit Au-Delà
+
+**Indications pour la Sélection de Capacités**
+
+**Rang 1:** Choisissez une Capacité de rang inférieur qui permet au personnage des moyens pour de l'exploration de base, de la survie ou pour de la récupération d'information, dnas le thème de la Motivation.
+Quelque fois, en fonction de la Motivation, une Capacité de rang inférieur supplémenaire est appropriée. Souvent, c'est une Capacité qui donne un entrainement dans une compétence dans un type de connaissance associée ou une compétence associée (bien que cela puisse être couvert par la Capacité principale). D'une autre manière, elle pourrait donner un simple bonus de 2 ou 3 points à la Réserve de Puissance.
+
+**Rang 2:** Choisissez une autre Capacité de rang inférieur qui donne un moyen supplémentaire lié à l'exploration, la survie ou la récupértion d'information.
+Par exemple, une Motivation  dédiée à survivre dans des conditions sauvages pourrait donner une Capacité (ou deux) qui rend plus facile à éviter les catastrophes naturelles, les poisons, les terrains difficiles, et ainsi de suite. Une Motivation dédiée à l'exploration d'un endroit en particulier pourrait donner des moyens pour avoir accès à cet endroit, ou un moyen que les autres n'ont pas habituellement (comme un moyen de voir dans le noir).
+
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
+Une des options devrait améliorer un peu plus le moyen d'exploration de base déjà acquis, ou alors qui devrait donner un nouveau moyen d'exploration, de survie ou de récupération d'information.
+L'autre option devrait être quelque chose qui bénéficie au personnage, soit de manière offensive, soit de manière défensive (en particulier si la Motivation ne l'a pas déjà accordée) ou quelque chose qui étend un peu plus le moyen pour le personnage pour explorer dans le thème de la Motivation.
+
+**Rang 4:** Choisissez une capacité de rang intermédiaire offensive ou défensive (quoique ce soit qui n'ait pas été proposé au rang 3) qui bénéficie au personnage. Ou alors, si les moyens offensifs et défensif sont déjà bien representésn choisissez une Capacité de rang intermédiaire différente qui étend la capacité du personnagé à explorer, survivre ou récupérer des informations.
+
+**Rang 5:** Choisissez une capacité de rang supérieur qui atténue certaines pénalités pour l'exploration, la survie ou la récupération d'information dans un endroit normalement inhospitaliers.
+
+**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
+Une des options devrait améliorer encore plus le moyen d'exploration de base déjà accordé, ou elle devrait donner un tout nouveau moyen d'exploration, de survie ou de récupération d'information.
+L'autre option devrait être quelque chose qui bénéficie au personnage, soit de manière offensive, soit de manière défensive, ou encore un tout moyen qui étend encore plus sa possibilité d'explorer dans le thème de la Motivation.
+
+-----
+
 ### Manipulation d'énergie
 
 Une Motivation de Manipulation d'énergie offre des Capacités pour invoquer le feu, l'électricité, la force, le magnétisme ou des formes d'énergies non-standard comme le froid, la pierre, ou quelque chose d'étrange comme le vide ou l'ombre. Ces Capacités donne dh'abitude au personnage une maière d'atteindre quelque chose comme un équilibre entre l'attaque et se donner à eux-mêmes ou à ses alliés une protection supplémentaire. La Motivation donne aussi habituellement des Capacités qui permettent d'autres façon d'utiliser une énergie spécifique pour des choses comme le transport, créer une grande concentration d'énergie qui affecte plusieurs cibles, ou créer un objet temporairement ou une barrière d'énergie.
@@ -2140,12 +2185,12 @@ Parfois, une capacité supplémentaire de rang inférieur est appropriée, en fo
 Parfois, une capacité secondaire peut être appropriée en plus de la capacité fournie ci-dessus, par exemple une capacité de faible puissance qui accorde 2 ou 3 points à une Réserve.
 
 **Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
-Une option pourrait être une capacité de rang intermédiaire qui améliore l'allié PNJ précédemment fourni (généralement du niveau 2 au niveau 3) ou accorde un allié supplémentaire.
+Une option devrait être une capacité de rang intermédiaire qui améliore l'allié PNJ précédemment fourni (généralement du niveau 2 au niveau 3) ou accorde un allié supplémentaire.
 
-L'autre option pourrait être quelque chose qui profite au personnage --- peut-être une capacité offensive ou défensive, ou quelque chose qui élargit son influence sur ses alliés (ou alliés potentiels).
+L'autre option devrait être quelque chose qui profite au personnage --- peut-être une capacité offensive ou défensive, ou quelque chose qui élargit son influence sur ses alliés (ou alliés potentiels).
 
 **Rang 4:** Choisissez une capacité de rang intermédiaire qui donne au personnage une capacité offensive ou défensive s'il n'en a pas acquis auparavant, de préférence dans le thème de la Motivation. Par exemple, si le personnage gagne des alliés en raison de son charisme, cette capacité peut lui permettre de commander ses ennemis pendant de brèves périodes. Si le personnage gagne des alliés en les construisant ou en les appelant, cette capacité peut lui permettre d'affecter des entités du même type qui ne sont pas déjà ses alliés.
-Alternativement, cette capacité pourrait améliorer davantage un allié précédemment gagné du niveau 3 au niveau 4, ou accorder un allié supplémentaire.
+Ou alors, cette capacité pourrait améliorer davantage un allié précédemment gagné du niveau 3 au niveau 4, ou accorder un allié supplémentaire.
 
 **Rang 5:** Choisissez une capacité qui améliore le personnage en lui fournissant une défense, une Réserve améliorée de statistiques ou un autre type de protection. Alternativement, cette capacité pourrait ouvrir une nouvelle possibilité pour influencer et appeler des alliés PNJ liés au thème de la Motivation. Par exemple, quelqu’un qui garde des bêtes alliées pourrait acquérir la capacité d’invoquer une horde de bêtes inférieures. Quelqu'un qui construit des robots pourrait acquérir la capacité de construire plusieurs robots assistants de moindre importance. Et ainsi de suite.
 
@@ -2154,58 +2199,9 @@ Enfin, cette capacité pourrait améliorer un allié précédemment gagné au ni
 **Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
 L'une des capacités devrait améliorer un allié précédemment acquis au niveau 5, si cela n'était pas déjà fourni au rang 5. Si tel est le cas, cette capacité pourrait être fournie *en plus* de deux autres capacités associées.
 
-Une autre option de rang supérieur pourrait fournir au personnage une poignée d'alliés de niveau 3.
+L'autre option de rang supérieur devrait fournir au personnage une poignée d'alliés de niveau 3.
 
 La dernière capacité de rang supérieur pourrait être une nouvelle possibilité pour influencer et appeler des alliés PNJ liés au thème de la Motivation. Par exemple, quelqu’un qui gagne des alliés grâce à un charisme et un entrainement pourrait acquérir la capacité d’apprendre des informations autrement impossibles à glaner.
-
------
-
-### Exploration
-
-Foci that allow a character to gather information, survive in unfamiliar environments, and find their way to new locations ou track down particular creatures and foes are exploration foci. Surviving in unfamiliar environments requires a reasonable selection of defensive options; however, abilities that allow a character to find and learn are prioritized.
-
-Exploration foci rely on a variety of methods, though training and expertise are the mainstays. Some methods require specific tools (such as a vehicle) to grant the benefits provided, while others might rely on the supernatural ou  
-super-science to learn new things and explore strange places from afar.
-
-**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
-
-**Equipement Supplémentaire:** Any object necessary to explore. For instance, starting maps and/or  
-a compass would be basic equipment, while someone who uses psychic abilities might require a mirror ou crystal sphere to gaze into. Equipment might also include access to a vehicle required for exploration, as previously noted.
-
-**Suggestions d'Effet Mineur:** You have an asset on any action that involves using your senses, such as perceiving ou attacking, until the end of the next round.
-
-**Suggestions d'Effet Majeur:** Your Intellect Edge increases by 1 until the end of the next round.
-
-La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
-
-* Explore des Endroits Sombres
-* Infiltrates
-* Opère sous Couverture
-* Pilote un Vaisseau Spatial
-* Voit Au-Delà
-* Peut Séparer son Esprit de son Corps
-
-**Indications pour la Sélection de Capacités**
-
-**Rang 1:** Choose a low-Rang ability that grants the character basic exploratory, survival, ou information-gathering capabilities within the focus's theme.
-Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge ou a related skill (though this may already be covered in the main ability). Alternatively, it might offer a simple bonus of 2 ou 3 points to the Might Pool.
-
-**Rang 2:** Choose another low-Rang ability that grants an additional capability related to exploration, survival, ou information gathering.
-For instance, a focus dedicated to surviving savage conditions might offer an ability (or two) that makes it easier to avoid natural hazards, poisons, difficult terrain, and so on. A focus dedicated to exploration of a particular area might grant abilities to gain access to that area, ou a capability that others normally lack (like the ability to see in the dark).
-
-**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
-One option should further improve the basic exploration ability granted, ou give a new exploratory, survival, ou information-gathering ability.
-
-The other option should be something that benefits the character, either an offensive ou defensive ability (especially if this focus hasn't already granted that) ou something that further broadens the character's ability to explore in the focus's chosen realm.
-
-**Rang 4:** Choose a mid-Rang offensive ou defensive ability (whichever wasn't offered at Rang 3) that benefits the character. Alternatively, if offensive and defensive abilities are already well represented, choose a different mid-Rang ability that broadens the character's ability to explore, survive, ou gather information.
-
-**Rang 5:** Choose a high-Rang ability that alleviates some of the penalties for exploring, surviving, ou gathering information in a normally inhospitable place.
-
-**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
-One option should further improve the basic exploration-themed ability previously granted, ou give a brand-new exploratory, survival, ou information-gathering ability.
-
-The other option should be something that benefits the character, either an offensive ou defensive ability, ou yet another ability that further broadens their capacity to explore in the focus's chosen realm.
 
 -----
 
