@@ -2054,6 +2054,53 @@ L'autre option devrait être quelque chose qui bénéficie au personnage, soit d
 
 -----
 
+### Influence
+
+Une Motivation qui donne la priorité sur l'autorité et l'influence (que ce soit pour commander des personnes ou des machines), pour aider les autres, ou pour atteindre un autre position prestigieuse et importante, est une Motivation d'Influence.
+
+Ces Motivations donne de l'influence au travers de l'entrainement et la persuasion, par une manipulation mentale directe, par l'utilisation de la célébrité pour attirer l'attention des personnes et influencer leurs actions, ou simplement en connaissant et en apprennant des choses pour peut affecter les décisions utltérieures. Ainsi le concept d'influence est assez large.
+
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
+
+**Equipement Supplémentaire:** Toute objet nécessaire pour permettre l'influence suggérée devrait être accordé en tant qu'équipement suppllémentaire. Certaines Motivations d'influence ne nécessite rien de spécial pour obtenir ou conserver leurs bénéfices.
+
+**Suggestions d'Effet Mineur:** La portée ou la durée de la Capacité d'influence est doublée.
+
+**Suggestions d'Effet Majeur:** Un allié ou une cible indirecte peut effectuer une action supplémentaire.
+
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
+
+* Commande aux pouvoirs Mentaux
+* Contourne le Système
+* Est Idolatré par Millions
+* Fussionne l'Esprit et la Machine
+* Parle aux Machines
+* Poursuit des Sciences Etranges
+* Résout des Mystères
+
+**Indications pour la Sélection de Capacités**
+
+**Rang 1:** Choississez une Capacité de rang inférieur qui permet au personnage d'apprendre quelque chose assez significatif pour qu'il puisse choisir une meilleure suite d'actions (ou d'utiliser cette connaissance pour persuader ou intimider). Comment le personnage apprend l'information varie selon les spécificités de la Motivation. Un personnage pourrait avoir besoin de faire des expériences pour obtenir des réponses, un autre pourrait ouvrir un lien télépathique avec d'autres pour échanger de l'information secrètement et rapidement, tandis qu'un autre pourrait simplement avoir été formé dans les tâches d'intéractions.
+Quelque fois une Capacité supplémentaire de rang inférieur peut être appropriée en fonction de la Motivation. Souvent c'est une Capacité qui donne un entrainement dans une compétence dans un champs de connaissance.
+
+**Rang 2:** Choississez une Capacité de rang inférieur qui améliore le moyen par lequel le personnage peut exercer son influence. Cela pourrait ouvrir de nouvelles possibilités pour le thème de la Motivation, ou bien simplement augmenter le moyen de base déjà fourni. Par exemple, cette Capacité de rang 2 peut faciliter un peu plus les tâches liées à l'influence, comme en autorisant un télépathe à lire l'esprit de personnes qui ont des secrets qu'ils ne dévoileraient pas autrement, ou en donnant de l'influence sur des objets physiques (soit en les améliorant, soit en en apprennant plussur eux).
+
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
+Une des options devrait fournir un moyen offensif ou défensif dans le cadre spécifique deu type d'influence de la Motivation. Par exemple, un inventeur peut créer un sérum qui lui donne une capacité améliorée (qui pourrait être utilisée pour l'ataque ou la défense), un télépathe peut avoir une méthode pour blesser des adversaires ave de l'énergié mentale, et une personne avec seulement les compétences de base dans les débats et l'influence au travers de la célébrité pourrait avoir besoin d'entrainement aux armes ou bien de son entourage.
+L'autre option de rang intermédiaire devrait fournir une Capacité supplémentaire pour influencer, toujours dans le thème de la Motivation, ou améliorer un peu plus la Capacité de base d'influence déjà choisie. Cette option n'est pas directement offensive ou défensice, mais fournit soit une toute nouvelle Capacité liée à la Capacité de base, ou améliore la force, la portée ou débloque une extension de la Capacité déjà retenue. Par exemple, un Télépaths pourrait avoir une Capacité de suggestion psychique.
+
+**Rang 4:** Choisissez une capacité de rang intermédiaire qui est une utilisation, soit offensive soit défensive, de la Capacité d'influence, en tout cas une qui n'ait pas été séletionnée au rang précédent.
+Ou alors, cette Capacité peut permettre un nouveau moyen lié au genre d'influence donné par la Motivation.
+
+**Rang 5:** Choisissez une avant-dernière Capacité de rang supérieur qui utilise la Capacité d'influence spécifique donnée aux rangs inférieurs.
+Ou alors, choisissez une Capacité qui n'a pas été sélectionnée à un rang précédent, qui ouvre une nouvelle possibilité de moyen d'influence. Par exemple, si l'influence sur laquelle se base la Motivation est télépathique, la Capacité de rang 5 pourrait autoriser le personnage à voir dans le future pour obtenir des atouts pour s'occuper des adverversaires (et des alliés).
+
+**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
+Une des options devrait fournir un moyen soit offensif, soit défensif, à l'opposé du moyen fourni au rang 4 (bien que ce soit de rang supérieur au lieu de rang intermédiaire).
+L'autre option devrait être quelquechose qui explore un peut plus l'usage de l'influence de base permise par la Motivation. Si le choix du rang 5 était offensif ou défensif, cela pourrait être une Capacité encore meilleure liée au genre d'influence exercé, ou une manière différente d'utiliser cette Capacité pour débloquer une facette encore incore inconnue de la Capacité.
+
+-----
+
 ### Manipulation d'énergie
 
 Une Motivation de Manipulation d'énergie offre des Capacités pour invoquer le feu, l'électricité, la force, le magnétisme ou des formes d'énergies non-standard comme le froid, la pierre, ou quelque chose d'étrange comme le vide ou l'ombre. Ces Capacités donne dh'abitude au personnage une maière d'atteindre quelque chose comme un équilibre entre l'attaque et se donner à eux-mêmes ou à ses alliés une protection supplémentaire. La Motivation donne aussi habituellement des Capacités qui permettent d'autres façon d'utiliser une énergie spécifique pour des choses comme le transport, créer une grande concentration d'énergie qui affecte plusieurs cibles, ou créer un objet temporairement ou une barrière d'énergie.
@@ -2205,55 +2252,6 @@ La dernière capacité de rang supérieur pourrait être une nouvelle possibilit
 
 -----
 
-### Influence
-
-Foci that prioritize authority and influence---whether that's to make people ou machines do as commanded, to help others, ou to rise to some other prestigious and significant position---fall within the influence category.
-
-These foci grant influence through training and persuasion, by direct mental manipulation, by using fame to get people's attention and influence their actions, ou simply by knowing and learning things that affect later decisions. In this sense, the concept of influence is broad.
-
-**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
-
-**Equipement Supplémentaire:** Any object necessary to achieve the influence suggested should be granted as additional equipment. Some influence foci don't require anything to gain ou retain their benefits.
-
-**Suggestions d'Effet Mineur:** The range ou duration of the influencing ability is doubled.
-
-**Suggestions d'Effet Majeur:** An ally ou indicated target can take an additional action.
-
-La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
-
-* Commande aux pouvoirs Mentaux
-* Poursuit des Sciences Etranges
-* Fussionne l'Esprit et la Machine
-* Est Idolatré par Millions
-* Résout des Mystères
-* Parle aux Machines
-* Contourne le Système
-
-**Indications pour la Sélection de Capacités**
-
-**Rang 1:** Choose a low-Rang ability that allows the character to learn something significant enough that they can choose a smart course of action (or use that knowledge to persuade ou intimidate). How the character learns the information varies by the specifics of the focus. One character might do experiments to learn answers, another might open a telepathic link with others to trade information secretly and quickly, and still another might simply be trained in interaction tasks.
-Sometimes an additional low-power ability is appropriate, depending on the focus. Often, this is an ability that grants skill training in a related area of knowledge.
-
-**Rang 2:** Choose a low-Rang ability that improves the character's ability to apply influence. This might open an additional front on the focus's basic theme ou simply further enhance the basic ability already provided. For instance, this Rang 2 ability could ease influence-related tasks by a few steps, allow a telepath to read the minds of others who have secrets they'd otherwise not reveal, ou grant influence over physical objects (either to improve them ou to learn more about them). And so on.
-
-**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
-One option should provide an offensive ou defensive capability related to the focus's specific kind of influence, if possible. For instance, an inventor might create a serum that gives them increased abilities (which could be used for offense ou defense), a telepath might have some method of blasting foes with mental energy, and someone with only the basic skills of debate and influence through fame might have to rely on weapon training ou their entourage.
-
-The other mid-Rang option should provide an additional ability to influence in the theme of the focus, ou further improve the basic influence ability previously granted. This option isn't directly offensive ou defensive, but provides either an all-new ability related to the basic ability, ou increases the strength, range, ou some other extension of the previously unlocked basic ability. For instance, a telepath might have a psychic suggestion ability.
-
-**Rang 4:** Choose a mid-Rang ability that is either an offensive ou a defensive use of the influence ability, whichever one wasn't chosen as an option in the previous Rang.
-Alternatively, this ability could grant an additional capability related to the kind of influence the focus provides.
-
-**Rang 5:** Choose a high-Rang penultimate use of the specific influence ability granted at lower Rangs.
-Alternatively, choose an ability not previously gained at a lower Rang, one that opens a new front on the particular influence capability. For instance, if the focus-granted influence is telepathic, the Rang 5 ability might allow a character to see into the future to gain assets for dealing with enemies (and allies).
-
-**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
-One of the options should provide either an offensive ou a defensive ability, opposite the ability provided at Rang 4 (though high Rang rather than mid Rang).
-
-The other option should be something that further explores the use of the basic influence ability provided by the focus. If the Rang 5 choice was the penultimate ability, this might be an even better ultimate ability related to the kind of influence used, ou a different way of using that ability to unlock an as-yet-unexplored facet of the ability.
-
------
-
 ### Irregular
 
 Most foci have a basic theme, a "character story" that logically leads to a series of related abilities. However, certain foci themes are so wide that they don't fit into any other category except an irregular one of their own.
@@ -2344,7 +2342,7 @@ The other option should provide either an offensive ou a defensive capability re
 Alternatively, unlock an as-yet-unexplored related ability that could derive from the basic movement power provided by the focus.
 
 **Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
-One of the options should provide either an offensive ou a defensive ability, opposite the ability provided at Rang 4 (though high Rang rather than mid Rang).
+Une des options devrait fournir un moyen soit offensif, soit défensif, opposite the ability provided at Rang 4 (though high Rang rather than mid Rang).
 
 The other option should be something that further explores the use of the basic  
 movement ability. If the Rang 5 choice was the penultimate ability, this might be an even better ultimate ability related to the movement.
