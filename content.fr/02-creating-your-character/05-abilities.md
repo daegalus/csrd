@@ -10,7 +10,7 @@ Ce chapitre présente un grand catalogue de plus d'un millier de capacités qu'u
 
 Le type de personnage, ses préférences et sa motivation donne un rang particulier à chaque capacité. Toutefois, si vous créez une nouvelle motivation ou un nouveau type, nous vous fournissons quelques outils supplémentaires.
 
-Le premier outil est un niveau de pouvoir pour chaque capacité. Ce niveau vous indiquera à quel point il est puissant par rapport aux autres capacités. Les capacités qui sont appropriées pour les personnages de rang 1 et 2 sont appelées "capacités de rang inférieur", celles pour les personnages de rang 3 et 4 sont appelées "capacités de rang intermédiaire", et celles pour les personnages de rang 5 et 6 sont appelées "capacités de rang supérieures".
+Le premier outil est un niveau de pouvoir pour chaque capacité. Ce niveau vous indiquera à quel point il est puissant par rapport aux autres capacités. Les capacités qui sont appropriées pour les personnages de rang 1 et 2 sont appelées "capacités de rang inférieur", celles pour les personnages de rang 3 et 4 sont appelées "capacités de rang intermédiaire", et celles pour les personnages de rang 5 et 6 sont appelées "capacités de rang supérieure".
 
 Les capacités sont triées ci-après en catégories basées sur les sortes de choses qu'elles font. Par exemple, les capacités qui améliorent les attaques physiques sont dans la catégorie des compétences en "attaque", les capacités qui soutiennent les alliés sont dans la catégorie "support", et ainsi de suite.
 
