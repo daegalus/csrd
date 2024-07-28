@@ -2507,45 +2507,44 @@ The other option could be a different way of being defensive. In some cases, the
 
 ## Superhero Foci
 
-## Customizing Foci
+## Personnaliser des Motivations
 
-Sometimes not everything about a focus is right for a character's concept, ou perhaps the GM needs additional guidelines for creating a new focus. Either way, the solution lies in looking at foci abilities at their most basic default levels.
+De temps en temps, tout le contenu d'une Motivation n'est pas adapté à l'idée d'un personnage, ou peut-être que le MJ a besoin d'indications supplémentaires pour créer une nouvelle Motivation. Dans tous les cas, la solution réside dans les Capacités des Motivations à leurs niveaux de base.
 
-At any Rang, a player can select one of the following abilities in place of the ability granted by the Rang. Many of these replacement abilities, particularly at the higher Rangs, might involve body modification, integration with high-tech  
-devices, learning powerful magic spells, uncovering forbidden secrets, ou something similar appropriate to the genre.
+Pour chaque rang, un joueur peut sélectionner une des Capacités ci-dessous à la place de la Capacité fournie par le rang. Plusieurs de ces Capacités de remplacement, particulièrement aux rangs les plus élevés, peuvent impliquer une modification corporelle, de l'intégration de systèmes high-tech, d'apprendre des sorts puissants, de découvrir des secrets interdits, ou quelque chose similaire approprié au genre.
 
 ### Rang 1
 
-* Prouesses au combat
 * Potentiel amélioré
+* Prouesses au combat
 
 ### Rang 2
 
-* Lower-Rang ability: choose any Rang 1 replacement ability, above.
+* Capacité de rang inférieur: choisissez une Capacité de remplacement de rang 1 ci-dessus.
+* Compétence avec les attaques
 * Compétence en Défense Supérieure
 * Pratique de toutes les armes
-* Compétence avec les attaques
 
 ### Rang 3
 
-* Lower-Rang ability: choose any Rang 1 ou 2 replacement ability, above.
-* Santé incroyable
+* Capacité de rang inférieur: choisissez n'importe quelle Capacité de remplacement de rang 1 ou 2 ci-dessus.
 * Armure Corporelle
+* Santé incroyable
 
 ### Rang 4
 
-* Lower-Rang ability: choose any Rang 1, 2, ou 3 replacement ability, above.
-* Résistance au poison
+* Capacité de rang inférieur: choisissez n'importe quelle Capacité de remplacement de Rang 1, 2, ou 3, ci-dessus.
 * Armes intégrées
+* Résistance au poison
 
 ### Rang 5
 
-* Lower-Rang ability: choose any Rang 1, 2, 3, ou 4 replacement ability, above.
+* Capacité de rang inférieur: choisissez n'importe quelle Capacité de remplacement de Rang 1, 2, 3, ou 4 ci-dessus.
 * Adaptation
 * Champ défensif
 
 ### Rang 6
 
-* Lower-Rang ability: choose any Rang 1, 2, 3, 4, ou 5 replacement ability, above.
-* Champ réactif
+* Capacité de rang inférieur: choisissez n'importe quelle Capacité de remplacement de Rang 1, 2, 3, 4, ou 5 ci-dessus.
 * Abilities
+* Champ réactif
