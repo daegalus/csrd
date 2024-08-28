@@ -5,7 +5,7 @@ description: Explanation on how to create characters to play in a Cypher System 
 ---
 # Création de votre Personnage
 
-Cette settion vous détaille comment créer des personnages pour jouer à un jeu basé sur le Cypher System. Cela nécessite un ensemble de décisions vont donner corps à votre personnage, de façon à ce que plus vous comprennez le type de personnage vous avez envi de jouer et plus la création du personnage sera simple. Le processus implique de bien comprendre les principes des trois statistiques et de choisir trois aspets qui vont déterminer les capacités de votre personnage.
+Cette section vous détaille comment créer des personnages pour jouer à un partie de jeux de rôle basé sur le Cypher System. Cela nécessite un ensemble de décisions qui vont donner corps à votre personnage, de façon à ce que plus vous comprennez le type de personnage vous avez envie de jouer et plus la création du personnage sera simple. Le processus implique de bien comprendre les principes des trois statistiques et de choisir trois aspects qui vont déterminer les capacités de votre personnage.
 
 ## Les Statistiques du Personnage
 
