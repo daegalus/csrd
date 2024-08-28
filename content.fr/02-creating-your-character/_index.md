@@ -5,11 +5,11 @@ description: Explanation on how to create characters to play in a Cypher System 
 ---
 # Création de votre Personnage
 
-Cette section vous détaille comment créer des personnages pour jouer à un partie de jeux de rôle basé sur le Cypher System. Cela nécessite un ensemble de décisions qui vont donner corps à votre personnage, de façon à ce que plus vous comprennez le type de personnage vous avez envie de jouer et plus la création du personnage sera simple. Le processus implique de bien comprendre les principes des trois statistiques et de choisir trois aspects qui vont déterminer les capacités de votre personnage.
+Cette section vous détaille comment créer des personnages pour jouer à une partie de jeux de rôle basé sur le Cypher System. Cela nécessite un ensemble de décisions qui vont donner corps à votre personnage, de façon à ce que plus vous comprennez le type de personnage vous avez envie de jouer et plus la création du personnage sera simple. Le processus implique de bien comprendre les principes des trois statistiques et de choisir trois aspects ([Réserve, Avantage et Effort](#réserve-avantage-et-effort)) qui vont déterminer les possibilités de votre personnage.
 
 ## Les Statistiques du Personnage
 
-Chaque personnage joueur a trois caractéristiques bien définies qui sont appelées "statistiques" ou "stats". Ces stats sont Puissance, Rapidité et Intelligence. Ce sont des catégories assez larges qui couvrent des aspects différents d'un personnage.
+Chaque personnage joueur a trois caractéristiques bien définies qui sont appelées "statistiques" ou "stats". Ces stats sont [Puissance](#puissance), [Rapidité](#rapidité) et [Intelligence](#intelligence). Ce sont des catégories assez larges qui couvrent des aspects différents d'un personnage.
 
 ## Puissance
 
@@ -39,7 +39,7 @@ L'Intelligence peut être pensée comme de l'intellect ou de la Personnalité ca
 
 ## Réserve, Avantage et Effort
 
-Chacune des trois stats ont deux composantes: la Réserve et l'Avantage. Votre Réserve représente votre faculté pure, innée, et votre Avantage représente à quel point vous savez utiliser ce que vous avez. Un troisième composant est lié à ce concept: l'Effort. Quand votre personnage a vraiment besoin d'accomplir une tâche, vous pouvez appliquer de l'Effort.
+Chacune des trois stats ont deux composantes: la Réserve et l'Avantage. Votre Réserve représente votre faculté pure, innée, et votre Avantage représente à quel point vous savez utiliser ce que vous avez. Un troisième composant est lié à ce concept: l'Effort. Quand votre personnage a vraiment bescapacitésoin d'accomplir une tâche, vous pouvez appliquer de l'Effort.
 
 {{< hint info >}}
 Vos réserve de stat, tout comme votre Effort et Avantage, sont déterminés par le type de votre personnage, son descripteur et sa motivation. A partir de ces indications, vous avez toutefois beaucoup de fléxibilité pour développer votre personnage.
