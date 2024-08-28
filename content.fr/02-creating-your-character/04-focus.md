@@ -169,7 +169,7 @@ Les leçons, les réflexes et les stratégies que vous avez appris en jouant à 
 * Rang 1: Joueur
 * Rang 2: Voir dans le Noir
 * Rang 2: Résoudre des Enigmes
-* Rang 3: Objectif du tireur d'élite ou Avantage de Vitesse Amélioré
+* Rang 3: Objectif du tireur d'élite ou Avantage de Célérité Amélioré
 * Rang 4: Jeux d'esprit
 * Rang 4: Intelligence améliorée
 * Rang 5: Endurance du joueur
@@ -274,7 +274,7 @@ Lorsqu'il n'y a que vous, votre combinaison spatiale et le panorama d'étoiles q
 
 * Rang 1: Compétences sous Vide Spatial
 * Rang 1: Adepte de la microgravité
-* Rang 2: Avantage de Vitesse Amélioré
+* Rang 2: Avantage de Célérité Amélioré
 * Rang 2: Physique amélioré
 * Rang 3: Combat spatial ou Armure Corporelle
 * Rang 4: Silencieux comme l'espace
@@ -325,15 +325,15 @@ Vous êtes un assassin, que ce soit par métier, par inclination, ou parce que v
 
 Souple, flexible et gracieux, vous vous déplacez rapidement et en douceur, et ne semblez jamais être là où se trouve le danger.
 
-* Rang 1: Vitesse améliorée supérieure
+* Rang 1: Célérité améliorée supérieure
 * Rang 1: Equilibre
 * Rang 2: Habiletés motrices
 * Rang 2: Chute en toute sécurité
 * Rang 3: Difficile à toucher
-* Rang 3: Avantage de Vitesse Amélioré ou Vitesse améliorée supérieure
+* Rang 3: Avantage de Célérité Amélioré ou Célérité améliorée supérieure
 * Rang 4: Frappe rapide
 * Rang 5: Glissant
-* Rang 6: Sursaut de Vitesse Parfait ou Vitesse améliorée supérieure
+* Rang 6: Sursaut de Célérité Parfait ou Célérité améliorée supérieure
 
 **Intrusions de la MJ:** Même un chat peut être maladroit. Un saut n’est pas aussi facile qu’il y paraît. Un mouvement d'évasion est tellement excessif qu'il met le personnage en danger.
 
@@ -494,9 +494,9 @@ Qu'il s'agisse d'être en équilibre sur deux roues, de sauter un autre véhicul
 * Rang 1: Conduite Dangereuse
 * Rang 2: Surfeur de voiture
 * Rang 2: Regarde les en Face
-* Rang 3: Chauffeur expert ou Avantage de Vitesse Amélioré
+* Rang 3: Chauffeur expert ou Avantage de Célérité Amélioré
 * Rang 4: Oeil perçant
-* Rang 4: Vitesse améliorée
+* Rang 4: Célérité améliorée
 * Rang 5: Quelque chose sur la route
 * Rang 6: As du Volant ou Dégâts mortels
 
@@ -547,7 +547,7 @@ Vous pouvez influencer l’attraction de la gravité elle-même.
 **Option d'échange de type:** Lourd
 
 * Rang 1: Survol
-* Rang 2: Avantage de Vitesse Amélioré
+* Rang 2: Avantage de Célérité Amélioré
 * Rang 3: Définir le bas ou Gravité Coupante
 * Rang 4: Champ de gravité
 * Rang 5: Vol
@@ -756,7 +756,7 @@ Vous êtes une célébrité et la plupart des gens vous adorent.
 
 Des affiches "WANTED, DEAD or ALIVE" (ou leur équivalent) sont apparues avec votre visage. C'est à vous de décider si c'est une erreur qui est devenue incontrôlable ou si vous tueriez quelqu'un juste pour un regard.
 
-* Rang 1: Vitesse améliorée
+* Rang 1: Célérité améliorée
 * Rang 1: Sens du Danger
 * Rang 2: Attaque surprise
 * Rang 3: Réputation de hors-la-loi ou Attaque successive
@@ -1342,7 +1342,7 @@ Vous êtes un excellent pilote de vaisseau.
 * Rang 3: Pilote Expert
 * Rang 3: A l'Aise à Bord ou Compagnon machine
 * Rang 4: Réseau de capteurs
-* Rang 4: Vitesse améliorée
+* Rang 4: Célérité améliorée
 * Rang 5: Comme le dos de votre main
 * Rang 6: Pilote Incomparable
 * Rang 6: Télécommande ou Compétence avec les attaques
@@ -1440,7 +1440,7 @@ Vous pouvez vous transformer en animal.
 * Rang 3: Forme animale plus grande ou Forme de bête Supérieure
 * Rang 4: Analyse d'animal
 * Rang 5: Difficile à tuer
-* Rang 6: Vitesse flou ou Prêter une forme animale
+* Rang 6: Célérité flou ou Prêter une forme animale
 
 **Intrusions de la MJ:** Le personnage change de forme de manière inattendue. Un PNJ est effrayé par votre agressivité envers le métamorphe. La transformation prend plus de temps que prévu.
 
@@ -1557,9 +1557,9 @@ Les morts répondent à vos questions, et leurs cadavres réanimés vous servent
 Votre premier réflexe est de fuir le danger, et vous y êtes devenu très fort.
 
 * Rang 1: Devenez défensif
-* Rang 2: Vitesse améliorée
+* Rang 2: Célérité améliorée
 * Rang 2: Rapide à fuir
-* Rang 3: Vitesse de course incroyable ou Vitesse améliorée supérieure
+* Rang 3: Vitesse de course incroyable ou Célérité améliorée supérieure
 * Rang 4: Détermination croissante
 * Rang 4: Vif d'esprit
 * Rang 5: Aller au sol
@@ -1766,13 +1766,13 @@ Bien que manier une épée dans un environnement où les gens ne portent génér
 
 Vous pouvez vous déplacer si vite que vous devenez flou.
 
-* Rang 1: Vitesse améliorée supérieure
+* Rang 1: Célérité améliorée supérieure
 * Rang 1: Pied Léger
 * Rang 2: Difficile à toucher
-* Rang 3: Sursaut de Vitesse ou Vitesse améliorée supérieure
+* Rang 3: Sursaut de Célérité ou Célérité améliorée supérieure
 * Rang 4: En un Clin d'oeil
 * Rang 5: Difficile à voir
-* Rang 6: Sursaut de Vitesse Parfait ou Vitesse de course incroyable
+* Rang 6: Sursaut de Célérité Parfait ou Vitesse de course incroyable
 
 **Intrusions de la MJ:** Les surfaces peuvent être glissantes ou présenter des obstacles cachés. Le mouvement des autres créatures peut être imprévisible et le personnage peut les rencontrer.
 

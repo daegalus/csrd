@@ -586,7 +586,7 @@ Modifient une capacité existante ou des effets ou paramètres de caractéristiq
 * Armure de glace résiliente
 * Avantage de Puissance amélioré
 * Avantage de Stat Amélioré
-* Avantage de Rapidité amélioré
+* Avantage de Célérité amélioré
 * Avantage d'Intelligence amélioré
 * Bouclier énergisé
 * Briseur de Pierre
@@ -653,7 +653,7 @@ Modifient une capacité existante ou des effets ou paramètres de caractéristiq
 * Souhait mineur
 * Stocker l'énergie
 * Surcharge d'énergie
-* Sursaut de Rapidité
+* Sursaut de Célérité
 * Survivre à l'ennemi
 * Tir Guidé
 * Tour de Volonté
@@ -663,8 +663,8 @@ Modifient une capacité existante ou des effets ou paramètres de caractéristiq
 * Utilisation experte des cyphers
 * Vif d'esprit
 * Visée mortelle
-* Rapidité améliorée
-* Rapidité améliorée supérieure
+* Célérité améliorée
+* Célérité améliorée supérieure
 * Vulnérabilités des machines
 {{< /columns >}}
 
@@ -728,9 +728,9 @@ Modifient une capacité existante ou des effets ou paramètres de caractéristiq
 * Souhait modéré
 * Succès amélioré
 * Surcharge d'Appareil
-* Sursaut de Rapidité Parfait
+* Sursaut de Célérité Parfait
 * Tactiques de la Horde
-* Tir en apesanteur
+* Tir en apesanteurCélérité
 * Transmettre la compréhension
 * Ultra amélioration
 * Un coup du Destin
@@ -738,12 +738,12 @@ Modifient une capacité existante ou des effets ou paramètres de caractéristiq
 * Utilisation adroite des cyphers
 * Utiliser ce qui est disponible
 * Vitalité sauvage
-* Rapidité flou
+* Vitesse floue
 {{< /columns >}}
 
 ## Mouvement
 
-Augmentent votre mouvement (comme en augmentant votre Rapidité de mouvement de base et court à long), ou en ajoutant une nouveau type de de mouvement (comme le vol, marcher sur les murs, changer de phase, ou se téléporter).
+Augmentent votre mouvement (comme en augmentant votre Célérité de mouvement de base et court à long), ou en ajoutant une nouveau type de de mouvement (comme le vol, marcher sur les murs, changer de phase, ou se téléporter).
 
 **Rang Inférieur:**
 
@@ -807,8 +807,8 @@ Augmentent votre mouvement (comme en augmentant votre Rapidité de mouvement de 
 * Traversez les mondes
 <--->
 * Très long sprint
-* Rapidité de course incroyable
-* Rapidité flou
+* Vitesse de course incroyable
+* Vitesse floue
 * Vol
 * Vol électrique
 * Voyage dans le temps
@@ -817,7 +817,7 @@ Augmentent votre mouvement (comme en augmentant votre Rapidité de mouvement de 
 
 ## Protection
 
-Donnent un entrainement ou une spécialisation dans un ou plusieurs types de défense en combat (Puissance, Rapidité, Intelligence), fournissent ou augmentent l'Armure, ou autrement, aident à prévenir des dommages.
+Donnent un entrainement ou une spécialisation dans un ou plusieurs types de défense en combat (Puissance, Célérité, Intelligence), fournissent ou augmentent l'Armure, ou autrement, aident à prévenir des dommages.
 
 **Rang Inférieur:**
 
@@ -1621,7 +1621,7 @@ Un changement significatif qui vous améliore, comme en vous grandissant, vous c
 
 ## Capacités---A
 
-**A l’Aise à Bord** (3 points de Rapidité) : Pendant dix minutes, toutes les tâches que vous effectuez sur un vaisseau spatial sont facilitées. Action à initier.
+**A l’Aise à Bord** (3 points de Célérité) : Pendant dix minutes, toutes les tâches que vous effectuez sur un vaisseau spatial sont facilitées. Action à initier.
 
 **Absorber l'Esprit**: lorsque vous tuez une créature ou détruisez un esprit avec une attaque, si vous le souhaitez, son esprit (s'il n'est pas protégé) vous infuse immédiatement et vous regagnez 1d6 points dans l'une de vos Réserves (votre choix). L’esprit est stocké en vous, ce qui signifie qu’il ne peut être questionné, ressuscité ou ramené à la vie par quelque moyen que ce soit, sauf si vous le permettez. Facilitateur.
 
@@ -1633,7 +1633,7 @@ Un changement significatif qui vous améliore, comme en vous grandissant, vous c
 
 **Absorption d'énergie cinétique améliorée**: lorsque vous utilisez Absorb Kinetic Energy, au lieu de pouvoir absorber 1 point de dégâts d'une attaque physique ou d'un impact, vous pouvez absorber 2 points. Vous pouvez également stocker jusqu'à 2 points d'énergie provenant de n'importe quelle source. Cependant, vous ne pouvez toujours libérer de l’énergie qu’un seul point à la fois. Facilitateur.
 
-**Accélération temporelle** (5 points d'Intelligence) : vous ou une créature volontaire que vous touchez vous déplacez plus rapidement dans le temps. L'effet dure une minute. Tout se déplace plus lentement pour le personnage concerné, tandis que pour tous les autres, le personnage semble se déplacer à une Rapidité surnaturelle. Le personnage dispose d'un atout sur toutes les tâches jusqu'à la fin de l'effet. Une fois l'effet terminé, la cible est épuisée et désorientée par l'expérience, ce qui gêne toutes les tâches pendant une heure. Action.
+**Accélération temporelle** (5 points d'Intelligence) : vous ou une créature volontaire que vous touchez vous déplacez plus rapidement dans le temps. L'effet dure une minute. Tout se déplace plus lentement pour le personnage concerné, tandis que pour tous les autres, le personnage semble se déplacer à une Célérité surnaturelle. Le personnage dispose d'un atout sur toutes les tâches jusqu'à la fin de l'effet. Une fois l'effet terminé, la cible est épuisée et désorientée par l'expérience, ce qui gêne toutes les tâches pendant une heure. Action.
 
 **Accélérer**: si vous ne faites que bouger pendant trois actions consécutives, vous accélérez considérablement et pouvez vous déplacer jusqu'à 200 mph (environ 2000 pieds à chaque round) pendant dix minutes maximum (environ 35 miles), après quoi vous devez vous arrêter. et effectuez un jet de récupération. (Déplacez-vous jusqu'à 322 km/h [environ 600 m à chaque round] pendant dix minutes maximum [environ 56 km].) Facilitateur.
 
@@ -1659,13 +1659,13 @@ Vous pouvez également utiliser l'affichage tête haute pour agrandir votre visi
 
 **Agent Provocateur** : Choisissez l'un des domaines suivants pour vous former : attaquer avec une arme de votre choix, démolitions, ou furtivité et crochetage (si vous choisissez cette dernière option, vous êtes entraîné aux deux). Facilitateur.
 
-**Agrandir** (1+ point de Puissance) : vous déclenchez une réaction enzymatique qui attire une masse supplémentaire d'une autre dimension, et vous (et vos vêtements ou votre costume) grandissez. Vous atteignez une hauteur de 9 pieds (3 m) et restez ainsi pendant environ une minute. Pendant ce temps, vous ajoutez 4 points à votre réserve de Puissance, ajoutez +1 à votre Armure et ajoutez +2 à votre Avantage de Puissance. Tant que vous êtes plus grand que la normale, vos jets de défense de Rapidité sont gênés et vous êtes habitué à utiliser vos poings comme des armes lourdes.
-Lorsque les effets d'Agrandir prennent fin, votre armure et votre Avantage de Puissance reviennent à la normale et vous soustrayez de votre réserve de Puissance un nombre de points égal au nombre que vous avez gagné (si cela ramène la réserve à 0, soustrayez d'abord le débordement de votre Réserve de Rapidité. puis, si nécessaire, depuis votre Réserve d’Intelligence). Chaque fois que vous utilisez Agrandir avant votre prochain jet de récupération de dix heures, vous devez appliquer un niveau d'effort supplémentaire. Ainsi, la deuxième fois que vous utilisez Agrandir, vous devez appliquer un niveau d'Effort ; la troisième fois que vous utilisez Agrandir, deux niveaux d'effort ; et ainsi de suite.
+**Agrandir** (1+ point de Puissance) : vous déclenchez une réaction enzymatique qui attire une masse supplémentaire d'une autre dimension, et vous (et vos vêtements ou votre costume) grandissez. Vous atteignez une hauteur de 9 pieds (3 m) et restez ainsi pendant environ une minute. Pendant ce temps, vous ajoutez 4 points à votre réserve de Puissance, ajoutez +1 à votre Armure et ajoutez +2 à votre Avantage de Puissance. Tant que vous êtes plus grand que la normale, vos jets de défense de Célérité sont gênés et vous êtes habitué à utiliser vos poings comme des armes lourdes.
+Lorsque les effets d'Agrandir prennent fin, votre armure et votre Avantage de Puissance reviennent à la normale et vous soustrayez de votre réserve de Puissance un nombre de points égal au nombre que vous avez gagné (si cela ramène la réserve à 0, soustrayez d'abord le débordement de votre Réserve de Célérité. puis, si nécessaire, depuis votre Réserve d’Intelligence). Chaque fois que vous utilisez Agrandir avant votre prochain jet de récupération de dix heures, vous devez appliquer un niveau d'effort supplémentaire. Ainsi, la deuxième fois que vous utilisez Agrandir, vous devez appliquer un niveau d'Effort ; la troisième fois que vous utilisez Agrandir, deux niveaux d'effort ; et ainsi de suite.
 Action à initier.
 
 **Agrandissement Efrayant**: Votre taille accrue intimide la plupart des gens. Pendant que vous profitez des effets d'Agrandissement, toutes les tâches d'intimidation que vous tentez sont facilitées. Facilitateur.
 
-**Agression** (2 points de Puissance): Vous vous concentrez sur les attaques à un point tel que vous vous rendez vulnérable face à vos adversaires. Tant que cette capacité est active, vous gagnez un atout sur vos attaques de mêlée, et vos jets de défense de Rapidité contre les attaques de mêlée et à distance sont gênés. Cet effet dure aussi longtemps que vous le souhaitez, mais il prend fin si aucun combat n'a lieu à portée de vos sens. Facilitateur.
+**Agression** (2 points de Puissance): Vous vous concentrez sur les attaques à un point tel que vous vous rendez vulnérable face à vos adversaires. Tant que cette capacité est active, vous gagnez un atout sur vos attaques de mêlée, et vos jets de défense de Célérité contre les attaques de mêlée et à distance sont gênés. Cet effet dure aussi longtemps que vous le souhaitez, mais il prend fin si aucun combat n'a lieu à portée de vos sens. Facilitateur.
 
 **Aide amicale** : si votre ami tente une tâche et échoue, il peut réessayer sans dépenser d'effort si vous l'aidez. Vous offrez cet avantage à votre ami même si vous n'êtes pas entraîné à la tâche qu'il réessaye. Facilitateur.
 
@@ -1673,11 +1673,11 @@ Action à initier.
 
 **Ailes comme Arme**: vous pouvez utiliser vos ailes pour effectuer des attaques au corps à corps (même en vol), en laissant vos mains et vos pieds libres. Vos ailes sont des armes de taille moyenne ou blanches (au choix). Vous êtes habitué à cette attaque. Facilitateur.
 
-**Ailes de Feu** (4 points d'Intelligence) : Lorsque votre Manteau de flammes est actif, vous pouvez déployer des ailes de feu et léviter, vous déplaçant à une Rapidité allant jusqu'à 20 pieds (6 m) par tour dans n'importe quelle direction pendant une minute. Vous pouvez aussi en prendre un une autre action, hors mouvement, pendant votre tour. Action.
+**Ailes de Feu** (4 points d'Intelligence) : Lorsque votre Manteau de flammes est actif, vous pouvez déployer des ailes de feu et léviter, vous déplaçant à une Célérité allant jusqu'à 20 pieds (6 m) par tour dans n'importe quelle direction pendant une minute. Vous pouvez aussi en prendre un une autre action, hors mouvement, pendant votre tour. Action.
 
 **Ailes du Vide** (3 points d'Intelligence) : Des rubans tourbillonnants de matière étrange vous saisissent et vous soulèvent, vous permettant de voler pendant un tour aussi vite que vous pouvez vous déplacer. Facilitateur.
 
-**Aller au sol** (4 points de Rapidité) : vous vous déplacez sur une longue distance et tentez de vous cacher. Lorsque vous le faites, vous gagnez un atout dans la tâche furtive pour vous fondre, disparaître ou échapper aux sens de toutes les personnes auparavant conscientes de votre présence. Action.
+**Aller au sol** (4 points de Célérité) : vous vous déplacez sur une longue distance et tentez de vous cacher. Lorsque vous le faites, vous gagnez un atout dans la tâche furtive pour vous fondre, disparaître ou échapper aux sens de toutes les personnes auparavant conscientes de votre présence. Action.
 
 **Allumage** (4 points d'Intelligence) : Vous désignez une créature ou un objet inflammable que vous pouvez voir à courte portée pour prendre feu. Il s'agit d'une attaque intellectuelle. La cible subit 6 points de dégâts ambiants par round jusqu'à ce que les flammes s'éteignent, ce qu'une créature peut faire en s'aspergeant d'eau, en roulant sur le sol ou en étouffant les flammes. Habituellement, éteindre les flammes nécessite une action. Action à initier.
 
@@ -1710,7 +1710,7 @@ Facilitateur.
 
 **Anticipation** (1 point d'Intelligence): Vous regardez vers l'avenir pour voir comment vos actions pourraient se dérouler. La première tâche que vous effectuez avant la fin du tour suivant gagne un atout. Action.
 
-**Anticipation de l'attaque** (4 points d'Intelligence) : Vous pouvez sentir quand et comment les créatures qui vous attaquent effectueront leurs attaques. Les jets de défense contre la Rapidité sont allégés pendant une minute. Action.
+**Anticipation de l'attaque** (4 points d'Intelligence) : Vous pouvez sentir quand et comment les créatures qui vous attaquent effectueront leurs attaques. Les jets de défense contre la Célérité sont allégés pendant une minute. Action.
 
 **Apaiser l'esprit et le corps** : Le corps et l'esprit sont connectés. Toutes les tâches de guérison que vous tentez sont facilitées par deux étapes. Facilitateur.
 
@@ -1745,7 +1745,7 @@ L'esprit élevé se souvient de tout ce qu'il a connu dans la vie et possède la
 **Arme enchantée** (1 point d'Intelligence) : Vous vous harmonisez avec une arme physique, comme une épée, un marteau ou un arc. Vous savez exactement où il se trouve s’il se trouve à une courte distance de vous, et vous connaissez sa direction générale et sa distance s’il est plus éloigné. Toutes vos autres capacités de concentration nécessitent que vous teniez ou maniiez cette arme. Vous ne pouvez être harmonisé qu’à une seule arme à la fois ; vous harmoniser avec une deuxième arme perd l’harmonisation avec la première. Action à initier, dix minutes à réaliser. Facilitateur.
 Si vous vous harmonisez à une arme différente, inventez une histoire expliquant pourquoi vous êtes capable de le faire et pourquoi vous avez choisi cette nouvelle arme.
 
-**Arme et corps** (5 points de Rapidité) : Après avoir effectué une attaque avec une arme de mêlée ou une arme à distance, vous enchaînez avec un coup de poing ou un coup de pied comme attaque supplémentaire, le tout dans le cadre de la même action en un seul round. Les deux attaques peuvent être dirigées vers des ennemis différents. Effectuez un jet d'attaque distinct pour chaque attaque. Vous restez limité par la quantité d’Effort que vous pouvez appliquer sur une action. Tout ce qui modifie votre attaque ou vos dégâts s'applique aux deux attaques, sauf si cela est spécifiquement lié à votre arme. Action.
+**Arme et corps** (5 points de Célérité) : Après avoir effectué une attaque avec une arme de mêlée ou une arme à distance, vous enchaînez avec un coup de poing ou un coup de pied comme attaque supplémentaire, le tout dans le cadre de la même action en un seul round. Les deux attaques peuvent être dirigées vers des ennemis différents. Effectuez un jet d'attaque distinct pour chaque attaque. Vous restez limité par la quantité d’Effort que vous pouvez appliquer sur une action. Tout ce qui modifie votre attaque ou vos dégâts s'applique aux deux attaques, sauf si cela est spécifiquement lié à votre arme. Action.
 
 **Armement**: une arme de mêlée légère ou moyenne de votre choix est intégrée à votre corps et vous êtes entraîné à l'utiliser. L'arme est cachée jusqu'à ce que vous souhaitiez l'utiliser. Facilitateur.
 
@@ -1761,9 +1761,9 @@ Si vous vous harmonisez à une arme différente, inventez une histoire expliquan
 
 **Armure de vent** (1 point d'Intelligence) : Lorsque vous le souhaitez, un cyclone de vent entoure votre corps pendant dix minutes, vous donnant +1 à l'Armure et un +2 supplémentaire à l'Armure contre les armes à projectiles physiques spécifiquement. Pendant que le cyclone est actif, vous ne ressentez aucune gêne due au vent et vous pouvez interagir normalement avec d'autres créatures et objets car le flux de vent se détourne automatiquement pour permettre une telle interaction. Facilitateur.
 
-**Armure motorisée**: Vous disposez d’une armure motorisée. Il s'agit en fait d'une armure moyenne (+2 à l'Armure) ; cependant, vous ne subissez aucune pénalité de Rapidité pour le porter. En outre, votre combinaison offre d'autres avantages : elle fournit de l'air respirable jusqu'à huit heures et un environnement confortable même dans une chaleur âpre, un froid glacial, sous le vide ou sous l'eau jusqu'à une profondeur de 6 km ; et il vous permet de voir dans l'obscurité jusqu'à une courte distance. Enfiler la combinaison nécessite une action (et, bien sûr, l’accès à votre combinaison). Facilitateur.
+**Armure motorisée**: Vous disposez d’une armure motorisée. Il s'agit en fait d'une armure moyenne (+2 à l'Armure) ; cependant, vous ne subissez aucune pénalité de Célérité pour le porter. En outre, votre combinaison offre d'autres avantages : elle fournit de l'air respirable jusqu'à huit heures et un environnement confortable même dans une chaleur âpre, un froid glacial, sous le vide ou sous l'eau jusqu'à une profondeur de 6 km ; et il vous permet de voir dans l'obscurité jusqu'à une courte distance. Enfiler la combinaison nécessite une action (et, bien sûr, l’accès à votre combinaison). Facilitateur.
 
-**Armure vivante** (4 points d'Intelligence) : Si vous vous trouvez dans un endroit où il est possible que vos créatures d'Contrôle d’Essaim viennent, vous appelez un essaim autour de vous pendant une heure. Ils rampent sur votre corps ou volent autour de vous dans un nuage. Pendant ce temps, vos tâches de défense de Rapidité sont facilitées et vous gagnez +1 en armure. Action à initier.
+**Armure vivante** (4 points d'Intelligence) : Si vous vous trouvez dans un endroit où il est possible que vos créatures d'Contrôle d’Essaim viennent, vous appelez un essaim autour de vous pendant une heure. Ils rampent sur votre corps ou volent autour de vous dans un nuage. Pendant ce temps, vos tâches de défense de Célérité sont facilitées et vous gagnez +1 en armure. Action à initier.
 
 **Armure électrique** (4 points d'Intelligence) : Lorsque vous le souhaitez, l'électricité crépite sur votre corps pendant dix minutes, vous accordant +1 d'armure. Lorsque vous êtes électrifié, vous disposez d'une armure supplémentaire de +2 contre les dégâts électriques spécifiquement, et vous infligez 2 points de dégâts à toute créature qui vous touche ou vous attaque avec une arme de mêlée conductrice d'électricité. Facilitateur.
 
@@ -1779,7 +1779,7 @@ Si vous vous harmonisez à une arme différente, inventez une histoire expliquan
 
 **Artiste de la confiance**: lorsque vous piratez un système informatique, organisez une escroquerie, faites les poches, trompez ou trompez un dupe, faufilez quelque chose à un garde, etc., vous gagnez un atout dans cette tâche. Facilitateur.
 
-**As du Volant**: Lorsque vous conduisez une voiture, un camion ou une moto, vos Avantages de Puissance, Rapidité et Intelligence augmentent de 1. Lorsque vous effectuez un jet de récupération en conduisant, vous récupérez 5 points supplémentaires. Lorsque vous tentez une tâche de conduite ou une astuce extrême, comme sauter un ravin ou un autre véhicule, tourner dans les airs, atterrir en toute sécurité sur un autre véhicule, etc., la tâche est facilitée. Facilitateur.
+**As du Volant**: Lorsque vous conduisez une voiture, un camion ou une moto, vos Avantages de Puissance, Célérité et Intelligence augmentent de 1. Lorsque vous effectuez un jet de récupération en conduisant, vous récupérez 5 points supplémentaires. Lorsque vous tentez une tâche de conduite ou une astuce extrême, comme sauter un ravin ou un autre véhicule, tourner dans les airs, atterrir en toute sécurité sur un autre véhicule, etc., la tâche est facilitée. Facilitateur.
 
 **Assaut Magique** (1 point d'Intelligence) : Vous attaquez un ennemi en utilisant des énergies qui attaquent soit sa forme physique, soit son esprit. Dans les deux cas, vous devez pouvoir voir votre cible. Si l'attaque est physique, vous émettez un rayon de force à courte portée qui inflige 4 points de dégâts. Si l'attaque est mentale, vous concentrez votre énergie mentale pour détruire les processus de pensée d'une autre créature à courte portée. Cette tranche mentale inflige 2 points de dégâts d'Intelligence (ignore l'Armure). Certaines créatures sans esprit (comme les robots) peuvent être immunisées contre votre tranche mentale. Action.
 
@@ -1793,39 +1793,39 @@ Si vous vous harmonisez à une arme différente, inventez une histoire expliquan
 
 **Athlète**: Vous êtes entraîné à porter, grimper, sauter et écraser. Facilitateur.
 
-**Attaque Etourdissante** (6 points de Rapidité) : vous tentez une tâche de difficulté de Rapidité 5 pour étourdir une créature dans le cadre de votre attaque au corps à corps ou à distance. Si vous réussissez, votre attaque inflige ses dégâts normaux et étourdit la créature pendant un round, lui faisant perdre son prochain tour. Si vous échouez, vous effectuez toujours votre jet d’attaque normal, mais vous n’étourdissez pas l’adversaire si vous touchez. Si vous possédez également cette capacité provenant d'une autre source (par exemple en l'ayant comme capacité de type et comme capacité de concentration), son utilisation ne vous coûte que 3 points au lieu de 6 points. Action.
+**Attaque Etourdissante** (6 points de Célérité) : vous tentez une tâche de difficulté de Célérité 5 pour étourdir une créature dans le cadre de votre attaque au corps à corps ou à distance. Si vous réussissez, votre attaque inflige ses dégâts normaux et étourdit la créature pendant un round, lui faisant perdre son prochain tour. Si vous échouez, vous effectuez toujours votre jet d’attaque normal, mais vous n’étourdissez pas l’adversaire si vous touchez. Si vous possédez également cette capacité provenant d'une autre source (par exemple en l'ayant comme capacité de type et comme capacité de concentration), son utilisation ne vous coûte que 3 points au lieu de 6 points. Action.
 
 **Attaque Surprise Améliorée**: si vous attaquez depuis un point de vue caché, avec surprise ou avant qu'un adversaire n'ait agi, vous obtenez un atout lors de l'attaque (si vous avez une attaque surprise, cela s'ajoute à l'atout de cette capacité). En cas de réussite de cette attaque surprise, vous infligez 2 points de dégâts supplémentaires (pour un total de 4 points de dégâts supplémentaires si vous avez Attaque Surprise). Facilitateur.
 
-**Attaque Tournoyante** (5+ points de Rapidité) : vous restez immobile et effectuez des attaques contre jusqu'à cinq ennemis, le tout dans le cadre de la même action en un seul tour. Toutes les attaques doivent être du même type (mêlée ou à distance). Effectuez un jet d'attaque séparé pour chaque ennemi. Vous restez limité par la quantité d’Effort que vous pouvez appliquer sur une action. Tout ce qui modifie votre attaque ou vos dégâts s'applique à toutes ces attaques. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour augmenter le nombre d'ennemis que vous pouvez attaquer avec cette capacité (un ennemi supplémentaire par niveau d'Effort utilisé de cette manière). Action.
+**Attaque Tournoyante** (5+ points de Célérité) : vous restez immobile et effectuez des attaques contre jusqu'à cinq ennemis, le tout dans le cadre de la même action en un seul tour. Toutes les attaques doivent être du même type (mêlée ou à distance). Effectuez un jet d'attaque séparé pour chaque ennemi. Vous restez limité par la quantité d’Effort que vous pouvez appliquer sur une action. Tout ce qui modifie votre attaque ou vos dégâts s'applique à toutes ces attaques. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour augmenter le nombre d'ennemis que vous pouvez attaquer avec cette capacité (un ennemi supplémentaire par niveau d'Effort utilisé de cette manière). Action.
 
-**Attaque acrobatique** (1+ points de Rapidité): vous vous lancez dans l'attaque, en vous tournant ou en vous retournant dans les airs. Si vous obtenez un 17 ou un 18 naturel, vous pouvez choisir d'avoir un effet mineur plutôt que d'infliger des dégâts supplémentaires. Si vous appliquez un effort à l'attaque, vous obtenez un niveau d'effort gratuit sur la tâche. Vous ne pouvez pas utiliser cette capacité si vos coûts d’effort de Rapidité sont réduits par le port d’une armure. Facilitateur.
+**Attaque acrobatique** (1+ points de Célérité): vous vous lancez dans l'attaque, en vous tournant ou en vous retournant dans les airs. Si vous obtenez un 17 ou un 18 naturel, vous pouvez choisir d'avoir un effet mineur plutôt que d'infliger des dégâts supplémentaires. Si vous appliquez un effort à l'attaque, vous obtenez un niveau d'effort gratuit sur la tâche. Vous ne pouvez pas utiliser cette capacité si vos coûts d’effort de Célérité sont réduits par le port d’une armure. Facilitateur.
 
 **Attaque avec style**: Avec votre attaque, vous ajoutez des mouvements élégants, des plaisanteries divertissantes ou quelque chose qui divertit ou impressionne les autres. Une créature que vous choisissez à courte portée et qui peut vous voir gagne un atout pour sa prochaine tâche si elle est prise dans un tour ou deux. Facilitateur.
 
-**Attaque aveuglante** (3 points de Rapidité) : Si vous disposez d'une source de lumière, vous pouvez l'utiliser pour effectuer une attaque au corps à corps contre une cible. En cas de réussite, l'attaque n'inflige aucun dégât, mais la cible est aveuglée pendant une minute. Action.
+**Attaque aveuglante** (3 points de Célérité) : Si vous disposez d'une source de lumière, vous pouvez l'utiliser pour effectuer une attaque au corps à corps contre une cible. En cas de réussite, l'attaque n'inflige aucun dégât, mais la cible est aveuglée pendant une minute. Action.
 
 **Attaque de Phase** (3 points d'Intelligence) : L'attaque que vous effectuez ce tour-ci ignore l'armure de votre ennemi. Cette capacité fonctionne quel que soit le type d’attaque que vous utilisez (mêlée, à distance, énergétique, etc.). Facilitateur.
 
 **Attaque de Phase Améliorée** (5 points d'Intelligence) : Cette capacité fonctionne comme la capacité Attaque de Phase, sauf que votre attaque perturbe également les éléments vitaux de l'ennemi, infligeant 5 points de dégâts supplémentaires. Facilitateur.
 
-**Attaque de désarmement** (5 points de Rapidité) : vous tentez une tâche de Rapidité pour désarmer un ennemi dans le cadre de votre attaque de mêlée. Si vous réussissez, votre attaque inflige 3 points de dégâts supplémentaires et l’arme de la cible est arrachée de son emprise et atterrit jusqu’à 20 pieds (6 m) de distance. Si vous échouez, vous tentez toujours votre attaque normale, mais vous n’infligez pas de dégâts supplémentaires ni ne désarmez l’adversaire si vous frappez. Action.
+**Attaque de désarmement** (5 points de Célérité) : vous tentez une tâche de Célérité pour désarmer un ennemi dans le cadre de votre attaque de mêlée. Si vous réussissez, votre attaque inflige 3 points de dégâts supplémentaires et l’arme de la cible est arrachée de son emprise et atterrit jusqu’à 20 pieds (6 m) de distance. Si vous échouez, vous tentez toujours votre attaque normale, mais vous n’infligez pas de dégâts supplémentaires ni ne désarmez l’adversaire si vous frappez. Action.
 
-**Attaque en réponse** (3 points de Rapidité): Si vous êtes touché au corps à corps, vous pouvez effectuer une attaque de mêlée immédiate contre cet attaquant une fois par tour. L'attaque est gênée et vous pouvez toujours effectuer votre action normale pendant le tour. Facilitateur.
+**Attaque en réponse** (3 points de Célérité): Si vous êtes touché au corps à corps, vous pouvez effectuer une attaque de mêlée immédiate contre cet attaquant une fois par tour. L'attaque est gênée et vous pouvez toujours effectuer votre action normale pendant le tour. Facilitateur.
 
 **Attaque psychokinétique** (5 points d'Intelligence) : vous pouvez utiliser cette attaque de deux manières. La première consiste à ramasser un objet lourd et à le lancer sur quelqu’un à courte portée. Cette attaque est une action d'Intelligence, et si elle réussit, elle inflige 6 points de dégâts à la cible et à l'objet lancé (qui pourrait être un autre ennemi, bien que cela nécessiterait deux jets : un pour attraper le premier ennemi et un autre pour l'attraper). frapper le deuxième ennemi avec le premier). La deuxième façon consiste à déclencher une explosion de Puissance fracassante qui ne fonctionne que contre un objet inanimé ne dépassant pas la moitié de votre taille. Effectuez un jet d'Intelligence pour détruire instantanément l'objet ; la tâche est facilitée par trois étapes par rapport à la rupture avec la force brute. Action.
 
-**Attaque rapide** (3 points de Rapidité) : Une fois par tour, vous pouvez effectuer une attaque supplémentaire avec l'arme de votre choix. Facilitateur.
+**Attaque rapide** (3 points de Célérité) : Une fois par tour, vous pouvez effectuer une attaque supplémentaire avec l'arme de votre choix. Facilitateur.
 
 **Attaque sautée** (5+ points de Puissance) : vous tentez un jet de Puissance de difficulté 4 pour sauter haut dans les airs dans le cadre de votre action d'attaque au corps à corps. Si vous réussissez le saut et que votre attaque touche, vous infligez 3 points de dégâts supplémentaires et mettez l'ennemi à terre. Si vous échouez au saut, vous effectuez toujours votre jet d’attaque normal, mais vous n’infligez pas de dégâts supplémentaires ni ne renversez l’adversaire si vous frappez. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour améliorer votre saut ; chaque niveau d'Effort utilisé de cette manière ajoute +2 pieds à la hauteur et +1 dégâts à l'attaque. Action.
 
-**Attaque successive** (2 points de Rapidité) : Si vous éliminez un ennemi, vous pouvez immédiatement effectuer une autre attaque au cours du même tour contre un nouvel ennemi à votre portée. La deuxième attaque fait partie de la même action. Vous pouvez utiliser cette capacité avec des attaques de mêlée et des attaques à distance. Facilitateur.
+**Attaque successive** (2 points de Célérité) : Si vous éliminez un ennemi, vous pouvez immédiatement effectuer une autre attaque au cours du même tour contre un nouvel ennemi à votre portée. La deuxième attaque fait partie de la même action. Vous pouvez utiliser cette capacité avec des attaques de mêlée et des attaques à distance. Facilitateur.
 
 **Attaque surprise**: si vous attaquez depuis un point de vue caché, avec surprise ou avant que votre adversaire n'agisse, vous obtenez un atout pour l'attaque. En cas de réussite, vous infligez 2 points de dégâts supplémentaires. Facilitateur.
 
 **Attaque étourdissante** (3 points de Puissance): vous frappez votre ennemi juste au bon endroit, l'étourdissant de sorte que les tâches qu'il tentera lors de son prochain tour seront gênées. Cette attaque inflige des dégâts normaux. Action.
 
-**Attaquer les yeux** (2 points de Rapidité) : Vous effectuez une attaque contre une créature avec un œil. L'attaque est gênée, mais si vous touchez, la créature a du mal à voir pendant l'heure suivante. Pendant ce temps, les tâches de la créature qui dépendent de la vue (qui constituent la plupart des tâches) sont entravées. Action.
+**Attaquer les yeux** (2 points de Célérité) : Vous effectuez une attaque contre une créature avec un œil. L'attaque est gênée, mais si vous touchez, la créature a du mal à voir pendant l'heure suivante. Pendant ce temps, les tâches de la créature qui dépendent de la vue (qui constituent la plupart des tâches) sont entravées. Action.
 
 **Attaquez et attaquez encore**: Plutôt que d'accorder des dégâts supplémentaires ou un effet mineur ou majeur, un 17 naturel ou plus sur votre jet d'attaque vous permet de lancer immédiatement une autre attaque. Facilitateur.
 
@@ -1837,7 +1837,7 @@ Si vous vous harmonisez à une arme différente, inventez une histoire expliquan
 
 **Augmentation de la portée**: les portées augmentent d'un cran. L'immédiat devient court, le court devient long, le long devient très long et le très long devient 1 000 pieds (300 m). Facilitateur.
 
-**Augmentation défensive**: en améliorant vos systèmes nerveux et immunitaire, vous êtes entraîné aux tâches de défense de Puissance et de défense de Rapidité. Facilitateur.
+**Augmentation défensive**: en améliorant vos systèmes nerveux et immunitaire, vous êtes entraîné aux tâches de défense de Puissance et de défense de Célérité. Facilitateur.
 
 **Augmente les dommages**: Vous infligez 3 points de dégâts supplémentaires avec l'arme de votre choix. Facilitateur.
 
@@ -1851,11 +1851,11 @@ Si vous vous harmonisez à une arme différente, inventez une histoire expliquan
 
 **Avantage de Stat Amélioré**: choisissez un de vos Avantage de statistique qui est de 0. Il passe à 1. Enabler.
 
-**Avantage de Rapidité Amélioré**: vous gagnez +1 à votre Speed ​​Edge. Facilitateur.
+**Avantage de Célérité Amélioré**: vous gagnez +1 à votre Speed ​​Edge. Facilitateur.
 
 **Avantage d’Intelligence amélioré**: vous gagnez +1 à votre avantage intellectuel. Facilitateur.
 
-**Avantage par Désavantage** (3 points de Rapidité) : Avec un certain nombre de mouvements rapides, vous lancez une attaque contre un ennemi armé, lui infligeant des dégâts et le désarmant de sorte que son arme soit maintenant entre vos mains ou à 10 pieds (3 m) au sol. - à vous de choisir. Cette attaque désarmante est entravée. Action.
+**Avantage par Désavantage** (3 points de Célérité) : Avec un certain nombre de mouvements rapides, vous lancez une attaque contre un ennemi armé, lui infligeant des dégâts et le désarmant de sorte que son arme soit maintenant entre vos mains ou à 10 pieds (3 m) au sol. - à vous de choisir. Cette attaque désarmante est entravée. Action.
 
 **Avantages d'être grand**: lorsque vous utilisez Agrandir, vous êtes si grand que vous pouvez déplacer des objets massifs plus facilement, escalader des bâtiments en utilisant des poignées et des pieds inaccessibles aux personnes de taille normale et sauter beaucoup plus loin. Pendant que vous profitez des effets d'Agrandir, toutes les tâches d'escalade, de levage et de saut sont facilitées. Facilitateur.
 
@@ -1881,9 +1881,9 @@ Si vous vous harmonisez à une arme différente, inventez une histoire expliquan
 
 **Blocage rapide**: si vous utilisez une arme légère ou moyenne, vous êtes entraîné aux tâches de défense rapide. Facilitateur.
 
-**Bloquer** (3 points de Rapidité): Vous bloquez automatiquement la prochaine attaque de mêlée lancée contre vous dans la minute suivante. Action à initier.
+**Bloquer** (3 points de Célérité): Vous bloquez automatiquement la prochaine attaque de mêlée lancée contre vous dans la minute suivante. Action à initier.
 
-**Bloquer pour un autre**: si vous utilisez une arme légère ou moyenne, vous pouvez bloquer les attaques lancées contre un allié proche de vous. Choisissez une créature à portée immédiate. Vous fournissez un atout aux tâches de défense de Rapidité de cette créature. Vous ne pouvez pas utiliser Quick Bloquer lorsque vous utilisez Bloquer for Another. Facilitateur.
+**Bloquer pour un autre**: si vous utilisez une arme légère ou moyenne, vous pouvez bloquer les attaques lancées contre un allié proche de vous. Choisissez une créature à portée immédiate. Vous fournissez un atout aux tâches de défense de Célérité de cette créature. Vous ne pouvez pas utiliser Quick Bloquer lorsque vous utilisez Bloquer for Another. Facilitateur.
 
 **Blâme détourné** (2+ points d'Intelligence) : En utilisant des mots biens choisis et votre connaissance des autres, vous pouvez tenter de modifier le récit de sorte qu'une cible jusqu'au niveau 3 à courte portée devienne incertaine de sa conviction dans un domaine simple, comme leur la conviction que vous venez de voler un fruit sur leur stand ou la conviction qu'ils ne vous ont jamais rencontré auparavant. Cet effet ne dure généralement que le temps que vous passez à parler, et peut-être jusqu'à une minute de plus, avant que la cible ne se rende compte de son erreur. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour augmenter le niveau cible qui peut être affecté. Par la suite, toutes vos tâches visant à persuader ou à interagir socialement avec la cible sont entravées. Action.
 
@@ -1913,7 +1913,7 @@ Votre futur moi partage vos statistiques, donc tous les dégâts que l'un de vou
 
 **Bouclier énergisé**: votre bouclier de force issu de votre capacité Champ de force Shield émet désormais une énergie dangereuse chaque fois que vous la manifestez. Chaque fois que vous utilisez votre bouclier comme arme de mêlée ou à distance, il inflige 3 points de dégâts supplémentaires. Facilitateur.
 
-**Bouquet d'évasion** (5 points de Rapidité): vous pouvez effectuer deux actions distinctes ce tour-ci, à condition que l'une d'elles consiste à vous cacher ou à vous déplacer dans une direction qui n'est pas vers un ennemi. Facilitateur.
+**Bouquet d'évasion** (5 points de Célérité): vous pouvez effectuer deux actions distinctes ce tour-ci, à condition que l'une d'elles consiste à vous cacher ou à vous déplacer dans une direction qui n'est pas vers un ennemi. Facilitateur.
 
 **Bricoleur** (1 point d'Intelligence) : Vous faites faire à un appareil quelque chose de différent de son objectif initial. Par exemple, un blaster devient une bombe. Un scanner devient un amplificateur de signal pour un émetteur radio. Un lecteur de musique devient une batterie pour un autre appareil. Le niveau effectif de l'appareil modifié est inférieur de 1 à la normale et l'appareil devient inutilisable (pour son objectif initial) jusqu'à ce qu'il soit réparé. Action à initier.
 
@@ -1925,7 +1925,7 @@ Votre futur moi partage vos statistiques, donc tous les dégâts que l'un de vou
 
 **Briser la ligne** (4 points d'Intelligence): Vous avez le sens de la discipline de groupe et de la hiérarchie, même parmi vos ennemis. Si un groupe d’ennemis tire un quelconque avantage de sa collaboration, vous pouvez tenter de perturber cet avantage en soulignant le point faible de la ligne, de la formation ou de l’attaque en masse de l’ennemi. Cet effet dure jusqu'à une minute ou jusqu'à ce que tous les ennemis affectés passent un tour à s'évaluer et à se réinitialiser pour retrouver leur avantage normal. Action à initier.
 
-**Briser les rangs** (6 points de Rapidité) : vous vous déplacez sur une courte distance et attaquez jusqu'à quatre ennemis différents en une seule action tant qu'ils se trouvent tout au long de votre chemin. Tous les modificateurs qui s'appliquent à une attaque s'appliquent à toutes les attaques que vous effectuez. Si vous disposez d'une autre capacité spéciale qui vous permet de vous déplacer et d'effectuer une action, lorsque vous utilisez Break the Ranks, vous gagnez un atout pour attaquer ces ennemis. Action.
+**Briser les rangs** (6 points de Célérité) : vous vous déplacez sur une courte distance et attaquez jusqu'à quatre ennemis différents en une seule action tant qu'ils se trouvent tout au long de votre chemin. Tous les modificateurs qui s'appliquent à une attaque s'appliquent à toutes les attaques que vous effectuez. Si vous disposez d'une autre capacité spéciale qui vous permet de vous déplacer et d'effectuer une action, lorsque vous utilisez Break the Ranks, vous gagnez un atout pour attaquer ces ennemis. Action.
 
 **Briser leur esprit** (7+ points d'intelligence): en utilisant vos mots intelligents et votre connaissance des autres, et en vous donnant quelques tours de conversation pour obtenir quelques éléments de contexte spécifiques concernant votre cible, vous pouvez prononcer une phrase conçue pour provoquer immédiatement votre cible. la détresse psychologique. Si la cible peut vous entendre et vous comprendre, elle subit 6 points de dégâts d'Intelligence (ignore l'armure) et oublie le dernier jour de sa vie, ce qui pourrait signifier qu'elle vous oublie et comment elle en est arrivée là où elle se trouve actuellement. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour tenter de briser l'esprit d'une cible supplémentaire qui peut vous entendre et vous comprendre. Action à initier, action à terminer.
 
@@ -1977,9 +1977,13 @@ Calme Stranger/Calmeer un Etranger (2+ points d'Intelligence) : Vous pouvez fair
 
 **Cavalier**: Vous êtes entraîné à monter tout type de créature servant de monture, comme un noble cheval de guerre. Facilitateur.
 
+**Célérité améliorée**: vous gagnez 3 points dans votre Réserve de Célérité. Facilitateur.
+
+**Célérité améliorée supérieure**: vous gagnez 6 points dans votre Réserve de Célérité. Facilitateur.
+
 **Centre d'attention** (5 points d'intelligence): Un faisceau littéral (ou métaphorique, selon le genre) de pur rayonnement descend d'en haut et vous met en lumière. Toutes les créatures que vous choisissez à portée immédiate tombent à genoux et perdent leur prochaine action. Les cibles affectées ne peuvent pas se défendre et sont traitées comme impuissantes. Action.
 
-**Chace Etonnante** (4 points de Rapidité) : lorsque vous lancez un dé pour une tâche et que vous réussissez, lancez à nouveau. Si le deuxième chiffre obtenu est supérieur au premier, vous obtenez un effet mineur. Si vous lancez à nouveau le même chiffre, vous obtenez un effet majeur. Si vous disposez d'une chance étrange provenant d'une autre source ou d'une capacité similaire, c'est à vous de choisir (aucun jet requis) si vous obtenez un effet mineur, un effet majeur ou une activation gratuite de l'une de vos capacités de concentration de niveau 1 à 3. Facilitateur.
+**Chace Etonnante** (4 points de Célérité) : lorsque vous lancez un dé pour une tâche et que vous réussissez, lancez à nouveau. Si le deuxième chiffre obtenu est supérieur au premier, vous obtenez un effet mineur. Si vous lancez à nouveau le même chiffre, vous obtenez un effet majeur. Si vous disposez d'une chance étrange provenant d'une autre source ou d'une capacité similaire, c'est à vous de choisir (aucun jet requis) si vous obtenez un effet mineur, un effet majeur ou une activation gratuite de l'une de vos capacités de concentration de niveau 1 à 3. Facilitateur.
 
 **Chair de Pierre** : Vous avez +1 à l'Armure si vous ne portez pas d'armure physique. Facilitateur.
 
@@ -2021,7 +2025,7 @@ Calme Stranger/Calmeer un Etranger (2+ points d'Intelligence) : Vous pouvez fair
 
 **Charge en Horde** (7 points de Puissance) : vous et deux ou plusieurs de vos partisans à côté de vous pouvez agir comme une seule créature pour effectuer une attaque de charge. Lorsque vous le faites, vous vous déplacez tous sur une courte distance, pendant laquelle vous pouvez attaquer tout ce qui se trouve à portée immédiate sur votre chemin avec un atout pour l'attaque. Les cibles qui subissent des dégâts prennent 3 points supplémentaires et sont mises à terre. Action.
 
-**Chariot à vent** (7+ points d'Intelligence) : Vous invoquez des vents qui vous soulèvent et vous permettent de voler sur une longue distance à chaque round en combat ou avec une Rapidité terrestre allant jusqu'à 200 miles par heure (320 km/h) jusqu'à dix heures. Pour chaque niveau d'Effort que vous appliquez, vous pouvez amener avec vous un allié d'environ votre taille dans les airs ou augmenter la durée de l'effet d'une heure. Action à initier.
+**Chariot à vent** (7+ points d'Intelligence) : Vous invoquez des vents qui vous soulèvent et vous permettent de voler sur une longue distance à chaque round en combat ou avec une Célérité terrestre allant jusqu'à 200 miles par heure (320 km/h) jusqu'à dix heures. Pour chaque niveau d'Effort que vous appliquez, vous pouvez amener avec vous un allié d'environ votre taille dans les airs ou augmenter la durée de l'effet d'une heure. Action à initier.
 
 **Charisme naturel**: Vous êtes formé à toutes les interactions sociales, qu’elles impliquent le charme, l’apprentissage des secrets d’une personne ou l’intimidation des autres. Facilitateur.
 
@@ -2039,17 +2043,17 @@ Calme Stranger/Calmeer un Etranger (2+ points d'Intelligence) : Vous pouvez fair
 
 **Choc Electrique** (1 point d'Intelligence) : Vos mains crépitent d'électricité, et la prochaine fois que vous touchez une créature, vous infligez 3 points de dégâts. Alternativement, si vous maniez une arme, celle-ci crépite d'électricité pendant dix minutes et inflige 1 point de dégâts supplémentaire par attaque. Action pour le toucher ; facilitateur pour arme.
 
-**Chute contrôlée**: lorsque vous tombez alors que vous êtes capable d'utiliser des actions et à portée d'une surface verticale, vous pouvez tenter de ralentir votre chute. Effectuez un jet de Rapidité avec une difficulté de 1 tous les 20 pieds (6 m) de chute. En cas de réussite, vous subissez la moitié des dégâts de la chute. Si vous réduisez la difficulté à 0, vous ne subissez aucun dégât. Facilitateur.
+**Chute contrôlée**: lorsque vous tombez alors que vous êtes capable d'utiliser des actions et à portée d'une surface verticale, vous pouvez tenter de ralentir votre chute. Effectuez un jet de Célérité avec une difficulté de 1 tous les 20 pieds (6 m) de chute. En cas de réussite, vous subissez la moitié des dégâts de la chute. Si vous réduisez la difficulté à 0, vous ne subissez aucun dégât. Facilitateur.
 
 **Chute en toute sécurité** : Vous réduisez les dégâts d’une chute de 5 points. Facilitateur.
 
-**Cible difficile**: si vous vous déplacez sur une courte distance ou plus loin pendant votre round, tous les jets de défense de Rapidité sont facilités. Facilitateur.
+**Cible difficile**: si vous vous déplacez sur une courte distance ou plus loin pendant votre round, tous les jets de défense de Célérité sont facilités. Facilitateur.
 
-**Claque** (1 point de Rapidité) : Il s’agit d’une attaque de mêlée rapide et agile. Votre attaque inflige 1 point de dégâts de moins que la normale mais étourdit votre cible pendant un round, durant lequel toutes les tâches qu'elle effectue sont gênées. Action.
+**Claque** (1 point de Célérité) : Il s’agit d’une attaque de mêlée rapide et agile. Votre attaque inflige 1 point de dégâts de moins que la normale mais étourdit votre cible pendant un round, durant lequel toutes les tâches qu'elle effectue sont gênées. Action.
 
-**Client Fuyant**: lorsque vous appliquez un effort à des tâches impliquant d'échapper aux liens, de s'adapter à des espaces restreints et d'autres tâches contorsionnistes, vous obtenez un niveau d'effort gratuit sur la tâche. Grâce à votre expérience, vous êtes également formé aux tâches de défense de Rapidité en portant une armure légère ou sans armure. Facilitateur.
+**Client Fuyant**: lorsque vous appliquez un effort à des tâches impliquant d'échapper aux liens, de s'adapter à des espaces restreints et d'autres tâches contorsionnistes, vous obtenez un niveau d'effort gratuit sur la tâche. Grâce à votre expérience, vous êtes également formé aux tâches de défense de Célérité en portant une armure légère ou sans armure. Facilitateur.
 
-**Clignotement défensif** (4 points d'Intelligence) : Vous entrez dans un état réactif accru de sorte que lorsque vous êtes frappé suffisamment fort pour subir des dégâts, vous vous téléportez à une distance immédiate dans une direction aléatoire (ni vers le haut ni vers le bas) pour aider à échapper au plus gros de l'attaque. Vos jets de défense Rapidité sont allégés pendant une minute. Action.
+**Clignotement défensif** (4 points d'Intelligence) : Vous entrez dans un état réactif accru de sorte que lorsque vous êtes frappé suffisamment fort pour subir des dégâts, vous vous téléportez à une distance immédiate dans une direction aléatoire (ni vers le haut ni vers le bas) pour aider à échapper au plus gros de l'attaque. Vos jets de défense Célérité sont allégés pendant une minute. Action.
 
 **Cogneur Entraîné**: vous êtes entraîné à utiliser les poings de pierre de votre corps de Golem comme arme moyenne. Facilitateur.
 
@@ -2061,13 +2065,13 @@ Calme Stranger/Calmeer un Etranger (2+ points d'Intelligence) : Vous pouvez fair
 
 **Combat spatial**: en profitant des conditions de microgravité, vous pouvez utiliser l'inertie et la masse à votre avantage. Si vous passez un tour à préparer une attaque de mêlée (ou une attaque à partir d'un objet lancé ou lancé) en apesanteur ou en apesanteur, l'attaque inflige 6 points de dégâts supplémentaires. Facilitateur.
 
-**Combats de Horde**: lorsque deux ennemis ou plus vous attaquent simultanément au corps à corps, vous pouvez les utiliser les uns contre les autres. Vous gagnez un atout pour les jets de défense de Rapidité ou les jets d'attaque (votre choix à chaque tour) contre eux. Facilitateur.
+**Combats de Horde**: lorsque deux ennemis ou plus vous attaquent simultanément au corps à corps, vous pouvez les utiliser les uns contre les autres. Vous gagnez un atout pour les jets de défense de Célérité ou les jets d'attaque (votre choix à chaque tour) contre eux. Facilitateur.
 
 **Combattant aquatique** : vous ignorez les pénalités pour toute action (y compris les combats) dans des environnements sous-marins. Facilitateur.
 
 **Combattant de Robot**: Lorsque vous combattez un robot ou une machine intelligente, vous êtes formé aux attaques et à la défense. Facilitateur.
 
-**Combattant mobile** (3 points de Rapidité) : dans le cadre de votre attaque, vous pouvez sauter sur ou par-dessus des obstacles, vous balancer avec des cordes, courir sur des surfaces étroites ou vous déplacer sur le champ de bataille à votre Rapidité normale comme si de telles tâches étaient de routine (difficulté 0 ). Vous ne pouvez pas utiliser cette capacité si vos coûts d’effort de Rapidité sont réduits par le port d’une armure. Facilitateur.
+**Combattant mobile** (3 points de Célérité) : dans le cadre de votre attaque, vous pouvez sauter sur ou par-dessus des obstacles, vous balancer avec des cordes, courir sur des surfaces étroites ou vous déplacer sur le champ de bataille à votre Célérité normale comme si de telles tâches étaient de routine (difficulté 0 ). Vous ne pouvez pas utiliser cette capacité si vos coûts d’effort de Célérité sont réduits par le port d’une armure. Facilitateur.
 
 **Combattant sans armure**: sans armure, vous êtes entraîné aux tâches de défense rapide. Facilitateur.
 
@@ -2108,7 +2112,7 @@ En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'ut
 
 **Compagnon machine**: vous créez une machine animée et intelligente de niveau 3 qui vous accompagne et agit selon vos directives. En tant que compagnon machine de niveau 3, il a un nombre cible de 9 et 9 points de vie, et il inflige 3 points de dégâts. S’il est détruit, il vous faut un mois pour en créer un nouveau. Facilitateur.
 
-**Compagnon volant**: vous gagnez une créature compagnon de niveau 3 qui peut voler à la même Rapidité que vous ; selon d'autres aspects de votre personnage, il peut s'agir d'un oiseau dressé, d'un drone machine ou d'une créature étrange et utile comme un familier. Cette créature vous accompagne et agit selon vos directives. En tant que compagnon de niveau 3, il a un nombre cible de 9 et 9 points de vie, et il inflige 3 points de dégâts. S’il est tué ou détruit, il vous faut un mois pour trouver ou créer un remplaçant approprié. Facilitateur.
+**Compagnon volant**: vous gagnez une créature compagnon de niveau 3 qui peut voler à la même Célérité que vous ; selon d'autres aspects de votre personnage, il peut s'agir d'un oiseau dressé, d'un drone machine ou d'une créature étrange et utile comme un familier. Cette créature vous accompagne et agit selon vos directives. En tant que compagnon de niveau 3, il a un nombre cible de 9 et 9 points de vie, et il inflige 3 points de dégâts. S’il est tué ou détruit, il vous faut un mois pour trouver ou créer un remplaçant approprié. Facilitateur.
 
 **Compression dimensionnelle** (2+ points d'Intelligence) : Vous vous tassez dans une dimension de transition, vous permettant d'apparaître instantanément n'importe où vous le souhaitez à courte portée si vous avez un chemin clair et dégagé vers cet emplacement. Vous pouvez franchir une barrière intermédiaire si elle comporte un espace ouvert dans lequel vous pouvez facilement passer votre tête – environ 1 pied carré (30 cm sur 30 cm carrés). En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour passer à travers une ouverture plus petite dans une barrière ; chaque niveau d'effort utilisé de cette manière réduit la taille minimale de l'ouverture d'un quart. Vous atterrissez en toute sécurité lorsque vous utilisez cette capacité. Action.
 Dimension de transition : une dimension dans laquelle les distances sont plus courtes que celles des autres dimensions, donc le voyage à travers elle est plus rapide que le mouvement normal.
@@ -2125,9 +2129,9 @@ Dimension de transition : une dimension dans laquelle les distances sont plus c
 
 **Compétence en Attaque Supérieure**: choisissez un type d'attaque, même celui dans lequel vous êtes déjà entraîné : frappe légère, lame légère, à distance légère, frappe moyen, lame moyenne, à distance moyenne, frappe lourde, lame lourde ou à distance lourde. Vous êtes entraîné aux attaques utilisant ce type d’arme. Si vous êtes déjà entraîné à ce type d’attaque, vous êtes alors spécialisé dans ce type d’attaque. Facilitateur.
 
-**Compétence en Défense Supérieure**: choisissez un type de tâche de défense, même celle pour laquelle vous êtes déjà entraîné : Puissance, Rapidité ou Intelligence. Vous êtes entraîné à des tâches de défense de ce type, ou spécialisé si vous êtes déjà entraîné. Vous pouvez sélectionner cette capacité jusqu'à trois fois. Chaque fois que vous le sélectionnez, vous devez choisir un type de tâche de défense différent. Facilitateur.
+**Compétence en Défense Supérieure**: choisissez un type de tâche de défense, même celle pour laquelle vous êtes déjà entraîné : Puissance, Célérité ou Intelligence. Vous êtes entraîné à des tâches de défense de ce type, ou spécialisé si vous êtes déjà entraîné. Vous pouvez sélectionner cette capacité jusqu'à trois fois. Chaque fois que vous le sélectionnez, vous devez choisir un type de tâche de défense différent. Facilitateur.
 
-**Compétence en défense**: choisissez un type de tâche de défense pour laquelle vous n'êtes pas déjà entraîné: Puissance, Rapidité ou intelligence. Vous êtes entraîné à des tâches de défense de ce type. Facilitateur.
+**Compétence en défense**: choisissez un type de tâche de défense pour laquelle vous n'êtes pas déjà entraîné: Puissance, Célérité ou intelligence. Vous êtes entraîné à des tâches de défense de ce type. Facilitateur.
 
 **Compétence supplémentaire** : vous êtes entraîné à une compétence de votre choix (autre que les attaques ou la défense) dans laquelle vous n'êtes pas déjà entraîné. Vous pouvez sélectionner cette capacité plusieurs fois. Chaque fois que vous le sélectionnez, vous devez choisir une compétence différente. Facilitateur.
 
@@ -2203,7 +2207,7 @@ Dimension de transition : une dimension dans laquelle les distances sont plus c
 
 **Continuez le combat**: vous ne subissez pas les pénalités normales en cas d'altération sur la piste des dégâts. Si vous êtes affaibli, au lieu de subir la pénalité normale d'être incapable d'entreprendre la plupart des actions, vous pouvez continuer à agir ; cependant, toutes les tâches sont entravées. Facilitateur.
 
-**Contorsionniste** (2 points de Rapidité): Vous pouvez vous libérer des fixations ou vous faufiler dans un endroit restreint. Vous êtes entraîné à vous évader. Lorsque vous utilisez une action pour vous échapper ou vous déplacer dans une zone restreinte, vous pouvez immédiatement utiliser une autre action. Vous ne pouvez utiliser cette action que pour vous déplacer. Facilitateur.
+**Contorsionniste** (2 points de Célérité): Vous pouvez vous libérer des fixations ou vous faufiler dans un endroit restreint. Vous êtes entraîné à vous évader. Lorsque vous utilisez une action pour vous échapper ou vous déplacer dans une zone restreinte, vous pouvez immédiatement utiliser une autre action. Vous ne pouvez utiliser cette action que pour vous déplacer. Facilitateur.
 
 **Contourner la barrière** (6+ points d'Intelligence) : Vous franchissez une porte, un champ de force ou une autre barrière jusqu'à 3 pieds (1 m) d'épaisseur qui bloque votre chemin. En fonction de la barrière, cela peut impliquer de trouver un point faible que vous pouvez franchir, d'appuyer sur le bouton droit par chance, de simplement franchir, ou même des explications plus étranges comme toucher un espace mince entre les dimensions ou une interaction inattendue avec votre équipement. La difficulté de la tâche réside dans le niveau de la barrière. Cette capacité vous permet de passer seul, pas à quelqu'un d'autre, et le passage se ferme à la fin de votre tour (ce qui peut signifier que vous êtes piégé de l'autre côté). Vous disposez d’un atout dans toute tentative de vous en sortir à nouveau. En plus des options normales d'utilisation d'Effort, vous pouvez choisir d'utiliser Effort pour augmenter l'épaisseur maximale de la barrière, chaque niveau ajoutant 3 pieds (1 m). Action.
 
@@ -2231,7 +2235,7 @@ Dimension de transition : une dimension dans laquelle les distances sont plus c
 
 **Contrôler le terrain** (1 point de Puissance): Cette attaque de mêlée inflige 1 point de dégâts de moins que la normale, et que vous touchiez ou non la cible, vous la manœuvrez dans une position que vous désirez à portée immédiate. Action.
 
-**Coordination Main-Oeil** (2 points de Rapidité) : Cette capacité constitue un atout pour toutes les tâches impliquant de la dextérité manuelle, telles que le vol à la tire, le crochetage, les jeux d'agilité, etc. Chaque utilisation dure jusqu'à une minute ; une nouvelle utilisation (pour changer de tâche) remplace l'utilisation précédente. Action à initier.
+**Coordination Main-Oeil** (2 points de Célérité) : Cette capacité constitue un atout pour toutes les tâches impliquant de la dextérité manuelle, telles que le vol à la tire, le crochetage, les jeux d'agilité, etc. Chaque utilisation dure jusqu'à une minute ; une nouvelle utilisation (pour changer de tâche) remplace l'utilisation précédente. Action à initier.
 
 **Copain** (3 points d'Intelligence): Choisissez un personnage à côté de vous. Ce personnage devient votre copain pendant dix minutes. Vous êtes entraîné à toutes les tâches impliquant la recherche, la guérison, l'interaction avec et la protection de votre copain. De plus, lorsque vous vous tenez à côté de votre copain, vous disposez tous les deux d’un atout dans les tâches de défense rapide. Vous ne pouvez avoir qu'un seul copain à la fois. Action à initier.
 
@@ -2245,13 +2249,13 @@ Lorsque vous utilisez la Copie Améliorée, une capacité copiée doit être de 
 
 **Coquille de matière noire** (5 points d'Intelligence): Pendant la minute suivante, vous vous couvrez d'une coquille de matière noire. Votre apparence devient une silhouette sombre, et vous gagnez un atout pour les tâches de furtivité et gagnez +1 à votre armure. La coque de matière noire fonctionne parfaitement avec vos désirs, et si vous appliquez un niveau d'effort à n'importe quelle tâche physique pendant que la coque persiste, vous pouvez appliquer un niveau d'effort gratuit supplémentaire à cette même tâche. Action à initier.
 
-**Corps amélioré** : les pièces de votre machine vous accordent +1 à l'Armure, +3 à votre réserve de Puissance et +3 à votre Réserve de Rapidité. Les compétences, médicaments et techniques de guérison traditionnels ne fonctionnent qu’à moitié aussi bien pour vous. Chaque fois que vous démarrez en pleine santé, les 5 premiers points de dégâts que vous subissez ne pourront jamais être soignés de cette manière ou récupérés normalement. Au lieu de cela, vous devez utiliser des compétences et des capacités de réparation pour restaurer ces points. Par exemple, si vous commencez avec une réserve de Puissance complète de 10 et subissez 8 points de dégâts, vous pouvez utiliser des jets de récupération pour restaurer 3 points, mais les 5 points restants doivent être restaurés avec des tâches de réparation. Facilitateur.
+**Corps amélioré** : les pièces de votre machine vous accordent +1 à l'Armure, +3 à votre réserve de Puissance et +3 à votre Réserve de Célérité. Les compétences, médicaments et techniques de guérison traditionnels ne fonctionnent qu’à moitié aussi bien pour vous. Chaque fois que vous démarrez en pleine santé, les 5 premiers points de dégâts que vous subissez ne pourront jamais être soignés de cette manière ou récupérés normalement. Au lieu de cela, vous devez utiliser des compétences et des capacités de réparation pour restaurer ces points. Par exemple, si vous commencez avec une réserve de Puissance complète de 10 et subissez 8 points de dégâts, vous pouvez utiliser des jets de récupération pour restaurer 3 points, mais les 5 points restants doivent être restaurés avec des tâches de réparation. Facilitateur.
 
-**Corps de Cristal**: Vous êtes composé de cristal animé et translucide de couleur ambre. Travaillez avec votre MJ pour décider de votre forme exacte, même s'il s'agit probablement de la forme et de la taille d'un humanoïde. Votre corps de cristal vous accorde +2 à votre armure et +4 à votre réserve de Puissance. Cependant, vous n’êtes pas rapide et vos tâches de défense de Rapidité sont gênées. Certaines conditions, comme les maladies banales et les poisons, ne vous affectent pas. Votre corps cristallin se répare plus lentement qu’un corps de chair vivante. Vous ne disposez que des jets de récupération d'un tour, d'une heure et de dix heures disponibles chaque jour ; vous ne disposez pas d'un jet de récupération de dix minutes. Toute capacité dont vous disposez qui nécessite un jet de récupération de dix minutes nécessite à la place un jet de récupération d'une heure. Facilitateur.
+**Corps de Cristal**: Vous êtes composé de cristal animé et translucide de couleur ambre. Travaillez avec votre MJ pour décider de votre forme exacte, même s'il s'agit probablement de la forme et de la taille d'un humanoïde. Votre corps de cristal vous accorde +2 à votre armure et +4 à votre réserve de Puissance. Cependant, vous n’êtes pas rapide et vos tâches de défense de Célérité sont gênées. Certaines conditions, comme les maladies banales et les poisons, ne vous affectent pas. Votre corps cristallin se répare plus lentement qu’un corps de chair vivante. Vous ne disposez que des jets de récupération d'un tour, d'une heure et de dix heures disponibles chaque jour ; vous ne disposez pas d'un jet de récupération de dix minutes. Toute capacité dont vous disposez qui nécessite un jet de récupération de dix minutes nécessite à la place un jet de récupération d'une heure. Facilitateur.
 
-**Corps de Golem**: vous gagnez +1 en armure, +1 en Puissance et 5 points supplémentaires en Puissance. Vous n’avez pas besoin de manger, de boire ou de respirer (même si vous avez besoin de repos et de sommeil). Vous vous déplacez avec plus de rigidité qu'une créature de chair, ce qui signifie que vous ne pouvez jamais être entraîné ou spécialisé dans les jets de défense de Rapidité. De plus, vous êtes habitué à utiliser vos poings de pierre comme arme moyenne. Facilitateur.
+**Corps de Golem**: vous gagnez +1 en armure, +1 en Puissance et 5 points supplémentaires en Puissance. Vous n’avez pas besoin de manger, de boire ou de respirer (même si vous avez besoin de repos et de sommeil). Vous vous déplacez avec plus de rigidité qu'une créature de chair, ce qui signifie que vous ne pouvez jamais être entraîné ou spécialisé dans les jets de défense de Célérité. De plus, vous êtes habitué à utiliser vos poings de pierre comme arme moyenne. Facilitateur.
 
-**Corps en bois** (1+ points de Puissance) : Vous transformez votre corps en bois vivant pendant dix minutes, ce qui vous confère plusieurs avantages. Vous gagnez +1 en Armure et vous êtes entraîné à utiliser vos membres comme armes moyennes. Vous avez besoin d’environ un dixième de moins d’air qu’un humain. Se cacher parmi les arbres ou sur un arbre est facilité. Cependant, sous votre forme en bois, vous vous déplacez plus rigidement qu'une créature de chair, ce qui gêne vos jets de défense de Rapidité. Action de modifier ou de revenir en arrière.
+**Corps en bois** (1+ points de Puissance) : Vous transformez votre corps en bois vivant pendant dix minutes, ce qui vous confère plusieurs avantages. Vous gagnez +1 en Armure et vous êtes entraîné à utiliser vos membres comme armes moyennes. Vous avez besoin d’environ un dixième de moins d’air qu’un humain. Se cacher parmi les arbres ou sur un arbre est facilité. Cependant, sous votre forme en bois, vous vous déplacez plus rigidement qu'une créature de chair, ce qui gêne vos jets de défense de Célérité. Action de modifier ou de revenir en arrière.
 
 **Couleurs Eblouissantes** (2 points d'Intelligence): Vous envoyez un barrage de couleurs éblouissantes sur une créature à courte portée et, en cas de réussite, vous infligez 2 points de dégâts à la cible. De plus, les attaques de la créature sont gênées lors de son prochain tour, sauf si la cible s’appuie principalement sur ses sens autres que la vue. Action.
 
@@ -2271,9 +2275,9 @@ Lorsque vous utilisez la Copie Améliorée, une capacité copiée doit être de 
 
 **Courir et combattre** (4 points de Puissance) : Vous pouvez vous déplacer sur une courte distance et effectuer une attaque au corps à corps qui inflige 2 points de dégâts supplémentaires. Action.
 
-**Course d'obstacles** (3 points de Rapidité) : pendant la minute suivante, vous pouvez ignorer les obstacles qui ralentissent votre mouvement, vous permettant de voyager à Rapidité normale à travers des zones avec des décombres, des clôtures, des tables et des objets similaires sur lesquels vous devrez grimper ou déplacer. autour. Ce mouvement peut inclure glisser sur une balustrade, courir brièvement le long d'un mur ou même marcher sur une créature pour vous améliorer sur quelque chose. Si un obstacle nécessite normalement une tâche de Puissance ou de Rapidité pour être surmonté, comme se balancer sur une corde, rester en équilibre sur une corde ou sauter par-dessus un trou, vous êtes formé à cette tâche. Facilitateur.
+**Course d'obstacles** (3 points de Célérité) : pendant la minute suivante, vous pouvez ignorer les obstacles qui ralentissent votre mouvement, vous permettant de voyager à Célérité normale à travers des zones avec des décombres, des clôtures, des tables et des objets similaires sur lesquels vous devrez grimper ou déplacer. autour. Ce mouvement peut inclure glisser sur une balustrade, courir brièvement le long d'un mur ou même marcher sur une créature pour vous améliorer sur quelque chose. Si un obstacle nécessite normalement une tâche de Puissance ou de Célérité pour être surmonté, comme se balancer sur une corde, rester en équilibre sur une corde ou sauter par-dessus un trou, vous êtes formé à cette tâche. Facilitateur.
 
-**Court et Attrape** (2 points de Rapidité) : Vous pouvez courir sur une courte distance et effectuer une attaque au corps à corps pour attraper un ennemi de votre taille ou plus petit. Une attaque réussie signifie que vous saisissez l'ennemi et l'arrêtez s'il bougeait (cela peut être traité comme un plaquage, le cas échéant). Action.
+**Court et Attrape** (2 points de Célérité) : Vous pouvez courir sur une courte distance et effectuer une attaque au corps à corps pour attraper un ennemi de votre taille ou plus petit. Une attaque réussie signifie que vous saisissez l'ennemi et l'arrêtez s'il bougeait (cela peut être traité comme un plaquage, le cas échéant). Action.
 
 **Cri fracassant** (5+ points de Puissance) : Votre cri concentré crée une résonance destructrice chez une créature ou un objet à longue portée. Rien ne se passe pendant le round où vous frappez votre cible, à part un bourdonnement ou un bourdonnement inquiétant émis par la cible. Mais lors de votre prochain tour, la résonance brise des objets inanimés discrets, inflige des dégâts majeurs aux structures ou inflige 4 points de dégâts à une créature (ignore l'armure).
 
@@ -2339,7 +2343,7 @@ Facilitateur.
 
 **Difficile à tuer**: vous pouvez choisir de relancer n'importe quelle tâche de défense que vous effectuez, mais jamais plus d'une fois par round. Facilitateur.
 
-**Difficile à voir**: lorsque vous bougez, vous êtes flou. Il est impossible de déterminer votre identité lorsque vous passez devant, et dans un round où vous ne faites que bouger, les tâches furtives et les tâches de Défense de Rapidité sont facilitées. Facilitateur.
+**Difficile à voir**: lorsque vous bougez, vous êtes flou. Il est impossible de déterminer votre identité lorsque vous passez devant, et dans un round où vous ne faites que bouger, les tâches furtives et les tâches de Défense de Célérité sont facilitées. Facilitateur.
 
 **Dire les Choses** (2 points d'Intelligence) : Cette capacité fournit un atout pour toute tâche visant à tenter de tromper, persuader ou intimider. Chaque utilisation dure jusqu'à une minute ; une nouvelle utilisation (pour changer de tâche) remplace l'utilisation précédente. Action à initier.
 
@@ -2351,13 +2355,13 @@ Facilitateur.
 
 **Disparaître** (2 points d'Intelligence) : Vous devenez invisible pendant une courte période. Bien qu'invisible, vous disposez d'un atout pour les tâches de furtivité et de défense rapide. L'invisibilité prend fin à la fin de votre prochain tour, ou si vous faites quelque chose pour révéler votre présence ou votre position : attaquer, utiliser une capacité, déplacer un gros objet, etc. Action.
 
-**Distorsion** (2 points d'Intelligence) : Vous modifiez la façon dont une créature volontaire à courte portée réfléchit la lumière pendant une minute. La cible passe rapidement de son apparence normale à une tache sombre. La cible dispose d'un atout aux jets de défense Rapidité jusqu'à ce que l'effet disparaisse. Action à initier.
+**Distorsion** (2 points d'Intelligence) : Vous modifiez la façon dont une créature volontaire à courte portée réfléchit la lumière pendant une minute. La cible passe rapidement de son apparence normale à une tache sombre. La cible dispose d'un atout aux jets de défense Célérité jusqu'à ce que l'effet disparaisse. Action à initier.
 
 **Distraction verbale** (2+ points d'intelligence) : avec une conversation rapide et des mots déroutants, vous pouvez confondre et distraire toute personne avec qui vous parlez, vous donnant un atout sur les interactions sociales avec cette personne pendant dix minutes. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour affecter des créatures supplémentaires (une par niveau d'Effort). Facilitateur.
 
 **Divisez votre esprit** (7 points d'intelligence) : Vous divisez votre conscience en deux parties. Pendant une minute, vous pouvez effectuer deux actions à chacun de vos tours, mais une seule d'entre elles peut consister à utiliser une capacité spéciale. Action.
 
-**Double Distraction** (1+ points de Rapidité) : lorsque vous utilisez deux armes, la prochaine attaque de votre adversaire est gênée, et si vous appliquez l'effort lors de votre prochaine attaque contre ce même ennemi, vous obtenez un niveau d'effort gratuit sur la tâche. Facilitateur.
+**Double Distraction** (1+ points de Célérité) : lorsque vous utilisez deux armes, la prochaine attaque de votre adversaire est gênée, et si vous appliquez l'effort lors de votre prochaine attaque contre ce même ennemi, vous obtenez un niveau d'effort gratuit sur la tâche. Facilitateur.
 
 **Double défense**: lorsque vous utilisez deux armes, vous êtes entraîné aux tâches de défense rapide. Facilitateur.
 
@@ -2365,17 +2369,17 @@ Facilitateur.
 
 **Double protection** : vous pouvez avoir deux protections de Défenseur dévoué à la fois. Choisir une deuxième balise peut être une action en soi, ou vous pouvez choisir deux balises avec une seule action (et ne payer le coût qu'une seule fois pour cela). Les services doivent rester à distance immédiate les uns des autres. Les avantages fournis par Défenseur dévoué s’appliquent à vos deux protections. Si vos pupilles se séparent, vous choisissez laquelle conserve le bénéfice. S’ils se remettent ensemble, tous deux en retrouvent immédiatement le bénéfice. Facilitateur.
 
-**Drain de Créature** (3+ points d'Intelligence) : Vous pouvez drainer l'énergie d'une créature vivante que vous touchez, infligeant 3 points de dégâts et restaurant 3 points à votre réserve de Puissance ou de Rapidité. Action.
+**Drain de Créature** (3+ points d'Intelligence) : Vous pouvez drainer l'énergie d'une créature vivante que vous touchez, infligeant 3 points de dégâts et restaurant 3 points à votre réserve de Puissance ou de Célérité. Action.
 
-**Drain de Machine** (3+ points d'Intelligence) : Vous pouvez drainer l'énergie d'un artefact ou d'un appareil alimenté que vous touchez. Si la cible est un robot, vous infligez 3 points de dégâts et restaurez 3 points à votre réserve de Puissance ou de Rapidité. Si la cible est un objet, vous restaurez des points dans votre réserve de Puissance ou de Rapidité égaux au niveau de la cible. Si la cible est un chiffre manifeste, il est complètement vidé et inutile. Les artefacts et appareils similaires doivent immédiatement vérifier leur épuisement (les objets avec un épuisement de « - » sont soit immunisés contre cette capacité, soit ont un épuisement de 1 sur 1d10 lorsqu'ils sont attaqués avec cette capacité). Action.
+**Drain de Machine** (3+ points d'Intelligence) : Vous pouvez drainer l'énergie d'un artefact ou d'un appareil alimenté que vous touchez. Si la cible est un robot, vous infligez 3 points de dégâts et restaurez 3 points à votre réserve de Puissance ou de Célérité. Si la cible est un objet, vous restaurez des points dans votre réserve de Puissance ou de Célérité égaux au niveau de la cible. Si la cible est un chiffre manifeste, il est complètement vidé et inutile. Les artefacts et appareils similaires doivent immédiatement vérifier leur épuisement (les objets avec un épuisement de « - » sont soit immunisés contre cette capacité, soit ont un épuisement de 1 sur 1d10 lorsqu'ils sont attaqués avec cette capacité). Action.
 
-**Drain de Puissance** (5 points de Rapidité) : Vous affectez la source d'énergie principale d'un robot ou d'une machine, lui infligeant simultanément les quatre conditions de désactivation des mécanismes. Pour cela, vous devez toucher le robot (si vous effectuez une attaque, cela n'inflige aucun dégât). Action.
+**Drain de Puissance** (5 points de Célérité) : Vous affectez la source d'énergie principale d'un robot ou d'une machine, lui infligeant simultanément les quatre conditions de désactivation des mécanismes. Pour cela, vous devez toucher le robot (si vous effectuez une attaque, cela n'inflige aucun dégât). Action.
 
 **Drain à distance** : vos capacités Drain de Machine et Drain de Créature fonctionnent sur une cible à courte portée. Facilitateur.
 
-**Draîner la vie**: Vous pouvez drainer l'énergie d'une créature vivante en la touchant et en vous concentrant pendant une minute ou plus. Chaque minute que vous passez en contact avec la créature et en vous concentrant sur elle, lui inflige 1 point de dégâts (ignore l'armure) et restaure 1 point à votre réserve de Puissance ou de Rapidité. En raison du contact prolongé requis pour cette capacité, vous ne pouvez normalement l'utiliser que sur une créature volontaire ou impuissante. Si la créature subit suffisamment de dégâts pour la faire perdre connaissance ou la tuer, elle s'effondre en cendres, en poussière ou en un autre matériau inerte. Action à initier.
+**Draîner la vie**: Vous pouvez drainer l'énergie d'une créature vivante en la touchant et en vous concentrant pendant une minute ou plus. Chaque minute que vous passez en contact avec la créature et en vous concentrant sur elle, lui inflige 1 point de dégâts (ignore l'armure) et restaure 1 point à votre réserve de Puissance ou de Célérité. En raison du contact prolongé requis pour cette capacité, vous ne pouvez normalement l'utiliser que sur une créature volontaire ou impuissante. Si la créature subit suffisamment de dégâts pour la faire perdre connaissance ou la tuer, elle s'effondre en cendres, en poussière ou en un autre matériau inerte. Action à initier.
 
-**Duel à mort** (5 points de Rapidité) : Choisissez une cible (une seule créature individuelle que vous pouvez voir). Vous êtes entraîné à toutes les tâches impliquant le combat contre cette créature. Lorsque vous attaquez avec succès cette cible, vous infligez +5 dégâts, ou +7 dégâts si la créature engage quelqu'un d'autre à votre place. Vous ne pouvez affronter qu’une seule créature à la fois. Un duel dure jusqu'à une minute, ou jusqu'à ce que vous l'interrompiez. Action à initier.
+**Duel à mort** (5 points de Célérité) : Choisissez une cible (une seule créature individuelle que vous pouvez voir). Vous êtes entraîné à toutes les tâches impliquant le combat contre cette créature. Lorsque vous attaquez avec succès cette cible, vous infligez +5 dégâts, ou +7 dégâts si la créature engage quelqu'un d'autre à votre place. Vous ne pouvez affronter qu’une seule créature à la fois. Un duel dure jusqu'à une minute, ou jusqu'à ce que vous l'interrompiez. Action à initier.
 
 **Duplicata** (2 points de Puissance) : Vous faites apparaître une copie de vous-même à tout moment que vous pouvez voir à courte portée. Le double n'a ni vêtements ni biens lorsqu'il apparaît. Le double est un PNJ de niveau 2 avec 6 points de vie. Le duplicata obéit à vos commandes et fait ce que vous lui demandez. Le doublon reste jusqu'à ce que vous le rejetiez à l'aide d'une action ou jusqu'à ce qu'il soit tué. Lorsque le double disparaît, il laisse derrière lui tout ce qu’il portait ou transportait. Si le doublon disparaît parce qu'il a été tué, vous subissez 4 points de dégâts qui ignorent l'Armure, et vous perdez votre prochaine action. Action à initier.
 
@@ -2395,21 +2399,21 @@ Facilitateur.
 
 **Déchirer L’Existence**: lorsque vous utilisez Toucher perturbateur, Rayer l’Existence ou Détonation de phase, vous infligez 5 points de dégâts supplémentaires qui ignorent l'armure. Facilitateur.
 
-**Découpe** (2 points de Rapidité) : Il s'agit d'une attaque rapide avec une arme blanche ou pointue contre laquelle il est difficile de se défendre. Vous êtes entraîné à cette tâche. Si l'attaque réussit, elle inflige 1 point de dégâts de moins que la normale. Action.
+**Découpe** (2 points de Célérité) : Il s'agit d'une attaque rapide avec une arme blanche ou pointue contre laquelle il est difficile de se défendre. Vous êtes entraîné à cette tâche. Si l'attaque réussit, elle inflige 1 point de dégâts de moins que la normale. Action.
 
 **Déduire des pensées** (4 points d'Intelligence) : Si vous interagissez avec ou étudiez une cible pendant au moins un round, vous pouvez tenter de lire ses pensées superficielles, même si le sujet ne le souhaite pas. Vous devez être capable de voir la cible. Une fois que vous avez acquis une idée de ce qu'elle pense (à travers son langage corporel, son discours et ce qu'elle fait et ne dit pas), vous pouvez continuer à déduire les pensées superficielles de la cible pendant une minute maximum tant que vous pouvez toujours voir. et entendre la cible. Action à préparer ; action à initier.
 
-**Défendre les innocents** (2 points de Rapidité): pendant les dix prochaines minutes, si quelqu'un que vous avez désigné comme innocent avec la capacité Désignation se tient à côté de vous, cette créature partage tous les avantages défensifs que vous pourriez avoir, autres que l'armure banale. Ces avantages incluent la défense de Rapidité de votre bouclier, l'armure offerte par un champ de force, etc. De plus, les jets de défense de Rapidité effectués par la créature innocente gagnent un atout. Vous ne pouvez protéger qu'une seule créature innocente à la fois. Action à initier.
+**Défendre les innocents** (2 points de Célérité): pendant les dix prochaines minutes, si quelqu'un que vous avez désigné comme innocent avec la capacité Désignation se tient à côté de vous, cette créature partage tous les avantages défensifs que vous pourriez avoir, autres que l'armure banale. Ces avantages incluent la défense de Célérité de votre bouclier, l'armure offerte par un champ de force, etc. De plus, les jets de défense de Célérité effectués par la créature innocente gagnent un atout. Vous ne pouvez protéger qu'une seule créature innocente à la fois. Action à initier.
 
-**Défendre tous les innocents**: vous protégez tous ceux qui se trouvent à portée immédiate et que vous avez désignés comme innocents grâce à votre capacité de désignation. Les jets de défense de Rapidité effectués par de telles créatures gagnent un atout. Facilitateur.
+**Défendre tous les innocents**: vous protégez tous ceux qui se trouvent à portée immédiate et que vous avez désignés comme innocents grâce à votre capacité de désignation. Les jets de défense de Célérité effectués par de telles créatures gagnent un atout. Facilitateur.
 
-**Défense avec Arme**: tant que l'arme de votre choix est dans votre (vos) main(s), vous êtes entraîné aux jets de défense de Rapidité. Facilitateur.
+**Défense avec Arme**: tant que l'arme de votre choix est dans votre (vos) main(s), vous êtes entraîné aux jets de défense de Célérité. Facilitateur.
 
 **Défense contre les robots**: Vous avez étudié votre ennemi et êtes entraîné à anticiper les actions qu'un robot ou une machine est susceptible d'entreprendre lors d'un combat. Les tâches de défense que vous tentez contre ces ennemis sont facilitées. Facilitateur.
 
 **Défense intérieure**: Les épreuves de la vie vous ont endurci et vous ont rendu difficile à lire. Vous êtes entraîné à n’importe quelle tâche pour résister à la tentative d’une autre créature de discerner vos véritables sentiments, croyances ou projets. Vous êtes également entraîné à résister à la torture, aux intrusions télépathiques et au contrôle mental. Facilitateur.
 
-**Défense subconsciente**: votre subconscient exécute constamment des modèles prédictifs pour éviter le danger. Vous gagnez un atout sur vos tâches de défense de Rapidité. Facilitateur.
+**Défense subconsciente**: votre subconscient exécute constamment des modèles prédictifs pour éviter le danger. Vous gagnez un atout sur vos tâches de défense de Célérité. Facilitateur.
 
 **Défenseur dévoué** (2 points de Puissance ou d'intelligence) : choisissez un personnage que vous pouvez voir. Ce personnage devient votre pupille. Vous êtes entraîné à toutes les tâches impliquant la recherche, la guérison, l'interaction avec et la protection de ce personnage. Vous ne pouvez avoir qu’une seule salle à la fois. Action à initier.
 
@@ -2431,19 +2435,19 @@ Vous ne pouvez probablement pas utiliser Déguisement Other pour déguiser une s
 
 **Dégâts mortels**: choisissez l'une de vos attaques existantes qui inflige des points de dégâts (en fonction de votre type et de votre concentration, cela peut être une arme spécifique, une capacité spéciale telle qu'une explosion de feu ou vos attaques à mains nues). Lorsque vous frappez avec cette attaque, vous infligez 5 points de dégâts supplémentaires. Facilitateur.
 
-**Déjouer Intelligemment**: Lorsque vous effectuez un jet de défense de Rapidité, vous pouvez utiliser votre intelligence à la place de votre Rapidité. Facilitateur.
+**Déjouer Intelligemment**: Lorsque vous effectuez un jet de défense de Célérité, vous pouvez utiliser votre intelligence à la place de votre Célérité. Facilitateur.
 
 **Déjouer le Danger** (2 points d'Intelligence) : Vous annulez une source de danger potentiel liée à une créature ou un objet dont vous avez conscience à distance immédiate pendant un round. Il peut s’agir d’une arme ou d’un appareil tenu par quelqu’un, d’un piège déclenché par une plaque de pression ou de la capacité naturelle d’une créature (quelque chose de spécial, inné et dangereux, comme le souffle enflammé d’un dragon ou le venin d’un cobra géant). Vous pouvez également essayer de déjouer une action banale d’un ennemi (comme une attaque avec une arme ou une griffe), afin que l’action n’ait pas lieu ce tour-ci. Faites votre jet en fonction du niveau de l'attaque, du danger ou de la créature. Action.
 
-**Démonstration Impressionnante** (2 points de Puissance) : Vous effectuez un exploit de force, de Rapidité ou de combat, impressionnant les personnes à proximité. Pendant la minute suivante, vous gagnez un atout sur toutes les tâches d'interaction avec les personnes qui vous ont vu utiliser cette capacité. Action.
+**Démonstration Impressionnante** (2 points de Puissance) : Vous effectuez un exploit de force, de Célérité ou de combat, impressionnant les personnes à proximité. Pendant la minute suivante, vous gagnez un atout sur toutes les tâches d'interaction avec les personnes qui vous ont vu utiliser cette capacité. Action.
 
 **Démotiver** (1 point d'Intelligence) : Vous gênez toutes les actions tentées par un nombre quelconque de cibles à courte portée qui peuvent vous comprendre. Vous choisissez quelles cibles sont affectées. Les actions des cibles affectées sont entravées pendant un round. Facilitateur.
 
 **Déplacer des montagnes** (9 points d'Intelligence) : Vous exercez une énorme quantité de force physique à moins de 250 pieds (75 m) de vous. Vous pouvez pousser jusqu'à 10 tonnes (9 t) de matériau jusqu'à 50 pieds (15 m). Cette force peut effondrer des bâtiments, rediriger de petites rivières ou produire d’autres effets dramatiques. Action.
 
-**Déplacer le métal** (1 point d'Intelligence) : Vous pouvez exercer une force sur des objets métalliques à courte portée pendant un round. Une fois activé, votre pouvoir a une réserve de Puissance effective de 10, un Avantage de Puissance de 1 et un effort de 2 (approximativement égal à la force d'un humain adulte en forme et capable), et vous pouvez l'utiliser pour déplacer des objets métalliques, pousser contre des objets métalliques, etc. Par exemple, au cours de votre ronde, vous pouvez soulever et tirer un objet métallique léger n'importe où à portée de vous ou déplacer un objet lourd (comme un meuble) d'environ 10 pieds (3 m). Ce pouvoir n’a pas le contrôle précis nécessaire pour manier une arme ou déplacer des objets avec beaucoup de Rapidité, donc dans la plupart des situations, ce n’est pas un moyen d’attaque. Vous ne pouvez pas utiliser cette capacité sur votre propre corps. Le pouvoir dure une heure ou jusqu'à ce que sa réserve de Puissance soit épuisée, selon la première éventualité. Action.
+**Déplacer le métal** (1 point d'Intelligence) : Vous pouvez exercer une force sur des objets métalliques à courte portée pendant un round. Une fois activé, votre pouvoir a une réserve de Puissance effective de 10, un Avantage de Puissance de 1 et un effort de 2 (approximativement égal à la force d'un humain adulte en forme et capable), et vous pouvez l'utiliser pour déplacer des objets métalliques, pousser contre des objets métalliques, etc. Par exemple, au cours de votre ronde, vous pouvez soulever et tirer un objet métallique léger n'importe où à portée de vous ou déplacer un objet lourd (comme un meuble) d'environ 10 pieds (3 m). Ce pouvoir n’a pas le contrôle précis nécessaire pour manier une arme ou déplacer des objets avec beaucoup de Célérité, donc dans la plupart des situations, ce n’est pas un moyen d’attaque. Vous ne pouvez pas utiliser cette capacité sur votre propre corps. Le pouvoir dure une heure ou jusqu'à ce que sa réserve de Puissance soit épuisée, selon la première éventualité. Action.
 
-**Désactiver les mécanismes** (5+ points de Rapidité): Vous effectuez une attaque au corps à corps qui n'inflige aucun dégât à une machine. Au lieu de cela, si l’attaque réussit, effectuez un deuxième jet basé sur la Rapidité. En cas de succès, une machine de niveau 3 ou inférieur est désactivée pendant une minute. Pour chaque niveau d'effort supplémentaire appliqué, vous pouvez affecter un niveau de machine supérieur ou prolonger la durée d'une minute supplémentaire. Si vous possédez la capacité **Brouiller la machine** ou **Désactiver les mécanismes** (ou une capacité fonctionnant de manière similaire), lorsque vous appliquez un niveau d'effort à l'un d'entre eux, vous gagnez un niveau d'effort gratuit supplémentaire. Action.
+**Désactiver les mécanismes** (5+ points de Célérité): Vous effectuez une attaque au corps à corps qui n'inflige aucun dégât à une machine. Au lieu de cela, si l’attaque réussit, effectuez un deuxième jet basé sur la Célérité. En cas de succès, une machine de niveau 3 ou inférieur est désactivée pendant une minute. Pour chaque niveau d'effort supplémentaire appliqué, vous pouvez affecter un niveau de machine supérieur ou prolonger la durée d'une minute supplémentaire. Si vous possédez la capacité **Brouiller la machine** ou **Désactiver les mécanismes** (ou une capacité fonctionnant de manière similaire), lorsque vous appliquez un niveau d'effort à l'un d'entre eux, vous gagnez un niveau d'effort gratuit supplémentaire. Action.
 
 **Désamorcer la situation**: Au cours d’une enquête, vos questions suscitent parfois une réponse colérique, voire violente. Par la dissimulation, la distraction verbale ou une évasion similaire, vous empêchez un ennemi vivant d'attaquer qui que ce soit ou quoi que ce soit pendant un round. Action.
 
@@ -2463,13 +2467,13 @@ Vous ne pouvez probablement pas utiliser Déguisement Other pour déguiser une s
 
 **Détonation de phase** (2+ points de Puissance) : lorsque vous utilisez Sprint de Phase ou Traverser les murs, vous pouvez choisir d'endommager considérablement la matière normale autour de vous avec une explosion d'énergie transdimensionnelle lorsque vous entrez ou sortez de phase pour la première fois (votre choix). Cette détonation inflige 4 points de dégâts qui ignorent l'armure à toutes les créatures et objets à portée immédiate. Si vous appliquez Effort pour augmenter les dégâts plutôt que de faciliter la tâche, vous infligez 2 points de dégâts supplémentaires par niveau d'Effort (au lieu de 3 points) ; les cibles dans la zone subissent 1 point de dégâts même si vous échouez au jet d'attaque. Facilitateur.
 
-**Détournement** (3 points de Rapidité) : lorsqu'un adversaire vous attaque et vous manque, vous pouvez rediriger son attaque vers une autre cible (une créature ou un objet) de votre choix qui se trouve à portée immédiate de vous. Effectuez un jet d’attaque non modifié contre la nouvelle cible (n’utilisez aucun de vos modificateurs ou ceux de l’adversaire au jet d’attaque, mais vous pouvez appliquer l’Effort pour plus de précision). Si l’attaque réussit, la cible subit des dégâts de l’attaque de votre adversaire. Facilitateur.
+**Détournement** (3 points de Célérité) : lorsqu'un adversaire vous attaque et vous manque, vous pouvez rediriger son attaque vers une autre cible (une créature ou un objet) de votre choix qui se trouve à portée immédiate de vous. Effectuez un jet d’attaque non modifié contre la nouvelle cible (n’utilisez aucun de vos modificateurs ou ceux de l’adversaire au jet d’attaque, mais vous pouvez appliquer l’Effort pour plus de précision). Si l’attaque réussit, la cible subit des dégâts de l’attaque de votre adversaire. Facilitateur.
 
-**Détourner les attaques** (4 points de Rapidité) : pendant une minute, vous déviez ou esquivez automatiquement toutes les attaques de projectiles à distance. Cependant, lors de votre prochain tour après avoir été attaqué avec des projectiles à distance, toutes vos autres actions sont gênées. Action à initier.
+**Détourner les attaques** (4 points de Célérité) : pendant une minute, vous déviez ou esquivez automatiquement toutes les attaques de projectiles à distance. Cependant, lors de votre prochain tour après avoir été attaqué avec des projectiles à distance, toutes vos autres actions sont gênées. Action à initier.
 
 **Détruire le métal** (3 points d'Intelligence): Vous déchirez, ou faites éclater instantanément un objet métallique qui est à portée de vue, à courte portée et ne dépassant pas la moitié de votre taille. Tentez une tâche Intellect pour détruire l’objet ; la tâche est facilitée par trois niveau par rapport à la rupture avec la force brute. Action.
 
-**Dévier les attaques** (1 point d'Intelligence) : En utilisant votre esprit, vous vous protégez des attaques entrantes. Pendant les dix minutes suivantes, vous êtes entraîné aux tâches de défense de Rapidité. Action à initier.
+**Dévier les attaques** (1 point d'Intelligence) : En utilisant votre esprit, vous vous protégez des attaques entrantes. Pendant les dix minutes suivantes, vous êtes entraîné aux tâches de défense de Célérité. Action à initier.
 
 ## Capacités---E
 
@@ -2481,17 +2485,17 @@ Vous ne pouvez probablement pas utiliser Déguisement Other pour déguiser une s
 
 **Effacer les souvenirs** (3 points d'Intelligence) : Vous entrez dans l'esprit d'une créature à portée immédiate et effectuez un jet d'Intelligence. En cas de réussite, vous effacez jusqu'aux cinq dernières minutes de sa mémoire. Action.
 
-**Effets accrus**: vous traitez les jets de 19 naturel comme les jets de 20 naturel pour les actions de Puissance ou les actions de Rapidité (votre choix lorsque vous gagnez cette capacité). Cela vous permet d'obtenir un effet majeur sur un 19 ou un 20 naturel.
+**Effets accrus**: vous traitez les jets de 19 naturel comme les jets de 20 naturel pour les actions de Puissance ou les actions de Célérité (votre choix lorsque vous gagnez cette capacité). Cela vous permet d'obtenir un effet majeur sur un 19 ou un 20 naturel.
 
-**Efficacité de la machine** (3 points d'intelligence) : vous pouvez faire tirer un blaster plus loin, obtenir plus de Rapidité d'un skycycle, améliorer la clarté d'une caméra, truquer une lumière pour qu'elle soit plus brillante, accélérer une connexion réseau, etc. Vous augmentez le niveau d'un objet de 2 pendant une minute, ou vous traitez l'objet comme un atout qui facilite une tâche associée de deux étapes pendant une minute (votre choix). Action à initier.
+**Efficacité de la machine** (3 points d'intelligence) : vous pouvez faire tirer un blaster plus loin, obtenir plus de Célérité d'un skycycle, améliorer la clarté d'une caméra, truquer une lumière pour qu'elle soit plus brillante, accélérer une connexion réseau, etc. Vous augmentez le niveau d'un objet de 2 pendant une minute, ou vous traitez l'objet comme un atout qui facilite une tâche associée de deux étapes pendant une minute (votre choix). Action à initier.
 
 **Effort coordonné** (3 points d'Intelligence): Lorsque vous et la copie de votre capacité **Duplication** attaquez la même créature, vous pouvez choisir de faire un jet d'attaque avec un atout. Si vous touchez, vous infligez des dégâts avec les deux attaques et traitez les attaques comme s'il s'agissait d'une seule attaque dans le but de soustraire l'armure des dégâts. Action.
 
-**Effort incroyable**: lorsque vous appliquez au moins un niveau d'effort à une tâche hors combat, vous obtenez un niveau d'effort gratuit sur cette tâche. Lorsque vous choisissez cette capacité, décidez si elle s’applique à l’Effort de Puissance ou à l’Effort de Rapidité. Facilitateur.
+**Effort incroyable**: lorsque vous appliquez au moins un niveau d'effort à une tâche hors combat, vous obtenez un niveau d'effort gratuit sur cette tâche. Lorsque vous choisissez cette capacité, décidez si elle s’applique à l’Effort de Puissance ou à l’Effort de Célérité. Facilitateur.
 
 **Elaborer une stratégie** (6 points d'Intelligence) : Avoir un plan d'action en place avant de relever un défi améliore les chances de succès, même si ce plan est finalement modifié ou abandonné une fois mis en œuvre. Si vous et vos alliés passez au moins dix minutes à étudier un plan d'action, vous gagnez tous un niveau d'effort gratuit qui peut être appliqué à une tâche que vous tentez pendant l'exécution de ce plan dans les prochaines 24 heures. Le plan d'action doit être quelque chose de concret et exécutable pour obtenir cet avantage. Action à initier, dix minutes à réaliser.
 
-**Eloignez-vous** (2 points de Rapidité) : Après votre action pendant votre tour, vous vous déplacez sur une courte distance ou vous placez derrière ou sous un couvert à portée immédiate. Facilitateur.
+**Eloignez-vous** (2 points de Célérité) : Après votre action pendant votre tour, vous vous déplacez sur une courte distance ou vous placez derrière ou sous un couvert à portée immédiate. Facilitateur.
 
 **Embrassez la nuit** (7+ points d'Intelligence) : Vous façonnez une façade vraiment horrible d'une créature à partir de rubans tourbillonnants de matière noire et la lancez sur vos ennemis à longue portée. À chaque tour, vous pouvez attaquer une cible à longue portée en utilisant la création comme arme. Lorsque vous attaquez, la créature insère de fines vrilles d’ombre dans les yeux et le cerveau de la cible. La cible subit 3 points de dégâts d'Intelligence (ignore l'Armure) et est étourdie pendant un round de sorte qu'elle perd son prochain tour. Alternativement, vous pouvez amener la créature à entreprendre d'autres actions, à condition que vous soyez capable de la voir et de la contrôler mentalement comme votre action. La créature se disperse après environ une minute. Action à initier.
 
@@ -2503,13 +2507,13 @@ Vous ne pouvez probablement pas utiliser Déguisement Other pour déguiser une s
 
 **En Danger** (3 points d’Intelligence) : Lorsque vous faites passer vos amis avant vous dans votre action, vous facilitez toutes les tâches de défense de tous les personnages que vous choisissez et qui sont adjacents à vous. Cela dure jusqu'à la fin de votre prochain tour. Si l’un de vos amis devait subir des dégâts, vous pouvez choisir de subir jusqu’à la moitié du nombre de points de dégâts qu’il subirait autrement, mais seulement si vous n’êtes pas déjà affaibli ou affaibli. Facilitateur.
 
-Incomparable Pilote/Pilotee Incomparable: Lorsque vous êtes sur un vaisseau spatial que vous possédez ou avec lequel vous avez une connexion directe, votre Avantage de Puissance, Avantage de Rapidité et Avantage d’Intelligence augmentent de 1. Lorsque vous effectuez un jet de récupération sur un vaisseau spatial que vous connaissez, vous récupérez 5 points supplémentaires. . Facilitateur.
+Incomparable Pilote/Pilotee Incomparable: Lorsque vous êtes sur un vaisseau spatial que vous possédez ou avec lequel vous avez une connexion directe, votre Avantage de Puissance, Avantage de Célérité et Avantage d’Intelligence augmentent de 1. Lorsque vous effectuez un jet de récupération sur un vaisseau spatial que vous connaissez, vous récupérez 5 points supplémentaires. . Facilitateur.
 
 **En dehors de la réalité** (6+ points d'Intelligence) : Vous existez en dehors de tout jusqu'au début de votre prochain tour. Pour vous, quelques secondes s'écoulent pendant que vous êtes seul dans un vide frais. Pour tout le monde, vous semblez disparaître pendant quelques secondes et réapparaître au même endroit. Dans cet état irréel, vous pouvez utiliser des capacités ou des objets sur vous-même, mais vous ne pouvez pas percevoir, interagir avec ou affecter le reste du monde, et vice versa. Les effets temporels déjà sur vous (comme un poison qui inflige des dégâts à chaque tour) sont suspendus pendant que vous existez en dehors de la réalité, mais lorsque cette capacité prend fin, ils reprennent comme si aucun temps ne s'était écoulé. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour augmenter la durée ; chaque niveau d'effort utilisé de cette manière ajoute un tour au temps que vous passez en dehors de la réalité. Facilitateur.
 
-**En un Clin d'oeil** (4 points de Rapidité) : Vous vous déplacez jusqu'à 1 000 pieds (300 m) en un tour. Action.
+**En un Clin d'oeil** (4 points de Célérité) : Vous vous déplacez jusqu'à 1 000 pieds (300 m) en un tour. Action.
 
-**Encore et encore** (8 points de Rapidité) : Vous pouvez effectuer une action supplémentaire dans un round au cours duquel vous avez déjà agi. Facilitateur.
+**Encore et encore** (8 points de Célérité) : Vous pouvez effectuer une action supplémentaire dans un round au cours duquel vous avez déjà agi. Facilitateur.
 
 **Encouragement** (1 point d'Intelligence) : pendant que vous maintenez cette capacité grâce à un discours inspirant continu, vos alliés à courte portée facilitent l'un des types de tâches suivants (votre choix) : tâches de défense, tâches d'attaque ou tâches liées à toute compétence que vous êtes entraînée. ou spécialisé. Action.
 
@@ -2525,9 +2529,9 @@ Incomparable Pilote/Pilotee Incomparable: Lorsque vous êtes sur un vaisseau spa
 
 **Enquêter**: vous êtes entraîné à la perception, à la cryptographie, à la tromperie et à l'intrusion dans les ordinateurs. Facilitateur.
 
-**Enquêteur**: Pour vraiment briller en tant qu'enquêteur, vous devez engager votre esprit et votre corps dans vos déductions. Vous pouvez dépenser des points de votre réserve de Puissance, de votre Réserve de Rapidité ou de votre réserve d'intelligence pour appliquer des niveaux d'effort à n'importe quelle tâche basée sur l'intelligence. Facilitateur.
+**Enquêteur**: Pour vraiment briller en tant qu'enquêteur, vous devez engager votre esprit et votre corps dans vos déductions. Vous pouvez dépenser des points de votre réserve de Puissance, de votre Réserve de Célérité ou de votre réserve d'intelligence pour appliquer des niveaux d'effort à n'importe quelle tâche basée sur l'intelligence. Facilitateur.
 
-**Enseigner une astuce** (5+ points d’Intelligence) : vous passez une heure à expliquer à quelqu’un comment exécuter une capacité de type que vous connaissez. La capacité ne doit pas dépasser le quatrième niveau. Pendant une heure après que vous leur avez enseigné, l'élève peut exécuter cette capacité comme si cela lui était naturel. Ils doivent payer le coût de Puissance, de Rapidité ou d'Intelligence (le cas échéant) pour utiliser cette capacité. L'étudiant doit être capable de comprendre vos instructions. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour augmenter la durée pendant laquelle l'élève peut utiliser la capacité ou pour enseigner à d'autres élèves en même temps ; chaque niveau d'Effort utilisé de cette manière augmente la durée d'une heure ou le nombre d'élèves d'un. Une heure pour s'initier. Action; heure pour terminer.
+**Enseigner une astuce** (5+ points d’Intelligence) : vous passez une heure à expliquer à quelqu’un comment exécuter une capacité de type que vous connaissez. La capacité ne doit pas dépasser le quatrième niveau. Pendant une heure après que vous leur avez enseigné, l'élève peut exécuter cette capacité comme si cela lui était naturel. Ils doivent payer le coût de Puissance, de Célérité ou d'Intelligence (le cas échéant) pour utiliser cette capacité. L'étudiant doit être capable de comprendre vos instructions. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour augmenter la durée pendant laquelle l'élève peut utiliser la capacité ou pour enseigner à d'autres élèves en même temps ; chaque niveau d'Effort utilisé de cette manière augmente la durée d'une heure ou le nombre d'élèves d'un. Une heure pour s'initier. Action; heure pour terminer.
 
 **Ensemble de détection**: vous pouvez voir dans la pénombre et dans l'obscurité comme s'il s'agissait d'une lumière vive, et vous pouvez voir jusqu'à une courte distance à travers le brouillard, la fumée et d'autres phénomènes obscurcissants. De plus, si vous appliquez un niveau d'effort à des tâches de perception ou de recherche, vous obtenez un niveau d'effort gratuit sur cette tâche. Facilitateur.
 
@@ -2557,7 +2561,7 @@ Incomparable Pilote/Pilotee Incomparable: Lorsque vous êtes sur un vaisseau spa
 
 **Eruption d'insectes** (6 points d'Intelligence) : Vous appelez un essaim d'insectes dans un endroit où il est possible que des insectes apparaissent. Ils restent pendant une minute et pendant ce temps, ils font ce que vous commandez tant qu'ils sont à longue portée. Ils peuvent envahir et gêner les tâches de n’importe quelle créature, ou vous pouvez concentrer l’essaim et attaquer toutes les cibles à portée immédiate les unes des autres (toutes à longue portée de vous). L'essaim attaquant inflige 2 points de dégâts par round. Vous pouvez également ordonner à l'essaim de déplacer des objets lourds grâce à un effort collectif, de manger à travers des murs en bois et d'effectuer d'autres actions adaptées à un essaim surnaturel. Action à initier.
 
-**Esprit Agile**: lorsque vous tentez une tâche de Rapidité, vous pouvez lancer (et dépenser des points) comme s'il s'agissait d'une action d'intelligence. Si vous appliquez un effort à cette tâche, vous pouvez dépenser des points de votre réserve d'intelligence au lieu de votre Réserve de Rapidité (auquel cas vous utilisez également votre Avantage d’Intelligence au lieu de votre Avantage de Rapidité). Facilitateur.
+**Esprit Agile**: lorsque vous tentez une tâche de Célérité, vous pouvez lancer (et dépenser des points) comme s'il s'agissait d'une action d'intelligence. Si vous appliquez un effort à cette tâche, vous pouvez dépenser des points de votre réserve d'intelligence au lieu de votre Réserve de Célérité (auquel cas vous utilisez également votre Avantage d’Intelligence au lieu de votre Avantage de Célérité). Facilitateur.
 
 **Esprit Complice**: Un esprit de niveau 3 vous accompagne et suit vos instructions. L'esprit doit rester à portée immédiate : s'il s'éloigne, il disparaît à la fin de votre tour suivant et ne peut pas revenir avant un jour. Vous et le MJ devez déterminer les détails de votre complice spirituel, et vous ferez probablement des jets pour lui lorsqu'il entreprendra des actions. L'esprit complice agit pendant votre tour, peut se déplacer sur une courte distance à chaque tour et existe partiellement hors phase (ce qui lui permet de se déplacer à travers les murs, bien qu'il soit un mauvais porteur). L'esprit s'installe dans un objet que vous désignez et se manifeste soit par une présence invisible, soit par une ombre fantomatique. Votre complice spirituel est spécialisé dans une compétence de connaissance déterminée par le MJ.
 
@@ -2582,11 +2586,11 @@ Facilitateur.
 
 **Esprit perspicace**: vous disposez d'une armure de +3 contre les attaques et les effets dommageables qui ciblent votre esprit et votre intellect. Les jets de défense que vous effectuez contre les attaques qui tentent de vous confondre, de vous persuader, de vous effrayer ou de vous influencer sont facilités. Facilitateur.
 
-**Esprit polyvalent**: lorsque vous effectuez un jet de défense de Rapidité, vous pouvez utiliser votre intelligence à la place de votre Rapidité. Facilitateur.
+**Esprit polyvalent**: lorsque vous effectuez un jet de défense de Célérité, vous pouvez utiliser votre intelligence à la place de votre Célérité. Facilitateur.
 
 **Esquive**: Vous êtes difficile à affecter lorsque vous ne voulez pas être affecté. Vous êtes entraîné à toutes les tâches de défense. Facilitateur.
 
-**Esquive et résistance** (3 points de Rapidité) : Vous pouvez relancer n’importe lequel de vos jets de défense de Puissance, de Rapidité ou d’intelligence et prendre le meilleur des deux résultats. Facilitateur.
+**Esquive et résistance** (3 points de Célérité) : Vous pouvez relancer n’importe lequel de vos jets de défense de Puissance, de Célérité ou d’intelligence et prendre le meilleur des deux résultats. Facilitateur.
 
 **Esquiver et répondre** (3 points de Puissance) : Si une attaque au corps à corps vous manque, vous pouvez immédiatement effectuer une attaque au corps à corps en retour, mais pas plus d'une fois par tour. Facilitateur.
 
@@ -2598,13 +2602,13 @@ Facilitateur.
 
 **Etude rapide**: vous apprenez des actions répétitives. Vous gagnez un bonus de +1 aux jets pour des tâches similaires après la première fois (comme utiliser le même appareil ou effectuer des attaques contre le même ennemi). Une fois que vous passez à une nouvelle tâche, la familiarité avec l’ancienne tâche s’estompe, à moins que vous ne recommenciez à la refaire. Facilitateur.
 
-**Evanescencence** (3 points de Rapidité) : Vous entrez dans l'ombre ou à l'abri, et tous ceux qui vous observaient perdent complètement votre trace. Bien que vous ne soyez pas invisible, vous ne pouvez pas être vu jusqu'à ce que vous vous révéliez à nouveau en sortant de l'ombre ou en sortant d'un abri (ou en effectuant une attaque). Action.
+**Evanescencence** (3 points de Célérité) : Vous entrez dans l'ombre ou à l'abri, et tous ceux qui vous observaient perdent complètement votre trace. Bien que vous ne soyez pas invisible, vous ne pouvez pas être vu jusqu'à ce que vous vous révéliez à nouveau en sortant de l'ombre ou en sortant d'un abri (ou en effectuant une attaque). Action.
 
-**Evasion (2 points de Rapidité):** vous glissez vos attaches, vous faufilez à travers les barreaux, brisez l'emprise d'une créature qui vous tient, vous libérez des sables mouvants aspirés ou vous vous détachez de tout ce qui vous maintient en place. Action.
+**Evasion (2 points de Célérité):** vous glissez vos attaches, vous faufilez à travers les barreaux, brisez l'emprise d'une créature qui vous tient, vous libérez des sables mouvants aspirés ou vous vous détachez de tout ce qui vous maintient en place. Action.
 
 **Évasion illusoire** (5 points d'Intelligence) : lorsque vous êtes sur le point d'être touché par une attaque, vous vous téléportez à une distance immédiate, laissant derrière vous une copie illusoire de vous-même qui sera frappée par cette attaque à votre place. Cela détruit l'illusion mais vous laisse indemne par l'attaque. Si l’attaque affecte une zone et que la téléportation ne peut pas vous faire sortir de cette zone, l’attaque vous affecte quand même normalement. Facilitateur.
 
-**Evitement** : si vous utilisez votre action uniquement pour vous déplacer, toutes les tâches de défense de Rapidité sont facilitées. Facilitateur.
+**Evitement** : si vous utilisez votre action uniquement pour vous déplacer, toutes les tâches de défense de Célérité sont facilitées. Facilitateur.
 
 **Evitement par microgravité**: en profitant des conditions de microgravité, vous obtenez un atout pour accélérer les tâches de défense en apesanteur ou
 conditions de faible gravité. Facilitateur.
@@ -2634,7 +2638,7 @@ conditions de faible gravité. Facilitateur.
 
 **Expérience d’exploration**: vous êtes entraîné à deux compétences supplémentaires dans lesquelles vous n'êtes pas déjà entraîné. Choisissez parmi les éléments suivants : navigation, perception, détection du danger, initiative, ouverture pacifique des communications avec des inconnus et suivi. Facilitateur.
 
-**Expérimenté en armure** : la réduction du coût de votre capacité Pratiqué en armure s'améliore. Vous réduisez désormais le coût en Rapidité de 2. Enabler.
+**Expérimenté en armure** : la réduction du coût de votre capacité Pratiqué en armure s'améliore. Vous réduisez désormais le coût en Célérité de 2. Enabler.
 
 **Extraire du hasard**: Si vous obtenez un 1 naturel sur un d20, vous pouvez relancer le dé. Si vous relancez, vous évitez une intrusion du MJ (à moins que vous n'obteniez un deuxième 1) et vous pourriez réussir votre tâche. Une fois que vous utilisez cette capacité, elle n’est à nouveau disponible qu’après avoir effectué un jet de récupération de dix heures. Facilitateur.
 
@@ -2658,7 +2662,7 @@ Alternativement, vous pouvez créer une résonance destructrice dans une arme ph
 
 **Fantôme** (4 points d'Intelligence) : Pendant les dix prochaines minutes, vous gagnez un atout pour vous faufiler. Pendant ce temps, vous pouvez vous déplacer à travers des barrières solides (mais pas des barrières énergétiques) à raison de 30 cm par tour, et vous pouvez percevoir en étant en phase à l'intérieur d'une barrière ou d'un objet, ce qui vous permet de regarder à travers les murs. Action à initier.
 
-**Feintee** (2 points de Rapidité) : Si vous utilisez une action créant une mauvaise direction ou une diversion, au tour suivant, vous pourrez profiter des défenses réduites de votre adversaire. Effectuez un jet d'attaque au corps à corps contre cet adversaire. Vous gagnez un atout sur cette attaque. Si votre attaque réussit, elle inflige 4 points de dégâts supplémentaires. Action.
+**Feintee** (2 points de Célérité) : Si vous utilisez une action créant une mauvaise direction ou une diversion, au tour suivant, vous pourrez profiter des défenses réduites de votre adversaire. Effectuez un jet d'attaque au corps à corps contre cet adversaire. Vous gagnez un atout sur cette attaque. Si votre attaque réussit, elle inflige 4 points de dégâts supplémentaires. Action.
 
 **Feu et Glace** (4 points d'Intelligence) : Vous faites en sorte qu'une cible à courte portée devienne soit très chaude, soit très froide (votre choix). La cible subit 3 points de dégâts ambiants (ignore l'armure) à chaque tour pendant trois tours maximum, bien qu'un nouveau jet soit nécessaire à chaque tour pour continuer à affecter la cible. Action à initier.
 
@@ -2669,7 +2673,7 @@ Vous pouvez également utiliser cette capacité pour dégager une zone de végé
 
 **Flash** (4 points d'Intelligence) : Vous créez une explosion d'énergie en un point à courte portée, affectant une zone située à portée immédiate de ce point. Vous devez être en mesure de voir l'endroit où vous comptez centrer l'explosion. L'explosion inflige 2 points de dégâts à toutes les créatures ou objets dans la zone. Si vous appliquez Effort pour augmenter les dégâts, vous infligez 2 points de dégâts supplémentaires par niveau d'Effort (au lieu de 3 points) ; les cibles dans la zone subissent 1 point de dégâts même si vous échouez au jet d'attaque. Action.
 
-**Floraison réparatrice** (5 points de Puissance) : Lorsque Corps en bois ou Grand arbre est actif, vous produisez une fleur, un gland, un fruit ou un objet comestible similaire à base de plante. Une créature qui mange cette nourriture est nourrie pendant une journée complète et restaure sa réserve de Puissance, sa Réserve de Rapidité et sa réserve d'intelligence à leurs valeurs maximales, comme si elle était complètement reposée. Manger un deuxième aliment produit par cette capacité dans une journée n’a aucun effet. Si la nourriture n’est pas consommée dans les dix minutes, elle se gâte. Action de produire, action de manger.
+**Floraison réparatrice** (5 points de Puissance) : Lorsque Corps en bois ou Grand arbre est actif, vous produisez une fleur, un gland, un fruit ou un objet comestible similaire à base de plante. Une créature qui mange cette nourriture est nourrie pendant une journée complète et restaure sa réserve de Puissance, sa Réserve de Célérité et sa réserve d'intelligence à leurs valeurs maximales, comme si elle était complètement reposée. Manger un deuxième aliment produit par cette capacité dans une journée n’a aucun effet. Si la nourriture n’est pas consommée dans les dix minutes, elle se gâte. Action de produire, action de manger.
 
 **Flotte de robots**: vous construisez jusqu'à quatre assistants robots de niveau 2, chacun pas plus grand que vous. (Ils s'ajoutent à l'assistant que vous avez créé au premier niveau avec Assistant Robot, qui a peut-être connu quelques mises à niveau depuis.) Vous et le MJ devez régler les détails de ces robots supplémentaires. Si un robot est détruit, vous pouvez en construire un nouveau (ou réparer l'ancien à partir de ses pièces) après une semaine de travail à mi-temps. Au lieu de cette capacité, vous pouvez sélectionner l'une des capacités suivantes : Disciple expert, Contrôle du robot ou Mise à niveau du robot. Facilitateur.
 
@@ -2693,16 +2697,16 @@ Vous pouvez également utiliser cette capacité pour dégager une zone de végé
 « Similaire » est un terme large. Les lions ressemblent aux tigres et aux léopards, les faucons aux corbeaux et aux cygnes, les chiens aux loups et aux renards, etc.
 Même si la forme de votre animal a plusieurs types d'attaques (comme les griffes et les morsures), vous ne pouvez attaquer qu'une seule fois par tour, à moins que vous ne disposiez d'une autre capacité vous permettant d'effectuer des attaques supplémentaires pendant votre tour.
 
-**Forme animale plus grande**: lorsque vous utilisez Forme animale, la forme de votre animal atteint environ le double de sa taille normale. Etant si grande, votre forme animale bénéficie des bonus supplémentaires suivants: +1 à l'armure, +5 à votre réserve de Puissance, et vous êtes entraîné à utiliser les attaques naturelles de votre forme animale comme des armes lourdes (si ce n'est pas déjà fait). Cependant, vos tâches de défense de Rapidité sont gênées. Bien que plus grand, vous gagnez également un atout pour des tâches plus faciles à accomplir pour une créature plus grande, comme grimper, intimider, patauger dans des rivières, etc. Facilitateur.
+**Forme animale plus grande**: lorsque vous utilisez Forme animale, la forme de votre animal atteint environ le double de sa taille normale. Etant si grande, votre forme animale bénéficie des bonus supplémentaires suivants: +1 à l'armure, +5 à votre réserve de Puissance, et vous êtes entraîné à utiliser les attaques naturelles de votre forme animale comme des armes lourdes (si ce n'est pas déjà fait). Cependant, vos tâches de défense de Célérité sont gênées. Bien que plus grand, vous gagnez également un atout pour des tâches plus faciles à accomplir pour une créature plus grande, comme grimper, intimider, patauger dans des rivières, etc. Facilitateur.
 
-**Forme de bête**: cinq nuits consécutives chaque mois, vous vous transformez en bête monstrueuse pendant une heure maximum chaque nuit. Dans cette nouvelle forme, vous gagnez +8 à votre Réserve de Puissance, +1 à votre Avantage de Puissance, +2 à votre Réserve de Rapidité et +1 à votre Avantage de Rapidité. Sous forme de bête, vous ne pouvez pas dépenser de points d’Intelligence pour une raison autre que d’essayer de reprendre votre forme normale avant la fin de la durée d’une heure (une tâche de difficulté 2). De plus, vous attaquez toute créature vivante à courte portée. Après être revenu à votre forme normale, vous subissez une pénalité de -1 à tous les jets pendant une heure. Si vous n'avez pas tué et mangé au moins une créature substantielle alors que vous étiez sous forme de bête, la pénalité passe à -2 et affecte tous vos jets pendant les prochaines 24 heures. Action de revenir en arrière.
+**Forme de bête**: cinq nuits consécutives chaque mois, vous vous transformez en bête monstrueuse pendant une heure maximum chaque nuit. Dans cette nouvelle forme, vous gagnez +8 à votre Réserve de Puissance, +1 à votre Avantage de Puissance, +2 à votre Réserve de Célérité et +1 à votre Avantage de Célérité. Sous forme de bête, vous ne pouvez pas dépenser de points d’Intelligence pour une raison autre que d’essayer de reprendre votre forme normale avant la fin de la durée d’une heure (une tâche de difficulté 2). De plus, vous attaquez toute créature vivante à courte portée. Après être revenu à votre forme normale, vous subissez une pénalité de -1 à tous les jets pendant une heure. Si vous n'avez pas tué et mangé au moins une créature substantielle alors que vous étiez sous forme de bête, la pénalité passe à -2 et affecte tous vos jets pendant les prochaines 24 heures. Action de revenir en arrière.
 
-**Forme de bête Supérieure**: lorsque vous utilisez la Beast Form, votre forme de bête gagne les bonus supplémentaires suivants : +1 à votre Avantage de Puissance, +2 à votre Réserve de Rapidité et +1 à votre Avantage de Rapidité. Facilitateur.
+**Forme de bête Supérieure**: lorsque vous utilisez la Beast Form, votre forme de bête gagne les bonus supplémentaires suivants : +1 à votre Avantage de Puissance, +2 à votre Réserve de Célérité et +1 à votre Avantage de Célérité. Facilitateur.
 
-**Forme de bête améliorée**: lorsque vous utilisez Forme de bête, votre forme de bête gagne les bonus supplémentaires suivants : +3 à votre réserve de Puissance, +2 à votre Réserve de Rapidité et +2 à l'armure. Facilitateur.
+**Forme de bête améliorée**: lorsque vous utilisez Forme de bête, votre forme de bête gagne les bonus supplémentaires suivants : +3 à votre réserve de Puissance, +2 à votre Réserve de Célérité et +2 à l'armure. Facilitateur.
 
 **Forme de bête plus grande**: lorsque vous utilisez Forme de bête, votre forme de bête devient plus grande qu'auparavant, période pendant laquelle vous atteignez une hauteur de 12 pieds (4 m).
-Etant aussi grande, votre forme de bête bénéficie des bonus supplémentaires suivants: +1 à l'armure, +5 à votre réserve de Puissance, et vous êtes entraîné à utiliser vos poings comme des armes lourdes (si ce n'est pas déjà fait). Cependant, vos tâches de défense de Rapidité sont gênées. Bien que plus grand, vous gagnez également un atout pour des tâches plus faciles à accomplir pour une créature plus grande, comme grimper, intimider, patauger dans des rivières, etc. Facilitateur.
+Etant aussi grande, votre forme de bête bénéficie des bonus supplémentaires suivants: +1 à l'armure, +5 à votre réserve de Puissance, et vous êtes entraîné à utiliser vos poings comme des armes lourdes (si ce n'est pas déjà fait). Cependant, vos tâches de défense de Célérité sont gênées. Bien que plus grand, vous gagnez également un atout pour des tâches plus faciles à accomplir pour une créature plus grande, comme grimper, intimider, patauger dans des rivières, etc. Facilitateur.
 
 **Forêt Terrifiante** (6 points d'Intelligence) : Vous manipulez le vent, la brume et les ombres pour incarner la peur primordiale des bois mystérieux. Pendant la minute suivante, vous gagnez un atout sur les tâches d'intimidation. Les créatures à courte portée peuvent devenir effrayées ; effectuez un jet d'attaque d'Intelligence séparé pour chaque créature (si vous êtes plus grand que la normale en utilisant le Grand Arbre ou une autre source, ces jets sont facilités). Le succès signifie qu'ils sont figés dans la peur, ne bougent pas et n'agissent pas pendant une minute ou jusqu'à ce qu'ils soient attaqués. Certaines créatures sans esprit pourraient être immunisées contre cette peur. Action.
 
@@ -2716,23 +2720,23 @@ Etant aussi grande, votre forme de bête bénéficie des bonus supplémentaires 
 
 **Frappe de matière noire** (4 points d'Intelligence): Lorsque vous attaquez un ennemi à longue portée, la matière noire se condense autour de votre cible et enchevêtre ses membres, la maintenant en place et facilitant votre attaque de deux pas. Cette capacité fonctionne quel que soit le type d’attaque que vous utilisez (mêlée, à distance, énergétique, etc.). Facilitateur.
 
-**Frappe débilitante** (4 points de Rapidité): Vous effectuez une attaque pour délivrer une frappe douloureuse ou débilitante. L'attaque est entravée. Si elle touche, la créature subit 2 points de dégâts supplémentaires à la fin du tour suivant, et ses attaques sont gênées jusqu'à la fin du tour suivant. Action.
+**Frappe débilitante** (4 points de Célérité): Vous effectuez une attaque pour délivrer une frappe douloureuse ou débilitante. L'attaque est entravée. Si elle touche, la créature subit 2 points de dégâts supplémentaires à la fin du tour suivant, et ses attaques sont gênées jusqu'à la fin du tour suivant. Action.
 
-**Frappe désarmante** (3 points de Rapidité) : Votre attaque inflige 1 point de dégâts en moins et désarme votre ennemi afin que son arme soit désormais à 10 pieds (3 m) au sol. (Si l'arme choisie est un fouet, vous pouvez à la place déposer l'arme désarmée entre vos mains ; si l'arme choisie est un arc ou une autre arme à distance qui tire des balles physiques, vous pouvez plutôt « clouer » l'arme désarmée sur un objet proche ou Choisir de faire l’une ou l’autre de ces choses entrave votre attaque.) Action.
+**Frappe désarmante** (3 points de Célérité) : Votre attaque inflige 1 point de dégâts en moins et désarme votre ennemi afin que son arme soit désormais à 10 pieds (3 m) au sol. (Si l'arme choisie est un fouet, vous pouvez à la place déposer l'arme désarmée entre vos mains ; si l'arme choisie est un arc ou une autre arme à distance qui tire des balles physiques, vous pouvez plutôt « clouer » l'arme désarmée sur un objet proche ou Choisir de faire l’une ou l’autre de ces choses entrave votre attaque.) Action.
 
 **Frappe mortelle** (5 points de Puissance): Si vous frappez un ennemi de niveau 3 ou inférieur avec une arme avec laquelle vous vous entraînez, vous tuez la cible instantanément. Action.
 
 **Frappe nocturne**: lorsque vous attaquez un ennemi dans une faible lumière ou dans l'obscurité, vous obtenez un niveau d'effort gratuit lors de l'attaque. Facilitateur.
 
-**Frappe rapide** (4 points de Rapidité) : Vous effectuez une attaque au corps à corps avec une telle Rapidité qu'il est difficile pour votre ennemi de se défendre, et cela le déséquilibre. Votre attaque est facilitée de deux pas et l'ennemi, s'il est touché, subit des dégâts normaux mais est étourdi, de sorte que ses tâches sont entravées pour le tour suivant. Action.
+**Frappe rapide** (4 points de Célérité) : Vous effectuez une attaque au corps à corps avec une telle Célérité qu'il est difficile pour votre ennemi de se défendre, et cela le déséquilibre. Votre attaque est facilitée de deux pas et l'ennemi, s'il est touché, subit des dégâts normaux mais est étourdi, de sorte que ses tâches sont entravées pour le tour suivant. Action.
 
-**Frénésie** (1 point d'Intelligence) : Quand vous le souhaitez, pendant un combat, vous pouvez entrer dans un état de frénésie. Dans cet état, vous ne pouvez pas utiliser de points d’Intelligence, mais vous gagnez +1 à votre Avantage de Puissance et à votre Avantage de Rapidité. Cet effet dure aussi longtemps que vous le souhaitez, mais il prend fin si aucun combat n'a lieu à portée de vos sens. Facilitateur.
+**Frénésie** (1 point d'Intelligence) : Quand vous le souhaitez, pendant un combat, vous pouvez entrer dans un état de frénésie. Dans cet état, vous ne pouvez pas utiliser de points d’Intelligence, mais vous gagnez +1 à votre Avantage de Puissance et à votre Avantage de Célérité. Cet effet dure aussi longtemps que vous le souhaitez, mais il prend fin si aucun combat n'a lieu à portée de vos sens. Facilitateur.
 
 **Frénésie supérieure** (4 points d'Intelligence) : Quand vous le souhaitez, pendant un combat, vous pouvez entrer dans un état de frénésie. Dans cet état, vous ne pouvez pas utiliser de points d’Intelligence, mais vous gagnez +2 à votre Avantage de Puissance et à votre Avantage de Vietsse. Cet effet dure aussi longtemps que vous le souhaitez, mais il prend fin si aucun combat n'a lieu à portée de vos sens. Si vous possédez la capacité Frénésie, vous pouvez l’utiliser ou cette capacité, mais vous ne pouvez pas utiliser les deux en même temps. Facilitateur.
 
 **Fréquence de résonance** : Vous pouvez faire entre en résonance un objet jusqu'au niveau 7 que vous pouvez tenir dans une main avec une vibration spéciale générée par votre cœur. L'objet fonctionne alors comme s'il était deux niveaux plus haut pendant une minute. À la fin de cette minute, la fréquence de résonance augmente de façon exponentielle jusqu'à ce que l'objet se brise finalement à cause de l'accumulation d'énergie. Tout ce qui se trouve à portée immédiate de la détonation subit 5 points de dégâts. Action à initier.
 
-**Fuir** (6 points d'Intelligence) : Tous les non-alliés à courte distance qui peuvent entendre vos paroles terribles et intimidantes fuient vous à toute Rapidité pendant une minute. Action.
+**Fuir** (6 points d'Intelligence) : Tous les non-alliés à courte distance qui peuvent entendre vos paroles terribles et intimidantes fuient vous à toute Célérité pendant une minute. Action.
 
 **Fureur** (3 points de Puissance) : Pendant la minute suivante, toutes les attaques de mêlée que vous effectuez infligent 2 points de dégâts supplémentaires. Action à initier.
 
@@ -2742,7 +2746,7 @@ Etant aussi grande, votre forme de bête bénéficie des bonus supplémentaires 
 
 **Fusion** : Vous pouvez fusionner vos chiffres et artefacts manifestes avec votre corps. Ces appareils fusionnés fonctionnent comme s’ils étaient d’un niveau supérieur. Facilitateur.
 
-**Fussionne avec les Ténèbres** (6 points d'Intelligence) : Durant l'heure suivante, vous adoptez certaines caractéristiques d'une ombre grâce à une adaptation fondamentale de votre chair ou d'un appareil que vous avez gardé secret. Votre apparence est une silhouette sombre. Lorsque vous appliquez un niveau d'effort à des tâches de furtivité, vous obtenez un niveau d'effort gratuit sur la tâche. Pendant ce temps, vous pouvez vous déplacer dans les airs à une Rapidité d'une courte distance par round, et vous pouvez traverser des barrières solides (même celles qui sont scellées pour empêcher le passage de la lumière ou de l'ombre), mais pas les barrières énergétiques, à un rythme réduit. taux de 1 pied (30 cm) par tour. Vous pouvez percevoir en passant à travers une barrière ou un objet, ce qui vous permet de regarder à travers les murs. En tant qu’ombre, vous ne pouvez pas affecter ou être affecté par la matière normale. De même, vous ne pouvez pas attaquer, toucher ou affecter quoi que ce soit. Cependant, les attaques et les effets qui dépendent de la lumière peuvent vous affecter, et des éclats de lumière soudains peuvent potentiellement vous faire perdre votre prochain tour. Action à initier.
+**Fussionne avec les Ténèbres** (6 points d'Intelligence) : Durant l'heure suivante, vous adoptez certaines caractéristiques d'une ombre grâce à une adaptation fondamentale de votre chair ou d'un appareil que vous avez gardé secret. Votre apparence est une silhouette sombre. Lorsque vous appliquez un niveau d'effort à des tâches de furtivité, vous obtenez un niveau d'effort gratuit sur la tâche. Pendant ce temps, vous pouvez vous déplacer dans les airs à une Célérité d'une courte distance par round, et vous pouvez traverser des barrières solides (même celles qui sont scellées pour empêcher le passage de la lumière ou de l'ombre), mais pas les barrières énergétiques, à un rythme réduit. taux de 1 pied (30 cm) par tour. Vous pouvez percevoir en passant à travers une barrière ou un objet, ce qui vous permet de regarder à travers les murs. En tant qu’ombre, vous ne pouvez pas affecter ou être affecté par la matière normale. De même, vous ne pouvez pas attaquer, toucher ou affecter quoi que ce soit. Cependant, les attaques et les effets qui dépendent de la lumière peuvent vous affecter, et des éclats de lumière soudains peuvent potentiellement vous faire perdre votre prochain tour. Action à initier.
 
 **Fustiger** (4 points d'Intelligence) : Vous intimidez tellement tout adversaire à longue portée qui comprend la parole (même si ce n'est pas votre langue) qu'il perd sa prochaine action et que toutes ses autres actions sont gênées pendant une minute. Chaque fois que vous tentez cette capacité contre la même cible, vous devez appliquer un niveau d'effort de plus que celui appliqué lors de la tentative précédente. Action.
 
@@ -2764,7 +2768,7 @@ Etant aussi grande, votre forme de bête bénéficie des bonus supplémentaires 
 
 **Grand Pas** (2 points d’Intelligence) : Vous sautez dans les airs et atterrissez à une certaine distance. Vous pouvez sauter vers le haut, vers le bas ou vers n'importe quel endroit de votre choix à longue portée si vous disposez d'un chemin clair et dégagé vers cet endroit. Vous atterrissez en toute sécurité. Action.
 
-**Grand arbre**: lorsque vous utilisez un Corps en bois,, vous pouvez atteindre jusqu'à 4 m de hauteur. Dans cette forme plus grande, vous ajoutez 7 points à votre Réserve de Puissance et +2 à votre Avantage de Puissance. Si vous choisissez de grandir, lorsque Corps en bois se termine, vous soustrayez 7 points de votre Réserve de Puissance (si cela ramène la réserve à 0, soustrayez d'abord le débordement de votre Réserve de Rapidité puis, si nécessaire, de votre réserve d'intelligence). Lorsque vous utilisez Corps en bois que vous choisissiez ou non de grandir, au lieu de ressembler à une version en bois de vous-même normal, vous pouvez prendre l'apparence complète d'une créature humanoïde ou d'un arbre réel (y compris la croissance de branches supplémentaires, de feuillage supplémentaire , et ainsi de suite). Cela n’affecte aucune de vos capacités : sous forme d’arbre, vous pouvez utiliser des capacités de type, d’autres capacités de concentration, etc. En forme d'arbre, faire semblant d'être un arbre et se cacher parmi les arbres normaux est facilité par deux étapes. Facilitateur.
+**Grand arbre**: lorsque vous utilisez un Corps en bois,, vous pouvez atteindre jusqu'à 4 m de hauteur. Dans cette forme plus grande, vous ajoutez 7 points à votre Réserve de Puissance et +2 à votre Avantage de Puissance. Si vous choisissez de grandir, lorsque Corps en bois se termine, vous soustrayez 7 points de votre Réserve de Puissance (si cela ramène la réserve à 0, soustrayez d'abord le débordement de votre Réserve de Célérité puis, si nécessaire, de votre réserve d'intelligence). Lorsque vous utilisez Corps en bois que vous choisissiez ou non de grandir, au lieu de ressembler à une version en bois de vous-même normal, vous pouvez prendre l'apparence complète d'une créature humanoïde ou d'un arbre réel (y compris la croissance de branches supplémentaires, de feuillage supplémentaire , et ainsi de suite). Cela n’affecte aucune de vos capacités : sous forme d’arbre, vous pouvez utiliser des capacités de type, d’autres capacités de concentration, etc. En forme d'arbre, faire semblant d'être un arbre et se cacher parmi les arbres normaux est facilité par deux étapes. Facilitateur.
 
 **Grande Déception** (3 points d'Intelligence) : Vous convainquez une créature intelligente qui peut vous comprendre et qui n'est pas hostile à quelque chose qui est extrêmement et manifestement faux. Action.
 
@@ -2798,7 +2802,7 @@ Etant aussi grande, votre forme de bête bénéficie des bonus supplémentaires 
 
 **Hackez l'impossible** (3 points d'intelligence) : Vous pouvez persuader les robots, les machines et les ordinateurs d'exécuter vos ordres. Vous pouvez découvrir un mot de passe crypté, briser la sécurité d’un site Web, éteindre brièvement une machine telle qu’une caméra de surveillance ou désactiver un robot en un instant. Action.
 
-**Hors de danger**: Même si il est prudent, un enquêteur se retrouve parfois dans une bagarre. Savoir comment survivre représente plus de la moitié de la bataille. Vous êtes entraîné aux tâches de défense de Rapidité. Facilitateur.
+**Hors de danger**: Même si il est prudent, un enquêteur se retrouve parfois dans une bagarre. Savoir comment survivre représente plus de la moitié de la bataille. Vous êtes entraîné aux tâches de défense de Célérité. Facilitateur.
 
 **Hémorragie** (2+ points de Puissance) : Vous effectuez une frappe puissante et précise qui inflige des dégâts supplémentaires plus tard. Lors de votre prochain tour, la cible de cette attaque subit 3 points de dégâts supplémentaires (ignore l'armure). La cible peut éviter ces dégâts supplémentaires en effectuant un jet de récupération, en utilisant n'importe quelle capacité qui la soigne ou en utilisant son action pour soigner la blessure. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour augmenter cette durée d'un tour. Action.
 
@@ -2851,7 +2855,7 @@ cube. L’image peut bouger (par exemple, vous pouvez donner l’illusion d’un
 
 **Innovateur**: vous pouvez modifier n'importe quel artefact pour lui donner des capacités différentes ou meilleures, comme si cet artefact était d'un niveau inférieur à la normale, et la modification prend la moitié du temps normal. Facilitateur.
 
-**Insaisissable** (2 points de Rapidité) : Lorsque vous réussissez une action de défense Rapidité, vous gagnez immédiatement une action. Vous ne pouvez utiliser cette action que pour vous déplacer. Facilitateur.
+**Insaisissable** (2 points de Célérité) : Lorsque vous réussissez une action de défense Célérité, vous gagnez immédiatement une action. Vous ne pouvez utiliser cette action que pour vous déplacer. Facilitateur.
 
 **Inspiration** (6 points d'Intelligence) : Vous prononcez des mots d'encouragement et d'inspiration. Tous les alliés à courte portée qui peuvent vous entendre bénéficient immédiatement d'un jet de récupération, d'une action gratuite immédiate et disposent d'un atout pour cette action gratuite. Le jet de récupération ne compte pas comme l’un de leurs jets de récupération normaux. Action.
 
@@ -2865,7 +2869,7 @@ cube. L’image peut bouger (par exemple, vous pouvez donner l’illusion d’un
 
 **Inspirez les innocents** (3 points d'Intelligence) : Vous prononcez des mots d'encouragement et d'inspiration à tous ceux qui se trouvent à portée immédiate et que vous avez désignés comme innocents grâce à votre capacité de désignation. Ils bénéficient immédiatement d’un jet de récupération gratuit. Une personne que vous choisissez peut bénéficier d’une action gratuite immédiate au lieu d’un jet de récupération gratuit. Si vous possédez également la capacité Inspiration, la cible qui gagne une action gratuite gagne également un atout sur celle-ci. Action.
 
-**Instinct de Danger** (3 points de Rapidité): Si vous êtes attaqué par surprise, que ce soit par une créature, un engin ou simplement un danger environnemental (un arbre tombant sur vous), vous pouvez vous déplacer sur une distance immédiate avant que l'attaque ne se produise. Si le mouvement empêche l’attaque, vous êtes en sécurité. Si l'attaque peut encore potentiellement vous affecter (si la créature attaquante peut se déplacer pour suivre le rythme, si l'attaque remplit une zone trop grande pour s'échapper, etc.), la capacité n'offre aucun avantage. Facilitateur.
+**Instinct de Danger** (3 points de Célérité): Si vous êtes attaqué par surprise, que ce soit par une créature, un engin ou simplement un danger environnemental (un arbre tombant sur vous), vous pouvez vous déplacer sur une distance immédiate avant que l'attaque ne se produise. Si le mouvement empêche l’attaque, vous êtes en sécurité. Si l'attaque peut encore potentiellement vous affecter (si la créature attaquante peut se déplacer pour suivre le rythme, si l'attaque remplit une zone trop grande pour s'échapper, etc.), la capacité n'offre aucun avantage. Facilitateur.
 
 **Instinct de Magie Sauvage**: Vous obtenez momentanément une compréhension parfaite du flux de magie qui vous entoure à ce moment. Lorsque vous préparez votre magie, choisissez un chiffre subtil spécifique et effectuez un jet de compétence de savoir magique contre le niveau 6. Si vous réussissez, vous gagnez ce chiffre subtil (le niveau du chiffre est 6) ; si vous échouez, vous obtenez un chiffre subtil et aléatoire. Si vous n'êtes pas sûr du chiffre subtil spécifique que vous souhaitez, vous pouvez demander une catégorie large telle que « guérison », « mouvement » ou « compétence » ; cela facilite la tâche de connaissance magique, et si vous réussissez, le MJ choisit un chiffre aléatoire qui correspond à cette catégorie. Vous ne pouvez plus utiliser cette capacité avant d’avoir effectué une action de récupération de dix heures. Facilitateur.
 
@@ -2931,7 +2935,7 @@ L'invisibilité prend fin à la fin de votre prochain tour. Si l'une des créatu
 
 **Joueur**: choisissez n'importe quel style de jeu, comme les jeux de stratégie en temps réel, les jeux de hasard dans le style du poker, les jeux de rôle, etc. Vous pouvez appliquer un atout à une tâche liée au jeu de ce style de jeu une fois entre chaque jet de récupération. Facilitateur.
 
-Joueur’s Fortitude/Endurance du joueur: S'asseoir et jouer à un jeu pendant douze heures d'affilée n'est pas quelque chose que la plupart des gens peuvent faire, mais vous y arrivez. Une fois après chaque jet de récupération de dix heures, vous pouvez transférer jusqu'à 5 points entre vos pools dans n'importe quelle combinaison, à raison de 1 point par tour. Par exemple, vous pourriez transférer 3 points de Puissance en Rapidité et 2 points d'Intelligence en Rapidité, ce qui prendrait un total de cinq tours. Action.
+Joueur’s Fortitude/Endurance du joueur: S'asseoir et jouer à un jeu pendant douze heures d'affilée n'est pas quelque chose que la plupart des gens peuvent faire, mais vous y arrivez. Une fois après chaque jet de récupération de dix heures, vous pouvez transférer jusqu'à 5 points entre vos pools dans n'importe quelle combinaison, à raison de 1 point par tour. Par exemple, vous pourriez transférer 3 points de Puissance en Célérité et 2 points d'Intelligence en Célérité, ce qui prendrait un total de cinq tours. Action.
 
 **Juggernaut** (5 points de Puissance) : Jusqu'à la fin du tour suivant, vous pouvez vous déplacer à travers des objets solides tels que des portes et des murs. Seuls 2 pieds (60 cm) de bois, 1 pied (30 cm) de pierre ou 6 pouces (15 cm) de métal peuvent arrêter votre mouvement. Facilitateur.
 
@@ -2947,7 +2951,7 @@ Joueur’s Fortitude/Endurance du joueur: S'asseoir et jouer à un jeu pendant 
 
 **La connaissance, c'est le pouvoir**: Choisissez deux compétences non liées au combat pour lesquelles vous n'êtes pas entraîné. Vous êtes entraîné à ces compétences. Facilitateur.
 
-**La mémoire devient une action** (4+ points d'Intelligence) : Vous pouvez dupliquer une capacité de personnage à une action, en l'exécutant comme si cela était naturel pour vous. Vous devez avoir vu la capacité utilisée au cours de la semaine dernière, elle doit être de troisième niveau ou inférieur, et il doit s'agir d'une capacité avec un coût en points. En plus du coût en points de La mémoire devient action, vous devez payer le coût en Puissance, Rapidité ou Intelligence de la capacité que vous copiez. Par exemple, si vous souhaitez copier l'attaque de fente d'un ami (qui coûte normalement 2 points de Puissance), vous paierez 4 points d'intelligence pour activer la mémoire devient action et 2 points de Puissance pour utiliser la fente. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour copier une capacité que vous avez vue il y a plus d'une semaine ; chaque niveau d'Effort utilisé de cette manière prolonge la période d'une semaine. Facilitateur.
+**La mémoire devient une action** (4+ points d'Intelligence) : Vous pouvez dupliquer une capacité de personnage à une action, en l'exécutant comme si cela était naturel pour vous. Vous devez avoir vu la capacité utilisée au cours de la semaine dernière, elle doit être de troisième niveau ou inférieur, et il doit s'agir d'une capacité avec un coût en points. En plus du coût en points de La mémoire devient action, vous devez payer le coût en Puissance, Célérité ou Intelligence de la capacité que vous copiez. Par exemple, si vous souhaitez copier l'attaque de fente d'un ami (qui coûte normalement 2 points de Puissance), vous paierez 4 points d'intelligence pour activer la mémoire devient action et 2 points de Puissance pour utiliser la fente. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour copier une capacité que vous avez vue il y a plus d'une semaine ; chaque niveau d'Effort utilisé de cette manière prolonge la période d'une semaine. Facilitateur.
 
 **La nature est de votre côté** (5 points d'Intelligence) : lorsque vous êtes dans la nature, les ennemis à courte portée trébuchent sur des rochers, s’emmêlent dans les vignes, sont mordus par des insectes et sont distraits ou confus par de petits animaux, ce qui les gênent dans toutes leurs tâches. pour dix minutes. Action à initier.
 
@@ -2963,7 +2967,7 @@ Joueur’s Fortitude/Endurance du joueur: S'asseoir et jouer à un jeu pendant 
 
 **Lancer Objet en Fer** (5+ points d'Intelligence) : Vous ramassez magnétiquement un objet métallique lourd à courte portée et le lancez sur quelqu'un à courte portée, une action d'Intelligence qui inflige 6 points de dégâts à la cible et à l'objet lancé. Pour chaque niveau d'effort supplémentaire appliqué, vous pouvez ramasser un objet légèrement plus grand, vous permettant d'affecter une cible supplémentaire à courte portée tant qu'elle se trouve à côté de la cible précédente. Action.
 
-**Lancer rapide** (2 points de Rapidité) : Après avoir utilisé une arme légère de lancer, vous dégainez une autre arme légère et effectuez une autre attaque lancée contre la même cible ou une autre. Action.
+**Lancer rapide** (2 points de Célérité) : Après avoir utilisé une arme légère de lancer, vous dégainez une autre arme légère et effectuez une autre attaque lancée contre la même cible ou une autre. Action.
 
 **Lancer un bouclier de force**: vous pouvez lancer votre bouclier de champ de force à courte portée comme une arme légère à distance. Que le bouclier touche ou rate, il se dissipe immédiatement puis se reforme à votre portée. Facilitateur.
 
@@ -3027,7 +3031,7 @@ Joueur’s Fortitude/Endurance du joueur: S'asseoir et jouer à un jeu pendant 
 
 ## Capacités---M
 
-**Machine aveugle** (6 points de Rapidité) : Vous désactivez l’appareil sensoriel d’une machine, la rendant effectivement aveugle jusqu’à ce qu’elle puisse être réparée. Vous devez soit toucher la cible, soit la frapper avec une attaque à distance (ne lui infligeant aucun dégât). Action.
+**Machine aveugle** (6 points de Célérité) : Vous désactivez l’appareil sensoriel d’une machine, la rendant effectivement aveugle jusqu’à ce qu’elle puisse être réparée. Vous devez soit toucher la cible, soit la frapper avec une attaque à distance (ne lui infligeant aucun dégât). Action.
 
 **Magie Prosaïque**(1 point d'Intelligence) : Vous pouvez réaliser de petites astuces : changer temporairement la couleur ou l'apparence de base d'un petit objet, faire flotter de petits objets dans les airs, nettoyer une petite zone, réparer un objet cassé, préparer (mais pas créer ) la nourriture, etc. Vous ne pouvez pas utiliser Magie Prosaïque pour blesser une autre créature ou un autre objet. Action.
 
@@ -3037,7 +3041,7 @@ Joueur’s Fortitude/Endurance du joueur: S'asseoir et jouer à un jeu pendant 
 
 **Main Guérisseuse** (1 point d'Intelligence) : avec un contact, vous restaurez 1d6 points à un pool de statistiques de n'importe quelle créature. Cette capacité est une tâche de difficulté Intellect 2. Chaque fois que vous tentez de soigner la même créature, la tâche est gênée par une étape supplémentaire. La difficulté revient à 2 après que cette créature se repose pendant dix heures. Action.
 
-**Main Guérisseuse Supérieure** (4 points d'Intelligence) : vous touchez une créature et restaurez sa Réserve de Puissance, sa Réserve de Rapidité et sa Réserve d'Intelligence à leurs valeurs maximales, comme si elle était complètement reposée. Une seule créature ne peut bénéficier de cette capacité qu’une fois par jour. Action.
+**Main Guérisseuse Supérieure** (4 points d'Intelligence) : vous touchez une créature et restaurez sa Réserve de Puissance, sa Réserve de Célérité et sa Réserve d'Intelligence à leurs valeurs maximales, comme si elle était complètement reposée. Une seule créature ne peut bénéficier de cette capacité qu’une fois par jour. Action.
 
 **Maintenez le cap** (5 points d'Intelligence) : Lorsque vos compagnons faibliront, vous pouvez les inspirer avec un mot ou deux au bon moment. Tout allié (sauf vous) à portée immédiate peut effectuer un jet de récupération qui n'est pas une action et ne compte pas dans sa limite quotidienne. Action.
 
@@ -3055,7 +3059,7 @@ Joueur’s Fortitude/Endurance du joueur: S'asseoir et jouer à un jeu pendant 
 
 **Maîtrise dans l’ Utilisation des Cyphers**: Vous pouvez utiliser cinq cyphers à la fois. Facilitateur.
 
-**Maîtrise de la défense**: choisissez un type de tâche de défense dans laquelle vous êtes entraîné: Puissance, Rapidité ou intelligence. Vous êtes spécialisé dans les tâches de défense de ce type. Vous pouvez sélectionner cette capacité jusqu'à trois fois. Chaque fois que vous le sélectionnez, vous devez choisir un type de tâche de défense différent. Facilitateur.
+**Maîtrise de la défense**: choisissez un type de tâche de défense dans laquelle vous êtes entraîné: Puissance, Célérité ou intelligence. Vous êtes spécialisé dans les tâches de défense de ce type. Vous pouvez sélectionner cette capacité jusqu'à trois fois. Chaque fois que vous le sélectionnez, vous devez choisir un type de tâche de défense différent. Facilitateur.
 
 **Maîtrise de l’Identification des appareils**: Vous êtes entraîné à identifier la fonction de tout type d'appareil. Facilitateur.
 
@@ -3073,19 +3077,19 @@ Enfin, l'allié magique peut se transformer en fumée et en flammes lors de son 
 
 **Maîtrise des outils** : Lorsque vous disposez d'un atout lié à l'utilisation d'un outil, le temps nécessaire à l'exécution de la tâche est réduit de moitié (minimum un tour). Facilitateur.
 
-**Maîtrise du Bouclier** : Lorsque vous utilisez un bouclier, en plus de l'atout qu'il vous apporte (facilitant les tâches de défense de Rapidité), vous pouvez agir comme si vous étiez entraîné aux tâches de défense de Rapidité. Cependant, à chaque tour au cours duquel vous utilisez cet avantage, vos attaques sont gênées. Facilitateur.
+**Maîtrise du Bouclier** : Lorsque vous utilisez un bouclier, en plus de l'atout qu'il vous apporte (facilitant les tâches de défense de Célérité), vous pouvez agir comme si vous étiez entraîné aux tâches de défense de Célérité. Cependant, à chaque tour au cours duquel vous utilisez cet avantage, vos attaques sont gênées. Facilitateur.
 
-**Maîtrise en Armure**: la réduction du coût de votre capacité Pratique des armures s'améliore. Vous réduisez désormais le coût de l'Effort de Rapidité pour porter une armure à 0.
+**Maîtrise en Armure**: la réduction du coût de votre capacité Pratique des armures s'améliore. Vous réduisez désormais le coût de l'Effort de Célérité pour porter une armure à 0.
 
-**Maîtrise extrême** (6 points de Puissance ou 6 points de Rapidité) : lorsque vous utilisez l'arme de votre choix, vous pouvez relancer n'importe quel jet d'attaque de votre choix et prendre le meilleur des deux résultats. Facilitateur.
+**Maîtrise extrême** (6 points de Puissance ou 6 points de Célérité) : lorsque vous utilisez l'arme de votre choix, vous pouvez relancer n'importe quel jet d'attaque de votre choix et prendre le meilleur des deux résultats. Facilitateur.
 
 **Manteau d'opportunité** (5 points d'Intelligence): vous faites tourbillonner de petits objets de l'environnement (rochers, objets cassés, mottes de terre, etc.) autour de vous pendant dix minutes maximum, ce qui vous confère +2 d'armure. Action à initier.
 
 **Manteau de flammes** (1 point d'Intelligence) : sur votre commande, votre corps tout entier est enveloppé de flammes qui durent jusqu'à dix minutes. Le feu ne vous brûle pas, mais il inflige automatiquement 2 points de dégâts à quiconque tente de vous toucher ou de vous frapper avec une attaque au corps à corps. Les flammes provenant d’une autre source peuvent toujours vous blesser. Tant que le linceul est actif, vous gagnez +2 en armure contre les dégâts de feu provenant d'une autre source. Facilitateur.
 
-**Manteau de matière noire** (4 points d'Intelligence): des rubans de matière noire se condensent et tourbillonnent autour de vous pendant une minute maximum. Ce manteau facilite vos tâches de défense de Rapidité, inflige 2 points de dégâts à quiconque tente de vous toucher ou de vous frapper avec une attaque au corps à corps et vous donne +1 d'armure. Action à initier.
+**Manteau de matière noire** (4 points d'Intelligence): des rubans de matière noire se condensent et tourbillonnent autour de vous pendant une minute maximum. Ce manteau facilite vos tâches de défense de Célérité, inflige 2 points de dégâts à quiconque tente de vous toucher ou de vous frapper avec une attaque au corps à corps et vous donne +1 d'armure. Action à initier.
 
-**Marche impossible** (5+ points de Rapidité) : Vous pouvez marcher (ou ramper ou courir) sur des pentes raides et des surfaces verticales (telles que des murs et des falaises) pendant la minute suivante comme s'il s'agissait d'un terrain plat. Lorsque vous utilisez cette capacité, « vers le bas » correspond pour vous, soit à la surface sur laquelle vous marchez, soit à l'orientation normale de la gravité (votre choix). Si vous appliquez un niveau d'Effort, vous pouvez également marcher au plafond ou sur une surface liquide ou semi-liquide comme de l'eau, de la boue, des sables mouvants ou même de la lave (même si toucher une surface dangereuse comme la lave vous fait toujours du mal). Si vous appliquez deux niveaux d'effort, vous pouvez également marcher dans les airs comme s'il s'agissait d'un sol solide. Facilitateur.
+**Marche impossible** (5+ points de Célérité) : Vous pouvez marcher (ou ramper ou courir) sur des pentes raides et des surfaces verticales (telles que des murs et des falaises) pendant la minute suivante comme s'il s'agissait d'un terrain plat. Lorsque vous utilisez cette capacité, « vers le bas » correspond pour vous, soit à la surface sur laquelle vous marchez, soit à l'orientation normale de la gravité (votre choix). Si vous appliquez un niveau d'Effort, vous pouvez également marcher au plafond ou sur une surface liquide ou semi-liquide comme de l'eau, de la boue, des sables mouvants ou même de la lave (même si toucher une surface dangereuse comme la lave vous fait toujours du mal). Si vous appliquez deux niveaux d'effort, vous pouvez également marcher dans les airs comme s'il s'agissait d'un sol solide. Facilitateur.
 
 **Marin** : Vous êtes entraîné aux tâches liées à la voile et formé à la géographie des îles et des littoraux. Facilitateur.
 
@@ -3107,13 +3111,13 @@ Enfin, l'allié magique peut se transformer en fumée et en flammes lors de son 
 
 **Mettre un Ennemi en Phase** (6+ points d'Intelligence) : Vous rassemblez de l'énergie perturbatrice au bout de votre doigt et touchez une créature. Si la cible est un PNJ ou une créature de niveau 3 ou inférieur, elle passe en phase comme si elle avait utilisé la capacité Fantôme. Cependant, à moins qu'il ne parvienne à contrôler son mouvement tout en étant en phase, ce que la plupart des créatures n'ont aucune expérience, il commence à couler à travers la matière solide. S’il ne peut pas se contrôler ou mettre fin à l’effet, il pourrait disparaître pour de bon, car lorsqu’il redeviendra solide après dix minutes, il se trouvera probablement au plus profond de la terre. Pour chaque niveau d’Effort supplémentaire que vous appliquez, vous pouvez tenter d’affecter une cible d’un niveau supérieur. Action.
 
-**Meurtre Rapide** (2 points de Rapidité) : Vous savez tuer rapidement. Lorsque vous frappez avec une attaque au corps à corps ou à distance, vous infligez 4 points de dégâts supplémentaires. Vous ne pouvez pas effectuer cette attaque deux rounds consécutifs. Action.
+**Meurtre Rapide** (2 points de Célérité) : Vous savez tuer rapidement. Lorsque vous frappez avec une attaque au corps à corps ou à distance, vous infligez 4 points de dégâts supplémentaires. Vous ne pouvez pas effectuer cette attaque deux rounds consécutifs. Action.
 
-**Meurtrier** (8+ points de Rapidité) : Avec une attaque rapide et soudaine, vous frappez un ennemi à un endroit vital. Si la cible est de niveau 4 ou inférieur, elle est carrément tuée. Pour chaque niveau d'Effort supplémentaire que vous appliquez, vous pouvez augmenter le niveau de la cible de 1. Action.
+**Meurtrier** (8+ points de Célérité) : Avec une attaque rapide et soudaine, vous frappez un ennemi à un endroit vital. Si la cible est de niveau 4 ou inférieur, elle est carrément tuée. Pour chaque niveau d'Effort supplémentaire que vous appliquez, vous pouvez augmenter le niveau de la cible de 1. Action.
 
 **Mieux vivre grâce à la chimie** (4 points intellectuels) : Vous avez développé des cocktails de médicaments spécialement conçus pour fonctionner avec votre propre biochimie. Selon celui que vous injectez, cela vous rend plus intelligent, plus rapide ou plus résistant, mais quand cela s'estompe, le crash est un désastre, vous ne l'utilisez donc que dans des situations désespérées. Vous gagnez 2 à votre Avantage de Puissance, Speed ​​Edge ou Intellect Edge pendant une minute, après quoi vous ne pouvez plus bénéficier de cet avantage pendant une heure. Pendant cette heure de suivi, chaque fois que vous dépensez des points d'un Pool, augmentez le coût de 1. Action.
 
-**Minuscule**: lorsque vous utilisez Rétrécir, vous pouvez choisir de réduire la taille jusqu'à environ un seizième de pouce (0,2 cm). Lorsque vous le faites, vous ajoutez 5 points temporaires supplémentaires à votre Réserve de Rapidité (plus ceux des plus petits), et comme vos attaques sont concentrées dans une très petite zone, vous infligez 2 points de dégâts supplémentaires. Pour chaque niveau d'Effort que vous appliquez pour rétrécir encore plus, vous devenez un dixième de votre taille (un centième pour deux niveaux d'Effort, un millième pour trois, et ainsi de suite) et vous ajoutez 1 point supplémentaire à votre Rapidité. Piscine. Facilitateur.
+**Minuscule**: lorsque vous utilisez Rétrécir, vous pouvez choisir de réduire la taille jusqu'à environ un seizième de pouce (0,2 cm). Lorsque vous le faites, vous ajoutez 5 points temporaires supplémentaires à votre Réserve de Célérité (plus ceux des plus petits), et comme vos attaques sont concentrées dans une très petite zone, vous infligez 2 points de dégâts supplémentaires. Pour chaque niveau d'Effort que vous appliquez pour rétrécir encore plus, vous devenez un dixième de votre taille (un centième pour deux niveaux d'Effort, un millième pour trois, et ainsi de suite) et vous ajoutez 1 point supplémentaire à votre Célérité. Piscine. Facilitateur.
 
 Dans les campagnes où les personnages peuvent voyager dans des dimensions parallèles, utiliser Minuscule pour réduire à un millième de votre taille normale peut être un moyen d'y parvenir.
 
@@ -3148,7 +3152,7 @@ Dans les campagnes où les personnages peuvent voyager dans des dimensions paral
 
 **Moqueries confondantes** (4 points d'Intelligence): Vous crachez un flot d'absurdités pour distraire un ennemi à portée immédiate. En cas de réussite d’un jet d’Intelligence, votre jet de défense contre la prochaine attaque de la créature avant la fin du tour suivant est facilité. Action.
 
-**Mort rapide** (2 points de Rapidité) : Vous savez tuer rapidement. Lorsque vous frappez avec une attaque au corps à corps ou à distance, vous infligez 4 points de dégâts supplémentaires. Vous ne pouvez pas effectuer cette attaque en deux tours consécutifs. Action.
+**Mort rapide** (2 points de Célérité) : Vous savez tuer rapidement. Lorsque vous frappez avec une attaque au corps à corps ou à distance, vous infligez 4 points de dégâts supplémentaires. Vous ne pouvez pas effectuer cette attaque en deux tours consécutifs. Action.
 
 **Mot de commandement** (6 points d'Intelligence + chiffre de niveau 6) : Vous prononcez un mot si puissant que pour l'investir pleinement, vous sacrifiez un chiffre en votre possession de niveau 6 ou supérieur. Vous envoyez le mot à une créature à longue portée que vous pouvez voir. La cible affectée doit obéir à l'ordre pendant plusieurs heures avant d'être libre d'agir comme elle le souhaite. Les cibles attaquées alors qu'elles sont sous l'effet du commandement peuvent se défendre. Les commandes typiques incluent « retraite », « calme », « viens » et « reste ». Le MJ décide comment la cible agit une fois qu'un ordre est donné. Action.
 
@@ -3156,7 +3160,7 @@ Dans les campagnes où les personnages peuvent voyager dans des dimensions paral
 
 **Mouvement enchanté** (4+ points d'Intelligence) : Vous utilisez votre arme enchantée pour vous déplacer vers n'importe quel endroit situé à une longue distance que vous pouvez voir, à condition qu'il n'y ait aucun obstacle ou barrière sur votre chemin. La manière exacte dont cela se produit dépend de votre arme ; vous pouvez lancer votre marteau magique et être entraîné après lui, tirer une flèche avec votre arc qui vous tire vers l'avant comme une ligne de grappin, et ainsi de suite. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour augmenter la distance parcourue ; chaque niveau d'effort utilisé de cette manière augmente la portée de 100 pieds (30 m) supplémentaires. Si vous disposez d'une autre capacité (comme celle de votre type) qui vous permet de parcourir une longue distance, la portée de cette capacité et de celle-ci augmente jusqu'à très longue. Action.
 
-**Mouvements de culbute** (5 points de Rapidité) : Lorsque vous utilisez une action pour vous déplacer, les jets de défense de Rapidité sont allégés jusqu'à la fin de votre prochain tour. Facilitateur.
+**Mouvements de culbute** (5 points de Célérité) : Lorsque vous utilisez une action pour vous déplacer, les jets de défense de Célérité sont allégés jusqu'à la fin de votre prochain tour. Facilitateur.
 
 **Multiples Proies** (6 points d'Intelligence) : Cette capacité fonctionne comme la capacité Proie sauf que vous pouvez sélectionner jusqu'à trois créatures comme proie. Vous devez être capable de voir les trois créatures lorsque vous lancez cette capacité. Si vous possédez Hunter’s Drive, cela s’applique aux trois créatures. Action à initier.
 
@@ -3178,9 +3182,9 @@ Dans les campagnes où les personnages peuvent voyager dans des dimensions paral
 
 **Mécanicien de passage**: Vous êtes formé aux tâches liées à la réparation et à l'entretien d'un starcraft. Facilitateur.
 
-**Mécanismes de désactivation** (3 points de Rapidité) : Avec un œil vif et des mouvements rapides, vous perturbez certaines fonctions d'un robot ou d'une machine et lui infligez l'une des pénalités suivantes :
+**Mécanismes de désactivation** (3 points de Célérité) : Avec un œil vif et des mouvements rapides, vous perturbez certaines fonctions d'un robot ou d'une machine et lui infligez l'une des pénalités suivantes :
 - Toutes ses tâches sont entravées pendant une minute.
-- Sa Rapidité est réduite de moitié.
+- Sa Célérité est réduite de moitié.
 - Il ne peut entreprendre aucune action pendant un round.
 - Il inflige 2 points de dégâts en moins (minimum 1 point) pendant une minute.
 Vous devez toucher le robot ou la machine pour le perturber (si vous effectuez une attaque, cela n'inflige aucun dégât). Action.
@@ -3201,7 +3205,7 @@ Vous devez toucher le robot ou la machine pour le perturber (si vous effectuez u
 
 **Nuage de brume** (1+ points d'Intelligence) : Vous créez une zone de brume à une distance immédiate. Le nuage persiste pendant environ une minute, à moins que les conditions (telles que le vent ou les températures glaciales) n'en décident autrement. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour augmenter la zone (un niveau d'Effort pour remplir une zone courte, deux pour remplir une zone longue ou trois pour remplir une zone très longue). Action.
 
-**Nuage de matière** (5 points d'Intelligence) : Les cailloux, la terre, le sable et les débris s'élèvent dans l'air autour de vous pour former un nuage tourbillonnant. Le nuage s'étend à portée immédiate, se déplace avec vous et dure une minute. À la fin, tous les matériaux tombent au sol autour de vous. Le nuage rend plus difficile aux autres créatures de vous attaquer, ce qui vous donne un atout lors des jets de défense de Rapidité. De plus, tant que le nuage est autour de vous, vous pouvez utiliser une action pour fouetter le matériau afin qu'il abrase tout ce qui se trouve à portée immédiate, infligeant 1 point de dégâts à chaque créature et objet dans la zone. Action à initier.
+**Nuage de matière** (5 points d'Intelligence) : Les cailloux, la terre, le sable et les débris s'élèvent dans l'air autour de vous pour former un nuage tourbillonnant. Le nuage s'étend à portée immédiate, se déplace avec vous et dure une minute. À la fin, tous les matériaux tombent au sol autour de vous. Le nuage rend plus difficile aux autres créatures de vous attaquer, ce qui vous donne un atout lors des jets de défense de Célérité. De plus, tant que le nuage est autour de vous, vous pouvez utiliser une action pour fouetter le matériau afin qu'il abrase tout ce qui se trouve à portée immédiate, infligeant 1 point de dégâts à chaque créature et objet dans la zone. Action à initier.
 
 **Nécromancie** (3+ points d'Intelligence) : Vous animez le corps d'une créature morte d'environ votre taille ou moins, créant une créature de niveau 1. Il n’a ni l’intelligence, ni la mémoire, ni les capacités spéciales qu’il avait dans la vie. La créature suit vos ordres verbaux pendant une heure, après quoi elle devient un cadavre inerte. À moins que la créature ne soit tuée par des dégâts, vous pouvez la réanimer à nouveau lorsque son temps expire, mais tous les dégâts qu'elle a subis lorsqu'elle est devenue inerte s'appliquent à son état nouvellement réanimé. Si vous avez accès à plusieurs corps, vous pouvez créer une créature mort-vivante supplémentaire pour chaque point d'Intelligence supplémentaire que vous dépensez lorsque vous activez la capacité. Action à animer.
 
@@ -3227,7 +3231,7 @@ Vous devez toucher le robot ou la machine pour le perturber (si vous effectuez u
 
 ## Capacités---P
 
-**Parade** (5 points de Rapidité) : Vous pouvez dévier rapidement les attaques entrantes. Lorsque vous activez cette capacité, pendant les dix tours suivants, vous ralentissez tous les jets de défense de Rapidité. Facilitateur.
+**Parade** (5 points de Célérité) : Vous pouvez dévier rapidement les attaques entrantes. Lorsque vous activez cette capacité, pendant les dix tours suivants, vous ralentissez tous les jets de défense de Célérité. Facilitateur.
 
 **Parfait Inconnu** (3 points d'Intelligence) : Vous modpoints de ifiez votre posture et votre façon de parler et apportez une petite mais réelle modification à une tenue (comme mettre ou enlever un chapeau, retourner une cape, etc.). Pendant l’heure suivante (ou aussi longtemps que vous poursuivez l’altération), même les créatures qui vous connaissent bien ne vous reconnaissent pas. Toutes les tâches liées à la dissimulation de votre véritable identité pendant cette période bénéficient d'un niveau d'effort gratuit. Action à initier.
 
@@ -3235,7 +3239,7 @@ Vous devez toucher le robot ou la machine pour le perturber (si vous effectuez u
 
 **Partager les sens**: tant que votre double créé par la capacité Dupliquer existe et se trouve à moins de 1,5 km, vous savez tout ce qu'il vit et pouvez communiquer avec lui par télépathie. Facilitateur.
 
-**Partagez le pouvoir**: lorsque vous utilisez Drain de Créature ou Drain de Machine pour drainer de l'énergie, vous pouvez la transférer à une autre créature, restaurant ainsi des points dans ses réserves de Puissance ou de Rapidité (ou de santé pour un PNJ) au lieu de vous-même. Vous pouvez dépenser les points de votre réserve de siphon (de la capacité Stocker l'énergie) de la même manière. Vous devez toucher la créature que vous souhaitez soigner, à moins que vous n'ayez la capacité Drain à distance, auquel cas elle peut être jusqu'à une courte distance. Facilitateur.
+**Partagez le pouvoir**: lorsque vous utilisez Drain de Créature ou Drain de Machine pour drainer de l'énergie, vous pouvez la transférer à une autre créature, restaurant ainsi des points dans ses réserves de Puissance ou de Célérité (ou de santé pour un PNJ) au lieu de vous-même. Vous pouvez dépenser les points de votre réserve de siphon (de la capacité Stocker l'énergie) de la même manière. Vous devez toucher la créature que vous souhaitez soigner, à moins que vous n'ayez la capacité Drain à distance, auquel cas elle peut être jusqu'à une courte distance. Facilitateur.
 
 **Pas besoin d'armes**: lorsque vous effectuez une attaque à mains nues (comme un coup de poing ou un coup de pied), cela compte comme une arme moyenne au lieu d'une arme légère. Facilitateur.
 
@@ -3253,7 +3257,7 @@ Lorsque vous effectuez une action, vous utilisez le corps de la créature pour e
 
 **Penser à l’avance** (points d’intelligence variables) : Vous produisez un remède qui supprime une condition négative parce que vous avez déjà passé beaucoup de temps à réfléchir à l’avance et à vous préparer à votre situation actuelle. Par exemple, si un autre personnage est empoisonné, vous produisez un antidote, ou s’il est aveuglé, vous produisez un baume qui lui rend la vue (en supposant qu’il n’a pas été aveuglé parce que ses yeux ont été détruits). Le coût en Intelligence pour l'utilisation de cette capacité est égal au niveau de l'effet ou de la créature qui a provoqué la condition négative. Action.
 
-**Pensez à votre sortie**: lorsque vous le souhaitez, vous pouvez utiliser les points de votre réserve d'intelligence plutôt que de votre réserve de Puissance ou de votre Réserve de Rapidité pour toute action hors combat. Facilitateur.
+**Pensez à votre sortie**: lorsque vous le souhaitez, vous pouvez utiliser les points de votre réserve d'intelligence plutôt que de votre réserve de Puissance ou de votre Réserve de Célérité pour toute action hors combat. Facilitateur.
 
 **Percer les Défenses** (4 points d'Intelligence) : Vous déchirez les défenses d'une créature à longue portée. Toutes les défenses basées sur l'énergie dont il dispose (comme un champ de force ou une capacité de protection) sont annulées pendant 1d6 + 1 rounds. Si la créature n'a aucune défense énergétique, son armure est réduite de 2 pendant une minute. S'il n'a pas de défenses énergétiques ou d'armure, les attaques contre lui sont atténuées pendant une minute. Action.
 
@@ -3273,21 +3277,21 @@ Lorsque vous effectuez une action, vous utilisez le corps de la créature pour e
 
 **Petit vol** (3+ points d'Intelligence) : Pendant l'heure suivante, lorsque vous utilisez Rétrécir, vous pouvez voler dans les airs. Vous pouvez accomplir ce vol en faisant pousser des ailes à partir de votre corps, en déployant les ailes de votre combinaison, en appelant une petite créature pour vous porter ou en « surfant » sur les courants aériens. Lorsque vous volez, vous pouvez vous déplacer sur une courte distance dans le cadre d'une autre action ou sur une longue distance si tout ce que vous faites à votre tour est de vous déplacer. Action à initier.
 
-**Phase défensive** (2 points d'Intelligence): Vous pouvez modifier votre phase pour que certaines attaques vous traversent sans danger. Pendant les dix minutes suivantes, vous gagnez un atout pour vos tâches de défense de Rapidité, mais pendant ce temps, vous perdez tout bénéfice de l'armure que vous portez. Action à initier.
+**Phase défensive** (2 points d'Intelligence): Vous pouvez modifier votre phase pour que certaines attaques vous traversent sans danger. Pendant les dix minutes suivantes, vous gagnez un atout pour vos tâches de défense de Célérité, mais pendant ce temps, vous perdez tout bénéfice de l'armure que vous portez. Action à initier.
 
-**Physique amélioré** : vous gagnez 3 points à répartir entre vos réserves de Puissance et de Rapidité comme vous le souhaitez. Facilitateur.
+**Physique amélioré** : vous gagnez 3 points à répartir entre vos réserves de Puissance et de Célérité comme vous le souhaitez. Facilitateur.
 
-**Physique amélioré supérieure**: vous gagnez 6 points à répartir entre vos réserves de Puissance et de Rapidité comme vous le souhaitez. Facilitateur.
+**Physique amélioré supérieure**: vous gagnez 6 points à répartir entre vos réserves de Puissance et de Célérité comme vous le souhaitez. Facilitateur.
 
-**Physiquement doué**: chaque fois que vous dépensez des points de votre réserve de Puissance ou de votre Réserve de Rapidité pour une action pour quelque raison que ce soit, si vous obtenez un 1 sur le dé associé, vous relancez, en prenant toujours le deuxième résultat (même si c'est un autre 1). Facilitateur.
+**Physiquement doué**: chaque fois que vous dépensez des points de votre réserve de Puissance ou de votre Réserve de Célérité pour une action pour quelque raison que ce soit, si vous obtenez un 1 sur le dé associé, vous relancez, en prenant toujours le deuxième résultat (même si c'est un autre 1). Facilitateur.
 
-**Pied Léger** (1+ points de Rapidité) : Vous pouvez vous déplacer sur une courte distance dans le cadre d’une autre action. Vous pouvez vous déplacer sur une longue distance pendant toute votre action pendant un tour. Si vous appliquez un niveau d'Effort à cette capacité, vous pouvez vous déplacer sur une longue distance et effectuer une attaque pendant toute votre action pendant un tour, mais l'attaque est gênée. Facilitateur.
+**Pied Léger** (1+ points de Célérité) : Vous pouvez vous déplacer sur une courte distance dans le cadre d’une autre action. Vous pouvez vous déplacer sur une longue distance pendant toute votre action pendant un tour. Si vous appliquez un niveau d'Effort à cette capacité, vous pouvez vous déplacer sur une longue distance et effectuer une attaque pendant toute votre action pendant un tour, mais l'attaque est gênée. Facilitateur.
 
 **Pilleur Entraîné**: Vous êtes entraîné aux tâches de perception, d’escalade et de récupération. Facilitateur.
 
 **Pilleur d’artifact** (6 points d’Intelligence + 2 XP) : Vous avez développé un sixième sens pour rechercher les objets les plus précieux du désert. Si vous passez le temps nécessaire pour réussir deux tâches de récupération, vous pouvez échanger tous les résultats que vous obtiendriez autrement contre une chance d'obtenir un artefact choisi par le MJ si vous réussissez une tâche d'Intelligence de difficulté 6. Vous pouvez utiliser cette capacité au maximum une fois par jour, et jamais dans la même zone générale. Action à initier, plusieurs heures à réaliser.
 
-**Pilotee** : Vous êtes formé à toutes les tâches liées au pilotage d'un vaisseau spatial. De manière générale, les tâches de pilotage sont des tâches basées sur la Rapidité, bien que l'utilisation de capteurs et d'instruments de communication soit des tâches basées sur l'intellect. Facilitateur.
+**Pilotee** : Vous êtes formé à toutes les tâches liées au pilotage d'un vaisseau spatial. De manière générale, les tâches de pilotage sont des tâches basées sur la Célérité, bien que l'utilisation de capteurs et d'instruments de communication soit des tâches basées sur l'intellect. Facilitateur.
 
 **Pilotee Expert**: Vous êtes spécialisé dans toutes les tâches liées au pilotage d'un vaisseau spatial. Facilitateur.
 
@@ -3309,7 +3313,7 @@ Lorsque vous effectuez une action, vous utilisez le corps de la créature pour e
 
 **Plus grand**: lorsque vous utilisez Agrandir, vous pouvez choisir de grandir jusqu'à 12 pieds (4 m) de hauteur et vous ajoutez 3 points temporaires supplémentaires à votre réserve de Puissance. Facilitateur.
 
-**Plus petit**: lorsque vous utilisez Rétrécir, vous pouvez choisir de rétrécir jusqu'à environ un demi-pouce (1 cm) de hauteur et vous ajoutez 3 points temporaires supplémentaires à votre Réserve de Rapidité. Facilitateur.
+**Plus petit**: lorsque vous utilisez Rétrécir, vous pouvez choisir de rétrécir jusqu'à environ un demi-pouce (1 cm) de hauteur et vous ajoutez 3 points temporaires supplémentaires à votre Réserve de Célérité. Facilitateur.
 
 **Plus rapide que la plupart**: l'expérience a affiné vos temps de réaction, car ceux qui agissent en premier obtiennent l'avantage dans la plupart des situations. Vous êtes formé aux tâches liées à l’initiative, à la détection de modèles sous-jacents et à la résolution d’énigmes. Facilitateur.
 
@@ -3344,13 +3348,13 @@ En cas de succès, vous créez votre piège à usage unique en une minute enviro
 **Poussée** (2 points d'Intelligence) : Vous poussez par télékinésie une créature ou un objet à une distance immédiate dans n'importe quelle direction de votre choix. Vous devez être capable de voir la cible, qui doit être de votre taille ou plus petite, ne doit être fixée à rien et doit être à courte portée. La poussée est rapide et la force est trop grossière pour être manipulée. Par exemple, vous ne pouvez pas utiliser cette capacité pour tirer un levier ou fermer une porte. Action.
 
 **Pouvoir de copie** (2+ points d'Intelligence): Vous pouvez copier le super pouvoir de quelqu'un d'autre pendant une heure, en l'exécutant comme si cela était naturel pour vous. Au cours de la dernière heure, vous devez avoir touché la créature dont vous souhaitez copier le pouvoir (un jet d'attaque) et devez avoir vu cette capacité utilisée par elle. Choisissez le pouvoir que vous souhaitez copier et le MJ choisit une capacité de bas niveau appropriée qui ressemble le plus à ce pouvoir. Par exemple, si vous combattez un super-vilain capable de créer des explosions de force, si vous copiez cette capacité, vous obtenez une capacité de niveau inférieur qui crée une explosion de force.
-En plus du coût en points de la Puissance de copie, vous devez payer le coût en Puissance, en Rapidité ou en intelligence (le cas échéant) de la capacité équivalente choisie par le MJ. Par exemple, si vous souhaitez copier l'explosion de force d'un super-vilain, le MJ décidera probablement que cela équivaut à **Assaut**, vous paierez donc 2 points d'Intelligence pour activer le pouvoir de copie et 1 point d'Intelligence pour utiliser Assaut.
+En plus du coût en points de la Puissance de copie, vous devez payer le coût en Puissance, en Célérité ou en intelligence (le cas échéant) de la capacité équivalente choisie par le MJ. Par exemple, si vous souhaitez copier l'explosion de force d'un super-vilain, le MJ décidera probablement que cela équivaut à **Assaut**, vous paierez donc 2 points d'Intelligence pour activer le pouvoir de copie et 1 point d'Intelligence pour utiliser Assaut.
 Vous ne pouvez copier qu’un seul pouvoir à la fois ; en copier un autre met fin à tout autre pouvoir que vous copiez avec cette capacité.
 Le pouvoir de copie ne copie pas les effets d'un pouvoir qui ajoute de manière permanente des points à vos réserves, comme Corps amélioré.
 
 En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour copier une capacité que vous avez vue il y a plus d'une heure ; chaque niveau d’Effort utilisé de cette manière prolonge la période d’une heure. Action.
 
-**Pouvoir inné**: choisissez votre pool de Puissance ou votre pool de Rapidité. Lorsque vous dépensez des points pour activer vos capacités de concentration, vous pouvez dépenser des points de cette réserve au lieu de votre réserve d'intelligence (auquel cas vous utilisez votre Avantage de Puissance ou votre Avantage de Rapidité au lieu de votre avantage d'intelligence, selon le cas). Facilitateur
+**Pouvoir inné**: choisissez votre pool de Puissance ou votre pool de Célérité. Lorsque vous dépensez des points pour activer vos capacités de concentration, vous pouvez dépenser des points de cette réserve au lieu de votre réserve d'intelligence (auquel cas vous utilisez votre Avantage de Puissance ou votre Avantage de Célérité au lieu de votre avantage d'intelligence, selon le cas). Facilitateur
 
 **Pouvoirs génériques**: vous avez le don d’utiliser les pouvoirs copiés de manière inhabituelle. Chaque fois que vous essayez une cascade de Puissance et utilisez un niveau d'effort sur le jet spécial pour modifier la capacité, vous obtenez un niveau d'effort gratuit sur ce jet. Facilitateur.
 
@@ -3360,7 +3364,7 @@ En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'ut
 
 **Pratique des armes à feu**: Vous êtes entraîné avec des armes à feu et ne subissez aucune pénalité lorsque vous en utilisez une. Facilitateur.
 
-**Pratique des armures**: Vous pouvez porter une armure pendant de longues périodes sans vous fatiguer et compenser les réactions ralenties liées au port d'une armure. Vous réduisez le coût en Rapidité du port d'une armure de 1. Vous démarrez le jeu avec un type d'armure de votre choix. Facilitateur.
+**Pratique des armures**: Vous pouvez porter une armure pendant de longues périodes sans vous fatiguer et compenser les réactions ralenties liées au port d'une armure. Vous réduisez le coût en Célérité du port d'une armure de 1. Vous démarrez le jeu avec un type d'armure de votre choix. Facilitateur.
 
 **Pratique des épées**: Vous êtes entraîné avec les épées et pouvez les utiliser sans pénalité. Facilitateur.
 
@@ -3372,11 +3376,11 @@ En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'ut
 
 **Prendre le commandement** (3 points d'Intelligence) : vous donnez un ordre spécifique à un autre personnage. Si ce personnage choisit d'écouter, toute attaque qu'il tentera lors de son prochain tour sera atténuée et un coup infligera 3 points de dégâts supplémentaires. Si votre commandement consiste à effectuer une tâche autre qu'une attaque, la tâche est allégée comme si elle bénéficiait d'un niveau d'Effort gratuit. Action.
 
-**Prestidigitation** (1 point de Rapidité) : Vous pouvez réaliser de petits tours apparemment impossibles. Par exemple, vous pouvez faire disparaître un petit objet dans vos mains et le déplacer vers un endroit souhaité à portée de main (comme votre poche). Vous pouvez faire croire à quelqu’un qu’il a en sa possession quelque chose qu’il n’a pas (ou vice versa). Vous pouvez changer d’objets similaires juste devant les yeux de quelqu’un. Action.
+**Prestidigitation** (1 point de Célérité) : Vous pouvez réaliser de petits tours apparemment impossibles. Par exemple, vous pouvez faire disparaître un petit objet dans vos mains et le déplacer vers un endroit souhaité à portée de main (comme votre poche). Vous pouvez faire croire à quelqu’un qu’il a en sa possession quelque chose qu’il n’a pas (ou vice versa). Vous pouvez changer d’objets similaires juste devant les yeux de quelqu’un. Action.
 
 **Prise de Golem** (3 points de Puissance) : Votre attaque avec les poings de pierre de votre capacité Corps de Golem est facilitée. Si vous touchez, vous pouvez attraper la cible, l'empêchant de bouger lors de son prochain tour. Tant que vous tenez la cible, ses attaques ou ses tentatives de libération sont entravées. Si la cible tente de se libérer au lieu d'attaquer, vous devez effectuer un jet basé sur la Puissance pour maintenir votre emprise. Si la cible ne parvient pas à se libérer, vous pouvez continuer à la maintenir à chaque tour lors de vos actions suivantes, infligeant automatiquement 4 points de dégâts à chaque tour en la serrant. Facilitateur.
 
-**Processeur d'action** (4 points d'intelligence) : En vous appuyant sur les informations stockées et la capacité de traiter les données entrantes à des Rapidités incroyables, vous êtes entraîné à une tâche physique de votre choix pendant dix minutes. Par exemple, vous pouvez choisir de courir, d'escalader, de nager, de défendre votre Rapidité ou d'attaquer avec une arme spécifique. Action à initier.
+**Processeur d'action** (4 points d'intelligence) : En vous appuyant sur les informations stockées et la capacité de traiter les données entrantes à des Célérités incroyables, vous êtes entraîné à une tâche physique de votre choix pendant dix minutes. Par exemple, vous pouvez choisir de courir, d'escalader, de nager, de défendre votre Célérité ou d'attaquer avec une arme spécifique. Action à initier.
 
 **Programmation informatique**: Vous êtes entraîné à l'utilisation (et à l'exploitation) de logiciels informatiques, vous connaissez suffisamment bien un ou plusieurs langages informatiques pour écrire des programmes de base et vous maîtrisez le protocole Internet. Facilitateur.
 
@@ -3394,7 +3398,7 @@ Vos attaques infligent 3 points de dégâts de moins (jusqu'à un minimum de 1) 
 
 Votre esprit peut parcourir jusqu'à 1,5 km de votre corps. Chaque niveau d’effort supplémentaire appliqué étend la distance que vous pouvez parcourir de 1,5 km.
 
-Votre corps physique est impuissant jusqu’à ce que cet effet prenne fin. Vous ne pouvez pas utiliser vos sens physiques pour percevoir quoi que ce soit. Par exemple, votre corps pourrait subir une blessure importante sans que vous le sachiez. Votre corps ne peut pas subir de dégâts d'Intelligence, donc si votre corps subit suffisamment de dégâts pour réduire à la fois votre réserve de Puissance et votre Réserve de Rapidité à 0, votre esprit revient à votre corps et vous restez étourdi jusqu'à la fin du tour suivant alors que vous essayez de réorientez-vous vers votre situation difficile. Action à initier.
+Votre corps physique est impuissant jusqu’à ce que cet effet prenne fin. Vous ne pouvez pas utiliser vos sens physiques pour percevoir quoi que ce soit. Par exemple, votre corps pourrait subir une blessure importante sans que vous le sachiez. Votre corps ne peut pas subir de dégâts d'Intelligence, donc si votre corps subit suffisamment de dégâts pour réduire à la fois votre réserve de Puissance et votre Réserve de Célérité à 0, votre esprit revient à votre corps et vous restez étourdi jusqu'à la fin du tour suivant alors que vous essayez de réorientez-vous vers votre situation difficile. Action à initier.
 
  Les personnages qui se projettent mentalement peuvent attirer des entités psychiques et des prédateurs auxquels les PJ n'ont normalement pas à faire face, se heurter à des phénomènes psychiques météorologiques qui risquent de rompre leur connexion, et peut-être même se perdre sur un plan métaphysique différent.
 
@@ -3442,11 +3446,11 @@ Un personnage peut être capable de prendre la forme d'une créature similaire �
 
 **Pulse de Guérison** (3 points d'Intelligence) : Vous et toutes les cibles que vous choisissez à portée immédiate bénéficiez des avantages immédiats de l'utilisation de l'un de leurs jets de récupération (tant qu'il ne s'agit pas de leur jet de récupération de dix heures) sans avoir à dépenser une action, ou laisser passer dix minutes ou une heure. Les cibles récupèrent immédiatement des points dans leurs Réserves, mais marquent cette utilisation de récupération. Les PJ qui ont déjà utilisé leurs jets de récupération d’une action, de dix minutes et d’une heure pour la journée ne bénéficient d’aucun bénéfice de cette capacité. Les PNJ ciblés par cette capacité récupèrent un nombre de points de vie égal à leur niveau. Action.
 
-**Pulvérisation** (2 points de Rapidité) : Si une arme a la capacité de tirer des coups rapides sans recharger (généralement appelée arme à tir rapide, comme une arbalète à manivelle ou une mitraillette), vous pouvez pulvériser plusieurs tirs autour de votre cible pour augmenter les chances. de frapper. Cette capacité utilise 1d6 + 1 cartouches de munitions (ou toutes les munitions de l'arme, si elle en contient moins que le nombre obtenu). Vous êtes entraîné à réaliser cette attaque. Si l'attaque réussit, elle inflige 1 point de dégâts de moins que la normale. Vous pouvez également utiliser cette capacité sur plusieurs armes de lancer (pierres, shuriken, poignards, etc.) si vous les portez sur vous ou si elles sont toutes à portée de main. Action.
+**Pulvérisation** (2 points de Célérité) : Si une arme a la capacité de tirer des coups rapides sans recharger (généralement appelée arme à tir rapide, comme une arbalète à manivelle ou une mitraillette), vous pouvez pulvériser plusieurs tirs autour de votre cible pour augmenter les chances. de frapper. Cette capacité utilise 1d6 + 1 cartouches de munitions (ou toutes les munitions de l'arme, si elle en contient moins que le nombre obtenu). Vous êtes entraîné à réaliser cette attaque. Si l'attaque réussit, elle inflige 1 point de dégâts de moins que la normale. Vous pouvez également utiliser cette capacité sur plusieurs armes de lancer (pierres, shuriken, poignards, etc.) si vous les portez sur vous ou si elles sont toutes à portée de main. Action.
 
 **Punir le coupable** (2 points de Puissance) : Pendant les dix minutes suivantes, si vous attaquez quelqu'un que vous avez désigné comme coupable avec votre capacité Désignation, vous infligez 2 points de dégâts supplémentaires. Action à initier.
 
-**Punir tous les coupables** (3 points de Rapidité) : vous pouvez attaquer jusqu'à cinq ennemis à portée immédiate que vous avez désignés comme coupables avec votre capacité de désignation, le tout dans le cadre de la même action en un seul tour. Effectuez des jets d'attaque séparés pour chaque ennemi, mais toutes les attaques comptent comme une seule action au cours d'un seul round. Vous restez limité par la quantité d’Effort que vous pouvez appliquer sur une action. Tout ce qui modifie votre attaque ou vos dégâts s'applique à toutes les attaques. Si vous disposez également de la capacité Attaque Tournoyante, vous infligez 1 point de dégâts supplémentaire lorsque vous utilisez Punir tous les coupables. Action.
+**Punir tous les coupables** (3 points de Célérité) : vous pouvez attaquer jusqu'à cinq ennemis à portée immédiate que vous avez désignés comme coupables avec votre capacité de désignation, le tout dans le cadre de la même action en un seul tour. Effectuez des jets d'attaque séparés pour chaque ennemi, mais toutes les attaques comptent comme une seule action au cours d'un seul round. Vous restez limité par la quantité d’Effort que vous pouvez appliquer sur une action. Tout ce qui modifie votre attaque ou vos dégâts s'applique à toutes les attaques. Si vous disposez également de la capacité Attaque Tournoyante, vous infligez 1 point de dégâts supplémentaire lorsque vous utilisez Punir tous les coupables. Action.
 
 ## Capacités---Q
 
@@ -3474,7 +3478,7 @@ Alternativement, si vous appliquez l'Effort pour augmenter les dégâts plutôt 
 
 **Rayon de confusion** (2 points d'Intelligence) : Vous projetez un rayon gris de confusion sur une créature à courte portée, lui infligeant 1 point de dégâts qui ignore l'armure. De plus, jusqu'à la fin du tour suivant, toutes les tâches, attaques et défenses tentées par la cible sont entravées. Action.
 
-**Recharger** (1 point de Rapidité) : Lorsque vous utilisez une arme qui nécessite normalement une action pour recharger, comme une arbalète lourde, vous pouvez recharger et tirer (ou tirer et recharger) dans la même action. Facilitateur.
+**Recharger** (1 point de Célérité) : Lorsque vous utilisez une arme qui nécessite normalement une action pour recharger, comme une arbalète lourde, vous pouvez recharger et tirer (ou tirer et recharger) dans la même action. Facilitateur.
 
 **Recruter un adjoint**: vous gagnez un suivant de niveau 4. Ils ne sont pas limités sur leurs modifications. Alternativement, vous pouvez choisir de faire progresser un adepte de niveau 3 que vous possédez déjà au niveau 4, puis de gagner un nouveau adepte de niveau 3. Facilitateur.
 
@@ -3496,7 +3500,7 @@ Vous pouvez activer cette capacité dans le cadre de l'action visant à créer u
 
 **Repérer la faiblesse**: Si une créature que vous pouvez voir a une faiblesse particulière, comme une vulnérabilité au feu, une modification négative de la perception, etc., vous savez de quoi il s'agit. (Demandez et le directeur général vous le dira.) Enabler.
 
-**Ressources profondes**: vous gagnez 6 points supplémentaires à votre réserve de Rapidité. Facilitateur.
+**Ressources profondes**: vous gagnez 6 points supplémentaires à votre réserve de Célérité. Facilitateur.
 
 **Restaurer la vie** (9+ points d'Intelligence) : Vous pouvez tenter de redonner la vie à une créature morte jusqu'au niveau 3, à condition que le cadavre n'ait pas plus d'un jour et soit en grande partie intact. Vous pouvez également tenter de redonner vie à un cadavre beaucoup plus ancien mais particulièrement bien conservé. La difficulté de la tâche Intelligence est égale au niveau de la créature que vous essayez de redonner vie. Pour chaque niveau d'Effort supplémentaire appliqué, vous pouvez tenter de restaurer la vie d'une créature dont le niveau est supérieur de 1. Lorsqu’elle revient à la vie, une créature est étourdie pendant au moins une journée et toutes les tâches qu’elle entreprend sont entravées. Action; une minute pour démarrer.
 
@@ -3506,7 +3510,7 @@ Vous pouvez activer cette capacité dans le cadre de l'action visant à créer u
 
 **Retour à l'Obélisque** (7+ points d'Intelligence) : Vous transférez votre corps et vos biens personnels dans un cristal de n'importe quelle taille que vous pouvez toucher, et vous sortez d'un autre cristal de n'importe quelle taille, y compris tous les obélisques de cristal dont vous avez connaissance. Vous devez connaître le cristal que vous allez utiliser comme sortie avant d’entrer dans le premier cristal. Vous pouvez emporter une créature supplémentaire avec vous pour chaque niveau d'effort appliqué. Action.
 
-**Retour à l'expéditeur** (3 points de Rapidité) : Si vous réussissez une tâche de défense rapide contre une attaque de mêlée, vous pouvez lancer une attaque de mêlée immédiate contre votre ennemi. Vous ne pouvez utiliser cette capacité qu’une seule fois par tour. Facilitateur.
+**Retour à l'expéditeur** (3 points de Célérité) : Si vous réussissez une tâche de défense rapide contre une attaque de mêlée, vous pouvez lancer une attaque de mêlée immédiate contre votre ennemi. Vous ne pouvez utiliser cette capacité qu’une seule fois par tour. Facilitateur.
 
 **Rhétorique puissante** (1 point d'Intelligence) : Après avoir engagé une conversation avec une créature pendant au moins une minute, vous pouvez tenter d'influencer la façon dont cette créature est perçue, en la promouvant comme une amie, en la traitant d'imbécile ou en la dénonçant comme un ennemi. Vos propos sont si bien choisis que même vous et elle en êtes touchés, car votre conviction et son doute sont primordiaux. L’exactitude de votre évaluation n’est pas importante tant que vous maintenez votre rhétorique. À partir de ce moment-là (ou jusqu’à ce que vous changiez de rhétorique ou que la créature offre une défense convaincante à ceux qui ont entendu votre étiquette), les interactions sociales de l’ami acquièrent un atout, les interactions sociales de l’imbécile sont entravées ou les défenses de l’ennemi sont entravées. Action à lancer, une minute à terminer.
 
@@ -3538,7 +3542,7 @@ Vous pouvez activer cette capacité dans le cadre de l'action visant à créer u
 
 **Récupérer des souvenirs** (3 points d'Intelligence) : Vous touchez les restes d'une créature récemment tuée et effectuez un jet basé sur l'Intelligence pour redonner vie à son esprit suffisamment longtemps pour en tirer des informations. Le MJ définit la difficulté en fonction du temps écoulé depuis la mort de la créature. Une créature morte depuis seulement quelques minutes est une tâche de difficulté 2, celle qui est morte depuis une heure est une tâche de difficulté 4 et celle qui est morte depuis quelques jours est une tâche de difficulté 9. Si vous réussissez, vous réveillez le cadavre, ce qui fait que sa tête s'anime et perçoit les choses comme si elle était vivante. Cela permet de communiquer pendant environ une minute, soit le temps qu’il faut à la créature pour se rendre compte qu’elle est morte. La créature est limitée à ce qu'elle a connu dans la vie, même si elle ne peut pas se souvenir de souvenirs mineurs, mais uniquement de grands événements importants pour elle. Lorsque l’effet prend fin, ou si vous échouez au jet, le cerveau de la créature se dissout en bouillie et ne peut plus être réveillé. Action.
 
-**Régénération** (6 points d'Intelligence) : Vous restaurez des points dans la réserve de Puissance ou de Rapidité d'une cible de deux manières : soit la réserve choisie récupère jusqu'à 6 points, soit elle est restaurée à une valeur totale de 12. Vous prenez cette décision lorsque vous initier cette capacité. Les points sont régénérés à raison de 1 point à chaque tour. Vous devez rester à portée immédiate de la cible tout le temps, soit en la touchant, soit en conversant avec elle. En aucun cas cela ne peut faire monter un Pool au-dessus de son maximum. Action.
+**Régénération** (6 points d'Intelligence) : Vous restaurez des points dans la réserve de Puissance ou de Célérité d'une cible de deux manières : soit la réserve choisie récupère jusqu'à 6 points, soit elle est restaurée à une valeur totale de 12. Vous prenez cette décision lorsque vous initier cette capacité. Les points sont régénérés à raison de 1 point à chaque tour. Vous devez rester à portée immédiate de la cible tout le temps, soit en la touchant, soit en conversant avec elle. En aucun cas cela ne peut faire monter un Pool au-dessus de son maximum. Action.
 
 **Régénérer**: votre capacité à guérir (que ce soit à partir d'un sort puissant, d'une mutation unique ou d'une greffe cybernétique) continue de fonctionner même si vous mourez de violence, tant que votre corps est en grande partie intact. Une minute après votre mort, cette capacité s'active et vous ramène à la vie ; cependant, vous revenez avec une déduction permanente de 2 points de votre réserve d'intelligence. Facilitateur. (Un personnage pourrait découvrir que Régénérer est à la fois une bénédiction et une malédiction, car trop s’y fier conduit à une sorte de malaise que la vitalité seule ne peut pas résoudre.)
 
@@ -3562,9 +3566,9 @@ Si un personnage possède un répertoire magique, le MJ doit donner au PJ des op
 
 **Réseau télépathique** (0+ points d'Intelligence) : Lorsque vous le souhaitez, vous pouvez contacter jusqu'à dix créatures que vous connaissez, peu importe où elles se trouvent. Toutes les cibles doivent être disposées et capables de communiquer. Vous réussissez automatiquement à établir un réseau télépathique ; aucun rouleau n'est requis. Toutes les créatures du réseau sont liées et peuvent communiquer par télépathie entre elles. Ils peuvent également « entendre » tout ce qui se dit sur le réseau, s’ils le souhaitent. L’activation de cette capacité ne nécessite aucune action et ne coûte pas de points d’Intelligence ; pour vous, c’est aussi simple que de parler à voix haute. Le réseau dure jusqu'à ce que vous choisissiez d'y mettre fin. Si vous dépensez 5 points d'Intelligence, vous pouvez contacter vingt créatures à la fois, et pour chaque point d'Intelligence dépensé au-dessus de ce chiffre, vous pouvez ajouter dix créatures supplémentaires au réseau. Ces réseaux plus larges durent dix minutes. Créer un réseau de vingt créatures ou plus nécessite une action pour établir le contact. Facilitateur.
 
-**Réserves Partagées**: lorsque les autres sont épuisés, vous pouvez passer au travers. Une fois par jour, vous pouvez transférer jusqu'à 5 points entre vos Réserves dans n'importe quelle combinaison, à raison de 1 point par tour. Par exemple, vous pourriez transférer 3 points de Puissance en Rapidité et 2 points d'Intelligence en Rapidité, ce qui prendrait un total de cinq tours. Action.
+**Réserves Partagées**: lorsque les autres sont épuisés, vous pouvez passer au travers. Une fois par jour, vous pouvez transférer jusqu'à 5 points entre vos Réserves dans n'importe quelle combinaison, à raison de 1 point par tour. Par exemple, vous pourriez transférer 3 points de Puissance en Célérité et 2 points d'Intelligence en Célérité, ce qui prendrait un total de cinq tours. Action.
 
-**Réserves cachées**: lorsque vous utilisez une action pour effectuer un jet de récupération, vous gagnez également +1 à votre Avantage de Puissance et à votre Avantage de Rapidité pendant dix minutes par la suite. Facilitateur.
+**Réserves cachées**: lorsque vous utilisez une action pour effectuer un jet de récupération, vous gagnez également +1 à votre Avantage de Puissance et à votre Avantage de Célérité pendant dix minutes par la suite. Facilitateur.
 
 **Résilience** : Vous disposez de 1 point d’Armure contre tout type de dégâts physiques, même les dégâts physiques qui ignorent normalement l’Armure. Facilitateur.
 
@@ -3580,9 +3584,9 @@ Si un personnage possède un répertoire magique, le MJ doit donner au PJ des op
 
 **Résoudre des Enigmes**: vous êtes entraîne à résoudre des énigmes et à reconnaître les astuces au fil des années de jeu. Facilitateur.
 
-**Rétrécir** (1+ points de Puissance) : vous (et vos vêtements ou votre costume) devenez beaucoup plus petit que votre taille normale. Vous mesurez 15 cm (6 pouces) et restez ainsi pendant environ une minute. Pendant ce temps, vous ajoutez 4 points à votre Speed ​​Pool et ajoutez +2 à votre Speed ​​Edge. Tant que vous êtes plus petit que la normale, vos jets de défense de Rapidité sont allégés, votre Rapidité de déplacement est d'un dixième de la normale et vos attaques infligent la moitié du montant normal de dégâts (divisez le total des dégâts par moitié après tous les bonus, efforts et autres modificateurs de dégâts. ). Vous pouvez reprendre votre taille normale dans le cadre d'une autre action.
+**Rétrécir** (1+ points de Puissance) : vous (et vos vêtements ou votre costume) devenez beaucoup plus petit que votre taille normale. Vous mesurez 15 cm (6 pouces) et restez ainsi pendant environ une minute. Pendant ce temps, vous ajoutez 4 points à votre Speed ​​Pool et ajoutez +2 à votre Speed ​​Edge. Tant que vous êtes plus petit que la normale, vos jets de défense de Célérité sont allégés, votre Célérité de déplacement est d'un dixième de la normale et vos attaques infligent la moitié du montant normal de dégâts (divisez le total des dégâts par moitié après tous les bonus, efforts et autres modificateurs de dégâts. ). Vous pouvez reprendre votre taille normale dans le cadre d'une autre action.
 
-Lorsque les effets de Rétrécir prennent fin, votre Speed ​​Edge, votre Rapidité de déplacement et vos dégâts reviennent à la normale, et vous soustrayez un nombre de points de votre Speed ​​Pool égal au nombre que vous avez gagné (si cela ramène la Pool à 0, soustrayez d'abord le débordement. depuis votre Réserve de Puissance puis, si nécessaire, depuis votre Réserve d'Intelligence). Chaque fois que vous utilisez Rétrécir avant votre prochain jet de récupération de dix heures, vous devez appliquer un niveau d'Effort supplémentaire (un niveau d'Effort pour la deuxième utilisation, deux niveaux d'Effort pour la troisième utilisation, et ainsi de suite).Action à initier .
+Lorsque les effets de Rétrécir prennent fin, votre Speed ​​Edge, votre Célérité de déplacement et vos dégâts reviennent à la normale, et vous soustrayez un nombre de points de votre Speed ​​Pool égal au nombre que vous avez gagné (si cela ramène la Pool à 0, soustrayez d'abord le débordement. depuis votre Réserve de Puissance puis, si nécessaire, depuis votre Réserve d'Intelligence). Chaque fois que vous utilisez Rétrécir avant votre prochain jet de récupération de dix heures, vous devez appliquer un niveau d'Effort supplémentaire (un niveau d'Effort pour la deuxième utilisation, deux niveaux d'Effort pour la troisième utilisation, et ainsi de suite).Action à initier .
 
 L'augmentation du coût d'effort pour les utilisations répétées de Rétrécir entre des jets de récupération de dix heures s'applique uniquement aux nouvelles activations de Rétrécir, et non aux changements de taille multiples au cours d'une seule utilisation de Rétrécir activée par Changements Rapides.
 
@@ -3602,9 +3606,9 @@ L'augmentation du coût d'effort pour les utilisations répétées de Rétrécir
 
 **Saisir**: pendant que vous utilisez la capacité Agrandir, vous pouvez attaquer en essayant d'enrouler vos mains massives autour d'une cible de la taille d'un humain normal ou plus petite. Pendant que vous maintenez votre emprise lors de votre action, vous empêchez la cible de bouger ou d'entreprendre des actions physiques (autres que les tentatives de fuite). La tentative de fuite de la cible est gênée par deux étapes en raison de votre taille. Si vous le souhaitez, vous pouvez automatiquement infliger 3 points de dégâts à chaque round à la cible tant que vous la tenez, mais vous pouvez également la protéger (en subissant toutes les attaques autrement destinées à la cible). Action.
 
-**Saisissez l'instant** (4+ points de Rapidité) : Si vous réussissez un jet de défense de Rapidité pour résister à une attaque, vous gagnez une action. Vous pouvez utiliser l'action immédiatement même si vous avez déjà joué un tour dans le tour. Vous n’effectuez aucune action lors du tour suivant, sauf si vous appliquez un niveau d’Effort lorsque vous utilisez Saisissez l'instant. Facilitateur.
+**Saisissez l'instant** (4+ points de Célérité) : Si vous réussissez un jet de défense de Célérité pour résister à une attaque, vous gagnez une action. Vous pouvez utiliser l'action immédiatement même si vous avez déjà joué un tour dans le tour. Vous n’effectuez aucune action lors du tour suivant, sauf si vous appliquez un niveau d’Effort lorsque vous utilisez Saisissez l'instant. Facilitateur.
 
-**Combattant Hors-la-loi** (2 points de Rapidité) : Vous distrayez, aveuglez, ennuyez, gênez ou interférez de toute autre manière avec un ennemi, entravant ses attaques et ses défenses pendant une minute. Action.
+**Combattant Hors-la-loi** (2 points de Célérité) : Vous distrayez, aveuglez, ennuyez, gênez ou interférez de toute autre manière avec un ennemi, entravant ses attaques et ses défenses pendant une minute. Action.
 
 **Sans âge**: votre corps et votre esprit ne vieillissent pas. À moins que vous ne soyez tué par la violence (ou par une force extérieure telle qu'un poison ou une infection), vous ne mourrez jamais. Facilitateur.
 
@@ -3614,11 +3618,11 @@ L'augmentation du coût d'effort pour les utilisations répétées de Rétrécir
 
 **Santé miraculeuse**: lorsque vous descendez une marche sur la piste des dégâts, vous pouvez tenter une tâche de Puissance pour résister, avec une difficulté égale au niveau de l'ennemi ou de l'effet qui vous a blessé. En cas de réussite, vous ne descendez pas la marche et vous regagnez 1 point dans n’importe quelle Pool dépourvue de points. Vous ne pouvez plus utiliser cette capacité avant votre prochain repos de dix heures. Facilitateur.
 
-**Saut de Côté** (5 points de Rapidité) : Chaque fois que vous réussissez un jet de défense de Rapidité, vous pouvez immédiatement vous déplacer sur une courte distance. Vous ne pouvez pas utiliser cette capacité plus d’une fois au cours d’un round donné. Facilitateur.
+**Saut de Côté** (5 points de Célérité) : Chaque fois que vous réussissez un jet de défense de Célérité, vous pouvez immédiatement vous déplacer sur une courte distance. Vous ne pouvez pas utiliser cette capacité plus d’une fois au cours d’un round donné. Facilitateur.
 
 **Saut incroyable** (2 points de Puissance): Vous sautez dans les airs et atterrissez en toute sécurité à une certaine distance. Vous pouvez sauter vers le haut, vers le bas ou vers n'importe quel endroit de votre choix à longue portée si vous disposez d'un chemin clair et dégagé vers cet endroit. Si vous disposez de trois changements de Puissance ou plus, votre portée de saut augmente jusqu'à devenir très longue. Si vous avez cinq changements de Puissance ou plus, votre portée de saut augmente à 1 000 pieds (300 m). Action.
 
-**Sauter en Microgravité** (3 points de Rapidité) : vous pouvez effectuer des sauts précis point à point en microgravité, ce qui signifie que vous pouvez vous déplacer sur une longue distance et lancer une attaque au corps à corps ou tenter d'attraper un ennemi de votre taille ou plus petit. . Si vous réussissez à attraper votre ennemi, vous déplacez votre ennemi sur une courte distance de sa position d'origine.
+**Sauter en Microgravité** (3 points de Célérité) : vous pouvez effectuer des sauts précis point à point en microgravité, ce qui signifie que vous pouvez vous déplacer sur une longue distance et lancer une attaque au corps à corps ou tenter d'attraper un ennemi de votre taille ou plus petit. . Si vous réussissez à attraper votre ennemi, vous déplacez votre ennemi sur une courte distance de sa position d'origine.
 
 Alternativement, pendant que vous vous arrêtez (ou que vous vous éloignez d'une distance immédiate par round dans la direction de votre choix), vous pouvez lancer votre ennemi dans une direction choisie à travers l'espace à raison d'une courte distance par round. Action.
 
@@ -3638,13 +3642,13 @@ Poussée on Through/Passer à travers (2 points de Puissance) : Vous ignorez le
 
 **Se Glisser dans l'ombre** (2+ points d'Intelligence) : Vous tentez de vous éloigner d'une cible sélectionnée et de vous cacher dans une ombre proche, derrière un arbre ou un meuble, ou dans la pièce voisine, même si vous êtes bien en vue de la cible. Pour chaque niveau d'Effort appliqué, vous pouvez tenter d'affecter une cible supplémentaire, à condition que toutes vos cibles soient côte à côte. Action à initier.
 
-**Se déplacer comme l'eau** (3 points de Rapidité) : vous tournez sur cous-même et vous vous déplacez de manière à ce que votre défense et vos attaques soient facilitées par votre mouvement fluide. Pendant une minute, toutes vos attaques et tâches de défense rapide gagnent un atout. Facilitateur.
+**Se déplacer comme l'eau** (3 points de Célérité) : vous tournez sur cous-même et vous vous déplacez de manière à ce que votre défense et vos attaques soient facilitées par votre mouvement fluide. Pendant une minute, toutes vos attaques et tâches de défense rapide gagnent un atout. Facilitateur.
 
 **Se fondre dans le décor** (4 points d'Intelligence) : Lorsque vous vous fondez avec le décor, les créatures vous voient toujours, mais elles n'attachent aucune importance à votre présence pendant environ une minute. Tout en vous intégrant, vous êtes spécialisé dans les tâches de furtivité et de défense rapide. Cet effet prend fin si vous faites quelque chose pour révéler votre présence ou votre position : attaquer, utiliser une capacité, déplacer un objet volumineux, etc. Si cela se produit, vous pouvez retrouver la période d’effet restante en prenant des mesures pour vous concentrer sur l’apparence inoffensive et comme si vous en faisiez partie. Action à initier ou à relancer.
 
 **Sens aiguisés**: Vous êtes formé à toutes les tâches impliquant la perception. Facilitateur.
 
-**Sens du Danger** (1 point de Rapidité): Votre tâche d’initiative est facilitée. Vous payez le coût à chaque fois que la capacité est utilisée. Facilitateur.
+**Sens du Danger** (1 point de Célérité): Votre tâche d’initiative est facilitée. Vous payez le coût à chaque fois que la capacité est utilisée. Facilitateur.
 
 **Sens et sensibilités animales**: Vous êtes entraîné à écouter et à repérer les objets. De plus, la plupart du temps, le MJ devrait vous alerter si vous êtes sur le point de tomber dans une embuscade ou dans un piège inférieur au niveau 5. Enabler.
 
@@ -3660,7 +3664,7 @@ Poussée on Through/Passer à travers (2 points de Puissance) : Vous ignorez le
 
 **Serv-0 Bagarreur**: Votre Serv-0 vous aide dans les combats au corps à corps. Il gagne une modification dans les attaques de mêlée. Facilitateur.
 
-**Serv-0 Defenseur**: Votre Serv-0 vous aide au combat en bloquant les attaques. Il gagne une modification en Défense Rapidité. Facilitateur.
+**Serv-0 Defenseur**: Votre Serv-0 vous aide au combat en bloquant les attaques. Il gagne une modification en Défense Célérité. Facilitateur.
 
 **Serv-0 Espion** (3 points d'Intelligence) : Vous pouvez envoyer votre Serv-0 sur une longue distance pendant dix minutes maximum et voir et entendre à travers lui comme si ses sens étaient les vôtres. Vous dirigez son mouvement. Action à initier.
 
@@ -3694,9 +3698,9 @@ Action à initier.
 
 **Soulager** (3 points d'Intelligence) : Vous tentez d'annuler ou de guérir une maladie (comme une maladie ou un poison) chez une créature. Action.
 
-**Source de guérison**: Avec votre approbation, d'autres créatures peuvent vous toucher et regagner 1d6 points soit dans leur réserve de Puissance, soit dans leur Réserve de Rapidité. Ce soin leur coûte 2 points d'Intelligence. Une seule créature ne peut bénéficier de cette capacité qu’une fois par jour. Facilitateur.
+**Source de guérison**: Avec votre approbation, d'autres créatures peuvent vous toucher et regagner 1d6 points soit dans leur réserve de Puissance, soit dans leur Réserve de Célérité. Ce soin leur coûte 2 points d'Intelligence. Une seule créature ne peut bénéficier de cette capacité qu’une fois par jour. Facilitateur.
 
-**Sprint de Phase** (1+ points de Rapidité) : Vous pouvez courir sur une longue distance tant que vous n'effectuez aucune autre action. Durant votre action et jusqu'au début de votre prochain tour, vous êtes partiellement en phase, et certaines attaques vous traversent sans danger. En phase, vous gagnez un atout pour vos tâches de défense de Rapidité, mais vous perdez tout avantage de l'armure que vous portez.
+**Sprint de Phase** (1+ points de Célérité) : Vous pouvez courir sur une longue distance tant que vous n'effectuez aucune autre action. Durant votre action et jusqu'au début de votre prochain tour, vous êtes partiellement en phase, et certaines attaques vous traversent sans danger. En phase, vous gagnez un atout pour vos tâches de défense de Célérité, mais vous perdez tout avantage de l'armure que vous portez.
 
 Notez que certaines de vos autres capacités spéciales peuvent activer des actions spécifiques que vous pouvez entreprendre lors de l'utilisation de Sprint de Phase. Par exemple, lorsque vous utilisez Toucher perturbateur, vous pouvez effectuer une attaque tactile tout en vous déplaçant (bien que cela mette fin à votre mouvement). Action. (Vous n'êtes pas obligé de courir sur une longue ligne droite lorsque vous utilisez Sprint de Phase, mais vous pouvez à la place zigzaguer, courber ou même revenir à votre point de départ.) (D'autres capacités peuvent être utilisées avec Sprint de Phase pour débloquer des effets supplémentaires. , y compris Toucher perturbateur, Rayer l’Existence, Invisibilité de Phase et Détonation de phase. Ces capacités sont des outils additifs, obligeant l'utilisateur à dépenser des points pour les deux capacités, et parfois à partir de deux pools différents.)
 
@@ -3710,7 +3714,7 @@ Notez que certaines de vos autres capacités spéciales peuvent activer des acti
 
 **Stimuler l’effort** (5 points d’Intelligence) : vous sélectionnez un allié à portée immédiate. Si ce personnage applique un effort à une tâche lors de son prochain tour, il peut appliquer un niveau d'effort gratuit sur cette tâche. Facilitateur.
 
-**Stocker l'énergie**: lorsque vous drainez de l'énergie avec vos capacités de concentration, vous pouvez en stocker une partie pour plus tard dans un siphon. Vous pouvez dépenser les points de votre réserve de siphon comme s'ils provenaient de votre réserve de Puissance ou de Rapidité, ou utiliser une action pour les dépenser afin de restaurer un nombre égal de points dans votre réserve de Puissance ou de Rapidité. Votre réserve de siphon peut stocker en toute sécurité jusqu'à 3 points ; chaque point au-delà entrave toutes vos tâches. Facilitateur.
+**Stocker l'énergie**: lorsque vous drainez de l'énergie avec vos capacités de concentration, vous pouvez en stocker une partie pour plus tard dans un siphon. Vous pouvez dépenser les points de votre réserve de siphon comme s'ils provenaient de votre réserve de Puissance ou de Célérité, ou utiliser une action pour les dépenser afin de restaurer un nombre égal de points dans votre réserve de Puissance ou de Célérité. Votre réserve de siphon peut stocker en toute sécurité jusqu'à 3 points ; chaque point au-delà entrave toutes vos tâches. Facilitateur.
 
 **Stratagème mortel** (5+ points d'Intelligence) : Une longue expérience vous a révélé que le subterfuge est votre ami dans les situations désespérées. Vous poussez, attaquez ou distrayez la cible d’une manière apparemment sans conséquence qui conduit à la mort de la cible. La cible doit être de niveau 2 ou inférieur. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour augmenter le niveau maximum de la cible de 1. Ainsi, pour tuer une cible de niveau 5 (trois niveaux au-dessus de la limite normale), vous devez appliquer trois niveaux d'Effort. Effort. Action.
 
@@ -3744,15 +3748,15 @@ Lorsque les effets de la capacité prennent fin, la créature se souvient avoir 
 
 **Surfeur de voiture**: Vous pouvez vous tenir debout ou vous déplacer sur un véhicule en mouvement (comme sur le capot, sur le toit, dans la porte ouverte, etc.) avec l'espoir raisonnable de ne pas tomber. À moins que le véhicule ne vire brusquement, ne s'arrête brusquement ou ne se livre à des manœuvres extrêmes, rester debout ou se déplacer sur un véhicule en mouvement est une tâche courante pour vous. Si le véhicule s’engage dans des manœuvres extrêmes comme celles décrites, les tâches de maintien à la surface du véhicule sont facilitées. Facilitateur.
 
-**Surfeur des Vents** (4+ points d'Intelligence) : Vous invoquez des vents qui vous soulèvent et vous permettent de voler pendant une minute à une Rapidité pouvant atteindre une longue distance à chaque tour. Pour chaque niveau d’Effort que vous appliquez, vous pouvez transporter avec vous un allié d’environ votre taille dans les airs ou augmenter la durée de l’effet d’une minute. Action à initier.
+**Surfeur des Vents** (4+ points d'Intelligence) : Vous invoquez des vents qui vous soulèvent et vous permettent de voler pendant une minute à une Célérité pouvant atteindre une longue distance à chaque tour. Pour chaque niveau d’Effort que vous appliquez, vous pouvez transporter avec vous un allié d’environ votre taille dans les airs ou augmenter la durée de l’effet d’une minute. Action à initier.
 
 **Surmontez tous les obstacles** (3+ points d'Intelligence) : Ceux qui s'opposent à vous le font à leurs risques et périls et finissent par reculer en votre présence. Lorsque vous vous concentrez sur un ennemi particulier à longue portée, la cible subit 2 points de dégâts d'Intelligence (ignore l'armure) à chaque tour pendant une minute ou jusqu'à ce que la cible puisse annuler l'effet. Cette capacité ne peut être active que sur une seule cible à la fois. Vous pouvez appliquer l'Effort pour augmenter les dégâts au cours du premier tour, ainsi que pour tout tour au cours duquel vous appliquez l'Effort et utilisez une autre action. Action à initier.
 
 **Sursaut de Cypher**: lorsque vous utilisez un sort de cypher subtil, dans le cadre de cette action, vous pouvez dépenser un autre cypher subtil. Au lieu de l’effet normal du deuxième cypĥer, vous ajoutez un niveau d’effort gratuit au premier sort de cypĥer. Facilitateur.
 
-**Sursaut de Rapidité** (4 points de Rapidité) : vous pouvez effectuer deux actions distinctes au cours de ce tour. Au tour suivant, toutes les actions sont entravées. Vous ne pouvez pas utiliser cette capacité deux rounds de suite. Facilitateur.
+**Sursaut de Célérité** (4 points de Célérité) : vous pouvez effectuer deux actions distinctes au cours de ce tour. Au tour suivant, toutes les actions sont entravées. Vous ne pouvez pas utiliser cette capacité deux rounds de suite. Facilitateur.
 
-**Sursaut de Rapidité Parfait** (6 points de Rapidité) : vous pouvez effectuer deux actions distinctes ce tour-ci. Facilitateur.
+**Sursaut de Célérité Parfait** (6 points de Célérité) : vous pouvez effectuer deux actions distinctes ce tour-ci. Facilitateur.
 
 **Sursaut de confiance** (1 point de Puissance) : lorsque vous utilisez une action pour effectuer votre premier jet de récupération de la journée, vous gagnez immédiatement une autre action. Facilitateur.
 
@@ -3768,9 +3772,9 @@ Lorsque les effets de la capacité prennent fin, la créature se souvient avoir 
 
 ## Capacités---T
 
-**Tacticien du champ de bataille** (2+ points d'Intelligence) : Vous scrutez votre environnement, apprenant tous les faits que le MJ juge pertinents pour attaquer, défendre, manœuvrer et gérer les dangers environnementaux à courte distance. Par exemple, vous remarquerez peut-être un tas de décombres sur lequel vous pouvez vous appuyer pour avoir un avantage en mêlée, un coin abrité pour vous protéger contre les attaques ennemies, une partie moins glissante d'un lac gelé ou un endroit où le gaz toxique est plus mince que autre part. Si vous (ou quelqu'un à qui vous en informez) vous déplacez vers cet endroit, vous (ou eux) gagnez un atout sur les tâches liées à cette position optimale (telles que les jets d'attaque depuis les hauteurs, les jets de défense de Rapidité depuis le coin abrité, les jets d'équilibre sur le terrain). lac gelé, ou jets de défense de Puissance contre le nuage empoisonné). Au lieu d'obtenir un emplacement avantageux, vous pourriez découvrir un emplacement désavantageux que vous pourriez utiliser contre vos ennemis, comme les manœuvrer dans un coin difficile qui gêne leurs attaques de mêlée ou un point faible sur le lac gelé qui se brisera s'ils se tiennent dessus. il. Vous pouvez appliquer l'Effort pour apprendre un emplacement supplémentaire, bon ou mauvais, à portée (un emplacement par niveau d'Effort), augmenter la portée de cette capacité (une autre courte distance par niveau d'Effort), ou les deux. Facilitateur.
+**Tacticien du champ de bataille** (2+ points d'Intelligence) : Vous scrutez votre environnement, apprenant tous les faits que le MJ juge pertinents pour attaquer, défendre, manœuvrer et gérer les dangers environnementaux à courte distance. Par exemple, vous remarquerez peut-être un tas de décombres sur lequel vous pouvez vous appuyer pour avoir un avantage en mêlée, un coin abrité pour vous protéger contre les attaques ennemies, une partie moins glissante d'un lac gelé ou un endroit où le gaz toxique est plus mince que autre part. Si vous (ou quelqu'un à qui vous en informez) vous déplacez vers cet endroit, vous (ou eux) gagnez un atout sur les tâches liées à cette position optimale (telles que les jets d'attaque depuis les hauteurs, les jets de défense de Célérité depuis le coin abrité, les jets d'équilibre sur le terrain). lac gelé, ou jets de défense de Puissance contre le nuage empoisonné). Au lieu d'obtenir un emplacement avantageux, vous pourriez découvrir un emplacement désavantageux que vous pourriez utiliser contre vos ennemis, comme les manœuvrer dans un coin difficile qui gêne leurs attaques de mêlée ou un point faible sur le lac gelé qui se brisera s'ils se tiennent dessus. il. Vous pouvez appliquer l'Effort pour apprendre un emplacement supplémentaire, bon ou mauvais, à portée (un emplacement par niveau d'Effort), augmenter la portée de cette capacité (une autre courte distance par niveau d'Effort), ou les deux. Facilitateur.
 
-**Tactiques de la Horde** (7 points de Puissance) : Jusqu'à une heure par jour, vous et au moins trois autres alliés pouvez agir comme une seule créature. Utilisez vos statistiques, mais ajoutez +8 à votre Réserve de Puissance, +1 à votre Avantage de Puissance, +2 à votre Réserve de Rapidité, +1 à votre Avantage de Vistesse et +1 à votre Armure. Facilitateur.
+**Tactiques de la Horde** (7 points de Puissance) : Jusqu'à une heure par jour, vous et au moins trois autres alliés pouvez agir comme une seule créature. Utilisez vos statistiques, mais ajoutez +8 à votre Réserve de Puissance, +1 à votre Avantage de Puissance, +2 à votre Réserve de Célérité, +1 à votre Avantage de Vistesse et +1 à votre Armure. Facilitateur.
 
 **Talent Oratoire** (4 points d'Intelligence) : lorsque vous parlez avec un groupe de créatures intelligentes qui peuvent vous comprendre et ne sont pas hostiles, vous les convainquez d'entreprendre une action raisonnable au tour suivant. Une action raisonnable ne doit pas mettre les créatures ou leurs alliés en danger évident ou être totalement hors de leur caractère. Action.
 
@@ -3790,19 +3794,19 @@ Si vous disposez également de cette capacité provenant d'une autre source, vou
 
 **Tir Arcanique** (1 point d'Intelligence) : Vous améliorez les dégâts d'un autre sort d'attaque avec une charge d'énergie supplémentaire afin qu'il inflige 1 point de dégâts supplémentaire. Alternativement, vous attaquez une cible à longue portée en projetant un tir de magie brute qui inflige 4 points de dégâts. Facilitateur d'amélioration ; action pour une attaque à longue portée.
 
-**Tir Double** (2 points de Rapidité) : Dans le cadre de la même action, vous effectuez une attaque à distance contre deux cibles se trouvant à portée immédiate l'une de l'autre. Effectuez un jet d'attaque séparé contre chaque cible. Les jets d'attaque sont gênés. Action.
+**Tir Double** (2 points de Célérité) : Dans le cadre de la même action, vous effectuez une attaque à distance contre deux cibles se trouvant à portée immédiate l'une de l'autre. Effectuez un jet d'attaque séparé contre chaque cible. Les jets d'attaque sont gênés. Action.
 
-**Tir Guidé** (4+ points d’Intelligence) : lorsque vous faites une attaque avec un carreau métallique ou une flèche à pointe métallique sur une cible à courte portée, vous pouvez améliorer la visée et la Rapidité de l'attaque, ce qui confère un atout à l'attaque et inflige 2 points de dégâts supplémentaires. Si vous appliquez un niveau d'Effort, vous accordez les mêmes avantages à une attaque à distance effectuée par un allié à portée immédiate. Dans tous les cas, vous ne pouvez utiliser cette capacité qu’une seule fois par tour. Facilitateur.
+**Tir Guidé** (4+ points d’Intelligence) : lorsque vous faites une attaque avec un carreau métallique ou une flèche à pointe métallique sur une cible à courte portée, vous pouvez améliorer la visée et la Célérité de l'attaque, ce qui confère un atout à l'attaque et inflige 2 points de dégâts supplémentaires. Si vous appliquez un niveau d'Effort, vous accordez les mêmes avantages à une attaque à distance effectuée par un allié à portée immédiate. Dans tous les cas, vous ne pouvez utiliser cette capacité qu’une seule fois par tour. Facilitateur.
 
-**Tir Perforant** (1 point de Rapidité) : Il s’agit d’une attaque à distance bien ciblée et pénétrante. Vous effectuez une attaque et infligez 1 point de dégâts supplémentaire si votre arme a une pointe acérée. Action.
+**Tir Perforant** (1 point de Célérité) : Il s’agit d’une attaque à distance bien ciblée et pénétrante. Vous effectuez une attaque et infligez 1 point de dégâts supplémentaire si votre arme a une pointe acérée. Action.
 
-**Tir Précis** (2 points de Rapidité) : Si vous passez une action à viser, au tour suivant, vous pouvez effectuer une attaque à distance précise. Vous avez un atout sur cette attaque. Si votre attaque réussit, elle inflige 4 points de dégâts supplémentaires. Action.
+**Tir Précis** (2 points de Célérité) : Si vous passez une action à viser, au tour suivant, vous pouvez effectuer une attaque à distance précise. Vous avez un atout sur cette attaque. Si votre attaque réussit, elle inflige 4 points de dégâts supplémentaires. Action.
 
 **Tir Rapide**: Vous pouvez effectuer deux attaques au pistolet en une seule action, mais la deuxième attaque est gênée par deux étapes. Facilitateur.
 
 **Tir Spécial**: Lorsque vous touchez une cible avec une attaque au pistolet, vous pouvez choisir de réduire les dégâts de 1 point mais toucher la cible à un endroit précis. Certains des effets possibles incluent (sans toutefois s'y limiter) les suivants :
 -  Vous pouvez tirer un objet hors de la main de quelqu’un.
--  Vous pouvez tirer sur la jambe, l'aile ou tout autre membre qu'il utilise pour se déplacer, réduisant ainsi sa Rapidité de déplacement maximale à immédiate pendant quelques jours ou jusqu'à ce qu'il reçoive des soins médicaux spécialisés.
+-  Vous pouvez tirer sur la jambe, l'aile ou tout autre membre qu'il utilise pour se déplacer, réduisant ainsi sa Célérité de déplacement maximale à immédiate pendant quelques jours ou jusqu'à ce qu'il reçoive des soins médicaux spécialisés.
 - Vous pouvez tirer sur une sangle retenant un sac à dos, une armure ou un objet similaire attaché afin qu'il tombe.
 Facilitateur.
 
@@ -3815,17 +3819,17 @@ Facilitateur.
 - Vous pouvez tirer sur un vaisseau spatial et dégrader le système d'un vaisseau d'une étape (les systèmes incluent les moteurs, les armes et l'atmosphère).
 Facilitateur.
 
-**Tir prudent**: vous pouvez dépenser des points de votre Réserve de Rapidité ou de votre réserve d'intelligence pour appliquer des niveaux d'effort afin d'augmenter les dégâts de votre arme. Chaque niveau d'Effort ajoute 3 points de dégâts à une attaque réussie, et si vous passez un tour à aligner votre tir, chaque niveau d'Effort ajoute à la place 5 points de dégâts à une attaque réussie. Facilitateur.
+**Tir prudent**: vous pouvez dépenser des points de votre Réserve de Célérité ou de votre réserve d'intelligence pour appliquer des niveaux d'effort afin d'augmenter les dégâts de votre arme. Chaque niveau d'Effort ajoute 3 points de dégâts à une attaque réussie, et si vous passez un tour à aligner votre tir, chaque niveau d'Effort ajoute à la place 5 points de dégâts à une attaque réussie. Facilitateur.
 
 **Tirer une conclusion** (3 points d'Intelligence) : Après une observation et une enquête minutieuses (interroger un ou plusieurs PNJ sur un sujet, fouiller une zone ou un dossier, etc.) d'une durée de quelques minutes, vous pouvez apprendre un fait pertinent. Cette capacité est une tâche de difficulté Intelligence 3. Chaque fois que vous utilisez cette capacité, la tâche est entravée par une étape supplémentaire. La difficulté revient à 3 après dix heures de repos. Action.
 
 **Tireur** : Vous infligez 1 point de dégâts supplémentaire avec les armes à feu. Facilitateur.
 
-**Tireur entraîné**: vous pouvez choisir entre deux avantages. Soit vous êtes entraîné au maniement des armes à feu, soit vous possédez la capacité Pulvérisation (qui coûte 2 points de Rapidité) : Si une arme a la capacité de tirer des coups rapides sans rechargement (généralement appelée arme à tir rapide, comme un pistolet automatique), vous pouvez pulvériser plusieurs tirs autour de votre cible pour augmenter les chances de toucher. Ce mouvement utilise 1d6 + 1 cartouches de munitions (ou toutes les munitions de l'arme, si elle en contient moins que le nombre obtenu). Le jet d'attaque est allégé. Si l'attaque réussit, elle inflige 1 point de dégâts de moins que la normale. Facilitateur (être formé à l'utilisation des armes à feu) ou action (Pulvérisation).
+**Tireur entraîné**: vous pouvez choisir entre deux avantages. Soit vous êtes entraîné au maniement des armes à feu, soit vous possédez la capacité Pulvérisation (qui coûte 2 points de Célérité) : Si une arme a la capacité de tirer des coups rapides sans rechargement (généralement appelée arme à tir rapide, comme un pistolet automatique), vous pouvez pulvériser plusieurs tirs autour de votre cible pour augmenter les chances de toucher. Ce mouvement utilise 1d6 + 1 cartouches de munitions (ou toutes les munitions de l'arme, si elle en contient moins que le nombre obtenu). Le jet d'attaque est allégé. Si l'attaque réussit, elle inflige 1 point de dégâts de moins que la normale. Facilitateur (être formé à l'utilisation des armes à feu) ou action (Pulvérisation).
 
-**Tirs en éventail** (3 points de Rapidité): Si une arme a la capacité de tirer des coups rapides sans recharger (généralement appelée arme à tir rapide, comme une arbalète à manivelle), vous pouvez tirer avec votre arme sur jusqu'à trois cibles (toutes à côté de les uns les autres) en même temps. Effectuez un jet d'attaque séparé contre chaque cible. Chaque attaque est gênée. Action.
+**Tirs en éventail** (3 points de Célérité): Si une arme a la capacité de tirer des coups rapides sans recharger (généralement appelée arme à tir rapide, comme une arbalète à manivelle), vous pouvez tirer avec votre arme sur jusqu'à trois cibles (toutes à côté de les uns les autres) en même temps. Effectuez un jet d'attaque séparé contre chaque cible. Chaque attaque est gênée. Action.
 
-**Torsion du couteau** (4 points de Rapidité) : Au cours d'un round après avoir réussi à frapper un ennemi avec une arme de mêlée, vous pouvez choisir d'infliger automatiquement des dégâts standard à l'ennemi avec cette même arme sans aucun modificateur (2 points pour une arme légère, 4 points pour une arme moyenne, ou 6 points pour une arme lourde). Action.
+**Torsion du couteau** (4 points de Célérité) : Au cours d'un round après avoir réussi à frapper un ennemi avec une arme de mêlée, vous pouvez choisir d'infliger automatiquement des dégâts standard à l'ennemi avec cette même arme sans aucun modificateur (2 points pour une arme légère, 4 points pour une arme moyenne, ou 6 points pour une arme lourde). Action.
 
 **Totalement Chill**: Votre jet de récupération de dix minutes ne vous prend qu'un seul round. Facilitateur.
 
@@ -3849,7 +3853,7 @@ Facilitateur.
 
 **Tour de l'Intelligence**: Vous êtes entraîné aux tâches de défense intellectuelle. Si vous êtes déjà entraîné, vous êtes plutôt spécialisé dans ces tâches. Facilitateur.
 
-**Tourbillon de lancers** (5 points de Rapidité) : Avec une grande poignée de petits objets (minuscules couteaux, shuriken, pierres, morceaux de métal déchiquetés, pièces de monnaie ou tout ce que vous avez sous la main), vous attaquez toutes les créatures dans une zone immédiate à courte portée. Vous devez effectuer des jets d'attaque contre chaque cible. Chaque attaque est gênée. Vous infligez 3 points de dégâts aux cibles que vous touchez. Action.
+**Tourbillon de lancers** (5 points de Célérité) : Avec une grande poignée de petits objets (minuscules couteaux, shuriken, pierres, morceaux de métal déchiquetés, pièces de monnaie ou tout ce que vous avez sous la main), vous attaquez toutes les créatures dans une zone immédiate à courte portée. Vous devez effectuer des jets d'attaque contre chaque cible. Chaque attaque est gênée. Vous infligez 3 points de dégâts aux cibles que vous touchez. Action.
 
 **Tout est une arme**: vous pouvez prendre n'importe quel petit objet (une pièce de monnaie, un stylo, une bouteille, une pierre, etc.) et le lancer avec une telle force et précision qu'il inflige des dégâts comme une arme légère. Facilitateur.
 
@@ -3857,7 +3861,7 @@ Facilitateur.
 
 **Trahison inattendue** : quelques rounds après avoir utilisé avec succès Envoûtement, Embrouiller ou une capacité similaire sur une cible à courte portée, la première attaque que vous effectuez sur cette cible est facilitée de deux étapes. Une fois que vous utilisez Trahison inattendue sur une cible, l’utilisation de vos capacités ou une simple tentative de persuasion sur cette cible est définitivement entravée par deux étapes. Facilitateur.
 
-**Traitement rapide** (6 points d'Intelligence) : vous ou une cible que vous touchez expérimentez un niveau de temps de réaction mentale et physique plus élevé pendant environ une minute. Pendant cette période, toutes les tâches de Rapidité (y compris les jets de défense de Rapidité) sont facilitées. De plus, la cible peut effectuer une action supplémentaire à tout moment avant l’expiration de la durée de la capacité. Action.
+**Traitement rapide** (6 points d'Intelligence) : vous ou une cible que vous touchez expérimentez un niveau de temps de réaction mentale et physique plus élevé pendant environ une minute. Pendant cette période, toutes les tâches de Célérité (y compris les jets de défense de Célérité) sont facilitées. De plus, la cible peut effectuer une action supplémentaire à tout moment avant l’expiration de la durée de la capacité. Action.
 
 **Transcendez le scénario** (5 points d'intelligence) : Qu'il s'agisse de lignes que vous avez écrites, jouées, sur lesquelles vous avez rapporté ou incorporées de toute autre manière dans votre talent, vous composez un oratoire à la volée qui est si merveilleux que même vous y croyez. Pour chaque allié qui l'entend (et vous aussi), une tâche tentée dans l'heure qui suit est facilitée de deux étapes. Action.
 
@@ -3897,13 +3901,13 @@ Facilitateur.
 
 **Trouver les Pièges** (3+ points d'Intelligence) : vous trouvez des pièges (comme un sol qui céderait sous vous) ou des déclencheurs mécaniques d'un piège ou d'un système de défense qui pourraient constituer une menace. Vous pouvez le faire sans les déclencher et au lieu de lancer un jet pour les trouver. Cette capacité peut trouver des pièges de niveau 4 ou inférieur. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour augmenter de 2 le niveau des pièges pouvant être trouvés, de sorte qu'en utilisant deux niveaux d'Effort, vous puissiez trouver tous les pièges de niveau 8 ou inférieur. Action.
 
-**Trouver une ouverture** (1 point d’Intelligence) : vous utilisez la ruse pour trouver une ouverture dans les défenses de votre ennemi. Si vous réussissez un jet de Rapidité contre une créature à portée immédiate, votre prochaine attaque contre cette créature avant la fin du tour suivant est facilitée. Action.
+**Trouver une ouverture** (1 point d’Intelligence) : vous utilisez la ruse pour trouver une ouverture dans les défenses de votre ennemi. Si vous réussissez un jet de Célérité contre une créature à portée immédiate, votre prochaine attaque contre cette créature avant la fin du tour suivant est facilitée. Action.
 
 **Très long sprint**: lorsque vous utilisez Sprint de Phase, vous pouvez parcourir une très longue distance au lieu d'une longue distance. Facilitateur.
 
 **Télécommande** (5 points d'Intelligence) : Vous pouvez utiliser les réseaux de communication et de capteurs d'un vaisseau spatial pour lancer une attaque qui rend brièvement un vaisseau ennemi dans un rayon de 20 miles (32 km) inopérant pendant une minute maximum. Action. (Le contrôle à distance est une tentative magistrale de bloquer ou de pirater un vaisseau spatial ennemi, une tâche nécessitant normalement plusieurs lancers, et vous ne réussissez que si vous obtenez un total de trois succès avant d'obtenir un total de deux échecs. Cependant, toutes ces tâches sont gênées par au moins deux étapes en raison de la sécurité électronique renforcée du vaisseau spatial.)
 
-**Télékinésie** (2 points d'Intelligence) : Vous pouvez exercer une force sur des objets à courte portée. Une fois activé, votre pouvoir a une réserve de Puissance effective de 10, un Avantage de Puissance de 1 et un effort de 2 (approximativement égal à la force d'un humain adulte en forme et capable), et vous pouvez l'utiliser pour déplacer des objets, pousser contre des objets. objets, etc. Par exemple, vous pouvez soulever et tirer un objet léger n'importe où à portée de vous ou déplacer un objet lourd (comme un meuble) d'environ 10 pieds (3 m). Ce pouvoir n’a pas le contrôle précis nécessaire pour manier une arme ou déplacer des objets avec beaucoup de Rapidité, donc dans la plupart des situations, ce n’est pas un moyen d’attaque. Vous ne pouvez pas utiliser cette capacité sur votre propre corps. Le pouvoir dure une heure ou jusqu'à ce que sa réserve de Puissance soit épuisée, selon la première éventualité. Action. (Si vous utilisez la télékinésie pour déplacer un objet à travers la pièce et qu'un humain de forme moyenne pourrait le faire avec ses bras, vous pouvez le faire avec votre psychokinésie. Vous devez utiliser uniquement la réserve de Puissance, l’Avantage de Puissance et l'Effort du la capacité Télékinésie)
+**Télékinésie** (2 points d'Intelligence) : Vous pouvez exercer une force sur des objets à courte portée. Une fois activé, votre pouvoir a une réserve de Puissance effective de 10, un Avantage de Puissance de 1 et un effort de 2 (approximativement égal à la force d'un humain adulte en forme et capable), et vous pouvez l'utiliser pour déplacer des objets, pousser contre des objets. objets, etc. Par exemple, vous pouvez soulever et tirer un objet léger n'importe où à portée de vous ou déplacer un objet lourd (comme un meuble) d'environ 10 pieds (3 m). Ce pouvoir n’a pas le contrôle précis nécessaire pour manier une arme ou déplacer des objets avec beaucoup de Célérité, donc dans la plupart des situations, ce n’est pas un moyen d’attaque. Vous ne pouvez pas utiliser cette capacité sur votre propre corps. Le pouvoir dure une heure ou jusqu'à ce que sa réserve de Puissance soit épuisée, selon la première éventualité. Action. (Si vous utilisez la télékinésie pour déplacer un objet à travers la pièce et qu'un humain de forme moyenne pourrait le faire avec ses bras, vous pouvez le faire avec votre psychokinésie. Vous devez utiliser uniquement la réserve de Puissance, l’Avantage de Puissance et l'Effort du la capacité Télékinésie)
 
 **Télépathie machine** (3 points d'intelligence) : Vous pouvez lire les pensées superficielles d'une machine à courte portée, même si la machine ne le souhaite pas. Vous devez pouvoir voir la machine. Une fois le contact établi, vous pouvez lire les pensées de la cible pendant une minute maximum. Si vous ou la cible vous déplacez hors de portée, la connexion est rompue. Si vous possédez la capacité de lecture mentale, lorsque vous appliquez l'effort à la télépathie machine, vous gagnez un niveau d'effort gratuit. Action à initier.
 
@@ -3939,7 +3943,7 @@ Si vous disposez déjà de la téléportation courte lorsque vous sélectionnez 
 
 **Utilisation adroite des cyphers**: Vous pouvez utiliser quatre cyphers à la fois. Facilitateur.
 
-**Utilisation de l'environnement** (4 points d'Intelligence) : Vous trouvez un moyen d'utiliser l'environnement à votre avantage lors d'un combat. Pendant les dix minutes suivantes, les jets d'attaque et les jets de défense de Rapidité sont facilités. Action à initier.
+**Utilisation de l'environnement** (4 points d'Intelligence) : Vous trouvez un moyen d'utiliser l'environnement à votre avantage lors d'un combat. Pendant les dix minutes suivantes, les jets d'attaque et les jets de défense de Célérité sont facilités. Action à initier.
 
 **Utilisation experte des cyphers**: Vous pouvez utiliser trois chiffres à la fois. Facilitateur.
 
@@ -3990,7 +3994,7 @@ Utilisez ce qui suit comme exemples ou suggestions de ce qu'un personnage gagne 
  * **Voler**: L'animal peut voler, ce qui (selon le type d'animal) peut parcourir une distance courte ou longue lors de son tour.
  * **Mains : L’animal a des pattes ou des mains presque aussi agiles que celles d’un humain. Contrairement à la plupart des formes d'animaux, les tâches de l'animal qui nécessitent des mains ne sont pas gênées (bien que le MJ puisse décider que certaines tâches nécessitant de l'agilité humaine, comme jouer de la flûte, sont toujours gênées).
  * **Odeur**: L'animal a un odorat fort, acquérant un atout pour le pistage et la gestion de l'obscurité ou de la cécité.
- * **Petit**: L'animal est considérablement plus petit qu'un humain, ce qui facilite ses tâches de défense contre la Rapidité mais gêne les tâches de déplacement d'objets lourds.
+ * **Petit**: L'animal est considérablement plus petit qu'un humain, ce qui facilite ses tâches de défense contre la Célérité mais gêne les tâches de déplacement d'objets lourds.
  * **Venin** : L'animal est venimeux (généralement par morsure), lui infligeant 1 point de dégâts supplémentaire.
 
 **Verrouiller un Serrure** (2+ points d'Intelligence) : Une porte, un portail, un coffre, un tiroir, un médaillon ou tout autre objet pouvant être fermé à longue portée se ferme et est verrouillé comme par magie (effet de niveau 3) pendant une heure. Si un objet ou une créature maintient physiquement l'objet cible ouvert, vous devez également réussir une Attaque basée sur l'intelligence. Pour chaque niveau d’Effort que vous appliquez, la qualité du verrou magique augmente d’un niveau. Action à initier.
@@ -3999,9 +4003,9 @@ Utilisez ce qui suit comme exemples ou suggestions de ce qu'un personnage gagne 
 
 **Vie en pleine nature**: vous êtes formé dans deux des domaines suivants : l'escalade, la natation, la navigation ou l'identification des plantes et des créatures. Facilitateur.
 
-**Vif d'esprit**: lorsque vous effectuez une tâche qui nécessiterait normalement de dépenser des points de votre réserve d'intelligence, vous pouvez dépenser des points de votre Réserve de Rapidité à la place. Facilitateur.
+**Vif d'esprit**: lorsque vous effectuez une tâche qui nécessiterait normalement de dépenser des points de votre réserve d'intelligence, vous pouvez dépenser des points de votre Réserve de Célérité à la place. Facilitateur.
 
-**Vigilance** (2 points d'Intelligence) : Vous adoptez une approche prudente du combat, en vous concentrant davantage sur votre protection que sur le fait de blesser vos adversaires. Tant que cette capacité est active, vous gagnez un atout aux jets de défense Rapidité contre les attaques de mêlée et à distance, et vos attaques de mêlée et à distance sont gênées. Cet effet dure aussi longtemps que vous le souhaitez, mais il prend fin si aucun combat n'a lieu à portée de vos sens. Action à initier.
+**Vigilance** (2 points d'Intelligence) : Vous adoptez une approche prudente du combat, en vous concentrant davantage sur votre protection que sur le fait de blesser vos adversaires. Tant que cette capacité est active, vous gagnez un atout aux jets de défense Célérité contre les attaques de mêlée et à distance, et vos attaques de mêlée et à distance sont gênées. Cet effet dure aussi longtemps que vous le souhaitez, mais il prend fin si aucun combat n'a lieu à portée de vos sens. Action à initier.
 
 **Vigilant** (5 points de Puissance) : Lorsque vous êtes affecté par une attaque ou un effet qui pourrait vous étourdir ou vous étourdir, vous n'êtes ni étourdi ni étourdi. Facilitateur.
 
@@ -4012,23 +4016,19 @@ Utilisez ce qui suit comme exemples ou suggestions de ce qu'un personnage gagne 
 
 L'une ou l'autre application prend entre une action et des heures de concentration, selon ce que le MJ estime approprié en raison du temps, de la distance ou d'autres circonstances atténuantes. Cependant, vous ne savez pas à l’avance combien de temps cela prendra. Action à initier ; action à chaque tour pour se concentrer.
 
-**Visée mortelle** (3 points de Rapidité): Pendant la minute suivante, toutes les attaques à distance que vous effectuez infligent 2 points de dégâts supplémentaires. Action à initier.
+**Visée mortelle** (3 points de Célérité): Pendant la minute suivante, toutes les attaques à distance que vous effectuez infligent 2 points de dégâts supplémentaires. Action à initier.
 
 **Visée prudente**: Vous êtes entraîné aux attaques avec toutes les armes que vous lancez. Facilitateur.
 
-**Vitalité sauvage** (4 points d'Intelligence) : Vous vous connectez à la force vitale d'une créature naturelle (de votre taille ou plus) à longue portée que vous pouvez voir. Il s’agit d’une tâche Intellect de niveau 2. Si vous réussissez, la créature n'est pas blessée, mais grâce à la résonance avec sa vitalité sauvage, vous bénéficiez de plusieurs avantages pendant une minute maximum : un atout pour toutes vos tâches basées sur la Puissance (y compris les attaques et les défenses), +2 pour votre Avantage de Puissance. et Avantage de Rapidité, et 2 points de dégâts supplémentaires sur toutes les attaques de mêlée réussies. Action à initier.
+**Vitalité sauvage** (4 points d'Intelligence) : Vous vous connectez à la force vitale d'une créature naturelle (de votre taille ou plus) à longue portée que vous pouvez voir. Il s’agit d’une tâche Intellect de niveau 2. Si vous réussissez, la créature n'est pas blessée, mais grâce à la résonance avec sa vitalité sauvage, vous bénéficiez de plusieurs avantages pendant une minute maximum : un atout pour toutes vos tâches basées sur la Puissance (y compris les attaques et les défenses), +2 pour votre Avantage de Puissance. et Avantage de Célérité, et 2 points de dégâts supplémentaires sur toutes les attaques de mêlée réussies. Action à initier.
 
-**Rapidité améliorée**: vous gagnez 3 points dans votre Réserve de Rapidité. Facilitateur.
+**Vitesse de course incroyable**: vous vous déplacez beaucoup plus loin que la normale au cours d'un round. Cela signifie que dans le cadre d’une autre action, vous pouvez vous déplacer sur une longue distance. En tant qu'action, vous pouvez vous déplacer jusqu'à 200 pieds (60 m) ou jusqu'à 500 pieds (150 m) dans le cadre d'une tâche basée sur la Célérité avec une difficulté de 4. Enabler.
 
-**Rapidité améliorée supérieure**: vous gagnez 6 points dans votre Réserve de Rapidité. Facilitateur.
-
-**Rapidité de course incroyable**: vous vous déplacez beaucoup plus loin que la normale au cours d'un round. Cela signifie que dans le cadre d’une autre action, vous pouvez vous déplacer sur une longue distance. En tant qu'action, vous pouvez vous déplacer jusqu'à 200 pieds (60 m) ou jusqu'à 500 pieds (150 m) dans le cadre d'une tâche basée sur la Rapidité avec une difficulté de 4. Enabler.
-
-**Rapidité flou** (7 points de Rapidité): Vous vous déplacez si rapidement que jusqu'à votre prochain tour, vous êtes flou pour le sautres. Pendant que vous êtes flou, si vous appliquez un effort à une tâche d'attaque au corps à corps ou à une tâche de défense rapide, vous obtenez un niveau d'effort gratuit sur cette tâche ; vous pouvez vous déplacer sur une courte distance dans le cadre d’une autre action ou sur une longue distance dans le cadre de l’ensemble de votre action. Facilitateur.
+**Vitesse floue** (7 points de Célérité): Vous vous déplacez si rapidement que jusqu'à votre prochain tour, vous êtes flou pour le sautres. Pendant que vous êtes flou, si vous appliquez un effort à une tâche d'attaque au corps à corps ou à une tâche de défense rapide, vous obtenez un niveau d'effort gratuit sur cette tâche ; vous pouvez vous déplacer sur une courte distance dans le cadre d’une autre action ou sur une longue distance dans le cadre de l’ensemble de votre action. Facilitateur.
 
 **Vivre de la terre**: En une heure environ, vous pouvez toujours trouver de la nourriture comestible et de l'eau potable dans la nature. Vous pouvez même en trouver suffisamment pour un petit groupe de personnes, si besoin est. De plus, comme vous êtes très robuste et que vous avez acquis une résistance au fil du temps, vous êtes entraîné à résister aux effets des poisons naturels (comme ceux des plantes ou des créatures vivantes). Vous êtes également immunisé contre les maladies naturelles. Facilitateur.
 
-**Voilà votre problème**: vous êtes entraîné à des tâches liées à la résolution de problèmes avec plusieurs solutions (comme la meilleure façon de préparer un camion, de calmer un client enragé, de donner une injection d'insuline à un chat ou de trouver un itinéraire à travers la ville). pour une Rapidité maximale). Facilitateur.
+**Voilà votre problème**: vous êtes entraîné à des tâches liées à la résolution de problèmes avec plusieurs solutions (comme la meilleure façon de préparer un camion, de calmer un client enragé, de donner une injection d'insuline à un chat ou de trouver un itinéraire à travers la ville). pour une Célérité maximale). Facilitateur.
 
 **Voir Historique** (4 points d'Intelligence) : Vous touchez un objet, lisez les échos subtils de son existence à travers le temps, posez au MJ une question sur le passé de l'objet et obtenez une réponse générale. Les réponses se présentent souvent sous la forme de brèves images ou de sensations plutôt que de réponses spécifiques dans une langue que vous connaissez. Le MJ attribue un niveau à la question, donc plus la réponse est obscure, plus la tâche est difficile. » Généralement, les connaissances que vous pourriez trouver en regardant ailleurs que votre position actuelle sont de niveau 1, et les connaissances obscures du passé sont de niveau 7. Après avoir utilisé cette capacité, vous disposez d'un atout pour identifier l'objet. Action. (« Obscur » est un terme relatif : un sage peut ne pas savoir comment un vampire a acquis un artefact spécifique, mais quelqu'un utilisant Voir l'historique sur cet artefact aurait plus de facilité à ressentir cet événement.)
 
@@ -4048,11 +4048,11 @@ Cela prend entre une action et des heures de concentration, selon ce que le MJ e
 
 **Vol** (4+ points d'Intelligence) : Vous pouvez flotter et voler dans les airs pendant une heure. Pour chaque niveau d'Effort appliqué, vous pouvez affecter une créature supplémentaire de votre taille ou moins. Vous devez toucher la créature pour lui conférer le pouvoir de voler. Vous dirigez le mouvement de l’autre créature, et pendant qu’elle vole, elle doit rester en vue ou tomber. En termes de mouvement terrestre, une créature volante se déplace à environ 32 km par heure et n'est pas affectée par le terrain. Action à initier.
 
-**Vol Court** (3 points de Puissance ou 3 points de Rapidité) : vous pouvez voler sur une courte distance lors de votre mouvement ce tour. Si tout ce que vous faites est de vous déplacer pendant votre tour, vous pouvez voler sur une longue distance. Facilitateur.
+**Vol Court** (3 points de Puissance ou 3 points de Célérité) : vous pouvez voler sur une courte distance lors de votre mouvement ce tour. Si tout ce que vous faites est de vous déplacer pendant votre tour, vous pouvez voler sur une longue distance. Facilitateur.
 
 **Vol électrique** (5 points d'Intelligence) : Vous dégagez une aura d'électricité crépitante qui vous permet de voler sur une longue distance à chaque tour pendant dix minutes. Vous ne pouvez pas transporter d’autres créatures avec vous. Action à activer.
 
-**Voler le pouvoir** : lorsque vous utilisez Pouvoir de copie pour copier une capacité, la créature à partir de laquelle vous l'avez copiée perd l'accès à cette capacité pendant environ une minute. Tant que vous possédez sa capacité, toute tentative de la créature d'utiliser sa capacité nécessite qu'elle réussisse une tâche (Puissance, Rapidité ou Intelligence, selon la capacité volée) opposée à votre tâche d'Intelligence facilitée. S’ils réussissent, ils retrouvent l’usage de leur capacité et vous la perdez. Facilitateur.
+**Voler le pouvoir** : lorsque vous utilisez Pouvoir de copie pour copier une capacité, la créature à partir de laquelle vous l'avez copiée perd l'accès à cette capacité pendant environ une minute. Tant que vous possédez sa capacité, toute tentative de la créature d'utiliser sa capacité nécessite qu'elle réussisse une tâche (Puissance, Célérité ou Intelligence, selon la capacité volée) opposée à votre tâche d'Intelligence facilitée. S’ils réussissent, ils retrouvent l’usage de leur capacité et vous la perdez. Facilitateur.
 
 Si vous souhaitez rendre plus difficile la récupération du pouvoir volé par quelqu'un, devenez compétent dans la capacité Voler le pouvoir ou modifiez le pouvoir en conséquence.
 
@@ -4072,7 +4072,7 @@ Si vous souhaitez rendre plus difficile la récupération du pouvoir volé par q
 
 **Voyage dans les arbres** (4+ points d'Intelligence) : Vous entrez dans un arbre et émergez instantanément et en toute sécurité d'un autre sur une longue distance. Vous n’avez pas besoin de préciser de quel arbre vous sortez (si vous savez qu’il y a des arbres dans cette direction, vous pouvez décider jusqu’où aller et vous sortirez d’un arbre dans cette zone). Si le tronc de l’arbre de départ n’est pas aussi grand que votre corps, vous devez appliquer un niveau d’effort pour y entrer. Vous pouvez choisir d’utiliser l’Effort pour augmenter la distance parcourue ; un niveau d'effort utilisé de cette manière augmente la portée à très longue, deux niveaux l'élèvent à un mile (1,5 km) et chaque niveau d'effort supplémentaire au-delà de cela l'augmente d'un mile supplémentaire. Action.
 
-**Voyage rapide** (7 points d'Intelligence) : Vous déformez le temps et l'espace de sorte que vous et jusqu'à dix autres créatures à proximité immédiate voyagez par voie terrestre à une Rapidité dix fois supérieure à la normale pendant huit heures maximum. À cette Rapidité, les rencontres les plus dangereuses ou les régions de terrain accidenté sont ignorées, bien que le MJ puisse déclarer des exceptions. Les barrières pures et simples constituent toujours un problème. Action à initier.
+**Voyage rapide** (7 points d'Intelligence) : Vous déformez le temps et l'espace de sorte que vous et jusqu'à dix autres créatures à proximité immédiate voyagez par voie terrestre à une Célérité dix fois supérieure à la normale pendant huit heures maximum. À cette Célérité, les rencontres les plus dangereuses ou les régions de terrain accidenté sont ignorées, bien que le MJ puisse déclarer des exceptions. Les barrières pures et simples constituent toujours un problème. Action à initier.
 
 **Vrilles de feu** (5 points d'Intelligence) : Lorsque vous le souhaitez, votre halo (issu de votre capacité Manteau de flammes) fait germer trois vrilles de flammes qui durent jusqu'à dix minutes. Par une action, vous pouvez utiliser les vrilles pour attaquer, en effectuant un jet d'attaque distinct pour chacune. Chaque vrille inflige 4 points de dégâts. Sinon, les attaques fonctionnent comme des attaques standards. Si vous n’utilisez pas les vrilles pour attaquer, elles restent mais ne font rien. Facilitateur.
 

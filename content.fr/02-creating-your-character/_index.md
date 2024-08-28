@@ -1,7 +1,7 @@
 ---
 title: Création de votre Personnage
 weight: 2
-description: Explanation on how to create characters to play in a Cypher System game.
+description: Explications de comment créer des personnages pour jouer à une partie avec le Cypher System.
 ---
 # Création de votre Personnage
 
@@ -9,7 +9,7 @@ Cette section vous détaille comment créer des personnages pour jouer à une pa
 
 ## Les Statistiques du Personnage
 
-Chaque personnage joueur a trois caractéristiques bien définies qui sont appelées "statistiques" ou "stats". Ces stats sont [Puissance](#puissance), [Rapidité](#rapidité) et [Intelligence](#intelligence). Ce sont des catégories assez larges qui couvrent des aspects différents d'un personnage.
+Chaque personnage joueur a trois caractéristiques bien définies qui sont appelées "statistiques" ou "stats". Ces stats sont [Puissance](#puissance), [Célérité](#célérité) et [Intelligence](#intelligence). Ce sont des catégories assez larges qui couvrent des aspects différents d'un personnage.
 
 ## Puissance
 
@@ -21,12 +21,12 @@ La Puissance gouverne les actions comme de force une porte ou de marcher pendant
 La Puissance peut être pensée comme Puissance/Santé car elle contrôle à quel point vous être fort et à quel niveau de chocs physiques vous pouvez supporter.
 {{< /hint >}}
 
-## Rapidité
+## Célérité
 
-La Rapidité décrit à quel point votre personnage est vif et bien coordonné. La stat inclut l'agilité, la vitesse, le mouvement, la dextérité et les reflexes. La Rapidité contrôle les actions telles qu'éviter les attaques, se dissimuler et s'infiltrer, lancer une balle avec précision. Cette stat permet de déterminer si vous pouvez vous déplacer rapidement dans votre tour. Les personnages agiles, rapides, ou les as de la dissimulation, tout comme ceux qui souhaitent exceller en tir à distance, devraient avoir une bonne Rapidité.
+La Célérité décrit à quel point votre personnage est rapide et bien coordonné. La stat inclut l'agilité, la vitesse, le mouvement, la dextérité et les reflexes. La Célérité contrôle les actions telles qu'éviter les attaques, se dissimuler et s'infiltrer, lancer une balle avec précision. Cette stat permet de déterminer si vous pouvez vous déplacer rapidement dans votre tour. Les personnages agiles, rapides, ou les as de la dissimulation, tout comme ceux qui souhaitent exceller en tir à distance, devraient avoir une bonne Célérité.
 
 {{< hint info >}}
-La Rapidité peut être pensée comme de la Vitesse ou de l'Agilité car elle contrôle votre célérité et vos reflexes.
+La Célérité peut être pensée comme de la Vitesse ou de l'Agilité car elle contrôle votre célérité et vos reflexes.
 {{< /hint >}}
 
 ## Intelligence
@@ -49,20 +49,20 @@ Vos réserve de stat, tout comme votre Effort et Avantage, sont déterminés par
 
 Votre Réserve est la mesure de base d'une stat. Comparer les Réserves de deux créatures vous donnera un bon apperçu de quelle créature est supérieure dans cette stat. Par exemple, un personnage qui a une Réserve de Puissance de 16 est plus costaud qu'un personnage qui a une Réserve de Puissance de 12. La plupart des personnages commencent avec une Réserve entre 9 et 12 dans la plupart des stats---c'est la fourchette moyenne.
 
-Quand votre personnage est blessé, malade ou attaqué, vous perdez temporairement des points de l'une de vos Réserve de stat. La nature de l'attaque détermine Réserve perd des points. Par exemple, un dommage physique par une épée réduit votre Réserve de Puissance, un poison qui vous rend maladroit réduit votre Réserve de Rapidité, et une attaque psionique réduit votre Réserve d'Intelligence. Vous pouvez aussi dépensser des points de l'une de vos Réserve pour diminuer la difficulté d'une tâche (voir [Effort](#effort) ci-dessous). Vous pouvez vous reposer pour récupérer des points perdus dans une Réserve de stat, et certaines Capacités spéciales ou cyphers peuvent vous permettre de récupérer des points perdus rapidement.ints quickly.
+Quand votre personnage est blessé, malade ou attaqué, vous perdez temporairement des points de l'une de vos Réserve de stat. La nature de l'attaque détermine Réserve perd des points. Par exemple, un dommage physique par une épée réduit votre Réserve de Puissance, un poison qui vous rend maladroit réduit votre Réserve de Célérité, et une attaque psionique réduit votre Réserve d'Intelligence. Vous pouvez aussi dépensser des points de l'une de vos Réserve pour diminuer la difficulté d'une tâche (voir [Effort](#effort) ci-dessous). Vous pouvez vous reposer pour récupérer des points perdus dans une Réserve de stat, et certaines Capacités spéciales ou cyphers peuvent vous permettre de récupérer des points perdus rapidement.ints quickly.
 
 ## Avantage
 Bien que votre Réserve est la mesure de base d'une stat, votre Avantage est aussi important. Quand quelque chose vous demande de dépenser des points d'une de vos Réserves, votre Avantage associé à la stat réduit ce coût. Cela réduit aussi le coût pour appliquer de l'Effort à un jet de dé.
 
 Par exemple, disons que vous la capacité d'attaque mentale et que son activation coûte 1 point de votre Réserve d'Intelligence. Soustrayez votre Avantage d'Intelligence du coût d'activation et le résultat représente le nombre de points que vous devez dépenser pour utiliser d'attaque mentale. Si l'utilisation de votre Avantage réduit le coût à zéro, vous pouvez utiliser la capacité gratuitement.
 
-Votre Avantage peut être différent pour chaque stat. Par exemple, vous pourriez avoir un Avantage de Puissance de 1, un Avantage de Rapidité de 1, et un Avantage d'Intelligence de 0. Vous aurez toujours un avantage d'au moins 1 dans une des stats. Votre Avantage dans une stat réduit le coût de la dépense de points dans cette Réserve, mais pas des autres Réserves. Votre Avantage de Puissance réduit les coûts dépensés dans votre Réserve de Puissance, mais cela n'affecte pas votre Réserve de Rapidité ou d'Intelligence. Une fois que l'Avantage pour une stat atteint 3, vous pouvez appliquer un niveau d'Effort gratuitement.
+Votre Avantage peut être différent pour chaque stat. Par exemple, vous pourriez avoir un Avantage de Puissance de 1, un Avantage de Célérité de 1, et un Avantage d'Intelligence de 0. Vous aurez toujours un avantage d'au moins 1 dans une des stats. Votre Avantage dans une stat réduit le coût de la dépense de points dans cette Réserve, mais pas des autres Réserves. Votre Avantage de Puissance réduit les coûts dépensés dans votre Réserve de Puissance, mais cela n'affecte pas votre Réserve de Célérité ou d'Intelligence. Une fois que l'Avantage pour une stat atteint 3, vous pouvez appliquer un niveau d'Effort gratuitement.
 
 Un personnage qui a une Réserve de Puissance faible mais un fort Avantage de Puissance a le potentiel d'accomplir des actions de Puissance de manière plus régulière qu'un personnage qui a une Réserve de Puissance de 0. Un Avantage élevé permet de réduire le coût des dépenses de points de la Réserve associée, ce qui implique qu'il y a plus de points disponibles pour appliquer de l'Effort.
 
 ## Effort
 
-Quand votre personnage a vraiment besoin d'accomplir une tâche, vous pouvez appliquer de l'Effort. Pour un personnage débutant, appliquer de l'Effort nécessite de dépenser 3 points de la Réserve de la stat appropriée pour l'action. Ainsi, si votre personnage essaie d'éviter une attaque (un jet de Rapidité) et veut augmenter ses chances de succès, vous pouvez appliquer de l'Effort en dépensant 3 points de votre Réserve de Rapidité. L'Effort facilite une tâche d'un cran. On appelle cela appliquer un niveau d'Effort.
+Quand votre personnage a vraiment besoin d'accomplir une tâche, vous pouvez appliquer de l'Effort. Pour un personnage débutant, appliquer de l'Effort nécessite de dépenser 3 points de la Réserve de la stat appropriée pour l'action. Ainsi, si votre personnage essaie d'éviter une attaque (un jet de Célérité) et veut augmenter ses chances de succès, vous pouvez appliquer de l'Effort en dépensant 3 points de votre Réserve de Célérité. L'Effort facilite une tâche d'un cran. On appelle cela appliquer un niveau d'Effort.
 
 Vous n'êtes pas obligé d'appliquer de l'Effort si vous ne voulez pas. Si vous choisissez d'appliquer de l'Effort pour une tâche, vous devez le faire avant de jeter le dé---vous ne pouvez pas jeter le dé et décider d'appliquer de l'Effort si votre jet de dé n'est pas bon.
 
@@ -70,16 +70,16 @@ Appliquer de l'Effort peut diminuer la difficulté d'une tâche encore plus: cha
 
 Chaque personnage a un score d'Effort, qui indique le nombrede niveau d'Effort maximum qui peut appliquer sur un jet de dé. Un personnage débutant (premier rang) a un Effort de 1, ce qui signifie que vous ne pouvez qu'un seul niveau d'Effort à un jet de dé. Un personnage plus expérimenté a un score d'Effort plus grand et peut appliquer plus de niveaux d'Effort à un jet de dé. Par exemple, un personnage qui a un score d'Effort de 3 peut appliquer jusqu'à 3 niveaux d'Effort pour réduire la difficulté d'une tâche.
 
-Quand vous appliquez de l'Effort, soustrayez votre Avantage associé au total du coût. Par exemple, disons que vous avez besoin de faire un jet de RApidité. Pour augmenter votre chance de succès, vous décidez d'appliquer un niveau d'Effort, ce qui va faciliter la tâche. Normalement, cela vous coûterait 3 points de votre R2serve de Rapidité. Toutefois vous avez un Avatange de Rapidité de 2, que vous soustrayez au coût de l'Effort. Ainsi, l'application de l'Effort pour le jet de dé ne coûte qu'un point de votre Réserve de Rapidité.
+Quand vous appliquez de l'Effort, soustrayez votre Avantage associé au total du coût. Par exemple, disons que vous avez besoin de faire un jet de RApidité. Pour augmenter votre chance de succès, vous décidez d'appliquer un niveau d'Effort, ce qui va faciliter la tâche. Normalement, cela vous coûterait 3 points de votre R2serve de Célérité. Toutefois vous avez un Avatange de Célérité de 2, que vous soustrayez au coût de l'Effort. Ainsi, l'application de l'Effort pour le jet de dé ne coûte qu'un point de votre Réserve de Célérité.
 
-Que se passe-t-il si vous appliquez deux niveaux d'Effort à un jet de Rapidité au lieu d'un seul ? Cela faciliterait la tâche de deux crans. Normalement, cela couterait 5 point de votre Réserve de Rapidité, mais après soustraction de votre Avantage de Rapidité de 2, cela ne coute finalement que 3 points.
+Que se passe-t-il si vous appliquez deux niveaux d'Effort à un jet de Célérité au lieu d'un seul ? Cela faciliterait la tâche de deux crans. Normalement, cela couterait 5 point de votre Réserve de Célérité, mais après soustraction de votre Avantage de Célérité de 2, cela ne coute finalement que 3 points.
 
-Une fois que l'Avantage d'une stat atteint 3, vous pouvez appliquer un niveau d'Effort gratuitement. Par exemple, si cous avez un Avantage de RApidité de 3 et que vous souhaitez appliquer un niveau d'Effort à un jet de Rapidité, cela vous coute 0 point de votre Réserve de Rapidité. (En situation normale, appliquer un niveau d'Effort vous coute 3 points, mais comme vous soustrayez votre Avantage de Rapidité, cela le réduit à 0.)
+Une fois que l'Avantage d'une stat atteint 3, vous pouvez appliquer un niveau d'Effort gratuitement. Par exemple, si cous avez un Avantage de RApidité de 3 et que vous souhaitez appliquer un niveau d'Effort à un jet de Célérité, cela vous coute 0 point de votre Réserve de Célérité. (En situation normale, appliquer un niveau d'Effort vous coute 3 points, mais comme vous soustrayez votre Avantage de Célérité, cela le réduit à 0.)
 
 Les compétences et autres avantages permettent aussi de faciliter une tâche, et vous pouvez les utiliser en conjonction de l'Effort. De plus, votre personnage peut avoir des capacités spéciales ou de l'équipement qui vous permet d'appliquer de l'Effort pour accomplir un effet spécial, tel que mettre un adversaire à terre ou affecter plusieurs cibles avec un pouvoir qui n'en affecte qu'un seul normalement.
 
 {{< hint info >}}
-Quand vous appliquez de l'Effort dans une attaque de mélée, vous avez l'option de dépenser ces points soit de votre Réserve de Puissance soit de votre Réserve de Rapidité. Quand vous faites une attaque à distance, vous ne pouvez dépensez que des points de votre Réserve de Rapidité. Cela reflète qu'avec une arme de mélée, vous utilisez quelque fois de la force brute et d'autre fois la finessse, mais avec les attaques à distance, c'est toujours du ciblage précis.
+Quand vous appliquez de l'Effort dans une attaque de mélée, vous avez l'option de dépenser ces points soit de votre Réserve de Puissance soit de votre Réserve de Célérité. Quand vous faites une attaque à distance, vous ne pouvez dépensez que des points de votre Réserve de Célérité. Cela reflète qu'avec une arme de mélée, vous utilisez quelque fois de la force brute et d'autre fois la finessse, mais avec les attaques à distance, c'est toujours du ciblage précis.
 {{< /hint >}}
 
 ## Effort Et Dommages
@@ -110,7 +110,7 @@ Pour avancer au rang suivant, les personnages gagne des points d'expérience (XP
 
 **Augmenter vos Possibilités:** Vous gagnez 4 points à ajouter à vos Réserve de stat. Vous pouvez allouer ces points parmi les Réserves comme vous l'entendez.
 
-**Avancer vers la Perfection:** Vous ajoutez 1 à votre Avantage de Puissance, votre Avantage de Rapidité ou à votre Avantage d'Intelligence (à vous de choisir).
+**Avancer vers la Perfection:** Vous ajoutez 1 à votre Avantage de Puissance, votre Avantage de Célérité ou à votre Avantage d'Intelligence (à vous de choisir).
 
 **Extra Effort:** Votre score d'Effort augmente de 1.
 
@@ -124,7 +124,7 @@ Les compétences sont une catégorie assez large de choses que votre personnage 
 
 Les joueurs peuvent aussi dépenser 4 XP pour acquérir d'autres options spéciales au lieu d'avoir une nouvelle compétence. Vous pouvez sélectionner l'une des options ci-dessous en remplacement du bénéfice de compétence pour avancer vers le rang suivant.
 
-* Réduire la pénalité de porter une armure. Cette option diminue le coût en Rapidité de 1 en portant une armure.
+* Réduire la pénalité de porter une armure. Cette option diminue le coût en Célérité de 1 en portant une armure.
 * ajouter 2 à vos jets de récupération.
 * Sélectionner une nouvelle capacité liée au type, de votre rang ou d'un rang précédent.
 
@@ -166,7 +166,7 @@ Dans certains cas, le coût pour une capacité a un signe + après le nombre. Pa
 
 Plusieurs capacités spéciales confèrent au personnage l'option d'accomplir une action qu'il ne pourrait pas faire normalement, telle que projetter des éclairs de givre ou attaquer plusieurs adversaires à la fois. Utiliser une de ces capacités est une action à part entière, et à la fin de la description il est indiqué "Action" pour vous le rappeler. Cette description peut aussi vous fournir plus d'information sur quand et comment vous pouvez accomplir cette action.
 
-Certaines capacités spéciales vous permettent d'accomplir une action familère---une action que vous pourriez déjà faire---sous une forme différente. Par exempe, une capacité peut vous laisser porter une armure lourde, réduire la difficulté d'un jet de défensede Rapidité, ou ajouter 2 points aux dommages de feu aux dommages de votre arme. Ces capacités sont de la catégorie des Facilitateurs. Utiliser l'une de ces capacités n'est pas considéré comme une action. Les facilitateurs fonctionnent, soit de manière constante (comme de porter une armure lourde, qui n'est pas une action), soit se produisent au cours d'une autre action (telle que ajouter des dommages de feu aux dommages de votre arme, qui va se produire pendant votre action d'attaque). Si une capacité spéciale est un facilitateur, il est indiqué "Facilitateur" à la fin de sa description.
+Certaines capacités spéciales vous permettent d'accomplir une action familère---une action que vous pourriez déjà faire---sous une forme différente. Par exempe, une capacité peut vous laisser porter une armure lourde, réduire la difficulté d'un jet de défensede Célérité, ou ajouter 2 points aux dommages de feu aux dommages de votre arme. Ces capacités sont de la catégorie des Facilitateurs. Utiliser l'une de ces capacités n'est pas considéré comme une action. Les facilitateurs fonctionnent, soit de manière constante (comme de porter une armure lourde, qui n'est pas une action), soit se produisent au cours d'une autre action (telle que ajouter des dommages de feu aux dommages de votre arme, qui va se produire pendant votre action d'attaque). Si une capacité spéciale est un facilitateur, il est indiqué "Facilitateur" à la fin de sa description.
 
 Certaines capacités spécifient une durée, mais vous pouvez interrompre l'une de vos propre capacité quand vous le souhaitez.
 

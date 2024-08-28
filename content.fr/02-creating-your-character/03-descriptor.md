@@ -131,7 +131,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 **Serviable:** Chaque fois que vous aidez un autre personnage, ce personnage en bénéficie comme si vous aviez été entraîné, même si vous n'êtes pas entraîné ou spécialisé dans la tâche tentée.
 
-**Inaptitude:** Quand vous êtes seul, toutes les tâches d'Intelligence et de Vitesse sont entravées.
+**Inaptitude:** Quand vous êtes seul, toutes les tâches d'Intelligence et de Célérité sont entravées.
 
 **Lien initial à la Première Aventure:** A partir de la liste d'options suivantes, choisissez comment vous vous êtes engagé dans la première aventure.
 
@@ -200,7 +200,7 @@ Cela fait partie de votre nature de remettre en question ce que les autres pense
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Agile:** +4 à votre Réserve de Vitesse.
+**Agile:** +4 à votre Réserve de Célérité.
 
 **Compétence:** Vous savez exploiter le risque et vous êtes entraîné à des tâches qui impliquent un élément de hasard, comme jouer à des jeux ou choisir entre deux ou trois options apparemment égales.
 
@@ -242,7 +242,7 @@ Le danger ne signifie pas grand-chose pour vous, principalement parce que vous n
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Tumultueux:** +4 à votre Réserve de Vitesse.
+**Tumultueux:** +4 à votre Réserve de Célérité.
 
 **Compétence:** Vous êtes entraîné aux actions de Défense d'Intelligence.
 
@@ -462,7 +462,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 **Inaptitude:** Vous êtes grand, fort, et lent à réagir. Toute tâche impliquant de l'initiative est désavantagée.
 
-**Lourd:** Lorsque vous appliquez un Effort lors d'un jet de Vitesse, vous devez dépenser 1 point supplémentaire de votre réserve de Vitesse.
+**Lourd:** Lorsque vous appliquez un Effort lors d'un jet de Célérité, vous devez dépenser 1 point supplémentaire de votre réserve de Célérité.
 
 **Lien initial à la Première Aventure:** A partir de la liste d'options suivantes, choisissez comment vous vous êtes engagé dans la première aventure.
 
@@ -602,7 +602,7 @@ Vous êtes sournois, glissant et rapide. Ces talents vous aident à vous cacher,
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Rapide:** +2 à votre Réserve de Vitesse.
+**Rapide:** +2 à votre Réserve de Célérité.
 
 **Compétence:** Vous êtes entraîné dans toutes les tâches furtives.
 
@@ -650,13 +650,13 @@ Vous avez un parfait sens de l’équilibre, vous bougez et parlez avec grâce e
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Agile:** +2 à votre Réserve de Vitesse.
+**Agile:** +2 à votre Réserve de Célérité.
 
 **Compétence:** Vous êtes entraîné dans toutes les tâches impliquant un équilibre et des mouvements prudents.
 
 **Compétence:** Vous êtes entraîné dans toutes les tâches impliquant les arts du spectacle physique.
 
-**Compétence:** Vous êtes entraîné dans toutes les tâches de défense de Vitesse.
+**Compétence:** Vous êtes entraîné dans toutes les tâches de défense de Célérité.
 
 **Lien initial à la Première Aventure:** A partir de la liste d'options suivantes, choisissez comment vous vous êtes engagé dans la première aventure.
 
@@ -721,7 +721,7 @@ Vous êtes du genre affirmé, confiant en vos capacités, énergique et peut-êt
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Energetique:** +2 à votre Réserve de Vitesse.
+**Energetique:** +2 à votre Réserve de Célérité.
 
 **Compétence:** Vous êtes entraîné à l'initiative.
 
@@ -748,11 +748,11 @@ Les personnages impulsifs ont des ennuis. C'est leur truc, et c'est très bien. 
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Reckless:** +2 à votre Réserve de Vitesse.
+**Casse-cou:** +2 à votre Réserve de Célérité.
 
 **Compétence:** Vous êtes entraîné dans les actions d'initiative (pour déterminer qui commence le combat en premier).
 
-**Compétence:** Vous êtes entraîné dans les actions de défense de Vitesse.
+**Compétence:** Vous êtes entraîné dans les actions de défense de Célérité.
 
 **Inaptitude:** Vous essayez n'importe quoi une fois, mais vous vous ennuyez rapidement par la suite. Toute tâche qui implique de la patience, de la volonté ou de la discipline est désavantagée.
 
@@ -840,7 +840,7 @@ Des descripteurs comme Lâche, Cruel et Déshonorant pourraient ne pas convenir 
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Furtive:** +2 à votre Réserve de Vitesse.
+**Furtive:** +2 à votre Réserve de Célérité.
 
 **Compétence:** Vous êtes entraîné dans les tâches de furtivité.
 
@@ -900,7 +900,7 @@ Certains joueurs ne veulent peut-être pas être définis par une qualité « n�
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Empôté:** −2 à votre Réserve de Vitesse.
+**Empôté:** −2 à votre Réserve de Célérité.
 
 **Musclé:** +2 à votre Réserve de Puissance.
 
@@ -927,11 +927,11 @@ Vous êtes bien certain que votre destin vous mène, inextricablement, vers une 
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Jumpy:** +2 à votre Réserve de Vitesse.
+**Jumpy:** +2 à votre Réserve de Célérité.
 
 **Compétence:** Toujours à l'affût du danger, vous êtes entraîné aux tâches liées à la perception.
 
-**Compétence:** Vous avez l'esprit défensif, vous êtes donc entraîné aux tâches de défense de Vitesse.
+**Compétence:** Vous avez l'esprit défensif, vous êtes donc entraîné aux tâches de défense de Célérité.
 
 **Compétence:** Vous êtes cynique et vous attendez au pire. Ainsi, vous résistez aux chocs mentaux. Vous êtes entraîné à des tâches de défense d'Intelligence liées à la perte de votre santé mentale ou de votre équanimité.
 
@@ -952,7 +952,7 @@ Vous n'avez jamais été très bavard. Lorsque vous êtes obligé d'interagir av
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Actions, Not Words:** +2 à votre Réserve de Puissance, et +2 à votre Réserve de Vitesse.
+**Actions, Not Words:** +2 à votre Réserve de Puissance, et +2 à votre Réserve de Célérité.
 
 **Compétence:** Vous êtes entraîné à la compétence perception.
 
@@ -1108,7 +1108,7 @@ Vous vous déplacez rapidement, êtes capable de sprinter par courtes rafales et
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Rapide:** +4 à votre Réserve de Vitesse.
+**Rapide:** +4 à votre Réserve de Célérité.
 
 **Compétence:** Vous êtes entraîné dans les actions d'initiative (pour déterminer qui commence le combat en premier).
 
@@ -1131,7 +1131,7 @@ Vous êtes vif. Parce que vous êtes rapide, vous pouvez accomplir des tâches p
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Energetique:** +2 à votre Réserve de Vitesse.
+**Energetique:** +2 à votre Réserve de Célérité.
 
 **Compétence:** Vous êtes entraîné à courir.
 
@@ -1206,7 +1206,7 @@ Il n’y a pas d’honneur parmi les voleurs, ni les traîtres, les traîtres, l
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Sneaky:** +4 à votre Réserve de Vitesse.
+**Sneaky:** +4 à votre Réserve de Célérité.
 
 **Bien mérité:** Lorsque le MJ donne à un autre joueur un point d'expérience à attribuer à quelqu'un pour une intrusion du MJ, ce joueur ne peut pas vous le donner.
 
