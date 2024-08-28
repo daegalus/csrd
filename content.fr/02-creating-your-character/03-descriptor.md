@@ -331,7 +331,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 **Compétence:** Vous êtes entraîné dans les tâches en relation avec in tasks lié à la tromperie, à l'intimidation et à la persuasion lorsque vous interagissez avec des personnages éprouvant une douleur physique ou émotionnelle.
 
-**Inaptitude:** Vous avez du mal à vous connecter avec les autres, à comprendre leurs motivations ou à partager leurs sentiments. Toute tâche visant à déterminer les motivations, les sentiments ou les dispositions d'un autre personnage est désavantagée.
+**Inaptitude:** Vous avez du mal à vous connecter avec les autres, à comprendre leurs Focus ou à partager leurs sentiments. Toute tâche visant à déterminer les Focus, les sentiments ou les dispositions d'un autre personnage est désavantagée.
 
 **Equipement Supplémentaire:** Vous possédez un souvenir précieux de la dernière personne que vous avez détruite. Le prix du souvenir est modéré et vous pouvez le vendre ou l'échanger contre un objet de valeur égale ou moindre.
 
@@ -704,7 +704,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 **Compétence:** Vous êtes entraîné aux intéractions plaisantes.
 
-**Compétence:** Vous êtes entraîné à discerner les véritables motivations des gens ou voir à travers les mensonges.
+**Compétence:** Vous êtes entraîné à discerner les véritables Focus des gens ou voir à travers les mensonges.
 
 **Lien initial à la Première Aventure:** A partir de la liste d'options suivantes, choisissez comment vous vous êtes engagé dans la première aventure.
 
@@ -973,7 +973,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 ### Mystérieux
 
-La silhouette sombre qui se cache silencieusement dans un coin ? C'est vous. Personne ne sait vraiment d'où vous venez ni quelles sont vos motivations : vous cachez bien votre jeu. A plupart des gens sont perplexes, mais cela ne fait pas de vous un mauvais ami ou un mauvais allié. Vous êtes simplement doué pour garder les choses pour vous, vous déplacer sans être vu et dissimuler votre présence et votre identité.
+La silhouette sombre qui se cache silencieusement dans un coin ? C'est vous. Personne ne sait vraiment d'où vous venez ni quelles sont vos Focus : vous cachez bien votre jeu. A plupart des gens sont perplexes, mais cela ne fait pas de vous un mauvais ami ou un mauvais allié. Vous êtes simplement doué pour garder les choses pour vous, vous déplacer sans être vu et dissimuler votre présence et votre identité.
 
 Vous bénéficiez des caractéristiques suivantes:
 
@@ -1031,7 +1031,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 **Compétence:** You're wide-eyed. Vous êtes entraîné à  perception tasks.
 
-**Inaptitude:** Toute tâche qui implique de démystifier des tromperies ou de déterminer les motivations secrètes de quelqu'un est désavantagée.
+**Inaptitude:** Toute tâche qui implique de démystifier des tromperies ou de déterminer les Focus secrètes de quelqu'un est désavantagée.
 
 **Lien initial à la Première Aventure:** A partir de la liste d'options suivantes, choisissez comment vous vous êtes engagé dans la première aventure.
 
@@ -1281,7 +1281,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 **Intrépide:** +2 à votre Réserve de Puissance.
 
-**Compétence:** Vous êtes entraîné à discerner les véritables motivations des gens ou voir à travers les mensonges.
+**Compétence:** Vous êtes entraîné à discerner les véritables Focus des gens ou voir à travers les mensonges.
 
 **Compétence:** Votre adhésion à un code moral strict a endurci votre esprit contre la peur, le doute et les influences extérieures. Vous êtes entraîné à des tâches de défense intellectuelle.
 
