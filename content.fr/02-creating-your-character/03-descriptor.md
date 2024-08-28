@@ -21,58 +21,58 @@ Votre descripteur compte le plus lorsque vous êtes un personnage débutant. Les
 ## Descriptors
   
 {{< columns >}}
-Attirant
-Au Regard-perçant
-Bienfaisant
-Borné
-Calme
-Casse-cou
-Chanceux
-Chaotique
-Charmant
-Créatif
-Cruel
-Curieux
-Doué pour la mécanique
-Dur-à-Cuire
-Empathique
-Endurant
-Erudit
+[Attirant](#attirant)
+[Au Regard-perçant](#au-regard-perçant)
+[Bienfaisant](#bienfaisant)
+[Borné](#borné)
+[Calme](#calme)
+[Casse-cou](#casse-cou)
+[Chanceux](#chanceux)
+[Chaotique](#chaotique)
+[Charmant](#charmant)
+[Créatif](#créatif)
+[Cruel](#cruel)
+[Curieux](#curieux)
+[Doué pour la mécanique](#doué-pour-la-mécanique)
+[Dur-à-Cuire](#dur-à-cuire)
+[Empathique](#empathique)
+[Endurant](#endurant)
+[Erudit](#erudit)
 <--->
-Etrange
-Exilé
-Fort
-Fou
-Furtif
-Gentil
-Grâcieux
-Hideux
-Honorable
-Impétieux
-Impulsif
-Intelligent
-Intuitif
-Jovial
-Lâche
-Maladroit
+[Etrange](#etrange)
+[Exilé](#exilé)
+[Fort](#fort)
+[Fou](#fou)
+[Furtif](#furtif)
+[Gentil](#gentil)
+[Grâcieux](#grâcieux)
+[Hideux](#hideux)
+[Honorable](#honorable)
+[Impétieux](#impétieux)
+[Impulsif](#impulsif)
+[Intelligent](#intelligent)
+[Intuitif](#intuitif)
+[Jovial](#jovial)
+[Lâche](#lâche)
+[Maladroit](#maladroit)
 <--->
-Malin
-Maudit
-Mutique
-Mystérieux
-Mystique
-Naif
-Pas très brillant
-Perspicace
-Prompt
-Rapide
-Résistant
-Rugueux
-Sans Honneur
-Sceptique
-Suspicieux
-Vertueux
-Vicieux
+[Malin](#malin)
+[Maudit](#maudit)
+[Mutique](#mutique)
+[Mystérieux](#mystérieux)
+[Mystique](#mystique)
+[Naif](#naif)
+[Pas très brillant](#pas-très-brillant)
+[Perspicace](#perspicace)
+[Prompt](#prompt)
+[Rapide](#rapide)
+[Résistant](#résistant)
+[Rugueux](#rugueux)
+[Sans Honneur](#sans-honneur)
+[Sceptique](#sceptique)
+[Suspicieux](#suspicieux)
+[Vertueux](#vertueux)
+[Vicieux](#vicieux)
 {{< /columns >}}
 
 ### Attirant
