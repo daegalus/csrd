@@ -24,11 +24,11 @@ En fin de compte, la Préférence est principalement un outil permettant au MJ d
 
 Les Préférences disponibles sont la furtivité, la technologie, la magie, le combat, ainsi que les compétences et connaissances.
 
-La description complète de chaque capacité répertoriée peut être trouvée dans le chapitre Capacités, qui contient également des descriptions des capacités de type et de Motivation dans un vaste catalogue unique.
+La description complète de chaque capacité répertoriée peut être trouvée dans le chapitre Capacités, qui contient également des descriptions des capacités de Type et de Focus dans un vaste catalogue unique.
 
 ## Préférence de Furtivité
 
-Characters with the stealth flavor are good at sneaking around, infiltrating places they don't belong, and deceiving others. They use these abilities in a variety of ways, including combat. An Explorer with stealth flavor might be a thief, while a Warrior with stealth flavor might be an assassin. An Explorer with stealth flavor in a superhero setting might be a crimefighter who stalks the streets at night.
+Les personnages avec la Préférence de Furtivité sont doués pour la discrétion, l'infiltration dans les endroits protégés, et la tromperie. Ils utilisent ces capacités de façon variée, dont le combat. Un Explorateur avec un préférence en furtivité pourrait être un voleur, tandis qu'un Guerrier avec préférence de furtivité serait un assassin. Un Explorateur avec un préférence en furtivité dans une campgne de super-héros pourrait être un justicier qui rôde dans les rues la nuit.
 
 ### Capacités de Furtivité de Premier Rang
 

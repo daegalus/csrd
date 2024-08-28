@@ -127,7 +127,7 @@ Les Guerriers de Premier Rang ont les capacités suivantes:
 
 **Equipment au départ:** Des vêtements appropriés et deux armes de votre choix, ainsi que un objet cher, deux objets modérement chers, et jusqu'à quatre objets peu chers.
 
-**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de motivations en un seul grand catalaogue.
+**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalaogue.
 
 * Bash
 * Combat Prowess
@@ -232,11 +232,11 @@ Ray veut être à la fois rapide et résistant, c'est pourquoi il sélectionne I
 
 Le guerrier peut porter deux cyphers. Le MJ décide que le premier cypher de Ray est une pilule qui restaure 6 points de puissance lorsqu'il est avalé, et son second est une petite grenade facilement dissimulée qui explose comme une bombe incendiaire lorsqu'elle est lancée, infligeant 3 points de dégâts à tous ceux qui se trouvent à portée immédiate.
 
-Ray doit encore choisir un descripteur et une motivation. En prévision des règles des descripteurs, Ray choisit Strong, ce qui augmente son Réerve de Puissance à 17. Il s'entraîne également à sauter et à briser des objets inanimés. (S'il avait choisi le saut comme l'une de ses compétences physiques, le descripteur Fort l'aurait fait se spécialiser dans le saut au lieu de s'entraîner.) Être fort donne également à Ray une arme supplémentaire moyenne ou lourde. Il choisit une batte de baseball qu'il utilisera à la rigueur. Il le garde dans le coffre de sa voiture.
+Ray doit encore choisir un descripteur et un focus. En prévision des règles des descripteurs, Ray choisit Strong, ce qui augmente son Réerve de Puissance à 17. Il s'entraîne également à sauter et à briser des objets inanimés. (S'il avait choisi le saut comme l'une de ses compétences physiques, le descripteur Fort l'aurait fait se spécialiser dans le saut au lieu de s'entraîner.) Être fort donne également à Ray une arme supplémentaire moyenne ou lourde. Il choisit une batte de baseball qu'il utilisera à la rigueur. Il le garde dans le coffre de sa voiture.
 
 Pour se concentrer, Ray choisit Maîtrise l'Armement. Cela lui donne encore une arme de grande qualité. Il choisit un autre couteau de combat et demande au MJ s'il peut l'utiliser dans sa main gauche, non pas pour effectuer des attaques, mais comme bouclier. Cela facilitera ses jets de défense en Vitesse s'il a ses deux couteaux sortis (le "bouclier" compte comme un atout). Le MJ est d'accord. Pendant le jeu, le Guerrier de Ray sera difficile à toucher --- il est entraîné aux jets de défense de Vitesse, et son couteau supplémentaire facilite encore plus ses jets de défense.
 
-Grâce à sa Motivation, il inflige également 1 point de dégâts supplémentaire avec l'arme de son choix. Il inflige désormais 6 points de dégâts avec sa lame. Le personnage de Ray est un combattant mortel, commençant probablement le jeu avec une réputation de combattant au couteau.
+Grâce à son Focus, il inflige également 1 point de dégâts supplémentaire avec l'arme de son choix. Il inflige désormais 6 points de dégâts avec sa lame. Le personnage de Ray est un combattant mortel, commençant probablement le jeu avec une réputation de combattant au couteau.
 
 Pour son arc de personnage, Ray choisit Defeat a Foe. Cet ennemi, décide-t-il, n’est autre qu’un membre de sa compagnie qui était autrefois un ami mais qui est devenu un voyou.
 {{< /hint >}}
@@ -328,7 +328,7 @@ Les Adeptes de Premier Rang disposent des capacités suivantes :
 
 **Armes:** Vous pouvez utiliser des armes légères sans pénalité. Vous avez une inaptitude pour les armes moyennes et lourdes; vos attaques avec ces armes sont atténuées.
 
-**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de motivations en un seul grand catalaogue. (Les capacités des Adeptes nécessite au moins une main libre à moins que la MJ en décide autrement.)
+**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalaogue. (Les capacités des Adeptes nécessite au moins une main libre à moins que la MJ en décide autrement.)
 
 * Distortion
 * Erase Memories
@@ -521,7 +521,7 @@ Explorateurs de Premier Rang ont les capacités suivantes:
 
 **Armes:** Vous pouvez utiliser des armes légères et moyennes sans pénalité. Vous avez une inaptitude pour les armes lourdes; vos attaques avec des armes lourdes sont attténuées.
 
-**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de motivations en un seul grand catalaogue.
+**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalaogue.
 
 {{< columns >}}
 
@@ -653,7 +653,7 @@ L'Explorateur de Sam n'est pas vraiment adapté au combat, mais parfois l'univer
 
 Sam a encore besoin d'un descripteur et d'un objectif. En regardant le chapitre Descripteur, il choisit Hardy, ce qui augmente leur réserve de puissance à 17. ils guérissent également plus rapidement et peuvent mieux fonctionner lorsqu'il est blessé. Il est entraîné à la défense de puissance mais a une incapacité à prendre l'initiative ; cependant, il est effectivement annulé par son Sens du Danger (et vice versa). Sam pourrait revenir en arrière et sélectionner autre chose au lieu de Danger Sense, mais il l'aime bien et décide de le garder. Dans l'ensemble, le descripteur finit par rendre le personnage dur mais un peu lent.
 
-Pour sa motivation, Sam choisit Explore des Endroits Sombres (dans ce cas, d'étranges ruines de civilisations extraterrestres). Cela donne au personnage un tas de compétences supplémentaires : chercher, écouter, grimper, équilibrer et sauter. Ce sont un Explorateur tout à fait compétent.
+Pour son focus, Sam choisit Explore des Endroits Sombres (dans ce cas, d'étranges ruines de civilisations extraterrestres). Cela donne au personnage un tas de compétences supplémentaires : chercher, écouter, grimper, équilibrer et sauter. Ce sont un Explorateur tout à fait compétent.
 
 Pour son arc de personnage, Sam choisit Enterprise. L'exploration de lieux extraterrestres révèle parfois d'étranges reliques, et Sam pense qu'il pourrait peut-être mettre en place un service pour transporter de manière fiable ces objets vers des tiers responsables, plutôt que de les laisser tomber entre les mains de pirates et de riches collectionneurs privés. Pour une somme modique, bien sûr.
 
@@ -743,7 +743,7 @@ Les Emissaires ont les capacités suivantes:
 
 **Equipement de Départ:** Vêtements appropriés et une arme légère de votre choix, ainsi que deux objets très cher, deux objets moyennement cher, et au plus quatre objets peu chers.
 
-**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de motivations en un seul grand catalaogue. (Certaines capacités d'Emissaire, comme Mind Reading ou True Senses, impose un élément surnaturel.  Si ce n'est pas apprprié pour le personnage ou la campagne, ces capacités peuvent être remplacées par quelque chose de la Préférence Furtivité, ou alors la MJ peut les modifier légèrement afin qu'elles soient basées sur des talents ou des intuitions extraordinaires plutôt que sur du supernaturel.)
+**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalaogue. (Certaines capacités d'Emissaire, comme Mind Reading ou True Senses, impose un élément surnaturel.  Si ce n'est pas apprprié pour le personnage ou la campagne, ces capacités peuvent être remplacées par quelque chose de la Préférence Furtivité, ou alors la MJ peut les modifier légèrement afin qu'elles soient basées sur des talents ou des intuitions extraordinaires plutôt que sur du supernaturel.)
 
 {{< columns >}}
 
@@ -879,17 +879,17 @@ Pour son arc de personnage, Mary choisit Fall From Grace. Elle décide qu'elle e
 
 ## Options de Personnages de Fantasy
 
-Dans certains cas, les idées présentées ici nécessitent des modifications mineures de l'ambiance décrite dans les options des personnages ; vous devez travailler avec votre MJ pour vous assurer que ces changements sont adaptés à la campagne. La plupart des Motivations de cette section apparaissent dans le système Cypher ; les Motivations marqués d'un astérisque (\*) se trouvent plus loin dans ce document. Certaines de ces options recommandent de remplacer une capacité de type par une capacité de l'une des Préférences de personnage, comme le combat, la magie ou la furtivité.
+Dans certains cas, les idées présentées ici nécessitent des modifications mineures de l'ambiance décrite dans les options des personnages ; vous devez travailler avec votre MJ pour vous assurer que ces changements sont adaptés à la campagne. La plupart des Focus de cette section apparaissent dans le système Cypher ; les Focus marqués d'un astérisque (\*) se trouvent plus loin dans ce document. Certaines de ces options recommandent de remplacer une capacité de type par une capacité de l'une des Préférences de personnage, comme le combat, la magie ou la furtivité.
 
-**Alchemiste:** Dans le sens où un alchimiste est quelqu'un qui fabrique des objets magiques ou des choses similaires, Adepte et Explorateur sont des choix de type appropriés pour les alchimistes universitaires. Pour un alchimiste général qui fabrique des potions aux effets magiques, choisissez la Motivation Maîtrise les Sortilèges (au lieu de sorts, vous apprenez des potions). Pour celui qui se transforme en une créature puissante et dangereuse, choisissez Hurle à la Lune. Pour celui qui aime lancer des bombes, choisissez Se Revêt d'un Halo de Feu. Pour un guérisseur, choisissez Fait des Miracles.
+**Alchemiste:** Dans le sens où un alchimiste est quelqu'un qui fabrique des objets magiques ou des choses similaires, Adepte et Explorateur sont des choix de type appropriés pour les alchimistes universitaires. Pour un alchimiste général qui fabrique des potions aux effets magiques, choisissez le Focus Maîtrise les Sortilèges (au lieu de sorts, vous apprenez des potions). Pour celui qui se transforme en une créature puissante et dangereuse, choisissez Hurle à la Lune. Pour celui qui aime lancer des bombes, choisissez Se Revêt d'un Halo de Feu. Pour un guérisseur, choisissez Fait des Miracles.
 
-**Assassin/Espion:** Explorateur et Guerrier sont de bons choix de type pour un personnage assassin. Les Motivations appropriées sont Maîtrise l'Armement, Bouge comme un Chat, Assassine, et Rôde dans les Bas Quartiers.
+**Assassin/Espion:** Explorateur et Guerrier sont de bons choix de type pour un personnage assassin. Les Focus appropriées sont Maîtrise l'Armement, Bouge comme un Chat, Assassine, et Rôde dans les Bas Quartiers.
 
-**Barbare:** Un personnage barbare est probablement un Guerrier ou (pour se concentrer un peu plus sur les compétences que sur le combat) un Explorateur. Les bonnes Motivations parmi lesquels choisir sont Vit dans la Nature Sauvage, Maîtrise l'Armement, N'a pas Besoin d'Arme, Ne S'Avoue Jamais Vaincu, Accompli des Prouesses de Force, et Se Met en Rage.
+**Barbare:** Un personnage barbare est probablement un Guerrier ou (pour se concentrer un peu plus sur les compétences que sur le combat) un Explorateur. Les bonnes Focus parmi lesquels choisir sont Vit dans la Nature Sauvage, Maîtrise l'Armement, N'a pas Besoin d'Arme, Ne S'Avoue Jamais Vaincu, Accompli des Prouesses de Force, et Se Met en Rage.
 
-**Barde:** Les bardes dans la fiction et les jeux fantastiques sont des troubadours, des ménestrels et des conteurs, avec peut-être un élément surnaturel. Les bardes sont généralement des explorateurs ou des émissaires. Les Motivations appropriées sont Divertit, Aide ses Amis, Se Cache dans les Ombres, and Maîtrise les Sortilèges.
+**Barde:** Les bardes dans la fiction et les jeux fantastiques sont des troubadours, des ménestrels et des conteurs, avec peut-être un élément surnaturel. Les bardes sont généralement des explorateurs ou des émissaires. Les Focus appropriées sont Divertit, Aide ses Amis, Se Cache dans les Ombres, and Maîtrise les Sortilèges.
 
-**Clerc or Prêtre:** Les prêtres académiques sont généralement des Adeptes ou des Emissaires, mais les prêtres martiaux sont souvent des Guerriers (peut-être avec une Préférence magique). Pour un clerc typique doté d’un ensemble polyvalent de capacités, choisissez la Motivation Canalise les Bénédictions Divines.
+**Clerc or Prêtre:** Les prêtres académiques sont généralement des Adeptes ou des Emissaires, mais les prêtres martiaux sont souvent des Guerriers (peut-être avec une Préférence magique). Pour un clerc typique doté d’un ensemble polyvalent de capacités, choisissez le Focus Canalise les Bénédictions Divines.
 
 * **Clerc (mort):** S'Associe avec les Morts, Guide les Esprits
 * **Clerc (connaissance):** Apprend Rapidement, Voit Au-Delà, Préfèrerait Lire
@@ -899,34 +899,34 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 * **Clerc (tricherie):** Prend une Forme Animale\* (voir aussi les options pour les voleurs)
 * **Clerc (guerre):** Maîtrise l'Armement (voir aussi les options pour les combattants)
 
-**Druide:** En tant que sorte très spécifique de prêtre de la nature, un personnage druide est généralement un Adepte ou un Explorateur (dans les deux cas utilisant probablement la Préference magique). Un druide typique a probablement pour Motivation Canalise les Bénédictions Divines ou Vit dans la Nature Sauvage, mais pour des options plus spécifiques, voir les Motivations suivantes:
+**Druide:** En tant que sorte très spécifique de prêtre de la nature, un personnage druide est généralement un Adepte ou un Explorateur (dans les deux cas utilisant probablement la Préference magique). Un druide typique a probablement pour Focus Canalise les Bénédictions Divines ou Vit dans la Nature Sauvage, mais pour des options plus spécifiques, voir les Focus suivantes:
 
 * **Druide (animal companion):** Contrôle les Bêtes Sauvages, Maîtrise l'Essaim
 * **Druide (elemental):** Demeure dans la pierre, Se Revêt d'un Halo de Feu, Va Comme le Vent, Façonne la Foudre, Porte un Eclat de Glace
 * **Druide (affinité avec la nature):** Parle au Nom de la Terre
 * **Druide (transformation):** Demeure dans la pierre, Prend une Forme Animale\*, Marche dans Les Forêts Primaires\*
 
-**Combattant:** Les combattants sont presque toujours du type Guerrier, mais certains sont des Explorateurs. Un combattant typique a probablement une motivation comme Maîtrise l'Armement or Porte une Arme Enchantée\*. Pour des options supplémentaires basées sur le choix d'un rôle de combat spécifique, voir ce qui suit:
+**Combattant:** Les combattants sont presque toujours du type Guerrier, mais certains sont des Explorateurs. Un combattant typique a probablement un focus comme Maîtrise l'Armement or Porte une Arme Enchantée\*. Pour des options supplémentaires basées sur le choix d'un rôle de combat spécifique, voir ce qui suit:
 
 * **Guerrier (guardien):** Brandit un Bouclier Exotique, Garde le Passage, Maîtrise la Défense, Ne S'Avoue Jamais Vaincu, Résiste Comme une Citadelle.
 * **Guerrier (mélée):** Se Bat Sans Respecter de Règle, Combat avec Panache, Cherche les Ennuis, N'a pas Besoin d'Arme, Se Bat avec Deux Armes à la fois
 * **Guerrier (à distance):** A le Droit de Porter une Arme à Feu, Lance avec une Précision Mortelle
 
-**Pistolero/Pirate:** Un pistolero est probablement un Guerrier ou un Explorateur, et certains peuvent être des Emissaires avec une Préférence de Combat. Les Motivations appropriées sont A le Droit de Porter une Arme à Feu, Maîtrise l'Armement, A Navigué sous Pavillon Pirate, et Porte une Arme Enchantée\*.
+**Pistolero/Pirate:** Un pistolero est probablement un Guerrier ou un Explorateur, et certains peuvent être des Emissaires avec une Préférence de Combat. Les Focus appropriées sont A le Droit de Porter une Arme à Feu, Maîtrise l'Armement, A Navigué sous Pavillon Pirate, et Porte une Arme Enchantée\*.
 
-**Inquisiteur:** Les inquisiteurs sont généralement des Explorateurs, des Emissaires ou des Guerriers, selon qu'ils ont tendance à posséder de nombreuses compétences, à être doués pour interagir avec les gens ou à combattre. Les Motivations appropriées sont Se Cache dans les Ombres, Rend la Justice, et Opère sous Couverture.
+**Inquisiteur:** Les inquisiteurs sont généralement des Explorateurs, des Emissaires ou des Guerriers, selon qu'ils ont tendance à posséder de nombreuses compétences, à être doués pour interagir avec les gens ou à combattre. Les Focus appropriées sont Se Cache dans les Ombres, Rend la Justice, et Opère sous Couverture.
 
 **Marchand:** Un Explorateur spécialisé dans les interactions sociales, comme Divertit ou Dirige, ferait un bon personnage marchand, mais le choix le plus évident serait un Emissaire.
 
-**Moine or Spécialiste des Arts Martiaux:** En tant que maîtres du combat à mains nues, les moines sont généralement des Guerriers ou des Explorateurs (avec peut-être une Préférence de combat). Les Motivations appropriées sont les Combat avec Panache, N'a pas Besoin d'Arme, and Lance avec une Précision Mortelle.
+**Moine or Spécialiste des Arts Martiaux:** En tant que maîtres du combat à mains nues, les moines sont généralement des Guerriers ou des Explorateurs (avec peut-être une Préférence de combat). Les Focus appropriées sont les Combat avec Panache, N'a pas Besoin d'Arme, and Lance avec une Précision Mortelle.
 
-**Paladin/Chevalier/Parangon:** En tant que guerriers sacrés mêlant prouesses martiales et magie, les paladins sont généralement des Guerriers ou des Explorateurs (dans les deux cas, peut-être modifiés avec la Préférence magique). Les bonnes Motivations pour ce type de personnage incluent Garde le Passage, Défend les Faibles, Rend la Justice, Tue les Monstres, and Porte une Arme Enchantée\*.
+**Paladin/Chevalier/Parangon:** En tant que guerriers sacrés mêlant prouesses martiales et magie, les paladins sont généralement des Guerriers ou des Explorateurs (dans les deux cas, peut-être modifiés avec la Préférence magique). Les bonnes Focus pour ce type de personnage incluent Garde le Passage, Défend les Faibles, Rend la Justice, Tue les Monstres, and Porte une Arme Enchantée\*.
 
-**Ranger:** Les Rangers mélangent combat et compétences, et sont donc généralement des Explorateurs (peut-être avec une Préférence de combat) ou des Guerriers (peut-être avec une Préférence de compétences et de connaissances). Les Motivations appropriées sont Contrôle les Bêtes Sauvages, Chasse, Vit dans la Nature Sauvage, Tue les Monstres, Lance avec une Précision Mortelle, et Se Bat avec Deux Armes à la fois.
+**Ranger:** Les Rangers mélangent combat et compétences, et sont donc généralement des Explorateurs (peut-être avec une Préférence de combat) ou des Guerriers (peut-être avec une Préférence de compétences et de connaissances). Les Focus appropriées sont Contrôle les Bêtes Sauvages, Chasse, Vit dans la Nature Sauvage, Tue les Monstres, Lance avec une Précision Mortelle, et Se Bat avec Deux Armes à la fois.
 
-**Roublard ou Voleur:** La plupart des personnages de type voleur sont des Explorateurs, mais un voleur axé sur l'interaction pourrait facilement être un Emissaire (peut-être avec une Préférence furtive). Les Motivations appropriées sont Explore des Endroits Sombres, Se Bat Sans Respecter de Règle, Chasse, Se Cache dans les Ombres, Is Wanted by the Law, Bouge comme un Chat, A Navigué sous Pavillon Pirate, and Rôde dans les Bas Quartiers.
+**Roublard ou Voleur:** La plupart des personnages de type voleur sont des Explorateurs, mais un voleur axé sur l'interaction pourrait facilement être un Emissaire (peut-être avec une Préférence furtive). Les Focus appropriées sont Explore des Endroits Sombres, Se Bat Sans Respecter de Règle, Chasse, Se Cache dans les Ombres, Is Wanted by the Law, Bouge comme un Chat, A Navigué sous Pavillon Pirate, and Rôde dans les Bas Quartiers.
 
-**Sorcier:** Les sorciers, dans notre cas, sont des mages qui ont des capacités magiques inhérentes (par opposition aux magiciens, qui étudient longuement et durement pour obtenir leurs sorts). La plupart des sorciers sont des Adeptes, mais certains sont des Explorateurs ou des Emissaires. La Motivation Maîtrise les Sortilèges donne à un sorcier typique un ensemble efficace de capacités, et la plupart des choix de Motivation fournissent un ensemble thématique de sorts. Pour les sorciers de diverses lignées magiques, consultez ce qui suit :
+**Sorcier:** Les sorciers, dans notre cas, sont des mages qui ont des capacités magiques inhérentes (par opposition aux magiciens, qui étudient longuement et durement pour obtenir leurs sorts). La plupart des sorciers sont des Adeptes, mais certains sont des Explorateurs ou des Emissaires. Le Focus Maîtrise les Sortilèges donne à un sorcier typique un ensemble efficace de capacités, et la plupart des choix de Focus fournissent un ensemble thématique de sorts. Pour les sorciers de diverses lignées magiques, consultez ce qui suit :
 
 * **Sorcier (ange):** Illumine avec Eclat, Canalise les Bénédictions Divines, Dispose d'un Allié Magique
 * **Sorcier (destinée):** A des Ascendants Nobles, A été Choisi(e)
@@ -936,13 +936,13 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 * **Sorcier (fiend):** Se Revêt d'un Halo de Feu, Dispose d'un Allié Magique
 * **Sorcier (undead):** S'Associe avec les Morts, Guide les Esprits
 
-**Escroc ou Arnaqueur:** Ces gens intelligents sont généralement des Emissaires, bien qu'ils puissent être des Adeptes s'ils sont très magiques (ou des Explorateurs s'ils ne sont pas magiques du tout). Les choix de Motivation incluent Se Bat Sans Respecter de Règle, Rôde dans les Bas Quartiers ou Divertit.
+**Escroc ou Arnaqueur:** Ces gens intelligents sont généralement des Emissaires, bien qu'ils puissent être des Adeptes s'ils sont très magiques (ou des Explorateurs s'ils ne sont pas magiques du tout). Les choix de Focus incluent Se Bat Sans Respecter de Règle, Rôde dans les Bas Quartiers ou Divertit.
 
-**Guerrier-Mage:** Pour ces personnages inhabituels qui utilisent un mélange d'attaques avec des armes et de sorts, incarnez un Guerrier à Préférence magique ou un expert à Préférence de combat ou de magie. Les Motivations appropriées incluent Combat avec Panache, Maîtrise l'Armement, and Porte une Arme Enchantée\*.
+**Guerrier-Mage:** Pour ces personnages inhabituels qui utilisent un mélange d'attaques avec des armes et de sorts, incarnez un Guerrier à Préférence magique ou un expert à Préférence de combat ou de magie. Les Focus appropriées incluent Combat avec Panache, Maîtrise l'Armement, and Porte une Arme Enchantée\*.
 
-**Démoniste ou Occultiste:** Pour les besoins de cette liste, les Démoniste et les Occultiste sont des mages qui acquièrent des pouvoirs magiques grâce aux pactes qu'ils concluent avec des entités d'un autre monde. La plupart des démonistes sont des Adeptes, mais les Explorateurs et les Emissaires (peut-être avec une Préférence magique) peuvent être des options intéressantes. Les Motivations interressantes pour un occultiste incluent Manipule la Matière Noire, Dispose d'un Allié Magique, Maîtrise l'Essaim, Peut Séparer son Esprit de son Corps, and A été Choisi(e), mais aussi (en fonction de l'entité et du pacte) la plupart des Motivations des Sorciers et des Magiciens fonctionnent tout aussi bien.
+**Démoniste ou Occultiste:** Pour les besoins de cette liste, les Démoniste et les Occultiste sont des mages qui acquièrent des pouvoirs magiques grâce aux pactes qu'ils concluent avec des entités d'un autre monde. La plupart des démonistes sont des Adeptes, mais les Explorateurs et les Emissaires (peut-être avec une Préférence magique) peuvent être des options intéressantes. Les Focus interressantes pour un occultiste incluent Manipule la Matière Noire, Dispose d'un Allié Magique, Maîtrise l'Essaim, Peut Séparer son Esprit de son Corps, and A été Choisi(e), mais aussi (en fonction de l'entité et du pacte) la plupart des Focus des Sorciers et des Magiciens fonctionnent tout aussi bien.
 
-**Mage du Chaos:** Ceux qui utilisent la magie sauvage ou chaotique sont généralement des Adeptes, mais un amateur peut être un Explorateur ou un Emissaire une Préférence magique. La meilleure Motivation qui convient à ce thème est Utilise la Magie Sauvage\*.
+**Mage du Chaos:** Ceux qui utilisent la magie sauvage ou chaotique sont généralement des Adeptes, mais un amateur peut être un Explorateur ou un Emissaire une Préférence magique. Le meilleur Focus qui convient à ce thème est Utilise la Magie Sauvage\*.
 
 **Magicien:** Pour les besoins de cette liste, les magiciens étudient longuement les connaissances magiques pour apprendre les méthodes de lancement de sorts (contrairement aux sorciers, aux démonistes, etc.). Les magiciens sont généralement des Adeptes, mais un magicien orienté vers la personne pourrait être un Emissaire (peut-être avec une Préférence magique). Pour un Magicien généraliste qui possède une variété de sorts, choisissez le focus Maîtrise les Sortilèges. Pour des types plus spécifiques de Magiciens, consultez ce qui suit :
 
@@ -957,7 +957,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 ## Lancement de sort Préparés ou Spontanés
 
-Les personnages pratiquant la magie obtiennent leurs capacités (qui peuvent être des sorts, des rituels ou autre chose) en fonction de leur Type et de leur Motivation, et ils peuvent utiliser ces capacités comme bon leur semble tant qu'ils dépensent les points de Réserve requis. Techniquement, cela les rend plus semblables à des lanceurs de sorts spontanés. Si vous souhaitez jouer quelque chose qui ressemble davantage à un magicien préparant ses sorts avec un large choix de capacités que vous affinez chaque jour, envisagez une Motivation axée sur le lancement de sorts comme CCanalise les Bénédictions Divines, Maîtrise les Sortilèges, or Parle au Nom de la Terre, et envisagez de l'augmenter avec la règle facultative de lancement de sorts.
+Les personnages pratiquant la magie obtiennent leurs capacités (qui peuvent être des sorts, des rituels ou autre chose) en fonction de leur Type et de leur Focus, et ils peuvent utiliser ces capacités comme bon leur semble tant qu'ils dépensent les points de Réserve requis. Techniquement, cela les rend plus semblables à des lanceurs de sorts spontanés. Si vous souhaitez jouer quelque chose qui ressemble davantage à un magicien préparant ses sorts avec un large choix de capacités que vous affinez chaque jour, envisagez un Focus axée sur le lancement de sorts comme CCanalise les Bénédictions Divines, Maîtrise les Sortilèges, or Parle au Nom de la Terre, et envisagez de l'augmenter avec la règle facultative de lancement de sorts.
 
 ## Plus de Personnalisation
 
@@ -983,4 +983,4 @@ En plus d'autres options de personnalisation, un joueur peut choisir de prendre 
 
 Normalement, vous ne pouvez avoir une faiblesse que dans une statistique dans laquelle vous avez un avantage de 0. De plus, vous ne pouvez pas avoir plus d'une faiblesse, et vous ne pouvez pas avoir une faiblesse supérieure à 1 à moins que la faiblesse supplémentaire ne provienne d'une autre source (telle qu'une maladie ou un handicap résultant d'actions ou de conditions du jeu).
 
-**Inaptitude:** Les Inaptitudes sont comme les compétences négatives. Elles rendent un type de tâche plus difficile en l’entravant. Si un personnage choisit de prendre une Inaptitude, il acquiert une compétence de son choix. Normalement, un personnage ne peut avoir qu'une seule Inaptitude, à moins que l'Inaptitude supplémentaire ne provienne d'une autre source (comme un descripteur ou une maladie ou un handicap résultant d'actions ou de conditions du jeu).
+**Inaptitude:** Les Inaptitudes sont comme des compétences négatives. Elles rendent un type de tâche plus difficile en l’entravant. Si un personnage choisit de prendre une Inaptitude, il acquiert une compétence de son choix. Normalement, un personnage ne peut avoir qu'une seule Inaptitude, à moins que l'Inaptitude supplémentaire ne provienne d'une autre source (comme un descripteur ou une maladie ou un handicap résultant d'actions ou de conditions du jeu).

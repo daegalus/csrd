@@ -1,44 +1,44 @@
 ---
-title: Motivation
+title: Focus
 weight: 4
-description: La Motivation est ce qui rend un personnage unique. Une Motivation donne des avantages à un personnage lorsqu'il crée son personnage et à chaque fois qu'il passe au rang suivant.
+description: Le Focus est ce qui rend un personnage unique. Un Focus donne des avantages à un personnage lorsqu'il crée son personnage et à chaque fois qu'il passe au rang suivant.
 ---
 
-# Motivation
+# Focus
 
-La Motivation est ce qui rend un personnage unique. Il n'y a pas deux PJ dans un groupe qui devraient avoir le même objectif. Une Motivation donne des avantages à un personnage lorsqu'il crée son personnage et à chaque fois qu'il passe au rang suivant. C'est le verbe de la phrase "Je suis un *adjectif nom* qui *verbes*".
+Le Focus est ce qui rend un personnage unique. Il n'y a pas deux PJ dans un groupe qui devraient avoir le même objectif. Un Focus donne des avantages à un personnage lorsqu'il crée son personnage et à chaque fois qu'il passe au rang suivant. C'est le groupe verbal de la phrase "Je suis un *adjectif nom* qui *groupe verbal*".
 
-Ce chapitre contient près d'une centaine d'exemples de Motivation, tels que Se Revêt d'un Halo de Feu, Serait plutôt en train de lire et Pilote un Vaisseau Spatial. Ces Motivations peuvent être choisies et utilisées telles que présentées par un joueur, ou par le MJ qui les ajoute à une liste de Motivation disponibles pour ses joueurs lors de leur prochaine campagne.
+Ce chapitre contient près d'une centaine d'exemples de Focus, tels que Se Revêt d'un Halo de Feu, Serait plutôt en train de lire et Pilote un Vaisseau Spatial. Ces Focus peuvent être choisies et utilisées telles que présentées par un joueur, ou par le MJ qui les ajoute à une liste de Focus disponibles pour ses joueurs lors de leur prochaine campagne.
 
-De plus, la seconde moitié de ce chapitre fournit des outils permettant au MJ ou à un joueur entreprenant de créer ses propres Motivations personnalisés qui correspondent parfaitement aux besoins d'un jeu ou d'une campagne donnée, comme présenté dans Création de nouveles Motivations.
+De plus, la seconde moitié de ce chapitre fournit des outils permettant au MJ ou à un joueur entreprenant de créer ses propres Focus personnalisés qui correspondent parfaitement aux besoins d'un jeu ou d'une campagne donnée, comme présenté dans Création de nouveaux Focus.
 
-## Choisir une Motivation
+## Choisir un Focus
 
-Touste les Motivations ne conviennent pas à tous les genres. Le chapitre Genre fournit des conseils, mais cette section propose quelques grandes généralisations. Évidemment, le MJ peut inclure toutes les Motivations disponibles dans son environnement. Les Motivations finissent par être une distinction importante dans ce cas, car Dispose de Pouvoirs Mentaux, par exemple, indique clairement que des capacités psychiques existent dans lea campagne, tout comme Hurle à la Lune implique l'existence de lycanthropes comme les loups-garous, et Pilote des Vaisseaux Spaciaux, nécessite bien sûr des vaisseaux spatiaux disponibles pour piloter.
+Touste les Focus ne conviennent pas à tous les genres. Le chapitre Genre fournit des conseils, mais cette section propose quelques grandes généralisations. Évidemment, le MJ peut inclure toutes les Focus disponibles dans son environnement. Les Focus finissent par être une distinction importante dans ce cas, car Dispose de Pouvoirs Mentaux, par exemple, indique clairement que des capacités psychiques existent dans lea campagne, tout comme Hurle à la Lune implique l'existence de lycanthropes comme les loups-garous, et Pilote des Vaisseaux Spaciaux, nécessite bien sûr des vaisseaux spatiaux disponibles pour piloter.
 
-Lorsqu'une Motivations est choisie pour un personnage, celui-ci obtient une connexion spéciale avec un ou plusieurs de ses camarades PJ, une capacité de premier rang et peut-être un équipement de départ supplémentaire : une ou deux pièces d'équipement qui pourraient être nécessaires pour que le personnage puisse utiliser leur capacité, ou cela pourrait bien se marier avec la Motivation. Par exemple, un personnage capable de construire des choses a besoin d’un ensemble d’outils. Un personnage constamment en feu a besoin d’un ensemble de vêtements insensibles aux flammes. Un personnage qui dessine des runes pour lancer des sorts a besoin d’outils d’écriture. Un personnage qui tue des monstres avec une épée a besoin d’une épée. Et ainsi de suite. Cela dit, de nombreuses Motivations ne nécessitent pas d’équipement supplémentaire.
+Lorsqu'un Focuss est choisi pour un personnage, celui-ci obtient une connexion spéciale avec un ou plusieurs de ses camarades PJ, une capacité de premier rang et peut-être un équipement de départ supplémentaire : une ou deux pièces d'équipement qui pourraient être nécessaires pour que le personnage puisse utiliser leur capacité, ou cela pourrait bien se marier avec le Focus. Par exemple, un personnage capable de construire des choses a besoin d’un ensemble d’outils. Un personnage constamment en feu a besoin d’un ensemble de vêtements insensibles aux flammes. Un personnage qui dessine des runes pour lancer des sorts a besoin d’outils d’écriture. Un personnage qui tue des monstres avec une épée a besoin d’une épée. Et ainsi de suite. Cela dit, de nombreuses Focus ne nécessitent pas d’équipement supplémentaire.
 
 Chaque focus propose également une ou plusieurs suggestions --- intrusions GM --- pour les effets ou conséquences possibles de très bons ou de très mauvais lancers de dés.
 
-Quelques Motivations présentées dans ce chapitre fournissent une « Option d'échange de type » qui permet à un joueur d'échanger une capacité qui serait autrement acquise grâce à son type contre la capacité indiquée. Un joueur n'est pas obligé de procéder à l'échange ; ils ont simplement le choix. Par exemple, la Motivation Aime le Aime le Vide offre la possibilité d'acquérir la capacité Ayez une Combinaison Spatiale, Vous Voyagerez au lieu d'une capacité de type.
+Quelques Focus présentés dans ce chapitre fournissent une « Option d'échange de type » qui permet à un joueur d'échanger une capacité qui serait autrement acquise grâce à son type contre la capacité indiquée. Un joueur n'est pas obligé de procéder à l'échange ; ils ont simplement le choix. Par exemple, le Focus Aime le Aime le Vide offre la possibilité d'acquérir la capacité Ayez une Combinaison Spatiale, Vous Voyagerez au lieu d'une capacité de type.
 
-Au fur et à mesure qu'un personnage progresse vers un nouveau rang, une Motivation confère plus de capacités. L'avantage de chaque rang est généralement appelé Action ou Enabler. Si une capacité est étiquetée Action, un personnage doit effectuer une action pour l'utiliser. Si une capacité est étiquetée Facilitateur, elle améliore d'autres actions ou donne un autre avantage, mais ce n'est pas une action. Une capacité qui permet à un personnage de faire exploser ses ennemis avec des lasers est une action. Une capacité qui accorde des dégâts supplémentaires lorsqu'une attaque est effectuée est un Facilitateur. Un Facilitateur est utilisé au même tour qu’une autre action, et souvent dans le cadre d’une autre action.
+Au fur et à mesure qu'un personnage progresse vers un nouveau rang, un Focus confère plus de capacités. L'avantage de chaque rang est généralement appelé Action ou Enabler. Si une capacité est étiquetée Action, un personnage doit effectuer une action pour l'utiliser. Si une capacité est étiquetée Facilitateur, elle améliore d'autres actions ou donne un autre avantage, mais ce n'est pas une action. Une capacité qui permet à un personnage de faire exploser ses ennemis avec des lasers est une action. Une capacité qui accorde des dégâts supplémentaires lorsqu'une attaque est effectuée est un Facilitateur. Un Facilitateur est utilisé au même tour qu’une autre action, et souvent dans le cadre d’une autre action.
 
 Les avantages de chaque rang sont indépendants et cumulatifs avec les avantages des autres rangs (sauf indication contraire). Ainsi, si une capacité de premier rang confère +1 à l'armure et qu'une capacité de quatrième rang confère également +1 à l'armure, lorsque le personnage atteint le quatrième rang, un total de +2 à l'armure est accordé.
 
 Aux rangs 3 et 6, le personnage est invité à choisir une capacité parmi les deux options proposées.
 
-Enfin, vous pouvez choisir si vous souhaitez développer l'histoire derrière la Motivation (bien que ce ne soit pas obligatoire).
+Enfin, vous pouvez choisir si vous souhaitez développer l'histoire derrière le Focus (bien que ce ne soit pas obligatoire).
 
-## Connexions de Motivation
+## Connexions de Focus
 
-Choisissez une connexion qui va bien avec la Motivation. Si vous êtes un MJ en train de choisir (ou de créer) une ou plusieurs Motivation pour vos joueurs, choisissez jusqu'à quatre des connexions suivantes.
+Choisissez une connexion qui va bien avec le Focus. Si vous êtes un MJ en train de choisir (ou de créer) une ou plusieurs Motivation pour vos joueurs, choisissez jusqu'à quatre des connexions suivantes.
 
-1. Choisissez un autre PJ. Pour des raisons que vous ne connaissez pas, ce personnage est totalement immunisé contre vos capacités de Motivation, que vous les utilisiez pour vous aider ou pour vous nuire.
+1. Choisissez un autre PJ. Pour des raisons que vous ne connaissez pas, ce personnage est totalement immunisé contre vos capacités de Focus, que vous les utilisiez pour vous aider ou pour vous nuire.
 2. Choisissez un autre PJ. Vous connaissiez ce personnage il y a des années, mais vous ne pensez pas qu'il vous connaissait.
 3. Choisissez un autre PJ. Vous essayez toujours de l'impressionner, mais vous ne savez pas pourquoi.
 4. Choisissez un autre PJ. Ce personnage a une habitude qui vous ennuie, mais vous êtes par ailleurs assez impressionné par ses capacités.
-5. Choisissez un autre PJ. Ce personnage montre du potentiel pour apprécier votre paradigme particulier, votre style de combat ou tout autre attribut fourni par la Motivation. Vous aimeriez le former, mais vous n'êtes pas forcément qualifié pour enseigner (c'est à vous de décider), et il pourrait ne pas être intéressé (c'est à lui de décider).
+5. Choisissez un autre PJ. Ce personnage montre du potentiel pour apprécier votre paradigme particulier, votre style de combat ou tout autre attribut fourni par le Focus. Vous aimeriez le former, mais vous n'êtes pas forcément qualifié pour enseigner (c'est à vous de décider), et il pourrait ne pas être intéressé (c'est à lui de décider).
 6. Choisissez un autre PJ. S'il est à portée immédiate lorsque vous êtes en combat, il constitue parfois un atout, et parfois il gêne accidentellement vos jets d'attaque (CINQUANTE POUR CENT % de chances dans tous les cas, déterminés par combat).
 7. Choisissez un autre PJ. Vous lui avez déjà sauvé la vie et il se sente clairement redevable envers vous. Vous souhaiteriez qu'il ne le fasse pas ; cela fait juste partie du travail.
 8. Choisissez un autre PJ. Ce personnage s'est récemment moqué de vous d'une manière qui vous a vraiment blessé. La façon dont vous gérez cela (le cas échéant) dépend de vous.
@@ -71,7 +71,7 @@ Choisissez une connexion qui va bien avec la Motivation. Si vous êtes un MJ en 
 35. Choisissez un autre PJ. Vous avez provoqué par inadvertance un accident qui l'a plongés dans un sommeil si profond qu'il ne se sont pas réveillé pendant trois jours. Qu'il vous pardonne ou non, c'est à lui de décider.
 36. Choisissez un autre PJ. Vous êtes presque sûr d’avoir un lien de parenté d’une manière ou d’une autre.
 37. Choisissez un autre PJ. Vous avez accidentellement appris quelque chose qu'is essayai de garder secret.
-38. Choisissez un autre PJ. Il est particulièrement sensible à l’utilisation de vos capacités de Motivation plus flashy et deviennent parfois éblouis pendant quelques rounds, ce qui gêne leurs actions.
+38. Choisissez un autre PJ. Il est particulièrement sensible à l’utilisation de vos capacités de Focus plus flashy et deviennent parfois éblouis pendant quelques rounds, ce qui gêne leurs actions.
 39. Choisissez un autre PJ. Il semble posséder un objet précieux qui vous appartenait autrefois, mais que vous avez perdu à un jeu de hasard il y a des années.
 40. Choisissez un autre PJ. Sans vous, ce personnage aurait échoué à un test de réussite mentale.
 41. Choisissez un autre PJ. Sur la base de quelques commentaires que vous avez entendus, vous soupçonnez qu'il n'accorde pas la plus haute estime à votre domaine de formation ou à votre passe-temps favori.
@@ -85,9 +85,9 @@ Choisissez une connexion qui va bien avec la Motivation. Si vous êtes un MJ en 
 49. Choisissez un autre PJ. Vous avez travaillé ensemble dans le passé et le travail s'est mal terminé.
 50. Choisissez un autre PJ. Pendant qu'il se tient à côté de vous et utilise leur action pour se concentrer sur votre aide, la portée de l'une de vos capacités de concentration est doublée.
 
-## L'Histoire derrière les Motivations
+## L'Histoire derrière les Focus
 
-Les Motivations de ce livre ont été volontairement réduites à l'essentiel afin d'avoir l'application la plus large possible dans plusieurs genres. Une ou deux phrases descriptives résument chacune d’entre elles. Après avoir choisi une Motivation, vous avez la possibilité d'élargir sa présentation en ajoutant plus d'histoire et de description pertinentes pour le monde ou pour le personnage.
+Les Focus de ce livre ont été volontairement réduites à l'essentiel afin d'avoir l'application la plus large possible dans plusieurs genres. Une ou deux phrases descriptives résument chacune d’entre elles. Après avoir choisi un Focus, vous avez la possibilité d'élargir sa présentation en ajoutant plus d'histoire et de description pertinentes pour le monde ou pour le personnage.
 
 Par exemple, si vous choisissez Opère sous Couverture, la description récapitulative est "Sous l'apparence de quelqu'un d'autre, vous cherchez à trouver des réponses que les puissants ne veulent pas divulguer". Si vous choisissez Poursuit des Sciences Etranges, le résumé est le suivant : "Votre perspicacité et vos capacités surnaturelles font de vous un scientifique capable de prouesses incroyables." Ces descriptions fournissent ce que vous devez savoir pour utiliser le focus.
 
@@ -105,7 +105,7 @@ Vous vous souciez probablement plus de votre travail que de trivialités telles 
 
 Si vous souhaitez aller encore plus loin, vous pouvez déterminer d'où viennent les capacités de concentration d'un personnage. Selon le genre, ils pourraient tirer ces capacités d'un entraînement avancé et persistant, via des runes magiques, des éléments cybernétiques, de leur héritage génétique ou de leur accès à une technologie avancée. Par exemple, un personnage pourrait être capable de faire exploser des cibles avec des éclairs parce qu'elles ont été zappées par un rayonnement étrange ou parce qu'elles ont ramassé un pistolet éclair. D’un autre côté, c’est peut-être parce que leur entraînement intense leur a permis d’apprendre la magie de la foudre. Les possibilités sont presque infinies et c’est à vous de les inclure ou de les renoncer. Parce que quelle que soit la manière dont les capacités d'un focus ont été acquises, il suffit également qu'elles fonctionnent.
 
-## Motivations
+## Focus
 
 La description complète de chaque capacité de concentration répertoriée dans cette section se trouve dans le chapitre Capacités, qui contient des descriptions du type, de la saveur et des capacités de concentration dans un seul et vaste catalogue.
 
@@ -876,7 +876,7 @@ Vous êtes un inventeur d'objets étranges et utiles.
 **Intrusions de la MJ:** L'objet fonctionne mal, se casse, ou subit une panne catastrophique ou inattendue.
 
 {{< hint info >}}
-Maîtrise des Cyphers fonctionne uniquement dans un contexte où les chiffres sont des objets physiques. Si ce n'est pas le cas, cette capacité devrait probablement être remplacée par quelque chose qui s'apparente à Percée scientifique étrange de la Motivation Poursuit des Sciences Etranges.
+Maîtrise des Cyphers fonctionne uniquement dans un contexte où les chiffres sont des objets physiques. Si ce n'est pas le cas, cette capacité devrait probablement être remplacée par quelque chose qui s'apparente à Percée scientifique étrange de le Focus Poursuit des Sciences Etranges.
 {{< /hint >}}
 
 -----
@@ -1013,7 +1013,7 @@ Vous gardez le lieu où vous vivez à l'abri de tout danger.
 
 Les âmes errantes, les esprits de la nature et les êtres élémentaires vous aident et vous soutiennent.
 
-(Dans certains contextes, la Motivation Guide les Esprits s’applique à un seul type d’esprit, comme les esprits des défunts, les esprits de la nature, etc.)
+(Dans certains contextes, le Focus Guide les Esprits s’applique à un seul type d’esprit, comme les esprits des défunts, les esprits de la nature, etc.)
 
 * Rang 1: Interrogez les esprits
 * Rang 2: Esprit Complice
@@ -1881,13 +1881,13 @@ Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur
 
 Cette section fournit tout ce dont vous avez besoin pour créer vos propres Motivation.
 
-Chaque Motivation a un thème principal, qu'il s'agisse d'exploration, de manipulation d'énergie ou simplement d'infliger beaucoup de dégâts au combat. Ces grandes classifications sont appelées catégories de Motivation.
+Chaque Motivation a un thème principal, qu'il s'agisse d'exploration, de manipulation d'énergie ou simplement d'infliger beaucoup de dégâts au combat. Ces grandes classifications sont appelées catégories de Focus.
 
-Chaque catégorie de Motivation a un thème principal, suivi de directives de sélection qui décrivent comment choisir les capacités pour chaque rang du chapitre Capacités, du rang 1 au rang 6.
+Chaque catégorie de Focus a un thème principal, suivi de directives de sélection qui décrivent comment choisir les capacités pour chaque rang du chapitre Capacités, du rang 1 au rang 6.
 
-La Motivation nouvellement créée doit être nommée sous la forme d'un verbe, comme Contrôle les Bêtes Sauvages ou Demeure dans la pierre. Par exemple, une Motivation utilisant le feu créée en suivant les directives de la catégorie des Motivations de manipulation d'énergie pourrait être appelé Se Revêt d' un Halo de Feu (l'un des exemples de Motivation de ce chapitre). Alternativement, une nouvelle Motivation utilisant le feu devrait recevoir un tout nouveau nom comme Attiser les flammes de l'Apocalypse ou Allumer les feux avec une pensée.
+Le Focus nouvellement créée doit être nommée sous la forme d'un verbe, comme Contrôle les Bêtes Sauvages ou Demeure dans la pierre. Par exemple, un Focus utilisant le feu créée en suivant les directives de la catégorie des Focus de manipulation d'énergie pourrait être appelé Se Revêt d' un Halo de Feu (l'un des exemples de Focus de ce chapitre). Alternativement, une nouvelle Motivation utilisant le feu devrait recevoir un tout nouveau nom comme Attiser les flammes de l'Apocalypse ou Allumer les feux avec une pensée.
 
-## Catégories de Motivation
+## Catégories de Focus
 
 * Basic
 * Combat défensif
@@ -1905,35 +1905,35 @@ La Motivation nouvellement créée doit être nommée sous la forme d'un verbe, 
 
 Les indications de sélection des capacités vous invitent à choisir une capacité parmi l’une des trois gammes : Rang bas, Rang moyen et Rang élevé. Ces plages correspondent aux « grades » de puissance donnés pour chaque capacité. Ces capacités sont ensuite classées en catégories de capacités en fonction du type de choses qu'ils font : les capacités qui améliorent les attaques physiques sont dans la catégorie des compétences d'attaque, les capacités qui aident les alliés sont dans la catégorie de soutien, et ainsi de suite. Recherchez les notes et les catégories dans la section Catégories de capacités et puissance relative du chapitre Capacités.
 
-Les capacités de rang bas sont mieux adaptées aux options de Motivation aux rangs 1 et 2. Les capacités de rang intermédiaire sont mieux adaptées aux options de Motivation aux rangs 3 et 4. Les capacités de rang élevé sont mieux adaptées aux options de Motivation aux rangs 5 ​​et 6.
+Les capacités de rang bas sont mieux adaptées aux options de Focus aux rangs 1 et 2. Les capacités de rang intermédiaire sont mieux adaptées aux options de Focus aux rangs 3 et 4. Les capacités de rang élevé sont mieux adaptées aux options de Focus aux rangs 5 ​​et 6.
 
-Cela dit, vous trouverez parfois approprié d'attribuer une capacité de bas rang au rang 3 ou 4, ou peut-être une capacité de milieu de gamme au rang 1 ou 2. Faites-le avec parcimonie, mais ne l'excluez pas. C’est peut-être le seul moyen d’obtenir toutes les capacités souhaitées pour la Motivation que vous développez. Les capacités de rang supérieur coûtent généralement plus de points de réserve à utiliser. Ainsi, si une capacité de milieu de gamme est disponible au rang 1 ou 2, ou qu'une capacité de rang supérieur est disponible au rang 3 ou 4, le coût plus élevé sera un facteur d'équilibrage.
+Cela dit, vous trouverez parfois approprié d'attribuer une capacité de bas rang au rang 3 ou 4, ou peut-être une capacité de milieu de gamme au rang 1 ou 2. Faites-le avec parcimonie, mais ne l'excluez pas. C’est peut-être le seul moyen d’obtenir toutes les capacités souhaitées pour le Focus que vous développez. Les capacités de rang supérieur coûtent généralement plus de points de réserve à utiliser. Ainsi, si une capacité de milieu de gamme est disponible au rang 1 ou 2, ou qu'une capacité de rang supérieur est disponible au rang 3 ou 4, le coût plus élevé sera un facteur d'équilibrage.
 
 ### Equilibrer les Capacités
 
-Les indications au sein de chaque catégorie contribuent grandement à garantir que la Motivation que vous développez sera équilibrée. Parfois, il peut être approprié d'accorder une capacité de faible puissance avec une capacité normale à un rang donné, en fonction des besoins du focus. Une "capacité de faible puissance" est délibérément ouverte à l'interprétation du MJ, mais d'une manière générale, elle ne devrait pas être plus puissante qu'une capacité de bas rang (c'est-à-dire une capacité qui est normalement disponible au rang 1 ou 2).
+Les indications au sein de chaque catégorie contribuent grandement à garantir que le Focus que vous développez sera équilibrée. Parfois, il peut être approprié d'accorder une capacité de faible puissance avec une capacité normale à un rang donné, en fonction des besoins du focus. Une "capacité de faible puissance" est délibérément ouverte à l'interprétation du MJ, mais d'une manière générale, elle ne devrait pas être plus puissante qu'une capacité de bas rang (c'est-à-dire une capacité qui est normalement disponible au rang 1 ou 2).
 
 Par exemple, quelqu'un qui utilise le froid pourrait être capable de créer de petites sculptures de neige en plus d'émettre un rayon froid. Quelqu'un qui utilise de l'électricité pourrait être en mesure de recharger un artefact épuisé ou disposer d'un atout pour gérer les systèmes électriques. Et ainsi de suite.
 
-Souvent, les indications de Motivation mentionnent cela comme une possibilité. Cependant, vous disposez d'une grande latitude pour décider si une Motivation nécessite une capacité supplémentaire, même si les indications de ce rang n'en indiquent pas. Si vous ajoutez une capacité, ou s'il existe une capacité de puissance plus élevée dans un rang qui ne devrait normalement pas l'avoir, cela peut signifier que le choix donné au rang suivant, ou au rang précédent, n'est pas aussi bon. Équilibrer une Motivation est un peu un art. Résistez à l’envie de donner trop de puissance à la Motivation, mais ne la sous-estimez pas non plus.
+Souvent, les indications de Focus mentionnent cela comme une possibilité. Cependant, vous disposez d'une grande latitude pour décider si un Focus nécessite une capacité supplémentaire, même si les indications de ce rang n'en indiquent pas. Si vous ajoutez une capacité, ou s'il existe une capacité de puissance plus élevée dans un rang qui ne devrait normalement pas l'avoir, cela peut signifier que le choix donné au rang suivant, ou au rang précédent, n'est pas aussi bon. Équilibrer un Focus est un peu un art. Résistez à l’envie de donner trop de puissance à le Focus, mais ne la sous-estimez pas non plus.
 
 ### Les Indications de Capacité ne sont pas Prescriptives
 
-Chaque catégorie de Motivation fournit une ligne directrice sur le type de capacité que vous devez sélectionner à chaque rang. Mais ne considérez pas les indications comme quelque chose que vous ne pouvez pas modifier. Elles ne sont pas prescriptives; elles ne sont qu'un point de départ. Vous souhaiterez peut-être varier le type de capacité d'un rang particulier qui n'est pas indiqué dans les indications. Tant que la capacité choisie se situe dans la courbe de puissance attendue pour ce Rang, tout va bien. L'indication' n’est pas censée être une camisole de force.
+Chaque catégorie de Focus fournit une ligne directrice sur le type de capacité que vous devez sélectionner à chaque rang. Mais ne considérez pas les indications comme quelque chose que vous ne pouvez pas modifier. Elles ne sont pas prescriptives; elles ne sont qu'un point de départ. Vous souhaiterez peut-être varier le type de capacité d'un rang particulier qui n'est pas indiqué dans les indications. Tant que la capacité choisie se situe dans la courbe de puissance attendue pour ce Rang, tout va bien. L'indication' n’est pas censée être une camisole de force.
 
-Par exemple, si vous construisez une Motivation d'utilisation du froid pour un jeu se déroulant dans un genre fantastique, vous pouvez décider qu'une capacité qui invoque un démon est un meilleur choix à un rang particulier qu'une capacité qui inflige des dégâts dans une zone, ce que demande l'indication Rang 5 pour la manipulation de l'énergie. Faire le changement est probablement particulièrement valable si vous appelez votre nouveau focus quelque chose comme Cannalise le Neuvième Cercle.
+Par exemple, si vous construisez un Focus d'utilisation du froid pour un jeu se déroulant dans un genre fantastique, vous pouvez décider qu'une capacité qui invoque un démon est un meilleur choix à un rang particulier qu'une capacité qui inflige des dégâts dans une zone, ce que demande l'indication Rang 5 pour la manipulation de l'énergie. Faire le changement est probablement particulièrement valable si vous appelez votre nouveau focus quelque chose comme Cannalise le Neuvième Cercle.
 
 ### Echange de Capacité
 
-Si vous créez une Motivation et que vous pensez qu'elle devrait fournir une suite de capacités au premier rang qui la surchargeraient mécaniquement, vous avez la possibilité d'en ajouter une en tant que capacité « d'échange ». Pour ce faire, il suffit de permettre à un personnage d'échanger l'une de ses capacités de type contre une capacité de Motivation de moindre rang. La capacité est acquise à la place d'une des capacités normalement accordées par le type du personnage.
+Si vous créez un Focus et que vous pensez qu'elle devrait fournir une suite de capacités au premier rang qui la surchargeraient mécaniquement, vous avez la possibilité d'en ajouter une en tant que capacité « d'échange ». Pour ce faire, il suffit de permettre à un personnage d'échanger l'une de ses capacités de type contre une capacité de Focus de moindre rang. La capacité est acquise à la place d'une des capacités normalement accordées par le type du personnage.
 
 ### Concept et Categorie
 
-Choisir de créer une Motivation qui utilise un concept particulier --- par exemple, créer des illusions --- ne vous oblige pas à créer une Motivation dans une catégorie particulière --- dans ce cas, la manipulation de l'environnement. Une Motivation peut être construite de différentes manières en utilisant une énergie, un outil ou un concept particulier, chacun conduisant finalement à une Motivation qui fournit des résultats différents. Tout dépend de vos objectifs. Dans ce cas, la création d’illusions pourrait être utilisée pour influencer les autres, ce qui plaide en faveur d’une Motivation basée sur les indications de la catégorie d’influence.
+Choisir de créer un Focus qui utilise un concept particulier --- par exemple, créer des illusions --- ne vous oblige pas à créer un Focus dans une catégorie particulière --- dans ce cas, la manipulation de l'environnement. Un Focus peut être construite de différentes manières en utilisant une énergie, un outil ou un concept particulier, chacun conduisant finalement à un Focus qui fournit des résultats différents. Tout dépend de vos objectifs. Dans ce cas, la création d’illusions pourrait être utilisée pour influencer les autres, ce qui plaide en faveur d’un Focus basée sur les indications de la catégorie d’influence.
 
-De la même manière, si une Motivation accorde à un personnage la possibilité d'invoquer une sorte de force ou d'énergie, cela ne signifie pas que le Motivation doit automatiquement être construite en utilisant les indications de la catégorie de manipulation d'énergie (même si bien sûr cela serait possible si attaquer et vous protéger avec cette énergie est le but). Mais une Motivation pourrait être construite pour accorder des capacités de création d'énergie ou de force principalement axées sur la résistance, cela suggère une orientation vers le combat défensif (quelqu'un qui peut encaisser beaucoup de dégats dans un combat) ; ou des capacités se concentrant sur tirer avec le souci principal de maximiser les dégâts, suggérant ainsi une Motivation de catégorie combat offensif ; ou alors vous créez un suivant composé de cette énergie ou force, suggérant ainsi une Motivation de catégorie Utilisation d'Alliés (c'est-à-dire quelqu'un qui utilise des créatures aidantes, des PNJ, ou même qui duplique des versions d'eux-mêmes pour vous donner un coup de pouce).
+De la même manière, si un Focus accorde à un personnage la possibilité d'invoquer une sorte de force ou d'énergie, cela ne signifie pas que le Motivation doit automatiquement être construite en utilisant les indications de la catégorie de manipulation d'énergie (même si bien sûr cela serait possible si attaquer et vous protéger avec cette énergie est le but). Mais un Focus pourrait être construite pour accorder des capacités de création d'énergie ou de force principalement axées sur la résistance, cela suggère une orientation vers le combat défensif (quelqu'un qui peut encaisser beaucoup de dégats dans un combat) ; ou des capacités se concentrant sur tirer avec le souci principal de maximiser les dégâts, suggérant ainsi un Focus de catégorie combat offensif ; ou alors vous créez un suivant composé de cette énergie ou force, suggérant ainsi un Focus de catégorie Utilisation d'Alliés (c'est-à-dire quelqu'un qui utilise des créatures aidantes, des PNJ, ou même qui duplique des versions d'eux-mêmes pour vous donner un coup de pouce).
 
-Voici un autre exemple : la Motivaton Contrôle la Gravité pourrait éventuellement être une Motivation de catégorie manipulation de l'environnement ou de catégorie manipulation d'énergie. Cela dépend si l'accent est davantage mis sur l'écrasement et le maintien des objets en place (manipulation de l'environnement) ou sur le fait de faire exploser des objets et de se protéger grâce à la gravité (manipulation d'énergie).
+Voici un autre exemple : la Motivaton Contrôle la Gravité pourrait éventuellement être un Focus de catégorie manipulation de l'environnement ou de catégorie manipulation d'énergie. Cela dépend si l'accent est davantage mis sur l'écrasement et le maintien des objets en place (manipulation de l'environnement) ou sur le fait de faire exploser des objets et de se protéger grâce à la gravité (manipulation d'énergie).
 
 La même souplesse du concept s’applique à d’autres domaines. Par exemple, si quelqu'un est capable d'invoquer et de modeler de la terre brute, il peut l'utiliser pour se transformer en un être de pierre (combat défensif), pour battre des ennemis (combat offensif), ou pour créer des murs, des barricades et des boucliers pour protéger leurs alliés (soutien).
 
@@ -1953,27 +1953,27 @@ Une bonne règle approximative est qu'une capacité typique devrait coûter auta
 
 ## Choisir des intrusions de MJ
 
-Pensez aux genres de choses qui pourraient surprendre, alarmer, ou tourner à la catastrophe pour quelqu'un avec la Motivation qui vient d'être créée, et assignez les en tant qu'intrusion de MJ pour cette Motivation. En général c'est souvent fait de manière improvisée en cours de partie. Mais en leur accordant un peu de réflexion pendant l'élaboration de la Motivation, quand les idées sont toutes fraîches dans votre tête, cela a de bonnes chances de fournir des options diaboliques.
+Pensez aux genres de choses qui pourraient surprendre, alarmer, ou tourner à la catastrophe pour quelqu'un avec le Focus qui vient d'être créée, et assignez les en tant qu'intrusion de MJ pour cette Motivation. En général c'est souvent fait de manière improvisée en cours de partie. Mais en leur accordant un peu de réflexion pendant l'élaboration de le Focus, quand les idées sont toutes fraîches dans votre tête, cela a de bonnes chances de fournir des options diaboliques.
 
-## Catégories de Motivation
+## Catégories de Focus
 
 -----
 
 ### Basic
 
-Les Motivations qui reposent principalement sur la fourniture d'un entrainement à des compétences, d'atouts pour les tâches et d'améliorations des Réserves de statistiques et des Avantages afin d'améliorer un personnage entrent dans la catégorie Basic. Un thème général est également inclus, comme pour la plupart des autres catégories, qui donne un sens aux différentes capacités de base fournies.
+Les Focus qui reposent principalement sur la fourniture d'un entrainement à des compétences, d'atouts pour les tâches et d'améliorations des Réserves de statistiques et des Avantages afin d'améliorer un personnage entrent dans la catégorie Basic. Un thème général est également inclus, comme pour la plupart des autres catégories, qui donne un sens aux différentes capacités de base fournies.
 
-De plus, comme les avantages apportés par de telles Motivationts sont pour la plupart simples (généralement à quelques exceptions près), la plupart des Motivations Basic seraient également appropriés pour des campagnes non fantastiques où la magie, la superscience ou les capacités psychiques n'entrent normalement pas en jeu. Cela dit, ce n'est pas parce que les capacités accordées par les Motivations Basic sont simples qu'elles ne sont pas puissantes lorsqu'elles sont combinées avec les capacités accordées par le type, le descripteur, les cyphers et d'autres aspects du personnage.
+De plus, comme les avantages apportés par de telles Motivationts sont pour la plupart simples (généralement à quelques exceptions près), la plupart des Focus Basic seraient également appropriés pour des campagnes non fantastiques où la magie, la superscience ou les capacités psychiques n'entrent normalement pas en jeu. Cela dit, ce n'est pas parce que les capacités accordées par les Focus Basic sont simples qu'elles ne sont pas puissantes lorsqu'elles sont combinées avec les capacités accordées par le type, le descripteur, les cyphers et d'autres aspects du personnage.
 
-**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Focus.
 
-**Equipement Supplémentaire:** N'importe quel objet nécessaire pour accomplir le thème général de la Motivation. Par exemple, une Motivation appelée Préfèrerait Lire devrait fournir quelques livres au personnage. Une Motivation appélée Construit et Répar" devrait fournir un ensemble d'outils.
+**Equipement Supplémentaire:** N'importe quel objet nécessaire pour accomplir le thème général de le Focus. Par exemple, un Focus appelée Préfèrerait Lire devrait fournir quelques livres au personnage. Un Focus appélée Construit et Répar" devrait fournir un ensemble d'outils.
 
 **Suggestions d'Effet Mineur:** La prochaine action est facilité.
 
 **Suggestions d'Effet Majeur:** Faites un jet de Récupération gratuit, qui ne prend pas une action et qui ne compte pas dans le total des jets de récupération de la journée.
 
-La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Focus possibles pour cette catégorie.
 
 * Ne Fait pas Grand Chose
 * Interprète la Loi
@@ -1983,18 +1983,18 @@ La liste ci-après ne sont que des exemples et n'est pas une liste complète de 
 
 **Indications pour la Sélection de Capacités**
 
-**Rang 1:** Choisissez une Capacité qui donne un entrainement ou un atout aux compétences associées au thème de la Motivation, ou qui donne 5 ou 6 points à une Réserve particulière.
+**Rang 1:** Choisissez une Capacité qui donne un entrainement ou un atout aux compétences associées au thème de le Focus, ou qui donne 5 ou 6 points à une Réserve particulière.
 Autrement, choisissez une Capacité qui donne seulement 2 ou 3 points à une Réserve spécifique et une Capacité qui donne un entrainement ou un atout dans seulement une tâche.
 
 **Rang 2:** Choisissez n'importe quelle sorte de Capacité qui n'a pas été sélectionnée au rang 1.
 
-**Rang 3:** Choisissez deux Capacités de rang intermédiare. Donnez-les toutes deux en tant qu'options pour la Motivation; un PJ choisira l'une ou l'autre.
-Une option pourrait être une Capacité non-fantastique qui améliore les capacités du personnage dans le thème de la Motivation. Par exemple, si le thème implique de faire attention d'une certaine manière, une capacité de récupération d'information serait appropriée.
+**Rang 3:** Choisissez deux Capacités de rang intermédiare. Donnez-les toutes deux en tant qu'options pour le Focus; un PJ choisira l'une ou l'autre.
+Une option pourrait être une Capacité non-fantastique qui améliore les capacités du personnage dans le thème de le Focus. Par exemple, si le thème implique de faire attention d'une certaine manière, une capacité de récupération d'information serait appropriée.
 
 L'autre option peut être de, soit améliorer l'Avantage du personnage dans une statistique, soit fournir au personnage une forme de défence.
 
-**Rang 4:** Choisissez une autre Capacité qui donne un entrainement supplémentaire ou un atout à des compétences associées avec le thème de la Motivation, ou qui donne 5 ou 6 points à la Réserve la plus appropriée pour la Motivation, ou choisissez deux Capacités qui fournissent seulement 2 ou 3 points en plus d'une autre capacité de rang 4 qui améliore une seule tâche ou compétence.
-Une alternative peut être de fournir une Capacité qui dévie un peu du thème de la Motivation, comme suggéré au rang 5 ci-après.
+**Rang 4:** Choisissez une autre Capacité qui donne un entrainement supplémentaire ou un atout à des compétences associées avec le thème de le Focus, ou qui donne 5 ou 6 points à la Réserve la plus appropriée pour le Focus, ou choisissez deux Capacités qui fournissent seulement 2 ou 3 points en plus d'une autre capacité de rang 4 qui améliore une seule tâche ou compétence.
+Une alternative peut être de fournir une Capacité qui dévie un peu du thème de le Focus, comme suggéré au rang 5 ci-après.
 
 Au final, si la motivation n'a pas encore fournie une forme de protection, une Capacité défensive peut être inscrite au rang 4.
 
@@ -2002,8 +2002,8 @@ Au final, si la motivation n'a pas encore fournie une forme de protection, une C
 
 Ou alors, si un bénéfice non-standard a été fourni au rang4, accordez les bénéfices suggérés au rang 4 ici.
 
-**Rang 6:** choisissez deux Capacités de rang supérieur. Donnez les en tant qu'options pour la Motivation; un PJ choisira l'une ou l'autre.
-Une option peut être une Capacité qui donné à nouveau 5 ou 6 points  à la Réserve la plus appropriée pour la Motivation, ou bien que le joueur peut répartir comme il le souhaite. Ou alors, un entraînement dans une compétence offensive, ou bien défensive, conviendrait.
+**Rang 6:** choisissez deux Capacités de rang supérieur. Donnez les en tant qu'options pour le Focus; un PJ choisira l'une ou l'autre.
+Une option peut être une Capacité qui donné à nouveau 5 ou 6 points  à la Réserve la plus appropriée pour le Focus, ou bien que le joueur peut répartir comme il le souhaite. Ou alors, un entraînement dans une compétence offensive, ou bien défensive, conviendrait.
 
 L'autre option du rang 6 peut être de donner au personnage une Capacité toute nouvelle dans le thème, mais par contre, en-dehors du champs du fantastique. Par exemple, une Capacité qiu permet au personnage de faire deux actions au lieu d'une seule est raisonable. Donner un nouvel entrainement , un nouvel atout ou un Avantage fera l'affaire.
 
@@ -2011,11 +2011,11 @@ L'autre option du rang 6 peut être de donner au personnage une Capacité toute 
 
 ### Exploration
 
-Les Motivations qui permettent à un personnage de récupérer des informations, de survivre dans des environnements non-familiers, et de trouver leur chemin vers de nouveaux emplacements ou de traquer des créatures particulières ou des adversaires, sont des Motivations d'exploration. Survivre dans des environnements non-familiers requiert une sélection raisonnable d'options défensives; toutefois, les Capacités qui permettent à un personnage de trouver et d'apprendre sont à donenr en priorité.
+Les Focus qui permettent à un personnage de récupérer des informations, de survivre dans des environnements non-familiers, et de trouver leur chemin vers de nouveaux emplacements ou de traquer des créatures particulières ou des adversaires, sont des Focus d'exploration. Survivre dans des environnements non-familiers requiert une sélection raisonnable d'options défensives; toutefois, les Capacités qui permettent à un personnage de trouver et d'apprendre sont à donenr en priorité.
 
-Les Motivations d'exploration sont basées sur une variété de méthodes, bien que les piliers sont l'entrainement et l'expertise. Certaines méthodes requierent des outils spécifiques (comme unvéhicule) pour accorder les bénéfices fournis, tandis que d'autres pourraient se baser sur le supernaturel ou la superscience  pour apprendre de nouvelles choses et explorer de nouveaux endroits étranges et lointains.
+Les Focus d'exploration sont basées sur une variété de méthodes, bien que les piliers sont l'entrainement et l'expertise. Certaines méthodes requierent des outils spécifiques (comme unvéhicule) pour accorder les bénéfices fournis, tandis que d'autres pourraient se baser sur le supernaturel ou la superscience  pour apprendre de nouvelles choses et explorer de nouveaux endroits étranges et lointains.
 
-**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Focus.
 
 **Equipement Supplémentaire:** Tout objet nécessaire à l'exploration. Par exemple, des cartes et/ou un compas pourraient faire partie du matériel de base, tandis qu'un personnage qui utilise des pouvoirs psychiques pourrait avoir besoin d'un miroir ou d'une sphère de cristal pour regarder dedans. L'équipement pourrait aussi inclure l'accès à un véhicule nécessaire pour l'exploration.
 
@@ -2023,7 +2023,7 @@ Les Motivations d'exploration sont basées sur une variété de méthodes, bien 
 
 **Suggestions d'Effet Majeur:** Votre Avantage d'Intelligence augmente de 1 jusqu'à la fun du prochain round.
 
-La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Focus possibles pour cette catégorie.
 
 * Explore des Endroits Sombres
 * Infiltrates
@@ -2034,41 +2034,41 @@ La liste ci-après ne sont que des exemples et n'est pas une liste complète de 
 
 **Indications pour la Sélection de Capacités**
 
-**Rang 1:** Choisissez une Capacité de rang inférieur qui permet au personnage des moyens pour de l'exploration de base, de la survie ou pour de la récupération d'information, dnas le thème de la Motivation.
-Quelque fois, en fonction de la Motivation, une Capacité de rang inférieur supplémenaire est appropriée. Souvent, c'est une Capacité qui donne un entrainement dans une compétence dans un type de connaissance associée ou une compétence associée (bien que cela puisse être couvert par la Capacité principale). D'une autre manière, elle pourrait donner un simple bonus de 2 ou 3 points à la Réserve de Puissance.
+**Rang 1:** Choisissez une Capacité de rang inférieur qui permet au personnage des moyens pour de l'exploration de base, de la survie ou pour de la récupération d'information, dnas le thème de le Focus.
+Quelque fois, en fonction de le Focus, une Capacité de rang inférieur supplémenaire est appropriée. Souvent, c'est une Capacité qui donne un entrainement dans une compétence dans un type de connaissance associée ou une compétence associée (bien que cela puisse être couvert par la Capacité principale). D'une autre manière, elle pourrait donner un simple bonus de 2 ou 3 points à la Réserve de Puissance.
 
 **Rang 2:** Choisissez une autre Capacité de rang inférieur qui donne un moyen supplémentaire lié à l'exploration, la survie ou la récupértion d'information.
-Par exemple, une Motivation  dédiée à survivre dans des conditions sauvages pourrait donner une Capacité (ou deux) qui rend plus facile à éviter les catastrophes naturelles, les poisons, les terrains difficiles, et ainsi de suite. Une Motivation dédiée à l'exploration d'un endroit en particulier pourrait donner des moyens pour avoir accès à cet endroit, ou un moyen que les autres n'ont pas habituellement (comme un moyen de voir dans le noir).
+Par exemple, un Focus  dédiée à survivre dans des conditions sauvages pourrait donner une Capacité (ou deux) qui rend plus facile à éviter les catastrophes naturelles, les poisons, les terrains difficiles, et ainsi de suite. Un Focus dédiée à l'exploration d'un endroit en particulier pourrait donner des moyens pour avoir accès à cet endroit, ou un moyen que les autres n'ont pas habituellement (comme un moyen de voir dans le noir).
 
-**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour le Focus; le PJ choisira l'un ou l'autre.
 Une des options devrait améliorer un peu plus le moyen d'exploration de base déjà acquis, ou alors qui devrait donner un nouveau moyen d'exploration, de survie ou de récupération d'information.
-L'autre option devrait être quelque chose qui bénéficie au personnage, soit de manière offensive, soit de manière défensive (en particulier si la Motivation ne l'a pas déjà accordée) ou quelque chose qui étend un peu plus le moyen pour le personnage pour explorer dans le thème de la Motivation.
+L'autre option devrait être quelque chose qui bénéficie au personnage, soit de manière offensive, soit de manière défensive (en particulier si le Focus ne l'a pas déjà accordée) ou quelque chose qui étend un peu plus le moyen pour le personnage pour explorer dans le thème de le Focus.
 
 **Rang 4:** Choisissez une capacité de rang intermédiaire offensive ou défensive (quoique ce soit qui n'ait pas été proposé au rang 3) qui bénéficie au personnage. Ou alors, si les moyens offensifs et défensif sont déjà bien representésn choisissez une Capacité de rang intermédiaire différente qui étend la capacité du personnagé à explorer, survivre ou récupérer des informations.
 
 **Rang 5:** Choisissez une capacité de rang supérieur qui atténue certaines pénalités pour l'exploration, la survie ou la récupération d'information dans un endroit normalement inhospitaliers.
 
-**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
+**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour le Focus; un PJ choisira l'un ou l'autre.
 Une des options devrait améliorer encore plus le moyen d'exploration de base déjà accordé, ou elle devrait donner un tout nouveau moyen d'exploration, de survie ou de récupération d'information.
-L'autre option devrait être quelque chose qui bénéficie au personnage, soit de manière offensive, soit de manière défensive, ou encore un tout moyen qui étend encore plus sa possibilité d'explorer dans le thème de la Motivation.
+L'autre option devrait être quelque chose qui bénéficie au personnage, soit de manière offensive, soit de manière défensive, ou encore un tout moyen qui étend encore plus sa possibilité d'explorer dans le thème de le Focus.
 
 -----
 
 ### Influence
 
-Une Motivation qui donne la priorité sur l'autorité et l'influence (que ce soit pour commander des personnes ou des machines), pour aider les autres, ou pour atteindre un autre position prestigieuse et importante, est une Motivation d'Influence.
+Un Focus qui donne la priorité sur l'autorité et l'influence (que ce soit pour commander des personnes ou des machines), pour aider les autres, ou pour atteindre un autre position prestigieuse et importante, est un Focus d'Influence.
 
-Ces Motivations donne de l'influence au travers de l'entrainement et la persuasion, par une manipulation mentale directe, par l'utilisation de la célébrité pour attirer l'attention des personnes et influencer leurs actions, ou simplement en connaissant et en apprennant des choses pour peut affecter les décisions utltérieures. Ainsi le concept d'influence est assez large.
+Ces Focus donne de l'influence au travers de l'entrainement et la persuasion, par une manipulation mentale directe, par l'utilisation de la célébrité pour attirer l'attention des personnes et influencer leurs actions, ou simplement en connaissant et en apprennant des choses pour peut affecter les décisions utltérieures. Ainsi le concept d'influence est assez large.
 
-**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Focus.
 
-**Equipement Supplémentaire:** Toute objet nécessaire pour permettre l'influence suggérée devrait être accordé en tant qu'équipement suppllémentaire. Certaines Motivations d'influence ne nécessite rien de spécial pour obtenir ou conserver leurs bénéfices.
+**Equipement Supplémentaire:** Toute objet nécessaire pour permettre l'influence suggérée devrait être accordé en tant qu'équipement suppllémentaire. Certaines Focus d'influence ne nécessite rien de spécial pour obtenir ou conserver leurs bénéfices.
 
 **Suggestions d'Effet Mineur:** La portée ou la durée de la Capacité d'influence est doublée.
 
 **Suggestions d'Effet Majeur:** Un allié ou une cible indirecte peut effectuer une action supplémentaire.
 
-La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Focus possibles pour cette catégorie.
 
 * Commande aux pouvoirs Mentaux
 * Contourne le Système
@@ -2080,42 +2080,42 @@ La liste ci-après ne sont que des exemples et n'est pas une liste complète de 
 
 **Indications pour la Sélection de Capacités**
 
-**Rang 1:** Choississez une Capacité de rang inférieur qui permet au personnage d'apprendre quelque chose assez significatif pour qu'il puisse choisir une meilleure suite d'actions (ou d'utiliser cette connaissance pour persuader ou intimider). Comment le personnage apprend l'information varie selon les spécificités de la Motivation. Un personnage pourrait avoir besoin de faire des expériences pour obtenir des réponses, un autre pourrait ouvrir un lien télépathique avec d'autres pour échanger de l'information secrètement et rapidement, tandis qu'un autre pourrait simplement avoir été formé dans les tâches d'intéractions.
-Quelque fois une Capacité supplémentaire de rang inférieur peut être appropriée en fonction de la Motivation. Souvent c'est une Capacité qui donne un entrainement dans une compétence dans un champs de connaissance.
+**Rang 1:** Choississez une Capacité de rang inférieur qui permet au personnage d'apprendre quelque chose assez significatif pour qu'il puisse choisir une meilleure suite d'actions (ou d'utiliser cette connaissance pour persuader ou intimider). Comment le personnage apprend l'information varie selon les spécificités de le Focus. Un personnage pourrait avoir besoin de faire des expériences pour obtenir des réponses, un autre pourrait ouvrir un lien télépathique avec d'autres pour échanger de l'information secrètement et rapidement, tandis qu'un autre pourrait simplement avoir été formé dans les tâches d'intéractions.
+Quelque fois une Capacité supplémentaire de rang inférieur peut être appropriée en fonction de le Focus. Souvent c'est une Capacité qui donne un entrainement dans une compétence dans un champs de connaissance.
 
-**Rang 2:** Choississez une Capacité de rang inférieur qui améliore le moyen par lequel le personnage peut exercer son influence. Cela pourrait ouvrir de nouvelles possibilités pour le thème de la Motivation, ou bien simplement augmenter le moyen de base déjà fourni. Par exemple, cette Capacité de rang 2 peut faciliter un peu plus les tâches liées à l'influence, comme en autorisant un télépathe à lire l'esprit de personnes qui ont des secrets qu'ils ne dévoileraient pas autrement, ou en donnant de l'influence sur des objets physiques (soit en les améliorant, soit en en apprennant plussur eux).
+**Rang 2:** Choississez une Capacité de rang inférieur qui améliore le moyen par lequel le personnage peut exercer son influence. Cela pourrait ouvrir de nouvelles possibilités pour le thème de le Focus, ou bien simplement augmenter le moyen de base déjà fourni. Par exemple, cette Capacité de rang 2 peut faciliter un peu plus les tâches liées à l'influence, comme en autorisant un télépathe à lire l'esprit de personnes qui ont des secrets qu'ils ne dévoileraient pas autrement, ou en donnant de l'influence sur des objets physiques (soit en les améliorant, soit en en apprennant plussur eux).
 
-**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
-Une des options devrait fournir un moyen offensif ou défensif dans le cadre spécifique deu type d'influence de la Motivation. Par exemple, un inventeur peut créer un sérum qui lui donne une capacité améliorée (qui pourrait être utilisée pour l'ataque ou la défense), un télépathe peut avoir une méthode pour blesser des adversaires ave de l'énergié mentale, et une personne avec seulement les compétences de base dans les débats et l'influence au travers de la célébrité pourrait avoir besoin d'entrainement aux armes ou bien de son entourage.
-L'autre option de rang intermédiaire devrait fournir une Capacité supplémentaire pour influencer, toujours dans le thème de la Motivation, ou améliorer un peu plus la Capacité de base d'influence déjà choisie. Cette option n'est pas directement offensive ou défensice, mais fournit soit une toute nouvelle Capacité liée à la Capacité de base, ou améliore la force, la portée ou débloque une extension de la Capacité déjà retenue. Par exemple, un Télépaths pourrait avoir une Capacité de suggestion psychique.
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour le Focus; le PJ choisira l'un ou l'autre.
+Une des options devrait fournir un moyen offensif ou défensif dans le cadre spécifique deu type d'influence de le Focus. Par exemple, un inventeur peut créer un sérum qui lui donne une capacité améliorée (qui pourrait être utilisée pour l'ataque ou la défense), un télépathe peut avoir une méthode pour blesser des adversaires ave de l'énergié mentale, et une personne avec seulement les compétences de base dans les débats et l'influence au travers de la célébrité pourrait avoir besoin d'entrainement aux armes ou bien de son entourage.
+L'autre option de rang intermédiaire devrait fournir une Capacité supplémentaire pour influencer, toujours dans le thème de le Focus, ou améliorer un peu plus la Capacité de base d'influence déjà choisie. Cette option n'est pas directement offensive ou défensice, mais fournit soit une toute nouvelle Capacité liée à la Capacité de base, ou améliore la force, la portée ou débloque une extension de la Capacité déjà retenue. Par exemple, un Télépaths pourrait avoir une Capacité de suggestion psychique.
 
 **Rang 4:** Choisissez une capacité de rang intermédiaire qui est une utilisation, soit offensive soit défensive, de la Capacité d'influence, en tout cas une qui n'ait pas été séletionnée au rang précédent.
-Ou alors, cette Capacité peut permettre un nouveau moyen lié au genre d'influence donné par la Motivation.
+Ou alors, cette Capacité peut permettre un nouveau moyen lié au genre d'influence donné par le Focus.
 
 **Rang 5:** Choisissez une avant-dernière Capacité de rang supérieur qui utilise la Capacité d'influence spécifique donnée aux rangs inférieurs.
-Ou alors, choisissez une Capacité qui n'a pas été sélectionnée à un rang précédent, qui ouvre une nouvelle possibilité de moyen d'influence. Par exemple, si l'influence sur laquelle se base la Motivation est télépathique, la Capacité de rang 5 pourrait autoriser le personnage à voir dans le future pour obtenir des atouts pour s'occuper des adverversaires (et des alliés).
+Ou alors, choisissez une Capacité qui n'a pas été sélectionnée à un rang précédent, qui ouvre une nouvelle possibilité de moyen d'influence. Par exemple, si l'influence sur laquelle se base le Focus est télépathique, la Capacité de rang 5 pourrait autoriser le personnage à voir dans le future pour obtenir des atouts pour s'occuper des adverversaires (et des alliés).
 
-**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
+**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour le Focus; un PJ choisira l'un ou l'autre.
 Une des options devrait fournir un moyen soit offensif, soit défensif, à l'opposé du moyen fourni au rang 4 (bien que ce soit de rang supérieur au lieu de rang intermédiaire).
-L'autre option devrait être quelquechose qui explore un peut plus l'usage de l'influence de base permise par la Motivation. Si le choix du rang 5 était offensif ou défensif, cela pourrait être une Capacité encore meilleure liée au genre d'influence exercé, ou une manière différente d'utiliser cette Capacité pour débloquer une facette encore incore inconnue de la Capacité.
+L'autre option devrait être quelquechose qui explore un peut plus l'usage de l'influence de base permise par le Focus. Si le choix du rang 5 était offensif ou défensif, cela pourrait être une Capacité encore meilleure liée au genre d'influence exercé, ou une manière différente d'utiliser cette Capacité pour débloquer une facette encore incore inconnue de la Capacité.
 
 -----
 
 ### Manipulation d'énergie
 
-Une Motivation de Manipulation d'énergie offre des Capacités pour invoquer le feu, l'électricité, la force, le magnétisme ou des formes d'énergies non-standard comme le froid, la pierre, ou quelque chose d'étrange comme le vide ou l'ombre. Ces Capacités donne dh'abitude au personnage une maière d'atteindre quelque chose comme un équilibre entre l'attaque et se donner à eux-mêmes ou à ses alliés une protection supplémentaire. La Motivation donne aussi habituellement des Capacités qui permettent d'autres façon d'utiliser une énergie spécifique pour des choses comme le transport, créer une grande concentration d'énergie qui affecte plusieurs cibles, ou créer un objet temporairement ou une barrière d'énergie.
+Un Focus de Manipulation d'énergie offre des Capacités pour invoquer le feu, l'électricité, la force, le magnétisme ou des formes d'énergies non-standard comme le froid, la pierre, ou quelque chose d'étrange comme le vide ou l'ombre. Ces Capacités donne dh'abitude au personnage une maière d'atteindre quelque chose comme un équilibre entre l'attaque et se donner à eux-mêmes ou à ses alliés une protection supplémentaire. Le Focus donne aussi habituellement des Capacités qui permettent d'autres façon d'utiliser une énergie spécifique pour des choses comme le transport, créer une grande concentration d'énergie qui affecte plusieurs cibles, ou créer un objet temporairement ou une barrière d'énergie.
 
-**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Focus.
 
-**Equipement Supplémentaire:** Une ou plusieurs pièces d'équipement immunisées contre l'énergie manipulée, cela peut être un ensemble de vêtements. Ou alors, quelque chose qui est lié à l'énergie générée. Certaines Motivations dans cette catégorie ne requiert pas d'équipement supplémentaire.
+**Equipement Supplémentaire:** Une ou plusieurs pièces d'équipement immunisées contre l'énergie manipulée, cela peut être un ensemble de vêtements. Ou alors, quelque chose qui est lié à l'énergie générée. Certaines Focus dans cette catégorie ne requiert pas d'équipement supplémentaire.
 
-**Capacités énergétiques:** Si le Type de pesonnage fournit des Capacités spéciales qui normalement utilisent une autre forme d'énergie, ces capacités produisent alors la sorte d'énergie de la Motivation. Par exemple, si un personnage utilise cette Motivation pour manipuler l'électricité, les éclairs de force deviennent des éclairs d'électricité. Ces altérations ne changent rien à part le type de dommage et tout effet secondaire (par exemple, l'électricité peut provoquer des courts-circuits dans les systèmes électroniques).
+**Capacités énergétiques:** Si le Type de pesonnage fournit des Capacités spéciales qui normalement utilisent une autre forme d'énergie, ces capacités produisent alors la sorte d'énergie de le Focus. Par exemple, si un personnage utilise cette Motivation pour manipuler l'électricité, les éclairs de force deviennent des éclairs d'électricité. Ces altérations ne changent rien à part le type de dommage et tout effet secondaire (par exemple, l'électricité peut provoquer des courts-circuits dans les systèmes électroniques).
 
 **Suggestions d'Effet Mineur:** La cible ou quelque chose près de la cible est désavantagée à cause de l'énergie résiduelle.
 
 **Suggestions d'Effet Majeur:** Un objet important porté par la cible est détruit.
 
-La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Focus possibles pour cette catégorie.
 
 * Absorbe l'Energie
 * Façonne la Foudre
@@ -2127,11 +2127,11 @@ La liste ci-après ne sont que des exemples et n'est pas une liste complète de 
 **Indications pour la Sélection de Capacités**
 
 **Rang 1:** Choisissez une Capacité de rang inférieur qui soit inflige des dommages, soit fournit une protection, par l'utilisation de l'énergie d'une manière ou d'une autre.
-Quelque fois, une capacité supplémentaire de moindre puissance est appropriée en fonction du type d'énergie. Par exemple, une Motivation qui contrôle le froid peut accorder une Capacité pour créer des sculptures de neige. Une Motivation qui contrôle l'électricité pour fournir une Capacité pour charger un artifact épuisé, ou avoir un atout pour manipuler des systèmes électriques. Une Motivation qui absorbe l'énergie peut donner une Capacité pour la libérer en tant qu'attaque de base. Et ainsi de suite.
+Quelque fois, une capacité supplémentaire de moindre puissance est appropriée en fonction du type d'énergie. Par exemple, un Focus qui contrôle le froid peut accorder une Capacité pour créer des sculptures de neige. Un Focus qui contrôle l'électricité pour fournir une Capacité pour charger un artifact épuisé, ou avoir un atout pour manipuler des systèmes électriques. Un Focus qui absorbe l'énergie peut donner une Capacité pour la libérer en tant qu'attaque de base. Et ainsi de suite.
 
 **Rang 2:** Choisissez n'importe quel sorte de Capacité qui n'a pa sété choisie au rang 1.
 
-**Rang 3:** Choisissez desu Capacités de rang intermédiaire. Proposez les en tant qu'options pour la Motivation. Le PJ choisira l'une ou l'autre.
+**Rang 3:** Choisissez desu Capacités de rang intermédiaire. Proposez les en tant qu'options pour le Focus. Le PJ choisira l'une ou l'autre.
 Une option peut être une Capacité qui inflige des dommages par l'utilisation du type d'énergie sélectionnée (avec peut-être un effet secondaire).
 
 L'autre option peut accorder, par l'utilisation du type d'énergie, un mouvement amélioré, une protection supplémentaire, ou quelque chose de complètement nouveau, comme de drainer l'énergie d'une machine (si elle utilise de l'électricité), d'enfermer une victime dans des couches de glace (si elle utilise le froid), de créer un silence parfait (si elle utilise le son), de créer un flash de lumière éblouissant (si elle utilise de la lumière), etc.
@@ -2140,7 +2140,7 @@ L'autre option peut accorder, par l'utilisation du type d'énergie, un mouvement
 
 **Rang 5:** Choisissez une Capacité de rang supérieur (avec si possible un effet secondaire) qui affecte plus d'une cible en utilisant l'énergie sélectionnée, ou une Capacité qui utilise l'énergie d'une façon qui n'a pas été précédement décrite, comme indiqué aux rangs 3 et 6.
 
-**Rang 6:** Choisissez deux Capacités de rang supérieur. Proposez les en tant qu'options pour la Motivation; Le PJ choisira l'une ou l'autre.
+**Rang 6:** Choisissez deux Capacités de rang supérieur. Proposez les en tant qu'options pour le Focus; Le PJ choisira l'une ou l'autre.
 Une de ces Capacités de rang supérieur devrait utiliser l'énergie choisie pour infliger beaucoup de dommages à une ou plusieurs cibles.
 
 L'autre option devrait utiliser l'énergie sélectionnée pour accomplir une tâche qui n'est pas proposée par une capacité de rang inférieur. Par exemple, façonner un suivant enflammé (si c'est le feu), se téléporter sur une grande distance en tant qu'éclair (si c'est l'électricité), créer un objet solide à partir de lénergie, etc.
@@ -2149,21 +2149,21 @@ L'autre option devrait utiliser l'énergie sélectionnée pour accomplir une tâ
 
 ### Manipulation de l'environnement
 
-Les Motivations qui permettent à un personnage de déplacer des objets, d'affecter la gravité, de créer des objets (ou des illusions d'objets), et ainsi de suite, sont des Motivations de Manipulation de l'environnement. Ceci dit, dans beaucoup de cas, comme de l'énergie est utilisée pour toutes ces actions, les catégories de l'énergie et de l'environnement se recoupent par endroit. Une Motivation de Manipulation de l'environnement donne la priorité aux Capacités qui affectent indirectement les adversaires et les alliés au travers d'objets, de forces et de modification de l'environnement; une Motivation de Manipulation de l'énergie  donne la priorité à provoquer des dommages directement sur les cibles avec l'énergie ou la force choisie.
+Les Focus qui permettent à un personnage de déplacer des objets, d'affecter la gravité, de créer des objets (ou des illusions d'objets), et ainsi de suite, sont des Focus de Manipulation de l'environnement. Ceci dit, dans beaucoup de cas, comme de l'énergie est utilisée pour toutes ces actions, les catégories de l'énergie et de l'environnement se recoupent par endroit. Un Focus de Manipulation de l'environnement donne la priorité aux Capacités qui affectent indirectement les adversaires et les alliés au travers d'objets, de forces et de modification de l'environnement; un Focus de Manipulation de l'énergie  donne la priorité à provoquer des dommages directement sur les cibles avec l'énergie ou la force choisie.
 
-Par exemple, plutôt que de foudroyer un adversaire avec une pulsation de gravité qui fait des dommages, un personnag, utilisant une Motivation de Manipulation de l'environnement basée sur la gravité, a plus de chance d'avoir des Capacités qui maintiennent la cible sur place, ou qui utilisent la gravité pour lancer des objets lourds pour attaquer, ou qui diminuent la gravité dans une zone définie ou sur un objet particulier.
+Par exemple, plutôt que de foudroyer un adversaire avec une pulsation de gravité qui fait des dommages, un personnag, utilisant un Focus de Manipulation de l'environnement basée sur la gravité, a plus de chance d'avoir des Capacités qui maintiennent la cible sur place, ou qui utilisent la gravité pour lancer des objets lourds pour attaquer, ou qui diminuent la gravité dans une zone définie ou sur un objet particulier.
 
-**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Focus.
 
-**Equipement Supplémentaire:** Tout objet nécessaire pour manipuler l'environnement autour du personnage. Par exemple, une personne avec une Motivation qui donne une Capacité de fabrication d'objets pourrait nécessiter des outils. Certaines Motivations dans cette catégorie ne nécessitent rien de particulier pour acquérir ou conserver leurs bénéfices.
+**Equipement Supplémentaire:** Tout objet nécessaire pour manipuler l'environnement autour du personnage. Par exemple, une personne avec un Focus qui donne une Capacité de fabrication d'objets pourrait nécessiter des outils. Certaines Focus dans cette catégorie ne nécessitent rien de particulier pour acquérir ou conserver leurs bénéfices.
 
-**Capacités de Manipulation de l'environnement:** Les thèmes des Motivations qui implique des énergies visibles ou non peuvent avoir un impact sur l'apparence des Capacités de votre type. De telles changements, s'il y en a, ne font rien d'autre que changer l'apparence des effets. Si la gravité est manipulée, peut-être qu'une pâle lueur bleutée apparait à chaque utilisation des Capacités, même les Capacités du Type. Si une illusion est générée, peut-être que des effets visuels et auditifs impressionants accompagnent ce genre de Capacités, comme l'apparence d'un tentacule bestial qui enserre la cible quand la Capacité Stase est utilisée.
+**Capacités de Manipulation de l'environnement:** Les thèmes des Focus qui implique des énergies visibles ou non peuvent avoir un impact sur l'apparence des Capacités de votre type. De telles changements, s'il y en a, ne font rien d'autre que changer l'apparence des effets. Si la gravité est manipulée, peut-être qu'une pâle lueur bleutée apparait à chaque utilisation des Capacités, même les Capacités du Type. Si une illusion est générée, peut-être que des effets visuels et auditifs impressionants accompagnent ce genre de Capacités, comme l'apparence d'un tentacule bestial qui enserre la cible quand la Capacité Stase est utilisée.
 
 **Suggestions d'Effet Mineur:** La cible pivote et sa prochaine attaque est atténuée.
 
 **Suggestions d'Effet Majeur:** Le personnage est régénéré et récupère 4 points dans une Réserve.
 
-La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Focus possibles pour cette catégorie.
 
 * Calcule l'Incalculable
 * Concentre l'Esprit sur la Matière
@@ -2176,23 +2176,23 @@ La liste ci-après ne sont que des exemples et n'est pas une liste complète de 
 
 **Indications pour la Sélection de Capacités**
 
-**Rang 1:** Choisissez une Capacité de rang inférieur qui confère une utilisation de base d'une Capacité qui modifie l'environnement en utilisant le thème de la Motivation. Par exemple, une Motivation qui affecte la gravité peut fournir une Capacité qui peut rendre une cible plus légère ou plus lourde. Une Motivation de création d'illusion peut fournir une Capacité qui permet la création d'une image. Une Motivation de fabrication d'objet peut fournir une compétence de base pour la création d'un type particulier d'objet. Une Motivation de prédiction, peut calculer des probabilités de résultats et fournir au personnage des bénéfices liés à ces informations.
+**Rang 1:** Choisissez une Capacité de rang inférieur qui confère une utilisation de base d'une Capacité qui modifie l'environnement en utilisant le thème de le Focus. Par exemple, un Focus qui affecte la gravité peut fournir une Capacité qui peut rendre une cible plus légère ou plus lourde. Un Focus de création d'illusion peut fournir une Capacité qui permet la création d'une image. Un Focus de fabrication d'objet peut fournir une compétence de base pour la création d'un type particulier d'objet. Un Focus de prédiction, peut calculer des probabilités de résultats et fournir au personnage des bénéfices liés à ces informations.
 
-Quelque fois, une Capacité supplémentaire de faible puissance, dépendant de la Motivation. Souvent, c'est une Capacité qui donne un entrainement dans une compétence dans une catégorie de connaisance.
+Quelque fois, une Capacité supplémentaire de faible puissance, dépendant de le Focus. Souvent, c'est une Capacité qui donne un entrainement dans une compétence dans une catégorie de connaisance.
 
-**Rang 2:** Choisissez une Capacité de rang inférieur qui confère un moyen offensif ou défensif lié au thème de la Motivation.
-Ou alors, cette Capacité peut fournir un moyen supplémentaire ou tout nouveau pour manipuler l'environnement lié au thème de la Motivation.
+**Rang 2:** Choisissez une Capacité de rang inférieur qui confère un moyen offensif ou défensif lié au thème de le Focus.
+Ou alors, cette Capacité peut fournir un moyen supplémentaire ou tout nouveau pour manipuler l'environnement lié au thème de le Focus.
 
-**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
-Une des options devrait être une Capacité de rang intermédiaire lié au thème de la Motivation qui fournit une Capacité de manipulation de l'environnement supplémentaire, ou qui améliore une Capacité de manipulation de l'environnement qui a été choisie précédemment. Cette Capacité n'est pas directement offensive ou défensive, mais fournit soit une toute nouvelle Capacité liée à la Capacité de base, soit une Capacité qui augmente la puissance, la portée, ou une autre extension d'une Capacité précédemment choisie.
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour le Focus; le PJ choisira l'un ou l'autre.
+Une des options devrait être une Capacité de rang intermédiaire lié au thème de le Focus qui fournit une Capacité de manipulation de l'environnement supplémentaire, ou qui améliore une Capacité de manipulation de l'environnement qui a été choisie précédemment. Cette Capacité n'est pas directement offensive ou défensive, mais fournit soit une toute nouvelle Capacité liée à la Capacité de base, soit une Capacité qui augmente la puissance, la portée, ou une autre extension d'une Capacité précédemment choisie.
 
-L'autre option de rang intermédiaire devrait fournir une Capacité offensive ou défensive liée à la forme spécifique du mouvement que la Motivation permet.
+L'autre option de rang intermédiaire devrait fournir une Capacité offensive ou défensive liée à la forme spécifique du mouvement que le Focus permet.
 
 **Rang 4:** Choisissez une Capacité de rang intermédiaire dont l'usage est soit offensive soit défensive, dans tous les cas il ne faut pas que ce soit une option déjà proposée à un rang précédent.
 
-**Rang 5:** Choisissez une Capacité de rang supérieur de manipulation de l'environnement. Par exemple, si la Motivation de manipulation est sur l'illusion, cette Capacité pourrait hanter une cible avec des images terrifiantes. Si la Motivation est basée sur la gravité, elle pourrait débloquer le vol. Si c'est magnétique, la Capacité peut permettre au personnage de changer la forme du métal. Si ce sont des pouvoirs télékinétiques, la Capacité pourrait autoriser le personnage à balancer des objets volumineux sur des cibles.
+**Rang 5:** Choisissez une Capacité de rang supérieur de manipulation de l'environnement. Par exemple, si le Focus de manipulation est sur l'illusion, cette Capacité pourrait hanter une cible avec des images terrifiantes. Si le Focus est basée sur la gravité, elle pourrait débloquer le vol. Si c'est magnétique, la Capacité peut permettre au personnage de changer la forme du métal. Si ce sont des pouvoirs télékinétiques, la Capacité pourrait autoriser le personnage à balancer des objets volumineux sur des cibles.
 
-**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
+**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour le Focus; un PJ choisira l'un ou l'autre.
 Une des Capacités devrait fournir un moyen soit offensif, soit défensif, à l'opposé de la Capacité proposée au rang 4 (bien que que de rang supérieur).
 
 L'autre option devrait être quelqu chose qui explorer un peu plus loin l'usage de la manipulation de l'environnement. Cette Capacité devrait être plus puissante que celle de rang 5, ou une autre façon d'utiliser cette Capacité pour débloquer une facette non encore explorée.
@@ -2201,19 +2201,19 @@ L'autre option devrait être quelqu chose qui explorer un peu plus loin l'usage 
 
 ### Utilisation d'Alliés
 
-Les Motivations qui donne la priorité à fournir des suivants PNJ à un personnage sont des Motivations d'Utilisation d'Alliés. Les suivants fournissent une aide au PJ de façon très variée, mais surtout ils donnent un Atout pour les actions du personnage.
+Les Focus qui donne la priorité à fournir des suivants PNJ à un personnage sont des Focus d'Utilisation d'Alliés. Les suivants fournissent une aide au PJ de façon très variée, mais surtout ils donnent un Atout pour les actions du personnage.
 
 Il y a plusieurs thèmes potentiels dans la catégorie Utilisation d'Alliés, depuis les capacités qui permettent au pesonnage d'invoquer ou de fabriquer des alliés, à celles qui leur donne la possibilité d'attirer des suivants par la célébrité, la magie, l'autorité ou le charisme.
 
-**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Focus.
 
-**Equipement Supplémentaire:** N'importe quel objet qui peut être nécessaire au personnage pour conserver un allié. Par exemple, quelqu'un avec une Motivation qui utilise de la super-science pour créer des alliés robots pourrait avoir besoin d'outils pour construire et réparer ces alliés. Certaines Motivations dans cette catégorie n'ont besoin de rien pour acquérir oou conserver leurs bénéfices.
+**Equipement Supplémentaire:** N'importe quel objet qui peut être nécessaire au personnage pour conserver un allié. Par exemple, quelqu'un avec un Focus qui utilise de la super-science pour créer des alliés robots pourrait avoir besoin d'outils pour construire et réparer ces alliés. Certaines Focus dans cette catégorie n'ont besoin de rien pour acquérir oou conserver leurs bénéfices.
 
 **Suggestions d'Effet Mineurs:** Les tâches de l'allié PNJ sont facilitées à son prohain tour..
 
 **Suggestions d'Effets Majeurs:** L'allié PNJ gagne une action supplémentaire immédiatement.
 
-La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Focus possibles pour cette catégorie.
 
 * Construit des Robots
 * S'Associe avec les Morts
@@ -2226,29 +2226,29 @@ La liste ci-après ne sont que des exemples et n'est pas une liste complète de 
 **Indications pour la Sélection de Capacités**
 
 **Rang 1:** Choisissez une capacité de rang inférieur qui donne un PNJ de niveau 2 au personnage, ou qui donne un bénéfice similaire fournit par un PNJ. Vous pouvez également fournir les bases pour gagner de tels alliés PNJ à des rangs plus élevés en choisissant une capacité qui donne au personnage une influence sur les autres.
-Parfois, une capacité supplémentaire de rang inférieur est appropriée, en fonction de la Motivation. Il s’agit souvent d’une capacité qui confère un entrainement dans une compétence dans un domaine de connaissances ou une compétence connexe. Par exemple, un entrainement dans une compétence liée au type d’allié PNJ que le personnage gagne serait appropriée.
+Parfois, une capacité supplémentaire de rang inférieur est appropriée, en fonction de le Focus. Il s’agit souvent d’une capacité qui confère un entrainement dans une compétence dans un domaine de connaissances ou une compétence connexe. Par exemple, un entrainement dans une compétence liée au type d’allié PNJ que le personnage gagne serait appropriée.
 
 **Rang 2:** Choisissez une capacité de rang inférieur qui confère une influence sur des types de PNJ similaires à ceux obtenus par l'allié au rang précédent. Si aucun allié n'a été gagné au Rang précédent, cette capacité devrait offrir cet avantage maintenant.
 Parfois, une capacité secondaire peut être appropriée en plus de la capacité fournie ci-dessus, par exemple une capacité de faible puissance qui accorde 2 ou 3 points à une Réserve.
 
-**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour le Focus; le PJ choisira l'un ou l'autre.
 Une option devrait être une capacité de rang intermédiaire qui améliore l'allié PNJ précédemment fourni (généralement du niveau 2 au niveau 3) ou accorde un allié supplémentaire.
 
 L'autre option devrait être quelque chose qui profite au personnage --- peut-être une capacité offensive ou défensive, ou quelque chose qui élargit son influence sur ses alliés (ou alliés potentiels).
 
-**Rang 4:** Choisissez une capacité de rang intermédiaire qui donne au personnage une capacité offensive ou défensive s'il n'en a pas acquis auparavant, de préférence dans le thème de la Motivation. Par exemple, si le personnage gagne des alliés en raison de son charisme, cette capacité peut lui permettre de commander ses ennemis pendant de brèves périodes. Si le personnage gagne des alliés en les construisant ou en les appelant, cette capacité peut lui permettre d'affecter des entités du même type qui ne sont pas déjà ses alliés.
+**Rang 4:** Choisissez une capacité de rang intermédiaire qui donne au personnage une capacité offensive ou défensive s'il n'en a pas acquis auparavant, de préférence dans le thème de le Focus. Par exemple, si le personnage gagne des alliés en raison de son charisme, cette capacité peut lui permettre de commander ses ennemis pendant de brèves périodes. Si le personnage gagne des alliés en les construisant ou en les appelant, cette capacité peut lui permettre d'affecter des entités du même type qui ne sont pas déjà ses alliés.
 Ou alors, cette capacité pourrait améliorer davantage un allié précédemment gagné du niveau 3 au niveau 4, ou accorder un allié supplémentaire.
 
-**Rang 5:** Choisissez une capacité qui améliore le personnage en lui fournissant une défense, une Réserve améliorée de statistiques ou un autre type de protection. Alternativement, cette capacité pourrait ouvrir une nouvelle possibilité pour influencer et appeler des alliés PNJ liés au thème de la Motivation. Par exemple, quelqu’un qui garde des bêtes alliées pourrait acquérir la capacité d’invoquer une horde de bêtes inférieures. Quelqu'un qui construit des robots pourrait acquérir la capacité de construire plusieurs robots assistants de moindre importance. Et ainsi de suite.
+**Rang 5:** Choisissez une capacité qui améliore le personnage en lui fournissant une défense, une Réserve améliorée de statistiques ou un autre type de protection. Alternativement, cette capacité pourrait ouvrir une nouvelle possibilité pour influencer et appeler des alliés PNJ liés au thème de le Focus. Par exemple, quelqu’un qui garde des bêtes alliées pourrait acquérir la capacité d’invoquer une horde de bêtes inférieures. Quelqu'un qui construit des robots pourrait acquérir la capacité de construire plusieurs robots assistants de moindre importance. Et ainsi de suite.
 
 Enfin, cette capacité pourrait améliorer un allié précédemment gagné au niveau 5.
 
-**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
+**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour le Focus; un PJ choisira l'un ou l'autre.
 L'une des capacités devrait améliorer un allié précédemment acquis au niveau 5, si cela n'était pas déjà fourni au rang 5. Si tel est le cas, cette capacité pourrait être fournie *en plus* de deux autres capacités associées.
 
 L'autre option de rang supérieur devrait fournir au personnage une poignée d'alliés de niveau 3.
 
-La dernière capacité de rang supérieur pourrait être une nouvelle possibilité pour influencer et appeler des alliés PNJ liés au thème de la Motivation. Par exemple, quelqu’un qui gagne des alliés grâce à un charisme et un entrainement pourrait acquérir la capacité d’apprendre des informations autrement impossibles à glaner.
+La dernière capacité de rang supérieur pourrait être une nouvelle possibilité pour influencer et appeler des alliés PNJ liés au thème de le Focus. Par exemple, quelqu’un qui gagne des alliés grâce à un charisme et un entrainement pourrait acquérir la capacité d’apprendre des informations autrement impossibles à glaner.
 
 -----
 
@@ -2258,7 +2258,7 @@ Most foci have a basic theme, a "character story" that logically leads to a seri
 
 Irregular foci provide a basket of disparate abilities. Usually that's because the overarching theme is one that demands variability and access to several different kinds of abilities. Often, these foci are found in genres that suggest additional rule tweaks to leverage their use even further, such as power shifts in the superhero genre and spellcasting in the fantasy genre. However, other irregular foci are possible.
 
-**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Focus.
 
 **Equipement Supplémentaire:** Any object necessary to the focus's theme. For instance, a  
 superhero-themed focus might grant a superhero costume.
@@ -2267,7 +2267,7 @@ superhero-themed focus might grant a superhero costume.
 
 **Suggestions d'Effet Majeur:** The target is stunned and loses its next turn.
 
-La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Focus possibles pour cette catégorie.
 
 * Canalise les Bénédictions Divines
 * A des Ascendants Nobles
@@ -2283,7 +2283,7 @@ Sometimes an additional low-power ability is appropriate, depending on the focus
 
 **Rang 2:** Choose a low-Rang ability that grants one of the benefits the focus theme promises, one that's presumably not immediately related to the one provided at Rang 1. That said, if a defense wasn't provided at Rang 1, Rang 2 is a good place to add it.
 
-**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour le Focus; le PJ choisira l'un ou l'autre.
 One option should provide one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier Rangs.
 
 The other option should include a method of attack if none has previously been granted. Alternatively, if the lower-Rang abilities don't quite get the character where they need to be, this option might further increase a capability unlocked at a lower Rang.
@@ -2292,7 +2292,7 @@ The other option should include a method of attack if none has previously been g
 
 **Rang 5:** Choose a high-Rang ability that grants one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier Rangs.
 
-**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
+**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour le Focus; un PJ choisira l'un ou l'autre.
 One option should grant one of the benefits the focus theme promises, one that may not be immediately related to those provided at earlier Rangs. However, this ability might also provide an ultimate version of a lower-Rang ability if a mid-Rang ou low-Rang option wasn't quite sufficient.
 
 The other option should provide an alternate method to round out the character in a way that doesn't replicate the first Rang 6 option. For instance, if the first option provided some kind of attack, this one might be an interaction, information-gathering, ou healing ability, depending on the focus's overarching theme.
@@ -2305,7 +2305,7 @@ Foci that prioritize novel forms of movement---in order to excel in combat, esca
 
 The classic movement expertise focus is one that relies on speed to make more attacks and avoid being hit, though general agility might also provide the same benefit. Other foci in this category might fall within the theme by granting a character the ability to become immaterial, to change their form into something like water ou air, ou to instantly move via teleportation.
 
-**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Focus.
 
 **Equipement Supplémentaire:** Any object necessary to achieve great speeds, change state, ou otherwise gain the benefit of the focus should be granted as additional equipment. Some foci in this category don't require anything to gain ou retain their benefits.
 
@@ -2313,7 +2313,7 @@ The classic movement expertise focus is one that relies on speed to make more at
 
 **Suggestions d'Effet Majeur:** The target is stunned and loses their next action.
 
-La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Focus possibles pour cette catégorie.
 
 * Existe Partiellement Hors de Phase
 * Bouge comme un Chat
@@ -2331,7 +2331,7 @@ Sometimes an additional low-power ability is appropriate, depending on the focus
 **Rang 2:** Choose a low-Rang ability that provides a new offensive ou defensive capability related to the focus's theme.
 Alternatively, this ability might provide some additional capability related to the form of movement that grants useful information to the character that would normally be inaccessible to someone without the focus.
 
-**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour le Focus; le PJ choisira l'un ou l'autre.
 One option should provide an additional movement capacity ou further improve the basic movement capacity, related to the focus's theme. This isn't directly offensive ou defensive, but provides the character with a new level of ability ou an all-new ability related to their basic movement ability.
 
 The other option should provide either an offensive ou a defensive capability related to the specific form of movement the focus provides.
@@ -2341,7 +2341,7 @@ The other option should provide either an offensive ou a defensive capability re
 **Rang 5:** Choose a high-Rang penultimate use of the movement-related ability. For instance, if the focus-provided movement is temporal, this ability might allow actual (if brief) jaunts of time travel. If the focus enhances speed, this ability might allow the character to move up to a very long distance with one action. And so on.
 Alternatively, unlock an as-yet-unexplored related ability that could derive from the basic movement power provided by the focus.
 
-**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
+**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour le Focus; un PJ choisira l'un ou l'autre.
 Une des options devrait fournir un moyen soit offensif, soit défensif, opposite the ability provided at Rang 4 (though high Rang rather than mid Rang).
 
 The other option should be something that further explores the use of the basic  
@@ -2355,7 +2355,7 @@ Striker combat foci prioritize dealing damage in battle over other concerns. Foc
 
 To achieve this end, a striker combat focus might offer mastery of a particular style of martial combat, which could be training with a particular weapon ou martial art, ou the use of a unique tool (or even a kind of energy). A style might be something as singular as being the best at fighting a particular kind of enemy, ou something much broader, such as adopting a particularly vicious ou unsporting style. A striker combatant might use fire, force, ou magnetism as their preferred method of spiking damage.
 
-**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Focus.
 
 **Equipement Supplémentaire:** The weapon, tool, ou other special item ou substance (if any) required to engage in the particular style of combat. For instance, a dose of level 5 poison for Se Bat Sans Respecter de Règle ou Assassine, a trophy from a previously defeated foe for Battles Robots, ou stylish clothes for Combat avec Panache.
 
@@ -2363,7 +2363,7 @@ To achieve this end, a striker combat focus might offer mastery of a particular 
 
 **Suggestions d'Effet Majeur:** Make an immediate additional attack using an attack provided by the focus as part of your turn.
 
-La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Focus possibles pour cette catégorie.
 
 * Combat les Robots
 * Se Bat Sans Respecter de Règle
@@ -2391,7 +2391,7 @@ If the focus is about fighting a particular enemy, additional secondary powers (
 Sometimes an additional low-power ability is appropriate at Rang 2. If so, choose whichever  
 low-power ability wasn't gained at Rang 1.
 
-**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour le Focus; le PJ choisira l'un ou l'autre.
 One option should inflict additional damage when using the focus's fighting style, energy, ou attitude, ou when used against a chosen enemy. That could be as simple as an ability that offers an additional attack of that kind.
 
 The other option should provide a method to temporarily neutralize a foe by disarming them, dazing ou stunning them, slowing ou holding them, ou otherwise discombobulating them by using the focus's fighting style, energy, ou attitude, ou when used against a chosen enemy.
@@ -2400,7 +2400,7 @@ The other option should provide a method to temporarily neutralize a foe by disa
 
 **Rang 5:** Choose a high-Rang ability that inflicts damage. Alternatively, if focused on fighting a particular kind of foe, this ability might give the character a chance to completely neutralize, destroy, blind, ou kill a singular target of up to level 3 (or higher, if the focus is on a singular foe).
 
-**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
+**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour le Focus; un PJ choisira l'un ou l'autre.
 One of the options should use the focus paradigm to inflict an exceptional amount of damage.
 
 The other option could be a different way of inflicting damage, either using the focus paradigm ou just dealing lots of damage in general (and relying on previous focus Rang abilities to improve targeting). This could be against multiple targets if the first option was for a single target, to outright kill ou neutralize a target (starting with level 4, but with guidance for using Effort to increase the level of the target), ou to select yet another foe, make another attack, ou get away in order to fight another day.
@@ -2413,7 +2413,7 @@ Foci that allow a character to help others succeed, defend others, heal others w
 
 Support foci rely on a variety of methods to provide their help, including martial training used in defense, supernatural ou sci-fi means of providing healing, ou simply easing the cares of others through entertainment.
 
-**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Focus.
 
 **Equipement Supplémentaire:** Any object necessary to provide support. For instance, someone with a focus that uses entertainment to help others would require an instrument ou similar object in aid of their craft. Some foci in this category don't require anything to gain ou retain their benefits.
 
@@ -2421,7 +2421,7 @@ Support foci rely on a variety of methods to provide their help, including marti
 
 **Suggestions d'Effet Majeur:** You can take an extra action in aid of an ally.
 
-La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Focus possibles pour cette catégorie.
 
 * Défend les Faibles
 * Divertit
@@ -2438,7 +2438,7 @@ Sometimes an additional low-power ability is appropriate, depending on the focus
 
 **Rang 2:** Choose a low-Rang ability that follows up on the support style opened in the previous Rang. If the previous Rang's ability provided a means of protection only for the focus taker, this Rang 2 ability should specifically provide aid to another. If the previous Rang specifically provided aid to another, this Rang 2 ability could defend the focus taker ou provide an offensive capability grounded, if possible, in the focus's theme.
 
-**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour le Focus; le PJ choisira l'un ou l'autre.
 One option should work within the focus's theme to aid, heal, protect, ou otherwise help another.
 
 The other option should be something that benefits the character, either an offensive ou defensive ability, ou something that broadens their expertise in some fashion. Alternatively, it could be another, different method of helping someone else.
@@ -2447,7 +2447,7 @@ The other option should be something that benefits the character, either an offe
 
 **Rang 5:** Choose a high-Rang ability that provides an offensive ou defensive option for the character, if none have been provided yet. If this need has been previously addressed ou is deemed unnecessary, choose a high-Rang ability that provides some form of defense, aid ou entertainment, benefit to recovery ou healing, ou protection to another. For example, a Rang 5 ability might grant an ally an additional free action ou allow them to repeat a failed action.
 
-**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
+**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour le Focus; un PJ choisira l'un ou l'autre.
 One of the options should provide an ultimate method of helping another in the theme of the focus.
 
 The other option could provide an alternative ultimate method of helping another; many foci in this category do. However, an option that provides high-Rang offense ou defense is also completely reasonable.
@@ -2460,7 +2460,7 @@ Foci that prioritize being able to take a lot of punishment and soak up excess d
 
 Some tank combat foci involve a physical transformation that grants additional protection, and others rely on specialized training, use tools like shields ou heavy armor, ou provide the ability to heal incredibly fast. The kinds of physical transformation that a tank focus provides, if any, vary widely. A focus might turn a character's skin to stone, reinforce their body with metal, turn them into a monstrous being, make them so big it becomes harder to hurt them, and so on.
 
-**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Motivation.
+**Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Focus.
 
 **Equipement Supplémentaire:** Any object necessary to maintain a physical transformation (such as a tool for repair if partly robotic, a shield ou other defensive tool used if skilled, ou possibly some kind of amulet ou serum). Some tank combat foci don't require anything to gain ou retain their benefits.
 
@@ -2468,7 +2468,7 @@ Some tank combat foci involve a physical transformation that grants additional p
 
 **Suggestions d'Effet Majeur:** Regain 2 points to Might Pool.
 
-La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Motivations possibles pour cette catégorie.
+La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Focus possibles pour cette catégorie.
 
 * Demeure dans la pierre
 * Brandit un Bouclier Exotique
@@ -2489,7 +2489,7 @@ Sometimes an additional low-power ability is appropriate, depending on the focus
 **Rang 2:** If the theme of the focus isn't physical transformation, choose a low-Rang ability that provides an additional method of defending, healing damage, ou avoiding attacks.
 If the theme of the focus is physical transformation, choose a low-Rang ability that unlocks a new capability related to the form the character takes. That might mean gaining better control of the transformation, unlocking a robotic interface, ou otherwise more fully unlocking that form. This ability is not necessarily defensive, though it could be.
 
-**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour le Focus; le PJ choisira l'un ou l'autre.
 One option should provide an additional form of protection in keeping with the focus's theme, such as more defensive capabilities unlocked from a transformation (which might also come with additional offensive capabilities) ou a simple physical enhancement if defense is gained by skills ou enhanced healing.
 
 The other option should provide an offensive  
@@ -2500,16 +2500,16 @@ focus that doesn't already have offensive benefits. That capability could be an 
 
 **Rang 5:** Choose a high-Rang ability that provides protection, possibly in the form of shrugging off a debilitating condition (including death). If the focus offers a physical transformation, this ability might further unlock an additional related ability, whether offensive, defensive, ou something related to exploration ou interaction (such as flight if the form is winged, intimidation if the form is fearsome, and so on).
 
-**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour la Motivation; un PJ choisira l'un ou l'autre.
+**Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour le Focus; un PJ choisira l'un ou l'autre.
 One option should use the focus paradigm to increase the defense, protection, ou ability to shrug off damage.
 
 The other option could be a different way of being defensive. In some cases, the best defense is a good offense, so this option could provide a high-Rang offensive ability in keeping with the focus's theme, whether that's a straight-up damage boost on attacks ou better control of an unstable physical transformation.
 
 ## Superhero Foci
 
-## Personnaliser des Motivations
+## Personnaliser des Focus
 
-De temps en temps, tout le contenu d'une Motivation n'est pas adapté à l'idée d'un personnage, ou peut-être que le MJ a besoin d'indications supplémentaires pour créer une nouvelle Motivation. Dans tous les cas, la solution réside dans les Capacités des Motivations à leurs niveaux de base.
+De temps en temps, tout le contenu d'un Focus n'est pas adapté à l'idée d'un personnage, ou peut-être que le MJ a besoin d'indications supplémentaires pour créer une nouvelle Motivation. Dans tous les cas, la solution réside dans les Capacités des Focus à leurs niveaux de base.
 
 Pour chaque rang, un joueur peut sélectionner une des Capacités ci-dessous à la place de la Capacité fournie par le rang. Plusieurs de ces Capacités de remplacement, particulièrement aux rangs les plus élevés, peuvent impliquer une modification corporelle, de l'intégration de systèmes high-tech, d'apprendre des sorts puissants, de découvrir des secrets interdits, ou quelque chose similaire approprié au genre.
 
