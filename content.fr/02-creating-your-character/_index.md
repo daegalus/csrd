@@ -160,74 +160,74 @@ Vous pouvez utiliser le chapitre sur les Préférences pour modifier légèremen
 
 ## Capacités Spéciales
 
-Character types and foci grant PCs special abilities at each new tier. Using these abilities usually costs points from your stat Pools; the cost is listed in parentheses after the ability name. Your Edge in the appropriate stat can reduce the cost of the ability, but remember that you can apply Edge only once per action. For example, let's say an Adept with an Intellect Edge of 2 wants to use their Onslaught ability to create a bolt of force, which costs 1 Intellect point. They also want to increase the damage from the attack by using a level of Effort, which costs 3 Intellect points. The total cost for their action is 2 points from their Intellect Pool (1 point for the bolt of force, plus 3 points for using Effort, minus 2 points from their Edge).
+Les types et focus des personnages donnent aux PJs des capacités spéciales à chaque nouveau rang. L'utilisation de ces capacités coûte en général des points de vos Réserves de stat; ce coût est indiqué entre paranthèses après le nom de la capacité. Votre Avantage dans la stat associée peut réduire ce coût de la capacité, mais souvenez-vous que vous ne pouvez appliquer l'Avantage qu'une fois par action. Par exemple, disons qu'un Adepte avec un Avantage d'Intelligence de 2 souhaite  utiliser sa capacité d'Assaut Magique pour créer un éclair de force, ce qui coûte 1 point d'Intelligence. Il voudrait aussi augmenter les dommages de l'attaque en utilisant un niveau d'Effort, ce qui coûte 3 points d'Intelligence. Le coût total de l'action est de 2 points de Réserve d'Intelligence (1 point pour l'éclair de force, plus 3 points pour utiliser l'Effort, moins 2 points de l'Avantage).
 
-Sometimes the point cost for an ability has a + sign after the number. For example, the cost might be given as "2+ Intellect points." That means you can spend more points or more levels of Effort to improve the ability further, as explained in the ability description.
+Dans certains cas, le coût pour une capacité a un signe + après le nombre. Par exemple, le coût peut être donné comme "2+ Points d'Intelligence". Cela signifie que vous pouvez dépenser plus de points ou plus de niveaux d'Effort pour améliorer la capacité, tel que détaillé dans la description de la capacité.
 
-Many special abilities grant a character the option to perform an action that they couldn't normally do, such as projecting rays of cold or attacking multiple foes at once. Using one of these abilities is an action unto itself, and the end of the ability's description says "Action" to remind you. It also might provide more information about when or how you perform the action.
+Plusieurs capacités spéciales confèrent au personnage l'option d'accomplir une action qu'il ne pourrait pas faire normalement, telle que projetter des éclairs de givre ou attaquer plusieurs adversaires à la fois. Utiliser une de ces capacités est une action à part entière, et à la fin de la description il est indiqué "Action" pour vous le rappeler. Cette description peut aussi vous fournir plus d'information sur quand et comment vous pouvez accomplir cette action.
 
-Some special abilities allow you to perform a familiar action---one that you can already do---in a different way. For example, an ability might let you wear heavy armor, reduce the difficulty of Speed defense rolls, or add 2 points of fire damage to your weapon damage. These abilities are called enablers. Using one of these abilities is not considered an action. Enablers either function constantly (such as being able to wear heavy armor, which isn't an action) or happen as part of another action (such as adding fire damage to your weapon damage, which happens as part of your attack action). If a special ability is an enabler, the end of the ability's description says "Enabler" to remind you.
+Certaines capacités spéciales vous permettent d'accomplir une action familère---une action que vous pourriez déjà faire---sous une forme différente. Par exempe, une capacité peut vous laisser porter une armure lourde, réduire la difficulté d'un jet de défensede Rapidité, ou ajouter 2 points aux dommages de feu aux dommages de votre arme. Ces capacités sont de la catégorie des Facilitateurs. Utiliser l'une de ces capacités n'est pas considéré comme une action. Les facilitateurs fonctionnent, soit de manière constante (comme de porter une armure lourde, qui n'est pas une action), soit se produisent au cours d'une autre action (telle que ajouter des dommages de feu aux dommages de votre arme, qui va se produire pendant votre action d'attaque). Si une capacité spéciale est un facilitateur, il est indiqué "Facilitateur" à la fin de sa description.
 
-Some abilities specify a duration, but you can always end one of your own abilities anytime you wish.
+Certaines capacités spécifient une durée, mais vous pouvez interrompre l'une de vos propre capacité quand vous le souhaitez.
 
 {{< hint info >}}
-Because the Cypher System covers so many genres, not all of the descriptors, types, and foci might be available for players. The GM will decide what's available in their particular game and whether anything is modified, and they'll let the players know.
+Comme le Cypher System couvre plusieurs genres, tous les descripteurs, types et focus peuvent ne pas être disponibles pour les joueurs. La Meneuse décidera ce qui l'est dans le cadre qu'elle a défini et si quoique ce soit est modifié elle le fera savoir aux joueurs.
 {{< /hint >}}
 
-## Skills
+## Compétences
 
-Sometimes your character gains training in a specific skill or task. For example, your focus might mean that you're trained in sneaking, in climbing and jumping, or in social interactions. Other times, your character can choose a skill to become trained in, and you can pick a skill that relates to any task you think you might face.
+Quelque fois votre personnage va acquérir un entrainement dans une compétence ou une tâche spécifique. Par exemple, votre focus peut signifier que vous avez été entrainé dans la dissimulation, dans l'escalade et le saut, ou dans les intéractions sociales. A d'autres moments, votre personnage pourra choisir une compétence pour en devenir entraîné, et vous pourrez sélectionner une compétence qui s'associe à toute tâche à laquelle vous pensez que vous aurez à accomplir.
 
-The Cypher System has no definitive list of skills. However, the following list offers ideas:
+Le Cypher system n'a pas de liste définitive de compétences. Toutefois, la liste ci-après donne des idées:
 
 {{< columns >}}
 
-* Astronomy
-* Balancing
-* Biology
-* Botany
-* Carrying
-* Climbing
-* Computers
-* Deceiving
-* Disguise
-* Escaping
-* Geography
-* Geology
+* Astronomie
+* Biologie
+* Botanie
+* Chevaucher
+* Conduire un véhicule
+* Crochetage
+* Déguisement
+* Discrétion
+* Dissimulation
+* Equilibriste
+* Escalade
+* Fraquasser
 <--->
-* Healing
-* History
-* Identifying
+* Géographie
+* Géologie
+* Histoire
+* Identifier
 * Initiative
 * Intimidation
-* Jumping
-* Leatherworking
-* Lockpicking
-* Machinery
-* Metalworking
+* Machiniste
+* Nager
+* Ordinateurs
 * Perception
 * Persuasion
+* Philosophie
 <--->
-* Philosophy
-* Physics
-* Pickpocketing
-* Piloting
-* Repairing
-* Riding
-* Smashing
-* Sneaking
-* Stealth
-* Swimming
-* Vehicle driving
-* Woodworking
+* Physique
+* Pickpocket
+* Pilotage
+* Porter
+* Réparer
+* S'échapper
+* Sauter
+* Soigner
+* Travail du bois
+* Travail du cuir
+* Travail du métal
+* Tromper
 {{< /columns >}}
 
-You could choose a skill that incorporates more than one of these areas (interacting might include deceiving, intimidation, and persuasion) or that is a more specific version of one (hiding might be sneaking when you're not moving). You could also make up more general professional skills, such as baker, sailor, or lumberjack. If you want to choose a skill that's not on this list, it's probably best to run it past the GM first, but in general, the most important thing is to choose skills that are appropriate to your character.
+Vous pouvez choisir une compétence qui incorpore plus d'une de ces définitions ci-dessus (interagir peut inclure tromper, intimidation et persuasion) ou cela peut être une version plus spécifique (se cacher peut être dissimulation quand vous ne bougez pas). Vous pouvez aussi avoir des compétences plus générales liées à une profession, telle que boulanger, marin, ou bûcheron. Si vous voulez sélectionner une compétence qui n'est pas dans cette liste, il est probablement sage de consulter d'abord la Meneuse, mais en général, la chose la plus importante est de choisir des compétences qui soient appropriées à votre personnage.
 
-Remember that if you gain a skill that you're already trained in, you become specialized in that skill. Because skill descriptions can be nebulous, determining whether you're trained or specialized might take some thinking. For example, if you're trained in lying and later gain an ability that grants you skill with all social interactions, you become specialized in lying and trained in all other types of interactions. Being trained three times in a skill is no better than being trained twice (in other words, specialized is as good as it gets).
+Souvenez-vous que si vous gagnez une compétence pour laquelle vous êtes déjà entraîné, vous devenez spécialisé dans cette compétence. Comme les descriptions des compétences sont assez vagues, déterminer sivous êtes entraîné ou spécialisé peut demander un peu de reflexion. Par exemple, si vous êtes entraîné à mentir et que plus tard vous gagnez une capacité qui vous donne un entrainement de compétence dans toutes les intéractions sociales, alors vous devenez spécialisé dans les mensonges et entraîné dans les autres formes d'intéraction. Etre entraîné trois fois dans une compétence n'apporte rien de plus que de l'être deux fois (en d'autres termes, spécialisé est le maximum que l'on puisse atteindre dans une compétence).
 
-Only skills gained through character type abilities or other rare instances allow you to become skilled with attack or defense tasks.
+Seules les compétences acquises à partir des capacités du type de personnage, ou quelques rares autres cas, vous permettent de devenir entraîné dans les tâches d'attaque ou de défense.
 
-If you gain a special ability through your type, your focus, or some other aspect of your character, you can choose it in place of a skill and become trained or specialized in that ability. For example, if you have a mind blast, when it's time to choose a skill to be trained in, you can select your mind blast as your skill. That would ease the attack every time you used it. Each ability you have counts as a separate skill for this purpose. You can't select "all mind powers" or "all spells" as one skill and become trained or specialized in such a broad category.
+Si vous gagnez une capacité spéciale à partir de votre type, focus ou un autre aspect de votre personnage, vous pouvez la sélectionner à la place d'une compétence et devenir entraîné ou spécialisé dans cette capacité. Par exemple, si vous avez une attaque psi, quand vient le moment de choisir une compétence dans laquelle vous seriez entraîné, vous pouvez sélectionner vote attaque psi en tant que compétence. Cela facilitera l'attaque à chaque fois que vous l'utiliserez. Chaque capacité que vous avez compte comme une compétence unique dans ce cas d'usage. Vous ne pouvez pas sélectionner "tous les pouvoirs mentaux" en tant que seule compétence et devenir entraîné ou spécialisé pour une catégorie aussi large.
 
-In most campaigns, fluency in a language is considered a skill. So if you want to speak French, that's the same as being trained in biology or swimming.
+Dans la pluart des campagnes, être fluent dans une langue est considéré comme une compétence. Donc si vous voulez parler Espagnol, c'est la même chose qu'être entraîné en biologie ou à nager.
