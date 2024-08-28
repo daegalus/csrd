@@ -37,7 +37,7 @@ A chaque fois qu'un personnage tente d'accomplir une tâche, la Meneuse assigne 
 
 Quand vous sautez d'un véhicule en flamme, balancez une hâche sur une bête mutante, nagez dans une rivière en crue, identifiez un objet étrange, convainquez un marchand de vous faire un prix, fabriquez un objet, utilisez un pouvoir pour contrôler l'esprit d'un adversaire, ou utilisez un fusil blaster pour faire un trou dans un mur, vous jetez un `'d20`.
 
-Toutefois, si vous tentez quelquechose dont la difficulté est de 0, alors aucun jet n'est nécessaire---vous réussissez automatiquement. Beaucoup d'actions ont une difficulté de 0. Par exemple, marcher dans une pièce et ouvrir une porte, utiliser une capacité spéciale pour annuler la gravité pour voler, utiliser une capacité pour protéger votre ami de la radiation, ou activer un appareil (dont vous comprenez le fonctionnement) pour ériger un champs de force. Toutes ces tâches sont des actions de routine et ne nécessitent aucun jet de dé.
+Toutefois, si vous tentez quelque chose dont la difficulté est de 0, alors aucun jet n'est nécessaire---vous réussissez automatiquement. Beaucoup d'actions ont une difficulté de 0. Par exemple, marcher dans une pièce et ouvrir une porte, utiliser une capacité spéciale pour annuler la gravité pour voler, utiliser une capacité pour protéger votre ami de la radiation, ou activer un appareil (dont vous comprenez le fonctionnement) pour ériger un champs de force. Toutes ces tâches sont des actions de routine et ne nécessitent aucun jet de dé.
 
 En utilisant des compétences, des atouts et de l'Effort, vous pouvez faciliter la difficulté d'une tâche potentielle jusqu'à zéro et ainsi supprimer la nécessité de jeter un dé. Marcher sur une poutre est compliquer pour la plupart des personnes, mais pour un gymnaste expérimenté c'est la routine. Vous ne pouvez jamais faciliter la difficulté d'une attaque sur un adversaire jusqu'à 0 et réussir sans jeter un dé.
 
@@ -50,13 +50,13 @@ Si il n'y pas besoin de jeter un dé, il n'y a aucune chance d'échouer. Toutefo
 | 0                     | Routine      | 0         | N'importe qui peut le faire à chaque fois.                                                         |
 | 1                     | Simple       | 3         | La plupart des gens arrivent à le faire la plupart du temps.                                       |
 | 2                     | Standard     | 6         | Tâche typique qui demande de l'attention, mais la plupart des gens y arrivent habituellement.      |
-| 3                     | Demanding    | 9         | Demande une bonne concentration; la plupart des gens ont une chance sur deux de réussir.           |
-| 4                     | Difficult    | 12        | Les personnes entraînées ont 50% de chance de réussir.                                             |
-| 5                     | Challenging  | 15        | Même les personnes entraînés échouent souvent.                                                     |
-| 6                     | Intimidating | 18        | Des personnes normales ne réussissent quasiment jamais.                                            |
+| 3                     | Exigeant     | 9         | Demande une bonne concentration; la plupart des gens ont une chance sur deux de réussir.           |
+| 4                     | Difficile    | 12        | Les personnes entraînées ont 50% de chance de réussir.                                             |
+| 5                     | Gageure      | 15        | Même les personnes entraînés échouent souvent.                                                     |
+| 6                     | Intimidant   | 18        | Des personnes normales ne réussissent quasiment jamais.                                            |
 | 7                     | Formidable   | 21        | Impossible sans de bonnes compétences ou beaucoup d'effort                                         |
-| 8                     | Heroic       | 24        | Une tâche digne d'être racontée durant des années après.                                           |
-| 9                     | Immortal     | 27        | Une tâche digne de légendes qui durent quelques générations.                                       |
+| 8                     | Heroique     | 24        | Une tâche digne d'être racontée durant des années après.                                           |
+| 9                     | Immortel     | 27        | Une tâche digne de légendes qui durent quelques générations.                                       |
 | 10                    | Impossible   | 30        | Une tâche que des humains normaux n'envisageraient pas (mais qui respecte les lois de la physique).|
 
 ## Combat
