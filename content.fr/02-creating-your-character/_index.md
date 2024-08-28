@@ -148,18 +148,17 @@ Vous pouvez choisir parmi quatre types de personnage: Guerriers, Adeptes, Explor
 
 Votre descripteur définit votre personnage---il donne une coloration à tout ce qu'il fait. Votre descripteur met votre personnage en situation (la permière aventure qui démarre la campagne) et aide à fournir une motivation. C'est l'adjectif dans la phrase "Je suis un *adjectif* *nom* qui *groupe verbal*.
 
+A moins que la Meneuse ne dise le contraire, vous pouvez choisir n'importe quel descripteur de personnage.
 
-Unless your GM says otherwise, you can choose from any of the character descriptors.
+Le Focus est ce que votre personnage fait de mieux. Le Focus fournit la spécificité de votre personnage et donne de nouvelles capacités qui pourraient s'avérer utiles. Votre Focus vous aide aussi à comprendre comment vous associer avec d'autres PJ de votre groupe. C'est le groupe verbal dans la phrase "Je suis un *adjectif* *nom* qui *groupe verbal*.
 
-Focus is what your character does best. Focus gives your character specificity and provides interesting new abilities that might come in handy. Your focus also helps you understand how you relate with the other player characters in your group. It's the verb of the sentence "I am an *adjective noun* who *verbs*."
-
-There are many character foci. The ones you choose from will probably depend on the setting and genre of your game.
+Il y a plusieurs focus de personnage. Celui que vous choisirez dépend probablement de la campagne et du genre de la partie.
 
 {{< hint info >}}
-You can use the Flavors chapter to slightly modify character types to customize them for different genres.
+Vous pouvez utiliser le chapitre sur les Préférences pour modifier légèrement le type du personnage pour le personnaliser.
 {{< /hint >}}
 
-## Special Abilities
+## Capacités Spéciales
 
 Character types and foci grant PCs special abilities at each new tier. Using these abilities usually costs points from your stat Pools; the cost is listed in parentheses after the ability name. Your Edge in the appropriate stat can reduce the cost of the ability, but remember that you can apply Edge only once per action. For example, let's say an Adept with an Intellect Edge of 2 wants to use their Onslaught ability to create a bolt of force, which costs 1 Intellect point. They also want to increase the damage from the attack by using a level of Effort, which costs 3 Intellect points. The total cost for their action is 2 points from their Intellect Pool (1 point for the bolt of force, plus 3 points for using Effort, minus 2 points from their Edge).
 

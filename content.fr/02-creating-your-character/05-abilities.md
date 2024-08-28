@@ -1,14 +1,14 @@
 ---
 title: Capacités
 weight: 5
-description: Ce chapitre présente un grand catalogue de plus d'un millier de capacités qu'un personnage peut obtenir par son type, ses préférences et sa motivation.
+description: Ce chapitre présente un grand catalogue de plus d'un millier de capacités qu'un personnage peut obtenir par son type, ses préférences et son focus.
 ---
 
 # Capacités
 
-Ce chapitre présente un grand catalogue de plus d'un millier de capacités qu'un personnage peut obtenir par son type, ses préférences et sa motivation. Elles sont triées par ordre alphabétique.
+Ce chapitre présente un grand catalogue de plus d'un millier de capacités qu'un personnage peut obtenir par son type, ses préférences et son focus. Elles sont triées par ordre alphabétique.
 
-Le type de personnage, ses préférences et sa motivation donne un rang particulier à chaque capacité. Toutefois, si vous créez une nouvelle motivation ou un nouveau type, nous vous fournissons quelques outils supplémentaires.
+Le type de personnage, ses préférences et son focus donne un rang particulier à chaque capacité. Toutefois, si vous créez un nouveau focus ou un nouveau type, nous vous fournissons quelques outils supplémentaires.
 
 Le premier outil est un niveau de pouvoir pour chaque capacité. Ce niveau vous indiquera à quel point il est puissant par rapport aux autres capacités. Les capacités qui sont appropriées pour les personnages de rang 1 et 2 sont appelées "capacités de rang inférieur", celles pour les personnages de rang 3 et 4 sont appelées "capacités de rang intermédiaire", et celles pour les personnages de rang 5 et 6 sont appelées "capacités de rang supérieures".
 
@@ -23,7 +23,7 @@ Sauf si c'est explicitement noté, vous ne pouvez pas choisir deux fois la même
 
 Les capacités peuvent être divisées en plusieurs catégories basées sur les sortes de choses qu'elles font. Par exemple, les capacités qui améliorent les attaques physiques sont dans la catégorie des compétences en "attaque", les capacités qui soutiennent les alliés sont dans la catégorie "support", et ainsi de suite. Après chaque description de catégorie vous trouverez une liste de capacités triées par rang (inférieur/intermédiaire/supérieur).
 
-Les catégories sont principalement utilisées par les MJs quand ils définissent les nouvelles motivations pour une campagne pour leur permettre de ne chercher qu'une liste simple de capacités au lieu d'essayer de trouver quelque chose d'approprié parmi le miller de capacité dans ce chapitre. Par exemple, le MJ pourrait avoir une motivation, personnalisée pour sa campagne, et appelée "Est Née dans le Marais" et voudrait une capacité défensive de rang 5. Dans ce cas, le MJ peut jeter un coup d'oeil aux capacités de rang supérieur dans la catégorie "protection" et trouver rapidement quelles options sont disponibles.
+Les catégories sont principalement utilisées par les MJs quand ils définissent les nouveaux focus pour une campagne pour leur permettre de ne chercher qu'une liste simple de capacités au lieu d'essayer de trouver quelque chose d'approprié parmi le miller de capacité dans ce chapitre. Par exemple, le MJ pourrait avoir un focus, personnalisée pour sa campagne, et appelée "Est Née dans le Marais" et voudrait une capacité défensive de rang 5. Dans ce cas, le MJ peut jeter un coup d'oeil aux capacités de rang supérieur dans la catégorie "protection" et trouver rapidement quelles options sont disponibles.
 
 {{< hint info >}}
 Il peut être possible qu'un personnage obtienne la même capacité de plus d'une seule source (comme à partir de son type et de son descripteur). A moins que les deux mêmes capacités soient clairement additives (comme deux capacités qui ajoute chacune 3 à la Réserve de Puissance, ce qui ferait +6 points de Puissance), la capacité en doublon pourrait être améliorée d'une autre manière, comme avoir une durée plus longue ou un effet plus grand, ou fournir automatiquement un Atout. Certaines capacités donne des suggestions sur comment le faire; autrement, le joueur et le MJ devrait trouver ensemble une solution sur si et comment la capacité est améliorée.
@@ -31,7 +31,7 @@ Il peut être possible qu'un personnage obtienne la même capacité de plus d'un
 
 Les catégories de capacité ne sont pas intentionellement rigides ou compréhensives. Certaines capacités peuvent apartenir à plusieurs catégories, et on pourrait argumenter que d'autres capacités pourraient être incluses dans plusieurs catégories que celles fournies ici.
 
-Ces catégories ont des chevauchements avec les catégories du chapitre sur les Motivations. Pa exemple, il y a ici une catégorie "support" et une catégorie "support" dans le chapitre sur les Motivations. Elles n'ont pas été pensées pour être des reflets exactes les unes des autres et ne signifient pas exactement la même chose. Ceci dit, si vous créez une motivation centrée sur le support, beaucoup des capacités dans la catégorie des capacités "support" devraient être des choix appropriés.
+Ces catégories ont des chevauchements avec les catégories du chapitre sur les Focus. Par exemple, il y a ici une catégorie "support" et une catégorie "support" dans le chapitre sur les Focus. Elles n'ont pas été pensées pour être des reflets exactes les unes des autres et ne signifient pas exactement la même chose. Ceci dit, si vous créez un focus centrée sur le support, beaucoup des capacités dans la catégorie des capacités "support" devraient être des choix appropriés.
 
 
 ## Attaque
@@ -3265,7 +3265,7 @@ Lorsque vous effectuez une action, vous utilisez le corps de la créature pour e
 
 **Personne ne sait mieux**: Vous êtes entraîné à deux des compétences suivantes : persuasion, tromperie, intimidation, recherche, connaissances dans un domaine ou voir à travers la tromperie. Si vous choisissez une compétence dans laquelle vous êtes déjà entraîné, vous vous spécialisez dans cette compétence. Facilitateur.
 
-**Perspicacité**: Vous êtes entraîné à des tâches permettant de discerner les motivations des autres et de déterminer leur nature générale. Vous avez le don de détecter si quelqu’un est vraiment innocent ou non. Facilitateur.
+**Perspicacité**: Vous êtes entraîné à des tâches permettant de discerner les focus des autres et de déterminer leur nature générale. Vous avez le don de détecter si quelqu’un est vraiment innocent ou non. Facilitateur.
 
 **Persuasion et Tromperie**: Vous êtes entraîné aux tâches liées à la persuasion, à la tromperie et à la détection des mensonges des autres. Facilitateur.
 
