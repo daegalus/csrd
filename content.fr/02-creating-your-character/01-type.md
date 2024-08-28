@@ -12,7 +12,7 @@ Le Type de personnage est le coeur de votre personnage. Son type vous aide à d�
 Dans certains jeux de rôle, votre type de personnage peut être appelé votre classe de personnage.
 {{< /hint >}}
 
-Vous pouvez choisir parmi quatre types de personnage: Guerrier, Adepte, Explorateur, et Emissaire. Toutefois, vous pourriez ne pas vouloir utiliser ces termes génériques. Ce chapitre vous propose, pour chaque type, quelques alternatives de noms qui pourraient être plus adapté à un genre particulier. Vous trouverez peut-être que des noms comme "Guerrier" ou "Explorateur" ne sonnent pas juste, en particulier dans des campagnes se déroulant à une époque contemporaine. Comme toujours, vous êtes libre de faire comme vous voulez. (Votre type est ce que votre personnage est. Vous devriez utiliser le nom que vous voulez pour votre type, du moment qu'il s'accorde à la fois au personnage et à la campagne.)
+Vous pouvez choisir parmi quatre types de personnage: [Guerrier](#guerrier), [Adepte](#adepte), [Explorateur](#explorateur), et [Emissaire](#emissaire). Toutefois, vous pourriez ne pas vouloir utiliser ces termes génériques. Ce chapitre vous propose, pour chaque type, quelques alternatives de noms qui pourraient être plus adapté à un genre particulier. Vous trouverez peut-être que des noms comme "Guerrier" ou "Explorateur" ne sonnent pas juste, en particulier dans des campagnes se déroulant à une époque contemporaine. Comme toujours, vous êtes libre de faire comme vous voulez. (Votre type est ce que votre personnage est. Vous devriez utiliser le nom que vous voulez pour votre type, du moment qu'il s'accorde à la fois au personnage et à la campagne.)
 
 Comme le type est la base sur laquelle votre personnage est bati, il est important de considérer comment le type se tient avec la campagne sélectionnée. Pour se faire, les types sont en pratique des archetypes. Un Guerrier, par exemple, pourrait être n'importe qui du chevalier en armure étincellante au policier dans la rue ou au baroudeur cybernétique vétéran de milliers de guerres futuristes.
 
@@ -38,7 +38,7 @@ Les tâches de défense surviennent quand un joueur fait un jet de dé pour emp�
 
 **Défense de Puissance:** Utilisée pour résister au poison, à la maladie, et à tout ce qui peut être sumonté par la force et la santé.
 
-**Défense de Vitesse:** Utilisée pour éviterdes attaques et échapper au danger. C'est en général la tâche de défense la plus utilisée.
+**Défense de Rapidité:** Utilisée pour éviterdes attaques et échapper au danger. C'est en général la tâche de défense la plus utilisée.
 
 ***Défense d'Intelligence:** Utilisée pour se débarraser des attaques mentales ou tout ce qui peut affecter ou influencer son esprit.
 
@@ -105,7 +105,7 @@ Vus pouvez dépenser un XP pour utiliser une des ces intrusions de joueur, à co
 | **Stat**     | **Réserve initiale** |
 | ------------ | -------------------- |
 | Puissance    | 10                   |
-| Vitesse     | 10                   |
+| Rapidité     | 10                   |
 | Intelligence | 8                    |
 
 Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les Réserves.
@@ -118,7 +118,7 @@ Les Guerriers de Premier Rang ont les capacités suivantes:
 
 **Effort:** Votre Effort est de 1.
 
-**Naturel Physique:** Vous avez un Avantage de Puissance de 1 et un Avantage de Vitesse de 0, ou vous avez un Avantage de Puissance de 0 et un Avantage de Vitesse de 1. Dans tous les cas, vous avez un Avantage d'Intelligence de 0.
+**Naturel Physique:** Vous avez un Avantage de Puissance de 1 et un Avantage de Rapidité de 0, ou vous avez un Avantage de Puissance de 0 et un Avantage de Rapidité de 1. Dans tous les cas, vous avez un Avantage d'Intelligence de 0.
 
 
 **Utilisation de Cypher:** Vous pouvez porter deux cyphers en même temps.
@@ -224,17 +224,17 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 ### Warrior Example
 
 {{< hint warning >}}
-Ray souhaite créer un personnage Guerrier pour une campagne moderne. Il décide que le personnage est un ancien militaire rapide et fort. Il met 3 de ses points supplémentaires dans sa Réserve de Puissance et 3 dans sa Réserve de Vitesse ; ses pools de statistiques sont désormais Puissance 13, Vitesse 13 et Intelligence 8. En tant que personnage de premier rang, son Effort est de 1, son Avantage de Puissance est de 1 et son Avantage de Vitesse et son Avantage d'Intelligence sont tous deux de 0. Son personnage n'est pas particulièrement intelligent. ou charismatique.
+Ray souhaite créer un personnage Guerrier pour une campagne moderne. Il décide que le personnage est un ancien militaire rapide et fort. Il met 3 de ses points supplémentaires dans sa Réserve de Puissance et 3 dans sa Réserve de Rapidité ; ses pools de statistiques sont désormais Puissance 13, Rapidité 13 et Intelligence 8. En tant que personnage de premier rang, son Effort est de 1, son Avantage de Puissance est de 1 et son Avantage de Rapidité et son Avantage d'Intelligence sont tous deux de 0. Son personnage n'est pas particulièrement intelligent. ou charismatique.
 
-Il souhaite utiliser un grand couteau de combat (une arme moyenne qui inflige 4 points de dégâts) et un .357 Magnum (un pistolet lourd qui inflige 6 points de dégâts mais nécessite l'usage des deux mains). Ray décide de ne pas porter d'armure, car ce n'est pas vraiment approprié au contexte, donc pour sa première capacité, il choisit Entraîné sans armure afin de faciliter les actions de défense en Vitesse. Pour sa deuxième capacité, il choisit Combat Prowess afin de pouvoir infliger des dégâts supplémentaires avec son gros couteau.
+Il souhaite utiliser un grand couteau de combat (une arme moyenne qui inflige 4 points de dégâts) et un .357 Magnum (un pistolet lourd qui inflige 6 points de dégâts mais nécessite l'usage des deux mains). Ray décide de ne pas porter d'armure, car ce n'est pas vraiment approprié au contexte, donc pour sa première capacité, il choisit Entraîné sans armure afin de faciliter les actions de défense en Rapidité. Pour sa deuxième capacité, il choisit Combat Prowess afin de pouvoir infliger des dégâts supplémentaires avec son gros couteau.
 
-Ray veut être à la fois rapide et résistant, c'est pourquoi il sélectionne Improvement Edge. Cela lui donne un Avantage de Vitesse de 1. Il complète son personnage avec des compétences physiques et choisit la natation et la course.
+Ray veut être à la fois rapide et résistant, c'est pourquoi il sélectionne Improvement Edge. Cela lui donne un Avantage de Rapidité de 1. Il complète son personnage avec des compétences physiques et choisit la natation et la course.
 
 Le guerrier peut porter deux cyphers. Le MJ décide que le premier cypher de Ray est une pilule qui restaure 6 points de puissance lorsqu'il est avalé, et son second est une petite grenade facilement dissimulée qui explose comme une bombe incendiaire lorsqu'elle est lancée, infligeant 3 points de dégâts à tous ceux qui se trouvent à portée immédiate.
 
 Ray doit encore choisir un descripteur et un focus. En prévision des règles des descripteurs, Ray choisit Strong, ce qui augmente son Réerve de Puissance à 17. Il s'entraîne également à sauter et à briser des objets inanimés. (S'il avait choisi le saut comme l'une de ses compétences physiques, le descripteur Fort l'aurait fait se spécialiser dans le saut au lieu de s'entraîner.) Être fort donne également à Ray une arme supplémentaire moyenne ou lourde. Il choisit une batte de baseball qu'il utilisera à la rigueur. Il le garde dans le coffre de sa voiture.
 
-Pour se concentrer, Ray choisit Maîtrise l'Armement. Cela lui donne encore une arme de grande qualité. Il choisit un autre couteau de combat et demande au MJ s'il peut l'utiliser dans sa main gauche, non pas pour effectuer des attaques, mais comme bouclier. Cela facilitera ses jets de défense en Vitesse s'il a ses deux couteaux sortis (le "bouclier" compte comme un atout). Le MJ est d'accord. Pendant le jeu, le Guerrier de Ray sera difficile à toucher --- il est entraîné aux jets de défense de Vitesse, et son couteau supplémentaire facilite encore plus ses jets de défense.
+Pour se concentrer, Ray choisit Maîtrise l'Armement. Cela lui donne encore une arme de grande qualité. Il choisit un autre couteau de combat et demande au MJ s'il peut l'utiliser dans sa main gauche, non pas pour effectuer des attaques, mais comme bouclier. Cela facilitera ses jets de défense en Rapidité s'il a ses deux couteaux sortis (le "bouclier" compte comme un atout). Le MJ est d'accord. Pendant le jeu, le Guerrier de Ray sera difficile à toucher --- il est entraîné aux jets de défense de Rapidité, et son couteau supplémentaire facilite encore plus ses jets de défense.
 
 Grâce à son Focus, il inflige également 1 point de dégâts supplémentaire avec l'arme de son choix. Il inflige désormais 6 points de dégâts avec sa lame. Le personnage de Ray est un combattant mortel, commençant probablement le jeu avec une réputation de combattant au couteau.
 
@@ -280,7 +280,7 @@ Wuand vous jouez un Adepte, vous pouvez dépenser un point d'expérience pour ut
 | **Stat**         | **Réserve initiale**  |
 | ---------------- | --------------------- |
 | Puissance        | 7                     |
-| Vitesse         | 9                     |
+| Rapidité         | 9                     |
 | Intelligence     | 12                    |
 
 Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les Réserves.
@@ -320,7 +320,7 @@ Les Adeptes de Premier Rang disposent des capacités suivantes :
 
 **Effort:** Votre Effort est de 1.
 
-**Genie:** Vous avez un Avantage d'Intelligence de 1, un Avantage de Puissance de 0 et un Avantage de Vitesse de 0.
+**Genie:** Vous avez un Avantage d'Intelligence de 1, un Avantage de Puissance de 0 et un Avantage de Rapidité de 0.
 
 **Expert en Utilisation de Cypher:** Vous pouvez porter trois cypher en même temps.
 
@@ -419,11 +419,11 @@ Choisissez une des capacités ci-dessous (ou du rang inférieur) pour l'ajouter 
 
 {{< hint warning >}}
 
-Jen veut créé une Adepte, une sorcière pour une campagne de fantasy. Elle décide d'être plutôt équilibrée, alors elle met 2 de ses points supplémentaires dans chaque Réserve de statistiques, ce qui lui donne une réserve de Puissance de 9, une Réserve de Vitesse de 11 et une Réserve d'intelligence de 14. Son adepte est intelligente et rapide. Elle a un Avantage d'Intelligence de 1, un Avantage de Puissance de 0 et un Avantage de Vitesse de 0. En tant que personnage de premier rang, son effort est de 1. Comme capacités initiales, elle choisit Onslaught et Ward, ce qui lui donne une forte attaque et une défense. Elle choisit également Magic Training et complète son personnage avec Scan, qui, espère-t-elle, sera utile pour obtenir des informations et des connaissances. Pour ce personnage, Onslaught, Ward et Scan sont tous des sorts qu'elle maîtrise au fil des années d'entraînement et d'études.
+Jen veut créé une Adepte, une sorcière pour une campagne de fantasy. Elle décide d'être plutôt équilibrée, alors elle met 2 de ses points supplémentaires dans chaque Réserve de statistiques, ce qui lui donne une réserve de Puissance de 9, une Réserve de Rapidité de 11 et une Réserve d'intelligence de 14. Son adepte est intelligente et rapide. Elle a un Avantage d'Intelligence de 1, un Avantage de Puissance de 0 et un Avantage de Rapidité de 0. En tant que personnage de premier rang, son effort est de 1. Comme capacités initiales, elle choisit Onslaught et Ward, ce qui lui donne une forte attaque et une défense. Elle choisit également Magic Training et complète son personnage avec Scan, qui, espère-t-elle, sera utile pour obtenir des informations et des connaissances. Pour ce personnage, Onslaught, Ward et Scan sont tous des sorts qu'elle maîtrise au fil des années d'entraînement et d'études.
 
 Elle peut porter trois cyphers. Le MJ lui donne une potion qui agit comme un téléporteur à courte portée, un petit charme qui redonne 5 points à sa réserve d'intelligence et une fiole remplie de liquide qui explose comme une bombe enflammée. La sorcière de Jen est douée avec les armes légères, elle choisit donc un poignard.
 
-Pour son descripteur, Jen choisit Graceful, ce qui ajoute 2 points à sa Réserve de Vitesse, la portant à 13. Ce descripteur signifie qu'elle est formée à l'équilibre et à tout ce qui nécessite des mouvements prudents, des arts du spectacle physiques et des tâches de Défense de Vitesse. Peut-être qu'elle est danseuse. En fait, elle commence à développer une histoire qui implique des mouvements gracieux et souples qu'elle intègre dans ses sorts.
+Pour son descripteur, Jen choisit Graceful, ce qui ajoute 2 points à sa Réserve de Rapidité, la portant à 13. Ce descripteur signifie qu'elle est formée à l'équilibre et à tout ce qui nécessite des mouvements prudents, des arts du spectacle physiques et des tâches de Défense de Rapidité. Peut-être qu'elle est danseuse. En fait, elle commence à développer une histoire qui implique des mouvements gracieux et souples qu'elle intègre dans ses sorts.
 
 Pour sa concentration, elle choisit Dirige. Cela lui donne une formation aux interactions sociales, ce qui, encore une fois, l'aide à se démarquer : elle est douée dans toutes sortes de situations. De plus, elle possède la capacité Good Advice, ce qui lui permet d'être un point focal de son groupe.
 
@@ -473,7 +473,7 @@ Quand vous jouez un Explorateur, vous pouvez dépenser 1 XP pour utiliser l'une 
 | **Stat**     | **Réserve de Départ**   |
 | ------------ | ----------------------- |
 | Puissance    | 10                      |
-| Vitesse     | 9                       |
+| Rapidité     | 9                       |
 | Intelligence | 9                       |
 
 Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les Réserves.
@@ -513,7 +513,7 @@ Explorateurs de Premier Rang ont les capacités suivantes:
 
 **Effort:** Votre Effort est de 1.
 
-**Naturel Physique:** Vous avez un Avantagede Puissance de 1, un Avantagede Vitesse de 0 et un Avantage d'Intelligence de 0.
+**Naturel Physique:** Vous avez un Avantagede Puissance de 1, un Avantagede Rapidité de 0 et un Avantage d'Intelligence de 0.
 
 **Utilisation de Cypher:** Vous pouvez porter deux cyphers en même temps.
 
@@ -643,7 +643,7 @@ Choisissez trois Capacités ci-dessous (ou d'un rang inférieur) à ajouter à v
 
 {{< hint warning >}}
 
-Sam décide de créer un personnage Explorateur pour une campagne de science-fiction. Ce personnage sera une âme robuste qui explore des mondes extraterrestres. ils mettent 3 points supplémentaires dans leur Eéserve de Puissance, 2 dans leur réserve de Vitesse et 1 dans leur réserve d'intelligence ; leurs réserves de statistiques sont désormais de Puissance 13, Vitesse 11 et Intelligence 10. En tant que personnage de premier rang, leur Effort est de 1, son Avantage de Puissance est de 1 et leur Avantage de Rpidité et d'Intelligence sont de 0. Son personnage est assez complet jusqu'à présent.
+Sam décide de créer un personnage Explorateur pour une campagne de science-fiction. Ce personnage sera une âme robuste qui explore des mondes extraterrestres. ils mettent 3 points supplémentaires dans leur Eéserve de Puissance, 2 dans leur réserve de Rapidité et 1 dans leur réserve d'intelligence ; leurs réserves de statistiques sont désormais de Puissance 13, Rapidité 11 et Intelligence 10. En tant que personnage de premier rang, leur Effort est de 1, son Avantage de Puissance est de 1 et leur Avantage de Rpidité et d'Intelligence sont de 0. Son personnage est assez complet jusqu'à présent.
 
 Sam intervient immédiatement et commence à choisir des capacités. Il choisit Danger Sense et Surging Confidence, pensant que ces capacités seront généralement utiles. Il choisit également Practiced in Armor, estimant que le personnage porte une armure moyenne de haute technologie lors de l'exploration. Enfin, il choisit les connaissances et les compétences et sélectionnent la géologie et la biologie pour les aider lors des explorations interplanétaires.
 
@@ -695,7 +695,7 @@ Quand vous jouez un Emissaire, vous pouvez dépenser 1 XP pour utiliser l'une de
 | Stat          | Réserve de Départ   |
 | ------------- | ------------------- |
 | Puissance     | 8                   |
-| Vitesse      | 9                   |
+| Rapidité      | 9                   |
 | Intelligence  | 11                  |
 
 Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les Réserves.
@@ -735,7 +735,7 @@ Les Emissaires ont les capacités suivantes:
 
 **Effort:** Votre Effort est de 1.
 
-**Genius:** Vous avez un Avantage d'Intelligence de 1, un Avantage de Puissance de 0 et un Avantage de Vitesse de 0.
+**Genius:** Vous avez un Avantage d'Intelligence de 1, un Avantage de Puissance de 0 et un Avantage de Rapidité de 0.
 
 **Utilisation de Cypher:** Vous pouvez porter deux cyphers en même temps.
 
@@ -861,7 +861,7 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 
 {{< hint warning >}}
 
-Mary veut créer un émissaire pour une campagne d'horreur lovecraftienne. Elle met 3 de ses points de statistiques supplémentaires dans sa réserve d'intelligence et 3 dans sa réserve de Vitesse; ses statistiques sont désormais de Puissance 8, Vitesse 12 et Intelligence 14. En tant que personnage de premier rang, son Effort est de 1, son avantage de Puissance et son avantage de Vitesse sont de 0 et son avantage d'Intelligence est de 1. Elle est intelligente et charismatique mais pas particulièrement costaude.
+Mary veut créer un émissaire pour une campagne d'horreur lovecraftienne. Elle met 3 de ses points de statistiques supplémentaires dans sa réserve d'intelligence et 3 dans sa réserve de Rapidité; ses statistiques sont désormais de Puissance 8, Rapidité 12 et Intelligence 14. En tant que personnage de premier rang, son Effort est de 1, son avantage de Puissance et son avantage de Rapidité sont de 0 et son avantage d'Intelligence est de 1. Elle est intelligente et charismatique mais pas particulièrement costaude.
 
 Mary choisit Fast Talk et Spin Identity pour l'aider à se rendre dans des endroits et à apprendre des choses qu'elle veut savoir. C'est un peu une escroc. Cependant, elle est gentille avec ses amis et choisit également l'encouragement. Mary complète ses capacités de premier rang avec des compétences d'interaction (tromperie et persuasion).
 
@@ -871,7 +871,7 @@ Le personnage de Mary porte un petit couteau caché dans son sac en cas de probl
 
 Mary choisit Résilient comme descripteur et décide qu'elle peut probablement apprendre la vérité derrière certaines des choses étranges dont elle a entendu parler sans ressentir trop de traumatisme si c'est horrible. Résiliente augmente sa Réserve de Puissance à 10 et sa Réserve d'Intelligence à 16. Elle est entraînée aux actions de défense de Puissance et d'Intelligence et gagne un jet de récupération supplémentaire chaque jour. Au début, Mary est triste que son descripteur lui donne une incapacité dans les tâches de connaissances et d'énigmes, mais elle se rend ensuite compte que le défaut correspond bien à son personnage --- elle est meilleure pour amener les gens à lui dire ce qu'elle a besoin de savoir qu'à comprendre l'information elle-même.
 
-Pour sa concentration, Mary choisit Bouge comme un Chat, lui accordant une Réserve de Vitesse finale de 18 et un entraînement à l'équilibre. En fin de compte, elle est gracieuse et rapide, charismatique et plus robuste qu'elle ne le pensait au départ grâce à son dynamisme. Elle est prête à enquêter sur ce qui est bizarre.
+Pour sa concentration, Mary choisit Bouge comme un Chat, lui accordant une Réserve de Rapidité finale de 18 et un entraînement à l'équilibre. En fin de compte, elle est gracieuse et rapide, charismatique et plus robuste qu'elle ne le pensait au départ grâce à son dynamisme. Elle est prête à enquêter sur ce qui est bizarre.
 
 Pour son arc de personnage, Mary choisit Fall From Grace. Elle décide qu'elle est obsédée par un livre étrange qui appartient à sa famille depuis des générations, et son personnage est attiré par ses langages et ses rituels étranges.
 
@@ -967,7 +967,7 @@ Les règles de cette section sont plus avancées et impliquent toujours la MJ. E
 
 Les aspects suivants des quatre types de personnages peuvent être modifiés lors de la création du personnage. Les autres capacités ne doivent pas être modifiées.
 
-**Réserves:** Chaque type de personnage a une valeur de Réserve de statistiques de départ. Un joueur peut échanger des points entre ses Réserves sur une base individuelle. Par exemple, ils peuvent échanger 2 points de Puissance contre 2 points de Vitesse. Cependant, aucune Réserve de statistiques de départ ne doit être supérieur à 20.
+**Réserves:** Chaque type de personnage a une valeur de Réserve de statistiques de départ. Un joueur peut échanger des points entre ses Réserves sur une base individuelle. Par exemple, ils peuvent échanger 2 points de Puissance contre 2 points de Rapidité. Cependant, aucune Réserve de statistiques de départ ne doit être supérieur à 20.
 
 **Avantage:** Un joueur peut démarrer avec un Avantage de 1 dans la Statistique de son choix.
 
@@ -979,7 +979,7 @@ Les aspects suivants des quatre types de personnages peuvent être modifiés lor
 
 En plus d'autres options de personnalisation, un joueur peut choisir de prendre des inconvénients ou des pénalités pour obtenir des avantages supplémentaires.
 
-**Faiblesse:** Une faiblesse est essentiellement le contraire d'un Avantage de Statistique. Si vous avez une faiblesse en Vitesse, toutes les actions de Vitesse qui vous demandent de dépenser des points coûtent 1 point supplémentaire de votre Réserve. A tout moment, un joueur peut donner à son personnage une faiblesse dans une statistique et, en échange, gagner +1 à son Avantage dans l'une des deux autres statistiques. Ainsi, un PJ peut prendre une faiblesse en Vitesse pour gagner +1 à son Avantage de Puissance.
+**Faiblesse:** Une faiblesse est essentiellement le contraire d'un Avantage de Statistique. Si vous avez une faiblesse en Rapidité, toutes les actions de Rapidité qui vous demandent de dépenser des points coûtent 1 point supplémentaire de votre Réserve. A tout moment, un joueur peut donner à son personnage une faiblesse dans une statistique et, en échange, gagner +1 à son Avantage dans l'une des deux autres statistiques. Ainsi, un PJ peut prendre une faiblesse en Rapidité pour gagner +1 à son Avantage de Puissance.
 
 Normalement, vous ne pouvez avoir une faiblesse que dans une statistique dans laquelle vous avez un avantage de 0. De plus, vous ne pouvez pas avoir plus d'une faiblesse, et vous ne pouvez pas avoir une faiblesse supérieure à 1 à moins que la faiblesse supplémentaire ne provienne d'une autre source (telle qu'une maladie ou un handicap résultant d'actions ou de conditions du jeu).
 
