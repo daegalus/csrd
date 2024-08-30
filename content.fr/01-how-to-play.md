@@ -79,7 +79,7 @@ Les armes légères n'infligent que 2 points de dommages, mais elles facilitent 
 
 Les armes mpoyennes infligent 4 point de dommage. Les armes moyennes incluent les épées, les hâches de bataille, les maces, les arbalètes, les lances, les pistolets, les blasters, et ainsi de suite. La plupart des armes sont moyennes. tout ce qui peut être utilisé à une main (même si c'est souvent utilisé à deux mains comme les bâtons ou les lances) est une arme moyenne.
 
-Les armes lourdes infligent 6 poijts de dommage et elles doivent être utilisées à deux mains pour attaquer. Les armes lorude sont les grandes épées, les grandes hâches, les marteaux de guerre, les halebardes, les arbalètes lourdes, les fusils blaser, et ainsi de suite. Tout ce qui doit être utilisé avec deux mains est une arme lourde.
+Les armes lourdes infligent 6 points de dommage et elles doivent être utilisées à deux mains pour attaquer. Les armes lorude sont les grandes épées, les grandes hâches, les marteaux de guerre, les halebardes, les arbalètes lourdes, les fusils blaser, et ainsi de suite. Tout ce qui doit être utilisé avec deux mains est une arme lourde.
 
 ## Les Jets spéciaux
 
