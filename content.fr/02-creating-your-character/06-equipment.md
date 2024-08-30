@@ -219,10 +219,10 @@ En général, les armes légères sont des objets à prix moyen, les armes moyen
 | Dague                                 | 2 po   | Peut être lancé sur une courte portée |
 | Faux                                  | 1 po   | Courte portée                         |
 | Filet                                 | 1 po   | Peut être lancé sur une courte portée |
-| Flechetes                             | 5 cp   | Courte portée                         |
+| Flechetes                             | 5 pc   | Courte portée                         |
 | Fouet                                 | 2 po   |                                       |
 | Fronde                                | 1 pa   | Courte portée                         |
-| Fronde - balles (20)                  | 5 cp   |                                       |
+| Fronde - balles (20)                  | 5 pc   |                                       |
 | Hachette                              | 5 po   | Peut être lancé sur une courte portée |
 | Rapière                               | 25 po  |                                       |
 | Sans arme (poing, pied, etc)          | –      |                                       |
@@ -328,7 +328,7 @@ Les explosifs comme les grenades peuvent être lancés sur une courte portée. D
 | Feu d'alchimiste (flacon)    | 50 po     |
 | Gourde d'eau                 | 2 pa      |
 | Grappin                      | 2 po      |
-| Huile (flasque)              | 1 cp      |
+| Huile (flasque)              | 1 pc      |
 | Instrument de musique        | 2-50 po   |
 | Kit d'escalade               | 25 po     |
 | Kit de déguisement           | 25 po     |
@@ -342,19 +342,19 @@ Les explosifs comme les grenades peuvent être lancés sur une courte portée. D
 | Outils d'alchimiste          | 50 go     |
 | Outils de crochetage         | 25 po     |
 | Pack d'aventurier            | 6 po      |
-| Perche, bois                 | 5 cp      |
+| Perche, bois                 | 5 pc      |
 | Pied de biche                | 2 po      |
-| Piton                        | 5 cp      |
-| Plume pour écrire            | 2 cp      |
+| Piton                        | 5 pc      |
+| Plume pour écrire            | 2 pc      |
 | Pointes en fer (10)          | 1 po      |
 | Rations (1 jour)             | 5 pa      |
 | Sablier                      | 25 po     |
 | Sac à dos                    | 2 po      |
 | Sac d'outils légers          | 10 po     |
 | Sac d'outils lourds          | 25 po     |
-| Sac                          | 1 cp      |
+| Sac                          | 1 pc      |
 | Tente                        | 2 po      |
-| Torche                       | 1 cp      |
+| Torche                       | 1 pc      |
 
 ## Objets et Services divers
 
@@ -366,99 +366,99 @@ Les vêtements pas chers sont juste au-dessus des loques, mais les vêtements à
 
 D'autres sortes d'objets divers peuvent être trouvés dans le chapitre Genre.
 
-## Descriptions des vêtements en Fantasy
+## Vêtements en Fantasy
 
-Specific pieces of clothing vary by climate and local custom, but usually include a hat, shirt, belt, pants or skirt, shoes, and underclothes.
+Les pièces de vêtements peuvent varier en fonction du climat ou des coutumes locales, mais il y a souvent un chapeau, une chemise, une ceinture, des pantalons ou une jupe, des chaussures et des sous-vêtements.
 
-**Artisan's outfit:** A suitable outfit for a person who performs a trade (blacksmith, cobbler, and so on). Often includes an apron and a belt for holding tools.
+**Costume d'artiste:** Vêtement colorés et originaux appropriés aux artistes de rue comme les acteurs, bardes jongleurs ou acrobates.
 
-**Ascetic's outfit:** A simple outfit worn by monks and other people who eschew displays of wealth and status. Specific styles vary by climate and the philosophical tenets of the wearer, but a typical example is a loose shirt, loose breeches, sandals, a cap, and several cloth straps that can serve as a belt, scarf, or simple adornments.
+**Tenue d'Artisan:** Une tenue appropriée pour une personne qui travaille dans l'artisanat (forgeron, cordonnier, ...). Cela inclut souvent un tablier et une ceinture d'outils.
 
-**Cold-weather outfit:** A heavier set of clothing for protection against cold weather.
+**Tenue d'ascète:** Une tenue très simple pour les moines ou d'autres personnes qui détestent montrer de la richesse ou un statut social élevé. Des styles spécifiques existent en fonction du climat et les principes philosophiques, mais un exemple typique est une chemise large, des braies, des sandales, un capuchon, des bandes de tissues qui peuvent servir de ceinture, foulard ou de simples ornements.
 
-**Entertainer's costume:** Interesting (and usually colorful) clothing appropriate for an entertainer such as an actor, bard, juggler, or acrobat.
+**Tenue d'explorateur:** Un ensemble de vêtements résistants pour les aventuriers et les voyageurs expérimentés qui veulent être prêts pour les activités diverses dans des environnements divers.
 
-**Explorer's outfit:** A set of sturdy clothing for adventurers and experienced travelers who want to be prepared for various activities and environments.
+**Tenue de magicien:** Des vêtements qui identifient le porteur en tant que pratiquant des la magie arcanique. Une tenue typique inclut un chapeau interressant ou un capuchon, une robe avec de longues manches et beaucoup de poches, et des chaussures, le tout décoré avec des runes ou des représentations de créatures magiques comme des dragons. Les érudits et les sages portent des vêtements analogues mais sans les aspects mystiques des mages.
 
-**Fancy outfit:** A stylish set of clothes according to the local fashions and customs. Generally the minimum required for meeting with important townsfolk such as a mayor or noble. Higher-status events require outfits that cost up to four times as much.
+**Tenue de paysan:** Vêtement très simple pour les personnes libres et de faible statut social. Cela inclut un capuchon, une chemise ou une blouse, des pantalons ou une jupe, des chaussures en tissu épais ou sandales.
 
-**Peasant's outfit:** Very simple clothing for free people of low social status. Includes a kerchief or cap, shirt or blouse, trousers or skirt, and heavy cloth shoes or foot wrappings.
+**Vêtements de prêtre:** Vêtements appropriés pour des cérémonies pour une religion spécifique. Un exemple courant est un chapeau ou une coiffe, une longue tunique ou une robe, un tabard ou une écharpe, et des chaussures, avec des pièces supplémentaires marquées avec les symboles appropriés.
 
-**Priestly vestments:** Garments appropriate for performing ceremonies for a specific religion. A common example is a hat or headdress, long tunic or dress, tabard or stole, and shoes, with the outer pieces marked with appropriate symbols.
+**Tenue de voyageur:** Un ensemble de vêtements confortables qui inclut des gants, un chapeau épais, une veste et un manteau avec une capuche.
 
-**Traveler's outfit:** A comfortable set of clothes that includes gloves, a protective hat, a jacket, and a cloak with a hood.
+**Tenue pour le froid:** Un ensemble plus lourd pour la protection contre les hivers froids.
 
-**Wizard's outfit:** Clothing that identifies the wearer as a practitioner of arcane magic. A typical outfit includes an interesting hat or cap, a robe with long sleeves and many pockets, and shoes, often adorned with runes or representations of magical creatures such as dragons. Scholars and sages wear very similar garments that lack the mystical aspects of wizard clothing.
+**Tenue stylée:** Un ensemble de vêtements choisis en fonction de la mode et des coutumes locales. En général, c'est le minimum requis pour rencontrer les personnages importants de ville comme le maire ou un noble. Les évènements avec un statut très élevé peuvent demander des tenues qui peuvent couteux quatre fois plus chères.
 
-| Item                  | Price |
+| Objet                 | Prix  |
 | --------------------- | ----- |
-| Artisan's outfit      | 2 po  |
-| Ascetic's outfit      | 1 po  |
-| Cold-weather outfit   | 6 po  |
-| Entertainer's costume | 3 po  |
-| Explorer's outfit     | 8 po  |
-| Fancy outfit          | 25 po |
-| Peasant's outfit      | 1 pa  |
-| Priestly vestments    | 5 po  |
-| Traveler's outfit     | 2 po  |
-| Wizard's outfit       | 5 po  |
+| Costume d'artiste     | 3 po  |
+| Tenue d'artisan       | 2 po  |
+| Tenue d'ascète        | 1 po  |
+| Tenue d'explorateur   | 8 po  |
+| Tenue de magicien     | 5 po  |
+| Tenue de paysan       | 1 pa  |
+| Tenue de voyageur     | 2 po  |
+| Tenue pour le froid   | 6 po  |
+| Tenue stylée          | 25 po |
+| Vêtements de prêtre   | 5 po  |
 
-## Animals and Gear Descriptions
+## Animaux et accessoires
 
-**Draft horse:** A strong horse able to carry or pull heavy loads.
+**Cheval de trait:** Un cheval robuste apable de porter ou de tirer de lourdes charges.
 
-**Guard dog:** A dog specially trained to guard. Better suited for watching or patrolling an area against thieves and intruders than it is for accompanying adventurers into dangerous locations.
+**Chien de garde:** Un chien entraîné à garder. Il est beacoup plus adapté à surveiller ou patrouiller une zone contre des voleurs et des intrus que pour accompagner des aventuriers dans des endroits dangereux.
 
-**Pony:** A smaller type of horse, suitable for pulling a cart, carrying smaller loads than a full-sized horse, or serving as a mount for a smaller-than-human creature such as a dwarf or halfling.
+**Poney:** Un petit type de cheval, utile pour tirer un chariot, porter des plus petites charges qu'un cheval, ou pour servir de monture pour une créature plus petite qu'un humain, tel un nain ou un halfling.
 
-**Riding horse:** A horse trained for riding and able to carry a typical adult human. Riding horses tend to panic in combat.
+**Cheval de selle:** Un cheval entraîné pour être monté par un cavalier, typiquement un humain adulte. Les chevaux de selle peuvent paniquer dans un combat.
 
-**Warhorse:** A horse trained to be calm during the noise and action of combat, used either as a mount or to pull a vehicle such as a chariot.
+**Cheval de guerre:** Un cheval entraîné à rester calme pendant le bruit et la fureur d'un combat, utilisé soit comme monture, soit pour tirer un véicule comme un char.
 
-| Item         | Price      |
-| ------------ | ---------- |
-| Draft horse  | 50 po      |
-| Guard dog    | 25 po      |
-| Pony         | 30 po      |
-| Riding horse | 75 po      |
-| Saddle       | 10 po      |
-| Warhorse     | 300-500 po |
+| Objet            | Prix      |
+| ---------------- | ---------- |
+| Cheval de trait  | 50 po      |
+| Chien de garde   | 25 po      |
+| Poney            | 30 po      |
+| Cheval de selle  | 75 po      |
+| Selle            | 10 po      |
+| Cheval de guerre | 300-500 po |
 
-## Food and Lodging
+## Nourriture et Logement
 
-| Item                 | Price |
+| Objet                | Prix  |
 | -------------------- | ----- |
-| Ale, gallon          | 2 pa  |
-| Ale, mug             | 4 cp  |
-| Banquet (1 person)   | 10 po |
-| Bread, loaf          | 2 cp  |
-| Inn stay (per night) |       |
-| Good                 | 8 pa  |
-| Common               | 5 pa  |
-| Poor                 | 1 pa  |
-| Meals (per day)      |       |
-| Good                 | 5 pa  |
-| Common               | 3 pa  |
-| Poor                 | 6 cp  |
-| Meat (one serving)   | 3 pa  |
-| Wine (bottle)        | 10 po |
-| Wine (pitcher)       | 2 pa  |
+| Ale, 4 L             | 2 pa  |
+| Ale, choppe          | 4 pc  |
+| Banquet (1 personne) | 10 po |
+| Pain, miche          | 2 pc  |
+| Auberge (par nuité)  |       |
+|   Bonne              | 8 pa  |
+|   Commune            | 5 pa  |
+|   Pauvre             | 1 pa  |
+| Repas (par jour)     |       |
+|   Bon                | 5 pa  |
+|   Commun             | 3 pa  |
+|   Pauvre             | 6 pc  |
+| Viande (une portion) | 3 pa  |
+| Vin (bouteille)      | 10 po |
+| Vin (pichet)         | 2 pa  |
 
 ## Cyphers
 
-Cyphers can sometimes be physical items like equipment, but they work very differently. To be entirely accurate, cyphers might have the veneer of equipment, but don't fall into the trap of confusing the two. Cyphers are far more akin to PC special abilities than to gear. In a fantasy game, they might be potions, scrolls, or charms. In a science fiction game, cyphers might be interesting throwaway devices or alien crystals of unknown providence. In other games, they might just represent good fortune or sudden inspiration. See the Cyphers chapter for more details.
+Les cyphers peuvent quelque fois être des objets physiques comme de l'équipement, mais ils fonctionnent de manière très différente : ils en ont le vernis, mais il faut surtout pas les confondre. Les cyphers sont beaucoup plus apparentés aux Capacités spéciales des personnages qu'à du simple matériel. Dans les jeu de Fantasy, ils peuvent être des potionsn des parchemins ou des charmes. Dans de la science-fiction, les cyphers peuvent être des appareils abandonnés ou des crystaux extra-terrestres de provence inconnus. Dans d'autres jeux, ils peuvent simplement repréesnter de la bonne fortune ou une inspiration soudaine. Voir le chapitre Cyphers pour plus de détails.
 
 ## Artifacts
 
-Artifacts are more powerful than equipment and can't simply be purchased. The Genre chapter offers a few sample artifacts appropriate for various settings.
+Les artifacts sont plus puissant que l'équipement et ne peuvent pas être simplement acheté. Le chapitre Genre offre un apperçu de quelques exemples d'artifacts appropriés pour certains cadres de campagne.
 
-Each artifact has a level and a rate of power depletion. When an artifact is used or activated, the player rolls the designated die (`1d6`, `1d10`, `1d20`, or `1d100`). If the die shows the depletion number(s), the item works, but that is its last use. A depletion entry of "---" means that the artifact never depletes, and an entry of "automatic" means that it can be used only once.
+Chaque artifact a un niveau et un ratio d'épuisement de pouvoir. Quand un artifact est utilisé ou activé, le joueur jette le dé désigné (`1d6`, `1d10`, `1d20`, or `1d100`). Si le dé montre le(s) nombre(s) d'épuisement, alors l'objet fonctionne, mais c'est la dernière fois. Un épuisement de "---" signifie que l'artifact ne s'épuie jamais, et un épuisement qui est "automatique" signifie qu'il ne peut être utilisé qu'une seule fois.
 
-Depowered artifacts can sometimes be recharged using the repair rules, depending on the item's nature. Other special abilities can also repower an expended item, but probably for only one use.
+Les artifacts dont le pouvoir est épuisé peuvent quelque fois être rechargés en utilisant les règles de réparation, en fonction de la nature de l'objet. Certaines capacités spéciales peuvent aussi êtr rechargées dans un objet dont le pouvoir est épuisé, mais probablement que pour un usage.
 
-For GM information on artifacts, see the Running the Cypher System chapter.
+Pour des informations pour la Meneuse sur les artifacts, consultez le chapitre Diriger une partie avec le Cypher System.
 
-Finding, Identifying, and USing Artifacts
+## Trouver, Identifier et Utiliser des Artifacts
 
 Characters can sometimes find artifacts while on adventures. They might be in ancient ruins, either intact or in need of manipulation to get them working. They could have been stolen from well-guarded military installations. They might be granted as rewards or taken from fallen foes. Sometimes they can even be purchased from a specialized source, but this occurs more rarely than most PCs would probably like.
 
