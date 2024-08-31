@@ -1,102 +1,102 @@
 ---
 title: Les Règles du Jeu
 weight: 1
-description: The rules and the dice help make the game run smoothly, but it's the people, not the rules or the dice, that direct the action, determine the story, and the fun
+description: Les règles et les dés peuvent aider à guider le jeu en douceur, mais ce sont les joueurs, et non les règles ou les dés, qui dirigent l'action, déterminent l'histoire, et qui s'amusent
 ---
 
-# Rules of the Game
+# Les Règles du Jeu
 
-Cypher System games are played in the joint imagination of all the players, including the GM. The GM sets the scene, the players state what their characters attempt to do, and the GM determines what happens next. The rules and the dice help make the game run smoothly, but it's the people, not the rules or the dice, that direct the action and determine the story---and the fun. If a rule gets in the way or detracts from the game, the players and the GM should work together to change it.
+Les jeux du Cypher System sont joués par les imaginations conjointes de tous les joueurs, y compris la Meneuse. La Meneuse pose la scène, les joueurs décident ce que leurs personnages vont faire, et la Meneuse décrit ce qui se passe ensuite. Les règles et les dés peuvent aider à guider le jeu en douceur, mais ce sont les joueurs, et non les règles ou les dés, qui dirigent l'action, déterminent l'histoire, et qui s'amusent. Si une règle se met en travers de l'histoire ou distrait le jeu, les joueurs et la Meneuse trouveront un moyen de la changer.
 
-**This is how you play the Cypher System:**
+**Voici comment jouer au Cypher System:**
 
-1. The player tells the GM what they want to do. This is a character action.
-2. The GM determines if that action is routine (and therefore works without needing a roll) or if there's a chance of failure.
-3. If there is a chance of failure, the GM determines which stat the task uses (Might, Speed, or Intellect) and the task's difficulty---how hard it will be on a scale from 1 (really easy) to 10 (basically impossible).
-4. The player and the GM determine if anything about the character---such as training, equipment, special abilities, or various actions---can modify the difficulty up or down by one or more steps. If these modifications reduce the difficulty to less than 1, the action is routine (and therefore works with no roll needed).
-5. If the action still isn't routine, the GM uses its difficulty to determine the target number---how high the player must roll to succeed at the action (see the Task Difficulty table). The GM doesn't have to tell the player what the target number is, but they can give the player a hint, especially if the character would reasonably know if the action was easy, average, difficult, or impossible.
-6. The player rolls a d20. If they roll equal to or higher than the target number, the character succeeds.
+1. Le joueur dit à la Meneuse ce qu'il veut faire. C'est l'action du personnage.
+2. La Meneuse détermine si l'action est de la routine (pas besoin de lancer le dé) ou si il y a une chance d'échouer.
+3. Si il y a une chance d'échouer, la Meneuse définit quelle stat la tâche va utiliser (Puissance, Célérité, Intelligence) et la difficulté de la tâche---à quel point c'est difficile entre 1 (très facile) et 10 (quasiment impossible).
+4. Le joueur et la Meneuse détermine un aspect du personnage---tel que l'entrainement, l'équipement, des capacités spéciales---peut modifier la difficulté, en mieux ou en pire, de quelques crans. Si ces modifications réduisent la difficulté à moins que un, l'action est de la routine (et réussit sans avoir besoin de lancer un dé).
+5. Si l'action n'est toujours pas de la routine, la Meneuse utilise la difficulté pour déterminer le nombre seuil---quel est le minimum à avoir avec un jet de `d20` pour réussir l'action (voir la table de [table de Difficulté des Tâches](../01-how-to-play.md#difficulté-des-tâches)). La Meneuse n'est pas obligée de dire au joueur quel est le nombre seuil, mais elle peut donner un indice au joueur, tout particulièrement si le personnages pourrait raisonablement savoir si l'action est facile, moyenne, difficile ou impossible.
+6. Le joueur lance un `d20`. Si le résultat est supérieur ou égal au nombre seuil, le personnage réussit.
 
-That's it. That's how to do anything, whether it's identifying an unknown device, calming a raging drunk, climbing a treacherous cliff, or battling a demigod. Even if you ignored all the other rules, you could still play the Cypher System with just this information. The key features here are: character actions, determining task difficulty, and determining modifications.
+C'est tout. Voilà comment faire absolument tout, que ce soit identifier un appareil inconnu, calmer un poivrot excité, grimper une falaise, ou combattere un demi-dieu. Même si vous ignorez toutes les autres règles, vous pourriez quand même jouer au Cypher System avec seulement ces informations. Les principes clés sont: personnage, actions, déterminer la difficulté de la tâche, et déterminer les modifications.
 
-## Key Concepts
+## Les Concepts Clés
 
 {{< hint warning >}}
-**ACTION:** Anything a character does that is significant---punch a foe, leap a chasm, activate a device, use a special power, and so on. Each character can take one action in a round.
+**ACTION:** Tout ce qu'un personnage fait qui soit significatif---frapper un adversaire, sauter par-dessus un torrent, activer un appareil, utiliser un pouvoir spécial, et ainsi de suite. Chaque personnage peut faire une action en un round.
 
-**CHARACTER:** Any creature in the game capable of acting, whether it is a player character (PC) run by a player or a nonplayer character (NPC) run by the game master (GM). In the Cypher System, even bizarre creatures, sentient machines, and living energy beings can be "characters."
+**PERSONNAGE:** Toute créature qui peut être interprétée, que ce soit un personnage-jour (PJ) interprété par un joueur, ou un personnage-non-joueur (PNJ) interprété par la Meneuse. Dans le Cypher System, les créature bizarres, les machines conscientes, et l'énergie vivante, peuvent toutes être des personnage.
 
-**DIFFICULTY:** A measure of how easy it is to accomplish a task. Difficulty is rated on a scale from 1 (lowest) to 10 (highest). Altering the difficulty to make a task harder is called "hindering." Altering it to make a task easier is called "easing." All changes in difficulty are measured in steps. Difficulty often equates directly with level, so opening a level 3 locked door probably has a difficulty of 3.
+**DIFFICULTE:** Une mesure d'à quel point il est facile d'accomplir une tâche. La difficulté est évaluée sur une échelle de 1 (le plus facile) à 10 (le plus difficile). Modifier la difficulté pour rendre une tâche plus difficile est appelé "désavantager". La rendre plus facile est appelé "faciliter". Un changement de la difficulté est mesuré en crans. La difficulté est souvent égale au niveau, donc ouvrir une porte fermée de niveau 3 aura probablement une difficulté de 3.
 
-**EASE:** A decrease in a task's difficulty, usually by one step. If something doesn't say how many steps it eases a task, then it reduces the difficulty by one step.
+**FACILITER:** Une diminution de la difficulté d'une tâche, d'habitude d'un cran. Si il n'est pas indiqué de combien de cran une tâche est facilitée, alors la difficulté est réduite de un cran.
 
-**EFFORT:** Spending points from a stat Pool to reduce the difficulty of a task. A PC decides whether or not to apply Effort on their turn before the roll is made. NPCs never apply Effort.
+**EFFORT:** Dépenser des points d'une Réserve de stat pour réduire la difficulté d'une tâche. Un PJ peut décider si, oui ou non, il applique de l'effort pendant son tour avant que le jet de dé soit effecté. Les PNJs n'applique jamais d'Effort.
 
-**HINDER:** An increase in a task's difficulty, usually by one step. If something doesn't say how many steps it hinders a task, then it increases the difficulty by one step.
+**DESAVANTAGER:** Une augmentation de la difficulté de la tâche, d'habitude d'un cran. Si il n'est pas indiqué de combien de cran une tâche est désavantagée, alors la difficulté est augmentée de un cran.
 
-**INABILITY:** The opposite of trained---you're hindered whenever you attempt a task that you have an inability in. If you also become trained in the task, the training and the inability cancel each other out and you become practiced.
+**INAPTITUDE:** L'opposé d'être entraîné---vous êtes désavantagé à achque fois que vous tentez d'accomplir une tâche pour laquelle vous êtes inapte. Si vous devenez entraîné à cette tâche, l'entrainement et l'inaptitude se compensent l'un l'autre et vous avez maintenant de la pratique dans la tâche.
 
-**LEVEL:** A way to measure the strength, difficulty, power, or challenge of something in the game. Everything in the game has a level. NPCs and objects have levels that determine the difficulty of any task related to them. For example, an opponent's level determines how hard they are to hit or avoid in combat. A door's level indicates how hard it is to break down. A lock's level determines how hard it is to pick. Levels are rated on a scale from 1 (lowest) to 10 (highest). PC tiers are a little like levels, but they go only from 1 to 6 and mechanically work very differently than levels---for example, a PC's tier does not determine a task's difficulty.
+**NIVEAU:** Une façon de mesurer la force, la difficulté, la puissance, le défi de quelque chose dans le jeu. Tout, dans le jeu, a un niveau. Les PNJs, et les objets ont un niveau pour déterminer la difficulté de toute tâche les concernant. Par exemple, le niveau d'un adversaire définit à quel point il est difficile à toucher ou à éviter dans un combat. Le niveau d'une porte indique à quel point il est difficile de la briser. Le niveau d'une serrure définit la difficulté de la crocheter. Les niveaux sont définis sur une échelle de 1 (le plus facile) à 10 (le plus difficile). Les rangs des personnages sont un petit peu comme les niveaux mais ne cont que de 1 à 6 et mécaniquement fonctionne de maière très différente des niveaux---par exemple, le rang d'un personnage ne détermine pas la difficulté d'une tâche.
 
-**PRACTICED:** The normal, unmodified ability to use a skill---not trained, specialized, or an inability. Your type determines what weapon skills you're practiced in; if you aren't practiced with a type of weapon, you have an inability in it.
+**PRATIQUE:** La capacité normale, non-altérée, d'utiliser une compétence---non-entraîné, non-spécialisé, sans inaptitude. Votre type détermine quelles sont vos compétences en arme pour lesquelles vous avez de la pratique; si vous n'avez pas de pratique dans un type d'arme, vous être inapte avec lui.
 
-**ROLL:** A d20 roll made by a PC to determine whether an action is successful. Although the game occasionally uses other dice, when the text simply refers to "a roll," it always means a d20 roll.
+**JET DE DE:** Un jet de `d20` fait par un PJ pour déterminer si une action est un succès. Bien que le jeu utilise occasionellement d'autres dés, quand le texte fait simplement fait référence à "un jet de dé" c'est toujours un jet de `d20`.
 
-**ROUND:** A length of time about five to ten seconds long. There are about ten rounds in a minute. When it's really important to track precise time, use rounds. Basically, it's the length of time to take an action in the game, but since everyone more or less acts simultaneously, all characters get to take an action each round.
+**ROUND:** Une durée entre 5 et 10 secondes de longueur. Il y a environ 10 rounds dans une minute. Quand il est très important de suivre le temps de manière précise, utilisez le round. En pratique, c'est la durée que prend une action dans le jeu, mais comme tout le monde agit plus ou moins de manière simultanée, tous les personnages peuvent effectuer une action chaque round.
 
-**SPECIALIZED:** Having an exceptional amount of skill in a task. Being specialized eases the task by two steps. So, if you are specialized in climbing, all your climbing tasks are eased by two steps.
+**SPECIALISE:** Avoir un niveau exceptionnel dans la compétence pour une tâche. Etre spécialisé facilite la tâche de deux crans. Donc, si vous êtes spécialisé dans l'escalade, toutes les tâches d'escalade sont facilités de deux crans.
 
-**STAT:** One of the three defining characteristics for PCs: Might, Speed, or Intellect. Each stat has two values: Pool and Edge. Your Pool represents your raw, innate ability, and your Edge represents knowing how to use what you have. Each stat Pool can increase or decrease over the course of play---for example, you can lose points from your Might Pool when struck by an opponent, spend points from your Intellect Pool to activate a special ability, or rest to recover points in your Speed Pool after a long day of marching. Anything that damages a stat, restores a stat, or boosts or penalizes a stat affects the stat's Pool.
+**STAT:** Une des trois caractéristiques définies pour les PJs: Puissance, Célérité, ou Intelligence. Chaque stat a deux valeurs: Réserve et Avantage. Votre Réserve représente votre faculté pure et innée, tandis que votre Avantage représente votre habilité à utiliser votre faculté. Chaque Réserve de stat pour augmenter ou diminuer au cours du jeu---par exemple, vous pouvez perdre des points de votre Réserve de Puissance quand vous êtes frappé par un adversaire, ou vous pouvez dépensez des points de votre Réserve d'Intelligence pour activer une activité spéciale, ou vous reposez pour récupérer des points de Réserve de Célérité après un long jour de marche. Tout ce qui diminue, restaure, améliore  ou pénalise une stat afecte la Réserve de la stat.
 
-**TASK:** Any action that a PC attempts. The GM determines the difficulty of the task. In general, a task is something that you do and an action is you performing that task, but in most cases they mean the same thing.
+**TACHE:** Toute action qu'un PJ essaie d'accomplir. La Meneuse détermine la difficulté d'une tâche. En général, une tâche est quelque chose que vous faîtes, et une action est votre accomplissement de cette tâche, mais dans la plupart des cas ils signifient la même chose.
 
-**TRAINED:** Having a reasonable amount of skill in a task. Being trained eases the task. For example, if you are trained in climbing, all climbing tasks for you are eased. If you become very skilled at that task, you become specialized instead of trained. You do not need to be trained to attempt a task.
+**ENTRAINE:** Avoir un niveau raisonable dans la compétence pour une tâche. Être entraîné facilite la tâche. Par exemple, si vous êtes entraîné en escalade, toutes les tâches d'escalade sont facilités pour vous. Si vous devenez très entraîné à cette tâche, vous devenez spécialisé à la place d'entraîné. Vous n'avez pas besoin d'être entrapiné pour tenter d'accompir une tâche.
 
-**TURN:** The part of the round when a character or creature takes its actions. For example, if a Warrior and an Adept are fighting an orc, each round the Warrior takes an action on their turn, the Adept takes an action on their turn, and the orc takes an action on its turn. Some abilities or effects last only one turn, or end when the next turn is started.
+**TOUR:** La partie du round pendant laquelle le personnage ou la créature réalise ses actions. Par exemple, si un Guerrier et un Adepte combattent un orc, le Guerrier fait une action pendant son tour, l'Adepte fait une action pendant son tour, et l'orc fait son action pendant son tour. Certaines capacités ou effets durent seulement pendant un tour, ou se termine quand le prochain tour démarre.
 {{< /hint >}}
 
-## Taking Action
+## Réaliser une Action
 
-Each character gets one turn each round. On a character's turn, they can do one thing---an action. All actions fall into one of three categories: Might, Speed, or Intellect (just like the three stats). Many actions require die rolls---rolling a d20.
+Chaque personnage a un tour à chaque round. Pendant le tour d'un personnage, il peut réaliser une chose---une action. Toutes les actions sont réparties en trois catégories: Puissance, Célérité, ou Intelligence (exactement pour les trois stats). Beaucoup d'actions nécessitent des jets de dé---jeter un `d20`.
 
-Every action performs a task, and every task has a difficulty that determines what number a character must reach or surpass with a die roll to succeed.
+Chaque action réalise une tâche, et chaque tâche a une difficulté qui détermine quel nombre le PJ doit atteindre ou dépasser avec un jet de dé pour réussir.
 
-Most tasks have a difficulty of 0, which means the character succeeds automatically. For example, walking across a room, opening a door, and throwing a stone into a nearby bucket are all actions, but none of them requires a roll. Actions that are usually difficult or that become difficult due to the situation (such as shooting at a target in a blizzard) have a higher difficulty. These actions usually require a roll.
+La plupart des tâches ont une difficulté de 0, ce qui signifie que le personnage réussit automatiquement. Par exemple, marcher dans une pièce, ouvrir une porte, lancer une pierre dans un baquet sur le côté, sont toutes des actions, mais aucune ne nécessite un jet de dé. Les actions qui sont difficiles habituellement, ou qui le deviennent à cause de la situation (comme de tirer sur une cible dans le brouillard) ont une plus grande difficulté. Ces actions nécessitent un jet de dé.
 
-Some actions require a minimum expenditure of Might, Speed, or Intellect points. If a character cannot spend the minimum number of points needed to complete the action, they automatically fail at the task.
+Certaines actions ont besoin de dépenser un minimum de points de Puissance, Célérité ou Intelligence. Si un personnage ne peut pas dépenser ce minimum de points requis pour accomplir l'action, il échoue automatiquement.
 
-## Determining Task Stat
+## Déterminer la Stat pour une Tâche
 
-Every task relates to one of a character's three stats: Might, Speed, or Intellect. Physical activities that require strength, power, or endurance relate to Might. Physical activities that require agility, flexibility, or fast reflexes relate to Speed. Mental activities that require force of will, memory, or mental power relate to Intellect. This means you can generalize tasks into three categories: Might tasks, Speed tasks, and Intellect tasks. You can also generalize rolls into three categories: Might rolls, Speed rolls, and Intellect rolls.
+Chaque tâche est associée à une des trois stats du personnage: Puissance, Célérité ou Intelligence. Les activités physiques qui demandent de la force, de la puissance ou de l'endurance sont associées à la Puissance. Les activités qui demandent de l'agilité, de la flexibilité ou des bons reflexes sont associées à la Célérité. Les activités mentales qui demandent de la volonté, de la mémoire ou un pouvoir mentaux sont associées à l'Intelligence. Cela signifie que vous pouvez généraliser les tâches en trois catégories: les tâches de Puissance, les tâches de Célérité, et les tâches d'Intelligence. Vous pouvez aussi généraliser les jets de dé en trois catégories: jets de Puissance, jets de Célérité, et jets d'Intelligence.
 
-The category of the task or roll determines what kind of Effort you can apply to the roll and may determine how a character's other abilities affect the roll. For example, an Adept may have an ability that makes them better at Intellect rolls, and a Warrior may have an ability that makes them better at Speed rolls.
+La catégorie de la tâche ou du jet de dé détermine quel genre d'Effort pour pouvez appliquer au jet de dé et peut déterminer comment les autres capacités du personnage peuvent affecter le jet de dé. Par exemple, un Adepte peut avoir une capacité qui le rend meilleur aux jets d'Intelligence, et un Guerrier peut avoir une capacité qui le rend meilleur aux jets de Célérité.
 
-## Determining Task Difficulty
+## Determiner la Difficulté de la Tâche
 
-The most frequent thing a GM does during the game---and probably the most important thing---is set a task's difficulty. To make the job easier, use the Task Difficulty table, which associates a difficulty rating with a descriptive name, a target number, and general guidance about the difficulty.
+La chose la plus fréquente que la Meneuse fait pendant le jeu---et probablement la chose la plus importante---est de définir la difficulté d'une tâche. Pour vous rendre la vie plus facile, utilisez la [table de Difficulté des Tâches](../01-how-to-play.md#difficulté-des-tâches), qui associe un niveau de difficulté à une description, un nombre cible et un guide général à propos de la difficulté.
 
-Every difficulty from 1 to 10 has a target number associated with it. The target number is easy to remember: it's always three times the difficulty. The target number is the minimum number a player needs to roll on a d20 to succeed at the task. Moving up or down on the table is called hindering or easing, which is measured in steps.
+Chaque difficulté de 1 à 10 a un nombre seuil cible qui lui est associé. Le nombre seuil est facile à se souvenir: c'est toujours trois fois le niveau de difficulté. Le nombre seuil est le nombre minimum que le joueur a besoin d'obtenir en lançant un `d20` pour réussir la tâche. Se déplacer vers le haut ou le bas de la table est appelé désavantager ou faciliter, et est mesuré en crans.
 
-For example, reducing a difficulty 5 task to a difficulty 4 task is "easing the difficulty by one step" or just "easing the difficulty" or "easing the task." Most modifiers affect the difficulty rather than the player's roll. This has two consequences:
+Par exemple, réduire la difficulté d'une tâche du niveau 5 au niveau 4 est appelé "faciliter la difficulté d'un cran" ou simplement "faciliter la difficulté" ou "faciliter la tâche". La plupart des modificateurs affectent la difficulté plutôt que le jet de dé du joueur. Cela a deux conséquences:
 
-Low target numbers such as 3 or 6, which would be boring in most games that use a d20, are not boring in the Cypher System. For example, if you need to roll a 6 or higher, you still have a 25% chance to fail.
+Les nombres seuils peu élevés comme 3 ou 6, qui pourraient être ennuyeux dans la plupart des jeux utilisant un `d20`, ne sont pas ennuyeux dans le Cypher System. Par exmple, si vous avez besoin de faire un 6 ou plus au jet de dé, vous avez toujours 25% de chance d'échouer.
 
-The upper levels of difficulty (7, 8, 9, and 10) are all but impossible because the target numbers are 21 or higher, which you can't roll on a d20. However, it's common for PCs to have abilities or equipment that ease a task and thus lower the target number to something they *can* roll on a d20.
+Les plus hauts niveaux de difficultés (7, 8, 9, and 10) ne devraient pas être possible car les nombres seuils sont supérieurs ou égaux à 21, que vous ne pouvez pas sortir avec un `d20`. Toutefois, il est commun pour les PJs d'avoir des capacités ou de l'équipement qui facilitent un tâche et ainsi diminuent le nombre seuil à quelque chose que le joueurs peuvent sortir avec un `d20`.
 
-A character's tier does not determine a task's level. Things don't get more difficult just because a character's tier increases---the world doesn't instantly become a more difficult place. Fourth-tier characters don't deal only with level 4 creatures or difficulty 4 tasks (although a fourth-tier character probably has a better shot at success than a first-tier character does). Just because something is level 4 doesn't necessarily mean it's meant only for fourth-tier characters. Similarly, depending on the situation, a fifth-tier character could find a difficulty 2 task just as challenging as a second-tier character does.
+Un rang de personnage ne détermine pas le niveau de la tâche. Les choses ne deviennent pas plus difficiles si le rang d'un personnage augmente---le monde n'est pas soudainement devenu un endroit plus difficile. Les personnages de quatrième rang ne rencontrent pas seulement des créatures de niveau 4 ou des tâches de difficulté 4 (bien que le personnage de rang 4 aura plus de chance de réussir qu'un personnage de rang 1). Ce n'est pas parce que quelque chose est de niveau 4 que c'est forcément et uniquement pour des personnages de niveau 4. De manière similaire, en fonction de la situation, un personnage de rang 5 pourrait trouver un tâche de difficulté 2 tout aussi compliquée que pour un personnage de rang 2.
 
-Therefore, when setting the difficulty of a task, the GM should rate the task on its own merits, not on the power of the characters.
+Ainsi, quand elle définit la difficulté d'une tâche, la Meneuse devrait évaluer la tâche en tant que telle, et non en fonction de la puissance des personnages.
 
-## Modifying The Difficulty
+## Modifier La Difficulté
 
-After the GM sets the difficulty for a task, the player can try to modify it for their character. Any such modification applies only to this particular attempt at the task. In other words, rewiring an electronic door lock normally might be difficulty 6, but since the character doing the work is skilled in such tasks, has the right tools, and has another character assisting them, the difficulty in this instance might be much lower. That's why it's important for the GM to set a task's difficulty without taking the character into account. The character comes in at this step.
+Après que la Meneuse a défini la difficulté d'une tâche, le joueur peut essayer de la modifier pour son personnage. N'importe laquelle de ces modifications ne s'applique que pour cette tentative bien particulière pour cette tâche. En d'autres mots, essayer un court-circuit sur une serrure électronique devrait être de difficulté 6, mais comme le personnage qui s'y attelle est compétent dans ce type de tâche, qu'il a les bons outils, et qu'un autre personnage l'assiste, la difficulté dans ce cas particulier peut être plus basse. C'est pourquoi il est important pour la Meneuse d'évaluer la difficulté d'une tâche sans tenir compte du personnage. Le personnage n'intervient qu'après cette évaluation.
 
-By using skills and assets, working together, and---perhaps most important---applying Effort, a character can ease a task by multiple steps to make it easier. Rather than adding bonuses to the player's roll, reducing the difficulty lowers the target number. If they can reduce the difficulty of a task to 0, no roll is needed; success is automatic. (An exception is if the GM decides to use a GM intrusion on the task, in which case the player would have to make a roll at the original difficulty.)
+Par l'utilisation de ses compétences et atouts, en travaillant ensemble, et---peut-être le plus important---en appliquant de l'Effort, un personnage peut faciliter une tâche de plusieurs crans pour la rendre plus facile. Plutôt que d'ajouter des bonus au jet de dé du joueur, réduire la difficulté permet de diminuer le nombre seuil. Si un PJ peut réduire la difficulté de la tâche à 0, aucun jet de dé n'est nécessaire; la réussite est automatique. (Il y a une exceptio si la Meneuse décide d'utiliser un Intrusion de MJ sur la tâche, dans ce cas, le joueur devra faire un jet de dé contre la difficulté originale)
 
-There are three basic ways in which a character can ease a task: skills, assets, and Effort. Each method eases the task by at least one step---never in smaller increments.
+Il y a trois manières de base avec lesquelles le personnage peut faciliter une tâche: les compétences, les atouts et l'Effort. Chaque méthode facilite la tâche d'au moins un cran---jamais par plus petit que 1.
 
 {{< hint info >}}
-By using skills, assets, and Effort, a character can ease a task by a maximum of ten steps: one or two steps from skills, one or two steps from assets, and one to six steps from Effort.
+Par l'utilisation des compétences, atouts et Effort, un personnage peut faciliter une tâche d'un maximum de 10 crans: un ou deux crans par les compétences, on ou deux par les atouts, et entre un et six par l'Effort.
 {{< /hint >}}
 
 ### Skills
