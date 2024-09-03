@@ -101,13 +101,13 @@ Par l'utilisation des compétences, atouts et Effort, un personnage peut facilit
 
 ### Skills
 
-Characters may be skilled at performing a specific task. A skill can vary from character to character. For example, one character might be skilled at lying, another might be skilled at trickery, and a third might be skilled in all interpersonal interactions. The first level of being skilled is called being trained, and it eases that task by one step. More rarely, a character can be incredibly skilled at performing a task. This is called being specialized, and it eases the task by two steps instead of one. Skills can never decrease a task by more than two steps---any more than two steps from being trained and specialized don't count.
+Les pesonnages peuvent être compétents pour accomplir une tâche spécifique. Une compétence peut varier en fonction du personnage. Par exemple, un personnage peut ^tr ecompétent pour mentir, n autre peut être compétent pour la tricherie, et un troisième peut être compétent dans toutes les intéractions interpersonnelles. Le premier niveau de compétence est dêtre entraîné, et il facilite la tâche d'un cran. Plus rarement, un personnage peut être incroyablement doué pour accomplir une tâche. Ce cas est appelé être spéciallisé, et cela facilite la tâche de deux crans au lieu d'un. Les compétences nepeuvent jamais diminuer un tâche de plus de deux crans---tout de qui donne plus de deux crans par des compétences n'est pas pris en compte.
 
-### Assets
+### Atouts
 
-An asset is anything that helps a character with a task, such as having a really good crowbar when trying to force open a door or being in a rainstorm when trying to put out a fire. Appropriate assets vary from task to task. The perfect awl might help when woodworking, but it won't make a dance performance much better. An asset usually eases a task by one step. Assets can never ease a task by more than two steps---any more than two steps from assets don't count.
+Un atout est tout ce qui peut aider un personnage dans une tâche, tel qu'avoir un bon pied-de-biche quand on veut forcer une porte, ou être sous une pluie torrentielle quand on veut éteindre un feu. Les atouts appropriés varient suivant la tâche. Un ciseau bien aiguisé peut aider pour travailler le bois, mais il ne pourra pas améliorer une chorégraphie de danse. Habituellement, un atout facilite une tâche d'un cran. Les atouts ne peuvent pas faciliter une tâche de plus de deux crans---tout de qui donne plus de deux crans par des atouts n'est pas pris en compte.
 
-(The important thing to remember is that a skill can reduce the difficulty by no more than two steps, and assets can reduce the difficulty by no more than two steps, regardless of the situation. Thus, no task's difficulty will ever be reduced by more than four steps without using Effort.)
+(La chose importante à se rappeler est qu'une compétence ne peut réduire la difficulté d'une tâche que de deux crans maximum, et que les atouts ne peuvent pas réduire la difficulté d'une tâche de plus de deux crans, quelle que soit la situation. Ainsi, aucune difficulté pour une tâche ne peut être réduite de plus de quatre crans sans l'utilisation de l'Effort.)
 
 ### Effort
 
