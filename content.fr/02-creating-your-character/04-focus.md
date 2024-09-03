@@ -171,7 +171,7 @@ Les leçons, les réflexes et les stratégies que vous avez appris en jouant à 
 * Rang 2: Résoudre des Enigmes
 * Rang 3: Objectif du tireur d'élite ou Avantage de Célérité Amélioré
 * Rang 4: Jeux d'esprit
-* Rang 4: Intelligence améliorée
+* Rang 4: Intellect améliorée
 * Rang 5: Endurance du joueur
 * Rang 6: Sursaut mental ou Dieu du jeu
 
@@ -290,13 +290,13 @@ Lorsqu'il n'y a que vous, votre combinaison spatiale et le panorama d'étoiles q
 
 Vous faites face aux mauvaises situations au fur et à mesure qu’elles surviennent, apprenant à chaque fois de nouvelles leçons.
 
-* Rang 1: Intelligence améliorée
+* Rang 1: Intellect améliorée
 * Rang 1: Voilà votre problème
 * Rang 2: Etude rapide
 * Rang 3: Difficile à distraire
-* Rang 3: Avantage d'Intelligence amélioré ou Compétences en Prêt
+* Rang 3: Avantage d'Intellect amélioré ou Compétences en Prêt
 * Rang 4: Passer l'information au suivant
-* Rang 5: Intelligence améliorée
+* Rang 5: Intellect améliorée
 * Rang 5: Appris des trucs
 * Rang 6: Deux choses à la fois ou Compétence en Défense Supérieure
 
@@ -362,11 +362,11 @@ Des capacités mathématiques impressionnantes vous permettent de modéliser le 
 * Rang 1: Equation prédictive
 * Rang 1: Mathématiques supérieures
 * Rang 2: Modèle prédictif
-* Rang 3: Défense subconsciente ou Intelligence améliorée
+* Rang 3: Défense subconsciente ou Intellect améliorée
 * Rang 4: Diagramme de combat
-* Rang 5: Intelligence Améliorée Supérieure
+* Rang 5: Intellect Améliorée Supérieure
 * Rang 5: Mathématiques Complémentaires
-* Rang 6: Connaître l'inconnu ou Intelligence Améliorée Supérieure
+* Rang 6: Connaître l'inconnu ou Intellect Améliorée Supérieure
 
 **Intrusions de la MJ:** Trop de résultats prédits menacent de submerger et d’étourdir le personnage. Un résultat indique un désastre imminent.
 
@@ -377,7 +377,7 @@ Des capacités mathématiques impressionnantes vous permettent de modéliser le 
 Fervent disciple d’un être divin, vous canalisez une partie du pouvoir de votre divinité pour réaliser des merveilles.
 
 * Rang 1: Bénédiction des Dieux
-* Rang 2: Intelligence améliorée
+* Rang 2: Intellect améliorée
 * Rang 3: Radiance divine ou Cube de flammes
 * Rang 4: Explosion Divine
 * Rang 5: Intervention divine
@@ -932,11 +932,11 @@ Vous émettez un son destructeur et manipulez les paysages sonores.
 
 Les aides électroniques implantées dans votre cerveau font de vous une surpuissance cérébrale.
 
-* Rang 1: Intelligence améliorée
+* Rang 1: Intellect améliorée
 * Rang 1: Compétences en Connaissances
 * Rang 2: Une information dans le réseau
 * Rang 3: Processeur d'action ou Télépathie machine
-* Rang 4: Intelligence Améliorée Supérieure
+* Rang 4: Intellect Améliorée Supérieure
 * Rang 4: Compétences en Connaissances
 * Rang 5: Voir l'avenir
 * Rang 6: Amélioration de la machine ou Sursaut mental
@@ -1079,7 +1079,7 @@ Vous excellez à convaincre les autres de partager vos opinions.
 * Rang 1: Persuasion et Tromperie
 * Rang 1: Connaissance de la loi
 * Rang 2: Débat
-* Rang 3: Assistance compétente ou Avantage d'Intelligence amélioré
+* Rang 3: Assistance compétente ou Avantage d'Intellect amélioré
 * Rang 4: Fustiger
 * Rang 5: Personne ne sait mieux
 * Rang 6: Potentiel amélioré supérieur ou Stagiaire juridique
@@ -1420,13 +1420,13 @@ Votre perspicacité et vos capacités surnaturelles font de vous un scientifique
 Les livres sont vos amis. Qu'y a-t-il de plus important que la connaissance ? Rien.
 
 * Rang 1: La connaissance, c'est le pouvoir
-* Rang 2: Intelligence Améliorée Supérieure
+* Rang 2: Intellect Améliorée Supérieure
 * Rang 3: Appliquer vos connaissances ou Compétences en Prêt
 * Rang 4: La connaissance, c'est le pouvoir
 * Rang 4: Connaître l'inconn
-* Rang 5: Intelligence Améliorée Supérieure
+* Rang 5: Intellect Améliorée Supérieure
 * Rang 6: La connaissance, c'est le pouvoir
-* Rang 6: Tour de l'Intelligenceou Lire les signes
+* Rang 6: Tour de l'Intellectou Lire les signes
 
 **Intrusions de la MJ:** Les livres brûlent, sont mouillés ou se perdent. Les ordinateurs tombent en panne ou perdent de la puissance. Les verres se cassent.
 
@@ -1491,7 +1491,7 @@ Vous pouvez extraire des images de rêves et leur donner vie dans le monde évei
 * Rang 1: Artisanat des Rêves
 * Rang 1: Science du Sommeil
 * Rang 2: Voleur de rêves
-* Rang 3: Le rêve devient réalité ou Intelligence améliorée
+* Rang 3: Le rêve devient réalité ou Intellect améliorée
 * Rang 4: Rêverie
 * Rang 5: Cauchemar
 * Rang 6: Chambre des rêves ou Champ réactif
@@ -1610,7 +1610,7 @@ Vous créez des objets physiques à partir d’une lumière solide que vous pouv
 * Rang 1: Lumière temporaire
 * Rang 2: Force enchevêtrante
 * Rang 3: Lumière plus Forte ou Lumière sculptée
-* Rang 4: Intelligence Améliorée Supérieure
+* Rang 4: Intellect Améliorée Supérieure
 * Rang 5: Lumière sculptée améliorée
 * Rang 6: Champ défensif ou Vol
 
@@ -2021,7 +2021,7 @@ Les Focus d'exploration sont basées sur une variété de méthodes, bien que le
 
 **Suggestions d'Effet Mineur:** Vous avez un Atout pour n'importe quelle action qui implique vos sens, pour percevoir ou pour attaquer, jusqu'à la fin du prochain round.
 
-**Suggestions d'Effet Majeur:** Votre Avantage d'Intelligence augmente de 1 jusqu'à la fun du prochain round.
+**Suggestions d'Effet Majeur:** Votre Avantage d'Intellect augmente de 1 jusqu'à la fun du prochain round.
 
 La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Focus possibles pour cette catégorie.
 

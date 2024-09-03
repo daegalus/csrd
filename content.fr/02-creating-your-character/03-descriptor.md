@@ -81,7 +81,7 @@ Vous êtes attirant aux yeux des autres, mais peut-être plus important encore, 
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Charismatique:** +2 à votre Réserve d'Intelligence.
+**Charismatique:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné dans les relations sociales agréables.
 
@@ -131,7 +131,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 **Serviable:** Chaque fois que vous aidez un autre personnage, ce personnage en bénéficie comme si vous aviez été entraîné, même si vous n'êtes pas entraîné ou spécialisé dans la tâche tentée.
 
-**Inaptitude:** Quand vous êtes seul, toutes les tâches d'Intelligence et de Célérité sont entravées.
+**Inaptitude:** Quand vous êtes seul, toutes les tâches d'Intellect et de Célérité sont entravées.
 
 **Lien initial à la Première Aventure:** A partir de la liste d'options suivantes, choisissez comment vous vous êtes engagé dans la première aventure.
 
@@ -148,7 +148,7 @@ Vous êtes un peu borné, volontaire et indépendant. Personne ne peut vous conv
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Volontaire:** +4 à votre Réserve d'Intelligence.
+**Volontaire:** +4 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné à résister aux effets mentaux.
 
@@ -175,7 +175,7 @@ Calme est un excellent descripteur pour les personnages qui n'ont jamais eu l'in
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Adore les Livres:** +2 à votre Réserve d'Intelligence.
+**Adore les Livres:** +2 à votre Réserve d'Intellect.
 
 **Compétences:** Vous êtes entraîné à quatre compétences non-physiques de votre choix.
 
@@ -244,7 +244,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 **Tumultueux:** +4 à votre Réserve de Célérité.
 
-**Compétence:** Vous êtes entraîné aux actions de Défense d'Intelligence.
+**Compétence:** Vous êtes entraîné aux actions de Défense d'Intellect.
 
 **Chaotique:** Une fois après chaque jet de récupération de dix heures, si le premier résultat ne vous plaît pas, vous pouvez relancer un jet de dé de votre choix. Si vous le faites, et quel que soit le résultat, le MJ vous présente une intrusion du MJ.
 
@@ -261,11 +261,11 @@ Vous bénéficiez des caractéristiques suivantes:
 
 ### Charmant
 
-Vous êtes un beau parleur et un charmeur. Que ce soit par des moyens apparemment surnaturels ou simplement par des mots, vous pouvez convaincre les autres de faire ce que vous souhaitez. Très probablement, vous êtes physiquement attirant ou du moins très charismatique, et les autres aiment écouter votre voix. Vous faites probablement attention à votre apparence et restez bien soigné. Vous vous faites facilement des amis. *Vous jouez sur la facette de la personnalité de votre statistique Intelligence ; l'intelligence n'est pas votre point fort (translation to be confirmed)*. Vous êtes sympathique, mais pas nécessairement studieux ou volontaire.
+Vous êtes un beau parleur et un charmeur. Que ce soit par des moyens apparemment surnaturels ou simplement par des mots, vous pouvez convaincre les autres de faire ce que vous souhaitez. Très probablement, vous êtes physiquement attirant ou du moins très charismatique, et les autres aiment écouter votre voix. Vous faites probablement attention à votre apparence et restez bien soigné. Vous vous faites facilement des amis. *Vous jouez sur la facette de la personnalité de votre statistique Intellect ; l'intelligence n'est pas votre point fort (translation to be confirmed)*. Vous êtes sympathique, mais pas nécessairement studieux ou volontaire.
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Personable:** +2 à votre Réserve d'Intelligence.
+**Personable:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné dans toutes les tâches d'intéractions sociales positives ou plaisantes.
 
@@ -294,7 +294,7 @@ Peut-être avez-vous un cahier dans lequel vous notez vos idées afin de pouvoir
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Inventive:** +2 à votre Réserve d'Intelligence.
+**Inventive:** +2 à votre Réserve d'Intellect.
 
 **Original:** Vous proposez toujours quelque chose de nouveau. Vous êtes entraîné dans toute tâche liée à la création d'un récit (comme une histoire, une pièce de théâtre ou un scénario). Cela inclut la tromperie, si la tromperie implique un récit que vous êtes capable de raconter.
 
@@ -325,7 +325,7 @@ De plus, vous n’avez pas besoin d’être cruel dans toutes les situations. En
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Calculateur:** +2 à votre Réserve d'Intelligence.
+**Calculateur:** +2 à votre Réserve d'Intellect.
 
 **Cruauté:** Lorsque vous utilisez la force, vous pouvez choisir de mutiler ou de lui infliger des blessures douloureuses pour prolonger la souffrance de votre ennemi. Chaque fois que vous infligez des dégâts, vous pouvez choisir d'infliger 2 points de dégâts de moins pour faciliter votre prochaine attaque contre cet ennemi.
 
@@ -352,7 +352,7 @@ Vous avez probablement à tout moment sur vous une douzaine de livres et de réc
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Intelligent:** +4 à votre Réserve d'Intelligence.
+**Intelligent:** +4 à votre Réserve d'Intellect.
 
 **Compétence:** Vous avez envie d'apprendre. Vous êtes entraîné à toute tâche qui implique d'apprendre quelque chose de nouveau, que vous parliez à un local pour obtenir des informations ou que vous fouilliez dans de vieux livres pour découvrir des traditions.
 
@@ -379,7 +379,7 @@ Vous avez un talent particulier avec les machines de toutes sortes, et vous save
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Intelligent:** +2 à votre Réserve d'Intelligence.
+**Intelligent:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné dans toutes les actions impliquant l’identification ou la compréhension des machines.
 
@@ -427,7 +427,7 @@ Le bombardement constant d’émotions de la part de votre entourage a probablem
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Overt d'esprit:** +4 à votre Réserve d'Intelligence.
+**Overt d'esprit:** +4 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné dans les tâches impliquant de ressentir d'autres émotions, de discerner des dispositions ou d'avoir une idée des gens qui vous entourent.
 
@@ -479,7 +479,7 @@ Vous avez étudié seul ou avec un moniteur. Vous connaissez beaucoup de choses 
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Intelligent:** +2 à votre Réserve d'Intelligence.
+**Intelligent:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné dans trois domaines de connaissances de votre choix.
 
@@ -504,7 +504,7 @@ Les personnages étranges peuvent être des mutants ou des personnes nées avec 
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Lumière Intérieure:** +2 à votre Réserve d'Intelligence.
+**Lumière Intérieure:** +2 à votre Réserve d'Intellect.
 
 **Bizarrerie Physique:** Vous avez un aspect physique unique qui est bizarre. Selon le paramètre, cela peut varier considérablement. Vous pourriez avoir des cheveux violets ou des pointes métalliques sur la tête. Peut-être que vos mains ne se connectent pas à vos bras, même si elles bougent comme si c'était le cas. Peut-être qu’un troisième œil regarde du côté de votre tête, ou que des vrilles superflues poussent dans votre dos. Quoi qu'il en soit, votre bizarrerie peut être une mutation, un trait surnaturel (une bénédiction ou une malédiction), une caractéristique sans explication, ou simplement un tatouage vraiment sauvage qui attire beaucoup d'attention.
 
@@ -577,7 +577,7 @@ Vous avez approfondi des sujets que les gens n’étaient pas censés connaître
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Bien informé:** +4 à votre Réserve d'Intelligence.
+**Bien informé:** +4 à votre Réserve d'Intellect.
 
 **Eclairs de Génie:** Chaque fois qu'une telle connaissance est appropriée, le MJ vous fournit des informations bien qu'il n'y ait aucune explication claire sur la manière dont vous pourriez savoir une telle chose. Ceci est à la discrétion du MJ, mais cela devrait se produire aussi souvent qu'une fois par session.
 
@@ -627,7 +627,7 @@ Il a toujours été facile pour vous de voir les choses du point de vue des autr
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Emotionellement Intuitif:** +2 à votre Réserve d'Intelligence.
+**Emotionellement Intuitif:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous savez ce que c'est de se mettre à la place de quelqu'un d'autre. Vous êtes entraîné dans toutes les tâches liées à une interaction sociale agréable et au discernement des dispositions des autres.
 
@@ -771,7 +771,7 @@ Vous êtes plutôt intelligent. Votre mémoire est vive et vous comprenez facile
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Intelligent:** +2 à votre Réserve d'Intelligence.
+**Intelligent:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné dans un domaine de connaissance de votre choix.
 
@@ -792,7 +792,7 @@ Vous êtes souvent chatouillé par le sentiment de savoir ce que quelqu’un va 
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Inné:** +2 à votre Réserve d'Intelligence.
+**Inné:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné aux tâches de perception.
 
@@ -813,7 +813,7 @@ Vous êtes joyeux, sympathique et extraverti. Vous mettez les autres à l'aise a
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Spirituel:** +2 à votre Réserve d'Intelligence.
+**Spirituel:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes convivial et mettez la plupart des gens à l'aise avec votre attitude. Vous êtes entraîné à toutes les tâches liées à une interaction sociale agréable.
 
@@ -869,7 +869,7 @@ Vous avez l'esprit vif et vous réfléchissez bien. Vous comprenez les gens, vou
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Malin:** +2 à votre Réserve d'Intelligence.
+**Malin:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné dans toutes les interactions impliquant des mensonges et de la tricherie.
 
@@ -933,7 +933,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 **Compétence:** Vous avez l'esprit défensif, vous êtes donc entraîné aux tâches de défense de Célérité.
 
-**Compétence:** Vous êtes cynique et vous attendez au pire. Ainsi, vous résistez aux chocs mentaux. Vous êtes entraîné à des tâches de défense d'Intelligence liées à la perte de votre santé mentale ou de votre équanimité.
+**Compétence:** Vous êtes cynique et vous attendez au pire. Ainsi, vous résistez aux chocs mentaux. Vous êtes entraîné à des tâches de défense d'Intellect liées à la perte de votre santé mentale ou de votre équanimité.
 
 **Maudit:** Une fois sur deux, le MJ utilise l'intrusion du MJ sur votre personnage, vous ne pouvez pas le refuser et ne recevez pas d'XP pour cela (vous obtenez toujours un XP à attribuer à un autre joueur). C'est parce que vous êtes condamné. L’univers est un endroit froid et indifférent, et vos efforts sont pour le moins vains.
 
@@ -1000,13 +1000,13 @@ Vous vous considérez comme mystique, en harmonie avec le mystérieux et le para
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Intelligent:** +2 à votre Réserve d'Intelligence.
+**Intelligent:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné dans toutes les actions impliquant l’identification ou la compréhension du surnaturel.
 
 **Sentir la Magie:** Vous pouvez sentir si le surnaturel est actif dans des situations où sa présence n’est pas évidente. Vous devez étudier attentivement un objet ou un lieu pendant une minute pour savoir si une touche mystique est à l’œuvre.
 
-**Sort:** Vous pouvez exécuter la capacité Magie Prosaïque comme un sort lorsque vous avez une main libre et que vous pouvez payer le coût en points d'Intelligence.
+**Sort:** Vous pouvez exécuter la capacité Magie Prosaïque comme un sort lorsque vous avez une main libre et que vous pouvez payer le coût en points d'Intellect.
 
 **Inaptitude:** Vous avez des manières ou une aura que les autres trouvent un peu déconcertantes. Toute tâche impliquant le charme, la persuasion ou la tromperie est désavantagée.
 
@@ -1027,7 +1027,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 **Frais et Dispo:** Vous ajoutez +1 à vos vos jets de Récupération.
 
-**Incorruptible:** Vous êtes entraîné à  aux tâches de défense d'Intelligence et toutes tâches impliquant de résister à la tentation.
+**Incorruptible:** Vous êtes entraîné à  aux tâches de défense d'Intellect et toutes tâches impliquant de résister à la tentation.
 
 **Compétence:** You're wide-eyed. Vous êtes entraîné à  perception tasks.
 
@@ -1054,11 +1054,11 @@ Cela peut être libérateur et vraiment amusant de jouer un personnage un peu id
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Imprudent:** –4 à votre Réserve d'Intelligence.
+**Imprudent:** –4 à votre Réserve d'Intellect.
 
 **Insouciant:** Vous réussissez plus par chance qu’autre chose. Chaque fois que vous lancez un dé pour une tâche, lancez deux fois et obtenez le résultat le plus élevé.
 
-**Faiblesse intellectuelle :** Chaque fois que vous dépensez des points de votre réserve d’Intelligence, cela vous coûte 1 point de plus que d’habitude.
+**Faiblesse intellectuelle :** Chaque fois que vous dépensez des points de votre réserve d’Intellect, cela vous coûte 1 point de plus que d’habitude.
 
 **Inaptitude:** Toute tâche de défense intellectuelle est désavantagée.
 
@@ -1081,7 +1081,7 @@ Même si vous êtes habile à trouver des indices, vous n'avez aucune compétenc
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Malin:** +2 à votre Réserve d'Intelligence.
+**Malin:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous avez le sens du détail. Vous êtes entraîné à toute tâche qui implique de trouver ou de remarquer de petits détails.
 
@@ -1154,13 +1154,13 @@ Vous pouvez subir de nombreuses épreuves, tant physiques que mentales, tout en 
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Résistant:** +2 à votre Réserve de Puissance, et +2 à votre Réserve d'Intelligence.
+**Résistant:** +2 à votre Réserve de Puissance, et +2 à votre Réserve d'Intellect.
 
 **Récupération:** Vous pouvez effectuer un jet de récupération supplémentaire chaque jour. Ce jet n'est qu'une action. Vous pouvez donc faire deux jets de récupération qui demandent chacun une action, un jet qui prend dix minutes, un quatrième lancer qui prend une heure et un cinquième lancer qui nécessite dix heures de repos.
 
 **Compétence:** Vous êtes entraîné aux tâches de défense de Puissance.
 
-**Compétence:** Vous êtes entraîné aux tâches de défense d'Intelligence.
+**Compétence:** Vous êtes entraîné aux tâches de défense d'Intellect.
 
 **Inaptitude:** Vous êtes robuste mais pas nécessairement fort. Toute tâche impliquant de déplacer, plier ou casser des objets est désavantagée.
 
@@ -1233,7 +1233,7 @@ Vous possédez une attitude interrogative face à des affirmations qui sont souv
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Insightful:** +2 à votre Réserve d'Intelligence.
+**Insightful:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné dans l'identification.
 
@@ -1256,9 +1256,9 @@ Personne ne peut être aussi réservé que vous et se faire de nombreux amis. Tr
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Suspicieux:** +2 à votre Réserve d'Intelligence.
+**Suspicieux:** +2 à votre Réserve d'Intellect.
 
-**Compétence:** Vous êtes entraîné aux tâches de défense d'Intelligence.
+**Compétence:** Vous êtes entraîné aux tâches de défense d'Intellect.
 
 **Compétence:** Vous êtes entraîné à toutes les tâches impliquant de discerner la vérité, de percer les déguisements et de reconnaître les mensonges et autres tromperies.
 
@@ -1304,7 +1304,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 **Sanguinaire:** Une fois que vous commencez à vous battre, vous ne voyez que du rouge. Vous infligez 2 points de dégâts supplémentaires à chaque attaque.
 
-**Berserk:** Une fois que vous commencez à vous battre, il est difficile pour vous de vous arrêter. En fait, c'est une tâche de difficulté 2 en Intelligence de le faire, même si votre ennemi se rend ou si vous n'avez plus d'ennemis. Si ce dernier cas se produit et que vous ne parvenez pas à vous arrêter, vous attaquez l'allié le plus proche à courte portée.
+**Berserk:** Une fois que vous commencez à vous battre, il est difficile pour vous de vous arrêter. En fait, c'est une tâche de difficulté 2 en Intellect de le faire, même si votre ennemi se rend ou si vous n'avez plus d'ennemis. Si ce dernier cas se produit et que vous ne parvenez pas à vous arrêter, vous attaquez l'allié le plus proche à courte portée.
 
 **Equipement Supplémentaire:** Vous disposez d’un carnet que vous utilisez pour répertorier ceux qui vous ont fait du tort.
 

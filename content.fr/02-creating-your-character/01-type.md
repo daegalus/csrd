@@ -40,7 +40,7 @@ Les tâches de défense surviennent quand un joueur fait un jet de dé pour emp�
 
 **Défense de Célérité:** Utilisée pour éviterdes attaques et échapper au danger. C'est en général la tâche de défense la plus utilisée.
 
-***Défense d'Intelligence:** Utilisée pour se débarraser des attaques mentales ou tout ce qui peut affecter ou influencer son esprit.
+***Défense d'Intellect:** Utilisée pour se débarraser des attaques mentales ou tout ce qui peut affecter ou influencer son esprit.
 
 ## Guerrier
 
@@ -106,7 +106,7 @@ Vus pouvez dépenser un XP pour utiliser une des ces intrusions de joueur, à co
 | ------------ | -------------------- |
 | Puissance    | 10                   |
 | Célérité     | 10                   |
-| Intelligence | 8                    |
+| Intellect    | 8                    |
 
 Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les Réserves.
 
@@ -118,7 +118,7 @@ Les Guerriers de Premier Rang ont les capacités suivantes:
 
 **Effort:** Votre Effort est de 1.
 
-**Naturel Physique:** Vous avez un Avantage de Puissance de 1 et un Avantage de Célérité de 0, ou vous avez un Avantage de Puissance de 0 et un Avantage de Célérité de 1. Dans tous les cas, vous avez un Avantage d'Intelligence de 0.
+**Naturel Physique:** Vous avez un Avantage de Puissance de 1 et un Avantage de Célérité de 0, ou vous avez un Avantage de Puissance de 0 et un Avantage de Célérité de 1. Dans tous les cas, vous avez un Avantage d'Intellect de 0.
 
 
 **Utilisation de Cypher:** Vous pouvez porter deux cyphers en même temps.
@@ -224,7 +224,7 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 ### Warrior Example
 
 {{< hint warning >}}
-Ray souhaite créer un personnage Guerrier pour une campagne moderne. Il décide que le personnage est un ancien militaire rapide et fort. Il met 3 de ses points supplémentaires dans sa Réserve de Puissance et 3 dans sa Réserve de Célérité ; ses pools de statistiques sont désormais Puissance 13, Célérité 13 et Intelligence 8. En tant que personnage de premier rang, son Effort est de 1, son Avantage de Puissance est de 1 et son Avantage de Célérité et son Avantage d'Intelligence sont tous deux de 0. Son personnage n'est pas particulièrement intelligent. ou charismatique.
+Ray souhaite créer un personnage Guerrier pour une campagne moderne. Il décide que le personnage est un ancien militaire rapide et fort. Il met 3 de ses points supplémentaires dans sa Réserve de Puissance et 3 dans sa Réserve de Célérité ; ses pools de statistiques sont désormais Puissance 13, Célérité 13 et Intellect 8. En tant que personnage de premier rang, son Effort est de 1, son Avantage de Puissance est de 1 et son Avantage de Célérité et son Avantage d'Intellect sont tous deux de 0. Son personnage n'est pas particulièrement intelligent. ou charismatique.
 
 Il souhaite utiliser un grand couteau de combat (une arme moyenne qui inflige 4 points de dégâts) et un .357 Magnum (un pistolet lourd qui inflige 6 points de dégâts mais nécessite l'usage des deux mains). Ray décide de ne pas porter d'armure, car ce n'est pas vraiment approprié au contexte, donc pour sa première capacité, il choisit Entraîné sans armure afin de faciliter les actions de défense en Célérité. Pour sa deuxième capacité, il choisit Combat Prowess afin de pouvoir infliger des dégâts supplémentaires avec son gros couteau.
 
@@ -281,7 +281,7 @@ Wuand vous jouez un Adepte, vous pouvez dépenser un point d'expérience pour ut
 | ---------------- | --------------------- |
 | Puissance        | 7                     |
 | Célérité         | 9                     |
-| Intelligence     | 12                    |
+| Intellect     | 12                    |
 
 Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les Réserves.
 
@@ -320,7 +320,7 @@ Les Adeptes de Premier Rang disposent des capacités suivantes :
 
 **Effort:** Votre Effort est de 1.
 
-**Genie:** Vous avez un Avantage d'Intelligence de 1, un Avantage de Puissance de 0 et un Avantage de Célérité de 0.
+**Genie:** Vous avez un Avantage d'Intellect de 1, un Avantage de Puissance de 0 et un Avantage de Célérité de 0.
 
 **Expert en Utilisation de Cypher:** Vous pouvez porter trois cypher en même temps.
 
@@ -419,7 +419,7 @@ Choisissez une des capacités ci-dessous (ou du rang inférieur) pour l'ajouter 
 
 {{< hint warning >}}
 
-Jen veut créé une Adepte, une sorcière pour une campagne de fantasy. Elle décide d'être plutôt équilibrée, alors elle met 2 de ses points supplémentaires dans chaque Réserve de statistiques, ce qui lui donne une réserve de Puissance de 9, une Réserve de Célérité de 11 et une Réserve d'intelligence de 14. Son adepte est intelligente et rapide. Elle a un Avantage d'Intelligence de 1, un Avantage de Puissance de 0 et un Avantage de Célérité de 0. En tant que personnage de premier rang, son effort est de 1. Comme capacités initiales, elle choisit Onslaught et Ward, ce qui lui donne une forte attaque et une défense. Elle choisit également Magic Training et complète son personnage avec Scan, qui, espère-t-elle, sera utile pour obtenir des informations et des connaissances. Pour ce personnage, Onslaught, Ward et Scan sont tous des sorts qu'elle maîtrise au fil des années d'entraînement et d'études.
+Jen veut créé une Adepte, une sorcière pour une campagne de fantasy. Elle décide d'être plutôt équilibrée, alors elle met 2 de ses points supplémentaires dans chaque Réserve de statistiques, ce qui lui donne une réserve de Puissance de 9, une Réserve de Célérité de 11 et une Réserve d'intelligence de 14. Son adepte est intelligente et rapide. Elle a un Avantage d'Intellect de 1, un Avantage de Puissance de 0 et un Avantage de Célérité de 0. En tant que personnage de premier rang, son effort est de 1. Comme capacités initiales, elle choisit Onslaught et Ward, ce qui lui donne une forte attaque et une défense. Elle choisit également Magic Training et complète son personnage avec Scan, qui, espère-t-elle, sera utile pour obtenir des informations et des connaissances. Pour ce personnage, Onslaught, Ward et Scan sont tous des sorts qu'elle maîtrise au fil des années d'entraînement et d'études.
 
 Elle peut porter trois cyphers. Le MJ lui donne une potion qui agit comme un téléporteur à courte portée, un petit charme qui redonne 5 points à sa réserve d'intelligence et une fiole remplie de liquide qui explose comme une bombe enflammée. La sorcière de Jen est douée avec les armes légères, elle choisit donc un poignard.
 
@@ -427,7 +427,7 @@ Pour son descripteur, Jen choisit Graceful, ce qui ajoute 2 points à sa Réserv
 
 Pour sa concentration, elle choisit Dirige. Cela lui donne une formation aux interactions sociales, ce qui, encore une fois, l'aide à se démarquer : elle est douée dans toutes sortes de situations. De plus, elle possède la capacité Good Advice, ce qui lui permet d'être un point focal de son groupe.
 
-Ses sorts et ses capacités de concentration coûtent des points d'Intelligence à activer, elle est donc heureuse d'avoir beaucoup de points dans sa réserve d'Intelligence. De plus, son Intellect Edge contribuera à réduire ces coûts. Si elle utilise son explosion de force Assaut sans appliquer d'Effort, cela coûte 0 point d'Intelligence et inflige 4 points de dégâts. Son avantage intellectuel lui permettra d'économiser des points et de les consacrer à l'application de l'effort à d'autres fins, peut-être pour augmenter la précision d'Onslaught.
+Ses sorts et ses capacités de concentration coûtent des points d'Intellect à activer, elle est donc heureuse d'avoir beaucoup de points dans sa réserve d'Intellect. De plus, son Intellect Edge contribuera à réduire ces coûts. Si elle utilise son explosion de force Assaut sans appliquer d'Effort, cela coûte 0 point d'Intellect et inflige 4 points de dégâts. Son avantage intellectuel lui permettra d'économiser des points et de les consacrer à l'application de l'effort à d'autres fins, peut-être pour augmenter la précision d'Onslaught.
 
 Pour son arc de personnage, Jen choisit Aid a Friend. Elle décide que lorsque son personnage de sorcier était jeune, elle avait un mentor magique. Ce mentor a ensuite été fait prisonnier par un démon, son personnage est donc toujours à la recherche d'indices pour trouver le démon et libérer son amie de l'esclavage.
 {{< /hint >}}
@@ -474,7 +474,7 @@ Quand vous jouez un Explorateur, vous pouvez dépenser 1 XP pour utiliser l'une 
 | ------------ | ----------------------- |
 | Puissance    | 10                      |
 | Célérité     | 9                       |
-| Intelligence | 9                       |
+| Intellect | 9                       |
 
 Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les Réserves.
 
@@ -513,7 +513,7 @@ Explorateurs de Premier Rang ont les capacités suivantes:
 
 **Effort:** Votre Effort est de 1.
 
-**Naturel Physique:** Vous avez un Avantagede Puissance de 1, un Avantagede Célérité de 0 et un Avantage d'Intelligence de 0.
+**Naturel Physique:** Vous avez un Avantagede Puissance de 1, un Avantagede Célérité de 0 et un Avantage d'Intellect de 0.
 
 **Utilisation de Cypher:** Vous pouvez porter deux cyphers en même temps.
 
@@ -643,7 +643,7 @@ Choisissez trois Capacités ci-dessous (ou d'un rang inférieur) à ajouter à v
 
 {{< hint warning >}}
 
-Sam décide de créer un personnage Explorateur pour une campagne de science-fiction. Ce personnage sera une âme robuste qui explore des mondes extraterrestres. ils mettent 3 points supplémentaires dans leur Eéserve de Puissance, 2 dans leur réserve de Célérité et 1 dans leur réserve d'intelligence ; leurs réserves de statistiques sont désormais de Puissance 13, Célérité 11 et Intelligence 10. En tant que personnage de premier rang, leur Effort est de 1, son Avantage de Puissance est de 1 et leur Avantage de Rpidité et d'Intelligence sont de 0. Son personnage est assez complet jusqu'à présent.
+Sam décide de créer un personnage Explorateur pour une campagne de science-fiction. Ce personnage sera une âme robuste qui explore des mondes extraterrestres. ils mettent 3 points supplémentaires dans leur Eéserve de Puissance, 2 dans leur réserve de Célérité et 1 dans leur réserve d'intelligence ; leurs réserves de statistiques sont désormais de Puissance 13, Célérité 11 et Intellect 10. En tant que personnage de premier rang, leur Effort est de 1, son Avantage de Puissance est de 1 et leur Avantage de Rpidité et d'Intellect sont de 0. Son personnage est assez complet jusqu'à présent.
 
 Sam intervient immédiatement et commence à choisir des capacités. Il choisit Danger Sense et Surging Confidence, pensant que ces capacités seront généralement utiles. Il choisit également Practiced in Armor, estimant que le personnage porte une armure moyenne de haute technologie lors de l'exploration. Enfin, il choisit les connaissances et les compétences et sélectionnent la géologie et la biologie pour les aider lors des explorations interplanétaires.
 
@@ -696,7 +696,7 @@ Quand vous jouez un Emissaire, vous pouvez dépenser 1 XP pour utiliser l'une de
 | ------------- | ------------------- |
 | Puissance     | 8                   |
 | Célérité      | 9                   |
-| Intelligence  | 11                  |
+| Intellect  | 11                  |
 
 Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les Réserves.
 
@@ -735,7 +735,7 @@ Les Emissaires ont les capacités suivantes:
 
 **Effort:** Votre Effort est de 1.
 
-**Genius:** Vous avez un Avantage d'Intelligence de 1, un Avantage de Puissance de 0 et un Avantage de Célérité de 0.
+**Genius:** Vous avez un Avantage d'Intellect de 1, un Avantage de Puissance de 0 et un Avantage de Célérité de 0.
 
 **Utilisation de Cypher:** Vous pouvez porter deux cyphers en même temps.
 
@@ -775,7 +775,7 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 * Basic Follower
 * Calm Stranger
 * Disincentivize
-* Gather Intelligence
+* Gather Intellect
 <--->
 * Impart Ideal
 * Inspiring Ease
@@ -861,7 +861,7 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 
 {{< hint warning >}}
 
-Mary veut créer un émissaire pour une campagne d'horreur lovecraftienne. Elle met 3 de ses points de statistiques supplémentaires dans sa réserve d'intelligence et 3 dans sa réserve de Célérité; ses statistiques sont désormais de Puissance 8, Célérité 12 et Intelligence 14. En tant que personnage de premier rang, son Effort est de 1, son avantage de Puissance et son avantage de Célérité sont de 0 et son avantage d'Intelligence est de 1. Elle est intelligente et charismatique mais pas particulièrement costaude.
+Mary veut créer un émissaire pour une campagne d'horreur lovecraftienne. Elle met 3 de ses points de statistiques supplémentaires dans sa réserve d'intelligence et 3 dans sa réserve de Célérité; ses statistiques sont désormais de Puissance 8, Célérité 12 et Intellect 14. En tant que personnage de premier rang, son Effort est de 1, son avantage de Puissance et son avantage de Célérité sont de 0 et son avantage d'Intellect est de 1. Elle est intelligente et charismatique mais pas particulièrement costaude.
 
 Mary choisit Fast Talk et Spin Identity pour l'aider à se rendre dans des endroits et à apprendre des choses qu'elle veut savoir. C'est un peu une escroc. Cependant, elle est gentille avec ses amis et choisit également l'encouragement. Mary complète ses capacités de premier rang avec des compétences d'interaction (tromperie et persuasion).
 
@@ -869,7 +869,7 @@ Un émissaire commence normalement par deux cyphers, mais la MJ décide que les 
 
 Le personnage de Mary porte un petit couteau caché dans son sac en cas de problème. En tant qu'arme légère, elle inflige 2 points de dégâts, mais les attaques avec elle sont facilitées.
 
-Mary choisit Résilient comme descripteur et décide qu'elle peut probablement apprendre la vérité derrière certaines des choses étranges dont elle a entendu parler sans ressentir trop de traumatisme si c'est horrible. Résiliente augmente sa Réserve de Puissance à 10 et sa Réserve d'Intelligence à 16. Elle est entraînée aux actions de défense de Puissance et d'Intelligence et gagne un jet de récupération supplémentaire chaque jour. Au début, Mary est triste que son descripteur lui donne une incapacité dans les tâches de connaissances et d'énigmes, mais elle se rend ensuite compte que le défaut correspond bien à son personnage --- elle est meilleure pour amener les gens à lui dire ce qu'elle a besoin de savoir qu'à comprendre l'information elle-même.
+Mary choisit Résilient comme descripteur et décide qu'elle peut probablement apprendre la vérité derrière certaines des choses étranges dont elle a entendu parler sans ressentir trop de traumatisme si c'est horrible. Résiliente augmente sa Réserve de Puissance à 10 et sa Réserve d'Intellect à 16. Elle est entraînée aux actions de défense de Puissance et d'Intellect et gagne un jet de récupération supplémentaire chaque jour. Au début, Mary est triste que son descripteur lui donne une incapacité dans les tâches de connaissances et d'énigmes, mais elle se rend ensuite compte que le défaut correspond bien à son personnage --- elle est meilleure pour amener les gens à lui dire ce qu'elle a besoin de savoir qu'à comprendre l'information elle-même.
 
 Pour sa concentration, Mary choisit Bouge comme un Chat, lui accordant une Réserve de Célérité finale de 18 et un entraînement à l'équilibre. En fin de compte, elle est gracieuse et rapide, charismatique et plus robuste qu'elle ne le pensait au départ grâce à son dynamisme. Elle est prête à enquêter sur ce qui est bizarre.
 
