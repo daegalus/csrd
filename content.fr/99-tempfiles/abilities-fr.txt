@@ -568,7 +568,7 @@ Distance Viewing/Visualisation à distance (5 points d'Intelligence) : Vous save
 ==
 Distant Interface/Interface distante (2 points d'Intelligence) : Vous pouvez activer, désactiver ou contrôler une machine à longue distance comme si vous étiez à côté d'elle, même si normalement vous deviez la toucher ou la faire fonctionner manuellement. Si vous n'avez jamais interagi avec une machine en particulier auparavant, la tâche est entravée par deux étapes. Pour utiliser cette capacité, vous devez comprendre la fonction de la machine, elle doit être de votre taille ou plus petite, et elle ne peut pas être connectée à une autre intelligence (ou être elle-même intelligente). Action.
 ==
-Distorsion (2 points d'Intelligence) : Vous modifiez la façon dont une créature volontaire à courte portée réfléchit la lumière pendant une minute. La cible passe rapidement de son apparence normale à une tache sombre. La cible dispose d'un atout aux jets de défense Vitesse jusqu'à ce que l'effet disparaisse. Action à initier.
+Distortion/Distorsion (2 points d'Intelligence) : Vous modifiez la façon dont une créature volontaire à courte portée réfléchit la lumière pendant une minute. La cible passe rapidement de son apparence normale à une tache sombre. La cible dispose d'un atout aux jets de défense Vitesse jusqu'à ce que l'effet disparaisse. Action à initier.
 ==
 Diver/Plongeur: Vous pouvez plonger en toute sécurité dans l'eau depuis des hauteurs allant jusqu'à 100 pieds (30 m) et vous pouvez résister à la pression lorsque vous êtes dans une eau aussi profonde que 100 pieds (30 m). Facilitateur.
 ==

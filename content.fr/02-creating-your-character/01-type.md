@@ -129,17 +129,17 @@ Les Guerriers de Premier Rang ont les capacités suivantes:
 
 **Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalaogue.
 
-* Bash
-* Combat Prowess
-* Control the Field
-* Improved Edge
-* No Need for Weapons
-* Overwatch
-* Physical Skills
-* Practiced in Armor
-* Quick Throw
-* Swipe
-* Trained Without Armor
+* Avantage de Stat Amélioré
+* Choc
+* Claque
+* Compétences physiques
+* Contrôler le terrain
+* Entraîné sans armure
+* Lancer rapide
+* Pas besoin d'armes
+* Pratique des armures
+* Prouesses au combat
+* Tir d'Opportunité
 
 -----
 
@@ -151,7 +151,7 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 * Hemorrhage
 * Reload
 * Skill With Attacks
-* Skill With Defense
+* Compétence en défense
 * Successive Attack
 
 -----
@@ -161,15 +161,15 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
 * Deadly Aim
-* Energy Resistance
-* Experienced in Armor
-* Expert Cypher Use
-* Fury
-* Lunge
-* Reaction
-* Seize the Moment
-* Slice
-* Spray
+* Résistance énergétique
+* Expérimenté en armure
+* Utilisation experte des cyphers
+* Fureur
+* Se Fendre
+* Réaction
+* Saisissez l'instant
+* Découpe
+* Pulvérisation
 * Trick Shot
 * Vigilance
 
@@ -195,8 +195,8 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 
 Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
-* Adroit Cypher Use
-* Arc Spray
+* Utilisation adroite des cyphers
+* Tirs en éventail
 * Improved Success
 * Jump Attack
 * Maîtrise en Armure
@@ -226,7 +226,7 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 {{< hint warning >}}
 Ray souhaite créer un personnage Guerrier pour une campagne moderne. Il décide que le personnage est un ancien militaire rapide et fort. Il met 3 de ses points supplémentaires dans sa Réserve de Puissance et 3 dans sa Réserve de Célérité ; ses pools de statistiques sont désormais Puissance 13, Célérité 13 et Intellect 8. En tant que personnage de premier rang, son Effort est de 1, son Avantage de Puissance est de 1 et son Avantage de Célérité et son Avantage d'Intellect sont tous deux de 0. Son personnage n'est pas particulièrement intelligent. ou charismatique.
 
-Il souhaite utiliser un grand couteau de combat (une arme moyenne qui inflige 4 points de dégâts) et un .357 Magnum (un pistolet lourd qui inflige 6 points de dégâts mais nécessite l'usage des deux mains). Ray décide de ne pas porter d'armure, car ce n'est pas vraiment approprié au contexte, donc pour sa première capacité, il choisit Entraîné sans armure afin de faciliter les actions de défense en Célérité. Pour sa deuxième capacité, il choisit Combat Prowess afin de pouvoir infliger des dégâts supplémentaires avec son gros couteau.
+Il souhaite utiliser un grand couteau de combat (une arme moyenne qui inflige 4 points de dégâts) et un .357 Magnum (un pistolet lourd qui inflige 6 points de dégâts mais nécessite l'usage des deux mains). Ray décide de ne pas porter d'armure, car ce n'est pas vraiment approprié au contexte, donc pour sa première capacité, il choisit Entraîné sans armure afin de faciliter les actions de défense en Célérité. Pour sa deuxième capacité, il choisit Prouesses au combat afin de pouvoir infliger des dégâts supplémentaires avec son gros couteau.
 
 Ray veut être à la fois rapide et résistant, c'est pourquoi il sélectionne Improvement Edge. Cela lui donne un Avantage de Célérité de 1. Il complète son personnage avec des compétences physiques et choisit la natation et la course.
 
@@ -330,17 +330,17 @@ Les Adeptes de Premier Rang disposent des capacités suivantes :
 
 **Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalaogue. (Les capacités des Adeptes nécessite au moins une main libre à moins que la MJ en décide autrement.)
 
-* Distortion
-* Erase Memories
-* Far Step
-* Hedge Magic
-* Magic Training
-* Onslaught
-* Push
-* Resonance Field
+* Assaut Magique
+* Briser
+* Champ de résonance
+* Distorsion
+* Effacer les souvenirs
+* Formation magique
+* Grand Pas
+* Magie Prosaïque
+* Poussée
+* Protection
 * Scan
-* Shatter
-* Ward
 
 -----
 
@@ -349,9 +349,9 @@ Les Adeptes de Premier Rang disposent des capacités suivantes :
 Choisissez une des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
 * Adaptation
-* Cutting Light
-* Hover
-* Mind Reading
+* Lumière coupante
+* Survol
+* Lecture mentale
 * Retrieve Memories
 * Reveal
 * Stasis
@@ -362,13 +362,13 @@ Choisissez une des capacités ci-dessous (ou du rang inférieur) pour l'ajouter 
 
 Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
-* Adroit Cypher Use
-* Countermeasures
-* Energy Protection
-* Fire and Ice
-* Force Field Barrier
-* Sensor
-* Targeting Eye
+* Utilisation adroite des cyphers
+* Contre-mesures
+* Protection énergétique
+* Feu et Glace
+* Barrière de champ de force
+* Capteur
+* Oeil pour Cibler
 
 -----
 
@@ -376,16 +376,16 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 
 Choisissez une des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
-* Death Touch
-* Exile
-* Invisibility
-* Matter Cloud
-* Mind Control
+* Toucher Mortel
+* Exil
+* Invisibilité
+* Nuage de matière
+* Contrôle mental
 * Projection
-* Rapid Processing
-* Regeneration
-* Reshape
-* Wormhole
+* Traitement rapide
+* Régénérer
+* Remodeler
+* Trou de ver
 
 -----
 
@@ -398,10 +398,10 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 * Conjuration
 * Create
 * Dust to Dust
-* Knowing the Unknown
+* Connaître l'inconnu
 * Master Cypher Use
 * Teleportation
-* True Senses
+* Véritables sens
 
 -----
 
@@ -419,7 +419,7 @@ Choisissez une des capacités ci-dessous (ou du rang inférieur) pour l'ajouter 
 
 {{< hint warning >}}
 
-Jen veut créé une Adepte, une sorcière pour une campagne de fantasy. Elle décide d'être plutôt équilibrée, alors elle met 2 de ses points supplémentaires dans chaque Réserve de statistiques, ce qui lui donne une réserve de Puissance de 9, une Réserve de Célérité de 11 et une Réserve d'intelligence de 14. Son adepte est intelligente et rapide. Elle a un Avantage d'Intellect de 1, un Avantage de Puissance de 0 et un Avantage de Célérité de 0. En tant que personnage de premier rang, son effort est de 1. Comme capacités initiales, elle choisit Onslaught et Ward, ce qui lui donne une forte attaque et une défense. Elle choisit également Magic Training et complète son personnage avec Scan, qui, espère-t-elle, sera utile pour obtenir des informations et des connaissances. Pour ce personnage, Onslaught, Ward et Scan sont tous des sorts qu'elle maîtrise au fil des années d'entraînement et d'études.
+Jen veut créé une Adepte, une sorcière pour une campagne de fantasy. Elle décide d'être plutôt équilibrée, alors elle met 2 de ses points supplémentaires dans chaque Réserve de statistiques, ce qui lui donne une réserve de Puissance de 9, une Réserve de Célérité de 11 et une Réserve d'intelligence de 14. Son adepte est intelligente et rapide. Elle a un Avantage d'Intellect de 1, un Avantage de Puissance de 0 et un Avantage de Célérité de 0. En tant que personnage de premier rang, son effort est de 1. Comme capacités initiales, elle choisit Assaut Magique et Ward, ce qui lui donne une forte attaque et une défense. Elle choisit également Formation magique et complète son personnage avec Scan, qui, espère-t-elle, sera utile pour obtenir des informations et des connaissances. Pour ce personnage, Assaut Magique, Ward et Scan sont tous des sorts qu'elle maîtrise au fil des années d'entraînement et d'études.
 
 Elle peut porter trois cyphers. Le MJ lui donne une potion qui agit comme un téléporteur à courte portée, un petit charme qui redonne 5 points à sa réserve d'intelligence et une fiole remplie de liquide qui explose comme une bombe enflammée. La sorcière de Jen est douée avec les armes légères, elle choisit donc un poignard.
 
@@ -427,7 +427,7 @@ Pour son descripteur, Jen choisit Graceful, ce qui ajoute 2 points à sa Réserv
 
 Pour sa concentration, elle choisit Dirige. Cela lui donne une formation aux interactions sociales, ce qui, encore une fois, l'aide à se démarquer : elle est douée dans toutes sortes de situations. De plus, elle possède la capacité Good Advice, ce qui lui permet d'être un point focal de son groupe.
 
-Ses sorts et ses capacités de concentration coûtent des points d'Intellect à activer, elle est donc heureuse d'avoir beaucoup de points dans sa réserve d'Intellect. De plus, son Intellect Edge contribuera à réduire ces coûts. Si elle utilise son explosion de force Assaut sans appliquer d'Effort, cela coûte 0 point d'Intellect et inflige 4 points de dégâts. Son avantage intellectuel lui permettra d'économiser des points et de les consacrer à l'application de l'effort à d'autres fins, peut-être pour augmenter la précision d'Onslaught.
+Ses sorts et ses capacités de concentration coûtent des points d'Intellect à activer, elle est donc heureuse d'avoir beaucoup de points dans sa réserve d'Intellect. De plus, son Intellect Edge contribuera à réduire ces coûts. Si elle utilise son explosion de force Assaut sans appliquer d'Effort, cela coûte 0 point d'Intellect et inflige 4 points de dégâts. Son avantage intellectuel lui permettra d'économiser des points et de les consacrer à l'application de l'effort à d'autres fins, peut-être pour augmenter la précision d'Assaut Magique.
 
 Pour son arc de personnage, Jen choisit Aid a Friend. Elle décide que lorsque son personnage de sorcier était jeune, elle avait un mentor magique. Ce mentor a ensuite été fait prisonnier par un démon, son personnage est donc toujours à la recherche d'indices pour trouver le démon et libérer son amie de l'esclavage.
 {{< /hint >}}
@@ -525,23 +525,23 @@ Explorateurs de Premier Rang ont les capacités suivantes:
 
 {{< columns >}}
 
-* Block
-* Danger Sense
-* Decipher
+* Avantage de Stat Amélioré
+* Bloquer
+* Compétences en Connaissances
+* Compétences physiques
+* Déchiffrer
+<--->
 * Endurance
-* Find the Way
+* Entraîné sans armure
+* Muscles de fer
+* Pas besoin d'armes
+* Pied Léger
 <--->
-* Fleet of Foot
-* Improved Edge
-* Knowledge Skills
-* Muscles of Iron
-* No Need for Weapons
-<--->
-* Physical Skills
-* Practiced in Armor
 * Pratique de toutes les armes
-* Surging Confidence
-* Trained Without Armor
+* Pratique des armures
+* Sens du Danger
+* Sursaut de confiance
+* Trouver le chemin
 {{< /columns >}}
 
 -----
@@ -552,21 +552,21 @@ Choisissez quatre Capacités ci-dessous (ou d'un rang inférieur) à ajouter à 
 
 {{< columns >}}
 
-* Curious
-* Danger Instinct
-* Enable Others
-* Escape
-* Eye for Detail
-* Foil Danger
-* Hand to Eye
+* Curieux
+* Instinct de Danger
+* Activer les autres
+* Evasion
+* Oeil pour les détails
+* Déjouer le Danger
+* Coordination Main-Oeil
 <--->
-* Investigative Skills
-* Quick Recovery
-* Range Increase
-* Skill With Defense
-* Stand Watch
-* Travel Skills
-* Wreck
+* Compétences d'enquête
+* Récupération rapide
+* Augmentation de la portée
+* Compétence en défense
+* Rester en Alerte
+* Compétences de voyage
+* Epave
 {{< /columns >}}
 
 -----
@@ -576,15 +576,15 @@ Choisissez quatre Capacités ci-dessous (ou d'un rang inférieur) à ajouter à 
 Choisissez trois Capacités ci-dessous (ou d'un rang inférieur) à ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
 {{< columns >}}
-Controlled Fall
-Experienced in Armor
-Expert Cypher Use
+Chute contrôlée
+Expérimenté en armure
+Utilisation experte des cyphers
 Ignore the Pain
 Obstacle Running
 Resilience
 Run and Fight
 <--->
-Seize the Moment
+Saisissez l'instant
 Skill With Attacks
 Stone Breaker
 Think Your Way Out
@@ -613,7 +613,7 @@ Choisissez trois Capacités ci-dessous (ou d'un rang inférieur) à ajouter à v
 
 Choisissez trois Capacités ci-dessous (ou d'un rang inférieur) à ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
-* Adroit Cypher Use
+* Utilisation adroite des cyphers
 * Free to Move
 * Group Friendship
 * Hard to Kill
@@ -645,13 +645,13 @@ Choisissez trois Capacités ci-dessous (ou d'un rang inférieur) à ajouter à v
 
 Sam décide de créer un personnage Explorateur pour une campagne de science-fiction. Ce personnage sera une âme robuste qui explore des mondes extraterrestres. ils mettent 3 points supplémentaires dans leur Eéserve de Puissance, 2 dans leur réserve de Célérité et 1 dans leur réserve d'intelligence ; leurs réserves de statistiques sont désormais de Puissance 13, Célérité 11 et Intellect 10. En tant que personnage de premier rang, leur Effort est de 1, son Avantage de Puissance est de 1 et leur Avantage de Rpidité et d'Intellect sont de 0. Son personnage est assez complet jusqu'à présent.
 
-Sam intervient immédiatement et commence à choisir des capacités. Il choisit Danger Sense et Surging Confidence, pensant que ces capacités seront généralement utiles. Il choisit également Practiced in Armor, estimant que le personnage porte une armure moyenne de haute technologie lors de l'exploration. Enfin, il choisit les connaissances et les compétences et sélectionnent la géologie et la biologie pour les aider lors des explorations interplanétaires.
+Sam intervient immédiatement et commence à choisir des capacités. Il choisit Sens du Danger et Sursaut de confiance, pensant que ces capacités seront généralement utiles. Il choisit également Pratique des armures, estimant que le personnage porte une armure moyenne de haute technologie lors de l'exploration. Enfin, il choisit les connaissances et les compétences et sélectionnent la géologie et la biologie pour les aider lors des explorations interplanétaires.
 
 L'Explorateur de Sam peut porter deux chiffres, qui dans ce contexte impliquent la nanotechnologie. Le MJ décide que l'un est un injecteur de nanite qui accorde un bonus de +1 à Might Edge lorsqu'il est utilisé, et l'autre est un appareil capable de créer un objet portable simple que l'utilisateur souhaite.
 
 L'Explorateur de Sam n'est pas vraiment adapté au combat, mais parfois l'univers est un endroit dangereux, alors il note qu'il porte également un blaster moyen.
 
-Sam a encore besoin d'un descripteur et d'un objectif. En regardant le chapitre Descripteur, il choisit Hardy, ce qui augmente leur réserve de puissance à 17. ils guérissent également plus rapidement et peuvent mieux fonctionner lorsqu'il est blessé. Il est entraîné à la défense de puissance mais a une incapacité à prendre l'initiative ; cependant, il est effectivement annulé par son Sens du Danger (et vice versa). Sam pourrait revenir en arrière et sélectionner autre chose au lieu de Danger Sense, mais il l'aime bien et décide de le garder. Dans l'ensemble, le descripteur finit par rendre le personnage dur mais un peu lent.
+Sam a encore besoin d'un descripteur et d'un objectif. En regardant le chapitre Descripteur, il choisit Hardy, ce qui augmente leur réserve de puissance à 17. ils guérissent également plus rapidement et peuvent mieux fonctionner lorsqu'il est blessé. Il est entraîné à la défense de puissance mais a une incapacité à prendre l'initiative ; cependant, il est effectivement annulé par son Sens du Danger (et vice versa). Sam pourrait revenir en arrière et sélectionner autre chose au lieu de Sens du Danger, mais il l'aime bien et décide de le garder. Dans l'ensemble, le descripteur finit par rendre le personnage dur mais un peu lent.
 
 Pour son focus, Sam choisit Explore des Endroits Sombres (dans ce cas, d'étranges ruines de civilisations extraterrestres). Cela donne au personnage un tas de compétences supplémentaires : chercher, écouter, grimper, équilibrer et sauter. Ce sont un Explorateur tout à fait compétent.
 
@@ -743,25 +743,25 @@ Les Emissaires ont les capacités suivantes:
 
 **Equipement de Départ:** Vêtements appropriés et une arme légère de votre choix, ainsi que deux objets très cher, deux objets moyennement cher, et au plus quatre objets peu chers.
 
-**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalaogue. (Certaines capacités d'Emissaire, comme Mind Reading ou True Senses, impose un élément surnaturel.  Si ce n'est pas apprprié pour le personnage ou la campagne, ces capacités peuvent être remplacées par quelque chose de la Préférence Furtivité, ou alors la MJ peut les modifier légèrement afin qu'elles soient basées sur des talents ou des intuitions extraordinaires plutôt que sur du supernaturel.)
+**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalaogue. (Certaines capacités d'Emissaire, comme Lecture mentale ou Véritables sens, impose un élément surnaturel.  Si ce n'est pas apprprié pour le personnage ou la campagne, ces capacités peuvent être remplacées par quelque chose de la Préférence Furtivité, ou alors la MJ peut les modifier légèrement afin qu'elles soient basées sur des talents ou des intuitions extraordinaires plutôt que sur du supernaturel.)
 
 {{< columns >}}
 
 * Anecdote
+* Attitude de commandement
 * Babel
-* Demeanor of Command
+* Changement d'Identité
+* Compétences d'interaction
+<--->
+* Compréhension
+* Effacer les souvenirs
 * Encouragement
+* Envoûtement
+* Embrouiller
 <--->
-* Enthrall
-* Erase Memories
-* Fast Talk
-* Inspire Aggression
-* Interaction Skills
-<--->
-* Practiced With Medium Weapons
-* Spin Identity
-* Terrifying Presence
-* Understanding
+* Inspire l'Agression
+* Présence terrifiante
+* Pratique des armes moyennes
 {{< /columns >}}
 
 -----
@@ -779,10 +779,10 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 <--->
 * Impart Ideal
 * Inspiring Ease
-* Interaction Skills
-* Practiced in Armor
+* Compétences d'interaction
+* Pratique des armures
 <--->
-* Skill With Defense
+* Compétence en défense
 * Speedy Recovery
 * Unexpected Betrayal
 {{< /columns >}}
@@ -794,20 +794,20 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 {{< columns >}}
 
-* Accelerate
-* Blend In
-* Discerning Mind
-* Expert Cypher Use
+* Accélérer
+* Se fondre dans le décor
+* Esprit perspicace
+* Utilisation experte des cyphers
 <--->
-* Expert Follower
-* Grand Deception
-* Lead by Inquiry
-* Mind Reading
+* Disciple expert
+* Grande Déception
+* Mené par l'enquête
+* Lecture mentale
 <--->
-* Oratory
-* Perfect Stranger
-* Quick Wits
-* Telling
+* Talent Oratoire
+* Parfait Inconnu
+* Vif d'esprit
+* Dire les Choses
 {{< /columns >}}
 
 -----
@@ -832,13 +832,13 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 
 Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
-* Adroit Cypher Use
-* Discipline of Watchfulness
-* Experienced in Armor
-* Flee
-* Foul Aura
-* Knowing the Unknown
-* Regeneration
+* Utilisation adroite des cyphers
+* Discipline de vigilance
+* Expérimenté en armure
+* Fuir
+* Aura fétide
+* Connaître l'inconnu
+* Régénérer
 * Skill With Attacks
 * Stimulate
 
@@ -854,7 +854,7 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 * Inspiring Success
 * Recruit Deputy
 * Shatter Mind
-* True Senses
+* Véritables sens
 * Word of Command
 
 ### Exemple d'Emissaire
@@ -863,7 +863,7 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 
 Mary veut créer un émissaire pour une campagne d'horreur lovecraftienne. Elle met 3 de ses points de statistiques supplémentaires dans sa réserve d'intelligence et 3 dans sa réserve de Célérité; ses statistiques sont désormais de Puissance 8, Célérité 12 et Intellect 14. En tant que personnage de premier rang, son Effort est de 1, son avantage de Puissance et son avantage de Célérité sont de 0 et son avantage d'Intellect est de 1. Elle est intelligente et charismatique mais pas particulièrement costaude.
 
-Mary choisit Fast Talk et Spin Identity pour l'aider à se rendre dans des endroits et à apprendre des choses qu'elle veut savoir. C'est un peu une escroc. Cependant, elle est gentille avec ses amis et choisit également l'encouragement. Mary complète ses capacités de premier rang avec des compétences d'interaction (tromperie et persuasion).
+Mary choisit Embrouiller et Changement d'Identité pour l'aider à se rendre dans des endroits et à apprendre des choses qu'elle veut savoir. C'est un peu une escroc. Cependant, elle est gentille avec ses amis et choisit également l'encouragement. Mary complète ses capacités de premier rang avec des compétences d'interaction (tromperie et persuasion).
 
 Un émissaire commence normalement par deux cyphers, mais la MJ décide que les personnages de cette campagne commencent par un seul --- à cause de quelque chose d'effrayant lié à leur passé. Le cypher de Mary est une étrange montre de poche que lui a offerte son grand-père. Elle ne sait ni comment ni pourquoi, mais lorsqu'elle est activée, la montre lui permet d'effectuer deux fois plus d'actions pendant trois tours.
 
@@ -879,9 +879,9 @@ Pour son arc de personnage, Mary choisit Fall From Grace. Elle décide qu'elle e
 
 ## Options de Personnages de Fantasy
 
-Dans certains cas, les idées présentées ici nécessitent des modifications mineures de l'ambiance décrite dans les options des personnages ; vous devez travailler avec votre MJ pour vous assurer que ces changements sont adaptés à la campagne. La plupart des Focus de cette section apparaissent dans le système Cypher ; les Focus marqués d'un astérisque (\*) se trouvent plus loin dans ce document. Certaines de ces options recommandent de remplacer une capacité de type par une capacité de l'une des Préférences de personnage, comme le combat, la magie ou la furtivité.
+Dans certains cas, les idées présentées ici nécessitent des modifications mineures de l'ambiance décrite dans les options des personnages ; vous devez travailler avec votre MJ pour vous assurer que ces changements sont adaptés à la campagne. La plupart des Focus de cette section apparaissent dans le Cypher System; les Focus marqués d'un astérisque (\*) se trouvent plus loin dans ce document. Certaines de ces options recommandent de remplacer une capacité de type par une capacité de l'une des Préférences de personnage, comme le combat, la magie ou la furtivité.
 
-**Alchemiste:** Dans le sens où un alchimiste est quelqu'un qui fabrique des objets magiques ou des choses similaires, Adepte et Explorateur sont des choix de type appropriés pour les alchimistes universitaires. Pour un alchimiste général qui fabrique des potions aux effets magiques, choisissez le Focus [Maîtrise les Sortilèges](04-focus.md#maîtrise-les-sortilèges) (au lieu de sorts, vous apprenez des potions). Pour celui qui se transforme en une créature puissante et dangereuse, choisissez [Hurle à la Lune](04-focus.md#hurle-à-la-lune). Pour celui qui aime lancer des bombes, choisissez [Se Revêt d'un Halo de Feu](04-focus.md#se-revêt-dun-halo-de-feu). Pour un guérisseur, choisissez [Fait des Miracles](04-focus.md#fait-des-miracles).
+**Alchimiste:** Dans le sens où un alchimiste est quelqu'un qui fabrique des objets magiques ou des choses similaires, Adepte et Explorateur sont des choix de type appropriés pour les alchimistes universitaires. Pour un alchimiste général qui fabrique des potions aux effets magiques, choisissez le Focus [Maîtrise les Sortilèges](04-focus.md#maîtrise-les-sortilèges) (au lieu de sorts, vous apprenez des potions). Pour celui qui se transforme en une créature puissante et dangereuse, choisissez [Hurle à la Lune](04-focus.md#hurle-à-la-lune). Pour celui qui aime lancer des bombes, choisissez [Se Revêt d'un Halo de Feu](04-focus.md#se-revêt-dun-halo-de-feu). Pour un guérisseur, choisissez [Fait des Miracles](04-focus.md#fait-des-miracles).
 
 **Assassin/Espion:** Explorateur et Guerrier sont de bons choix de type pour un personnage assassin. Les Focus appropriées sont [Maîtrise l'Armement](04-focus.md#maîtrise-larmement), [Bouge comme un Chat](04-focus.md#bouge-comme-un-chat), [Assassine](04-focus.md#assassine), et [Rôde dans les Bas Quartiers](04-focus.md#rôde-dans-les-bas-quartiers).
 
@@ -918,13 +918,13 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Marchand:** Un Explorateur spécialisé dans les interactions sociales, comme Divertit ou Dirige, ferait un bon personnage marchand, mais le choix le plus évident serait un Emissaire.
 
-**Moine or Spécialiste des Arts Martiaux:** En tant que maîtres du combat à mains nues, les moines sont généralement des Guerriers ou des Explorateurs (avec peut-être une Préférence de combat). Les Focus appropriées sont les [Combat avec Panache](04-focus.md#combat-avec-panache), [N'a pas Besoin d'Arme](04-focus.md#na-pas-besoin-darme), and Lance avec une Précision Mortelle.
+**Moine or Spécialiste des Arts Martiaux:** En tant que maîtres du combat à mains nues, les moines sont généralement des Guerriers ou des Explorateurs (avec peut-être une Préférence de combat). Les Focus appropriées sont les [Combat avec Panache](04-focus.md#combat-avec-panache), [N'a pas Besoin d'Arme](04-focus.md#na-pas-besoin-darme), et Lance avec une Précision Mortelle.
 
-**Paladin/Chevalier/Parangon:** En tant que guerriers sacrés mêlant prouesses martiales et magie, les paladins sont généralement des Guerriers ou des Explorateurs (dans les deux cas, peut-être modifiés avec la Préférence magique). Les bonnes Focus pour ce type de personnage incluent [Garde le Passage](04-focus.md#garde-le-passage), [Défend les Faibles](04-focus.md#défend-les-faibles), Rend la Justice, Tue les Monstres, and [Porte une Arme Enchantée](04-focus.md#porte-une-arme-enchantée)\*.
+**Paladin/Chevalier/Parangon:** En tant que guerriers sacrés mêlant prouesses martiales et magie, les paladins sont généralement des Guerriers ou des Explorateurs (dans les deux cas, peut-être modifiés avec la Préférence magique). Les bonnes Focus pour ce type de personnage incluent [Garde le Passage](04-focus.md#garde-le-passage), [Défend les Faibles](04-focus.md#défend-les-faibles), Rend la Justice, Tue les Monstres, et [Porte une Arme Enchantée](04-focus.md#porte-une-arme-enchantée)\*.
 
 **Ranger:** Les Rangers mélangent combat et compétences, et sont donc généralement des Explorateurs (peut-être avec une Préférence de combat) ou des Guerriers (peut-être avec une Préférence de compétences et de connaissances). Les Focus appropriées sont [Contrôle les Bêtes Sauvages](04-focus.md#contrôle-les-bêtes-sauvages), Chasse, [Vit dans la Nature Sauvage](04-focus.md#vit-dans-la-nature-sauvage), Tue les Monstres, Lance avec une Précision Mortelle, et [Se Bat avec Deux Armes à la fois](04-focus.md#se-bat-avec-deux-armes-à-la-fois).
 
-**Roublard ou Voleur:** La plupart des personnages de type voleur sont des Explorateurs, mais un voleur axé sur l'interaction pourrait facilement être un Emissaire (peut-être avec une Préférence furtive). Les Focus appropriées sont Explore des Endroits Sombres, [Se Bat Sans Respecter de Règle](04-focus.md#se-bat-sans-respecter-de-règle), Chasse, Se Cache dans les Ombres, Is Wanted by the Law, [Bouge comme un Chat](04-focus.md#bouge-comme-un-chat), A Navigué sous Pavillon Pirate, and Rôde dans les Bas Quartiers.
+**Roublard ou Voleur:** La plupart des personnages de type voleur sont des Explorateurs, mais un voleur axé sur l'interaction pourrait facilement être un Emissaire (peut-être avec une Préférence furtive). Les Focus appropriées sont Explore des Endroits Sombres, [Se Bat Sans Respecter de Règle](04-focus.md#se-bat-sans-respecter-de-règle), Chasse, Se Cache dans les Ombres, Is Wanted by the Law, [Bouge comme un Chat](04-focus.md#bouge-comme-un-chat), A Navigué sous Pavillon Pirate, et Rôde dans les Bas Quartiers.
 
 **Sorcier:** Les sorciers, dans notre cas, sont des mages qui ont des capacités magiques inhérentes (par opposition aux magiciens, qui étudient longuement et durement pour obtenir leurs sorts). La plupart des sorciers sont des Adeptes, mais certains sont des Explorateurs ou des Emissaires. Le Focus [Maîtrise les Sortilèges](04-focus.md#maîtrise-les-sortilèges) donne à un sorcier typique un ensemble efficace de capacités, et la plupart des choix de Focus fournissent un ensemble thématique de sorts. Pour les sorciers de diverses lignées magiques, consultez ce qui suit :
 
@@ -938,9 +938,9 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Escroc ou Arnaqueur:** Ces gens intelligents sont généralement des Emissaires, bien qu'ils puissent être des Adeptes s'ils sont très magiques (ou des Explorateurs s'ils ne sont pas magiques du tout). Les choix de Focus incluent [Se Bat Sans Respecter de Règle](04-focus.md#se-bat-sans-respecter-de-règle), Rôde dans les Bas Quartiers ou Divertit.
 
-**Guerrier-Mage:** Pour ces personnages inhabituels qui utilisent un mélange d'attaques avec des armes et de sorts, incarnez un Guerrier à Préférence magique ou un expert à Préférence de combat ou de magie. Les Focus appropriées incluent [Combat avec Panache](04-focus.md#combat-avec-panache), [Maîtrise l'Armement](04-focus.md#maîtrise-larmement), and [Porte une Arme Enchantée](04-focus.md#porte-une-arme-enchantée)\*.
+**Guerrier-Mage:** Pour ces personnages inhabituels qui utilisent un mélange d'attaques avec des armes et de sorts, incarnez un Guerrier à Préférence magique ou un expert à Préférence de combat ou de magie. Les Focus appropriées incluent [Combat avec Panache](04-focus.md#combat-avec-panache), [Maîtrise l'Armement](04-focus.md#maîtrise-larmement), et [Porte une Arme Enchantée](04-focus.md#porte-une-arme-enchantée)\*.
 
-**Démoniste ou Occultiste:** Pour les besoins de cette liste, les Démoniste et les Occultiste sont des mages qui acquièrent des pouvoirs magiques grâce aux pactes qu'ils concluent avec des entités d'un autre monde. La plupart des démonistes sont des Adeptes, mais les Explorateurs et les Emissaires (peut-être avec une Préférence magique) peuvent être des options intéressantes. Les Focus interressantes pour un occultiste incluent Manipule la Matière Noire, Dispose d'un Allié Magique, [Maîtrise l'Essaim](04-focus.md#maîtrise-lessaim), Peut Séparer son Esprit de son Corps, and A été Choisi(e), mais aussi (en fonction de l'entité et du pacte) la plupart des Focus des Sorciers et des Magiciens fonctionnent tout aussi bien.
+**Démoniste ou Occultiste:** Pour les besoins de cette liste, les Démoniste et les Occultiste sont des mages qui acquièrent des pouvoirs magiques grâce aux pactes qu'ils concluent avec des entités d'un autre monde. La plupart des démonistes sont des Adeptes, mais les Explorateurs et les Emissaires (peut-être avec une Préférence magique) peuvent être des options intéressantes. Les Focus interressantes pour un occultiste incluent Manipule la Matière Noire, Dispose d'un Allié Magique, [Maîtrise l'Essaim](04-focus.md#maîtrise-lessaim), Peut Séparer son Esprit de son Corps, et A été Choisi(e), mais aussi (en fonction de l'entité et du pacte) la plupart des Focus des Sorciers et des Magiciens fonctionnent tout aussi bien.
 
 **Mage du Chaos:** Ceux qui utilisent la magie sauvage ou chaotique sont généralement des Adeptes, mais un amateur peut être un Explorateur ou un Emissaire une Préférence magique. Le meilleur Focus qui convient à ce thème est Utilise la Magie Sauvage\*.
 

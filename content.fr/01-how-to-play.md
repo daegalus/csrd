@@ -143,13 +143,13 @@ PAr exemple, si les PJs combattent un groupe de cultistes, chaque personnage peu
 
 ## Points d'Experience
 
-Les Points d'Experience (XP) sont des récompenses données aux joueurs quand la Meneuse s'immisce dans l'histoire (ceci est appelé une intrusion de la Meneuse) avec un défi nouveau et innatendu. Par exemple, au milieu d'un combat, la Meneuse peut informer le joueur que son rame lui échappe des mains. Toutefois, pour s'immiscer de cette façon, la Meneuse doit récompenser le joueur avec 2 points d'XP. Le joueur qui obtient cette récompense, doit, à son tour, donner immédiatement un de ces deux points de XP à un autre joueur et justifier ce don (peut-être que le joueur a eu une bonne idée, a fait une bonne blague, a fait une action qui a sauvé une vie, etc).
+Les Points d'Experience (XP) sont des récompenses données aux joueurs quand la Meneuse s'immisce dans l'histoire (ceci est appelé une intrusion de la Meneuse) avec un défi nouveau et innatendu. Par exemple, au milieu d'un combat, la Meneuse peut informer le joueur que son arme lui échappe des mains. Toutefois, pour s'immiscer de cette façon, la Meneuse doit récompenser le joueur avec 2 points d'XP. Le joueur qui obtient cette récompense, doit, à son tour, donner immédiatement un de ces deux points de XP à un autre joueur et justifier ce don (peut-être que le joueur a eu une bonne idée, a fait une bonne blague, a fait une action qui a sauvé une vie, etc).
 
 Toutefois, le joueur peut refuser l'intrusion de la Meneuse. Dans ce cas, il n'obtient pas les 2 points de XP de la Meneuse, et il doit dépenser un point de XP de leur propre réserve de XP. Si le joueur n'a pas de XP à dépenser, il ne peut pas refuser l'intrusion.
 
 La Meneuse peut aussi donner aux joueurs des XP entre les sessions en tant que récompenses pour avoir fait des découvertes pendant l'aventure. Les découvertes sont des évènements interressants, des secrets merveilleux, des artifacts puissants, des réponses à des mystères, ou des solutions à des problèmes (tels que où les kidnappeurs détiennent leur victime ou comment les PJs ont réparé leur vaisseau). Vous ne méritez pas de XP pour avoir tuer des adversaires ou l'accomplissement de défis standards au court du jeu. La découverte est l'âme du Cypher System.
 
-LEs points d'expérience sont utilisés principalement pour la progression du personnage (pour des détails, consultez le chapitre [Créer Votre Personnage](02-creating-your-character/_index.md)), mais un joueur peut aussi dépenser 1 XP pour relancer n'importe quel jet de dé et choisir le meilleur d'entre les deux.
+Les points d'expérience sont utilisés principalement pour la progression du personnage (pour des détails, consultez le chapitre [Créer Votre Personnage](02-creating-your-character/_index.md)), mais un joueur peut aussi dépenser 1 XP pour relancer n'importe quel jet de dé et choisir le meilleur d'entre les deux.
 
 ## Cyphers
 
