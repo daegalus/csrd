@@ -552,21 +552,21 @@ Choisissez quatre Capacités ci-dessous (ou d'un rang inférieur) à ajouter à 
 
 {{< columns >}}
 
-* Curieux
-* Instinct de Danger
 * Activer les autres
-* Evasion
-* Oeil pour les détails
-* Déjouer le Danger
-* Coordination Main-Oeil
-<--->
-* Compétences d'enquête
-* Récupération rapide
 * Augmentation de la portée
 * Compétence en défense
-* Rester en Alerte
+* Compétences d'enquête
 * Compétences de voyage
+* Coordination Main-Oeil
+* Curieux
+<--->
+* Déjouer le Danger
 * Epave
+* Evasion
+* Instinct de Danger
+* Oeil pour les détails
+* Récupération rapide
+* Rester en Alerte
 {{< /columns >}}
 
 -----
@@ -576,21 +576,22 @@ Choisissez quatre Capacités ci-dessous (ou d'un rang inférieur) à ajouter à 
 Choisissez trois Capacités ci-dessous (ou d'un rang inférieur) à ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
 {{< columns >}}
-Chute contrôlée
-Expérimenté en armure
-Utilisation experte des cyphers
-Ignore the Pain
-Obstacle Running
-Resilience
-Run and Fight
+* Briseur de Pierre
+* Chute contrôlée
+* Compétence avec les attaques
+* Courir et combattre
+* Course d'obstacles
 <--->
-Saisissez l'instant
-Compétence avec les attaques
-Stone Breaker
-Think Your Way Out
-Trapfinder
-Wrest From Chance
+* Expérimenté en armure
+* Extraire du hasard
+* Ignorez la Douleur
+* Pensez à votre sortie
+* Résilience
 <--->
+* Saisissez l'instant
+* Trouver les Pièges
+* Utilisation experte des cyphers
+
 {{< /columns >}}
 
 -----
@@ -599,13 +600,13 @@ Wrest From Chance
 
 Choisissez trois Capacités ci-dessous (ou d'un rang inférieur) à ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
-* Capable Warrior
-* Expert Skill
+* Compétence d'expert
+* Coureur
+* Dur comme du Bois
 * Effets accrus
-* Read the Signs
-* Runner
-* Subtle Steps
-* Tough As Nails
+* Guerrier Capable
+* Lire les signes
+* Pas subtiles
 
 -----
 
@@ -613,15 +614,15 @@ Choisissez trois Capacités ci-dessous (ou d'un rang inférieur) à ajouter à v
 
 Choisissez trois Capacités ci-dessous (ou d'un rang inférieur) à ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
-* Utilisation adroite des cyphers
-* Free to Move
-* Group Friendship
-* Hard to Kill
-* Jump Attack
+* Amitié de groupe
+* Attaque sautée
+* Difficile à tuer
+* Libre de se déplacer
 * Maîtrise de la défense
 * Parade
-* Physically Gifted
-* Take Command
+* Physiquement doué
+* Prendre le commandement
+* Utilisation adroite des cyphers
 * Vigilant
 
 -----
@@ -631,13 +632,13 @@ Choisissez trois Capacités ci-dessous (ou d'un rang inférieur) à ajouter à v
 Choisissez trois Capacités ci-dessous (ou d'un rang inférieur) à ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
 * Encore et encore
-* Inspire Coordinated Actions
+* Inspire des actions coordonnées
 * Maîtrise en Armure
 * Maîtrise des attaques
-* Negate Danger
-* Share Defense
-* Spin Attack
-* Wild Vitality
+* Annuler le danger
+* Partager la défense
+* Attaque Tournoyante
+* Vitalité sauvage
 
 ### Exemple d'Explorateur
 
@@ -647,11 +648,11 @@ Sam décide de créer un personnage Explorateur pour une campagne de science-fic
 
 Sam intervient immédiatement et commence à choisir des capacités. Il choisit Sens du Danger et Sursaut de confiance, pensant que ces capacités seront généralement utiles. Il choisit également Pratique des armures, estimant que le personnage porte une armure moyenne de haute technologie lors de l'exploration. Enfin, il choisit les connaissances et les compétences et sélectionnent la géologie et la biologie pour les aider lors des explorations interplanétaires.
 
-L'Explorateur de Sam peut porter deux chiffres, qui dans ce contexte impliquent la nanotechnologie. Le MJ décide que l'un est un injecteur de nanite qui accorde un bonus de +1 à Might Edge lorsqu'il est utilisé, et l'autre est un appareil capable de créer un objet portable simple que l'utilisateur souhaite.
+L'Explorateur de Sam peut porter deux cyphers, qui dans ce contexte impliquent la nanotechnologie. Le MJ décide que l'un est un injecteur de nanite qui accorde un bonus de +1 à Might Edge lorsqu'il est utilisé, et l'autre est un appareil capable de créer un objet simple, qui peut être porté, définit par le joueur.
 
 L'Explorateur de Sam n'est pas vraiment adapté au combat, mais parfois l'univers est un endroit dangereux, alors il note qu'il porte également un blaster moyen.
 
-Sam a encore besoin d'un descripteur et d'un objectif. En regardant le chapitre Descripteur, il choisit Hardy, ce qui augmente leur réserve de puissance à 17. ils guérissent également plus rapidement et peuvent mieux fonctionner lorsqu'il est blessé. Il est entraîné à la défense de puissance mais a une incapacité à prendre l'initiative ; cependant, il est effectivement annulé par son Sens du Danger (et vice versa). Sam pourrait revenir en arrière et sélectionner autre chose au lieu de Sens du Danger, mais il l'aime bien et décide de le garder. Dans l'ensemble, le descripteur finit par rendre le personnage dur mais un peu lent.
+Sam a encore besoin d'un descripteur et d'un focus. En regardant le chapitre Descripteur, il choisit Endurant, ce qui augmente leur réserve de Puissance à 17. ils guérissent également plus rapidement et peuvent mieux fonctionner lorsqu'il est blessé. Il est entraîné à la défense de Puissance mais a une incapacité à prendre l'initiative ; cependant, il est effectivement annulé par son Sens du Danger (et vice versa). Sam pourrait revenir en arrière et sélectionner autre chose au lieu de Sens du Danger, mais il l'aime bien et décide de le garder. Dans l'ensemble, le descripteur finit par rendre le personnage dur mais un peu lent.
 
 Pour son focus, Sam choisit Explore des Endroits Sombres (dans ce cas, d'étranges ruines de civilisations extraterrestres). Cela donne au personnage un tas de compétences supplémentaires : chercher, écouter, grimper, équilibrer et sauter. Ce sont un Explorateur tout à fait compétent.
 
