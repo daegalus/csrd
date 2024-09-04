@@ -147,12 +147,12 @@ Les Guerriers de Premier Rang ont les capacités suivantes:
 
 Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
-* Crushing Blow
-* Hemorrhage
-* Reload
-* Skill With Attacks
+* Attaque successive
+* Compétence avec les attaques
 * Compétence en défense
-* Successive Attack
+* Coup écrasant
+* Hémorragie
+* Recharger
 
 -----
 
@@ -160,18 +160,18 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 
 Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
-* Deadly Aim
-* Résistance énergétique
-* Expérimenté en armure
-* Utilisation experte des cyphers
-* Fureur
-* Se Fendre
-* Réaction
-* Saisissez l'instant
 * Découpe
+* Expérimenté en armure
+* Fureur
 * Pulvérisation
-* Trick Shot
+* Réaction
+* Résistance énergétique
+* Saisissez l'instant
+* Se Fendre
+* Tir Double
+* Utilisation experte des cyphers
 * Vigilance
+* Visée mortelle
 
 -----
 
@@ -179,15 +179,15 @@ Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajoute
 
 Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
-* Amazing Effort
-* Capable Warrior
 * Défenseur expérimenté
-* Feint
-* Increased Effects
+* Dur comme du Bois
+* Effets accrus
+* Effort incroyable
+* Feinte
+* Guerrier Capable
 * Momentum
-* Pry Open
-* Snipe
-* Tough As Nails
+* Percer les Défenses
+* Tir Précis
 
 -----
 
@@ -195,17 +195,17 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 
 Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
-* Utilisation adroite des cyphers
-* Tirs en éventail
-* Improved Success
-* Jump Attack
+* Attaque sautée
+* Maîtrise de la défense
 * Maîtrise en Armure
 * Maîtrise des attaques
-* Maîtrise de la défense
-* Parry
+* Parade
+* Succès amélioré
+* Tirs en éventail
+* Utilisation adroite des cyphers
 
 {{< hint info >}}
-Remember that at higher tiers, you can choose special abilities from lower tiers. This is sometimes the best way to ensure that you have exactly the character you want. This is particularly true with abilities that grant skills, which can usually be taken multiple times.
+Rapellez-vous qu'à des rangs supérieurs, vous pouvez choisir des capacités spéciales des rangs inférieurs. C'est quelque fois la meilleure approche pour s'assurer que vous avez exactement le personnage que vous souhaitez. C'est particulièrement vrai avec les capacités qui fournissent des compétences, qui peuvent être choisies plusieurs fois.
 {{< /hint >}}
 
 -----
@@ -214,27 +214,27 @@ Remember that at higher tiers, you can choose special abilities from lower tiers
 
 Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
-* Again and Again
-* Finishing Blow
-* Magnificent Moment
-* Murderer
-* Spin Attack
-* Weapon and Body
+* Arme et corps
+* Attaque Tournoyante
+* Coup final
+* Encore et encore
+* Meurtrier
+* Moment magnifique
 
-### Warrior Example
+### Exemple de Guerrier
 
 {{< hint warning >}}
 Ray souhaite créer un personnage Guerrier pour une campagne moderne. Il décide que le personnage est un ancien militaire rapide et fort. Il met 3 de ses points supplémentaires dans sa Réserve de Puissance et 3 dans sa Réserve de Célérité ; ses pools de statistiques sont désormais Puissance 13, Célérité 13 et Intellect 8. En tant que personnage de premier rang, son Effort est de 1, son Avantage de Puissance est de 1 et son Avantage de Célérité et son Avantage d'Intellect sont tous deux de 0. Son personnage n'est pas particulièrement intelligent. ou charismatique.
 
 Il souhaite utiliser un grand couteau de combat (une arme moyenne qui inflige 4 points de dégâts) et un .357 Magnum (un pistolet lourd qui inflige 6 points de dégâts mais nécessite l'usage des deux mains). Ray décide de ne pas porter d'armure, car ce n'est pas vraiment approprié au contexte, donc pour sa première capacité, il choisit Entraîné sans armure afin de faciliter les actions de défense en Célérité. Pour sa deuxième capacité, il choisit Prouesses au combat afin de pouvoir infliger des dégâts supplémentaires avec son gros couteau.
 
-Ray veut être à la fois rapide et résistant, c'est pourquoi il sélectionne Improvement Edge. Cela lui donne un Avantage de Célérité de 1. Il complète son personnage avec des compétences physiques et choisit la natation et la course.
+Ray veut être à la fois rapide et résistant, c'est pourquoi il sélectionne Avantage de Stat Amélioré. Cela lui donne un Avantage de Célérité de 1. Il complète son personnage avec des compétences physiques et choisit la natation et la course.
 
 Le guerrier peut porter deux cyphers. Le MJ décide que le premier cypher de Ray est une pilule qui restaure 6 points de puissance lorsqu'il est avalé, et son second est une petite grenade facilement dissimulée qui explose comme une bombe incendiaire lorsqu'elle est lancée, infligeant 3 points de dégâts à tous ceux qui se trouvent à portée immédiate.
 
 Ray doit encore choisir un descripteur et un focus. En prévision des règles des descripteurs, Ray choisit Strong, ce qui augmente son Réerve de Puissance à 17. Il s'entraîne également à sauter et à briser des objets inanimés. (S'il avait choisi le saut comme l'une de ses compétences physiques, le descripteur Fort l'aurait fait se spécialiser dans le saut au lieu de s'entraîner.) Être fort donne également à Ray une arme supplémentaire moyenne ou lourde. Il choisit une batte de baseball qu'il utilisera à la rigueur. Il le garde dans le coffre de sa voiture.
 
-Pour se concentrer, Ray choisit [Maîtrise l'Armement](04-focus.md#maîtrise-larmement). Cela lui donne encore une arme de grande qualité. Il choisit un autre couteau de combat et demande au MJ s'il peut l'utiliser dans sa main gauche, non pas pour effectuer des attaques, mais comme bouclier. Cela facilitera ses jets de défense en Célérité s'il a ses deux couteaux sortis (le "bouclier" compte comme un atout). Le MJ est d'accord. Pendant le jeu, le Guerrier de Ray sera difficile à toucher --- il est entraîné aux jets de défense de Célérité, et son couteau supplémentaire facilite encore plus ses jets de défense.
+Pour son focus, Ray choisit [Maîtrise l'Armement](04-focus.md#maîtrise-larmement). Cela lui donne encore une arme de grande qualité. Il choisit un autre couteau de combat et demande au MJ s'il peut l'utiliser dans sa main gauche, non pas pour effectuer des attaques, mais comme bouclier. Cela facilitera ses jets de défense en Célérité s'il a ses deux couteaux sortis (le "bouclier" compte comme un atout). Le MJ est d'accord. Pendant le jeu, le Guerrier de Ray sera difficile à toucher --- il est entraîné aux jets de défense de Célérité, et son couteau supplémentaire facilite encore plus ses jets de défense.
 
 Grâce à son Focus, il inflige également 1 point de dégâts supplémentaire avec l'arme de son choix. Il inflige désormais 6 points de dégâts avec sa lame. Le personnage de Ray est un combattant mortel, commençant probablement le jeu avec une réputation de combattant au couteau.
 
@@ -585,7 +585,7 @@ Resilience
 Run and Fight
 <--->
 Saisissez l'instant
-Skill With Attacks
+Compétence avec les attaques
 Stone Breaker
 Think Your Way Out
 Trapfinder
@@ -601,7 +601,7 @@ Choisissez trois Capacités ci-dessous (ou d'un rang inférieur) à ajouter à v
 
 * Capable Warrior
 * Expert Skill
-* Increased Effects
+* Effets accrus
 * Read the Signs
 * Runner
 * Subtle Steps
@@ -619,7 +619,7 @@ Choisissez trois Capacités ci-dessous (ou d'un rang inférieur) à ajouter à v
 * Hard to Kill
 * Jump Attack
 * Maîtrise de la défense
-* Parry
+* Parade
 * Physically Gifted
 * Take Command
 * Vigilant
@@ -630,7 +630,7 @@ Choisissez trois Capacités ci-dessous (ou d'un rang inférieur) à ajouter à v
 
 Choisissez trois Capacités ci-dessous (ou d'un rang inférieur) à ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
-* Again and Again
+* Encore et encore
 * Inspire Coordinated Actions
 * Maîtrise en Armure
 * Maîtrise des attaques
@@ -818,7 +818,7 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 
 * Anticipate Attack
 * Confounding Banter
-* Feint
+* Feinte
 * Heightened Skills
 * Psychosis
 * Read the Signs
@@ -832,15 +832,15 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 
 Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
-* Utilisation adroite des cyphers
+* Aura fétide
+* Compétence avec les attaques
+* Connaître l'inconnu
 * Discipline de vigilance
 * Expérimenté en armure
 * Fuir
-* Aura fétide
-* Connaître l'inconnu
 * Régénérer
-* Skill With Attacks
-* Stimulate
+* Stimuler
+* Utilisation adroite des cyphers
 
 -----
 
