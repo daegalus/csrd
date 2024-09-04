@@ -349,12 +349,12 @@ Les Adeptes de Premier Rang disposent des capacités suivantes :
 Choisissez une des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
 * Adaptation
-* Lumière coupante
-* Survol
 * Lecture mentale
-* Retrieve Memories
-* Reveal
-* Stasis
+* Lumière coupante
+* Récupérer des souvenirs
+* Révèle
+* Stase
+* Survol
 
 -----
 
@@ -362,13 +362,13 @@ Choisissez une des capacités ci-dessous (ou du rang inférieur) pour l'ajouter 
 
 Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
-* Utilisation adroite des cyphers
-* Contre-mesures
-* Protection énergétique
-* Feu et Glace
 * Barrière de champ de force
 * Capteur
+* Contre-mesures
+* Feu et Glace
 * Oeil pour Cibler
+* Protection énergétique
+* Utilisation adroite des cyphers
 
 -----
 
@@ -376,15 +376,15 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 
 Choisissez une des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
-* Toucher Mortel
+* Contrôle mental
 * Exil
 * Invisibilité
 * Nuage de matière
-* Contrôle mental
 * Projection
-* Traitement rapide
 * Régénérer
 * Remodeler
+* Toucher Mortel
+* Traitement rapide
 * Trou de ver
 
 -----
@@ -393,14 +393,14 @@ Choisissez une des capacités ci-dessous (ou du rang inférieur) pour l'ajouter 
 
 Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
-* Absorb Energy
+* Absorber l'énergie
 * Concussion
 * Conjuration
-* Create
-* Dust to Dust
 * Connaître l'inconnu
-* Master Cypher Use
-* Teleportation
+* Créer
+* Maîtrise dans l' Utilisation des Cyphers:
+* Poussière Retourne à la Poussière
+* Téléportation
 * Véritables sens
 
 -----
@@ -409,11 +409,11 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 
 Choisissez une des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
-* Control Weather
-* Earthquake
-* Move Mountains
-* Traverse the Worlds
-* Usurp Cypher
+* Contrôle de la météo
+* Déplacer des montagnes
+* Traversez les mondes
+* Tremblement de terre
+* Usurpation de Cypher
 
 ### Exemple d'Adepte
 
@@ -425,7 +425,7 @@ Elle peut porter trois cyphers. Le MJ lui donne une potion qui agit comme un té
 
 Pour son descripteur, Jen choisit Graceful, ce qui ajoute 2 points à sa Réserve de Célérité, la portant à 13. Ce descripteur signifie qu'elle est formée à l'équilibre et à tout ce qui nécessite des mouvements prudents, des arts du spectacle physiques et des tâches de Défense de Célérité. Peut-être qu'elle est danseuse. En fait, elle commence à développer une histoire qui implique des mouvements gracieux et souples qu'elle intègre dans ses sorts.
 
-Pour sa concentration, elle choisit Dirige. Cela lui donne une formation aux interactions sociales, ce qui, encore une fois, l'aide à se démarquer : elle est douée dans toutes sortes de situations. De plus, elle possède la capacité Good Advice, ce qui lui permet d'être un point focal de son groupe.
+Pour son focus, elle choisit Dirige. Cela lui donne une formation aux interactions sociales, ce qui, encore une fois, l'aide à se démarquer : elle est douée dans toutes sortes de situations. De plus, elle possède la capacité Good Advice, ce qui lui permet d'être un point focal de son groupe.
 
 Ses sorts et ses capacités de concentration coûtent des points d'Intellect à activer, elle est donc heureuse d'avoir beaucoup de points dans sa réserve d'Intellect. De plus, son Intellect Edge contribuera à réduire ces coûts. Si elle utilise son explosion de force Assaut sans appliquer d'Effort, cela coûte 0 point d'Intellect et inflige 4 points de dégâts. Son avantage intellectuel lui permettra d'économiser des points et de les consacrer à l'application de l'effort à d'autres fins, peut-être pour augmenter la précision d'Assaut Magique.
 
