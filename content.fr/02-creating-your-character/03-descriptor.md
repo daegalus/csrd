@@ -398,17 +398,17 @@ Vous bénéficiez des caractéristiques suivantes:
 
 ### Dur-à-Cuire
 
-You're strong and can take a lot of physical punishment. You might have a large frame and a square jaw. Tough characters frequently have visible scars.
+Vous êtes costaud et vous pouvez subir pas mal de chocs physiques. Vous avez des épaules larges et une machoire carrée. Les durs-à-cuir ont souvent des cicatrices visibles.
 
 Vous bénéficiez des caractéristiques suivantes:
 
 **Resilient:** +1 to Armor.
 
-**Healthy:** Add 1 to the points you regain when you make a recovery roll.
+**Bonne santé:** Ajoutre 1 à vos jets de récupération.
 
-**Compétence:** Vous êtes entraîné in Might defense actions.
+**Compétence:** Vous êtes entraîné dans les actions de défense de Puissance.
 
-**Equipement Supplémentaire:** You have an extra light weapon.
+**Equipement Supplémentaire:** Vous avez une arme légère supplémentaire.
 
 **Lien initial à la Première Aventure:** A partir de la liste d'options suivantes, choisissez comment vous vous êtes engagé dans la première aventure.
 
