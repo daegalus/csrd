@@ -402,7 +402,7 @@ Vous êtes costaud et vous pouvez subir pas mal de chocs physiques. Vous avez de
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Resilient:** +1 to Armor.
+**Resilient:** +1 à l'Armure.
 
 **Bonne santé:** Ajoutre 1 à vos jets de récupération.
 
