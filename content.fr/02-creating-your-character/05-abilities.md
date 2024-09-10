@@ -2043,7 +2043,7 @@ Calme Stranger/Calmeer un Etranger (2+ points d'Intellect) : Vous pouvez faire e
 
 **Choc Electrique** (1 point d'Intellect) : Vos mains crépitent d'électricité, et la prochaine fois que vous touchez une créature, vous infligez 3 points de dégâts. Alternativement, si vous maniez une arme, celle-ci crépite d'électricité pendant dix minutes et inflige 1 point de dégâts supplémentaire par attaque. Action pour le toucher ; facilitateur pour arme.
 
-**Chute contrôlée**: lorsque vous tombez alors que vous êtes capable d'utiliser des actions et à portée d'une surface verticale, vous pouvez tenter de ralentir votre chute. Effectuez un jet de Célérité avec une difficulté de 1 tous les 20 pieds (6 m) de chute. En cas de réussite, vous subissez la moitié des dégâts de la chute. Si vous réduisez la difficulté à 0, vous ne subissez aucun dégât. Facilitateur.
+**Chute contrôlée**: lorsque vous tombez alors que vous êtes capable d'effectuer des actions et à portée d'une surface verticale, vous pouvez tenter de ralentir votre chute. Effectuez un jet de Célérité avec une difficulté de 1 tous les 20 pieds (6 m) de chute. En cas de réussite, vous subissez la moitié des dégâts de la chute. Si vous réduisez la difficulté à 0, vous ne subissez aucun dégât. Facilitateur.
 
 **Chute en toute sécurité** : Vous réduisez les dégâts d’une chute de 5 points. Facilitateur.
 

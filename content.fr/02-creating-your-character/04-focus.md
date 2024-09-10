@@ -143,6 +143,7 @@ Bien que Is Licensed to Carry soit conçu pour les armes à feu modernes, il pou
 * Rang 6: Tir Spécial ou Dégâts mortels
 
 **Intrusions de la Meneuse:** Ratés ou confiture ! L'attaque échoue et l'action est perdue, et une action supplémentaire est nécessaire pour résoudre le problème.
+
 -----
 
 ### A été Choisi(e)
@@ -157,7 +158,7 @@ Vous êtes « l’élu » et la prophétie, la prédiction, le pronostic ou tout
 * Rang 5: Montrez-leur le chemin
 * Rang 6: Comme le prédit la prophétie ou Potentiel amélioré supérieur
 
-**Intrusions de la Meneuse:**Un ennemi décrit dans la prophétie apparaît. Les incroyants menacent de gâcher ce moment. Le personnage acquiert une réputation de fraudeur dans les cercles extérieurs.
+**Intrusions de la Meneuse:** Un ennemi décrit dans la prophétie apparaît. Les incroyants menacent de gâcher ce moment. Le personnage acquiert une réputation de fraudeur dans les cercles extérieurs.
 
 -----
 
@@ -602,6 +603,7 @@ Vous pliez la lumière et manipulez des faisceaux de force pour l’attaque et l
 * Rang 6: Concussion ou Générer un champ de force
 
 **Intrusions de la Meneuse:** L’invisibilité s’estompe partiellement, révélant la présence du personnage. Un champ de force est transpercé par une attaque inhabituelle ou inattendue.
+
 -----
 
 ### Construit et Répare
