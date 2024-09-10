@@ -559,8 +559,8 @@ Choisissez quatre Capacités ci-dessous (ou d'un rang inférieur) à ajouter à 
 * Coordination Main-Oeil
 * Curieux
 <--->
+* Défoncer
 * Déjouer le Danger
-* Epave
 * Evasion
 * Instinct de Danger
 * Oeil pour les détails

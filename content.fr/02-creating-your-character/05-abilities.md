@@ -536,12 +536,12 @@ Modifient une capacité existante ou des effets ou paramètres de caractéristiq
 * Corps de Golem
 * Coup écrasant
 * Curieux
+* Défoncer
 * Désignation Améliorée
 * Double frappe
 * Drain de Créature
 * Dynamiser un objet
 * Efficacité de la machine
-* Epave
 <--->
 * Esprit de Puissance
 * Enquêteur
@@ -2425,6 +2425,8 @@ Facilitateur.
 
 **Définir le bas** (4 points d'Intellect): La gravité naturelle dans une zone à une courte distance de laquelle vous êtes à portée immédiate change de direction afin qu'elle s'écoule dans la direction que vous déterminez (vers le haut, vers le haut et vers le sud, l'ouest, etc. ) pendant quelques secondes, puis revient. Les cibles affectées pourraient être projetées jusqu'à 20 pieds (6 m) et subir quelques points de dégâts. Action.
 
+**Défoncer** : Avec vos deux mains, vous maniez une arme ou un outil avec un mouvement puissant. (Si vous combattez à mains nues, cette attaque est effectuée avec les deux poings ou les deux pieds joints.) Lorsque vous l'utilisez comme attaque, vous subissez un malus de -1 au jet d'attaque et vous infligez 3 points de dégâts supplémentaires. Lorsque vous tentez d'endommager un objet ou une barrière, vous êtes entraîné à la tâche. Action.
+
 **Déguisement** : Vous êtes entraîné au déguisement. Vous pouvez modifier votre posture, votre voix, vos manières et vos cheveux pour ressembler à quelqu'un d'autre aussi longtemps que vous conservez le déguisement. Cependant, il est extrêmement difficile d'adopter l'apparence d'un individu en particulier sans un kit de déguisement à votre disposition. Facilitateur.
 
 **Déguisement illusoire** (2+ points d'Intellect) : Vous semblez être quelqu'un ou quelque chose d'autre, à peu près de votre taille et de votre forme, pendant une heure maximum. Une fois créé, le déguisement ne nécessite aucune concentration. Pour chaque point d'Intellect supplémentaire que vous dépensez, vous pouvez déguiser une autre créature. Toutes les créatures déguisées doivent rester à votre vue ou perdre leur déguisement. Action de créer.
@@ -2550,8 +2552,6 @@ Incomparable Pilote/Pilotee Incomparable: Lorsque vous êtes sur un vaisseau spa
 **Entretenir l'amitié** (4 points d'Intellect) : Vous savez exactement quoi dire pour attirer un petit effort supplémentaire de la part d'un allié. Cela confère à une créature que vous choisissez à courte portée une action supplémentaire immédiate, qu'elle peut effectuer hors de son tour. La créature utilise l'action supplémentaire comme elle le souhaite. Action.
 
 **Envoûtement** (1 point d'Intellect) : pendant que vous parlez, vous captez et maintenez l'attention d'une autre créature, même si celle-ci ne peut pas vous comprendre. Tant que vous ne faites que parler (vous ne pouvez même pas bouger), l'autre créature n'entreprend aucune action autre que se défendre, même sur plusieurs rounds. Si la créature est attaquée, l'effet prend fin. Action.
-
-**Epave** : Avec vos deux mains, vous maniez une arme ou un outil avec un mouvement puissant. (Si vous combattez à mains nues, cette attaque est effectuée avec les deux poings ou les deux pieds joints.) Lorsque vous l'utilisez comme attaque, vous subissez un malus de -1 au jet d'attaque et vous infligez 3 points de dégâts supplémentaires. Lorsque vous tentez d'endommager un objet ou une barrière, vous êtes entraîné à la tâche. Action.
 
 **Epéiste entraîné**: vous êtes entraîné à l'utilisation des épées. Facilitateur.
 

@@ -1309,7 +1309,7 @@ Lost in the Chaos/Perdu dans le chaos: face à plusieurs ennemis à la fois, vou
 ==
 Lunge/Se Fendre (2 points de puissance) : Cette capacité vous oblige à vous étendre pour un coup de couteau ou un coup puissant. Se fendre maladroitement atténue le jet d'attaque. Si votre attaque réussit, elle inflige 4 points de dégâts supplémentaires. Action.
 ==
-Machine Affinity/Affinité machine : Vous êtes entraîné aux tâches impliquant des machines électriques. Facilitateur.
+Machine Affinity/Affinité machine : Vous êtes entraîné aux tâches impliquant des machines électriques. Facilitateur.Se fendre
 ==
 Machine Bond/Liaison machine: à très longue distance, vous pouvez activer et contrôler un appareil (y compris un robot ou un véhicule) avec lequel vous vous êtes lié. Par exemple, vous pouvez faire exploser un cypher manifeste même s'il est détenu par quelqu'un d'autre, ou faire tirer une tourelle automatisée là où vous le dirigez. La création de liens est un processus qui nécessite 24 heures de méditation en présence de la machine. Action.
 ==
@@ -1513,7 +1513,7 @@ Nightstrike/Frappe nocturne: lorsque vous attaquez un ennemi dans une faible lum
 ==
 Nimble Swimmer/Nageur agile: vous êtes entraîné à toutes les actions de défense sous l'eau. Facilitateur.
 ==
-No Need for Weapons/Arme superflue: lorsque vous effectuez une attaque à mains nues (comme un coup de poing ou un coup de pied), cela compte comme une arme moyenne au lieu d'une arme légère. Facilitateur.
+No Need for Weapons/Pas besoin d'armes: lorsque vous effectuez une attaque à mains nues (comme un coup de poing ou un coup de pied), cela compte comme une arme moyenne au lieu d'une arme légère. Facilitateur.
 ==
 No One Knows Better/Personne ne sait mieux: Vous êtes entraîné à deux des compétences suivantes : persuasion, tromperie, intimidation, recherche, connaissances dans un domaine ou voir à travers la tromperie. Si vous choisissez une compétence dans laquelle vous êtes déjà entraîné, vous vous spécialisez dans cette compétence. Facilitateur.
 ==
@@ -1631,7 +1631,7 @@ Powered Armor/Armure motorisée: Vous disposez d'une armure motorisée. Il s'agi
 ==
 Powerful Rhetoric/Rhétorique puissante (1 point d'Intelligence) : Après avoir engagé une conversation avec une créature pendant au moins une minute, vous pouvez tenter d'influencer la façon dont cette créature est perçue, en la promouvant comme une amie, en la traitant d'imbécile ou en la dénonçant comme un ennemi. Vos propos sont si bien choisis que même vous et elle en êtes touchés, car votre conviction et son doute sont primordiaux. L'exactitude de votre évaluation n'est pas importante tant que vous maintenez votre rhétorique. À partir de ce moment-là (ou jusqu'à ce que vous changiez de rhétorique ou que la créature offre une défense convaincante à ceux qui ont entendu votre étiquette), les interactions sociales de l'ami acquièrent un atout, les interactions sociales de l'imbécile sont entravées ou les défenses de l'ennemi sont entravées. Action à lancer, une minute à terminer.
 ==
-Practiced in Armor/Entraîné au port des armures: Vous pouvez porter une armure pendant de longues périodes sans vous fatiguer et compenser les réactions ralenties liées au port d'une armure. Vous réduisez le coût en Vitesse du port d'une armure de 1. Vous démarrez le jeu avec un type d'armure de votre choix. Facilitateur.
+Practiced in Armor/Pratique des armures: Vous pouvez porter une armure pendant de longues périodes sans vous fatiguer et compenser les réactions ralenties liées au port d'une armure. Vous réduisez le coût en Vitesse du port d'une armure de 1. Vous démarrez le jeu avec un type d'armure de votre choix. Facilitateur.
 ==
 Practiced With All Weapons/Pratique de toutes les armes: Vous vous entraînez avec des armes légères, moyennes et lourdes et ne subissez aucune pénalité lorsque vous utilisez n'importe quel type d'arme. Facilitateur.
 ==
@@ -2428,7 +2428,7 @@ Wound Tender/Premier Soins: Vous êtes entraîné à la guérison. Facilitateur
 ==
 Wraith Cloak/Esprit Protecteur: à votre demande, l'esprit de votre capacité Spirit Accomplice s'enroule autour de vous pendant dix minutes maximum. L'esprit inflige automatiquement 4 points de dégâts à quiconque tente de vous toucher ou de vous frapper avec une attaque au corps à corps. Tant que la cape spectrale est active, toutes les tâches visant à échapper aux perceptions des autres sont facilitées. Facilitateur.
 ==
-Wreck/Epave : Avec vos deux mains, vous maniez une arme ou un outil avec un mouvement puissant. (Si vous combattez à mains nues, cette attaque est effectuée avec les deux poings ou les deux pieds joints.) Lorsque vous l'utilisez comme attaque, vous subissez un malus de -1 au jet d'attaque et vous infligez 3 points de dégâts supplémentaires. Lorsque vous tentez d'endommager un objet ou une barrière, vous êtes entraîné à la tâche. Action.
+Wreck/Défoncer : Avec vos deux mains, vous maniez une arme ou un outil avec un mouvement puissant. (Si vous combattez à mains nues, cette attaque est effectuée avec les deux poings ou les deux pieds joints.) Lorsque vous l'utilisez comme attaque, vous subissez un malus de -1 au jet d'attaque et vous infligez 3 points de dégâts supplémentaires. Lorsque vous tentez d'endommager un objet ou une barrière, vous êtes entraîné à la tâche. Action.
 ==
 Wrest From Chance/Extraire du hasard: Si vous obtenez un 1 naturel sur un d20, vous pouvez relancer le dé. Si vous relancez, vous évitez une intrusion du MJ (à moins que vous n'obteniez un deuxième 1) et vous pourriez réussir votre tâche. Une fois que vous utilisez cette capacité, elle n'est à nouveau disponible qu'après avoir effectué un jet de récupération de dix heures. Facilitateur.
 ==
