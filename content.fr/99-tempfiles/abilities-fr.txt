@@ -1513,7 +1513,7 @@ Nightstrike/Frappe nocturne: lorsque vous attaquez un ennemi dans une faible lum
 ==
 Nimble Swimmer/Nageur agile: vous êtes entraîné à toutes les actions de défense sous l'eau. Facilitateur.
 ==
-No Need for Weapons/Pas besoin d'armes: lorsque vous effectuez une attaque à mains nues (comme un coup de poing ou un coup de pied), cela compte comme une arme moyenne au lieu d'une arme légère. Facilitateur.
+No Need for Weapons/Arme superflue: lorsque vous effectuez une attaque à mains nues (comme un coup de poing ou un coup de pied), cela compte comme une arme moyenne au lieu d'une arme légère. Facilitateur.
 ==
 No One Knows Better/Personne ne sait mieux: Vous êtes entraîné à deux des compétences suivantes : persuasion, tromperie, intimidation, recherche, connaissances dans un domaine ou voir à travers la tromperie. Si vous choisissez une compétence dans laquelle vous êtes déjà entraîné, vous vous spécialisez dans cette compétence. Facilitateur.
 ==
@@ -1631,7 +1631,7 @@ Powered Armor/Armure motorisée: Vous disposez d'une armure motorisée. Il s'agi
 ==
 Powerful Rhetoric/Rhétorique puissante (1 point d'Intelligence) : Après avoir engagé une conversation avec une créature pendant au moins une minute, vous pouvez tenter d'influencer la façon dont cette créature est perçue, en la promouvant comme une amie, en la traitant d'imbécile ou en la dénonçant comme un ennemi. Vos propos sont si bien choisis que même vous et elle en êtes touchés, car votre conviction et son doute sont primordiaux. L'exactitude de votre évaluation n'est pas importante tant que vous maintenez votre rhétorique. À partir de ce moment-là (ou jusqu'à ce que vous changiez de rhétorique ou que la créature offre une défense convaincante à ceux qui ont entendu votre étiquette), les interactions sociales de l'ami acquièrent un atout, les interactions sociales de l'imbécile sont entravées ou les défenses de l'ennemi sont entravées. Action à lancer, une minute à terminer.
 ==
-Practiced in Armor/Pratique des armures: Vous pouvez porter une armure pendant de longues périodes sans vous fatiguer et compenser les réactions ralenties liées au port d'une armure. Vous réduisez le coût en Vitesse du port d'une armure de 1. Vous démarrez le jeu avec un type d'armure de votre choix. Facilitateur.
+Practiced in Armor/Entraîné au port des armures: Vous pouvez porter une armure pendant de longues périodes sans vous fatiguer et compenser les réactions ralenties liées au port d'une armure. Vous réduisez le coût en Vitesse du port d'une armure de 1. Vous démarrez le jeu avec un type d'armure de votre choix. Facilitateur.
 ==
 Practiced With All Weapons/Pratique de toutes les armes: Vous vous entraînez avec des armes légères, moyennes et lourdes et ne subissez aucune pénalité lorsque vous utilisez n'importe quel type d'arme. Facilitateur.
 ==

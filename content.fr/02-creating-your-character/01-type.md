@@ -58,7 +58,7 @@ Vous êtes un bon allié à avoir dans un combat. Vous savez comment utiliser de
 
 **Rôle en Groupe:** Les guerriers subissent et infligent généralement le plus de dégâts dans une situation dangereuse. Il leur incombe souvent de protéger les autres membres du groupe contre les menaces. Cela signifie parfois que les guerriers assument également des rôles de commandement, du moins au combat et dans d’autres moments de danger.
 
-**Rôle en Société:** Les Guerriers ne sont pas toujours des soldats ou des mercenaires. N'importe qui est est toujours prêt pour la violence, ou même la violence potentielle, peut être un Guerrier dans un sens général. Cela inclut les gardes, les gardiens, les officiers de police, les marins, ou les personnes dans d'autres rôle ou profession qui savent comment se défendre avec talent.
+**Rôle en Société:** Les Guerriers ne sont pas toujours des soldats ou des mercenaires. N'importe qui est est toujours prêt pour la violence, ou même la violence potentielle, peut être un Guerrier dans un sens génstat_details = models.ForeignKey("I18NCharField50", on_delete=models.SET_NULLnull=True)éral. Cela inclut les gardes, les gardiens, les officiers de police, les marins, ou les personnes dans d'autres rôle ou profession qui savent comment se défendre avec talent.
 
 **Guerier Expérimentés:** Alors que les Gueriers gagne en expérience, leur compétence dans les batailles, que ce soit en se défendant ou en infligeant des dommages, augment à un rang impressionant. A un rang supérieur, ils peuvent souvent se prendre un groupe d'aversaires tout seul ou affronter sur son terrain n'importe qui.
 
@@ -120,10 +120,9 @@ Les Guerriers de Premier Rang ont les capacités suivantes:
 
 **Naturel Physique:** Vous avez un Avantage de Puissance de 1 et un Avantage de Célérité de 0, ou vous avez un Avantage de Puissance de 0 et un Avantage de Célérité de 1. Dans tous les cas, vous avez un Avantage d'Intellect de 0.
 
-
 **Utilisation de Cypher:** Vous pouvez porter deux cyphers en même temps.
 
-**Armes:** Vous vous êtes exercé avec les armes légères, moyennes et lourdes et n'avez aucune pénalité quand vous utilisez une arme quelconque. 
+**Armes:** Vous avez la pratique des armes légères, moyennes et lourdes et n'avez aucune pénalité quand vous utilisez une arme quelconque. 
 
 **Equipment au départ:** Des vêtements appropriés et deux armes de votre choix, ainsi que un objet cher, deux objets modérement chers, et jusqu'à quatre objets peu chers.
 
@@ -672,8 +671,7 @@ Pour son arc de personnage, Sam choisit Enterprise. L'exploration de lieux extra
 
 Vous êtes doué avec les mots et bon avec les gens. Vous parlez pour vous sortir du pétrin ou surmonter des obstacles, et vous incitez les gens à faire ce que vous voulez.
 
-**Rôle Individuel:** 
-**Individual Role:** Les émissaires sont intelligents et charismatiques. Ils aiment les gens et, plus important encore, ils les comprennent. Cela aide les émissaires à amener les autres à faire ce qui doit être fait.
+**Rôle Individuel:**  Les émissaires sont intelligents et charismatiques. Ils aiment les gens et, plus important encore, ils les comprennent. Cela aide les émissaires à amener les autres à faire ce qui doit être fait.
 
 **Rôle de Groupe:** L'émissaire est souvent le visage du groupe, celui qui parle au nom de tous et négocie avec les autres. Le combat et l'action ne sont pas les points forts d'un Emissaire, c'est pourquoi d'autres personnages doivent parfois défendre l'Emissaire en cas de danger.
 
@@ -773,19 +771,19 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 
 {{< columns >}}
 
-* Basic Follower
-* Calm Stranger
-* Disincentivize
-* Gather Intellect
-<--->
-* Impart Ideal
-* Inspiring Ease
+* Calmer un Etranger
 * Compétences d'interaction
-* Pratique des armures
-<--->
 * Compétence en défense
-* Speedy Recovery
-* Unexpected Betrayal
+* Démotiver
+<--->
+* Facilité Inspirante
+* Pratique des armures
+* Recueillir des renseignements
+* Récupération Rapide d'un autre
+<--->
+* Suivant de base
+* Trahison inattendue
+* Transmettre un idéal
 {{< /columns >}}
 
 -----
@@ -796,19 +794,19 @@ Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajoute
 {{< columns >}}
 
 * Accélérer
-* Se fondre dans le décor
-* Esprit perspicace
-* Utilisation experte des cyphers
-<--->
-* Disciple expert
-* Grande Déception
-* Mené par l'enquête
-* Lecture mentale
-<--->
-* Talent Oratoire
-* Parfait Inconnu
-* Vif d'esprit
 * Dire les Choses
+* Disciple expert
+* Esprit perspicace
+<--->
+* Grande Déception
+* Lecture mentale
+* Mené par l'enquête
+* Parfait Inconnu
+<--->
+* Se fondre dans le décor
+* Talent Oratoire
+* Utilisation experte des cyphers
+* Vif d'esprit
 {{< /columns >}}
 
 -----
@@ -817,14 +815,14 @@ Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajoute
 
 Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
-* Anticipate Attack
-* Confounding Banter
+* Anticipation de l'attaque
+* Compétences accrues
+* Elaborer une stratégie
 * Feinte
-* Heightened Skills
-* Psychosis
-* Read the Signs
-* Spur Effort
-* Strategize
+* Lire les signes
+* Moqueries confondantes
+* Psychose
+* Stimuler l'effort
 * Suggestion
 
 -----
@@ -849,14 +847,14 @@ Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajoute
 
 Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
-* Assume Control
-* Battle Management
-* Crowd Control
-* Inspiring Success
-* Recruit Deputy
-* Shatter Mind
+* Assumer le contrôle
+* Brise Esprit
+* Contrôle des foules
+* Gestion de bataille
+* Mot de commandement
+* Recruter un adjoint
+* Succès inspirant
 * Véritables sens
-* Word of Command
 
 ### Exemple d'Emissaire
 
@@ -872,7 +870,7 @@ Le personnage de Mary porte un petit couteau caché dans son sac en cas de probl
 
 Mary choisit Résilient comme descripteur et décide qu'elle peut probablement apprendre la vérité derrière certaines des choses étranges dont elle a entendu parler sans ressentir trop de traumatisme si c'est horrible. Résiliente augmente sa Réserve de Puissance à 10 et sa Réserve d'Intellect à 16. Elle est entraînée aux actions de défense de Puissance et d'Intellect et gagne un jet de récupération supplémentaire chaque jour. Au début, Mary est triste que son descripteur lui donne une incapacité dans les tâches de connaissances et d'énigmes, mais elle se rend ensuite compte que le défaut correspond bien à son personnage --- elle est meilleure pour amener les gens à lui dire ce qu'elle a besoin de savoir qu'à comprendre l'information elle-même.
 
-Pour sa concentration, Mary choisit [Bouge comme un Chat](04-focus.md#bouge-comme-un-chat), lui accordant une Réserve de Célérité finale de 18 et un entraînement à l'équilibre. En fin de compte, elle est gracieuse et rapide, charismatique et plus robuste qu'elle ne le pensait au départ grâce à son dynamisme. Elle est prête à enquêter sur ce qui est bizarre.
+Pour son focus, Mary choisit [Bouge comme un Chat](04-focus.md#bouge-comme-un-chat), lui accordant une Réserve de Célérité finale de 18 et un entraînement à l'équilibre. En fin de compte, elle est gracieuse et rapide, charismatique et plus robuste qu'elle ne le pensait au départ grâce à son dynamisme. Elle est prête à enquêter sur ce qui est bizarre.
 
 Pour son arc de personnage, Mary choisit Fall From Grace. Elle décide qu'elle est obsédée par un livre étrange qui appartient à sa famille depuis des générations, et son personnage est attiré par ses langages et ses rituels étranges.
 

@@ -32,7 +32,7 @@ Enfin, vous pouvez choisir si vous souhaitez développer l'histoire derrière le
 
 ## Connexions de Focus
 
-Choisissez une connexion qui va bien avec le Focus. Si vous êtes un MJ en train de choisir (ou de créer) une ou plusieurs Motivation pour vos joueurs, choisissez jusqu'à quatre des connexions suivantes.
+Choisissez une connexion qui va bien avec le Focus. Si vous êtes un MJ en train de choisir (ou de créer) un ou plusieurs Focus pour vos joueurs, choisissez jusqu'à quatre des connexions suivantes.
 
 1. Choisissez un autre PJ. Pour des raisons que vous ne connaissez pas, ce personnage est totalement immunisé contre vos capacités de Focus, que vous les utilisiez pour vous aider ou pour vous nuire.
 2. Choisissez un autre PJ. Vous connaissiez ce personnage il y a des années, mais vous ne pensez pas qu'il vous connaissait.
@@ -122,7 +122,7 @@ Descendant de la richesse et du pouvoir, vous portez un titre noble et les capac
 * Rang 5: Affirmer votre privilège
 * Rang 6: Assistance compétente ou Esprit de leader
 
-**Intrusions de la MJ:** Les dettes contractées par une famille sont dues par le personnage. Un frère perdu depuis longtemps cherche à déshériter ses rivaux. Un assassin retrouve le personnage.
+**Intrusions de la Meneuse:** Les dettes contractées par une famille sont dues par le personnage. Un frère perdu depuis longtemps cherche à déshériter ses rivaux. Un assassin retrouve le personnage.
 
 -----
 
@@ -142,7 +142,7 @@ Bien que Is Licensed to Carry soit conçu pour les armes à feu modernes, il pou
 * Rang 5: Tirs en éventail
 * Rang 6: Tir Spécial ou Dégâts mortels
 
-**Intrusions de la MJ:** Ratés ou confiture ! L'attaque échoue et l'action est perdue, et une action supplémentaire est nécessaire pour résoudre le problème.
+**Intrusions de la Meneuse:** Ratés ou confiture ! L'attaque échoue et l'action est perdue, et une action supplémentaire est nécessaire pour résoudre le problème.
 -----
 
 ### A été Choisi(e)
@@ -157,7 +157,7 @@ Vous êtes « l’élu » et la prophétie, la prédiction, le pronostic ou tout
 * Rang 5: Montrez-leur le chemin
 * Rang 6: Comme le prédit la prophétie ou Potentiel amélioré supérieur
 
-**Intrusions de la MJ:**Un ennemi décrit dans la prophétie apparaît. Les incroyants menacent de gâcher ce moment. Le personnage acquiert une réputation de fraudeur dans les cercles extérieurs.
+**Intrusions de la Meneuse:**Un ennemi décrit dans la prophétie apparaît. Les incroyants menacent de gâcher ce moment. Le personnage acquiert une réputation de fraudeur dans les cercles extérieurs.
 
 -----
 
@@ -175,7 +175,7 @@ Les leçons, les réflexes et les stratégies que vous avez appris en jouant à 
 * Rang 5: Endurance du joueur
 * Rang 6: Sursaut mental ou Dieu du jeu
 
-**Intrusions de la MJ:** Les attaques manquées touchent la mauvaise cible. Le matériel tombe en panne. Parfois, les gens réagissent négativement à quelqu’un qui a vécu la majeure partie de sa vie dans des mondes de jeu imaginaires.
+**Intrusions de la Meneuse:** Les attaques manquées touchent la mauvaise cible. Le matériel tombe en panne. Parfois, les gens réagissent négativement à quelqu’un qui a vécu la majeure partie de sa vie dans des mondes de jeu imaginaires.
 
 -----
 
@@ -193,7 +193,7 @@ Vous avez navigué avec un équipage de redoutables pirates, mais vous avez déc
 * Rang 5: Perdu dans le chaos
 * Rang 6: Duel à mort ou Attaque successive
 
-**Intrusions de la MJ:** Les dangers de la haute mer sont nombreux, notamment les tempêtes violentes et les maladies. D'autres pirates s'en sortent parfois grâce à la trahison. Un pirate retrouve d'anciens compagnons de navigation pour trouver un trésor caché.
+**Intrusions de la Meneuse:** Les dangers de la haute mer sont nombreux, notamment les tempêtes violentes et les maladies. D'autres pirates s'en sortent parfois grâce à la trahison. Un pirate retrouve d'anciens compagnons de navigation pour trouver un trésor caché.
 
 -----
 
@@ -211,7 +211,7 @@ Vous pouvez changer votre apparence pour ressembler à n’importe qui d’autre
 * Rang 5: La mémoire devient une action
 * Rang 6: Divisez votre esprit ou Déduire des pensées
 
-**Intrusions de la MJ:** Une partie du déguisement glisse. Un PNJ pense que le personnage déguisé est quelqu'un qu'il connaît très bien.
+**Intrusions de la Meneuse:** Une partie du déguisement glisse. Un PNJ pense que le personnage déguisé est quelqu'un qu'il connaît très bien.
 
 -----
 
@@ -227,7 +227,7 @@ Vous pouvez exploiter l’énergie cinétique et la transformer en d’autres ty
 * Rang 5: Energiser la créature
 * Rang 6: Energiser la foule ou Surcharge d'Appareil
 
-**Intrusions de la MJ:** L'énergie va au sol de manière destructrice. Certains prédateurs se nourrissent directement d’énergie. Un élément involontaire est vidé de son énergie.
+**Intrusions de la Meneuse:** L'énergie va au sol de manière destructrice. Certains prédateurs se nourrissent directement d’énergie. Un élément involontaire est vidé de son énergie.
 
 -----
 
@@ -243,7 +243,7 @@ Prodige en musculature, vous pouvez transporter un poids incroyable, projeter vo
 * Rang 5: Coup brutal
 * Rang 6: Puissance améliorée supérieure ou Attaque sautée
 
-**Intrusions de la MJ:** Il est facile de briser des objets délicats en blessant quelqu'un accidentellement.
+**Intrusions de la Meneuse:** Il est facile de briser des objets délicats en blessant quelqu'un accidentellement.
 
 -----
 
@@ -262,7 +262,7 @@ Vous aimez vos amis et les aidez à sortir de toute difficulté, quoi qu'il arri
 * Rang 5: Inspirer l'action
 * Rang 6: Considération approfondie ou Compétence en défense
 
-**Intrusions de la MJ:** D’autres ont parfois des arrière-pensées. La loi s’y intéresse indûment. Même lorsque tout se passe bien, les répercussions s’ensuivent.
+**Intrusions de la Meneuse:** D’autres ont parfois des arrière-pensées. La loi s’y intéresse indûment. Même lorsque tout se passe bien, les répercussions s’ensuivent.
 
 -----
 
@@ -282,7 +282,7 @@ Lorsqu'il n'y a que vous, votre combinaison spatiale et le panorama d'étoiles q
 * Rang 5: Evitement par microgravité
 * Rang 6: Tir en apesanteur ou Champ réactif
 
-**Intrusions de la MJ:** Les combinaisons spatiales développent des problèmes. Les cartouches de recharge d’air indiquent parfois mal leur capacité. Les micrométéorites sont courantes dans l'espace.
+**Intrusions de la Meneuse:** Les combinaisons spatiales développent des problèmes. Les cartouches de recharge d’air indiquent parfois mal leur capacité. Les micrométéorites sont courantes dans l'espace.
 
 -----
 
@@ -300,7 +300,7 @@ Vous faites face aux mauvaises situations au fur et à mesure qu’elles survien
 * Rang 5: Appris des trucs
 * Rang 6: Deux choses à la fois ou Compétence en Défense Supérieure
 
-**Intrusions de la MJ:** Les accidents et les erreurs sont de grands professeurs.
+**Intrusions de la Meneuse:** Les accidents et les erreurs sont de grands professeurs.
 
 -----
 
@@ -317,7 +317,7 @@ Vous êtes un assassin, que ce soit par métier, par inclination, ou parce que v
 * Rang 5: Augmente les dommages
 * Rang 6: Plan d'évasion ou Meurtrier
 
-**Intrusions de la MJ:** La plupart des gens ne réagissent pas bien face à un tueur professionnel.
+**Intrusions de la Meneuse:** La plupart des gens ne réagissent pas bien face à un tueur professionnel.
 
 -----
 
@@ -335,7 +335,7 @@ Souple, flexible et gracieux, vous vous déplacez rapidement et en douceur, et n
 * Rang 5: Glissant
 * Rang 6: Sursaut de Célérité Parfait ou Célérité améliorée supérieure
 
-**Intrusions de la MJ:** Même un chat peut être maladroit. Un saut n’est pas aussi facile qu’il y paraît. Un mouvement d'évasion est tellement excessif qu'il met le personnage en danger.
+**Intrusions de la Meneuse:** Même un chat peut être maladroit. Un saut n’est pas aussi facile qu’il y paraît. Un mouvement d'évasion est tellement excessif qu'il met le personnage en danger.
 
 -----
 
@@ -351,7 +351,7 @@ Vous déployez un incroyable bouclier de force pure qui offre une protection et 
 * Rang 5: Mur de Force
 * Rang 6: Bouclier rebondissant ou Bouclier Explosif
 
-**Intrusions de la MJ:** Le bouclier est temporairement perdu. Un ennemi se retrouve temporairement avec le bouclier.
+**Intrusions de la Meneuse:** Le bouclier est temporairement perdu. Un ennemi se retrouve temporairement avec le bouclier.
 
 -----
 
@@ -368,7 +368,7 @@ Des capacités mathématiques impressionnantes vous permettent de modéliser le 
 * Rang 5: Mathématiques Complémentaires
 * Rang 6: Connaître l'inconnu ou Intellect Améliorée Supérieure
 
-**Intrusions de la MJ:** Trop de résultats prédits menacent de submerger et d’étourdir le personnage. Un résultat indique un désastre imminent.
+**Intrusions de la Meneuse:** Trop de résultats prédits menacent de submerger et d’étourdir le personnage. Un résultat indique un désastre imminent.
 
 -----
 
@@ -383,7 +383,7 @@ Fervent disciple d’un être divin, vous canalisez une partie du pouvoir de vot
 * Rang 5: Intervention divine
 * Rang 6: Symbole divin ou Invoquer un démon
 
-**Intrusions de la MJ:** Un démon enquête sur l'utilisation de la magie divine. Une secte rivale est opposée aux enseignements du personnage.
+**Intrusions de la Meneuse:** Un démon enquête sur l'utilisation de la magie divine. Une secte rivale est opposée aux enseignements du personnage.
 
 -----
 
@@ -400,7 +400,7 @@ Vous êtes un chasseur traquant qui excelle à abattre la proie que vous avez ch
 * Rang 5: Volonté du Chasseur
 * Rang 6: Compétence en Attaque Supérieure ou Multiples Proies
 
-**Intrusions de la MJ:** La Proie remarque le personnage. La carrière n'est pas aussi vulnérable qu'il y paraît.
+**Intrusions de la Meneuse:** La Proie remarque le personnage. La carrière n'est pas aussi vulnérable qu'il y paraît.
 
 -----
 
@@ -417,7 +417,7 @@ Vous êtes un bagarreur et aimez les bons combats.
 * Rang 5: Maîtrise des attaques
 * Rang 6: Puissance améliorée supérieure ou Dégâts mortels
 
-**Intrusions de la MJ:** Les armes se brisent ou s'envolent même sous la poigne la plus forte. Les bagarreurs trébuchent et tombent. Même le champ de bataille peut jouer contre vous avec des objets qui tombent ou s'effondrent.
+**Intrusions de la Meneuse:** Les armes se brisent ou s'envolent même sous la poigne la plus forte. Les bagarreurs trébuchent et tombent. Même le champ de bataille peut jouer contre vous avec des objets qui tombent ou s'effondrent.
 
 -----
 
@@ -433,7 +433,7 @@ Vous êtes un casse-cou audacieux qui se bat avec un style flamboyant et amusant
 * Rang 5: Utilisation de l'environnement
 * Rang 6: Esprit Agile ou Retour à l'expéditeur
 
-**Intrusions de la MJ:** La démonstration semble ridicule, maladroite ou peu spectaculaire.
+**Intrusions de la Meneuse:** La démonstration semble ridicule, maladroite ou peu spectaculaire.
 
 -----
 
@@ -450,7 +450,7 @@ Vous excellez dans la lutte contre les robots, les automates et les entités mac
 * Rang 5: Drain de puissance
 * Rang 6: Désactiver les mécanismes ou Dégâts mortels
 
-**Intrusions de la MJ:** Le robot explose lors de sa défaite. D'autres robots s'en prennent au personnage pour se venger.
+**Intrusions de la Meneuse:** Le robot explose lors de sa défaite. D'autres robots s'en prennent au personnage pour se venger.
 
 -----
 
@@ -465,7 +465,7 @@ Vous avez perfectionné le pouvoir de votre esprit pour accomplir des actes psyc
 * Rang 5: Précognition
 * Rang 6: Contrôle mental ou Réseau télépathique 
 
-**Intrusions de la MJ:** Quelque chose aperçu dans l’esprit de la cible est horrible. Une boucle de rétroaction permet à la cible de lire dans les pensées du personnage.
+**Intrusions de la Meneuse:** Quelque chose aperçu dans l’esprit de la cible est horrible. Une boucle de rétroaction permet à la cible de lire dans les pensées du personnage.
 
 -----
 
@@ -480,7 +480,7 @@ Vous pouvez déplacer des objets par télékinésie avec votre esprit sans les t
 * Rang 5: Attaque psychokinétique
 * Rang 6: Ramener amélioré ou Remodeler
 
-**Intrusions de la MJ:** Une pensée qui dérape et les objets en mouvement tombent ou les objets fragiles se brisent. Parfois, le mauvais objet bouge, tombe ou se casse.
+**Intrusions de la Meneuse:** Une pensée qui dérape et les objets en mouvement tombent ou les objets fragiles se brisent. Parfois, le mauvais objet bouge, tombe ou se casse.
 
 -----
 
@@ -500,7 +500,7 @@ Qu'il s'agisse d'être en équilibre sur deux roues, de sauter un autre véhicul
 * Rang 5: Quelque chose sur la route
 * Rang 6: As du Volant ou Dégâts mortels
 
-**Intrusions de la MJ:** Le moteur a des à-coup. Le pont sur la route est levé. Le pare-brise se brise. Quelqu’un court inopinément devant le véhicule.
+**Intrusions de la Meneuse:** Le moteur a des à-coup. Le pont sur la route est levé. Le pare-brise se brise. Quelqu’un court inopinément devant le véhicule.
 
 -----
 
@@ -509,7 +509,7 @@ Qu'il s'agisse d'être en équilibre sur deux roues, de sauter un autre véhicul
 Vos créations robotiques font ce qu'on leur commande.
 
 {{< hint info >}}
-Le mot « robot » est utilisé dans cette Motivation, bien que le robot que vous créez puisse être très différent de celui créé par quelqu'un d'autre, selon le genre. Les robots Steampunk, les robots organiques ou même les golems magiques sont tous des « robots » réalisables.
+Le mot « robot » est utilisé dans ce Focus, bien que le robot que vous créez puisse être très différent de celui créé par quelqu'un d'autre, selon le genre. Les robots Steampunk, les robots organiques ou même les golems magiques sont tous des « robots » réalisables.
 {{< /hint >}}
 
 * Rang 1: Assistant Robot
@@ -520,7 +520,7 @@ Le mot « robot » est utilisé dans cette Motivation, bien que le robot que vou
 * Rang 5: Flotte de robots
 * Rang 6: Robot Evolution ou Mise à niveau du robot
 
-**Intrusions de la MJ:** Le robot est piraté, acquiert son propre esprit ou explose de manière inattendue.
+**Intrusions de la Meneuse:** Le robot est piraté, acquiert son propre esprit ou explose de manière inattendue.
 
 -----
 
@@ -536,7 +536,7 @@ Vous pouvez exploiter les failles des systèmes artificiels, y compris, mais san
 * Rang 5: Entretenir l'amitié
 * Rang 6: Demande d'une faveur ou Potentiel amélioré supérieur
 
-**Intrusions de la MJ:** Les contacts ont parfois des arrière-pensées. Les appareils ont parfois des sécurités ou même des pièges.
+**Intrusions de la Meneuse:** Les contacts ont parfois des arrière-pensées. Les appareils ont parfois des sécurités ou même des pièges.
 
 -----
 
@@ -553,7 +553,7 @@ Vous pouvez influencer l’attraction de la gravité elle-même.
 * Rang 5: Vol
 * Rang 6: Gravité Coupante Améliorée ou Poids du monde
 
-**Intrusions de la MJ:** Les spectateurs réagissent avec une peur irraisonnée. Une interaction étrange envoie un allié ou un objet s'envoler dans le ciel.
+**Intrusions de la Meneuse:** Les spectateurs réagissent avec une peur irraisonnée. Une interaction étrange envoie un allié ou un objet s'envoler dans le ciel.
 
 -----
 
@@ -568,7 +568,7 @@ Vous maîtrisez le métal et le pouvoir du magnétisme.
 * Rang 5: Commander le Métal
 * Rang 6: Diamagnétisme ou Lancer Objet en Fer
 
-**Intrusions de la MJ:** Le métal se tord, se plie ou produit des éclats d'obus. Un manque de concentration peut faire glisser ou tomber quelque chose au mauvais moment.
+**Intrusions de la Meneuse:** Le métal se tord, se plie ou produit des éclats d'obus. Un manque de concentration peut faire glisser ou tomber quelque chose au mauvais moment.
 
 -----
 
@@ -585,7 +585,7 @@ Votre capacité à communiquer et à diriger des bêtes est surnaturelle.
 * Rang 5: Appel de Bête
 * Rang 6: Comme s'il n'y a qu'une seule créature ou Contrôler le sauvage
 
-**Intrusions de la MJ:** La communauté est réticente à accueillir des animaux dangereux. Les bêtes incontrôlables deviennent un véritable danger.
+**Intrusions de la Meneuse:** La communauté est réticente à accueillir des animaux dangereux. Les bêtes incontrôlables deviennent un véritable danger.
 
 -----
 
@@ -601,7 +601,7 @@ Vous pliez la lumière et manipulez des faisceaux de force pour l’attaque et l
 * Rang 5: Champ défensif
 * Rang 6: Concussion ou Générer un champ de force
 
-**Intrusions de la MJ:** L’invisibilité s’estompe partiellement, révélant la présence du personnage. Un champ de force est transpercé par une attaque inhabituelle ou inattendue.
+**Intrusions de la Meneuse:** L’invisibilité s’estompe partiellement, révélant la présence du personnage. Un champ de force est transpercé par une attaque inhabituelle ou inattendue.
 -----
 
 ### Construit et Répare
@@ -616,7 +616,7 @@ Vous tirez une grande satisfaction d'un travail bien fait, qu'il s'agisse de cod
 * Rang 5: Compétence d'expert
 * Rang 6: Potentiel amélioré supérieur ou  Résilience durement gagnée
 
-**Intrusions de la MJ:** Les réparations échouent parfois. Le câblage peut être difficile à déchiffrer tout en portant une charge électrique. Certaines personnes sont impolis envers ceux qui travaillent pour gagner leur vie.
+**Intrusions de la Meneuse:** Les réparations échouent parfois. Le câblage peut être difficile à déchiffrer tout en portant une charge électrique. Certaines personnes sont impolis envers ceux qui travaillent pour gagner leur vie.
 
 -----
 
@@ -648,7 +648,7 @@ La vitesse et le phasage vous donnent une capacité unique à échapper au dange
 * Rang 5: Très long sprint
 * Rang 6: Déchirer L'Existence ou Intouchable en mouvement
 
-**Intrusions de la MJ:** Se déplacer si rapidement en sprintant conduit parfois à trébucher sur des obstacles inattendus et exotiques.
+**Intrusions de la Meneuse:** Se déplacer si rapidement en sprintant conduit parfois à trébucher sur des obstacles inattendus et exotiques.
 
 -----
 
@@ -665,7 +665,7 @@ Vous défendez les impuissants, les faibles et ceux qui ne sont pas protégés.
 * Rang 5: Sacrifice volontaire
 * Rang 6: Réanimer ou Véritable défenseur
 
-**Intrusions de la MJ:** Un personnage soucieux de protéger les autres peut périodiquement se rendre vulnérable aux attaques.
+**Intrusions de la Meneuse:** Un personnage soucieux de protéger les autres peut périodiquement se rendre vulnérable aux attaques.
 
 -----
 
@@ -683,7 +683,7 @@ Votre chair est constituée de minéraux durs, ce qui fait de vous un humanoïde
 * Rang 5: Toujours comme une statue
 * Rang 6: Ultra amélioration ou Sursaut mental
 
-**Intrusions de la MJ:** Les créatures de pierre oublient parfois leur propre force ou leur propre poids. Une statue ambulante peut terrifier les gens ordinaires.
+**Intrusions de la Meneuse:** Les créatures de pierre oublient parfois leur propre force ou leur propre poids. Une statue ambulante peut terrifier les gens ordinaires.
 
 -----
 
@@ -700,7 +700,7 @@ Votre capacité naturelle de leadership vous permet de commander aux autres, y c
 * Rang 5: Potentiel amélioré supérieur
 * Rang 6: Bande de suivants ou Esprit de leader
 
-**Intrusions de la MJ:** Les adeptes échouent, trahissent, mentent, se corrompent, se font kidnapper ou meurent.
+**Intrusions de la Meneuse:** Les adeptes échouent, trahissent, mentent, se corrompent, se font kidnapper ou meurent.
 
 -----
 
@@ -716,7 +716,7 @@ Une créature magique alliée liée à un objet (comme un djinn mineur dans une 
 * Rang 5: Souhait modéré
 * Rang 6: Maîtrise des liens d'objet ou Faites confiance à la chance
 
-**Intrusions de la MJ:** La créature disparaît de manière inattendue dans son objet lié. L'objet lié se fissure. La créature n'est pas d'accord et ne fait pas ce qui lui est demandé. La créature dit qu'elle s'en va à moins qu'une tâche ne soit accomplie pour elle.
+**Intrusions de la Meneuse:** La créature disparaît de manière inattendue dans son objet lié. L'objet lié se fissure. La créature n'est pas d'accord et ne fait pas ce qui lui est demandé. La créature dit qu'elle s'en va à moins qu'une tâche ne soit accomplie pour elle.
 
 -----
 
@@ -731,7 +731,7 @@ Vous vous donnez en spectacle principalement pour divertir les autres.
 * Rang 5: Assistance compétente
 * Rang 6: Maître du spectacle ou Performance vindicative
 
-**Intrusions de la MJ:** Le public est agacé ou offensé. Les instruments de musique se cassent. Les peintures sèchent dans leurs pots. Les paroles d'un poème ou d'une chanson sont oubliées.
+**Intrusions de la Meneuse:** Le public est agacé ou offensé. Les instruments de musique se cassent. Les peintures sèchent dans leurs pots. Les paroles d'un poème ou d'une chanson sont oubliées.
 
 -----
 
@@ -748,7 +748,7 @@ Vous êtes une célébrité et la plupart des gens vous adorent.
 * Rang 5: Est-ce que tu sais qui je suis?
 * Rang 6: Transcendez le scénario ou Compagnon amélioré
 
-**Intrusions de la MJ:** Les fans sont mis en danger ou blessés à votre place. Quelqu'un dans votre entourage vous trahit. Votre spectacle, tournée, contrat, ou autre événement est annulé. Les médias publient des photos de vous dans une situation embarrassante.
+**Intrusions de la Meneuse:** Les fans sont mis en danger ou blessés à votre place. Quelqu'un dans votre entourage vous trahit. Votre spectacle, tournée, contrat, ou autre événement est annulé. Les médias publient des photos de vous dans une situation embarrassante.
 
 -----
 
@@ -764,7 +764,7 @@ Des affiches "WANTED, DEAD or ALIVE" (ou leur équivalent) sont apparues avec vo
 * Rang 5: Bande de Desperados
 * Rang 6: Pas encore mort ou Dégâts mortels
 
-**Intrusions de la MJ:** La plupart des gens n’aiment pas découvrir parmi eux un hors-la-loi recherché.
+**Intrusions de la Meneuse:** La plupart des gens n’aiment pas découvrir parmi eux un hors-la-loi recherché.
 
 -----
 
@@ -779,7 +779,7 @@ Votre corps, dur comme du cristal, vous confère une suite de capacités uniques
 * Rang 5: Fréquence de résonance
 * Rang 6: Tremblement de résonance ou Retour à l'Obélisque
 
-**Intrusions de la MJ:** Les cyphers et les artefacts réagissent de manière inattendue entre les mains du personnage.
+**Intrusions de la Meneuse:** Les cyphers et les artefacts réagissent de manière inattendue entre les mains du personnage.
 
 -----
 
@@ -795,7 +795,7 @@ Lorsque vous ne courez pas et ne vous cachez pas, vous fouillez les ruines de la
 * Rang 5: Cyphers recyclés
 * Rang 6: Pilleur d'artifact ou Champ réactif
 
-**Intrusions de la MJ:** Un objet fabriqué à partir de déchets recyclés se casse. Quelqu'un se présente en prétendant que l'objet ou le morceau de ferraille récupéré lui appartient. Un cypher recyclé explose.
+**Intrusions de la Meneuse:** Un objet fabriqué à partir de déchets recyclés se casse. Quelqu'un se présente en prétendant que l'objet ou le morceau de ferraille récupéré lui appartient. Un cypher recyclé explose.
 
 -----
 
@@ -810,7 +810,7 @@ Vous existez en deux endroits en même Ttemps.
 * Rang 5: Effort coordonné
 * Rang 6: Multiplicité ou Duplicata résilient
 
-**Intrusions de la MJ:** Percevoir le monde à partir de deux endroits différents désoriente le personnage, provoquant des vertiges momentanés, des nausées ou une confusion.
+**Intrusions de la Meneuse:** Percevoir le monde à partir de deux endroits différents désoriente le personnage, provoquant des vertiges momentanés, des nausées ou une confusion.
 
 -----
 
@@ -825,7 +825,7 @@ Un peu translucide, vous êtes légèrement déphasé et pouvez vous déplacer �
 * Rang 5: Intouchable
 * Rang 6: Attaque de Phase Améliorée ou Mettre un Ennemi en Phase
 
-**Intrusions de la MJ:** Le personnage est envoyé dans une dimension inattendue. Le personnage se perd dans un grand objet solide.
+**Intrusions de la Meneuse:** Le personnage est envoyé dans une dimension inattendue. Le personnage se perd dans un grand objet solide.
 
 -----
 
@@ -841,7 +841,7 @@ Vous êtes l'archétype du chasseur de trésors, du charognard et du chercheur d
 * Rang 5: Explorateur des ténèbres
 * Rang 6: Attaque aveuglante ou Fussionne avec les Ténèbres
 
-**Intrusions de la MJ:** Les biens tombent des poches ou des sacs dans le noir ; les cartes se perdent ; les informations obtenues n’incluent pas un détail important.
+**Intrusions de la Meneuse:** Les biens tombent des poches ou des sacs dans le noir ; les cartes se perdent ; les informations obtenues n’incluent pas un détail important.
 
 -----
 
@@ -856,7 +856,7 @@ Vous façonnez des images à partir de la lumière qui sont si parfaites qu’el
 * Rang 5: Image terrifiante
 * Rang 6: Illusion grandiose ou Illusion permanente
 
-**Intrusions de la MJ:** L'illusion n'est pas crédible. L’illusion est percée au mauvais moment.
+**Intrusions de la Meneuse:** L'illusion n'est pas crédible. L’illusion est percée au mauvais moment.
 
 -----
 
@@ -873,7 +873,7 @@ Vous êtes un inventeur d'objets étranges et utiles.
 * Rang 5: Innovateur
 * Rang 6: Inventeur ou Armure Corporelle
 
-**Intrusions de la MJ:** L'objet fonctionne mal, se casse, ou subit une panne catastrophique ou inattendue.
+**Intrusions de la Meneuse:** L'objet fonctionne mal, se casse, ou subit une panne catastrophique ou inattendue.
 
 {{< hint info >}}
 Maîtrise des Cyphers fonctionne uniquement dans un contexte où les chiffres sont des objets physiques. Si ce n'est pas le cas, cette capacité devrait probablement être remplacée par quelque chose qui s'apparente à Percée scientifique étrange de le Focus Poursuit des Sciences Etranges.
@@ -893,7 +893,7 @@ Vous créez et déchargez de l’énergie électrique.
 * Rang 5: Vol électrique
 * Rang 6: Aussi Rapide que l'Eclair ou Mur de foudre
 
-**Intrusions de la MJ:** Les cibles autres que celles prévues sont choquées. Les objets explosent.
+**Intrusions de la Meneuse:** Les cibles autres que celles prévues sont choquées. Les objets explosent.
 
 -----
 
@@ -908,7 +908,7 @@ Vous pouvez guérir les autres d’un simple toucher, modifier le temps pour aid
 * Rang 5: Annuler
 * Rang 6: Main Guérisseuse Supérieure ou Restaurer la vie
 
-**Intrusions de la MJ:** Les tentatives de guérison pourraient plutôt causer du tort. Une communauté ou un individu a si désespérément besoin d'un guérisseur qu'il en a un contre son gré.
+**Intrusions de la Meneuse:** Les tentatives de guérison pourraient plutôt causer du tort. Une communauté ou un individu a si désespérément besoin d'un guérisseur qu'il en a un contre son gré.
 
 -----
 
@@ -924,7 +924,7 @@ Vous émettez un son destructeur et manipulez les paysages sonores.
 * Rang 5: Amplifier les sons
 * Rang 6: Tremblement de terre ou Vibration mortelle
 
-**Intrusions de la MJ:** Les bruits forts attirent l’attention.
+**Intrusions de la Meneuse:** Les bruits forts attirent l’attention.
 
 -----
 
@@ -941,7 +941,7 @@ Les aides électroniques implantées dans votre cerveau font de vous une surpuis
 * Rang 5: Voir l'avenir
 * Rang 6: Amélioration de la machine ou Sursaut mental
 
-**Intrusions de la MJ:** Les machines fonctionnent mal et s'arrêtent. De puissantes intelligences artificielles peuvent prendre le contrôle de machines moins pensantes. Certaines personnes ne font pas confiance à une personne qui n’est pas entièrement biologique.
+**Intrusions de la Meneuse:** Les machines fonctionnent mal et s'arrêtent. De puissantes intelligences artificielles peuvent prendre le contrôle de machines moins pensantes. Certaines personnes ne font pas confiance à une personne qui n’est pas entièrement biologique.
 
 -----
 
@@ -956,7 +956,7 @@ Votre corps est en partie une machine.
 * Rang 5: Réserves Partagées
 * Rang 6: Sursaut mental ou Ultra amélioration
 
-**Intrusions de la MJ:** Dans la plupart des sociétés, les gens ont peur de quelqu'un qui possède des pièces mécaniques.
+**Intrusions de la Meneuse:** Dans la plupart des sociétés, les gens ont peur de quelqu'un qui possède des pièces mécaniques.
 
 -----
 
@@ -972,7 +972,7 @@ Tout le monde veut que vous soyez à ses côtés lorsqu’il s’agit d’un com
 * Rang 5: Champ de renforcement
 * Rang 6: Générer un champ de force ou Attaque Etourdissante
 
-**Intrusions de la MJ:** Une structure d'importance stratégique s’effondre. L'ennemi attaque depuis une direction inattendue.
+**Intrusions de la Meneuse:** Une structure d'importance stratégique s’effondre. L'ennemi attaque depuis une direction inattendue.
 
 -----
 
@@ -989,7 +989,7 @@ Pendant de brèves périodes, vous pouvez grandir et, avec suffisamment d'expér
 * Rang 5: Gargantuesque
 * Rang 6: Colossal ou Dégâts mortels
 
-**Intrusions de la MJ:** Une croissance rapide renverse les meubles, brise les plafonds ou les luminaires suspendus. Un personnage agrandi perce le sol.
+**Intrusions de la Meneuse:** Une croissance rapide renverse les meubles, brise les plafonds ou les luminaires suspendus. Un personnage agrandi perce le sol.
 
 -----
 
@@ -1005,7 +1005,7 @@ Vous gardez le lieu où vous vivez à l'abri de tout danger.
 * Rang 5: Evasion
 * Rang 6: Compétence en Attaque Supérieure ou Mur de protection
 
-**Intrusions de la MJ:** Les membres de la communauté comprennent mal les motivations du personnage. Les rivaux tentent d'évincer le personnage.
+**Intrusions de la Meneuse:** Les membres de la communauté comprennent mal les motivations du personnage. Les rivaux tentent d'évincer le personnage.
 
 -----
 
@@ -1022,7 +1022,7 @@ Les âmes errantes, les esprits de la nature et les êtres élémentaires vous a
 * Rang 5: Appeler l'esprit d'un mort
 * Rang 6: Appeler un esprit d'un autre monde ou Absorber l'Esprit
 
-**Intrusions de la MJ:** Certaines personnes ne font pas confiance à ceux qui s'occupent des esprits. Parfois, les morts ne veulent pas de berger.
+**Intrusions de la Meneuse:** Certaines personnes ne font pas confiance à ceux qui s'occupent des esprits. Parfois, les morts ne veulent pas de berger.
 
 -----
 
@@ -1037,7 +1037,7 @@ Pendant de brèves périodes, vous devenez une créature redoutable et puissante
 * Rang 5: Forme de bête améliorée
 * Rang 6: Dégâts mortels ou Contrôle parfait
 
-**Intrusions de la MJ:** Le changement se produit de manière incontrôlée. Les gens ont peur des monstres.
+**Intrusions de la Meneuse:** Le changement se produit de manière incontrôlée. Les gens ont peur des monstres.
 
 -----
 
@@ -1052,7 +1052,7 @@ Vous pouvez vous téléporter d'un endroit à un autre en traversant brièvement
 * Rang 5: Téléportation moyenne
 * Rang 6: Téléportation ou Blessure de téléportation
 
-**Intrusions de la MJ:** Une téléportation tourne mal et le personnage se retrouve dans un endroit dangereux. L'inertie (comme une chute) continue pendant la téléportation, blessant le personnage.
+**Intrusions de la Meneuse:** Une téléportation tourne mal et le personnage se retrouve dans un endroit dangereux. L'inertie (comme une chute) continue pendant la téléportation, blessant le personnage.
 
 -----
 
@@ -1068,7 +1068,7 @@ Vous pouvez créer de la lumière, la sculpter, la détourner de vous ou la rass
 * Rang 5: Disparaître
 * Rang 6: Lumière vivante ou Champ défensif
 
-**Intrusions de la MJ:** Les alliés sont accidentellement éblouis ou aveuglés. Des éclairs lumineux attirent les gardes.
+**Intrusions de la Meneuse:** Les alliés sont accidentellement éblouis ou aveuglés. Des éclairs lumineux attirent les gardes.
 
 -----
 
@@ -1084,7 +1084,7 @@ Vous excellez à convaincre les autres de partager vos opinions.
 * Rang 5: Personne ne sait mieux
 * Rang 6: Potentiel amélioré supérieur ou Stagiaire juridique
 
-**Intrusions de la MJ:** Les spectateurs réagissent mal à un je-sais-tout. Une distraction ou une interruption fait dérailler l’argumentation du personnage.
+**Intrusions de la Meneuse:** Les spectateurs réagissent mal à un je-sais-tout. Une distraction ou une interruption fait dérailler l’argumentation du personnage.
 
 -----
 
@@ -1099,7 +1099,7 @@ Vous pouvez invoquer des tempêtes ou les briser.
 * Rang 5: Explosion de froid
 * Rang 6: Contrôle de la météo ou Chariot à vent
 
-**Intrusions de la MJ:** Un allié est accidentellement frappé par une fourchette de foudre. Un effet d'échouement inattendu inflige des dégâts. Le temps est influencé par un effet beaucoup plus faible et une tempête devient incontrôlable.
+**Intrusions de la Meneuse:** Un allié est accidentellement frappé par une fourchette de foudre. Un effet d'échouement inattendu inflige des dégâts. Le temps est influencé par un effet beaucoup plus faible et une tempête devient incontrôlable.
 
 -----
 
@@ -1115,7 +1115,7 @@ Tout ce qui quitte votre main va exactement là où vous souhaitez qu'il aille e
 * Rang 5: Tourbillon de lancers
 * Rang 6: Dégâts mortels ou Maîtrise de la défense
 
-**Intrusions de la MJ:** Les attaques manquées touchent la mauvaise cible. Les ricochets peuvent être dangereux. Les armes improvisées se brisent.
+**Intrusions de la Meneuse:** Les attaques manquées touchent la mauvaise cible. Les ricochets peuvent être dangereux. Les armes improvisées se brisent.
 
 -----
 
@@ -1133,7 +1133,7 @@ Vous êtes un maître d'arme d'un type particulier d'arme, qu'il s'agisse d'une 
 * Rang 5: Maîtrise extrême
 * Rang 6: Meurtrier ou Frappe mortelle
 
-**Intrusions de la MJ:** Les armes se brisent. Les armes peuvent être volées. Les armes peuvent être lâchées ou arrachées de votre main.
+**Intrusions de la Meneuse:** Les armes se brisent. Les armes peuvent être volées. Les armes peuvent être lâchées ou arrachées de votre main.
 
 -----
 
@@ -1148,7 +1148,7 @@ Insectes. Rats. Chauves-souris. Même les oiseaux. Vous maîtrisez un type de pe
 * Rang 5: Gagner un compagnon inhabituel
 * Rang 6: Essaim mortel ou Compétence en Défense Supérieure
 
-**Intrusions de la MJ:** Une commande est mal comprise. Le contrôle est irrégulier ou est perdu. Les morsures et les piqûres ne sont pas rares chez les maîtres de l'essaim.
+**Intrusions de la Meneuse:** Une commande est mal comprise. Le contrôle est irrégulier ou est perdu. Les morsures et les piqûres ne sont pas rares chez les maîtres de l'essaim.
 
 -----
 
@@ -1165,7 +1165,7 @@ Vous utilisez un équipement de protection et des techniques pratiquées pour é
 * Rang 5: Rien que Défendre
 * Rang 6: Maître de la défense ou Portez-la bien
 
-**Intrusions de la MJ:** Les boucliers se brisent lorsqu'ils sont touchés, tout comme les armes utilisées pour parer. Les sangles d'armure se brisent.
+**Intrusions de la Meneuse:** Les boucliers se brisent lorsqu'ils sont touchés, tout comme les armes utilisées pour parer. Les sangles d'armure se brisent.
 
 -----
 
@@ -1180,7 +1180,7 @@ En vous spécialisant dans le lancement de sortilèges et en tenant un livre de 
 * Rang 5: Mur de Granit
 * Rang 6: Invoquer un démon ou Mot de mort
 
-**Intrusions de la MJ:** Le sort tourne mal. La créature invoquée se retourne contre le lanceur. Un lanceur de sorts rival est attiré par l'utilisation de la magie.
+**Intrusions de la Meneuse:** Le sort tourne mal. La créature invoquée se retourne contre le lanceur. Un lanceur de sorts rival est attiré par l'utilisation de la magie.
 
 -----
 
@@ -1195,7 +1195,7 @@ Vous pouvez manipuler l'ombre et la matière « noire ».
 * Rang 5: Surfeur de Matière Noire
 * Rang 6: Structure de matière noire ou Embrassez la nuit
 
-**Intrusions de la MJ:** La matière noire s'éloigne comme si elle était possédée par son propre esprit.
+**Intrusions de la Meneuse:** La matière noire s'éloigne comme si elle était possédée par son propre esprit.
 
 -----
 
@@ -1211,7 +1211,7 @@ Un adepte de la magie de la nature qui s'appuie sur le pouvoir et la force des a
 * Rang 5: Grand arbre
 * Rang 6: Forêt Terrifiante ou Floraison réparatrice
 
-**Intrusions de la MJ:** Un personnage ou une créature en bois prend feu. Un coup sauvage d'une branche d'arbre frappe ou fait trébucher un allié. Certains arbres ont un mauvais cœur et détestent toutes les choses qui marchent.
+**Intrusions de la Meneuse:** Un personnage ou une créature en bois prend feu. Un coup sauvage d'une branche d'arbre frappe ou fait trébucher un allié. Certains arbres ont un mauvais cœur et détestent toutes les choses qui marchent.
 
 -----
 
@@ -1228,7 +1228,7 @@ Des coups de poing, de pied, de coude, des genoux et des mouvements complets du 
 * Rang 5: Attaque Etourdissante
 * Rang 6: Maître du style de combat à mains nues ou Dégâts mortels
 
-**Intrusions de la MJ:** Frapper certains ennemis vous fait autant de mal qu'à eux. Les adversaires armés ont une plus grande portée. Des mouvements d'arts martiaux compliqués peuvent vous faire perdre l'équilibre.
+**Intrusions de la Meneuse:** Frapper certains ennemis vous fait autant de mal qu'à eux. Les adversaires armés ont une plus grande portée. Des mouvements d'arts martiaux compliqués peuvent vous faire perdre l'équilibre.
 
 -----
 
@@ -1244,7 +1244,7 @@ Vous êtes un fainéant, mais vous en savez un peu sur beaucoup de choses.
 * Rang 5: Potentiel amélioré supérieur
 * Rang 6: S'appuyer sur les expériences de la vie ou Vif d'esprit
 
-**Intrusions de la MJ:** Les nouvelles situations sont déroutantes et stressantes. Les actions (ou inactions) passées reviennent hanter le personnage.
+**Intrusions de la Meneuse:** Les nouvelles situations sont déroutantes et stressantes. Les actions (ou inactions) passées reviennent hanter le personnage.
 
 -----
 
@@ -1260,7 +1260,7 @@ Vous n’abandonnez jamais, vous pouvez ignorer les coups et revenir toujours po
 * Rang 5: Pas encore mort
 * Rang 6: Défi final ou Ignorer l'Affliction
 
-**Intrusions de la MJ:** Parfois, ce sont les équipements ou les armes qui lâchent.
+**Intrusions de la Meneuse:** Parfois, ce sont les équipements ou les armes qui lâchent.
 
 -----
 
@@ -1277,7 +1277,7 @@ Sous l’apparence de quelqu’un d’autre, vous cherchez à trouver des répon
 * Rang 5: Utiliser ce qui est disponible
 * Rang 6: Faites confiance à la chance ou Frappe mortelle
 
-**Intrusions de la MJ:** La malchance peut ruiner les meilleurs projets. Les déguisements échouent. Les alliés se révèlent également être des agents.
+**Intrusions de la Meneuse:** La malchance peut ruiner les meilleurs projets. Les déguisements échouent. Les alliés se révèlent également être des agents.
 
 -----
 
@@ -1293,7 +1293,7 @@ Votre connexion spirituelle avec la nature et l’environnement vous confère de
 * Rang 5: Eruption d'insectes
 * Rang 6: Appeler la tempête ou Tremblement de terre
 
-**Intrusions de la MJ:** Une créature naturelle (mais dangereuse) blessée est découverte. Quelqu'un braconne des animaux sauvages pour leur peau, laissant les carcasses pourrir. Un arbre tombe dans la forêt, un des derniers sureaux.
+**Intrusions de la Meneuse:** Une créature naturelle (mais dangereuse) blessée est découverte. Quelqu'un braconne des animaux sauvages pour leur peau, laissant les carcasses pourrir. Un arbre tombe dans la forêt, un des derniers sureaux.
 
 -----
 
@@ -1311,7 +1311,7 @@ Vous utilisez votre cerveau organique comme un ordinateur, en interface « sans 
 * Rang 5: Collecte d'informations
 * Rang 6: Contrôle de Machine ou Compagnon Machine Amélioré
 
-**Intrusions de la MJ:** La machine fonctionne mal ou agit de manière imprévisible.
+**Intrusions de la Meneuse:** La machine fonctionne mal ou agit de manière imprévisible.
 
 -----
 
@@ -1327,7 +1327,7 @@ Vous pouvez projeter votre esprit hors de votre corps pour voir des endroits loi
 * Rang 5: Passager psychique
 * Rang 6: Projection mentale ou Capteur amélioré
 
-**Intrusions de la MJ:** Réunir l’esprit et le corps peut parfois être désorientant et nécessiter qu’un personnage passe quelques instants pour se repérer.
+**Intrusions de la Meneuse:** Réunir l’esprit et le corps peut parfois être désorientant et nécessiter qu’un personnage passe quelques instants pour se repérer.
 
 -----
 
@@ -1347,7 +1347,7 @@ Vous êtes un excellent pilote de vaisseau.
 * Rang 6: Pilote Incomparable
 * Rang 6: Télécommande ou Compétence avec les attaques
 
-**Intrusions de la MJ:** Un vaisseau spatial se perd, tombe en panne et est attaqué dans l'espace. Un passager clandestin extraterrestre est retrouvé.
+**Intrusions de la Meneuse:** Un vaisseau spatial se perd, tombe en panne et est attaqué dans l'espace. Un passager clandestin extraterrestre est retrouvé.
 
 -----
 
@@ -1362,7 +1362,7 @@ Vous maîtrisez la puissance hivernale du froid et de la glace.
 * Rang 5: Explosion de froid
 * Rang 6: Tempête de Glace ou Gantelets d'hiver
 
-**Intrusions de la MJ:** La glace rend les surfaces glissantes. Un froid extrême provoque la fissuration et la rupture des objets.
+**Intrusions de la Meneuse:** La glace rend les surfaces glissantes. Un froid extrême provoque la fissuration et la rupture des objets.
 
 -----
 
@@ -1379,7 +1379,7 @@ Vous possédez une arme aux capacités étranges, et votre connaissance de ses p
 * Rang 5: Mouvement enchanté
 * Rang 6: Frappe mortelle ou Attaque Tournoyante
 
-**Intrusions de la MJ:** Une arme se brise ou tombe. Le personnage perd sa connexion avec l'arme jusqu'à ce qu'il utilise une action pour rétablir l'harmonisation. L’énergie de l’arme se décharge de manière inattendue.
+**Intrusions de la Meneuse:** Une arme se brise ou tombe. Le personnage perd sa connexion avec l'arme jusqu'à ce qu'il utilise une action pour rétablir l'harmonisation. L’énergie de l’arme se décharge de manière inattendue.
 
 -----
 
@@ -1393,7 +1393,7 @@ Vous possédez une arme aux capacités étranges, et votre connaissance de ses p
 * Rang 5: Armure Renforcée par Champs de Force
 * Rang 6: Modification magistrale de l'armure (Vol assisté par réacteur) ou Modification magistrale de l'armure (Cypher Pod)
 
-**Intrusions de la MJ:** L'armure ne s'enlève pas. L'armure agit par ses propres moyens. L'armure subit une perte de puissance momentanée. Les PNJ ont peur de l'armure assistée.
+**Intrusions de la Meneuse:** L'armure ne s'enlève pas. L'armure agit par ses propres moyens. L'armure subit une perte de puissance momentanée. Les PNJ ont peur de l'armure assistée.
 
 -----
 
@@ -1411,7 +1411,7 @@ Votre perspicacité et vos capacités surnaturelles font de vous un scientifique
 * Rang 6: Incroyable exploit scientifique
 * Rang 6: Inventeur ou Champ défensif
 
-**Intrusions de la MJ:** Les créations deviennent incontrôlables. Les effets secondaires ne sont pas toujours prévisibles. Les sciences étranges terrifient les gens et peuvent attirer l’attention des médias. Lorsqu'un appareil créé ou modifié par une science étrange est épuisé, il explose.
+**Intrusions de la Meneuse:** Les créations deviennent incontrôlables. Les effets secondaires ne sont pas toujours prévisibles. Les sciences étranges terrifient les gens et peuvent attirer l’attention des médias. Lorsqu'un appareil créé ou modifié par une science étrange est épuisé, il explose.
 
 -----
 
@@ -1428,7 +1428,7 @@ Les livres sont vos amis. Qu'y a-t-il de plus important que la connaissance ? Ri
 * Rang 6: La connaissance, c'est le pouvoir
 * Rang 6: Tour de l'Intellectou Lire les signes
 
-**Intrusions de la MJ:** Les livres brûlent, sont mouillés ou se perdent. Les ordinateurs tombent en panne ou perdent de la puissance. Les verres se cassent.
+**Intrusions de la Meneuse:** Les livres brûlent, sont mouillés ou se perdent. Les ordinateurs tombent en panne ou perdent de la puissance. Les verres se cassent.
 
 ### Prend une Forme Animale
 
@@ -1442,7 +1442,7 @@ Vous pouvez vous transformer en animal.
 * Rang 5: Difficile à tuer
 * Rang 6: Célérité flou ou Prêter une forme animale
 
-**Intrusions de la MJ:** Le personnage change de forme de manière inattendue. Un PNJ est effrayé par votre agressivité envers le métamorphe. La transformation prend plus de temps que prévu.
+**Intrusions de la Meneuse:** Le personnage change de forme de manière inattendue. Un PNJ est effrayé par votre agressivité envers le métamorphe. La transformation prend plus de temps que prévu.
 
 {{< hint info >}}
 Forme de bête Supérieure s'applique en utilisant Forme animale.
@@ -1464,7 +1464,7 @@ Vous redressez les torts, protégez les innocents et punissez les coupables.
 * Rang 5: Punir tous les coupables
 * Rang 6: Au diable les coupables ou Inspirez les innocents
 
-**Intrusions de la MJ:** La culpabilité ou l'innocence peuvent être compliquées. Certaines personnes sont mécontentes de la présomption d'un juge autoproclamé. Porter un jugement fait des ennemis.
+**Intrusions de la Meneuse:** La culpabilité ou l'innocence peuvent être compliquées. Certaines personnes sont mécontentes de la présomption d'un juge autoproclamé. Porter un jugement fait des ennemis.
 
 -----
 
@@ -1480,7 +1480,7 @@ Vous maîtrisez la déduction et utilisez des faits et des indices pour trouver 
 * Rang 5: Désamorcer la situation
 * Rang 6: Prendre l'initiative ou Compétence en Défense Supérieure
 
-**Intrusions de la MJ:** Les preuves disparaissent, les fausses pistes confondent et les témoins mentent. La recherche initiale peut être erronée.
+**Intrusions de la Meneuse:** Les preuves disparaissent, les fausses pistes confondent et les témoins mentent. La recherche initiale peut être erronée.
 
 -----
 
@@ -1496,7 +1496,7 @@ Vous pouvez extraire des images de rêves et leur donner vie dans le monde évei
 * Rang 5: Cauchemar
 * Rang 6: Chambre des rêves ou Champ réactif
 
-**Intrusions de la MJ:** Un épisode de somnambulisme inattendu met le personnage dans une situation dangereuse. Un cauchemar se libère d'un rêve.
+**Intrusions de la Meneuse:** Un épisode de somnambulisme inattendu met le personnage dans une situation dangereuse. Un cauchemar se libère d'un rêve.
 
 -----
 
@@ -1518,7 +1518,7 @@ Certains personnages qui Résiste Comme une Citadelle sont peut-être déjà des
 * Rang 5: Maîtrise en Armure
 * Rang 6: Dégâts mortels ou Entraînement au bouclier
 
-**Intrusions de la MJ:** L'armure est endommagée. Les ennemis de moindre taille conspirent de manière ingénieuse.
+**Intrusions de la Meneuse:** L'armure est endommagée. Les ennemis de moindre taille conspirent de manière ingénieuse.
 
 -----
 
@@ -1533,7 +1533,7 @@ Vous avancez sans être vu, volant les riches pour parvenir à vos fins.
 * Rang 5: Combattant Hors-la-loi
 * Rang 6: Rat des Allées ou Mettre le paquet
 
-**Intrusions de la MJ:** Les voleurs sont jetés en prison. De puissants ennemis se font.
+**Intrusions de la Meneuse:** Les voleurs sont jetés en prison. De puissants ennemis se font.
 
 -----
 
@@ -1548,7 +1548,7 @@ Les morts répondent à vos questions, et leurs cadavres réanimés vous servent
 * Rang 5: Regard terrifiant
 * Rang 6: Véritable Nécromancie ou Mot de mort
 
-**Intrusions de la MJ:** La réputation nécromantique du personnage les précède. Un cadavre cherche à se venger d'avoir été réanimé.
+**Intrusions de la Meneuse:** La réputation nécromantique du personnage les précède. Un cadavre cherche à se venger d'avoir été réanimé.
 
 -----
 
@@ -1565,7 +1565,7 @@ Votre premier réflexe est de fuir le danger, et vous y êtes devenu très fort.
 * Rang 5: Aller au sol
 * Rang 6: Bouquet d'évasion ou Compétence en Défense Supérieure
 
-**Intrusions de la MJ:** Des mouvements rapides entraînent parfois des chutes d'objets, des glissements sur un sol irrégulier ou une mauvaise direction par accident.
+**Intrusions de la Meneuse:** Des mouvements rapides entraînent parfois des chutes d'objets, des glissements sur un sol irrégulier ou une mauvaise direction par accident.
 
 -----
 
@@ -1581,7 +1581,7 @@ De nombreux super-héros peuvent voler et certains ont même des ailes. Vous pou
 * Rang 5: Accélérer
 * Rang 6: Cible difficile ou Maître de la défense
 
-**Intrusions de la MJ:** Une aile est blessée ou retenue, provoquant la chute du personnage. Voler haut fait du personnage une cible évidente pour un ennemi inattendu.
+**Intrusions de la Meneuse:** Une aile est blessée ou retenue, provoquant la chute du personnage. Voler haut fait du personnage une cible évidente pour un ennemi inattendu.
 
 -----
 
@@ -1598,7 +1598,7 @@ Votre corps est élastique et caoutchouteux, capable de s’étirer sur de grand
 * Rang 5: Libre de se déplacer
 * Rang 6: Briser les rangs ou Pas encore mort
 
-**Intrusions de la MJ:** Une attaque ou un effet perturbe l’élasticité du personnage. Un membre étiré devient trop sollicité et faible.
+**Intrusions de la Meneuse:** Une attaque ou un effet perturbe l’élasticité du personnage. Un membre étiré devient trop sollicité et faible.
 
 -----
 
@@ -1614,7 +1614,7 @@ Vous créez des objets physiques à partir d’une lumière solide que vous pouv
 * Rang 5: Lumière sculptée améliorée
 * Rang 6: Champ défensif ou Vol
 
-**Intrusions de la MJ:** Un objet à lumière solide disparaît prématurément. Un objet à lumière solide ne peut pas affecter une certaine créature ou couleur.
+**Intrusions de la Meneuse:** Un objet à lumière solide disparaît prématurément. Un objet à lumière solide ne peut pas affecter une certaine créature ou couleur.
 
 -----
 
@@ -1630,7 +1630,7 @@ Vous portez de l'acier dans chaque main, prêt à affronter n'importe quel ennem
 * Rang 5: Double Distraction
 * Rang 6: Attaque de désarmement ou Attaque Tournoyante
 
-**Intrusions de la MJ:** Une lame se brise en deux ou une arme se détache de la poigne de son porteur.
+**Intrusions de la Meneuse:** Une lame se brise en deux ou une arme se détache de la poigne de son porteur.
 
 -----
 
@@ -1648,7 +1648,7 @@ Vous ferez n'importe quoi pour gagner un combat : mordre, gratter, donner un cou
 * Rang 5: Utilisation de l'environnement
 * Rang 6: Torsion du couteau ou Meurtrier
 
-**Intrusions de la MJ:** Les gens voient mal ceux qui trichent ou se battent sans honneur. Parfois, un sale tour se retourne contre vous.
+**Intrusions de la Meneuse:** Les gens voient mal ceux qui trichent ou se battent sans honneur. Parfois, un sale tour se retourne contre vous.
 
 -----
 
@@ -1665,7 +1665,7 @@ La subtilité, la ruse et la furtivité vous permettent d'accéder là où les a
 * Rang 5: Esquive
 * Rang 6: Lavage de cerveau ou Saut de Côté
 
-**Intrusions de la MJ:** Les espions sont traités durement lorsqu’ils sont capturés. Les alliés désavouent les infiltrés qui se font prendre. Il vaut mieux laisser certains secrets inconnus.
+**Intrusions de la Meneuse:** Les espions sont traités durement lorsqu’ils sont capturés. Les alliés désavouent les infiltrés qui se font prendre. Il vaut mieux laisser certains secrets inconnus.
 
 -----
 
@@ -1681,7 +1681,7 @@ Quand vous devenez fou, tout le monde vous craint.
 * Rang 5: Attaquez et attaquez encore
 * Rang 6: Potentiel amélioré supérieur ou Dégâts mortels
 
-**Intrusions de la MJ:** Il est facile pour un berserker de perdre le contrôle et d'attaquer ses amis comme ses ennemis.
+**Intrusions de la Meneuse:** Il est facile pour un berserker de perdre le contrôle et d'attaquer ses amis comme ses ennemis.
 
 -----
 
@@ -1698,7 +1698,7 @@ Vous pouvez réduire à la taille d'un bug et, avec suffisamment d'expérience, 
 * Rang 5: Rétrécir les autres
 * Rang 6: Plus grand ou Tiny
 
-**Intrusions de la MJ:** Une créature pense que le petit personnage est de la nourriture potentielle. Le petit personnage se retrouve coincé dans un espace minuscule ou sous un objet qui tombe.
+**Intrusions de la Meneuse:** Une créature pense que le petit personnage est de la nourriture potentielle. Le petit personnage se retrouve coincé dans un espace minuscule ou sous un objet qui tombe.
 
 {{< hint info >}}
 Un personnage qui Se Réduit à une Taille Infime et qui choisit d'apprendre des capacités comme Agrandir ne sera jamais aussi grand que celui qui Grandit Jusqu'au Ciel, mais il peut profiter des Avantages d'être grand ou petit selon ses besoins.
@@ -1717,7 +1717,7 @@ Vous pouvez envelopper votre corps de flammes, ce qui vous protège et nuit à v
 * Rang 5: Vrilles de feu
 * Rang 6: Serviteur du Feu ou Piste Infernale
 
-**Intrusions de la MJ:** Le feu brûle des matières inflammables. Le feu se propage de manière incontrôlable. Les créatures primitives craignent le feu et attaquent souvent ce qu'elles craignent.
+**Intrusions de la Meneuse:** Le feu brûle des matières inflammables. Le feu se propage de manière incontrôlable. Les créatures primitives craignent le feu et attaquent souvent ce qu'elles craignent.
 
 -----
 
@@ -1736,7 +1736,7 @@ Les robots et autres machines vivantes doivent être traités comme des créatur
 * Rang 5: Partagez le pouvoir
 * Rang 6: Libération explosive ou Siphon solaire
 
-**Intrusions de la MJ:** Le pouvoir drainé transmet également quelque chose de indésirable : des contraintes, des afflictions ou des pensées étrangères. La puissance siphonnée peut surcharger le personnage, provoquant une réaction.
+**Intrusions de la Meneuse:** Le pouvoir drainé transmet également quelque chose de indésirable : des contraintes, des afflictions ou des pensées étrangères. La puissance siphonnée peut surcharger le personnage, provoquant une réaction.
 
 -----
 
@@ -1758,7 +1758,7 @@ Bien que manier une épée dans un environnement où les gens ne portent génér
 * Rang 5: Compétence en Attaque Supérieure (épées)
 * Rang 6: Meurtrier ou Fléau des Monstres Géants
 
-**Intrusions de la MJ:** Le monstre a tendu un piège ou tendu une embuscade. Le monstre a des capacités jusqu'alors inconnues. La mère du monstre jure de se venger.
+**Intrusions de la Meneuse:** Le monstre a tendu un piège ou tendu une embuscade. Le monstre a des capacités jusqu'alors inconnues. La mère du monstre jure de se venger.
 
 -----
 
@@ -1774,7 +1774,7 @@ Vous pouvez vous déplacer si vite que vous devenez flou.
 * Rang 5: Difficile à voir
 * Rang 6: Sursaut de Célérité Parfait ou Vitesse de course incroyable
 
-**Intrusions de la MJ:** Les surfaces peuvent être glissantes ou présenter des obstacles cachés. Le mouvement des autres créatures peut être imprévisible et le personnage peut les rencontrer.
+**Intrusions de la Meneuse:** Les surfaces peuvent être glissantes ou présenter des obstacles cachés. Le mouvement des autres créatures peut être imprévisible et le personnage peut les rencontrer.
 
 -----
 
@@ -1791,7 +1791,7 @@ Vous pouvez survivre dans des étendues sauvages où d'autres périssent.
 * Rang 5: La nature est de votre côté
 * Rang 6: Faire Corps avec la Nature ou Camouflage sauvage
 
-**Intrusions de la MJ:** Les habitants des villes et des villages dénigrent parfois ceux qui ont l'air (et sentent) comme s'ils vivaient dans la nature, comme s'ils étaient ignorants ou barbares.
+**Intrusions de la Meneuse:** Les habitants des villes et des villages dénigrent parfois ceux qui ont l'air (et sentent) comme s'ils vivaient dans la nature, comme s'ils étaient ignorants ou barbares.
 
 -----
 
@@ -1806,7 +1806,7 @@ Vous avez un sens psychique qui vous permet de voir ce que les autres ne peuvent
 * Rang 5: Voir à travers le temps
 * Rang 6: Projection mentale ou Conscience totale
 
-**Intrusions de la MJ:** Certains secrets sont trop terribles pour être connus.
+**Intrusions de la Meneuse:** Certains secrets sont trop terribles pour être connus.
 
 -----
 
@@ -1822,7 +1822,7 @@ Vous pouvez voler et vous êtes super fort, difficile à blesser et rapide aussi
 * Rang 5: Pas encore mort
 * Rang 6: Lumière brûlante ou Ignorer l'Affliction
 
-**Intrusions de la MJ:** Un ennemi trouve le personnage. Un matériau étrange est découvert pour annuler les capacités du personnage.
+**Intrusions de la Meneuse:** Un ennemi trouve le personnage. Un matériau étrange est découvert pour annuler les capacités du personnage.
 
 -----
 
@@ -1841,7 +1841,7 @@ Bien que tous les choix de personnages soient soumis à l'approbation du MJ, Voy
 * Rang 5: Doppelganger Temporel
 * Rang 6: Appel à travers le temps ou Voyage dans le temps
 
-**Intrusions de la MJ:** Des paradoxes se créent. D’autres se souviennent différemment des événements passés.
+**Intrusions de la Meneuse:** Des paradoxes se créent. D’autres se souviennent différemment des événements passés.
 
 -----
 
@@ -1857,7 +1857,7 @@ Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur
 * Rang 5: Entraînement magique
 * Rang 6: Maximiser le Cypher ou Instinct de Magie Sauvage
 
-**Intrusions de la MJ:** Un sort s'exécute de manière erratique ou rebondit sur le lanceur. Quelque chose interfère avec la préparation des sorts. Le lancement de sorts attire l'attention d'une créature puissante ou d'un rival potentiel. Le sort de chiffre lancé est remplacé par celui d'un chiffre aléatoire.
+**Intrusions de la Meneuse:** Un sort s'exécute de manière erratique ou rebondit sur le lanceur. Quelque chose interfère avec la préparation des sorts. Le lancement de sorts attire l'attention d'une créature puissante ou d'un rival potentiel. Le sort de chiffre lancé est remplacé par celui d'un chiffre aléatoire.
 
 -----
 
@@ -1873,19 +1873,19 @@ Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur
 * Rang 5: Entraînement magique
 * Rang 6: Maximiser le Cypher ou Instinct de Magie Sauvage
 
-**Intrusions de la MJ:** Un sort s'exécute de manière erratique ou rebondit sur le lanceur. Quelque chose interfère avec la préparation des sorts. Le lancement de sorts attire l'attention d'une créature puissante ou d'un rival potentiel. Le sort de chiffre lancé est remplacé par celui d'un chiffre aléatoire.
+**Intrusions de la Meneuse:** Un sort s'exécute de manière erratique ou rebondit sur le lanceur. Quelque chose interfère avec la préparation des sorts. Le lancement de sorts attire l'attention d'une créature puissante ou d'un rival potentiel. Le sort de chiffre lancé est remplacé par celui d'un chiffre aléatoire.
 
 -----
 
-## Créer une nouvelle Motivation
+## Créer un nouveau Focus
 
-Cette section fournit tout ce dont vous avez besoin pour créer vos propres Motivation.
+Cette section fournit tout ce dont vous avez besoin pour créer vos propres Focus.
 
-Chaque Motivation a un thème principal, qu'il s'agisse d'exploration, de manipulation d'énergie ou simplement d'infliger beaucoup de dégâts au combat. Ces grandes classifications sont appelées catégories de Focus.
+Chaque Focus a un thème principal, qu'il s'agisse d'exploration, de manipulation d'énergie ou simplement d'infliger beaucoup de dégâts au combat. Ces grandes classifications sont appelées catégories de Focus.
 
 Chaque catégorie de Focus a un thème principal, suivi de directives de sélection qui décrivent comment choisir les capacités pour chaque rang du chapitre Capacités, du rang 1 au rang 6.
 
-Le Focus nouvellement créée doit être nommée sous la forme d'un verbe, comme Contrôle les Bêtes Sauvages ou Demeure dans la pierre. Par exemple, un Focus utilisant le feu créée en suivant les directives de la catégorie des Focus de manipulation d'énergie pourrait être appelé Se Revêt d' un Halo de Feu (l'un des exemples de Focus de ce chapitre). Alternativement, une nouvelle Motivation utilisant le feu devrait recevoir un tout nouveau nom comme Attiser les flammes de l'Apocalypse ou Allumer les feux avec une pensée.
+Le Focus nouvellement créée doit être nommée sous la forme d'un verbe, comme Contrôle les Bêtes Sauvages ou Demeure dans la pierre. Par exemple, un Focus utilisant le feu créée en suivant les directives de la catégorie des Focus de manipulation d'énergie pourrait être appelé Se Revêt d' un Halo de Feu (l'un des exemples de Focus de ce chapitre). Alternativement, un nouveau Focus utilisant le feu devrait recevoir un tout nouveau nom comme Attiser les flammes de l'Apocalypse ou Allumer les feux avec une pensée.
 
 ## Catégories de Focus
 
@@ -1931,7 +1931,7 @@ Si vous créez un Focus et que vous pensez qu'elle devrait fournir une suite de 
 
 Choisir de créer un Focus qui utilise un concept particulier --- par exemple, créer des illusions --- ne vous oblige pas à créer un Focus dans une catégorie particulière --- dans ce cas, la manipulation de l'environnement. Un Focus peut être construite de différentes manières en utilisant une énergie, un outil ou un concept particulier, chacun conduisant finalement à un Focus qui fournit des résultats différents. Tout dépend de vos objectifs. Dans ce cas, la création d’illusions pourrait être utilisée pour influencer les autres, ce qui plaide en faveur d’un Focus basée sur les indications de la catégorie d’influence.
 
-De la même manière, si un Focus accorde à un personnage la possibilité d'invoquer une sorte de force ou d'énergie, cela ne signifie pas que le Motivation doit automatiquement être construite en utilisant les indications de la catégorie de manipulation d'énergie (même si bien sûr cela serait possible si attaquer et vous protéger avec cette énergie est le but). Mais un Focus pourrait être construite pour accorder des capacités de création d'énergie ou de force principalement axées sur la résistance, cela suggère une orientation vers le combat défensif (quelqu'un qui peut encaisser beaucoup de dégats dans un combat) ; ou des capacités se concentrant sur tirer avec le souci principal de maximiser les dégâts, suggérant ainsi un Focus de catégorie combat offensif ; ou alors vous créez un suivant composé de cette énergie ou force, suggérant ainsi un Focus de catégorie Utilisation d'Alliés (c'est-à-dire quelqu'un qui utilise des créatures aidantes, des PNJ, ou même qui duplique des versions d'eux-mêmes pour vous donner un coup de pouce).
+De la même manière, si un Focus accorde à un personnage la possibilité d'invoquer une sorte de force ou d'énergie, cela ne signifie pas que le Focus doit automatiquement être construite en utilisant les indications de la catégorie de manipulation d'énergie (même si bien sûr cela serait possible si attaquer et vous protéger avec cette énergie est le but). Mais un Focus pourrait être construite pour accorder des capacités de création d'énergie ou de force principalement axées sur la résistance, cela suggère une orientation vers le combat défensif (quelqu'un qui peut encaisser beaucoup de dégats dans un combat) ; ou des capacités se concentrant sur tirer avec le souci principal de maximiser les dégâts, suggérant ainsi un Focus de catégorie combat offensif ; ou alors vous créez un suivant composé de cette énergie ou force, suggérant ainsi un Focus de catégorie Utilisation d'Alliés (c'est-à-dire quelqu'un qui utilise des créatures aidantes, des PNJ, ou même qui duplique des versions d'eux-mêmes pour vous donner un coup de pouce).
 
 Voici un autre exemple : la Motivaton Contrôle la Gravité pourrait éventuellement être un Focus de catégorie manipulation de l'environnement ou de catégorie manipulation d'énergie. Cela dépend si l'accent est davantage mis sur l'écrasement et le maintien des objets en place (manipulation de l'environnement) ou sur le fait de faire exploser des objets et de se protéger grâce à la gravité (manipulation d'énergie).
 
@@ -1941,7 +1941,7 @@ Si vous recherchez une capacité et que vous n'arrivez pas à trouver celle qui 
 
 ### Des Capacités qui font référence à d'autres Capacités
 
-Certaines capacités du chapitre Capacités font référence à d’autres capacités. Si,pour votre Motivation ou votre type, vous sélectionnez une capacité qui fait référence ou modifie une capacité de rang inférieur, incluez également cette capacité de rang inférieur dans votre type ou focus en tant que sélection qu'un PJ peut faire à un rang inférieur.
+Certaines capacités du chapitre Capacités font référence à d’autres capacités. Si,pour votre Focus ou votre type, vous sélectionnez une capacité qui fait référence ou modifie une capacité de rang inférieur, incluez également cette capacité de rang inférieur dans votre type ou focus en tant que sélection qu'un PJ peut faire à un rang inférieur.
 
 ## Création d'une toute nouvelle Capacité
 
@@ -1953,7 +1953,7 @@ Une bonne règle approximative est qu'une capacité typique devrait coûter auta
 
 ## Choisir des intrusions de MJ
 
-Pensez aux genres de choses qui pourraient surprendre, alarmer, ou tourner à la catastrophe pour quelqu'un avec le Focus qui vient d'être créée, et assignez les en tant qu'intrusion de MJ pour cette Motivation. En général c'est souvent fait de manière improvisée en cours de partie. Mais en leur accordant un peu de réflexion pendant l'élaboration de le Focus, quand les idées sont toutes fraîches dans votre tête, cela a de bonnes chances de fournir des options diaboliques.
+Pensez aux genres de choses qui pourraient surprendre, alarmer, ou tourner à la catastrophe pour quelqu'un avec le Focus qui vient d'être créée, et assignez les en tant qu'intrusion de MJ pour ce Focus. En général c'est souvent fait de manière improvisée en cours de partie. Mais en leur accordant un peu de réflexion pendant l'élaboration de le Focus, quand les idées sont toutes fraîches dans votre tête, cela a de bonnes chances de fournir des options diaboliques.
 
 ## Catégories de Focus
 
@@ -1963,7 +1963,7 @@ Pensez aux genres de choses qui pourraient surprendre, alarmer, ou tourner à la
 
 Les Focus qui reposent principalement sur la fourniture d'un entrainement à des compétences, d'atouts pour les tâches et d'améliorations des Réserves de statistiques et des Avantages afin d'améliorer un personnage entrent dans la catégorie Basic. Un thème général est également inclus, comme pour la plupart des autres catégories, qui donne un sens aux différentes capacités de base fournies.
 
-De plus, comme les avantages apportés par de telles Motivationts sont pour la plupart simples (généralement à quelques exceptions près), la plupart des Focus Basic seraient également appropriés pour des campagnes non fantastiques où la magie, la superscience ou les capacités psychiques n'entrent normalement pas en jeu. Cela dit, ce n'est pas parce que les capacités accordées par les Focus Basic sont simples qu'elles ne sont pas puissantes lorsqu'elles sont combinées avec les capacités accordées par le type, le descripteur, les cyphers et d'autres aspects du personnage.
+De plus, comme les avantages apportés par de tels Focus sont pour la plupart simples (généralement à quelques exceptions près), la plupart des Focus Basic seraient également appropriés pour des campagnes non fantastiques où la magie, la superscience ou les capacités psychiques n'entrent normalement pas en jeu. Cela dit, ce n'est pas parce que les capacités accordées par les Focus Basic sont simples qu'elles ne sont pas puissantes lorsqu'elles sont combinées avec les capacités accordées par le type, le descripteur, les cyphers et d'autres aspects du personnage.
 
 **Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Focus.
 
@@ -2109,7 +2109,7 @@ Un Focus de Manipulation d'énergie offre des Capacités pour invoquer le feu, l
 
 **Equipement Supplémentaire:** Une ou plusieurs pièces d'équipement immunisées contre l'énergie manipulée, cela peut être un ensemble de vêtements. Ou alors, quelque chose qui est lié à l'énergie générée. Certaines Focus dans cette catégorie ne requiert pas d'équipement supplémentaire.
 
-**Capacités énergétiques:** Si le Type de pesonnage fournit des Capacités spéciales qui normalement utilisent une autre forme d'énergie, ces capacités produisent alors la sorte d'énergie de le Focus. Par exemple, si un personnage utilise cette Motivation pour manipuler l'électricité, les éclairs de force deviennent des éclairs d'électricité. Ces altérations ne changent rien à part le type de dommage et tout effet secondaire (par exemple, l'électricité peut provoquer des courts-circuits dans les systèmes électroniques).
+**Capacités énergétiques:** Si le Type de pesonnage fournit des Capacités spéciales qui normalement utilisent une autre forme d'énergie, ces capacités produisent alors la sorte d'énergie de le Focus. Par exemple, si un personnage utilise cette Focus pour manipuler l'électricité, les éclairs de force deviennent des éclairs d'électricité. Ces altérations ne changent rien à part le type de dommage et tout effet secondaire (par exemple, l'électricité peut provoquer des courts-circuits dans les systèmes électroniques).
 
 **Suggestions d'Effet Mineur:** La cible ou quelque chose près de la cible est désavantagée à cause de l'énergie résiduelle.
 
@@ -2509,7 +2509,7 @@ The other option could be a different way of being defensive. In some cases, the
 
 ## Personnaliser des Focus
 
-De temps en temps, tout le contenu d'un Focus n'est pas adapté à l'idée d'un personnage, ou peut-être que le MJ a besoin d'indications supplémentaires pour créer une nouvelle Motivation. Dans tous les cas, la solution réside dans les Capacités des Focus à leurs niveaux de base.
+De temps en temps, tout le contenu d'un Focus n'est pas adapté à l'idée d'un personnage, ou peut-être que le MJ a besoin d'indications supplémentaires pour créer un nouveau Focus. Dans tous les cas, la solution réside dans les Capacités des Focus à leurs niveaux de base.
 
 Pour chaque rang, un joueur peut sélectionner une des Capacités ci-dessous à la place de la Capacité fournie par le rang. Plusieurs de ces Capacités de remplacement, particulièrement aux rangs les plus élevés, peuvent impliquer une modification corporelle, de l'intégration de systèmes high-tech, d'apprendre des sorts puissants, de découvrir des secrets interdits, ou quelque chose similaire approprié au genre.
 

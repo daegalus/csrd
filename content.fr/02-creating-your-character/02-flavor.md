@@ -50,9 +50,9 @@ Les personnages avec la Préférence de Furtivité sont doués pour la discréti
 
 ### Capacités de Furtivité de Quatrième Rang
 
-* Embuscade
-* Debilitating Strike
 * Déjouer Intelligemment
+* Embuscade
+* Frappe débilitante
 * Mouvements de culbute
 * Sens surnaturels
 
@@ -65,15 +65,14 @@ Les personnages avec la Préférence de Furtivité sont doués pour la discréti
 
 ### Capacités de Furtivité de Sixième Rang
 
-* Exploiter l’Avantage
+* Exploiter l'Avantage
 * La chance du voleur
 * Saut de Côté
 * Un coup du Destin
 
 ## Préférence de Technologie
 
-Les personnages ayant uns Préférence de technologie sont généralement issus de la science-fiction ou du moins des temps modernes.
-réglages (même si tout est possible). Ils excellent dans l’utilisation, la manipulation et la construction de machines. Un explorateur doté d'une Préférence technologique pourrait être un pilote de vaisseau spatial, et un orateur doté d'une Préférence technologique pourrait être un techno-prêtre.
+Les personnages ayant une Préférence de technologie sont généralement issus d'un cadre de campagne de science-fiction ou du moins des temps modernes (même si tout est possible). Ils excellent dans l’utilisation, la manipulation et la construction de machines. Un explorateur doté d'une Préférence technologique pourrait être un pilote de vaisseau spatial, et un orateur doté d'une Préférence technologique pourrait être un techno-prêtre.
 
 Certaines des capacités les moins orientées vers l'ordinateur pourraient convenir à un personnage steampunk, tandis qu'un personnage moderne pourrait utiliser certaines des capacités qui n'impliquent pas de vaisseaux spatiaux ou d'ultratechnologie.
 
@@ -145,7 +144,7 @@ Un explorateur à la Préférence magique pourrait être un chasseur de sorciers
 * Explosion commotionnelle
 * Récupérer
 * Réparer la chair
-* Verrouiller un Serrure
+* Verrouiller une Serrure
 
 ### Capacités de Magie de Troisième Rang
 
@@ -189,23 +188,23 @@ La Préférence de combat rend un personnage plus martial. Un Orateur avec une P
 ### Capacités de Combat de Second Rang
 
 * Entraîné sans armure
-* Soif de sang
 * Prouesses au combat
+* Soif de sang
 
 ### Capacités de Combat de Troisième Rang
 
 * Attaque successive
+* Compétence avec les attaques
 * Compétence en défense
 * Pratique de toutes les armes
-* Skill With Attacks
 
 ### Capacités de Combat de Quatrième Rang
 
-* Guerrier Capable
-* Deadly Aim
-* Fureur
 * Détournement
+* Fureur
+* Guerrier Capable
 * Pulvérisation
+* Visée mortelle
 
 ### Capacités de Combat de Cinquième Rang
 
