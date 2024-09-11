@@ -126,7 +126,7 @@ Les Guerriers de Premier Rang ont les capacités suivantes:
 
 **Equipment au départ:** Des vêtements appropriés et deux armes de votre choix, ainsi que un objet cher, deux objets modérement chers, et jusqu'à quatre objets peu chers.
 
-**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalaogue.
+**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalogue.
 
 * Avantage de Stat Amélioré
 * Choc
@@ -327,7 +327,7 @@ Les Adeptes de Premier Rang disposent des capacités suivantes :
 
 **Armes:** Vous pouvez utiliser des armes légères sans pénalité. Vous avez une inaptitude pour les armes moyennes et lourdes; vos attaques avec ces armes sont atténuées.
 
-**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalaogue. (Les capacités des Adeptes nécessite au moins une main libre à moins que la MJ en décide autrement.)
+**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalogue. (Les capacités des Adeptes nécessite au moins une main libre à moins que la MJ en décide autrement.)
 
 * Assaut Magique
 * Briser
@@ -520,7 +520,7 @@ Explorateurs de Premier Rang ont les capacités suivantes:
 
 **Armes:** Vous pouvez utiliser des armes légères et moyennes sans pénalité. Vous avez une inaptitude pour les armes lourdes; vos attaques avec des armes lourdes sont attténuées.
 
-**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalaogue.
+**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalogue.
 
 {{< columns >}}
 
@@ -742,7 +742,7 @@ Les Emissaires ont les capacités suivantes:
 
 **Equipement de Départ:** Vêtements appropriés et une arme légère de votre choix, ainsi que deux objets très cher, deux objets moyennement cher, et au plus quatre objets peu chers.
 
-**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalaogue. (Certaines capacités d'Emissaire, comme Lecture mentale ou Véritables sens, impose un élément surnaturel.  Si ce n'est pas apprprié pour le personnage ou la campagne, ces capacités peuvent être remplacées par quelque chose de la Préférence Furtivité, ou alors la MJ peut les modifier légèrement afin qu'elles soient basées sur des talents ou des intuitions extraordinaires plutôt que sur du supernaturel.)
+**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalogue. (Certaines capacités d'Emissaire, comme Lecture mentale ou Véritables sens, impose un élément surnaturel.  Si ce n'est pas apprprié pour le personnage ou la campagne, ces capacités peuvent être remplacées par quelque chose de la Préférence Furtivité, ou alors la MJ peut les modifier légèrement afin qu'elles soient basées sur des talents ou des intuitions extraordinaires plutôt que sur du supernaturel.)
 
 {{< columns >}}
 

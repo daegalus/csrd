@@ -1362,7 +1362,7 @@ Gives training, specialization, or an asset in one or more noncombat skills (cli
 {{< columns >}}
 
 * Adepte de la microgravité
-* Affichage Tête Haute
+* [Affichage Tête Haute](05-abilities.md#affichage-tête-haute)
 * Affinité machine
 * Agrandissement Efrayant
 * Anticipation
@@ -1649,7 +1649,7 @@ Un changement significatif qui vous améliore, comme en vous grandissant, vous c
 
 **Adepte des manœuvres**: si vous appliquez au moins un niveau d'effort à une tâche impliquant de grimper, de sauter, d'équilibrer ou tout autre type de manœuvre, vous obtenez un niveau d'effort gratuit. Facilitateur.
 
-**Affichage Tête Haute** (2+ points d'Intellect) : Votre capacité Armure motorisée est livrée avec des systèmes qui vous aident à donner un sens, à analyser et à utiliser vos armes dans votre environnement. Lorsque vous déclenchez cette capacité, vous gagnez un atout sur un jet d'attaque car la combinaison décrit parfaitement les ennemis et stabilise votre visée, que vous effectuiez une attaque au corps à corps ou à distance.
+**Affichage Tête Haute** (2+ points d'Intellect): Votre capacité Armure motorisée est livrée avec des systèmes qui vous aident à donner un sens, à analyser et à utiliser vos armes dans votre environnement. Lorsque vous déclenchez cette capacité, vous gagnez un atout sur un jet d'attaque car la combinaison décrit parfaitement les ennemis et stabilise votre visée, que vous effectuiez une attaque au corps à corps ou à distance.
 
 Vous pouvez également utiliser l'affichage tête haute pour agrandir votre vision, augmentant ainsi votre portée de vision à 8 km pendant deux tours. Si vous appliquez un niveau d'effort, vous pouvez également voir à travers des matériaux banals (tels que le bois, le béton, le plastique et la pierre) sur une courte distance dans des images en fausses couleurs. Si vous appliquez deux niveaux d'effort, vous pouvez voir à travers des matériaux spéciaux (tels que du plomb solide ou d'autres substances) à une distance immédiate dans des images en fausses couleurs ; cependant, le MJ peut vous demander de réussir d’abord une tâche basée sur l’Intellect, en fonction du matériau bloquant les capteurs de votre armure. Facilitateur.
 
@@ -3222,7 +3222,7 @@ Vous devez toucher le robot ou la machine pour le perturber (si vous effectuez u
 
 **Oeil pour les détails** (2 points d'Intellect) : Lorsque vous passez environ cinq minutes à explorer en profondeur une zone ne dépassant pas une courte distance de diamètre, vous pouvez poser une question au MJ sur la zone. Le MJ doit vous répondre honnêtement. Vous ne pouvez pas l'utiliser plus d'une fois par zone et par 24 heures. Action à lancer, cinq minutes à terminer.
 
-**Opportunistee**: Vous disposez d'un atout sur tout jet d'attaque que vous effectuez contre une créature qui a déjà été attaquée à un moment donné au cours du tour et qui est à portée immédiate. Facilitateur.
+**Opportuniste**: Vous disposez d'un atout sur tout jet d'attaque que vous effectuez contre une créature qui a déjà été attaquée à un moment donné au cours du tour et qui est à portée immédiate. Facilitateur.
 
 **Orateur pour les morts** (2+ points d'Intellect) : Vous pouvez poser une question à un être mort dont vous touchez le cadavre. Parce que la réponse passe par le filtre de la compréhension et de la personnalité de l’être, il ne peut pas répondre à des questions qu’il n’aurait pas comprises dans la vie, ni fournir des réponses qu’il n’aurait pas connues dans la vie. En fait, l’être n’est pas du tout obligé de répondre, vous devrez donc peut-être interagir avec lui d’une manière qui l’aurait convaincu de répondre de son vivant. Pour chaque point d'Intellect supplémentaire que vous dépensez lorsque vous activez la capacité, vous pouvez poser une question supplémentaire à l'être. Action.
 

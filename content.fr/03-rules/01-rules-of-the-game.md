@@ -117,84 +117,84 @@ Chaque personnage a un niveau maximum d'Effort qu'il peut appliquer à une seule
 
 **Niveaux Gratuit d'Effort:** I y a quelques capacités qui peuvent vous donner un niveau d'Effort gratuit (en général elles vous deamndent d'appliquer au moins un niveau d'Effort pour la tâche). En pratique, vous gagnez un niveau d'Effort supplémentaire en plus de ce que pourquoi vous avez payé. Ce niveau d'Effort gratuit peut dépasser la limite de l'Effort pour votre personnage, mais pas la lmite des six crans d'Effort maximum pour faciliter une tâche.
 
-### Rolling The Die
+### Lancer le dé
 
-To determine success or failure, a player rolls a die (always a d20). If they roll the target number or higher, they succeed. Most of the time, that's the end of it---nothing else needs to be done. Rarely, a character might apply a small modifier to the roll. If they have a +2 bonus when attempting specific actions, they add 2 to the number rolled. However, the original roll matters if it's a special roll.
+Pour déterminer si une action réussit ou échoue, un joueur lance un dé (toujours un d20). Si le résultat du dé est supérieur ou égal au nombre seuil, c'est une réussite. La plupart du temps, c'est tout, il n'y a rien d'autre à faire. Dans certains cas assez rares, le personnage peut appliquer un petit modificateur au résultat du dé. Si il a un bonus de +2 quand il accomplit des actions spécifiques, il ajoute alors 2 au résultat du dé. Toutefois, c'est le résultat du dé qui importe dans le cas d'un jet de dé spécial.
 
-If a character applies a modifier to the die roll, it's possible to get a result of 21 or higher, in which case they can attempt a task with a target number above 20. But if there is no possibility for success---if not even rolling a natural 20 (meaning the d20 shows that number) is sufficient to accomplish the task---then no roll is made. Otherwise, characters would have a chance to succeed at everything, even impossible or ridiculous tasks such as climbing moonbeams, throwing elephants, or hitting a target on the opposite side of a mountain with an arrow.
+Si un pesonnage applique un modificateur au résulat du jet de dé, il est possible d'obtenir un résultat de 21 ou plus, ce qui implique que le personnages peuvent essayer d'accomplir un tâche dont le nombre seuil est supérieur à 20. Mais si il n'y a aucune possibilité de réussite---si même avec un 20 naturel (c'est à dire que le dé indique ce nombre) ce n'est pas suffisant pour réussir la tâche---alors aucun jet de dé n'est réalisé. Autrement les personnages auraient toujours une chance de réussir n'importe quoi, même les tâches impossibles ou ridicules comme de grimper sur de la lumière, lancer des éléphants, ou toucher une cible de l'autre côté de la montagne avec une flèche.
 
-If a character's modifiers add up to +3, treat them as an asset instead. In other words, instead of adding a +3 bonus to the roll, reduce the difficulty by one step. For example, if a Warrior has a +1 bonus to attack rolls from a minor effect, a +1 bonus to attack rolls from a special weapon quality, and a +1 bonus to attack rolls from a special ability, they do not add 3 to their attack roll---instead, they reduce the difficulty of the attack by one step. So if they attack a level 3 foe, they would normally roll against difficulty 3 and try to reach a target number of 9, but thanks to their asset, they roll against difficulty 2 and try to reach a target number of 6.
+Si la somme des modificateurs du personnage est égale à +3, considérez les comme un atout à la place. En d'autres mots, au lieu d'ajouter un bonus de +3 a udé, réduisez la diffculté d'un cran. Par exemple, si un Guerrier a un bonus de +1 à un jet d'attaque grâce à un effet mineur, un bonus de +1 au jet d'attaque provenant de la qualité élevée de son arme, et un bonus de +1 venant d'une capacité spéciale, il n'ajoutera pas 3 à son jet de dé pour l'attaque---à la place, il réduira la difficulté de l'attaque d'un cran. Ainsi, si il attaque un adversaire de niveau 3, il aurait dû lancer un dé contre une difficulté 3 et essayer d'atteindre le nombre seuil de 9, mais grâce à ses avantages, il lancera un dé contre une difficulté de 2 en essayant d'atteindre le nombre seuil de 6.
 
-This distinction is important when stacking skills and assets to decrease the difficulty of an action, especially since reducing the difficulty to 0 or lower means no roll is needed.
+La distinction est importante quand on empile les compétences et les atouts pour diminuer la difficulté d'une action, particulirement pour réduire la difficulté à 0 ou moins car aucun jet de dé n'est nécessaire.
 
-## The Player Always Rolls
+## C'est toujours le joueur qui lance le dé
 
-In the Cypher System, players always drive the action. That means they make all the die rolls. If a PC leaps out of a moving vehicle, the player rolls to see if they succeed. If a PC searches for a hidden panel, the player rolls to determine whether they find it. If a rockslide falls on a PC, the player rolls to try to get out of the way. If a PC and an NPC arm wrestle, the player rolls, and the NPC's level determines the target number. If a PC attacks a foe, the player rolls to see if they hit. If a foe attacks the PC, the player rolls to see if they dodge the blow.
+Dans le Cypher system, ce sont les joueurs qui dirigent l'action. Cela signifie qu'ils font tous les jets de dé. Si un PJ saute d'une véhicule en mouvement, le joueur lance un dé pour savoir si il réussit. Si un PJ cherche un panneau caché, le joueur lance un dé pour déterminer si il trouve. Si une pierre tombe sur un PJ, le joueur lance un dé pour essayer de l'éivter. Si un PJ et un PNJ luttent ensembles, le joueur lance le dé, et le niveau du PNJ détermine le nombre seiul. Si le PJ attaque un adversaire, le joueur lance le dé pour savoir si il touche. Si un adversaire attaque un PJ, le joueur lance le dé pour savoir si il évite le coup.
 
-As shown by the last two examples, the PC rolls whether they are attacking or defending. Thus, something that improves defenses might ease or hinder their rolls. For example, if a PC uses a low wall to gain cover from attacks, the wall eases the player's defense rolls. If a foe uses the wall to gain cover from the PC's attacks, it hinders the player's attack rolls.
+Comme vu dans les deux derniers exemples ci-dessus, le PJ lance le dé que ce soit pour l'attaque ou la défense. Ainsi, quelque chose qui améliore la défense peut faciliter ou désavantager le jet de dé. Par exemple, si un PJ utilise un muret pour se protéger de l'attaque, le mur facilite le jet de défense du joueur. Si l'adversaire utilise le muret pour se protéger de l'attaque du pJ, cela désavantage le jet d'attaque.
 
-## Special Rolls
+## Jets de dé spéciaux
 
-If a character rolls a natural 1, 17, 18, 19, or 20 (meaning the d20 shows that number), special rules come into play. These are explained in more detail in the following sections.
+Si le résulat du jet de dé du joueur est un 1, 17, 18, 19 ou 20 (le d20 indique un de ces nombres), alors des règles spéciales s'appliquent. Elles ont détaillées dans les sections suivantes.
 
-1: GM Intrusion. The GM makes a free intrusion (see below) and doesn't award experience points (XP) for it.
+1: Intrusion de la Meneuse. La Meneuse a une intrusion gratuite (voir plus bas) et ne dnne pas de points d'expérience (XP) en échange..
 
-17: Damage Bonus. If the roll was a damage-dealing attack, it deals 1 additional point of damage.
+17: Bonus aux dommages. Si le jet était pour une attaque faisant des dommages, cela augmente les dommages de 1 point supplémentaire.
 
-18: Damage Bonus. If the roll was a damage-dealing attack, it deals 2 additional points of damage.
+18: Bonus aux dommages. Si le jet était pour une attaque faisant des dommages, cela augmente les dommages de 2 points supplémentaires.
 
-19: Minor Effect. If the roll was a damage-dealing attack, it deals 3 additional points of damage or the PC gets a minor effect in addition to the normal results of the task. If the roll was something other than an attack, the PC gets a minor effect in addition to the normal results of the task.
+19: Effet Mineur. Bonus aux dommages. Si le jet était pour une attaque faisant des dommages, cela augmente les dommages de 3 points supplémentaires ou alors le PJ dispose d'un effet mineur en plus des dommages normaux. Si le jet de dé était pour autre chose qu'une attaque, le PJ dispose d'un effet mineur en plus du résultat normal de la tâche.
 
-20: Major Effect. If the roll was a damage-dealing attack, it deals 4 additional points of damage or the PC gets a major or minor effect in addition to the normal results of the task. If the roll was something other than an attack, the PC gets a major effect in addition to the normal results of the task. If the PC spent points from a stat Pool on the action, the point cost for the action decreases to 0, meaning the character regains those points as if they had not spent them at all.
+20: Effet Majeur. Bonus aux dommages. Si le jet était pour une attaque faisant des dommages, cela augmente les dommages de 4 points supplémentaires ou alors le PJ dispose d'un effet majeur ou d'un effet mineur en plus des dommages normaux. Si le jet de dé était pour autre chose qu'une attaque, le PJ dispose d'un effet majeur en plus du résultat normal de la tâche. Si le PJ a dépensé des points de sa Réserve de stat pour l'action, le coût de ces points devient nul, ce qui signifie que le pesonnage regagne ces points comme si il ne les avait pas dépensé.
 
-### GM Intrusion
+### Intrusion de la Meneuse
 
-GM intrusion is explained in more detail in the Running the Cypher System chapter, but essentially it means that something occurs to complicate the character's life. The character hasn't necessarily fumbled or done anything wrong (although perhaps they did). It could just be that the task presents an unexpected difficulty or something unrelated affects the current situation.
+Une intrusion de la Meneuse est expliquée en détail dans le chapitre [Diriger une partie avec le Cypher System](../05-game-mastering/04-running-the-cypher-system.md), mais essentiellement, cela veut dire que quelque chose survient pour compliquer la vie du personnage. Le personnage n'a pas nécesairement fait un échec critique ou fait quelque chose de mal. Cela peut simplement être que la tâche en cours présente une difficulté imprévue ou quelque chose d'autre modifie la situation actuelle.
 
-For GM intrusion on a defense roll, a roll of 1 might mean that the PC takes 2 additional points of damage from the attack, indicating that the opponent got in a lucky blow.
+Pour une intrusion de la Meneuse sur une jet de dé de défense, un 1 signifie que le personnage perd 2 points de dommages supplémentaires de l'attaque, car l'adversaire a eu un coup chanceux.
 
-(For complete details about GM intrusion and how to use it to best effect in the game, see the Running the Cypher System chapter.)
+(Pour des détails plus complets sur l'intrusion de la Meneuse et comment l'utiliser pour produire les meilleurs effets dans le jeu, consultez le chapitre [Diriger une partie avec le Cypher System](../05-game-mastering/04-running-the-cypher-system.md).)
+
 
 ### Minor Effect
 
-A minor effect happens when a player rolls a natural 19. Most of the time, a minor effect is slightly beneficial to the PC, but not overwhelming.
+Un effet mineur survient quand un joueur obtient un 19 naturel. La plupart du temps, un effet mineur est légèrement bénéfique pour le PJ, mais pas de façon démesurée.
 
-A climber gets up the steep slope a bit faster. A repaired machine works a bit better. A character jumping down into a pit lands on their feet. Either the GM or the player can come up with a possible minor effect that fits the situation, but both must agree on what it should be.
+Un grimpeur peut franchir une pente plus rapidement. Une machine réparée fonctionne un peu mieux. Un personnage sautant dans un puit atterri sur ses pieds. La meneuse ou le joueur peuvent inventer un effet mineur possible qui correspond à la situation, les tous les doivent être d'accord.
 
-Don't waste a lot of time thinking of a minor effect if nothing appropriate suggests itself. Sometimes, in cases where only success or failure matters, it's okay to have no minor effect. Keep the game moving at an exciting pace.
+Ne passez pas trop de temps à penser à un effet mineur si rien d'approprié ne survient. Quelque fois, si seul le succès ou l'échec importe, il est parfaitement acceptable de ne pas avoir d'effet mineur. Gardez le mouvement dans le jeu à un rythme excitant.
 
-In combat, the easiest and most straightforward minor effect is dealing 3 additional points of damage with an attack. The following are other common minor effects for combat:
+En combat, l'effet mineur le plus simple est d'influger 3 points de dommages supplémentaires à l'attaque. Voici ci-dessous d'autres effets mineurs possibles en combat: combat:
 
-**Damage object:** Instead of striking the foe, the attack strikes what the foe is holding. If the attack hits, the character makes a Might roll with a difficulty equal to the object's level. On a success, the object moves one or more steps down the object damage track.
+**Objet endommagé:** Au lieu de frapper la cible, l'attaque frappe ce que tient la cible. Si l'attaque touche, le pesonnage peut faire un jet de Puissance contre une difficulté égale au niveau de l'objet. Sur un succès, l'objet descend d'un ou deux crans sur le suivi des dommages aux objets.
 
-**Distract:** For one round, all of the foe's tasks are hindered.
+**Cile Distraite:** Pendant un round, toutes les tâches de la cible sont désavantagées.
 
-**Knock back:** The foe is knocked or forced back a few feet. Most of the time, this doesn't matter much, but if the fight takes place on a ledge or next to a pit of lava, the effect can be significant.
+**Cible Repoussée:** La cible est repoussée de un ou deux mètres. La plupart du temps cela n'a pas beaucoup d'importance, mais si le combat a lieu près d'un rebord ou à côté d'un puit de lave l'effet peut importer.
 
-**Move past:** The character can move a short distance at the end of the attack. This effect is useful to get past a foe guarding a door, for example.
+**Dépasser la cible:** Le personnage peut bouger sur une courte distance à la fin de l'attaque. Cet effet est utile pour dépasser un adversaire gardant une porte par exemple.
 
-**Strike a specific body part:** The attacker strikes a specific spot on the defender's body. The GM rules what special effect, if any, results. For example, hitting a creature's tentacle that is wrapped around an ally might make it easier for the ally to escape. Hitting a foe in the eye might blind it for one round. Hitting a creature in its one vulnerable spot might ignore Armor.
+**Frapper une partie du corps spécifique:** L'attaquant frappe un endroit spécifique du corps de l'adversaire. La Meneuse définit la nature de l'effet spécial, si il y en a, qui en découle. Par exemple, frapper le tentacule d'une créature qui est enroulé autour d'un allié peut rendre sa fuite plus facile. Frapper un adversaire dans les yeux peut l'aveugler pendant un round. Frapper un créture à l'un de ses points faibles peut ignorer l'Armure.
 
-Usually, the GM just has the desired minor effect occur. For example, rolling a 19 against a relatively weak foe means it is knocked off the cliff. The effect makes the round more exciting, but the defeat of a minor creature has no significant impact on the story. Other times, the GM might rule that an additional roll is needed to achieve the effect---the special roll only gives the PC the *opportunity* for a minor effect. This mostly happens when the desired effect is very unlikely, such as pushing a 50-ton battle automaton off a cliff. If the player just wants to deal 3 additional points of damage as the minor effect, no extra roll is needed.
+D'habitude, la Meneuse juge que seul l'effet mineur se produit. Par exemple, obtenir un 19 contre un adversaire relativement faible signifie qu'il tombre de la falaise. L'effet rend le round plus interressant, mais la défaite d'une créature mineure n'a pas impact significatif sur l'histoire. Dans d'autres cas, la Meneuse peut décider qu'un jet de dé supplémentaire est nécessaire pour réussir l'effet---le jet de dé spécial  ne fait que donner au personnage *l'opportunité* d'un effet mineur. Cela arrive souvent quand l'effet souhaité est très improbable, comme de pousser un robot de combat de 50 tonnes par-dessus le rebord de la falaise. Si le joueur veut simplement 3 points de dommages supplémentaires comme effet mineur, pas besoin de jet de dé en plus.
 
-### Major Effect
+### Effet Majeur
 
-A major effect happens when a player rolls a natural 20. Most of the time, a major effect is quite beneficial to the character. A climber gets up the steep slope in half the time. A jumper lands with such panache that those nearby are impressed and possibly intimidated. A defender makes a free attack on a foe.
+Un effet majeur survient quand un joueur obtient un 20 naturel au dé. La plupart du temps, un effet majeur est un bénéfice important pour le personnage. Un grimpeur atteint le sommet en moitié moins de temps. Un sauteur atterri avec un tel panache que les spectateurs sont impressionnés et sans doute intimidés. Un défenseur peut faire une attaque gratuite sur un adversaire.
 
-Either the GM or the player can come up with a possible major effect that fits the situation, but both must agree on what it should be. As with minor effects, don't spend a lot of time agonizing over the details of a major effect. In cases where only success or failure matters, a major effect might offer the character a one-time asset (a modification of one step) to use the next time they attempt a similar action. When nothing else seems appropriate, the GM can simply grant the PC an additional action on their turn that same round.
+La meneuse ou le joueur peuvent inventer un effet majeur possible qui correspond à la situation, les tous les doivent être d'accord. Comme pour les effets mineurs, ne passez pas trop de temps à vous triturer le cerveau sur les détails de l'effet majeur. Dans les cas où seuls le succès ou l'échec est important, un effet majeur peut simplement offir au personnage un atout à usage unique (une modification d'un cran) à utiliser la prochaine fois qu'il tente la même action. Si rien d'autre ne semble approprié, la Meneuse peut aussi simplement donner au PJ une action supplémentaire dans son tour pour ce round.
 
-In combat, the easiest and most straightforward  
-major effect is dealing 4 additional points of damage with an attack. The following are other common major effects for combat.
+En combat, l'effet majeur le plus simple et direct est d'occasioner 4 points de dommages supplémentaires pendant l'attaque. La liste ci-dessous donnent des effets majeurs communs dans un combat.
 
-**Disarm:** The foe drops one object that it is holding.
+**Désarmer:** L'adversaire laisse tomber un objet qu'il tenait
 
-**Impair:** For the rest of the combat, all tasks the foe attempts are hindered.
+**Blesser:** Pour le reste du combat, toutes les tâches de l'adversaires sont atténuées.
 
-**Knock down:** The foe is knocked prone. It can get up on its turn.
+**Renverser:** L'adversaire est mis à terre. Il peut se relever à son prochain tour.
 
-**Stun:** The foe loses its next action.
+**Assomer:** L'adversaire perd sa prochaine action.
 
-As with minor effects, usually the GM just has the desired major effect occur, but sometimes the GM might require an extra roll if the major effect is unusual or unlikely.
+Comme pour les effets mineurs, la Meneuse juge d'habitude que seul l'effet majeur se produit, mais dans certains cas, la Meneuse peut décider qu'un jet de dé supplémentaire est nécessaire si l'effet majeur est inhabituel ou improbable.
 
 ## Retrying a Task After Failure
 
