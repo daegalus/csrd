@@ -560,7 +560,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 **Compétence:** Vous êtes entraîné dans toutes les actions de saut.
 
-**Equipement Supplémentaire:** Vous disposez d’une arme extra moyenne ou d’une arme lourde.
+**Equipement Supplémentaire:** Vous disposez d’une arme moyenne ou lourde supplémentaire.
 
 **Lien initial à la Première Aventure:** A partir de la liste d'options suivantes, choisissez comment vous vous êtes engagé dans la première aventure.
 

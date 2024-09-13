@@ -156,7 +156,7 @@ Pour une intrusion de la Meneuse sur une jet de dé de défense, un 1 signifie q
 (Pour des détails plus complets sur l'intrusion de la Meneuse et comment l'utiliser pour produire les meilleurs effets dans le jeu, consultez le chapitre [Diriger une partie avec le Cypher System](../05-game-mastering/04-running-the-cypher-system.md).)
 
 
-### Minor Effect
+### EMinor Effectffet Mineur
 
 Un effet mineur survient quand un joueur obtient un 19 naturel. La plupart du temps, un effet mineur est légèrement bénéfique pour le PJ, mais pas de façon démesurée.
 

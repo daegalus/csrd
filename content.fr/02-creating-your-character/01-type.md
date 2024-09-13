@@ -12,7 +12,7 @@ Le Type de personnage est le coeur de votre personnage. Son type vous aide à d�
 Dans certains jeux de rôle, votre type de personnage peut être appelé votre classe de personnage.
 {{< /hint >}}
 
-Vous pouvez choisir parmi quatre types de personnage: [Guerrier](#guerrier), [Adepte](#adepte), [Explorateur](#explorateur), et [Emissaire](#emissaire). Toutefois, vous pourriez ne pas vouloir utiliser ces termes génériques. Ce chapitre vous propose, pour chaque type, quelques alternatives de noms qui pourraient être plus adapté à un genre particulier. Vous trouverez peut-être que des noms comme "Guerrier" ou "Explorateur" ne sonnent pas juste, en particulier dans des campagnes se déroulant à une époque contemporaine. Comme toujours, vous êtes libre de faire comme vous voulez. (Votre type est ce que votre personnage est. Vous devriez utiliser le nom que vous voulez pour votre type, du moment qu'il s'accorde à la fois au personnage et à la campagne.)
+Vous pouvez choisir parmi quatre types de personnage: [Guerrier](#guerrier), [Adepte](#adepte), [Explorateur](#explorateur), et [Émissaire](#emissaire). Toutefois, vous pourriez ne pas vouloir utiliser ces termes génériques. Ce chapitre vous propose, pour chaque type, quelques alternatives de noms qui pourraient être plus adapté à un genre particulier. Vous trouverez peut-être que des noms comme "Guerrier" ou "Explorateur" ne sonnent pas juste, en particulier dans des campagnes se déroulant à une époque contemporaine. Comme toujours, vous êtes libre de faire comme vous voulez. (Votre type est ce que votre personnage est. Vous devriez utiliser le nom que vous voulez pour votre type, du moment qu'il s'accorde à la fois au personnage et à la campagne.)
 
 Comme le type est la base sur laquelle votre personnage est bati, il est important de considérer comment le type se tient avec la campagne sélectionnée. Pour se faire, les types sont en pratique des archetypes. Un Guerrier, par exemple, pourrait être n'importe qui du chevalier en armure étincellante au policier dans la rue ou au baroudeur cybernétique vétéran de milliers de guerres futuristes.
 
@@ -659,7 +659,7 @@ Pour son arc de personnage, Sam choisit Enterprise. L'exploration de lieux extra
 
 {{< /hint >}}
 
-## Emissaire
+## Émissaire
 
 **Fantasy/Fairy tale:** barde, emissaire, skald, prêtre, avocate
 
@@ -673,15 +673,15 @@ Vous êtes doué avec les mots et bon avec les gens. Vous parlez pour vous sorti
 
 **Rôle Individuel:**  Les émissaires sont intelligents et charismatiques. Ils aiment les gens et, plus important encore, ils les comprennent. Cela aide les émissaires à amener les autres à faire ce qui doit être fait.
 
-**Rôle de Groupe:** L'émissaire est souvent le visage du groupe, celui qui parle au nom de tous et négocie avec les autres. Le combat et l'action ne sont pas les points forts d'un Emissaire, c'est pourquoi d'autres personnages doivent parfois défendre l'Emissaire en cas de danger.
+**Rôle de Groupe:** L'émissaire est souvent le visage du groupe, celui qui parle au nom de tous et négocie avec les autres. Le combat et l'action ne sont pas les points forts d'un Émissaire, c'est pourquoi d'autres personnages doivent parfois défendre l'Émissaire en cas de danger.
 
 **Rôle en Société:** Les émissaires sont souvent des dirigeants politiques ou religieux. Mais il s’agit tout aussi souvent d’escrocs ou de criminels.
 
-**Emissaires Avancés:** Les émissaires de rang supérieur utilisent leurs capacités pour contrôler et manipuler les gens ainsi que pour aider et nourrir leurs amis. Ils peuvent parler pour se sortir du danger et même utiliser leurs mots comme des armes.
+**Émissaires Avancés:** Les émissaires de rang supérieur utilisent leurs capacités pour contrôler et manipuler les gens ainsi que pour aider et nourrir leurs amis. Ils peuvent parler pour se sortir du danger et même utiliser leurs mots comme des armes.
 
-### Intrusions de Joueur pour les Emissaires
+### Intrusions de Joueur pour les Émissaires
 
-Quand vous jouez un Emissaire, vous pouvez dépenser 1 XP pour utiliser l'une des intrusions de joueur ci-dessous, à condition que la situation est appropriée et que la MJ soit d'accord.
+Quand vous jouez un Émissaire, vous pouvez dépenser 1 XP pour utiliser l'une des intrusions de joueur ci-dessous, à condition que la situation est appropriée et que la MJ soit d'accord.
 
 **PNJ Amical:** Un PNJ que vous ne connaissez pas, quelqu'un que vous ne connaissez pas très bien, ou quelqu'un que vous connaissez mais qui n'a pas été particulièrement amical dans le passé, choisit de vous aider, sans nécessairement expliquer pourquoi. Peut-être qu'ils vous demanderont une faveur en retour par la suite, en fonction des ennuis qu'ils se donnent.
 
@@ -689,7 +689,7 @@ Quand vous jouez un Emissaire, vous pouvez dépenser 1 XP pour utiliser l'une de
 
 **Don Inatendu:** Un PNJ vous remet un cadeau physique auquel vous ne vous attendiez pas, qui aide à apaiser la situation si les choses semblent tendues, ou vous fournit un nouvel aperçu pour comprendre le contexte de la situation s'il y a quelque chose que vous ne parvenez pas à comprendre ou à saisir. .
 
-### Réserve pour un Emissaire
+### Réserve pour un Émissaire
 
 | Stat          | Réserve de Départ   |
 | ------------- | ------------------- |
@@ -699,7 +699,7 @@ Quand vous jouez un Emissaire, vous pouvez dépenser 1 XP pour utiliser l'une de
 
 Vous avez 6 points supplémentaires à diviser comme vous voulez parmi les Réserves.
 
-### Relation avec l'histoire passée de l'Emissaire
+### Relation avec l'histoire passée de l'Émissaire
 
 Votre type vous aide à déterminer la relation que vous avez avec la campagne en cours. Jetez un `d20` ou choisissez dans la liste ci-dessous un élément pour définir un fait spécifique à propos de votre histoire qui fournit un relation avec le reste du monde. Vous pouvez aussi créer votre propre histoire.
 
@@ -728,9 +728,9 @@ Votre type vous aide à déterminer la relation que vous avez avec la campagne e
 
 -----
 
-### Emissaire de Premier Rang
+### Émissaire de Premier Rang
 
-Les Emissaires ont les capacités suivantes:
+Les Émissaires ont les capacités suivantes:
 
 **Effort:** Votre Effort est de 1.
 
@@ -742,7 +742,7 @@ Les Emissaires ont les capacités suivantes:
 
 **Equipement de Départ:** Vêtements appropriés et une arme légère de votre choix, ainsi que deux objets très cher, deux objets moyennement cher, et au plus quatre objets peu chers.
 
-**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalogue. (Certaines capacités d'Emissaire, comme Lecture mentale ou Véritables sens, impose un élément surnaturel.  Si ce n'est pas apprprié pour le personnage ou la campagne, ces capacités peuvent être remplacées par quelque chose de la Préférence Furtivité, ou alors la MJ peut les modifier légèrement afin qu'elles soient basées sur des talents ou des intuitions extraordinaires plutôt que sur du supernaturel.)
+**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalogue. (Certaines capacités d'Émissaire, comme Lecture mentale ou Véritables sens, impose un élément surnaturel.  Si ce n'est pas apprprié pour le personnage ou la campagne, ces capacités peuvent être remplacées par quelque chose de la Préférence Furtivité, ou alors la MJ peut les modifier légèrement afin qu'elles soient basées sur des talents ou des intuitions extraordinaires plutôt que sur du supernaturel.)
 
 {{< columns >}}
 
@@ -765,7 +765,7 @@ Les Emissaires ont les capacités suivantes:
 
 -----
 
-### Second-Tier Emissaire
+### Second-Tier Émissaire
 
 Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
@@ -788,7 +788,7 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 
 -----
 
-### Third-Tier Emissaire
+### Third-Tier Émissaire
 
 Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 {{< columns >}}
@@ -811,7 +811,7 @@ Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajoute
 
 -----
 
-### Fourth-Tier Emissaire
+### Fourth-Tier Émissaire
 
 Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
@@ -827,7 +827,7 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 
 -----
 
-### Fifth-Tier Emissaire
+### Fifth-Tier Émissaire
 
 Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
@@ -843,7 +843,7 @@ Choisissez trois des capacités ci-dessous (ou du rang inférieur) pour l'ajoute
 
 -----
 
-### Sixth-Tier Emissaire
+### Sixth-Tier Émissaire
 
 Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter à votre répertoire. Vous pouvez en plus remplacer l'une de vos capacités de rang inférieur par une différente d'un rang inférieur.
 
@@ -856,7 +856,7 @@ Choisissez deux des capacités ci-dessous (ou du rang inférieur) pour l'ajouter
 * Succès inspirant
 * Véritables sens
 
-### Exemple d'Emissaire
+### Exemple d'Émissaire
 
 {{< hint warning >}}
 
@@ -888,7 +888,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Barde:** Les bardes dans la fiction et les jeux fantastiques sont des troubadours, des ménestrels et des conteurs, avec peut-être un élément surnaturel. Les bardes sont généralement des explorateurs ou des émissaires. Les Focus appropriées sont [Divertit](04-focus.md#divertit), [Aide ses Amis](04-focus.md#aide-ses-amis), [Se Cache dans les Ombres](04-focus.md#se-cache-dans-les-ombres), et [Maîtrise les Sortilèges](04-focus.md#maîtrise-les-sortilèges).
 
-**Clerc or Prêtre:** Les prêtres académiques sont généralement des Adeptes ou des Emissaires, mais les prêtres martiaux sont souvent des Guerriers (peut-être avec une Préférence magique). Pour un clerc typique doté d’un ensemble polyvalent de capacités, choisissez le Focus [Canalise les Bénédictions Divines](04-focus.md#canalise-les-bénédictions-divines).
+**Clerc or Prêtre:** Les prêtres académiques sont généralement des Adeptes ou des Émissaires, mais les prêtres martiaux sont souvent des Guerriers (peut-être avec une Préférence magique). Pour un clerc typique doté d’un ensemble polyvalent de capacités, choisissez le Focus [Canalise les Bénédictions Divines](04-focus.md#canalise-les-bénédictions-divines).
 
 * **Clerc (mort):** [S'Associe avec les Morts](04-focus.md#sassocie-avec-les-morts), [Guide les Esprits](04-focus.md#guide-les-esprits)
 * **Clerc (connaissance):** [Apprend Rapidement](04-focus.md#apprend-rapidement), [Voit Au-Delà](04-focus.md#voit-au-delà), [Préfèrerait Lire](04-focus.md#préfèrerait-lire)
@@ -911,11 +911,11 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 * **Guerrier (mélée):** [Se Bat Sans Respecter de Règle](04-focus.md#se-bat-sans-respecter-de-règle), [Combat avec Panache](04-focus.md#combat-avec-panache), Cherche les Ennuis, [N'a pas Besoin d'Arme](04-focus.md#na-pas-besoin-darme), [Se Bat avec Deux Armes à la fois](04-focus.md#se-bat-avec-deux-armes-à-la-fois)
 * **Guerrier (à distance):** [A le Droit de Porter une Arme à Feu](04-focus.md#a-le-droit-de-porter-une-arme-à-feu), [Lance avec une Précision Mortelle](04-focus.md#lance-avec-une-précision-mortelle)
 
-**Pistolero/Pirate:** Un pistolero est probablement un Guerrier ou un Explorateur, et certains peuvent être des Emissaires avec une Préférence de Combat. Les Focus appropriées sont [A le Droit de Porter une Arme à Feu](04-focus.md#a-le-droit-de-porter-une-arme-à-feu), [Maîtrise l'Armement](04-focus.md#maîtrise-larmement), [A Navigué sous Pavillon Pirate](04-focus.md#a-navigué-sous-pavillon-pirate), et [Porte une Arme Enchantée](04-focus.md#porte-une-arme-enchantée).
+**Pistolero/Pirate:** Un pistolero est probablement un Guerrier ou un Explorateur, et certains peuvent être des Émissaires avec une Préférence de Combat. Les Focus appropriées sont [A le Droit de Porter une Arme à Feu](04-focus.md#a-le-droit-de-porter-une-arme-à-feu), [Maîtrise l'Armement](04-focus.md#maîtrise-larmement), [A Navigué sous Pavillon Pirate](04-focus.md#a-navigué-sous-pavillon-pirate), et [Porte une Arme Enchantée](04-focus.md#porte-une-arme-enchantée).
 
-**Inquisiteur:** Les inquisiteurs sont généralement des Explorateurs, des Emissaires ou des Guerriers, selon qu'ils ont tendance à posséder de nombreuses compétences, à être doués pour interagir avec les gens ou à combattre. Les Focus appropriées sont [Se Cache dans les Ombres](04-focus.md#se-cache-dans-les-ombres), [Rend la Justice](04-focus.md#rend-la-justice), et Opère sous Couverture.
+**Inquisiteur:** Les inquisiteurs sont généralement des Explorateurs, des Émissaires ou des Guerriers, selon qu'ils ont tendance à posséder de nombreuses compétences, à être doués pour interagir avec les gens ou à combattre. Les Focus appropriées sont [Se Cache dans les Ombres](04-focus.md#se-cache-dans-les-ombres), [Rend la Justice](04-focus.md#rend-la-justice), et Opère sous Couverture.
 
-**Marchand:** Un Explorateur spécialisé dans les interactions sociales, comme [Divertit](04-focus.md#divertit) ou Dirige, ferait un bon personnage marchand, mais le choix le plus évident serait un Emissaire.
+**Marchand:** Un Explorateur spécialisé dans les interactions sociales, comme [Divertit](04-focus.md#divertit) ou Dirige, ferait un bon personnage marchand, mais le choix le plus évident serait un Émissaire.
 
 **Moine or Spécialiste des Arts Martiaux:** En tant que maîtres du combat à mains nues, les moines sont généralement des Guerriers ou des Explorateurs (avec peut-être une Préférence de combat). Les Focus appropriées sont les [Combat avec Panache](04-focus.md#combat-avec-panache), [N'a pas Besoin d'Arme](04-focus.md#na-pas-besoin-darme), et [Lance avec une Précision Mortelle](04-focus.md#lance-avec-une-précision-mortelle).
 
@@ -923,9 +923,9 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Ranger:** Les Rangers mélangent combat et compétences, et sont donc généralement des Explorateurs (peut-être avec une Préférence de combat) ou des Guerriers (peut-être avec une Préférence de compétences et de connaissances). Les Focus appropriées sont [Contrôle les Bêtes Sauvages](04-focus.md#contrôle-les-bêtes-sauvages), [Chasse](04-focus.md#chasse), [Vit dans la Nature Sauvage](04-focus.md#vit-dans-la-nature-sauvage), [Tue les Monstres](04-focus.md#tue-les-monstres), [Lance avec une Précision Mortelle](04-focus.md#lance-avec-une-précision-mortelle), et [Se Bat avec Deux Armes à la fois](04-focus.md#se-bat-avec-deux-armes-à-la-fois).
 
-**Roublard ou Voleur:** La plupart des personnages de type voleur sont des Explorateurs, mais un voleur axé sur l'interaction pourrait facilement être un Emissaire (peut-être avec une Préférence furtive). Les Focus appropriées sont Explore des Endroits Sombres, [Se Bat Sans Respecter de Règle](04-focus.md#se-bat-sans-respecter-de-règle), [Chasse](04-focus.md#chasse), [Se Cache dans les Ombres](04-focus.md#se-cache-dans-les-ombres), [Est Recherché par la Loi](04-focus.md#est-recherché-par-la-loi), [Bouge comme un Chat](04-focus.md#bouge-comme-un-chat), [A Navigué sous Pavillon Pirate](04-focus.md#a-navigué-sous-pavillon-pirate), et [Rôde dans les Bas Quartiers](04-focus.md#rôde-dans-les-bas-quartiers).
+**Roublard ou Voleur:** La plupart des personnages de type voleur sont des Explorateurs, mais un voleur axé sur l'interaction pourrait facilement être un Émissaire (peut-être avec une Préférence furtive). Les Focus appropriées sont Explore des Endroits Sombres, [Se Bat Sans Respecter de Règle](04-focus.md#se-bat-sans-respecter-de-règle), [Chasse](04-focus.md#chasse), [Se Cache dans les Ombres](04-focus.md#se-cache-dans-les-ombres), [Est Recherché par la Loi](04-focus.md#est-recherché-par-la-loi), [Bouge comme un Chat](04-focus.md#bouge-comme-un-chat), [A Navigué sous Pavillon Pirate](04-focus.md#a-navigué-sous-pavillon-pirate), et [Rôde dans les Bas Quartiers](04-focus.md#rôde-dans-les-bas-quartiers).
 
-**Sorcier:** Les sorciers, dans notre cas, sont des mages qui ont des capacités magiques inhérentes (par opposition aux magiciens, qui étudient longuement et durement pour obtenir leurs sorts). La plupart des sorciers sont des Adeptes, mais certains sont des Explorateurs ou des Emissaires. Le Focus [Maîtrise les Sortilèges](04-focus.md#maîtrise-les-sortilèges) donne à un sorcier typique un ensemble efficace de capacités, et la plupart des choix de Focus fournissent un ensemble thématique de sorts. Pour les sorciers de diverses lignées magiques, consultez ce qui suit :
+**Sorcier:** Les sorciers, dans notre cas, sont des mages qui ont des capacités magiques inhérentes (par opposition aux magiciens, qui étudient longuement et durement pour obtenir leurs sorts). La plupart des sorciers sont des Adeptes, mais certains sont des Explorateurs ou des Émissaires. Le Focus [Maîtrise les Sortilèges](04-focus.md#maîtrise-les-sortilèges) donne à un sorcier typique un ensemble efficace de capacités, et la plupart des choix de Focus fournissent un ensemble thématique de sorts. Pour les sorciers de diverses lignées magiques, consultez ce qui suit :
 
 * **Sorcier (ange):** [Illumine avec Eclat](04-focus.md#illumine-avec-eclat), [Canalise les Bénédictions Divines](04-focus.md#canalise-les-bénédictions-divines), [Dispose d'un Allié Magique](04-focus.md#dispose-dun-allié-magique)
 * **Sorcier (destinée):** [A des Ascendants Nobles](04-focus.md#a-des-ascendants-nobles), [A été Choisi(e)](04-focus.md#a-été-choisie)
@@ -935,24 +935,24 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 * **Sorcier (fiend):** [Se Revêt d'un Halo de Feu](04-focus.md#se-revêt-dun-halo-de-feu), [Dispose d'un Allié Magique](04-focus.md#dispose-dun-allié-magique)
 * **Sorcier (undead):** [S'Associe avec les Morts](04-focus.md#sassocie-avec-les-morts), [Guide les Esprits](04-focus.md#guide-les-esprits)
 
-**Escroc ou Arnaqueur:** Ces gens intelligents sont généralement des Emissaires, bien qu'ils puissent être des Adeptes s'ils sont très magiques (ou des Explorateurs s'ils ne sont pas magiques du tout). Les choix de Focus incluent [Se Bat Sans Respecter de Règle](04-focus.md#se-bat-sans-respecter-de-règle), [Rôde dans les Bas Quartiers](04-focus.md#rôde-dans-les-bas-quartiers) ou [Divertit](04-focus.md#divertit).
+**Escroc ou Arnaqueur:** Ces gens intelligents sont généralement des Émissaires, bien qu'ils puissent être des Adeptes s'ils sont très magiques (ou des Explorateurs s'ils ne sont pas magiques du tout). Les choix de Focus incluent [Se Bat Sans Respecter de Règle](04-focus.md#se-bat-sans-respecter-de-règle), [Rôde dans les Bas Quartiers](04-focus.md#rôde-dans-les-bas-quartiers) ou [Divertit](04-focus.md#divertit).
 
 **Guerrier-Mage:** Pour ces personnages inhabituels qui utilisent un mélange d'attaques avec des armes et de sorts, incarnez un Guerrier à Préférence magique ou un expert à Préférence de combat ou de magie. Les Focus appropriées incluent [Combat avec Panache](04-focus.md#combat-avec-panache), [Maîtrise l'Armement](04-focus.md#maîtrise-larmement), et [Porte une Arme Enchantée](04-focus.md#porte-une-arme-enchantée).
 
-**Démoniste ou Occultiste:** Pour les besoins de cette liste, les Démoniste et les Occultiste sont des mages qui acquièrent des pouvoirs magiques grâce aux pactes qu'ils concluent avec des entités d'un autre monde. La plupart des démonistes sont des Adeptes, mais les Explorateurs et les Emissaires (peut-être avec une Préférence magique) peuvent être des options intéressantes. Les Focus interressantes pour un occultiste incluent [Manipule la Matière Noire](04-focus.md#manipule-la-matière-noire), [Dispose d'un Allié Magique](04-focus.md#dispose-dun-allié-magique), [Maîtrise l'Essaim](04-focus.md#maîtrise-lessaim), [Peut Séparer son Esprit de son Corps](04-focus.md#peut-séparer-son-esprit-de-son-corps), et [A été Choisi(e)](04-focus.md#a-été-choisie), mais aussi (en fonction de l'entité et du pacte) la plupart des Focus des Sorciers et des Magiciens fonctionnent tout aussi bien.
+**Démoniste ou Occultiste:** Pour les besoins de cette liste, les Démoniste et les Occultiste sont des mages qui acquièrent des pouvoirs magiques grâce aux pactes qu'ils concluent avec des entités d'un autre monde. La plupart des démonistes sont des Adeptes, mais les Explorateurs et les Émissaires (peut-être avec une Préférence magique) peuvent être des options intéressantes. Les Focus intéressants pour un occultiste incluent [Manipule la Matière Noire](04-focus.md#manipule-la-matière-noire), [Dispose d'un Allié Magique](04-focus.md#dispose-dun-allié-magique), [Maîtrise l'Essaim](04-focus.md#maîtrise-lessaim), [Peut Séparer son Esprit de son Corps](04-focus.md#peut-séparer-son-esprit-de-son-corps), et [A été Choisi(e)](04-focus.md#a-été-choisie), mais aussi (en fonction de l'entité et du pacte) la plupart des Focus des Sorciers et des Magiciens fonctionnent tout aussi bien.
 
-**Mage du Chaos:** Ceux qui utilisent la magie sauvage ou chaotique sont généralement des Adeptes, mais un amateur peut être un Explorateur ou un Emissaire une Préférence magique. Le meilleur Focus qui convient à ce thème est [Utilise la Magie Sauvage](04-focus.md#utilise-la-magie-sauvage.
+**Mage du Chaos:** Ceux qui utilisent la magie sauvage ou chaotique sont généralement des Adeptes, mais un amateur peut être un Explorateur ou un Émissaire une Préférence magique. Le meilleur Focus qui convient à ce thème est [Utilise la Magie Sauvage](04-focus.md#utilise-la-magie-sauvage).
 
-**Magicien:** Pour les besoins de cette liste, les magiciens étudient longuement les connaissances magiques pour apprendre les méthodes de lancement de sorts (contrairement aux sorciers, aux démonistes, etc.). Les magiciens sont généralement des Adeptes, mais un magicien orienté vers la personne pourrait être un Emissaire (peut-être avec une Préférence magique). Pour un Magicien généraliste qui possède une variété de sorts, choisissez le focus [Maîtrise les Sortilèges](04-focus.md#maîtrise-les-sortilèges). Pour des types plus spécifiques de Magiciens, consultez ce qui suit :
+**Magicien:** Pour les besoins de cette liste, les magiciens étudient longuement les connaissances magiques pour apprendre les méthodes de lancement de sorts (contrairement aux sorciers, aux démonistes, etc.). Les magiciens sont généralement des Adeptes, mais un magicien orienté vers la personne pourrait être un Émissaire (peut-être avec une Préférence magique). Pour un Magicien généraliste qui possède une variété de sorts, choisissez le focus [Maîtrise les Sortilèges](04-focus.md#maîtrise-les-sortilèges). Pour des types plus spécifiques de Magiciens, consultez ce qui suit :
 
-* **Magicien (abjurer):** Absorbe l'Energie, Concentre l'Esprit sur la Matière, [Porte un Eclat de Glace](04-focus.md#porte-un-eclat-de-glace)
+* **Magicien (abjurer):** Absorbe l'Energie, [Concentre l'Esprit sur la Matière](04-focus.md#concentre-lesprit-sur-la-matière), [Porte un Eclat de Glace](04-focus.md#porte-un-eclat-de-glace)
 * **Magicien (conjurer or summoner):** [Contrôle les Bêtes Sauvages](04-focus.md#contrôle-les-bêtes-sauvages), [Dispose d'un Allié Magique](04-focus.md#dispose-dun-allié-magique)
 * **Magicien (diviner):** [Apprend Rapidement](04-focus.md#apprend-rapidement), [Voit Au-Delà](04-focus.md#voit-au-delà), [Peut Séparer son Esprit de son Corps](04-focus.md#peut-séparer-son-esprit-de-son-corps), Résout des Mystères
 * **Magicien (enchanter):** Commande aux pouvoirs Mentaux, Dirige
 * **Magicien (evoker):** [Se Revêt d'un Halo de Feu](04-focus.md#se-revêt-dun-halo-de-feu), [Illumine avec Eclat](04-focus.md#illumine-avec-eclat), [Façonne la Foudre](04-focus.md#façonne-la-foudre), [Fait Résonner le Tonnerre](04-focus.md#fait-résonner-le-tonnerre), [Porte un Eclat de Glace](04-focus.md#porte-un-eclat-de-glace)
-* **Magicien (illusionist):** Réveille les rêves, Façonne des Illusions
+* **Magicien (illusionist):** [Réveille les rêves](04-focus.md#réveille-les-rêves), [Façonne des Illusions](04-focus.md#façonne-des-illusions)
 * **Magicien (necromancer):** [S'Associe avec les Morts](04-focus.md#sassocie-avec-les-morts), [Guide les Esprits](04-focus.md#guide-les-esprits)
-* **Magicien (transmuter):** Contrôle la Gravité, Concentre l'Esprit sur la Matière, [Prend une Forme Animale](04-focus.md#prend-une-forme-animale)
+* **Magicien (transmuter):** [Contrôle la Gravité](04-focus.md#contrôle-la-gravité), [[Concentre l'Esprit sur la Matière](04-focus.md#concentre-lesprit-sur-la-matière)](04-focus.md#concentre-lesprit-sur-la-matière), [Prend une Forme Animale](04-focus.md#prend-une-forme-animale)
 
 ## Lancement de sort Préparés ou Spontanés
 
@@ -972,7 +972,7 @@ Les aspects suivants des quatre types de personnages peuvent être modifiés lor
 
 **Utiliser un Cypher:** Si un personnage abandonne la possibilité de porter un Cypher, il gagne une compétence supplémentaire de son choix.
 
-**Armes:** Certains types ont des capacités statiques de premier rang qui leur permettent d'utiliser des armes légères, moyennes et/ou lourdes sans pénalité. Les Guerriers peuvent utiliser toutes les armes, les Explorateurs peuvent utiliser des armes légères et moyennes, et les Adeptes et Emissaires peuvent utiliser des armes légères. N'importe laquelle de ces capacités d'armes peut être sacrifiée pour acquérir un Entrainement dans une compétence différente au choix du joueur.
+**Armes:** Certains types ont des capacités statiques de premier rang qui leur permettent d'utiliser des armes légères, moyennes et/ou lourdes sans pénalité. Les Guerriers peuvent utiliser toutes les armes, les Explorateurs peuvent utiliser des armes légères et moyennes, et les Adeptes et Émissaires peuvent utiliser des armes légères. N'importe laquelle de ces capacités d'armes peut être sacrifiée pour acquérir un Entrainement dans une compétence différente au choix du joueur.
 
 ### Désavantages et Pénalités
 
