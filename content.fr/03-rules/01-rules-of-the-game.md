@@ -192,7 +192,7 @@ En combat, l'effet majeur le plus simple et direct est d'occasioner 4 points de 
 
 **Renverser:** L'adversaire est mis à terre. Il peut se relever à son prochain tour.
 
-**Assomer:** L'adversaire perd sa prochaine action.
+**Assommer:** L'adversaire perd sa prochaine action.
 
 Comme pour les effets mineurs, la Meneuse juge d'habitude que seul l'effet majeur se produit, mais dans certains cas, la Meneuse peut décider qu'un jet de dé supplémentaire est nécessaire si l'effet majeur est inhabituel ou improbable.
 
