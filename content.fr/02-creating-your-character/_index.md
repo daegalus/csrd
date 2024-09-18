@@ -144,7 +144,7 @@ Même si le type du personnage est au milieu de la phrase, c'est par lui que nou
 
 Le type de votre personnage est son essence. Dans certains jeux de rôle il peut être appelé classe de prsonnage. Votre type aide à déterminer la place de personnage dans le monde et la relation avec les autres dans la campagne. C'est le nom dans la phrase "Je suis un *adjectif* *nom* qui *groupe verbal*.
 
-Vous pouvez choisir parmi quatre types de personnage: Guerriers, Adeptes, Explorateurs, Emissaires.
+Vous pouvez choisir parmi quatre types de personnage: Guerriers, Adeptes, Explorateurs, Émissaires.
 
 Votre descripteur définit votre personnage---il donne une coloration à tout ce qu'il fait. Votre descripteur met votre personnage en situation (la permière aventure qui démarre la campagne) et aide à fournir une motivation. C'est l'adjectif dans la phrase "Je suis un *adjectif* *nom* qui *groupe verbal*.
 

@@ -1,10 +1,10 @@
 ---
-title: Running the Cypher System
+title: Diriger une partie avec le Cypher System
 weight: 4
 description: Deeper dive into running the Cypher System, primarily extra information for the GM (Game Master)
 ---
 
-# Running the Cypher System
+# Diriger une partie avec le Cypher System
 
 ## Setting Difficulty Ratings
 

@@ -930,10 +930,10 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 * **Sorcier (ange):** [Illumine avec Eclat](04-focus.md#illumine-avec-eclat), [Canalise les Bénédictions Divines](04-focus.md#canalise-les-bénédictions-divines), [Dispose d'un Allié Magique](04-focus.md#dispose-dun-allié-magique)
 * **Sorcier (destinée):** [A des Ascendants Nobles](04-focus.md#a-des-ascendants-nobles), [A été Choisi(e)](04-focus.md#a-été-choisie)
 * **Sorcier (dragon):** [Se Revêt d'un Halo de Feu](04-focus.md#se-revêt-dun-halo-de-feu), [Façonne la Foudre](04-focus.md#façonne-la-foudre), [Porte un Eclat de Glace](04-focus.md#porte-un-eclat-de-glace)
-* **Sorcier (elemental):** [Demeure dans la pierre](04-focus.md#demeure-dans-la-pierre), [Se Revêt d'un Halo de Feu](04-focus.md#se-revêt-dun-halo-de-feu), [Contrôle le Magnétisme](04-focus.md#contrôle-le-magnétisme), [Va Comme le Vent](04-focus.md#va-comme-le-vent), [Façonne la Foudre](04-focus.md#façonne-la-foudre), [Porte un Eclat de Glace](04-focus.md#porte-un-eclat-de-glace)
-* **Sorcier (fey):** [Prend une Forme Animale](04-focus.md#prend-une-forme-animale)
-* **Sorcier (fiend):** [Se Revêt d'un Halo de Feu](04-focus.md#se-revêt-dun-halo-de-feu), [Dispose d'un Allié Magique](04-focus.md#dispose-dun-allié-magique)
-* **Sorcier (undead):** [S'Associe avec les Morts](04-focus.md#sassocie-avec-les-morts), [Guide les Esprits](04-focus.md#guide-les-esprits)
+* **Sorcier (elementaire):** [Demeure dans la pierre](04-focus.md#demeure-dans-la-pierre), [Se Revêt d'un Halo de Feu](04-focus.md#se-revêt-dun-halo-de-feu), [Contrôle le Magnétisme](04-focus.md#contrôle-le-magnétisme), [Va Comme le Vent](04-focus.md#va-comme-le-vent), [Façonne la Foudre](04-focus.md#façonne-la-foudre), [Porte un Eclat de Glace](04-focus.md#porte-un-eclat-de-glace)
+* **Sorcier (féérique):** [Prend une Forme Animale](04-focus.md#prend-une-forme-animale)
+* **Sorcier (démoniste):** [Se Revêt d'un Halo de Feu](04-focus.md#se-revêt-dun-halo-de-feu), [Dispose d'un Allié Magique](04-focus.md#dispose-dun-allié-magique)
+* **Sorcier (non-mort):** [S'Associe avec les Morts](04-focus.md#sassocie-avec-les-morts), [Guide les Esprits](04-focus.md#guide-les-esprits)
 
 **Escroc ou Arnaqueur:** Ces gens intelligents sont généralement des Émissaires, bien qu'ils puissent être des Adeptes s'ils sont très magiques (ou des Explorateurs s'ils ne sont pas magiques du tout). Les choix de Focus incluent [Se Bat Sans Respecter de Règle](04-focus.md#se-bat-sans-respecter-de-règle), [Rôde dans les Bas Quartiers](04-focus.md#rôde-dans-les-bas-quartiers) ou [Divertit](04-focus.md#divertit).
 
@@ -945,14 +945,14 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Magicien:** Pour les besoins de cette liste, les magiciens étudient longuement les connaissances magiques pour apprendre les méthodes de lancement de sorts (contrairement aux sorciers, aux démonistes, etc.). Les magiciens sont généralement des Adeptes, mais un magicien orienté vers la personne pourrait être un Émissaire (peut-être avec une Préférence magique). Pour un Magicien généraliste qui possède une variété de sorts, choisissez le focus [Maîtrise les Sortilèges](04-focus.md#maîtrise-les-sortilèges). Pour des types plus spécifiques de Magiciens, consultez ce qui suit :
 
-* **Magicien (abjurer):** Absorbe l'Energie, [Concentre l'Esprit sur la Matière](04-focus.md#concentre-lesprit-sur-la-matière), [Porte un Eclat de Glace](04-focus.md#porte-un-eclat-de-glace)
-* **Magicien (conjurer or summoner):** [Contrôle les Bêtes Sauvages](04-focus.md#contrôle-les-bêtes-sauvages), [Dispose d'un Allié Magique](04-focus.md#dispose-dun-allié-magique)
-* **Magicien (diviner):** [Apprend Rapidement](04-focus.md#apprend-rapidement), [Voit Au-Delà](04-focus.md#voit-au-delà), [Peut Séparer son Esprit de son Corps](04-focus.md#peut-séparer-son-esprit-de-son-corps), Résout des Mystères
-* **Magicien (enchanter):** Commande aux pouvoirs Mentaux, Dirige
-* **Magicien (evoker):** [Se Revêt d'un Halo de Feu](04-focus.md#se-revêt-dun-halo-de-feu), [Illumine avec Eclat](04-focus.md#illumine-avec-eclat), [Façonne la Foudre](04-focus.md#façonne-la-foudre), [Fait Résonner le Tonnerre](04-focus.md#fait-résonner-le-tonnerre), [Porte un Eclat de Glace](04-focus.md#porte-un-eclat-de-glace)
-* **Magicien (illusionist):** [Réveille les rêves](04-focus.md#réveille-les-rêves), [Façonne des Illusions](04-focus.md#façonne-des-illusions)
-* **Magicien (necromancer):** [S'Associe avec les Morts](04-focus.md#sassocie-avec-les-morts), [Guide les Esprits](04-focus.md#guide-les-esprits)
-* **Magicien (transmuter):** [Contrôle la Gravité](04-focus.md#contrôle-la-gravité), [[Concentre l'Esprit sur la Matière](04-focus.md#concentre-lesprit-sur-la-matière)](04-focus.md#concentre-lesprit-sur-la-matière), [Prend une Forme Animale](04-focus.md#prend-une-forme-animale)
+* **Magicien (abjureur):** Absorbe l'Energie, [Concentre l'Esprit sur la Matière](04-focus.md#concentre-lesprit-sur-la-matière), [Porte un Eclat de Glace](04-focus.md#porte-un-eclat-de-glace)
+* **Magicien (conjureur ou invocateur):** [Contrôle les Bêtes Sauvages](04-focus.md#contrôle-les-bêtes-sauvages), [Dispose d'un Allié Magique](04-focus.md#dispose-dun-allié-magique)
+* **Magicien (divination):** [Apprend Rapidement](04-focus.md#apprend-rapidement), [Voit Au-Delà](04-focus.md#voit-au-delà), [Peut Séparer son Esprit de son Corps](04-focus.md#peut-séparer-son-esprit-de-son-corps), Résout des Mystères
+* **Magicien (enchanteur):** Commande aux pouvoirs Mentaux, Dirige
+* **Magicien (evocateur):** [Se Revêt d'un Halo de Feu](04-focus.md#se-revêt-dun-halo-de-feu), [Illumine avec Eclat](04-focus.md#illumine-avec-eclat), [Façonne la Foudre](04-focus.md#façonne-la-foudre), [Fait Résonner le Tonnerre](04-focus.md#fait-résonner-le-tonnerre), [Porte un Eclat de Glace](04-focus.md#porte-un-eclat-de-glace)
+* **Magicien (illusioniste):** [Réveille les rêves](04-focus.md#réveille-les-rêves), [Façonne des Illusions](04-focus.md#façonne-des-illusions)
+* **Magicien (necromancien):** [S'Associe avec les Morts](04-focus.md#sassocie-avec-les-morts), [Guide les Esprits](04-focus.md#guide-les-esprits)
+* **Magicien (transmuteur):** [Contrôle la Gravité](04-focus.md#contrôle-la-gravité), [[Concentre l'Esprit sur la Matière](04-focus.md#concentre-lesprit-sur-la-matière)](04-focus.md#concentre-lesprit-sur-la-matière), [Prend une Forme Animale](04-focus.md#prend-une-forme-animale)
 
 ## Lancement de sort Préparés ou Spontanés
 

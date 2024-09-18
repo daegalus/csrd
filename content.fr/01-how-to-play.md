@@ -27,7 +27,7 @@ Tout autre élement qui diminue la difficulté (de l'aide d'un allié, une pièc
 
 Vous pouvez aussi diminuer la difficulté d'une tâche en appliquant de l'Effort. (L'Effort est décrit avec plus de précision dans le chapitre Les Règles du Jeu.)
 
-Pour résumer, trois choses peuvent diminuer la difficulté d'une tâche: les compétences, les atouts et l'Effor.
+Pour résumer, trois choses peuvent diminuer la difficulté d'une tâche: les compétences, les atouts et l'Effort.
 
 Si vous pouvez faciliter une tâche jusqu'à ce sa difficulté soir réduite à zéro, vous résussissez automatiquement et vous n'avez pas besoin de jeter un dé.
 
@@ -58,6 +58,7 @@ Si il n'y pas besoin de jeter un dé, il n'y a aucune chance d'échouer. Toutefo
 | 8                     | Heroique     | 24        | Une tâche digne d'être racontée durant des années après.                                           |
 | 9                     | Immortel     | 27        | Une tâche digne de légendes qui durent quelques générations.                                       |
 | 10                    | Impossible   | 30        | Une tâche que des humains normaux n'envisageraient pas (mais qui respecte les lois de la physique).|
+
 
 ## Combat
 

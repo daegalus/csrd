@@ -156,7 +156,7 @@ Pour une intrusion de la Meneuse sur une jet de dé de défense, un 1 signifie q
 (Pour des détails plus complets sur l'intrusion de la Meneuse et comment l'utiliser pour produire les meilleurs effets dans le jeu, consultez le chapitre [Diriger une partie avec le Cypher System](../05-game-mastering/04-running-the-cypher-system.md).)
 
 
-### EMinor Effectffet Mineur
+### Effet Mineur
 
 Un effet mineur survient quand un joueur obtient un 19 naturel. La plupart du temps, un effet mineur est légèrement bénéfique pour le PJ, mais pas de façon démesurée.
 
@@ -194,103 +194,104 @@ En combat, l'effet majeur le plus simple et direct est d'occasioner 4 points de 
 
 **Assommer:** L'adversaire perd sa prochaine action.
 
-Comme pour les effets mineurs, la Meneuse juge d'habitude que seul l'effet majeur se produit, mais dans certains cas, la Meneuse peut décider qu'un jet de dé supplémentaire est nécessaire si l'effet majeur est inhabituel ou improbable.
+Comme pour les effets mineurs, la Meneuse juge, en général, que seul l'effet majeur se produit, mais dans certains cas, la Meneuse peut décider qu'un jet de dé supplémentaire est nécessaire si l'effet majeur est inhabituel ou improbable.
 
-## Retrying a Task After Failure
+## Retenter une tâche après un échec
 
-If a character fails a task (whether it's climbing a wall, picking a lock, trying to figure out a mysterious device, or something else) they can attempt it again, but they must apply at least one level of Effort when retrying that task. A retry is a new action, not part of the same action that failed, and it takes the same amount of time as the first attempt did.
+Si un personnage échoue à accomplir une tâche (que ce soit de grimper un mur, crocheter une serrure, identifier un appareil mystérieux, ou autre), il peut retenter sa chance, mais il doit appliquer au moins un niveau d'effort pour cette nouvelle tentative. Un nouvel essai est une nouvelle action, différente de l'action qui a échoué, et qui prendra le même temps à accomplir que pour la première fois.
 
-Sometimes the GM might rule that retries are impossible. Perhaps a character has one chance to convince the leader of a group of thugs not to attack, and after that, no amount of talking will stop them.
+Dans certains cas, la Meneuse peut décider qu'un nouvel essai est impossible. Peut-être que le personnage n'a qu'une seule chance de convaincre le chef d'un groupe de bandits de ne pas attaquer, et après ça, aucune discussion ne les arrêtera.
 
-This rule doesn't apply to something like attacking a foe in combat because combat is always changing and fluid. Each round's situation is new, not a repeat of a previous situation, so a missed attack can't be retried.
+Cette rêgle ne s'applique pas au combat cas un combat est toujours changeant. Chaque situation de chaque round est nouvelle, ce n'est pas la répétition de la situation précédente, et donc une attaque ratée ne peut pas être retentée.
 
-## Initial Cost
+## Coût initial
 
-The GM can assign a point cost to a task just for trying it. Called an initial cost, it's simply an indication that the task is particularly taxing. For example, let's say a character wants to try a Might action to open a heavy cellar door that is partially rusted shut. The GM says that forcing the door open is a difficulty 5 task, and there's an initial cost of 3 Might points simply to try. This initial cost is in addition to any points the character chooses to spend on the roll (such as when applying Effort), and the initial cost points do not affect the difficulty of the task. In other words, the character must spend 3 Might points to attempt the task at all, but that doesn't help them open the door. If they want to apply Effort to ease the task, they have to spend more points from their Might Pool.
+La Meneuse peut assigner un nombre de points pour essayer d'accomplir une tâche. Ce nombre de points est appelé coût initial et c'est simplement une indication qu'une tâche est particulièrement difficile. Par exemple, disons qu'un personnage veut tenter une action de Puissance pour ouvrir une lourde porte de cellule qui en partie scellée par la rouille. La Meneuse répond que forcer la porte est une tâche de difficulté 5, et qu'il y a un coût initial de 3 points de Puissance pour simplement essayer. Ce coût initial vient en plus de tout point que e personnage choisi de dépenser pour le jet de dé (comme pour appliquer de l'Effort), et le coût initial n'affecte pas la difficulté de la tâche. En d'autres mots, le personnage doit dépenser 3 points de Puissance pour ne faire que tenter d'accomplir la tâche, mais cela ne l'aide aucunement à ouvrir la porte. Si il veut appliquer de l'Effort pour faciliter la tâche, il devra dépenser plus de points de sa Réserve de Puissance.
 
-Edge helps with the initial cost of a task, just as it does with any expenditure from a character's Pool. In the previous example, if the character had a Might Edge of 2, they would have to spend only 1 point (3 points minus 2 from their Might Edge) for the initial cost to attempt the task. If they also applied a level of Effort to open the door, they couldn't use their Edge again---Edge applies only once per action---so using the Effort would cost the full 3 points. Thus, they'd spend a total of 4 points (1 for the initial cost plus 3 for the Effort) from their Might Pool.
+L'Avantage permet de diminuer le coût initial d'une tâche, comme il le fait pour toute dépense de points de Réserve de stat. Dans l'exemple précédent, si le personnage a un Avantage de Puissance de 2, il pourrait n'avoir à dépenser que seulement 1 point (3 points moins 2 de l'Avantage de Puissance) du coût initial pour tenter d'accomplir la tâche. si il applique aussi un niveau d'effort pour ouvrir la porte, il ne pourrait pas utiliser à nouveau son Avantage---l'Avantage ne s'applique qu'une seule fois par action---et ainsi l'Effort couterait l'inégralité des 3 points de Réserve. Ainsi, il dépenserait un total de 4 points (1 pour le coût initial plus 3 pour l'Effort) de sa Réserve de Puissance.
 
-The rationale of the initial cost rule is that even in the Cypher System, where things like Effort can help a character succeed on an action, logic still suggests that some actions are very difficult and taxing, particularly for some PCs more than others.
+La raison principale pour le coût initial est que même dans le Cypher System, quand les choses telles que l'Effort peut aider un personnage à réussir une action, la logique suggère néanmoins que certaines actions sont particulièrement difficiles et exigeantes, en particulier pour certains PJs.
 
-## Distance
+## Distance ou Portée
 
-Distance is simplified into four basic categories: immediate, short, long, and very long.
+Les distances (ou portées) sont simplifiées en quatre catégories de base: immédiate, courte, longue et très longue.
 
-Immediate distance from a character is within reach or within a few steps; if a character stands in a small room, everything in the room is within immediate distance. At most, immediate distance is 10 feet (3 m). Immediate distance is sometimes referred to as close, or even  
-point-blank, particularly when referring to ranges.
+Une distance immédiate à partir d'un personnage est à portée de main ou à quelques pas; si le personnage se tient dans une petite pièce, tout ce qui est dans la pièce est à distance immédiate. Au plus, une distance immédiate est de 3 m (10 pieds). 
 
-(The words "immediate" and "close" can be used interchangeably to talk about distance. If a creature or object is within arm's reach of the character, it can be considered both immediate and close.)
+(les mots "immédiate" et "proche" peuvent être utilisés de manière interchangeable pour parler de distance. Si une créature ou un objet est à portée de main d'un personnage, ils peuvent être considérés comme à portée immédiate ou proche.)
 
-Short distance is anything greater than immediate distance but less than 50 feet (15 m) or so.
+Une courte distance est supérieure à une distance immédiate mais inférieure à 15 m (50 pieds) environ.
 
-Long distance is anything greater than short distance but less than 100 feet (30 m) or so.
+Une longue distance est supérieure à une courte distance mais inférieure à 30 m (100 pieds) environ.
 
-Very long distance is anything greater than long distance but less than 500 feet (150 m) or so.
+Une très longue distance est supérieure à une longue distance mais inférieure à 150 m (500 pieds) environ.
 
-Beyond that range, distances are always specified---1,000 feet (300 m), 1 mile (1.5 km), and so on.
+Au-delà de cette portée, les distances sont toujours spécifiées---300 m (1000 pieds), 1,5 km (1 mile), et ainsi de suite.
 
-All weapons and special abilities use these terms for ranges. For example, all melee weapons have immediate range---they are close-combat weapons, and you can use them to attack anyone within immediate distance. A thrown knife (and most other thrown weapons) has short range. A small handgun also has short range. A rifle has long range.
+Toutes les armes et capacités spéciales utilisent ces termes pour les portées ou distances. Par exemple, toutes les armes de mélées ont une portée immédiate---ce sont des armes de combat rapproché, et vous pouvez les utiliser contre quiconque se trouve à portée immédiate. Un couteau de lancer (et la plupart des armes de lancer) ont une courte portée. Un petit pistoler a aussi une courte portée. Un fisul a une longue portée.
 
-A character can move an immediate distance as a part of another action. In other words, they can take a few steps to the light switch and flip it on. They can lunge across a small room to attack a foe. They can open a door and step through.
+Un personnage peut se déplacer sur une distance immédiate pendant le déroulement d'une action. En d'autres mots, il peut faire quelques pas jusqu'à l'interrupteur pour le basculer. Il peut aussi se fendre au travers d'une petit pièce pour attaquer un adversaire. Il peut ouvrir une porte et la traverser.
 
-A character can move a short distance as their entire action for a turn. They can also try to move a long distance as their entire action, but the player might have to roll to see if the character slips, trips, or stumbles for moving so far so quickly.
+Un personnage peut se déplacer sur une courte distance en tant qu'action unique pendant son tour. Il peut aussi essayer de se déplacer sur une longe distance en tant qu'action, mais le joueur devrait faire une jet de dé pour voir si le personnage glisse ou trébuche en déplaçant aussi vite.
 
-GMs and players don't need to determine exact distances. For example, if the PCs are fighting a group of guards, any character can likely attack any foe in the general melee---they're all within immediate range. However, if one trooper stays back to fire a blaster, a character might have to use their entire action to move the short distance required to attack that foe. It doesn't matter if the trooper is 20 feet (6 m) or 40 feet (12 m) away---it's simply considered short distance. It does matter if the trooper is more than 50 feet (15 m) away because that distance would require a long move.
+Les Meneuses et les joueurs n'ont pas besoin de déterminer les distances exactes. Par exemple, si les PJs se battent contre un groupede gardes, n'importe quel personnage peut attaquer n'importe quel adversaire dans une mélée générale---ils sont tous dans une portée immédiate. Toutefois, si un soldat se retire pour faire feu avec son blaster, un personnage peut avoir à utiliser toute son action pour se déplacer sur une courte distance pour pouvoir l'attaquer. Ce n'est pas vraiment important de savoir si le soldat est à 6 m ou 12 m--- il faut simplement considérer une courte distance. Ce sera important si le soldat est à plus de 15 m de distance car dans ce cas cela nécessitera un déplacement sur une longue distance.
 
-### Other Distances
+### Autres Distances
 
 {{< hint warning >}}
-In rare cases where distances beyond very long are needed, real-world distances are best (1 mile, 100 kilometers, and so on). However, the following shorthand distances can be useful in some settings:
+Dans de rares cas quand les distances au-delà de "très longue" sont nécessaire, les distances du monde réel sont celles qui fonctionnent le mieux (10 km, 100 k, ...). Toutefois, les noms de distances si-dessous peuvent être utiles dans certains cadre de campagne:
 
-**Planetary:** On the same planet.
+**Planetaire:** Sur la même planète.
 
-**Interplanetary:** Within the same solar system.
+**Interplanetaire:** Dans le même système solaire.
 
-**Interstellar:** Within the same galaxy.
+**Interstellaire:** Dans la même galaxie.
 
-**Intergalactic:** Anywhere in the same universe.
+**Intergalactique:** N'importe où dans le même univers.
 
-**Interdimensional:** Anywhere.
+**Interdimensionelle:** N'importe où.
 {{< /hint >}}
 
-## Timekeeping
+## Compter le Temps
 
-Generally, keep time the same way that you normally would, using minutes, hours, days, and weeks. Thus, if the characters walk overland for 15 miles (24 km), about eight hours pass, even though the journey can be described in only a few seconds at the game table. Precision timekeeping is rarely important. Most of the time, saying things like "That takes about an hour" works fine.
+En général, vous pouvez compter le temps comme vous le ferez normalement, en utilsant des minutes, heures, jours et semaines. Ainsi, si les personnages marchent sur 24 km, alors environ 8 heures sont passées, même si le voyage peut être décrit en seulement quelques secondes autour de la table. Compter le temps avec précision est rarement important. La plupart du temps, dire quelque chose comme "Cela prennd environ une heure" suffit largement.
 
-This is true even when a special ability has a specific duration. In an encounter, a duration of "one minute" is mostly the same as saying "the rest of the encounter." You don't have to track each round that ticks by if you don't want to. Likewise, an ability that lasts for ten minutes can safely be considered the length of an in-depth conversation, the time it takes to quickly explore a small area, or the time it takes to rest after a strenuous activity.
+C'est particulièrement vrai quand une capacité spéciale a une durée spécifique. Dans une rencontre, une durée de "une minute" est généralement la même cose que de dire "le reste de la rencontre". Vous n'avez pas besoin de décompter chaque round qui passe si vous ne voulez pas. De la même manière, une capacité qui dure pendant 10 minutes peut sans problème être considérée comme ayant la durée d'une longue conversation, le temps qu'il faut pour explorer rapidement une petite zone, ou le temps qu'il faut pour se reposer après une activité fatiguante.
 
-### Timekeeping (table)
+### Le Temps (table)
 
 {{< hint warning >}}
 
 | Action                                                          | Time Usually Required                         |
 | --------------------------------------------------------------- | --------------------------------------------- |
-| Walking a mile over easy terrain                                | About fifteen minutes                         |
-| Walking a mile over rough terrain (forest, snow, hills)         | About half an hour                            |
-| Walking a mile over difficult terrain (mountains, thick jungle) | About forty-five minutes                      |
-| Moving from one significant location in a city to another       | About fifteen minutes                         |
-| Sneaking into a guarded location                                | About fifteen minutes                         |
-| Observing a new location to get salient details                 | About fifteen minutes                         |
-| Having an in-depth discussion                                   | About ten minutes                             |
-| Resting after a fight or other strenuous activity               | About ten minutes                             |
-| Resting and having a quick meal                                 | About half an hour                            |
-| Making or breaking camp                                         | About half an hour                            |
-| Shopping for supplies in a market or store                      | About an hour                                 |
-| Meeting with an important contact                               | About half an hour                            |
-| Referencing a book or website                                   | About half an hour                            |
-| Searching a room for hidden things                              | At least half an hour, perhaps one hour       |
-| Searching for cyphers or other valuables amid a lot of stuff    | About an hour                                 |
-| Identifying and understanding a cypher                          | Fifteen minutes to half an hour               |
-| Identifying and understanding an artifact                       | At least fifteen minutes, perhaps three hours |
-| Repairing a device (assuming parts and tools available)         | At least an hour, perhaps a day               |
-| Building a device (assuming parts and tools available)          | At least a day, perhaps a week                |
+| Marcher sur 1,5 km sur un terrain facile                              | Environ 15 minutes                      |
+| Marcher sur 1,5 km sur un terrain accidenté (forêt, neige, collines)  | Environ 30 minutes                      |
+| Marcher sur 1,5 km sur un terrain difficile (maontagne, jungle dense) | Environ 45 minutes                      |
+| Se déplacer depuis un endroit important d'une cité dans un autre      | Environ 15 minutes                      |
+| S'introduire dans un endroit gardé                                    | Environ 15 minutes                      |
+| Surveiller un nouvel endroit pour reveler des informations importantes | Environ 15 minutes                     |
+| Avoir une discussion en profondeur                                    | Environ 10 minutes                     |
+| Se reposer après un combat ou une activité fatiguante               | Environ 10 minutes                        |
+| Se reposer et prendre un repas rapide                           | Environ 30 minutes                            |
+| Monter ou démonter le camp                                      | Environ 30 minutes                            |
+| Acheter du ravitaillement sur un marché ou dans une boutique    | Environ une heure                             |
+| Rencontrer un contact important                                              | Environ 30 minutes                  |
+| Rechercher un livre ou un site web                                           | Environ 30 minutes                  |
+| Chercher des éléments cahcés dans une pièce                                  | Au moins 30 minutes, peut-être une heure |
+| Charcher des Cyphers ou des objets de valeurs                                | Environ une heure        |
+| Identifier et comprendre un cypher                                           | Entre 15 et 30 minutes               |
+| Identifier et Comprendre un artifact                                         | Au moins 15 minutes, peut-être 3 heures |
+| Réparer un appareil (avec des pièces détachées et des outils disponibles)    | Au moins une heure, peut-être une journée |
+| Construire un appareil (avec des pièces détachées et des outils disponibles) | Au moins un jour, peut-être une semaine |
 {{< /hint >}}
 
-## Encounters, Rounds, And Initiative
+## Rencontres, Rounds et Initiative
 
-Sometimes in the course of the game, the GM or players will refer to an "encounter." Encounters are not so much measurements of time as they are events or instances in which something happens, like a scene of a movie or a chapter in a book. An encounter might be a fight with a foe, a dramatic crossing of a raging river, or a stressful negotiation with an important official. It's useful to use the word when referring to a specific scene, as in "My Might Pool is low after that encounter with the soul sorcerer yesterday."
+De temps en temps dans le jeu, la Meneuse ou les joueurs vont faire référnce à une "rencontre." Les rencontres ne sont pas tant des mesures du temps qu'elles sont des évènements ou des moments qui indiquent que quelqhe chose survient, comme une scène dans un film ou un chapitre dans un livre. Une rencontre peut être un combat avec un adversaire, le franchissement d'une rivière en crue, ou une négociation stressante avec un notable important. Il est pratique d'utiliser ce mot pour faire référnce à une scène spécifique, comme dans "Ma Réserve de Puissance est faible après cette rencontre hier avec le sorcier des âmes."
 
-A round is about five to ten seconds. The length of time is variable because sometimes one round might be a bit longer than another. You don't need to measure time more precisely than that. You can estimate that on average there are about ten rounds in a minute. In a round, everyone---each character and NPC---gets to take one action.
+Un round s'étend entre 5 et 10 secondes. La longueur de cette durée est variable car dans certains cas, un round peut être d'une durée plus longue qu'un autre round. Vous n'avez pas besoin de mesurer le temps plus précisément que ça. Vous pouvez estimer qu'en moyenne, il y a environ 10 rounds dans une minute. En un round, tout le monde---chaque personnage et PNJ---peut accomplir une action.
+
+Pour déterminer qui va en premier, 
 
 To determine who goes first, second, and so on in a round, each player makes a Speed roll called an initiative roll. Most of the time, it's only important to know which characters act before the NPCs and which act after the NPCs. On an initiative roll, a character who rolls higher than an NPC's target number takes their action before the NPC does. As with all target numbers, an NPC's target number for an initiative roll is three times the NPC's level. Many times, the GM will have all NPCs take their actions at the same time, using the highest target number from among all the NPCs. Using this method, any characters who rolled higher than the target number act first, then all the NPCs act, and finally any characters who rolled lower than the target number act.
 
