@@ -1,0 +1,83 @@
+Appealing/38/Attirant
+Beneficent/39/Bienfaisant
+Brash/39/Impétieux
+Calm/40/Calme
+Chaotic/40/Chaotique
+Charming/41/Charmant
+Clever/41/Malin
+Clumsy/41/Maladroit
+Craven/42/Lache
+Creative/42/Créatif
+Cruel/43/Cruel
+Dishonorable/44/Sans Honneur
+Doomed/44/Maudit
+Empathic/44/Empathique
+Exiled/45/Exilé
+Fast/45/Prompt
+Foolish/46/Pas très brillant
+Graceful/46/Grâcieux
+Guarded/47/Suspicieux
+Hardy/47/Endurant
+Hideous/48/Hideux
+Honorable/48/Honorable
+Impulsive/48/Impulsif
+Inquisitive/49/Curieux
+Intelligent/49/Intelligent
+Intuitive/49/Intuitif
+Jovial/50/Jovial
+Kind/50/Gentil
+Learned/51/Erudit
+Lucky/51/Chanceux
+Mad/51/Fou
+Mechanical/52/Doué pour la mécanique
+Mysterious/52/Mysterieux
+Mystical/53/Mystique
+Naive/53/Naif
+Perceptive/54/Perspicace
+Resilient/54/Résistant
+Risk-Taking/54/Casse-cou
+Rugged/55/Rugueux
+Sharp-Eyed/55/Au Regard-perçant
+Skeptical/55/Sceptique
+Stealthy/56/Furtif
+Strong/56/Fort
+Strong-Willed/56/Borné
+Swift/57/Rapide
+Tongue-Tied/57/Mutique
+Tough/57/Dur-à-Cuire
+Vicious/58/Vicieux
+Virtuous/58/Vertueux
+Weird/58/Etrange
+Catfolk/(GF, 86)/Peuple-Chat
+Dragonfolk/(GF, 87)/Dragonnien
+Dwarf/(258)/Nain
+Elf/(258)/Elfe
+Gnome/(GF, 89)/Gnome
+Half-Giant/(259)/Demi-Géant
+Halfling/(GF, 89)/Hobbit
+Helborn/(259)/Enfer-né
+Lizardfolk/(GF, 89)/Peuple-Lézard
+Chimera/(IOM, 37)/Chimère
+Dragon/(IOM, 38)/Dragon
+Ghost/(IOM, 39)/Fantôme
+Hunter/(IOM, 40)/Chasseur
+Nix/(IOM, 41)/Nix
+Sylph/(IOM, 42)/Sylve
+Unmagical/(IOM, 43)/Non-magique
+Bitter/(RR, 113)/Amer
+Canien/(RR, 113)/Canin
+Felis/(RR, 114)/Félin
+Flutter/(RR, 115)/Evasif
+Hopeful/(RR, 116)/Optimiste
+Morlock/(300)/Morlock
+Mutant/(RR, 116)/Mutant
+Roach/(301)/Cafard
+Rusted/(RR, 117)/Rouillé
+Shiny/(RR, 118)/Brillant
+Artificially Intelligent/(279)/Intelligent Artificiellement
+Quintar/(279)/Quitar
+Amazing/(CTS, 42)/Fabuleux
+Incredible/(CTS, 42)/Incroyable
+Puissancey/(CTS, 43)/Puissant
+Sensational/(CTS, 44)/Sensationnel
+Uncanny/(CTS, 44)/Etonnant

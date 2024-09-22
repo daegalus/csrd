@@ -1075,7 +1075,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 ### Perspicace
 
-Il vous manque peu. Vous repérez les petits détails du monde qui vous entoure et êtes habile à faire des déductions à partir des informations que vous trouvez. Vos talents font de vous un détective exceptionnel, un scientifique redoutable ou un éclaireur talentueux.
+Peu vous échappe. Vous repérez les petits détails du monde qui vous entoure et êtes habile à faire des déductions à partir des informations que vous trouvez. Vos talents font de vous un détective exceptionnel, un scientifique redoutable ou un éclaireur talentueux.
 
 Même si vous êtes habile à trouver des indices, vous n'avez aucune compétence pour détecter les signaux sociaux. Vous négligez une infraction causée par vos déductions ou à quel point votre examen minutieux peut rendre les gens autour de vous inconfortables. Vous avez tendance à considérer les autres comme des nains intellectuels par rapport à vous, ce qui ne vous sert pas à grand-chose lorsque vous avez besoin d’une faveur.
 

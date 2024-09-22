@@ -126,7 +126,7 @@ Si la Meneuse préfère la méthode plus simple de ne pas prendre en compte si l
 
 ## Boucliers
 
-Les boucliers donnent un atout aux tâches de Défense de Célérité du porteur. IVous devez avoir une main de libre pour pouvoir utiliser un bouclier.
+Les boucliers donnent un atout aux tâches de Défense de Célérité du porteur. Vous devez avoir une main de libre pour pouvoir utiliser un bouclier.
 
 ## Armes
 
@@ -134,7 +134,7 @@ Tous les personnages ne sont pas familiers avec toutes les armes. Les Gueriers s
 
 Les **armes légères** n'infligent que 2 points de dommages, mais elles facilitent les jets d'attaque car elles sont rapides et simples à utiliser. Les armes légères sont ls poings, les pieds, les massues, les couteaux, les hâchettes, les rapières, les petits pistolets, et ainsi de suite. Les armes qui sont particulièrement petites sont des armes légères.
 
-Les **armes mpoyennes** infligent 4 point de dommage. Les armes moyennes incluent les épées, les hâches de bataille, les maces, les arbalètes, les lances, les pistolets, les blasters, et ainsi de suite. La plupart des armes sont moyennes. tout ce qui peut être utilisé à une main (même si c'est souvent utilisé à deux mains comme les bâtons ou les lances) est une arme moyenne.
+Les **armes moyennes** infligent 4 point de dommage. Les armes moyennes incluent les épées, les hâches de bataille, les maces, les arbalètes, les lances, les pistolets, les blasters, et ainsi de suite. La plupart des armes sont moyennes. tout ce qui peut être utilisé à une main (même si c'est souvent utilisé à deux mains comme les bâtons ou les lances) est une arme moyenne.
 
 Les **armes lourdes** infligent 6 points de dommage et elles doivent être utilisées à deux mains pour attaquer. Les armes lorude sont les grandes épées, les grandes hâches, les marteaux de guerre, les halebardes, les arbalètes lourdes, les fusils blaser, et ainsi de suite. Tout ce qui doit être utilisé avec deux mains est une arme lourde.
 
