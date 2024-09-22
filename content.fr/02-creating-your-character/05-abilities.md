@@ -587,7 +587,7 @@ Modifient une capacité existante ou des effets ou paramètres de caractéristiq
 * Avantage de Puissance amélioré
 * Avantage de Stat Amélioré
 * Avantage de Célérité Amélioré
-* Avantage d'Intellect amélioré
+* Avantage d'Intellect Amélioré
 * Bouclier énergisé
 * Briseur de Pierre
 * Capteur amélioré
@@ -2521,6 +2521,8 @@ Vous ne pouvez probablement pas utiliser Déguisement Other pour déguiser une s
 
 **Endurance** : toute durée relative aux actions physiques est soit doublée, soit réduite de moitié, selon ce qui vous convient le mieux. Par exemple, si une personne typique peut retenir sa respiration pendant trente secondes, vous pouvez maintenir la votre pendant une minute. Si une personne typique peut marcher pendant quatre heures sans s'arrêter, vous pouvez le faire pendant huit heures. En termes d'effets nocifs, si un poison paralyse ses victimes pendant une minute, vous êtes paralysé pendant trente secondes. La durée minimale est toujours d'un tour. Facilitateur.
 
+**Endurance du joueur**: S'asseoir et jouer à un jeu pendant douze heures d'affilée n'est pas quelque chose que la plupart des gens peuvent faire, mais vous y arrivez. Une fois après chaque jet de récupération de dix heures, vous pouvez transférer jusqu'à 5 points entre vos pools dans n'importe quelle combinaison, à raison de 1 point par tour. Par exemple, vous pourriez transférer 3 points de Puissance en Célérité et 2 points d'Intellect en Célérité, ce qui prendrait un total de cinq tours. Action.
+
 **Energiser la créature** (6+ points de Puissance) : vous étendez votre capacité d'absorption de l'énergie cinétique à une créature à portée immédiate afin qu'elle puisse également absorber l'énergie des attaques physiques et des impacts pendant une heure. Cette créature, cependant, ne peut pas libérer un excès d'énergie sous forme d'explosion. Pour chaque niveau d'Effort que vous appliquez, vous pouvez augmenter d'une le nombre de cibles que vous affectez. Si vous disposez d'Absorption d'énergie pure ou d'Absorption d'énergie cinétique améliorée, ces capacités sont également dupliquées dans votre cible lorsque vous utilisez Energiser la créature. Action à initier.
 
 **Energiser la foule** (9 points de Puissance) : vous étendez votre capacité Absorb Kinetic Energy à un maximum de trente créatures à courte portée afin qu'elles puissent également absorber l'énergie des attaques physiques et des impacts pendant une heure. Si vous avez Absorber l'énergie pure ou Absorption d'énergie cinétique améliorée, ces créatures peuvent également utiliser ces capacités. Les créatures, cependant, ne peuvent pas libérer un excès d'énergie sous forme d'explosion. Action à initier.
@@ -2741,7 +2743,7 @@ Etant aussi grande, votre forme de bête bénéficie des bonus supplémentaires 
 
 **Furtif**: vous êtes entraîné aux tâches de furtivité et d'initiative. Facilitateur.
 
-**Fusion** : Vous pouvez fusionner vos chiffres et artefacts manifestes avec votre corps. Ces appareils fusionnés fonctionnent comme s'ils étaient d'un niveau supérieur. Facilitateur.
+**Fusion** : Vous pouvez fusionner vos cyphers et artefacts manifestes avec votre corps. Ces appareils fusionnés fonctionnent comme s'ils étaient d'un niveau supérieur. Facilitateur.
 
 **Fussionne avec les Ténèbres** (6 points d'Intellect) : Durant l'heure suivante, vous adoptez certaines caractéristiques d'une ombre grâce à une adaptation fondamentale de votre chair ou d'un appareil que vous avez gardé secret. Votre apparence est une silhouette sombre. Lorsque vous appliquez un niveau d'effort à des tâches de furtivité, vous obtenez un niveau d'effort gratuit sur la tâche. Pendant ce temps, vous pouvez vous déplacer dans les airs à une vitesse d'une courte distance par round, et vous pouvez traverser des barrières solides (même celles qui sont scellées pour empêcher le passage de la lumière ou de l'ombre), mais pas les barrières énergétiques, à un rythme réduit. taux de 1 pied (30 cm) par tour. Vous pouvez percevoir en passant à travers une barrière ou un objet, ce qui vous permet de regarder à travers les murs. En tant qu'ombre, vous ne pouvez pas affecter ou être affecté par la matière normale. De même, vous ne pouvez pas attaquer, toucher ou affecter quoi que ce soit. Cependant, les attaques et les effets qui dépendent de la lumière peuvent vous affecter, et des éclats de lumière soudains peuvent potentiellement vous faire perdre votre prochain tour. Action à initier.
 
@@ -2932,8 +2934,6 @@ L'invisibilité prend fin à la fin de votre prochain tour. Si l'une des créatu
 
 **Joueur**: choisissez n'importe quel style de jeu, comme les jeux de stratégie en temps réel, les jeux de hasard dans le style du poker, les jeux de rôle, etc. Vous pouvez appliquer un atout à une tâche liée au jeu de ce style de jeu une fois entre chaque jet de récupération. Facilitateur.
 
-Joueur's Fortitude/Endurance du joueur: S'asseoir et jouer à un jeu pendant douze heures d'affilée n'est pas quelque chose que la plupart des gens peuvent faire, mais vous y arrivez. Une fois après chaque jet de récupération de dix heures, vous pouvez transférer jusqu'à 5 points entre vos pools dans n'importe quelle combinaison, à raison de 1 point par tour. Par exemple, vous pourriez transférer 3 points de Puissance en Célérité et 2 points d'Intellect en Célérité, ce qui prendrait un total de cinq tours. Action.
-
 **Juggernaut** (5 points de Puissance) : Jusqu'à la fin du tour suivant, vous pouvez vous déplacer à travers des objets solides tels que des portes et des murs. Seuls 2 pieds (60 cm) de bois, 1 pied (30 cm) de pierre ou 6 pouces (15 cm) de métal peuvent arrêter votre mouvement. Facilitateur.
 
 **Juste un peu fou**: vous êtes entraîné aux tâches de défense intellectuelle. Facilitateur.
@@ -2996,7 +2996,7 @@ Joueur's Fortitude/Endurance du joueur: S'asseoir et jouer à un jeu pendant do
 
 **Licence poétique**: Vous êtes entraîné à toutes les interactions sociales, y compris la persuasion, la tromperie et l'intimidation. Vous connaissez également deux langues supplémentaires. Facilitateur.
 
-**Lien d'Objet Amélioré** (5 points d'Intellect) : lorsque vous manifestez l'allié grâce à votre capacité de créature magique liée, il s'agit désormais d'une créature de niveau 4. De plus, la créature gagne une attaque par impulsion qui rend inutilisables tous les artefacts, machines, chiffres manifestes et dispositifs magiques mineurs à courte portée pendant une minute. Après que la créature ait utilisé cette capacité, elle doit se retirer vers son objet pour se reposer pendant trois heures. Facilitateur.
+**Lien d'Objet Amélioré** (5 points d'Intellect) : lorsque vous manifestez l'allié grâce à votre capacité de créature magique liée, il s'agit désormais d'une créature de niveau 4. De plus, la créature gagne une attaque par impulsion qui rend inutilisables tous les artefacts, machines, cyphers manifestes et dispositifs magiques mineurs à courte portée pendant une minute. Après que la créature ait utilisé cette capacité, elle doit se retirer vers son objet pour se reposer pendant trois heures. Facilitateur.
 
 **Lien d'objet** (3 points d'Intellect) : Lorsque vous manifestez l'allié magique grâce à votre capacité de Créature magique liée, il peut se déplacer jusqu'à 300 pieds (90 m) de vous avant d'être renvoyé vers son objet lié. En outre, cela peut rester manifeste pendant une période prolongée, jusqu'à la fin de votre prochain jet de récupération de dix heures. Enfin, si vous donnez votre permission, l'allié magique peut sortir et pénétrer dans l'objet lié de sa propre initiative. Facilitateur.
 
@@ -3135,7 +3135,7 @@ Dans les campagnes où les personnages peuvent voyager dans des dimensions paral
 
 **Modifier la Puissance de l'Artefact** (6 points d'Intellect) : Vous ajoutez de manière permanente +1 au niveau d'un artefact jusqu'au niveau 5. La difficulté de cette tâche est égale au niveau supérieur modifié de l'artefact. Si la tâche échoue, l'artefact effectue un jet d'épuisement et n'avance pas en niveau. Une fois modifié, l'artefact ne peut plus être amélioré de la même manière. Action.
 
-**Modifier les Cyphers**: vous pouvez prendre deux cyphers manifestes et truquer rapidement un nouveau cypher manifeste du même niveau que le cypher de niveau le plus bas. Vous déterminez la fonction du nouveau cypher, mais il doit être celui d'un cypher que vous avez utilisé auparavant (mais pas nécessairement celui que vous avez déjà construit). Le nouveau chiffre est un chiffre capricieux, comme ceux créés avec Toujours bricoler. Les deux chiffres originaux sont consommés au cours de ce processus. Cette capacité ne fonctionne pas si un ou plusieurs des chiffres originaux sont des chiffres capricieux. Action.
+**Modifier les Cyphers**: vous pouvez prendre deux cyphers manifestes et truquer rapidement un nouveau cypher manifeste du même niveau que le cypher de niveau le plus bas. Vous déterminez la fonction du nouveau cypher, mais il doit être celui d'un cypher que vous avez utilisé auparavant (mais pas nécessairement celui que vous avez déjà construit). Le nouveau chiffre est un chiffre capricieux, comme ceux créés avec Toujours bricoler. Les deux cyphers originaux sont consommés au cours de ce processus. Cette capacité ne fonctionne pas si un ou plusieurs des cyphers originaux sont des cyphers capricieux. Action.
 
 **Modèle prédictif** (2+ points d'Intellect) : Si vous avez utilisé l'équation prédictive sur une créature, un objet ou un lieu au cours des derniers jours, vous pouvez apprendre un fait aléatoire sur le sujet qui est pertinent pour un sujet que vous désignez. Si vous possédez également la capacité de saveur magique Prémonition, une utilisation de l'une ou l'autre capacité vous accorde deux faits aléatoires mais liés sur le sujet. De plus, vous pouvez utiliser Modèle Prédictif sur le même sujet plusieurs fois (même si vous avez appris le niveau d'une créature), mais à chaque fois que vous le faites, vous devez appliquer un niveau d'Effort supplémentaire par rapport à votre utilisation précédente. Action.
 
@@ -3250,6 +3250,8 @@ La créature que vous habitez peut utiliser votre Avantage d'Intellect à la pla
 Lorsque vous effectuez une action, vous utilisez le corps de la créature pour effectuer cette action si elle le permet. Action à initier.
  Un personnage qui utilise Passager psychique devrait envisager de cacher son corps réel quelque part à l'abri des regards indiscrets et des bêtes sauvages, sinon il pourrait retourner dans une situation malheureuse.
 
+**Passer à travers** (2 points de puissance) : Vous ignorez les effets du terrain lorsque vous vous déplacez pendant une heure. Facilitateur.
+
 **Passer l'information au suivant** (3 points d'intelligence) : vous pouvez transmettre ce que vous avez appris. Lorsque vous donnez à un autre personnage une suggestion impliquant sa prochaine action qui n'est pas une attaque, son action est facilitée pendant une minute. Action.
 
 **Penser à l'avance** (points d'intelligence variables) : Vous produisez un remède qui supprime une condition négative parce que vous avez déjà passé beaucoup de temps à réfléchir à l'avance et à vous préparer à votre situation actuelle. Par exemple, si un autre personnage est empoisonné, vous produisez un antidote, ou s'il est aveuglé, vous produisez un baume qui lui rend la vue (en supposant qu'il n'a pas été aveuglé parce que ses yeux ont été détruits). Le coût en Intellect pour l'utilisation de cette capacité est égal au niveau de l'effet ou de la créature qui a provoqué la condition négative. Action.
@@ -3316,7 +3318,7 @@ Lorsque vous effectuez une action, vous utilisez le corps de la créature pour e
 
 **Plus rapide que la plupart**: l'expérience a affiné vos temps de réaction, car ceux qui agissent en premier obtiennent l'avantage dans la plupart des situations. Vous êtes entraîné aux tâches liées à l'initiative, à la détection de modèles sous-jacents et à la résolution d'énigmes. Facilitateur.
 
-**Poche de Phase** (2+ points d'Intellect) : Vous vous connectez pendant une heure à un petit espace déphasé et qui bouge avec vous. Vous pouvez accéder à cet espace comme s'il s'agissait d'une poche ou d'un sac pratique, mais personne d'autre ne peut percevoir ou accéder à l'espace à moins d'avoir la capacité d'interagir avec les zones transdimensionnelles. L'espace peut contenir jusqu'à 1 pied cube. L'espace fait partie de vous, vous ne pouvez donc pas l'utiliser pour transporter plus de chiffres que votre limite, un chiffre de détonation activé à l'intérieur de l'espace vous nuit, et ainsi de suite. Lorsque la connexion prend fin, tout ce qui se trouve dans l'espace tombe. Pour chaque 2 points d'Intellect supplémentaires dépensés, la poche dure une heure supplémentaire. Facilitateur.
+**Poche de Phase** (2+ points d'Intellect) : Vous vous connectez pendant une heure à un petit espace déphasé et qui bouge avec vous. Vous pouvez accéder à cet espace comme s'il s'agissait d'une poche ou d'un sac pratique, mais personne d'autre ne peut percevoir ou accéder à l'espace à moins d'avoir la capacité d'interagir avec les zones transdimensionnelles. L'espace peut contenir jusqu'à 1 pied cube. L'espace fait partie de vous, vous ne pouvez donc pas l'utiliser pour transporter plus de cyphers que votre limite, un chiffre de détonation activé à l'intérieur de l'espace vous nuit, et ainsi de suite. Lorsque la connexion prend fin, tout ce qui se trouve dans l'espace tombe. Pour chaque 2 points d'Intellect supplémentaires dépensés, la poche dure une heure supplémentaire. Facilitateur.
 
 **Poids du monde** (6+ points d'Intellect) : Vous pouvez augmenter considérablement le poids d'une cible. La cible est tirée au sol et ne peut pas bouger physiquement par ses propres moyens pendant une minute. La cible doit être à courte portée. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour affecter des créatures supplémentaires (une par niveau d'Effort). Action.
 
@@ -3551,9 +3553,9 @@ Vous pouvez activer cette capacité dans le cadre de l'action visant à créer u
 
 **Réparer la chair** (3 points d'Intellect) : Lorsque vous touchez un personnage affaibli ou affaibli, vous pouvez le faire monter d'un cran sur la piste des dégâts (par exemple, un PC affaibli devient affaibli et un autre affaibli devient sain). Alternativement, si vous utilisez cette capacité sur un PJ pendant un repos, vous lui accordez un bonus de +2 à son jet de récupération. Action.
 
-**Répertoire magique** : Le nombre de chiffres subtils que vous pouvez supporter en même temps augmente de deux. Si vous passez une heure à préparer votre magie, vous pouvez remplir n'importe lequel de vos emplacements de cyphers ouverts avec des cyphers subtils choisis au hasard par le MJ (cette heure peut faire partie d'une action de récupération d'une heure ou de dix heures si vous êtes éveillé pendant toute la durée de la magie). temps). Dans le cadre de ce processus de préparation, vous pouvez supprimer n'importe quel nombre de cyphers subtils que vous portez pour faire place à des chiffres plus subtils. Facilitateur.
+**Répertoire magique** : Le nombre de cyphers subtils que vous pouvez supporter en même temps augmente de deux. Si vous passez une heure à préparer votre magie, vous pouvez remplir n'importe lequel de vos emplacements de cyphers ouverts avec des cyphers subtils choisis au hasard par le MJ (cette heure peut faire partie d'une action de récupération d'une heure ou de dix heures si vous êtes éveillé pendant toute la durée de la magie). temps). Dans le cadre de ce processus de préparation, vous pouvez supprimer n'importe quel nombre de cyphers subtils que vous portez pour faire place à des cyphers plus subtils. Facilitateur.
 
-Si un personnage possède un répertoire magique, le MJ doit donner au PJ des opportunités fréquentes d'acquérir de nouveaux chiffres subtils, que ce soit par préparation ou en les obtenant automatiquement comme expliqué dans le chapitre Cyphers.
+Si un personnage possède un répertoire magique, le MJ doit donner au PJ des opportunités fréquentes d'acquérir de nouveaux cyphers subtils, que ce soit par préparation ou en les obtenant automatiquement comme expliqué dans le chapitre Cyphers.
 
 **Répertoire étendu**: le nombre de cyphers subtils que vous pouvez porter en même temps augmente de un. Facilitateur.
 
@@ -3842,7 +3844,7 @@ Facilitateur.
 
 **Toucher perturbateur** (1+ points de Puissance) : vous pouvez transformer votre Sprint de Phase en une attaque de mêlée en effleurant délibérément une autre créature pendant que vous courez. Lorsque vous le faites, le contact libère une violente explosion d'énergie qui inflige 2 points de dégâts à la cible (ignore l'Armure). Que vous frappiez ou ratiez, votre mouvement (et votre tour) se termine immédiatement, ce qui vous place à distance immédiate de votre cible. Si vous appliquez Effort pour augmenter les dégâts plutôt que pour faciliter la tâche, vous infligez 2 points de dégâts supplémentaires par niveau d'Effort (au lieu de 3 points) ; la cible subit 1 point de dégâts même si vous échouez au jet d'attaque. Facilitateur.
 
-**Toujours bricoler**: si vous disposez d'outils et de matériel et que vous transportez moins de chiffres que votre limite, vous pouvez créer un chiffre manifeste si vous avez une heure à consacrer. Le nouveau chiffre est aléatoire et toujours 2 niveaux inférieurs à la normale (minimum 1). C'est aussi capricieux et fragile. C'est ce qu'on appelle des chiffres capricieux. Si vous en donnez un à quelqu'un d'autre, il s'effondre immédiatement, inutile. Action à initier ; une heure pour terminer.
+**Toujours bricoler**: si vous disposez d'outils et de matériel et que vous transportez moins de cyphers que votre limite, vous pouvez créer un chiffre manifeste si vous avez une heure à consacrer. Le nouveau chiffre est aléatoire et toujours 2 niveaux inférieurs à la normale (minimum 1). C'est aussi capricieux et fragile. C'est ce qu'on appelle des cyphers capricieux. Si vous en donnez un à quelqu'un d'autre, il s'effondre immédiatement, inutile. Action à initier ; une heure pour terminer.
 
 **Toujours comme une statue** (5 points de Puissance) : En vous appuyant sur la Puissance de votre Corps de Golem, vous vous figez sur place, enfouissant votre essence au plus profond de votre noyau de pierre. Pendant ce temps, vous perdez toute mobilité ainsi que la capacité d'entreprendre des actions physiques. Vous ne pouvez pas sentir ce qui se passe autour de vous et aucun temps ne semble s'écouler pour vous. Tant que vous êtes toujours en tant que statue, vous gagnez +10 en armure contre les dégâts de toutes sortes. Dans des circonstances normales, vous retrouvez automatiquement un état d'éveil et une mobilité normale un jour plus tard. Si un allié en qui vous avez confiance vous secoue assez fort (avec un coût minimum de 2 points de Puissance), vous vous réveillez plus tôt. Action à initier.
 
@@ -3944,7 +3946,7 @@ Si vous disposez déjà de la téléportation courte lorsque vous sélectionnez 
 
 **Utilisation de l'environnement** (4 points d'Intellect) : Vous trouvez un moyen d'utiliser l'environnement à votre avantage lors d'un combat. Pendant les dix minutes suivantes, les jets d'attaque et les jets de défense de Célérité sont facilités. Action à initier.
 
-**Utilisation experte des cyphers**: Vous pouvez utiliser trois chiffres à la fois. Facilitateur.
+**Utilisation experte des cyphers**: Vous pouvez utiliser trois cyphers à la fois. Facilitateur.
 
 **Utilisation supplémentaire** (3 points d'Intellect) : Vous tentez d'obtenir une utilisation supplémentaire d'un artefact sans déclencher de jet d'épuisement. La difficulté de la tâche est égale au niveau de l'artefact. Si vous avez fabriqué l'artefact, vous gagnez un atout pour la tâche. En cas d'échec, le jet d'épuisement se déroule normalement. Vous pouvez également essayer d'utiliser un cypher manifeste sans le graver, mais la tâche est entravée. Une tentative infructueuse d'obtenir une utilisation supplémentaire d'un cypher manifeste le détruit avant qu'il ne puisse produire l'effet souhaité. Action.
 

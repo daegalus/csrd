@@ -22,9 +22,9 @@ Au final, des options plus fondamentales de personnalisation sont fournies à la
 
 ## Intrusion de Joueur
 
-Une intrusion de joueur est quand un joueur choisi d'altérer quelque chose dans la campagne, rendant les choses plus facile pour le PJ. De manièr conceptuelle, c'est l'inverse d'un intrusion de la MJ qui donne au joueur des points d'expérience en introduisant une complication inatendue pour le personnage. Dans le cas du joueur, ce dernier dépense un 1 XP et présente une solution à un problème ou une complication. Ce que l'intrusion du joueur peut faire est en général introduire un changement du monde ou des circonstances en cours, plutôt que de changer directement le personnage. Par exemple, une intrusion qui propose que le cypher qui vient d'être utilisé a une charge supplémentaire, est appropriée, mais une intrusion qui propose que le personnage est soigné ne l'est pas. Si le joueur n'a pas d'XP à dépenser, il ne peut pas utiliser d'intrusion de joueur.
+Une intrusion de joueur est quand un joueur choisi d'altérer quelque chose dans la campagne, rendant les choses plus facile pour le PJ. De manièr conceptuelle, c'est l'inverse d'un intrusion de la Meneuse qui donne au joueur des points d'expérience en introduisant une complication inatendue pour le personnage. Dans le cas du joueur, ce dernier dépense un 1 XP et présente une solution à un problème ou une complication. Ce que l'intrusion du joueur peut faire est en général introduire un changement du monde ou des circonstances en cours, plutôt que de changer directement le personnage. Par exemple, une intrusion qui propose que le cypher qui vient d'être utilisé a une charge supplémentaire, est appropriée, mais une intrusion qui propose que le personnage est soigné ne l'est pas. Si le joueur n'a pas d'XP à dépenser, il ne peut pas utiliser d'intrusion de joueur.
 
-Quelques exemples d'intrusion de joueur sont proposées pour chaque type. Cela dit, toutes les intrusions de joueur listées ici ne sont pas appropriées à chaque situation. Le MJ peut autoriser les joueurs à proposer d'autres suggestions d'intrusion de joueur, mais la MJ a le dernier mot pour savoir si une intrusion est appropriée en fonction du type de personnage et de la situation. Si la MJ refuse l'intrusion, le joueur ne dépense pas de XP, et l'intrusion n'a simplement pas lieu.
+Quelques exemples d'intrusion de joueur sont proposées pour chaque type. Cela dit, toutes les intrusions de joueur listées ici ne sont pas appropriées à chaque situation. Le MJ peut autoriser les joueurs à proposer d'autres suggestions d'intrusion de joueur, mais la Meneuse a le dernier mot pour savoir si une intrusion est appropriée en fonction du type de personnage et de la situation. Si la Meneuse refuse l'intrusion, le joueur ne dépense pas de XP, et l'intrusion n'a simplement pas lieu.
 
 Utiliser une intrusion ne requiert pas du personnage d'utiliser une action pour l'activer. Une intrusion de joueur survient tout simplement.
 
@@ -48,19 +48,19 @@ Les tâches de défense surviennent quand un joueur fait un jet de dé pour emp�
 
 **Moderne/Horreur/Romance:** Officier de police, soldat, gardien, détective, vigile, athlète
 
-**Science fiction:** officier de sécurit, guerrier, homme de troupe, soldat, mercenaire
+**Science fiction:** officier de sécurité, guerrier, homme de troupe, soldat, mercenaire
 
 **Superhero/Post-Apocalyptique:** héro, brique, cogneur
 
 Vous êtes un bon allié à avoir dans un combat. Vous savez comment utiliser des armes et vous défendre.En fonction du genre et de la campagne, cela pourrait signifier de porter une épée et un bouclier dans une arêne de gladiateurs, un AK-47 et des grenades en bandoulière dans la jungle, ou un fusil blaster et une armure mécanique dans l'exploration d'une planète lointaine.
 
-**Rôle individuel:** Les Guerriers sont orienté sur le physique et l'action. ils auront plus l'habitude de surmonter un péril en utilisant la force que d'autre moyen, et ils prennent souvent le chemin le plus court vers leur objectif.
+**Rôle individuel:** Les Guerriers sont orienté sur le physique et l'action. ils auront plus l'habitude de surmonter un péril en uincreases to impressive levels. At higher tiers, they can often take on groups of foes by themselves or stand toe to toe with anyone.tilisant la force que d'autre moyen, et ils prennent souvent le chemin le plus court vers leur objectif.
 
-**Rôle en Groupe:** Les guerriers subissent et infligent généralement le plus de dégâts dans une situation dangereuse. Il leur incombe souvent de protéger les autres membres du groupe contre les menaces. Cela signifie parfois que les guerriers assument également des rôles de commandement, du moins au combat et dans d’autres moments de danger.
+**Rôle en Groupe:** Les guerriers subissent et infligent généralement le plus de dégâts dans une situation dangereuse. Il leur incombe souvent de protéger les autres membres du groupe contre les menaces. Cela signifie parfois que les guerriers assument également des rôles de commandement, du moins au combat et dans d'autres moments de danger.
 
 **Rôle en Société:** Les Guerriers ne sont pas toujours des soldats ou des mercenaires. N'importe qui est est toujours prêt pour la violence, ou même la violence potentielle, peut être un Guerrier dans un sens génstat_details = models.ForeignKey("I18NCharField50", on_delete=models.SET_NULLnull=True)éral. Cela inclut les gardes, les gardiens, les officiers de police, les marins, ou les personnes dans d'autres rôle ou profession qui savent comment se défendre avec talent.
 
-**Guerier Expérimentés:** Alors que les Gueriers gagne en expérience, leur compétence dans les batailles, que ce soit en se défendant ou en infligeant des dommages, augment à un rang impressionant. A un rang supérieur, ils peuvent souvent se prendre un groupe d'aversaires tout seul ou affronter sur son terrain n'importe qui.
+**Guerier Expérimentés:** Alors que les Gueriers gagne en expérience, leur compétence dans les batailles, que ce soit en se défendant ou en infligeant des dommages, augmente à un rang impressionant. A un rang supérieur, ils peuvent souvent se prendre un groupe d'aversaires tout seul ou affronter sur son terrain n'importe qui.
 
 ### Relation avec l'histoire passée du Guerrier
 
@@ -91,7 +91,7 @@ Votre type vous aide à déterminer la relation que vous avez avec la campagne e
 
 ### Intrusions de Joueur pour un Guerrier
 
-Vus pouvez dépenser un XP pour utiliser une des ces intrusions de joueur, à condition que la situation soit appropriée et que la MJ soit d'accord.
+Vus pouvez dépenser un XP pour utiliser une des ces intrusions de joueur, à condition que la situation soit appropriée et que la Meneuse soit d'accord.
 
 **Position Parfaite:** Vous combattez au moins trois adversaires et chacun d'eux se trouve exactement à la bonne position pour vous pour faire un mouvement pour lequel vous vous êtes entrainé il y a longtemps, vous permettant de les attaquer tous les trois en une seule action. Faites un jet d'attaque pour chaque adversaire. Vous restez limité par la quantité d'Effort que vous pouvez allouer en une seule action.
 
@@ -126,7 +126,7 @@ Les Guerriers de Premier Rang ont les capacités suivantes:
 
 **Equipment au départ:** Des vêtements appropriés et deux armes de votre choix, ainsi que un objet cher, deux objets modérement chers, et jusqu'à quatre objets peu chers.
 
-**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalogue.
+**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins queup to four inexpensive items sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalogue.
 
 * Avantage de Stat Amélioré
 * Choc
@@ -237,7 +237,7 @@ Pour son focus, Ray choisit [Maîtrise l'Armement](04-focus.md#maîtrise-larmeme
 
 Grâce à son Focus, il inflige également 1 point de dégâts supplémentaire avec l'arme de son choix. Il inflige désormais 6 points de dégâts avec sa lame. Le personnage de Ray est un combattant mortel, commençant probablement le jeu avec une réputation de combattant au couteau.
 
-Pour son arc de personnage, Ray choisit Defeat a Foe. Cet ennemi, décide-t-il, n’est autre qu’un membre de sa compagnie qui était autrefois un ami mais qui est devenu un voyou.
+Pour son arc de personnage, Ray choisit Defeat a Foe. Cet ennemi, décide-t-il, n'est autre qu'un membre de sa compagnie qui était autrefois un ami mais qui est devenu un voyou.
 {{< /hint >}}
 
 ## Adepte
@@ -250,7 +250,7 @@ Pour son arc de personnage, Ray choisit Defeat a Foe. Cet ennemi, décide-t-il, 
 
 **Superhero/Post-Apocalyptic:** mage, sorcier, porteur de pouvoir, maître, psion, telepathe
 
-Vous maîtrisez des pouvoirs ou des capacités qui sont au-delà de l'expérience, la compréhension et quelque fois les croyances de la plupart des gens. En fonction de la capmagne, ces pouvoirs peuvent être magiques, psychiques, venant de mutation, ou juste d'une grande variété d'objets intriguants. (le terme "Magie" désigne ici quelque chose d'assez vague. C'est un terme générique pour toutes les choses fantastiques, et sans doute surnaturelles, que votre personnage peut faire et que d'autres ne peuvent pas. Cela peut être en fait une manifestation d'objets technologiques, d'esprits invoqués, de mutations, de pouvoirs psi, de la nanotechnologie, ou de n'importe quelle autre provenance.)
+Vous maîtrisez des pouvoirs ou des capacités qui sont au-delà de l'expérience, la compréhension et quelque fois les croyances de la plupart des gens. En fonction de la campagne, ces pouvoirs peuvent être magiques, psychiques, venant de mutation, ou juste d'une grande variété d'objets intriguants. (le terme "Magie" désigne ici quelque chose d'assez vague. C'est un terme générique pour toutes les choses fantastiques, et sans doute surnaturelles, que votre personnage peut faire et que d'autres ne peuvent pas. Cela peut être en fait une manifestation d'objets technologiques, d'esprits invoqués, de mutations, de pouvoirs psi, de la nanotechnologie, ou de n'importe quelle autre provenance.)
 
 **Rôle Individuel:** Les Adeptes sont en général des personnes assez intelligentes. ils prennent souvent le temps de réfléchir avant d'agir et dépendent beaucoup de leurs capacités surnaturelles.
 
@@ -264,9 +264,9 @@ Vous maîtrisez des pouvoirs ou des capacités qui sont au-delà de l'expérienc
 Les Adeptes sont quasiment à chaque fois les représentants du paranormal ou des sur-humains d'une certain façon, sorciers, psy, ou quelque chose d'approchant. Si la campagne dans laquelle vous jouez n'a rien de tout ça, un Adepte pourrait être un charlatan qui imite les capacités avec des trucs et des accessoires dissimulés, ou un personnage adorant les gadgets, avec une ceinture d'outils pleine d'accessoires. Ou alors c'est une campagne qui peut n'avoir aucun Adepte.
 {{< /hint >}}
 
-### Intrusions de Joueur our Adeptes
+### Intrusions de Joueur pour Adeptes
 
-Wuand vous jouez un Adepte, vous pouvez dépenser un point d'expérience pour utiliser une des intrusions de joueur ci-dessous, du moment que la situation s'y prête que je la MJ soit d'accord.
+Quand vous jouez un Adepte, vous pouvez dépenser un point d'expérience pour utiliser une des intrusions de joueur ci-dessous, du moment que la situation s'y prête que la Meneuse soit d'accord.
 
 **Disfonctionnement Avantageux:** Un objet utilisé contre vous disfonctionne. Cela peut blesser son utilisateur ou l'un de ses alliés pour un round, ou cela déclenche un effet secondaire dramatique et distrayant pour quelques rounds.
 
@@ -296,7 +296,7 @@ Votre type vous aide à déterminer la relation que vous avez avec la campagne e
 | 4     | Alors que vous voyagiez seul, vous avez sauvé la vie d'une personne de pouvoir. Elle a une dette envers vous.                                                                      |
 | 5     | Votre mère était une Adepte puissante tant qu'elle vivait, toujours prête à aider les autres autour d'elle. Ces derniers ont une bonne image de vous mais ils attendent aussi beaucoup de vous.                          |
 | 6     | Vous devez de l'argent à de nombreuses personnes mais vous n'avez pas les moyens de payer vos dettes.                                                                                   |
-| 7     | Vous avez échoué lamentablement dans vos premières études avec votre maître et vous vous avez décidé de vous passer d'enseignant à partir de maintenat.                                                                   |
+| 7     | Vous avez échoué lamentablement dans vos premières études avec votre maître et vous avez décidé de vous passer d'enseignant à partir de maintenant.                                                                   |
 | 8     | Vous avez appris beaucoup plus vite que ce à quoi s'attendaient vos professeurs. Les pouvoirs en place l'ont noté et vous portent leur attention.                            |
 | 9     | Vous avez tué en état de légitime défense un criminel bien connu, gagnant ainsi le respect de beaucoup mais aussi l'innimité de certains individus dangereux.                                                  |
 | 10    | Vous avez été formé en tant que Guerrier, mais vos prédilections d'Adepte ont fini par vous conduire sur une autre voie. Vos anciens compagnons ne vous comprennent pas même si ils vous respectent. |
@@ -327,7 +327,7 @@ Les Adeptes de Premier Rang disposent des capacités suivantes :
 
 **Armes:** Vous pouvez utiliser des armes légères sans pénalité. Vous avez une inaptitude pour les armes moyennes et lourdes; vos attaques avec ces armes sont atténuées.
 
-**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalogue. (Les capacités des Adeptes nécessite au moins une main libre à moins que la MJ en décide autrement.)
+**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalogue. (Les capacités des Adeptes nécessite au moins une main libre à moins que la Meneuse en décide autrement.)
 
 * Assaut Magique
 * Briser
@@ -432,7 +432,7 @@ Pour son arc de personnage, Jen choisit Aid a Friend. Elle décide que lorsque s
 {{< /hint >}}
 
 {{< hint info >}}
-Les MJ sont toujours libres de présélectionner les capacités spéciales d'un type à un rang donné pour renforcer la campagne. Dans le cadre fantastique de la sorcière de Jen, la MJ aurait pu dire que tous les sorciers (adeptes) commencent par l'entraînement magique comme l'une de leurs capacités de rang 1. Cela ne rend pas le personnage moins puissant ou spécial, mais cela en dit long sur son rôle dans le monde et ses attentes dans le jeu.
+Les MJ sont toujours libres de présélectionner les capacités spéciales d'un type à un rang donné pour renforcer la campagne. Dans le cadre fantastique de la sorcière de Jen, la Meneuse aurait pu dire que tous les sorciers (adeptes) commencent par l'entraînement magique comme l'une de leurs capacités de rang 1. Cela ne rend pas le personnage moins puissant ou spécial, mais cela en dit long sur son rôle dans le monde et ses attentes dans le jeu.
 {{< /hint >}}
 
 ## Explorateur
@@ -443,9 +443,9 @@ Les MJ sont toujours libres de présélectionner les capacités spéciales d'un 
 
 **Science fiction:** explorateur, aventurier, spécialiste planétaire, xénobiologiste, pilote
 
-**Superhero/Post-Apocalyptic:** aventurier, justicier
+**Superhéro/Post-Apocalyptique:** aventurier, justicier
 
-Vous êtes une personne portée sur l'action et les capacités physiques, faisant face bravement à l'inconnu. Vous avez voyagé dans des endroits exotiques et dangereux et découvert de nouvelles choses. Celasignifie que vous êtes physique mais ayant aussi accumulé des connaissances.
+Vous êtes une personne portée sur l'action et les capacités physiques, faisant face bravement à l'inconnu. Vous avez voyagé dans des endroits exotiques et dangereux et découvert de nouvelles choses. Cela signifie que vous êtes physique mais ayant aussi accumulé des connaissances.
 
 **Rôle Individuel:**
 
@@ -453,13 +453,13 @@ Vous êtes une personne portée sur l'action et les capacités physiques, faisan
 
 **Rôle en Groupe:** Les Explorateurs travaillent quelque fois seuls mais ils opérent souvent en équipe avec d'autres personnages. L'Explorateur montre souvent la voie, en suivant la piste. Toutefois, il s'arrêtent pour analyser n'importe quoi d'intriguant sur lequel ils ont trébuché.
 
-**Rôle en Société:** Tous les explorateurs ne sont pas en train de se promener dans la nature ou de fouiller dans une vieille ruine. Parfois, un explorateur est un enseignant, un scientifique, un détective ou un journaliste d'investigation. Quoi qu’il en soit, un explorateur relève courageusement de nouveaux défis et rassemble des connaissances à partager avec les autres.
+**Rôle en Société:** Tous les explorateurs ne sont pas en train de se promener dans la nature ou de fouiller dans une vieille ruine. Parfois, un explorateur est un enseignant, un scientifique, un détective ou un journaliste d'investigation. Quoi qu'il en soit, un explorateur relève courageusement de nouveaux défis et rassemble des connaissances à partager avec les autres.
 
-**Explorateur Avancé:** Les Explorateurs de rang supérieur ont plus de compétences, quelques capacités de combat, et un certain nombre de capacités qui leur permet de faire face au danger. En résumé, ils deviennent de plus en plus équilibrés, capables de relever n’importe quel défi.
+**Explorateur Avancé:** Les Explorateurs de rang supérieur ont plus de compétences, quelques capacités de combat, et un certain nombre de capacités qui leur permet de faire face au danger. En résumé, ils deviennent de plus en plus équilibrés, capables de relever n'importe quel défi.
 
 ### Intrusions de Joueur d'Explorateurs
 
-Quand vous jouez un Explorateur, vous pouvez dépenser 1 XP pour utiliser l'une des intrusions de joueur ci-dessous, à condition que la situation est appropriée et que la MJ soit d'accord.
+Quand vous jouez un Explorateur, vous pouvez dépenser 1 XP pour utiliser l'une des intrusions de joueur ci-dessous, à condition que la situation est appropriée et que la Meneuse soit d'accord.
 
 **Dysfonctionnement Opportun:** Un piège ou un objet dangereux dysfonctionne avant qu'il puisse vous affecter.
 
@@ -483,14 +483,14 @@ Votre type vous aide à déterminer la relation que vous avez avec la campagne e
 
 | `d20` | Historique                                                                                                                                 |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1     | Vous étiez un athlète vedette du lycée. Vous êtes toujours en pleine forme, mais c’était les jours de gloire, mec.                         |
+| 1     | Vous étiez un athlète vedette du lycée. Vous êtes toujours en pleine forme, mais c'était les jours de gloire, mec.                         |
 | 2     | Votre frère est le chanteur d'un groupe très populaire.                                                                                    |
 | 3     | Vous avez fait un certain nombre de découvertes au cours de vos explorations, mais toutes les opportunités de les exploiter ne se sont pas encore concrétisées. |
 | 4     | Vous étiez flic, mais vous avez abandonné après avoir été confronté à la corruption au sein de la police.                                  |
 | 5     | Vos parents étaient missionnaires, vous avez donc passé une grande partie de votre jeune vie à voyager dans des endroits exotiques.        |
 | 6     | Vous avez servi dans l'armée avec honneur.                                                                                                 |
 | 7     | Vous avez reçu l'aide d'une organisation secrète qui a financé vos études. Maintenant, ils semblent vouloir beaucoup plus de votre part.   |
-| 8     | Vous avez fréquenté une université prestigieuse grâce à une bourse d’études sportives, mais vous avez excellé en classe ainsi que sur le terrain. |
+| 8     | Vous avez fréquenté une université prestigieuse grâce à une bourse d'études sportives, mais vous avez excellé en classe ainsi que sur le terrain. |
 | 9     | Votre meilleur ami de jeunesse est désormais un membre influent du gouvernement.                                                           |
 | 10    | Vous étiez enseignant. Vos élèves se souviennent de vous avec tendresse.                                                                   |
 | 11    | Vous avez travaillé comme petit agent criminel jusqu'à ce que vous soyez arrêté et que vous passiez un certain temps en prison, après quoi vous avez essayé d'aller droit au but. |
@@ -516,7 +516,7 @@ Explorateurs de Premier Rang ont les capacités suivantes:
 
 **Utilisation de Cypher:** Vous pouvez porter deux cyphers en même temps.
 
-**Equipment au départ:** Des vêtements appropriés et l'arme de votre choix, ainsi que deux objets chers, deux objets modérement chers, et quatre objets peu chers.
+**Equipment au départ:** Des vêtements appropriés et l'arme de votre choix, ainsi que deux objets chers, deux objets modérement chers, et jusqu'à quatre objets peu chers.
 
 **Armes:** Vous pouvez utiliser des armes légères et moyennes sans pénalité. Vous avez une inaptitude pour les armes lourdes; vos attaques avec des armes lourdes sont attténuées.
 
@@ -607,7 +607,7 @@ Choisissez trois Capacités ci-dessous (ou d'un rang inférieur) à ajouter à v
 * Lire les signes
 * Pas subtiles
 
------
+-----Quelqu'un essaie de se faire passer pour vous, en utilisant votre identité, souvent à des fins néfastes. Vous n'avez jamais rencontré le coupable, mais vous aimeriez certainement le rencontrer.
 
 ### Explorateur de Cinquième Rang
 
@@ -675,19 +675,19 @@ Vous êtes doué avec les mots et bon avec les gens. Vous parlez pour vous sorti
 
 **Rôle de Groupe:** L'émissaire est souvent le visage du groupe, celui qui parle au nom de tous et négocie avec les autres. Le combat et l'action ne sont pas les points forts d'un Émissaire, c'est pourquoi d'autres personnages doivent parfois défendre l'Émissaire en cas de danger.
 
-**Rôle en Société:** Les émissaires sont souvent des dirigeants politiques ou religieux. Mais il s’agit tout aussi souvent d’escrocs ou de criminels.
+**Rôle en Société:** Les émissaires sont souvent des dirigeants politiques ou religieux. Mais il s'agit tout aussi souvent d'escrocs ou de criminels.
 
 **Émissaires Avancés:** Les émissaires de rang supérieur utilisent leurs capacités pour contrôler et manipuler les gens ainsi que pour aider et nourrir leurs amis. Ils peuvent parler pour se sortir du danger et même utiliser leurs mots comme des armes.
 
 ### Intrusions de Joueur pour les Émissaires
 
-Quand vous jouez un Émissaire, vous pouvez dépenser 1 XP pour utiliser l'une des intrusions de joueur ci-dessous, à condition que la situation est appropriée et que la MJ soit d'accord.
+Quand vous jouez un Émissaire, vous pouvez dépenser 1 XP pour utiliser l'une des intrusions de joueur ci-dessous, à condition que la situation est appropriée et que la Meneuse soit d'accord.
 
 **PNJ Amical:** Un PNJ que vous ne connaissez pas, quelqu'un que vous ne connaissez pas très bien, ou quelqu'un que vous connaissez mais qui n'a pas été particulièrement amical dans le passé, choisit de vous aider, sans nécessairement expliquer pourquoi. Peut-être qu'ils vous demanderont une faveur en retour par la suite, en fonction des ennuis qu'ils se donnent.
 
 **Suggestion Parfaite:** Un suivant ou un autre PNJ déjà amical suggère un plan d'action concernant une question urgente, un problème ou un obstacle auquel vous êtes confronté.
 
-**Don Inatendu:** Un PNJ vous remet un cadeau physique auquel vous ne vous attendiez pas, qui aide à apaiser la situation si les choses semblent tendues, ou vous fournit un nouvel aperçu pour comprendre le contexte de la situation s'il y a quelque chose que vous ne parvenez pas à comprendre ou à saisir. .
+**Don Inatendu:** Un PNJ vous remet un cadeau physique auquel vous ne vous attendiez pas, qui aide à apaiser la situation si les choses semblent tendues, ou vous fournit un nouvel aperçu pour comprendre le contexte de la situation s'il y a quelque chose que vous ne parvenez pas à comprendre ou à saisir.
 
 ### Réserve pour un Émissaire
 
@@ -705,26 +705,26 @@ Votre type vous aide à déterminer la relation que vous avez avec la campagne e
 
 | `d20` | Historique                                                                                                                                                 |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | L’un de vos parents était un artiste célèbre dans ses premières années et espérait que vous excelleriez dans le même milieu.                                       |
+| 1     | L'un de vos parents était un artiste célèbre dans ses premières années et espérait que vous excelleriez dans le même milieu.                                       |
 | 2     | Lorsque vous étiez adolescent, un de vos frères et sœurs a disparu et est présumé mort. Le choc a déchiré votre famille, et c'est quelque chose dont vous ne vous êtes jamais remis. |
 | 3     | Vous avez été intronisé dans une société secrète qui prétend détenir et protéger des connaissances ésotériques opposées aux forces du mal.                                    |
 | 4     | Vous avez perdu un de vos parents à cause de l'alcoolisme. Ils sont peut-être encore en vie, mais vous auriez du mal à trouver le pardon.                                        |
 | 5     | Vous n'avez aucun souvenir de ce qui vous est arrivé avant l'âge de 18 ans.                                                                                  |
-| 6     | Vos grands-parents vous ont élevé dans une ferme loin des centres urbains animés. Vous aimez penser que les instructions qu’ils vous ont données vous ont préparé à tout.         |
+| 6     | Vos grands-parents vous ont élevé dans une ferme loin des centres urbains animés. Vous aimez penser que les instructions qu'ils vous ont données vous ont préparé à tout.         |
 | 7     | Orphelin, vous avez eu une enfance difficile et votre entrée dans la vie adulte a été éprouvante.                                                               |
 | 8     | Vous avez grandi dans une extrême pauvreté, parmi des criminels. Vous avez encore quelques liens avec le vieux quartier.                                               |
-| 9     | Vous avez servi d’envoyé pour une personne puissante et influente dans le passé, et elle vous considère toujours avec faveur.                                        |
+| 9     | Vous avez servi d'envoyé pour une personne puissante et influente dans le passé, et elle vous considère toujours avec faveur.                                        |
 | 10    | Vous avez un rival ennuyeux qui semble toujours vous gêner ou déjouer vos plans.                                                                        |
-| 11    | Vous avez accédé au poste de porte-parole d’une organisation ou d’une entreprise d’une certaine importance.                                                |
+| 11    | Vous avez accédé au poste de porte-parole d'une organisation ou d'une entreprise d'une certaine importance.                                                |
 | 12    | Vos voisins ont été assassinés et le mystère reste entier.                                                                                            |
 | 13    | Vous avez beaucoup voyagé et, pendant ce temps, vous avez accumulé toute une collection de souvenirs étranges.                                               |
 | 14    | Votre amour d'enfance s'est retrouvé avec votre meilleur ami (maintenant votre ex-meilleur ami).                                                                        |
-| 15    | Vous faites partie d’une minorité décriée, mais vous travaillez pour attirer l’attention du public sur l’injustice de votre statut.                                               |
+| 15    | Vous faites partie d'une minorité décriée, mais vous travaillez pour attirer l'attention du public sur l'injustice de votre statut.                                               |
 | 16    | Vous êtes copropriétaire d'un bar local, où vous êtes un expert dans la création de cocktails spéciaux.                                                        |
-| 17    | Vous avez déjà organisé une escroquerie qui a escroqué de l'argent à des personnes importantes, et elles veulent se venger.                                                                      |
+| 17    | Vous avez déjà organisé une arnaque qui a escroqué de l'argent à des personnes importantes, et elles veulent se venger.                                                                      |
 | 18    | Vous jouiez dans un théâtre ambulant et ils se souviennent de vous avec tendresse (tout comme les gens des endroits que vous avez visités).                                             |
 | 19    | Vous entretenez une relation amoureuse étroite avec un membre de la politique locale.                                                                                   |
-| 20    | Quelqu’un essaie de se faire passer pour vous, en utilisant votre identité, souvent à des fins néfastes. Vous n'avez jamais rencontré le coupable, mais vous aimeriez certainement le rencontrer.          |
+| 20    | Quelqu'un essaie de se faire passer pour vous, en utilisant votre identité, souvent à des fins néfastes. Vous n'avez jamais rencontré le coupable, mais vous aimeriez certainement le rencontrer.          |
 
 -----
 
@@ -742,7 +742,7 @@ Les Émissaires ont les capacités suivantes:
 
 **Equipement de Départ:** Vêtements appropriés et une arme légère de votre choix, ainsi que deux objets très cher, deux objets moyennement cher, et au plus quatre objets peu chers.
 
-**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalogue. (Certaines capacités d'Émissaire, comme Lecture mentale ou Véritables sens, impose un élément surnaturel.  Si ce n'est pas apprprié pour le personnage ou la campagne, ces capacités peuvent être remplacées par quelque chose de la Préférence Furtivité, ou alors la MJ peut les modifier légèrement afin qu'elles soient basées sur des talents ou des intuitions extraordinaires plutôt que sur du supernaturel.)
+**Capacités Spéciales:** Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalogue. (Certaines capacités d'Émissaire, comme Lecture mentale ou Véritables sens, impose un élément surnaturel.  Si ce n'est pas apprprié pour le personnage ou la campagne, ces capacités peuvent être remplacées par quelque chose de la Préférence Furtivité, ou alors la Meneuse peut les modifier légèrement afin qu'elles soient basées sur des talents ou des intuitions extraordinaires plutôt que sur du supernaturel.)
 
 {{< columns >}}
 
@@ -864,7 +864,7 @@ Mary veut créer un émissaire pour une campagne d'horreur lovecraftienne. Elle 
 
 Mary choisit Embrouiller et Changement d'Identité pour l'aider à se rendre dans des endroits et à apprendre des choses qu'elle veut savoir. C'est un peu une escroc. Cependant, elle est gentille avec ses amis et choisit également l'encouragement. Mary complète ses capacités de premier rang avec des compétences d'interaction (tromperie et persuasion).
 
-Un émissaire commence normalement par deux cyphers, mais la MJ décide que les personnages de cette campagne commencent par un seul --- à cause de quelque chose d'effrayant lié à leur passé. Le cypher de Mary est une étrange montre de poche que lui a offerte son grand-père. Elle ne sait ni comment ni pourquoi, mais lorsqu'elle est activée, la montre lui permet d'effectuer deux fois plus d'actions pendant trois tours.
+Un émissaire commence normalement par deux cyphers, mais la Meneuse décide que les personnages de cette campagne commencent par un seul --- à cause de quelque chose d'effrayant lié à leur passé. Le cypher de Mary est une étrange montre de poche que lui a offerte son grand-père. Elle ne sait ni comment ni pourquoi, mais lorsqu'elle est activée, la montre lui permet d'effectuer deux fois plus d'actions pendant trois tours.
 
 Le personnage de Mary porte un petit couteau caché dans son sac en cas de problème. En tant qu'arme légère, elle inflige 2 points de dégâts, mais les attaques avec elle sont facilitées.
 
@@ -888,7 +888,7 @@ Dans certains cas, les idées présentées ici nécessitent des modifications mi
 
 **Barde:** Les bardes dans la fiction et les jeux fantastiques sont des troubadours, des ménestrels et des conteurs, avec peut-être un élément surnaturel. Les bardes sont généralement des explorateurs ou des émissaires. Les Focus appropriées sont [Divertit](04-focus.md#divertit), [Aide ses Amis](04-focus.md#aide-ses-amis), [Se Cache dans les Ombres](04-focus.md#se-cache-dans-les-ombres), et [Maîtrise les Sortilèges](04-focus.md#maîtrise-les-sortilèges).
 
-**Clerc or Prêtre:** Les prêtres académiques sont généralement des Adeptes ou des Émissaires, mais les prêtres martiaux sont souvent des Guerriers (peut-être avec une Préférence magique). Pour un clerc typique doté d’un ensemble polyvalent de capacités, choisissez le Focus [Canalise les Bénédictions Divines](04-focus.md#canalise-les-bénédictions-divines).
+**Clerc or Prêtre:** Les prêtres académiques sont généralement des Adeptes ou des Émissaires, mais les prêtres martiaux sont souvent des Guerriers (peut-être avec une Préférence magique). Pour un clerc typique doté d'un ensemble polyvalent de capacités, choisissez le Focus [Canalise les Bénédictions Divines](04-focus.md#canalise-les-bénédictions-divines).
 
 * **Clerc (mort):** [S'Associe avec les Morts](04-focus.md#sassocie-avec-les-morts), [Guide les Esprits](04-focus.md#guide-les-esprits)
 * **Clerc (connaissance):** [Apprend Rapidement](04-focus.md#apprend-rapidement), [Voit Au-Delà](04-focus.md#voit-au-delà), [Préfèrerait Lire](04-focus.md#préfèrerait-lire)
@@ -960,7 +960,7 @@ Les personnages pratiquant la magie obtiennent leurs capacités (qui peuvent êt
 
 ## Plus de Personnalisation
 
-Les règles de cette section sont plus avancées et impliquent toujours la MJ. Elles peuvent être utilisées par la MJ pour personnaliser un type afin de mieux l'adapter au genre ou au contexte, ou par un joueur et un MJ pour peaufiner un personnage afin de l'adapter à un concept.
+Les règles de cette section sont plus avancées et impliquent toujours la Meneuse. Elles peuvent être utilisées par la Meneuse pour personnaliser un type afin de mieux l'adapter au genre ou au contexte, ou par un joueur et un MJ pour peaufiner un personnage afin de l'adapter à un concept.
 
 ### Modifier les Aspects d'un Type
 
@@ -982,4 +982,4 @@ En plus d'autres options de personnalisation, un joueur peut choisir de prendre 
 
 Normalement, vous ne pouvez avoir une faiblesse que dans une statistique dans laquelle vous avez un avantage de 0. De plus, vous ne pouvez pas avoir plus d'une faiblesse, et vous ne pouvez pas avoir une faiblesse supérieure à 1 à moins que la faiblesse supplémentaire ne provienne d'une autre source (telle qu'une maladie ou un handicap résultant d'actions ou de conditions du jeu).
 
-**Inaptitude:** Les Inaptitudes sont comme des compétences négatives. Elles rendent un type de tâche plus difficile en l’entravant. Si un personnage choisit de prendre une Inaptitude, il acquiert une compétence de son choix. Normalement, un personnage ne peut avoir qu'une seule Inaptitude, à moins que l'Inaptitude supplémentaire ne provienne d'une autre source (comme un descripteur ou une maladie ou un handicap résultant d'actions ou de conditions du jeu).
+**Inaptitude:** Les Inaptitudes sont comme des compétences négatives. Elles rendent un type de tâche plus difficile en l'entravant. Si un personnage choisit de prendre une Inaptitude, il acquiert une compétence de son choix. Normalement, un personnage ne peut avoir qu'une seule Inaptitude, à moins que l'Inaptitude supplémentaire ne provienne d'une autre source (comme un descripteur ou une maladie ou un handicap résultant d'actions ou de conditions du jeu).

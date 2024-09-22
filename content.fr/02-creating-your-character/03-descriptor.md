@@ -948,7 +948,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 ### Mutique
 
-Vous n'avez jamais été très bavard. Lorsque vous êtes obligé d'interagir avec les autres, vous ne pensez jamais à la bonne chose à dire : les mots vous manquent complètement, ou ils sont complètement faux. Vous finissez souvent par dire précisément la mauvaise chose et par insulter quelqu'un sans le vouloir. La plupart du temps, tu restes maman. Cela fait de vous un auditeur --- un observateur attentif. Cela signifie également que vous êtes plus doué pour faire les choses que pour en parler. Vous êtes prompt à agir.
+Vous n'avez jamais été très bavard. Lorsque vous êtes obligé d'interagir avec les autres, vous ne pensez jamais à la bonne chose à dire : les mots vous manquent complètement, ou ils sont complètement faux. Vous finissez souvent par dire précisément la mauvaise chose et par insulter quelqu'un sans le vouloir. La plupart du temps, vous restez silencieux. Cela fait de vous un auditeur --- un observateur attentif. Cela signifie également que vous êtes plus doué pour faire les choses que pour en parler. Vous êtes prompt à agir.
 
 Vous bénéficiez des caractéristiques suivantes:
 

@@ -131,6 +131,7 @@ Artifact Tinkerer/Bricoleur d'artefacts: si vous passez au moins une journée à
 As Foretold in Prophecy/Comme le prédit la prophétie : vous accomplissez quelque chose qui prouve que vous êtes véritablement l'élu. La prochaine tâche que vous tenterez est facilitée par trois étapes. Vous ne pouvez plus utiliser cette capacité avant d'avoir effectué une action de récupération d'une heure ou de dix heures. Action.
 ==
 As If One Creature/Comme s'il n'y a qu'une seule créature : lorsque vous et votre bête (grâce à votre capacité Compagnon Bête) êtes à distance immédiate l'un de l'autre, vous pouvez partager les dégâts infligés à l'un ou l'autre de vous. Par exemple, si l'un de vous est touché par une arme et lui inflige 4 points de dégâts, répartissez les dégâts entre vous deux comme bon vous semble. Seules l'Armure et les résistances de la cible initialement endommagée entrent en jeu. Ainsi, si vous avez 2 armures et êtes frappé par une explosion de force pour 4 points de dégâts, votre bête peut subir les 2 points de dégâts que vous subiriez, mais son armure n'entre pas en jeu, ni son immunité aux explosions de force, si n'importe lequel. Facilitateur.
+==
 Assassin Skills/Compétences d'assassin: Vous êtes entraîné aux tâches de furtivité et de déguisement. Facilitateur.
 ==
 Assassin Strike/Frappe d'Assassin (5 points d'Intellect) : Si vous réussissez à attaquer une créature qui ignorait auparavant votre présence, vous infligez 9 points de dégâts supplémentaires. Facilitateur.
@@ -743,7 +744,7 @@ Experienced in Armor/Expérimenté en armure : la réduction du coût de votre 
 ==
 Expert Crafter/Artisan expert : au lieu de lancer un jet, vous pouvez choisir de réussir automatiquement une tâche d'artisanat pour laquelle vous êtes entraîné. La tâche doit être de difficulté 4 ou inférieure. Si vous parvenez à réduire la difficulté évaluée d'une tâche de fabrication à 4 ou moins, cette capacité s'applique également à chaque sous-tâche, en supposant que quelque chose ne vous interrompe pas pendant le temps de construction qui s'ensuit. Facilitateur.
 ==
-Expert Cypher Use/Utilisation experte des cyphers: Vous pouvez utiliser trois chiffres à la fois. Facilitateur.
+Expert Cypher Use/Utilisation experte des cyphers: Vous pouvez utiliser trois cyphers à la fois. Facilitateur.
 ==
 Expert Driver/Chauffeur expert : Vous êtes spécialisé dans toutes les tâches liées à la conduite d'une voiture, d'un camion ou d'une moto, y compris les tâches de réparation mécanique. Facilitateur.
 ==
@@ -919,7 +920,7 @@ Gambler/Chanceux-Malchanceux: Chaque jour, choisissez deux numéros différents 
 Game Lessons/Leçons de jeu: Vous avez joué à tellement de jeux que vous avez acquis de réelles connaissances. Choisissez deux compétences non liées au combat. Vous êtes entraîné à ces compétences. Facilitateur.
 ==
 Gamer/Joueur: choisissez n'importe quel style de jeu, comme les jeux de stratégie en temps réel, les jeux de hasard dans le style du poker, les jeux de rôle, etc. Vous pouvez appliquer un atout à une tâche liée au jeu de ce style de jeu une fois entre chaque jet de récupération. Facilitateur.
-
+==
 Gamer's Fortitude/Endurance du joueur: S'asseoir et jouer à un jeu pendant douze heures d'affilée n'est pas quelque chose que la plupart des gens peuvent faire, mais vous y arrivez. Une fois après chaque jet de récupération de dix heures, vous pouvez transférer jusqu'à 5 points entre vos pools dans n'importe quelle combinaison, à raison de 1 point par tour. Par exemple, vous pourriez transférer 3 points de Puissance en Vitesse et 2 points d'Intellect en Vitesse, ce qui prendrait un total de cinq tours. Action.
 ==
 Gaming God/Dieu du jeu: chaque fois que vous utilisez l'Effort sur une action Intellect, ajoutez l'une des améliorations suivantes à l'action (votre choix) :
@@ -1693,7 +1694,7 @@ Push/Poussée (2 points d'Intellect) : Vous poussez par télékinésie une cré
 ==
 Push Off and Throw/Sauter en Microgravité (3 points de vitesse) : vous pouvez effectuer des sauts précis point à point en microgravité, ce qui signifie que vous pouvez vous déplacer sur une longue distance et lancer une attaque au corps à corps ou tenter d'attraper un ennemi de votre taille ou plus petit. . Si vous réussissez à attraper votre ennemi, vous déplacez votre ennemi sur une courte distance de sa position d'origine.
 Alternativement, pendant que vous vous arrêtez (ou que vous vous éloignez d'une distance immédiate par round dans la direction de votre choix), vous pouvez lancer votre ennemi dans une direction choisie à travers l'espace à raison d'une courte distance par round. Action.
-
+==
 Push on Through/Passer à travers (2 points de puissance) : Vous ignorez les effets du terrain lorsque vous vous déplacez pendant une heure. Facilitateur.
 ==
 Quarry/Proie (2 points d'Intellect) : Choisissez une proie (une seule créature individuelle que vous pouvez voir). Vous êtes entraîné à toutes les tâches impliquant de suivre, comprendre, interagir avec ou combattre cette créature. Vous ne pouvez avoir qu'une seule carrière à la fois. Action à initier.

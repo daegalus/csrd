@@ -6,7 +6,7 @@ description: Le Focus est ce qui rend un personnage unique. Un Focus donne des a
 
 # Focus
 
-Le Focus est ce qui rend un personnage unique. Il n'y a pas deux PJ dans un groupe qui devraient avoir le même objectif. Un Focus donne des avantages à un personnage lorsqu'il crée son personnage et à chaque fois qu'il passe au rang suivant. C'est le groupe verbal de la phrase "Je suis un *adjectif nom* qui *groupe verbal*".
+Le Focus est ce qui rend un personnage unique. Il n'y a pas deux PJ dans un groupe qui devraient avoir le même focus. Un Focus donne des avantages à un personnage lorsqu'il crée son personnage et à chaque fois qu'il passe au rang suivant. C'est le groupe verbal de la phrase "Je suis un *adjectif nom* qui *groupe verbal*".
 
 Ce chapitre contient près d'une centaine d'exemples de Focus, tels que Se Revêt d'un Halo de Feu, Serait plutôt en train de lire et Pilote un Vaisseau Spatial. Ces Focus peuvent être choisies et utilisées telles que présentées par un joueur, ou par le MJ qui les ajoute à une liste de Focus disponibles pour ses joueurs lors de leur prochaine campagne.
 
@@ -14,15 +14,15 @@ De plus, la seconde moitié de ce chapitre fournit des outils permettant au MJ o
 
 ## Choisir un Focus
 
-Touste les Focus ne conviennent pas à tous les genres. Le chapitre Genre fournit des conseils, mais cette section propose quelques grandes généralisations. Évidemment, le MJ peut inclure toutes les Focus disponibles dans son environnement. Les Focus finissent par être une distinction importante dans ce cas, car Dispose de Pouvoirs Mentaux, par exemple, indique clairement que des capacités psychiques existent dans lea campagne, tout comme Hurle à la Lune implique l'existence de lycanthropes comme les loups-garous, et Pilote des Vaisseaux Spaciaux, nécessite bien sûr des vaisseaux spatiaux disponibles pour piloter.
+Tous les Foci ne conviennent pas à tous les genres. Le chapitre Genre fournit des conseils, mais cette section propose quelques grandes généralisations. Évidemment, le MJ peut inclure toutes les Focus disponibles dans son environnement. Les Focus finissent par être une distinction importante dans ce cas, car Dispose de Pouvoirs Mentaux, par exemple, indique clairement que des capacités psychiques existent dans la campagne, tout comme Hurle à la Lune implique l'existence de lycanthropes comme les loups-garous, et Pilote des Vaisseaux Spaciaux, nécessite bien sûr des vaisseaux spatiaux disponibles pour piloter.
 
-Lorsqu'un Focuss est choisi pour un personnage, celui-ci obtient une connexion spéciale avec un ou plusieurs de ses camarades PJ, une capacité de premier rang et peut-être un équipement de départ supplémentaire : une ou deux pièces d'équipement qui pourraient être nécessaires pour que le personnage puisse utiliser leur capacité, ou cela pourrait bien se marier avec le Focus. Par exemple, un personnage capable de construire des choses a besoin d’un ensemble d’outils. Un personnage constamment en feu a besoin d’un ensemble de vêtements insensibles aux flammes. Un personnage qui dessine des runes pour lancer des sorts a besoin d’outils d’écriture. Un personnage qui tue des monstres avec une épée a besoin d’une épée. Et ainsi de suite. Cela dit, de nombreuses Focus ne nécessitent pas d’équipement supplémentaire.
+Lorsqu'un Focuss est choisi pour un personnage, celui-ci obtient une connexion spéciale avec un ou plusieurs de ses camarades PJ, une capacité de premier rang et peut-être un équipement de départ supplémentaire : une ou deux pièces d'équipement qui pourraient être nécessaires pour que le personnage puisse utiliser leur capacité, ou cela pourrait bien se marier avec le Focus. Par exemple, un personnage capable de construire des choses a besoin d'un ensemble d'outils. Un personnage constamment en feu a besoin d'un ensemble de vêtements insensibles aux flammes. Un personnage qui dessine des runes pour lancer des sorts a besoin d'outils d'écriture. Un personnage qui tue des monstres avec une épée a besoin d'une épée. Et ainsi de suite. Cela dit, de nombreuses Focus ne nécessitent pas d'équipement supplémentaire.
 
 Chaque focus propose également une ou plusieurs suggestions --- intrusions GM --- pour les effets ou conséquences possibles de très bons ou de très mauvais lancers de dés.
 
 Quelques Focus présentés dans ce chapitre fournissent une « Option d'échange de type » qui permet à un joueur d'échanger une capacité qui serait autrement acquise grâce à son type contre la capacité indiquée. Un joueur n'est pas obligé de procéder à l'échange ; ils ont simplement le choix. Par exemple, le Focus Aime le Aime le Vide offre la possibilité d'acquérir la capacité Ayez une Combinaison Spatiale, Vous Voyagerez au lieu d'une capacité de type.
 
-Au fur et à mesure qu'un personnage progresse vers un nouveau rang, un Focus confère plus de capacités. L'avantage de chaque rang est généralement appelé Action ou Enabler. Si une capacité est étiquetée Action, un personnage doit effectuer une action pour l'utiliser. Si une capacité est étiquetée Facilitateur, elle améliore d'autres actions ou donne un autre avantage, mais ce n'est pas une action. Une capacité qui permet à un personnage de faire exploser ses ennemis avec des lasers est une action. Une capacité qui accorde des dégâts supplémentaires lorsqu'une attaque est effectuée est un Facilitateur. Un Facilitateur est utilisé au même tour qu’une autre action, et souvent dans le cadre d’une autre action.
+Au fur et à mesure qu'un personnage progresse vers un nouveau rang, un Focus confère plus de capacités. L'avantage de chaque rang est généralement appelé Action ou Enabler. Si une capacité est étiquetée Action, un personnage doit effectuer une action pour l'utiliser. Si une capacité est étiquetée Facilitateur, elle améliore d'autres actions ou donne un autre avantage, mais ce n'est pas une action. Une capacité qui permet à un personnage de faire exploser ses ennemis avec des lasers est une action. Une capacité qui accorde des dégâts supplémentaires lorsqu'une attaque est effectuée est un Facilitateur. Un Facilitateur est utilisé au même tour qu'une autre action, et souvent dans le cadre d'une autre action.
 
 Les avantages de chaque rang sont indépendants et cumulatifs avec les avantages des autres rangs (sauf indication contraire). Ainsi, si une capacité de premier rang confère +1 à l'armure et qu'une capacité de quatrième rang confère également +1 à l'armure, lorsque le personnage atteint le quatrième rang, un total de +2 à l'armure est accordé.
 
@@ -39,12 +39,12 @@ Choisissez une connexion qui va bien avec le Focus. Si vous êtes un MJ en train
 3. Choisissez un autre PJ. Vous essayez toujours de l'impressionner, mais vous ne savez pas pourquoi.
 4. Choisissez un autre PJ. Ce personnage a une habitude qui vous ennuie, mais vous êtes par ailleurs assez impressionné par ses capacités.
 5. Choisissez un autre PJ. Ce personnage montre du potentiel pour apprécier votre paradigme particulier, votre style de combat ou tout autre attribut fourni par le Focus. Vous aimeriez le former, mais vous n'êtes pas forcément qualifié pour enseigner (c'est à vous de décider), et il pourrait ne pas être intéressé (c'est à lui de décider).
-6. Choisissez un autre PJ. S'il est à portée immédiate lorsque vous êtes en combat, il constitue parfois un atout, et parfois il gêne accidentellement vos jets d'attaque (CINQUANTE POUR CENT % de chances dans tous les cas, déterminés par combat).
+6. Choisissez un autre PJ. S'il est à portée immédiate lorsque vous êtes en combat, il constitue parfois un atout, et parfois il gêne accidentellement vos jets d'attaque (50% de chances dans tous les cas, déterminés par combat).
 7. Choisissez un autre PJ. Vous lui avez déjà sauvé la vie et il se sente clairement redevable envers vous. Vous souhaiteriez qu'il ne le fasse pas ; cela fait juste partie du travail.
 8. Choisissez un autre PJ. Ce personnage s'est récemment moqué de vous d'une manière qui vous a vraiment blessé. La façon dont vous gérez cela (le cas échéant) dépend de vous.
-9. Choisissez un autre PJ. Ce personnage sait que vous avez souffert aux mains d’entités robotiques dans le passé. C'est à vous de décider si vous détestez les robots maintenant, ce qui peut affecter votre relation avec le personnage s'il est amical avec les robots ou s'il possède des pièces robotiques.
+9. Choisissez un autre PJ. Ce personnage sait que vous avez souffert aux mains d'entités robotiques dans le passé. C'est à vous de décider si vous détestez les robots maintenant, ce qui peut affecter votre relation avec le personnage s'il est amical avec les robots ou s'il possède des pièces robotiques.
 10. Choisissez un autre PJ. Ce personnage vient du même endroit que vous et vous vous connaissez étant enfants.
-11. Choisissez un autre PJ. Dans le passé, il vous enseignait quelques astuces à utiliser lors d’un combat.
+11. Choisissez un autre PJ. Dans le passé, il vous enseignait quelques astuces à utiliser lors d'un combat.
 12. Choisissez un autre PJ. Ce personnage ne semble pas approuver vos méthodes.
 13. Choisissez un autre PJ. Il y a bien longtemps, vous étiez tous les deux dans des camps opposés dans un combat. Vous avez gagné, même si vous avez « triché » à ses yeux (mais de votre point de vue, tout est juste dans un combat). Il est peut-être prêt pour une revanche, mais cela dépend de lui.
 14. Choisissez un autre PJ. Vous essayez toujours d'impressionner ce personnage avec vos compétences, votre esprit, votre apparence ou votre bravade. Peut-être qu'il est un rival, peut-être que vous avez besoin de son respect, ou peut-être que vous êtes intéressé de manière romantique par lui.
@@ -53,7 +53,7 @@ Choisissez une connexion qui va bien avec le Focus. Si vous êtes un MJ en train
 17. Choisissez un autre PJ. Vous avez déjà été embauché pour retrouver quelqu'un qui était proche de ce personnage.
 18. Choisissez deux PJ (de préférence ceux qui sont susceptibles de gêner vos attaques). Lorsque vous ratez une attaque et que les règles de la MJ vous imposent de frapper quelqu'un d'autre que votre cible, vous touchez l'un de ces deux personnages.
 19. Choisissez un autre PJ. Vous ne savez pas comment ni d'où, mais ce personnage a un plan pour les bouteilles d'alcool rare et peut vous les procurer à moitié prix.
-20. Choisissez un autre PJ. Vous avez récemment perdu un bien et vous êtes convaincu qu'il l'a pris. Qu’il l’ait fait ou non, cela dépend de lui.
+20. Choisissez un autre PJ. Vous avez récemment perdu un bien et vous êtes convaincu qu'il l'a pris. Qu'il l'ait fait ou non, cela dépend de lui.
 21. Choisissez un autre PJ. Il semble toujours savoir où vous êtes, ou du moins dans quelle direction vous vous situez par rapport à lui.
 22. Choisissez un autre PJ. Vous voir utiliser vos capacités de concentration semble déclencher un souvenir désagréable chez ce personnage. Cette mémoire appartient à l'autre PJ, même s'il ne peut pas être en mesure de s'en souvenir consciemment.
 23. Choisissez un autre PJ. Quelque chose chez lui interfère avec vos capacités. Lorsqu'il se trouve à côté de vous, vos capacités de concentration coûtent 1 point supplémentaire.
@@ -61,23 +61,23 @@ Choisissez une connexion qui va bien avec le Focus. Si vous êtes un MJ en train
 25. Choisissez un autre PJ. Vous connaissez ce personnage depuis un certain temps et il vous a aidé à prendre le contrôle de vos capacités de concentration.
 26. Choisissez un autre PJ. Dans le passé de ce personnage, il a vécu une expérience dévastatrice en tentant quelque chose que vous faites naturellement grâce à votre concentration. C'est à lui de décider s'il choisit de vous en parler.
 27. Choisissez un autre PJ. Sa maladresse occasionnelle et son comportement bruyant vous irritent.
-28. Choisissez un autre PJ. Dans un passé récent, alors que vous vous entraîniez, vous l'avez accidentellement frappé lors d'une attaque, le blessant grièvement. C’est à lui de décider s’il vous en veu ou s’il vous pardonne.
-29. Choisissez un autre PJ. Il vous doit une somme d’argent importante.
+28. Choisissez un autre PJ. Dans un passé récent, alors que vous vous entraîniez, vous l'avez accidentellement frappé lors d'une attaque, le blessant grièvement. C'est à lui de décider s'il vous en veu ou s'il vous pardonne.
+29. Choisissez un autre PJ. Il vous doit une somme d'argent importante.
 30. Choisissez un autre PJ. Dans un passé récent, alors que vous échappiez à une menace, vous avez accidentellement laissé ce personnage se débrouiller tout seul. Il  a survécu, mais de justesse. C'est au joueur de ce personnage de décider s'il vous en veut ou s'il a décidé de vous pardonner.
 31. Choisissez un autre PJ. Récemment, il vous a mis accidentellement (ou peut-être intentionnellement) dans une position de danger. Vous allez bien maintenant, mais vous vous méfiez de lui.
-32. Choisissez un autre PJ. De votre point de vue, il semble nerveux face à une idée, une personne ou une situation spécifique. Vous aimeriez lui apprendre à être plus à l’aise avec ses peurs (s’il vous le permette).
+32. Choisissez un autre PJ. De votre point de vue, il semble nerveux face à une idée, une personne ou une situation spécifique. Vous aimeriez lui apprendre à être plus à l'aise avec ses peurs (s'il vous le permette).
 33. Choisissez un autre PJ. Il vous a traité de lâche une fois.
 34. Choisissez un autre PJ. Ce personnage vous reconnaît toujours, vous ou ce que vous produisez, que vous soyez déguisé ou disparu depuis longtemps lorsqu'il arrive sur les lieux.
 35. Choisissez un autre PJ. Vous avez provoqué par inadvertance un accident qui l'a plongés dans un sommeil si profond qu'il ne se sont pas réveillé pendant trois jours. Qu'il vous pardonne ou non, c'est à lui de décider.
-36. Choisissez un autre PJ. Vous êtes presque sûr d’avoir un lien de parenté d’une manière ou d’une autre.
-37. Choisissez un autre PJ. Vous avez accidentellement appris quelque chose qu'is essayai de garder secret.
-38. Choisissez un autre PJ. Il est particulièrement sensible à l’utilisation de vos capacités de Focus plus flashy et deviennent parfois éblouis pendant quelques rounds, ce qui gêne leurs actions.
+36. Choisissez un autre PJ. Vous êtes presque sûr d'avoir un lien de parenté d'une manière ou d'une autre.
+37. Choisissez un autre PJ. Vous avez accidentellement appris quelque chose qu'il essayait de garder secret.
+38. Choisissez un autre PJ. Il est particulièrement sensible à l'utilisation de vos capacités de Focus plus flashy et deviennent parfois éblouis pendant quelques rounds, ce qui gêne leurs actions.
 39. Choisissez un autre PJ. Il semble posséder un objet précieux qui vous appartenait autrefois, mais que vous avez perdu à un jeu de hasard il y a des années.
 40. Choisissez un autre PJ. Sans vous, ce personnage aurait échoué à un test de réussite mentale.
 41. Choisissez un autre PJ. Sur la base de quelques commentaires que vous avez entendus, vous soupçonnez qu'il n'accorde pas la plus haute estime à votre domaine de formation ou à votre passe-temps favori.
-42. Choisissez un autre PJ dont l'intérêt se confond avec le vôtre. Cette étrange connexion l'affecte d’une manière ou d’une autre. Par exemple, si le personnage utilise une arme, votre capacité de concentration améliore parfois son attaque d'une manière ou d'une autre.
-43. Choisissez un autre PJ. Il souffre d'un vertige terrible. Vous aimeriez lui apprendre à être plus à l’aise en hauteur. Il doit décider d’accepter ou non votre offre.
-44. Choisissez un autre PJ. Il est sceptique quant à vos affirmations sur quelque chose d’important qui s’est produit dans votre passé. Il pourrait même tenter de vous discréditer ou de découvrir le « secret » de votre histoire, mais cela dépend de lui.
+42. Choisissez un autre PJ dont l'intérêt se confond avec le vôtre. Cette étrange connexion l'affecte d'une manière ou d'une autre. Par exemple, si le personnage utilise une arme, votre capacité de concentration améliore parfois son attaque d'une manière ou d'une autre.
+43. Choisissez un autre PJ. Il souffre d'un vertige terrible. Vous aimeriez lui apprendre à être plus à l'aise en hauteur. Il doit décider d'accepter ou non votre offre.
+44. Choisissez un autre PJ. Il est sceptique quant à vos affirmations sur quelque chose d'important qui s'est produit dans votre passé. Il pourrait même tenter de vous discréditer ou de découvrir le « secret » de votre histoire, mais cela dépend de lui.
 45. Choisissez un autre PJ. Il a le don de reconnaître les points faibles de vos plans ou de vos projets.
 46. ​​Choisissez un autre PJ. Le visage de ce personnage vous intrigue tellement d'une manière que vous ne comprenez pas que vous vous retrouvez parfois à dessiner son image dans la terre ou sur un autre support auquel vous avez accès.
 47. Choisissez un autre PJ. Ce personnage possède un élément supplémentaire de l'équipement régulier que vous lui avez donné, soit quelque chose que vous avez fabriqué, soit un objet que vous vouliez simplement lui donner. (Il choisit l'article.)
@@ -87,23 +87,23 @@ Choisissez une connexion qui va bien avec le Focus. Si vous êtes un MJ en train
 
 ## L'Histoire derrière les Focus
 
-Les Focus de ce livre ont été volontairement réduites à l'essentiel afin d'avoir l'application la plus large possible dans plusieurs genres. Une ou deux phrases descriptives résument chacune d’entre elles. Après avoir choisi un Focus, vous avez la possibilité d'élargir sa présentation en ajoutant plus d'histoire et de description pertinentes pour le monde ou pour le personnage.
+Les Focus de ce livre ont été volontairement réduites à l'essentiel afin d'avoir l'application la plus large possible dans plusieurs genres. Une ou deux phrases descriptives résument chacune d'entre elles. Après avoir choisi un Focus, vous avez la possibilité d'élargir sa présentation en ajoutant plus d'histoire et de description pertinentes pour le monde ou pour le personnage.
 
 Par exemple, si vous choisissez Opère sous Couverture, la description récapitulative est "Sous l'apparence de quelqu'un d'autre, vous cherchez à trouver des réponses que les puissants ne veulent pas divulguer". Si vous choisissez Poursuit des Sciences Etranges, le résumé est le suivant : "Votre perspicacité et vos capacités surnaturelles font de vous un scientifique capable de prouesses incroyables." Ces descriptions fournissent ce que vous devez savoir pour utiliser le focus.
 
 Cependant, si vous le souhaitez (et *uniquement* si vous le souhaitez ; rien n'est obligatoire), vous pouvez ajouter davantage à ces descriptions d'une manière pertinente pour votre jeu. Par exemple, si vous choisissez Opère sous Couverture et Poursuit des Sciences Etranges pour une utilisation dans un genre moderne tel que l'horreur, la fantasy urbaine, l'espionnage ou quelque chose de similaire, vous pouvez développer les descriptions comme indiqué dans les exemples suivants.
 
-**Opère sous Couverture:** L’espionnage n’est pas quelque chose dont vous savez rien. Du moins, c'est ce que vous voulez faire croire à tout le monde, car en vérité, vous avez été formé comme espion ou agent secret. Vous pourriez travailler pour un gouvernement ou pour vous-même. Vous pourriez être un détective de police ou un criminel. Vous pourriez même devenir journaliste d’investigation.
+**Opère sous Couverture:** L'espionnage n'est pas quelque chose dont vous savez rien. Du moins, c'est ce que vous voulez faire croire à tout le monde, car en vérité, vous avez été formé comme espion ou agent secret. Vous pourriez travailler pour un gouvernement ou pour vous-même. Vous pourriez être un détective de police ou un criminel. Vous pourriez même devenir journaliste d'investigation.
 
-Quoi qu’il en soit, vous apprenez des informations que d’autres tentent de garder secrètes. Vous collectez des rumeurs et des chuchotements, des histoires et des preuves durement acquises, et vous utilisez ces connaissances pour vous aider dans vos propres efforts et, le cas échéant, pour fournir à vos employeurs les informations qu'ils souhaitent. Alternativement, vous pouvez vendre ce que vous avez appris à ceux qui sont prêts à payer plus cher.
+Quoi qu'il en soit, vous apprenez des informations que d'autres tentent de garder secrètes. Vous collectez des rumeurs et des chuchotements, des histoires et des preuves durement acquises, et vous utilisez ces connaissances pour vous aider dans vos propres efforts et, le cas échéant, pour fournir à vos employeurs les informations qu'ils souhaitent. Alternativement, vous pouvez vendre ce que vous avez appris à ceux qui sont prêts à payer plus cher.
 
 Vous portez probablement des couleurs sombres (noir, gris anthracite ou bleu nuit) pour vous fondre dans l'ombre, à moins que la couverture que vous avez choisie ne vous oblige à ressembler à quelqu'un d'autre.
 
-**Poursuit des Sciences Etranges:** Vous pourriez être un scientifique respecté, ayant publié dans plusieurs revues à comité de lecture. Ou bien vous pourriez être considéré comme un excentrique par vos contemporains, poursuivant des théories marginales sur ce que d’autres considèrent comme peu de preuves. La vérité est que vous avez un don particulier pour passer au crible ce qui est possible. Vous pouvez trouver de nouvelles informations et débloquer des phénomènes étranges grâce à vos expériences. Là où d’autres voient une corne d’abondance farfelue, vous passez au crible les théories du complot à la recherche de révélations. Que vous meniez vos enquêtes en tant qu'entrepreneur gouvernemental, chercheur universitaire, scientifique d'entreprise ou curieux dans votre propre laboratoire en suivant votre muse, vous repoussez les limites de ce qui est possible.
+**Poursuit des Sciences Etranges:** Vous pourriez être un scientifique respecté, ayant publié dans plusieurs revues à comité de lecture. Ou bien vous pourriez être considéré comme un excentrique par vos contemporains, poursuivant des théories marginales sur ce que d'autres considèrent comme peu de preuves. La vérité est que vous avez un don particulier pour passer au crible ce qui est possible. Vous pouvez trouver de nouvelles informations et débloquer des phénomènes étranges grâce à vos expériences. Là où d'autres voient une corne d'abondance farfelue, vous passez au crible les théories du complot à la recherche de révélations. Que vous meniez vos enquêtes en tant qu'entrepreneur gouvernemental, chercheur universitaire, scientifique d'entreprise ou curieux dans votre propre laboratoire en suivant votre muse, vous repoussez les limites de ce qui est possible.
 
 Vous vous souciez probablement plus de votre travail que de trivialités telles que votre apparence, votre comportement poli ou approprié, ou les normes sociales, mais là encore, un excentrique comme vous pourrait également renverser la situation sur ce stéréotype.
 
-Si vous souhaitez aller encore plus loin, vous pouvez déterminer d'où viennent les capacités de concentration d'un personnage. Selon le genre, ils pourraient tirer ces capacités d'un entraînement avancé et persistant, via des runes magiques, des éléments cybernétiques, de leur héritage génétique ou de leur accès à une technologie avancée. Par exemple, un personnage pourrait être capable de faire exploser des cibles avec des éclairs parce qu'elles ont été zappées par un rayonnement étrange ou parce qu'elles ont ramassé un pistolet éclair. D’un autre côté, c’est peut-être parce que leur entraînement intense leur a permis d’apprendre la magie de la foudre. Les possibilités sont presque infinies et c’est à vous de les inclure ou de les renoncer. Parce que quelle que soit la manière dont les capacités d'un focus ont été acquises, il suffit également qu'elles fonctionnent.
+Si vous souhaitez aller encore plus loin, vous pouvez déterminer d'où viennent les capacités de concentration d'un personnage. Selon le genre, ils pourraient tirer ces capacités d'un entraînement avancé et persistant, via des runes magiques, des éléments cybernétiques, de leur héritage génétique ou de leur accès à une technologie avancée. Par exemple, un personnage pourrait être capable de faire exploser des cibles avec des éclairs parce qu'elles ont été zappées par un rayonnement étrange ou parce qu'elles ont ramassé un pistolet éclair. D'un autre côté, c'est peut-être parce que leur entraînement intense leur a permis d'apprendre la magie de la foudre. Les possibilités sont presque infinies et c'est à vous de les inclure ou de les renoncer. Parce que quelle que soit la manière dont les capacités d'un focus ont été acquises, il suffit également qu'elles fonctionnent.
 
 ## Focus
 
@@ -131,7 +131,7 @@ Descendant de la richesse et du pouvoir, vous portez un titre noble et les capac
 Vous portez une arme à feu et vous savez comment l'utiliser lors d'un combat.
 
 {{< hint info >}}
-Bien que Is Licensed to Carry soit conçu pour les armes à feu modernes, il pourrait s'appliquer aux armes à silex, aux blasters laser futuristes ou à d'autres armes à distance.
+Bien que A le Droit de Porter une Arme à Feu soit conçu pour les armes à feu modernes, il pourrait s'appliquer aux armes à silex, aux blasters laser futuristes ou à d'autres armes à distance.
 {{< /hint >}}
 
 * Rang 1: Tireur
@@ -148,15 +148,15 @@ Bien que Is Licensed to Carry soit conçu pour les armes à feu modernes, il pou
 
 ### A été Choisi(e)
 
-Vous êtes « l’élu » et la prophétie, la prédiction, le pronostic ou toute autre méthode de détermination attend de vous de grandes choses un jour.
+Vous êtes « l'élu » et la prophétie, la prédiction, le pronostic ou toute autre méthode de détermination attend de vous de grandes choses un jour.
 
 * Rang 1: Compétences d'interaction
 * Rang 1: Connaître
 * Rang 2: Destiné à la grandeur
-* Rang 3: Surmontez tous les obstacles ou  Résilience durement gagnée
+* Rang 3: Surmontez tous les obstacles ou Résilience durement gagnée
 * Rang 4: Centre d'attention
 * Rang 5: Montrez-leur le chemin
-* Rang 6: Comme le prédit la prophétie ou Potentiel amélioré supérieur
+* Rang 6: Comme le prédit la prophétie ou Potentiel amélioré plus important
 
 **Intrusions de la Meneuse:** Un ennemi décrit dans la prophétie apparaît. Les incroyants menacent de gâcher ce moment. Le personnage acquiert une réputation de fraudeur dans les cercles extérieurs.
 
@@ -172,11 +172,11 @@ Les leçons, les réflexes et les stratégies que vous avez appris en jouant à 
 * Rang 2: Résoudre des Enigmes
 * Rang 3: Objectif du tireur d'élite ou Avantage de Célérité Amélioré
 * Rang 4: Jeux d'esprit
-* Rang 4: Intellect améliorée
+* Rang 4: Intellect amélioré
 * Rang 5: Endurance du joueur
 * Rang 6: Sursaut mental ou Dieu du jeu
 
-**Intrusions de la Meneuse:** Les attaques manquées touchent la mauvaise cible. Le matériel tombe en panne. Parfois, les gens réagissent négativement à quelqu’un qui a vécu la majeure partie de sa vie dans des mondes de jeu imaginaires.
+**Intrusions de la Meneuse:** Les attaques manquées touchent la mauvaise cible. Le matériel tombe en panne. Parfois, les gens réagissent négativement à quelqu'un qui a vécu la majeure partie de sa vie dans des mondes de jeu imaginaires.
 
 -----
 
@@ -200,7 +200,7 @@ Vous avez navigué avec un équipage de redoutables pirates, mais vous avez déc
 
 ### A un Millier de Visages
 
-Vous pouvez changer votre apparence pour ressembler à n’importe qui d’autre.
+Vous pouvez changer votre apparence pour ressembler à n'importe qui d'autre.
 
 * Rang 1: Changement de Visage
 * Rang 1: Compétences d'interaction
@@ -218,7 +218,7 @@ Vous pouvez changer votre apparence pour ressembler à n’importe qui d’autre
 
 ### Absorbe l'Energie
 
-Vous pouvez exploiter l’énergie cinétique et la transformer en d’autres types d’énergie.
+Vous pouvez exploiter l'énergie cinétique et la transformer en d'autres types d'énergie.
 
 * Rang 1: Absorber l'énergie cinétique
 * Rang 1: Libération d'énergie
@@ -228,7 +228,7 @@ Vous pouvez exploiter l’énergie cinétique et la transformer en d’autres ty
 * Rang 5: Energiser la créature
 * Rang 6: Energiser la foule ou Surcharge d'Appareil
 
-**Intrusions de la Meneuse:** L'énergie va au sol de manière destructrice. Certains prédateurs se nourrissent directement d’énergie. Un élément involontaire est vidé de son énergie.
+**Intrusions de la Meneuse:** L'énergie va au sol de manière destructrice. Certains prédateurs se nourrissent directement d'énergie. Un élément involontaire est vidé de son énergie.
 
 -----
 
@@ -263,7 +263,7 @@ Vous aimez vos amis et les aidez à sortir de toute difficulté, quoi qu'il arri
 * Rang 5: Inspirer l'action
 * Rang 6: Considération approfondie ou Compétence en défense
 
-**Intrusions de la Meneuse:** D’autres ont parfois des arrière-pensées. La loi s’y intéresse indûment. Même lorsque tout se passe bien, les répercussions s’ensuivent.
+**Intrusions de la Meneuse:** D'autres ont parfois des arrière-pensées. La loi s'y intéresse indûment. Même lorsque tout se passe bien, les répercussions s'ensuivent.
 
 -----
 
@@ -283,21 +283,21 @@ Lorsqu'il n'y a que vous, votre combinaison spatiale et le panorama d'étoiles q
 * Rang 5: Evitement par microgravité
 * Rang 6: Tir en apesanteur ou Champ réactif
 
-**Intrusions de la Meneuse:** Les combinaisons spatiales développent des problèmes. Les cartouches de recharge d’air indiquent parfois mal leur capacité. Les micrométéorites sont courantes dans l'espace.
+**Intrusions de la Meneuse:** Les combinaisons spatiales développent des problèmes. Les cartouches de recharge d'air indiquent parfois mal leur capacité. Les micrométéorites sont courantes dans l'espace.
 
 -----
 
 ### Apprend Rapidement
 
-Vous faites face aux mauvaises situations au fur et à mesure qu’elles surviennent, apprenant à chaque fois de nouvelles leçons.
+Vous faites face aux mauvaises situations au fur et à mesure qu'elles surviennent, apprenant à chaque fois de nouvelles leçons.
 
-* Rang 1: Intellect améliorée
+* Rang 1: Intellect amélioré
 * Rang 1: Voilà votre problème
 * Rang 2: Etude rapide
 * Rang 3: Difficile à distraire
-* Rang 3: Avantage d'Intellect amélioré ou Compétences en Prêt
+* Rang 3: Avantage d'Intellect Amélioré ou Compétences en Gage
 * Rang 4: Passer l'information au suivant
-* Rang 5: Intellect améliorée
+* Rang 5: Intellect amélioré
 * Rang 5: Appris des trucs
 * Rang 6: Deux choses à la fois ou Compétence en Défense Supérieure
 
@@ -310,11 +310,11 @@ Vous faites face aux mauvaises situations au fur et à mesure qu’elles survien
 Vous êtes un assassin, que ce soit par métier, par inclination, ou parce que vous vouliez vous faire tuer. (Quelqu'un qui Assassine peut disposer d'un équipement supplémentaire, notamment trois doses d'un poison de lame de niveau 2 qui inflige 5 points de dégâts.)
 
 * Rang 1: Attaque surprise
-* Rang 1: Assassin Skills
+* Rang 1: Compétences d'assassin
 * Rang 2: Mort rapide
 * Rang 2: Infiltrateur
 * Rang 3: Conscience ou Artisan de Poisons
-* Rang 4: Attaque surprise Améliorée
+* Rang 4: Attaque Surprise Améliorée
 * Rang 5: Augmente les dommages
 * Rang 6: Plan d'évasion ou Meurtrier
 
@@ -336,7 +336,7 @@ Souple, flexible et gracieux, vous vous déplacez rapidement et en douceur, et n
 * Rang 5: Glissant
 * Rang 6: Sursaut de Célérité Parfait ou Célérité améliorée supérieure
 
-**Intrusions de la Meneuse:** Même un chat peut être maladroit. Un saut n’est pas aussi facile qu’il y paraît. Un mouvement d'évasion est tellement excessif qu'il met le personnage en danger.
+**Intrusions de la Meneuse:** Même un chat peut être maladroit. Un saut n'est pas aussi facile qu'il y paraît. Un mouvement d'évasion est tellement excessif qu'il met le personnage en danger.
 
 -----
 
@@ -363,22 +363,22 @@ Des capacités mathématiques impressionnantes vous permettent de modéliser le 
 * Rang 1: Equation prédictive
 * Rang 1: Mathématiques supérieures
 * Rang 2: Modèle prédictif
-* Rang 3: Défense subconsciente ou Intellect améliorée
+* Rang 3: Défense subconsciente ou Intellect amélioré
 * Rang 4: Diagramme de combat
-* Rang 5: Intellect Améliorée Supérieure
+* Rang 5: Intellect Amélioré Supérieur
 * Rang 5: Mathématiques Complémentaires
-* Rang 6: Connaître l'inconnu ou Intellect Améliorée Supérieure
+* Rang 6: Connaître l'inconnu ou Intellect Amélioré Supérieur
 
-**Intrusions de la Meneuse:** Trop de résultats prédits menacent de submerger et d’étourdir le personnage. Un résultat indique un désastre imminent.
+**Intrusions de la Meneuse:** Trop de résultats prédits menacent de submerger et d'étourdir le personnage. Un résultat indique un désastre imminent.
 
 -----
 
 ### Canalise les Bénédictions Divines
 
-Fervent disciple d’un être divin, vous canalisez une partie du pouvoir de votre divinité pour réaliser des merveilles.
+Fervent disciple d'un être divin, vous canalisez une partie du pouvoir de votre divinité pour réaliser des merveilles.
 
 * Rang 1: Bénédiction des Dieux
-* Rang 2: Intellect améliorée
+* Rang 2: Intellect amélioré
 * Rang 3: Radiance divine ou Cube de flammes
 * Rang 4: Explosion Divine
 * Rang 5: Intervention divine
@@ -413,7 +413,7 @@ Vous êtes un bagarreur et aimez les bons combats.
 * Rang 1: Premier Soins
 * Rang 2: Protecteur
 * Rang 2: Simple et Direct
-* Rang 3: Compétence avec les attaques ou Potentiel amélioré supérieur
+* Rang 3: Compétence avec les attaques ou Potentiel amélioré plus important
 * Rang 4: Knock Out
 * Rang 5: Maîtrise des attaques
 * Rang 6: Puissance améliorée supérieure ou Dégâts mortels
@@ -448,7 +448,7 @@ Vous excellez dans la lutte contre les robots, les automates et les entités mac
 * Rang 2: Chasse aux machines
 * Rang 3: Mécanismes de désactivation ou Attaque surprise
 * Rang 4: Combattant de Robot
-* Rang 5: Drain de puissance
+* Rang 5: Drain de Puissance
 * Rang 6: Désactiver les mécanismes ou Dégâts mortels
 
 **Intrusions de la Meneuse:** Le robot explose lors de sa défaite. D'autres robots s'en prennent au personnage pour se venger.
@@ -462,11 +462,11 @@ Vous avez perfectionné le pouvoir de votre esprit pour accomplir des actes psyc
 * Rang 1: Télépathique
 * Rang 2: Lecture mentale
 * Rang 3: Projection Psychique ou Suggestion Psychique
-* Rang 4: Use Senses of Others
+* Rang 4: Utiliser les sens des autres
 * Rang 5: Précognition
 * Rang 6: Contrôle mental ou Réseau télépathique 
 
-**Intrusions de la Meneuse:** Quelque chose aperçu dans l’esprit de la cible est horrible. Une boucle de rétroaction permet à la cible de lire dans les pensées du personnage.
+**Intrusions de la Meneuse:** Quelque chose aperçu dans l'esprit de la cible est horrible. Une boucle de rétroaction permet à la cible de lire dans les pensées du personnage.
 
 -----
 
@@ -501,7 +501,7 @@ Qu'il s'agisse d'être en équilibre sur deux roues, de sauter un autre véhicul
 * Rang 5: Quelque chose sur la route
 * Rang 6: As du Volant ou Dégâts mortels
 
-**Intrusions de la Meneuse:** Le moteur a des à-coup. Le pont sur la route est levé. Le pare-brise se brise. Quelqu’un court inopinément devant le véhicule.
+**Intrusions de la Meneuse:** Le moteur a des à-coup. Le pont sur la route est levé. Le pare-brise se brise. Quelqu'un court inopinément devant le véhicule.
 
 -----
 
@@ -519,7 +519,7 @@ Le mot « robot » est utilisé dans ce Focus, bien que le robot que vous créez
 * Rang 3: Disciple expert ou Compétence en Défense Supérieure
 * Rang 4: Mise à niveau du robot
 * Rang 5: Flotte de robots
-* Rang 6: Robot Evolution ou Mise à niveau du robot
+* Rang 6: Evolution du robot ou Mise à niveau du robot
 
 **Intrusions de la Meneuse:** Le robot est piraté, acquiert son propre esprit ou explose de manière inattendue.
 
@@ -535,7 +535,7 @@ Vous pouvez exploiter les failles des systèmes artificiels, y compris, mais san
 * Rang 3: Artiste de la confiance ou Compétence avec les attaques
 * Rang 4: Confondre l'ennemi
 * Rang 5: Entretenir l'amitié
-* Rang 6: Demande d'une faveur ou Potentiel amélioré supérieur
+* Rang 6: Demande d'une faveur ou Potentiel amélioré plus important
 
 **Intrusions de la Meneuse:** Les contacts ont parfois des arrière-pensées. Les appareils ont parfois des sécurités ou même des pièges.
 
@@ -543,7 +543,7 @@ Vous pouvez exploiter les failles des systèmes artificiels, y compris, mais san
 
 ### Contrôle la Gravité
 
-Vous pouvez influencer l’attraction de la gravité elle-même.
+Vous pouvez influencer l'attraction de la gravité elle-même.
 
 **Option d'échange de type:** Lourd
 
@@ -567,7 +567,7 @@ Vous maîtrisez le métal et le pouvoir du magnétisme.
 * Rang 3: Détruire le métal ou Tir Guidé
 * Rang 4: Champ magnétique
 * Rang 5: Commander le Métal
-* Rang 6: Diamagnétisme ou Lancer Objet en Fer
+* Rang 6: Diamagnétisme ou Lancer Objet en Fer
 
 **Intrusions de la Meneuse:** Le métal se tord, se plie ou produit des éclats d'obus. Un manque de concentration peut faire glisser ou tomber quelque chose au mauvais moment.
 
@@ -592,7 +592,7 @@ Votre capacité à communiquer et à diriger des bêtes est surnaturelle.
 
 ### Contrôle une Force Invisible
 
-Vous pliez la lumière et manipulez des faisceaux de force pour l’attaque et la défense.
+Vous pliez la lumière et manipulez des faisceaux de force pour l'attaque et la défense.
 
 * Rang 1: Disparaître
 * Rang 2: Force enchevêtrante
@@ -602,7 +602,7 @@ Vous pliez la lumière et manipulez des faisceaux de force pour l’attaque et l
 * Rang 5: Champ défensif
 * Rang 6: Concussion ou Générer un champ de force
 
-**Intrusions de la Meneuse:** L’invisibilité s’estompe partiellement, révélant la présence du personnage. Un champ de force est transpercé par une attaque inhabituelle ou inattendue.
+**Intrusions de la Meneuse:** L'invisibilité s'estompe partiellement, révélant la présence du personnage. Un champ de force est transpercé par une attaque inhabituelle ou inattendue.
 
 -----
 
@@ -612,11 +612,11 @@ Vous tirez une grande satisfaction d'un travail bien fait, qu'il s'agisse de cod
 
 * Rang 1: Travaux Manuels
 * Rang 2: Muscles de fer
-* Rang 3: Oeil pour les détails ou Improvise
+* Rang 3: Oeil pour les détails ou Improviser
 * Rang 4: Puissance Améliorée
 * Rang 4: Tenez bon
 * Rang 5: Compétence d'expert
-* Rang 6: Potentiel amélioré supérieur ou  Résilience durement gagnée
+* Rang 6: Potentiel amélioré plus important ou Résilience durement gagnée
 
 **Intrusions de la Meneuse:** Les réparations échouent parfois. Le câblage peut être difficile à déchiffrer tout en portant une charge électrique. Certaines personnes sont impolis envers ceux qui travaillent pour gagner leur vie.
 
@@ -626,15 +626,15 @@ Vous tirez une grande satisfaction d'un travail bien fait, qu'il s'agisse de cod
 
 Vous pouvez copier les compétences, les capacités et les super pouvoirs des autres.
 
-* Rang 1: Compétences en Prêt
-* Rang 1: Compétences en Prêt
+* Rang 1: Compétences en Gage
+* Rang 1: Compétences en Gage
 * Rang 2: Pouvoir de copie
 * Rang 3: Voler le pouvoir ou Pouvoirs génériques
 * Rang 4: Copie Améliorée
 * Rang 5: Mémoire de Pouvoir Copié
-* Rang 6: Copie étonnante ou Multiple
+* Rang 6: Copie étonnante ou Copie multiple
 
-**Copying GM Intrusions:** Un pouvoir copié se termine de manière inattendue ou devient incontrôlable. Un pouvoir copié n’apporte pas de pouvoirs secondaires (comme gagner une super vitesse sans protection contre la friction de l’air, ou ne pas être immunisé contre la chaleur de vos propres éclairs de feu).
+**Copying GM Intrusions:** Un pouvoir copié se termine de manière inattendue ou devient incontrôlable. Un pouvoir copié n'apporte pas de pouvoirs secondaires (comme gagner une super vitesse sans protection contre la friction de l'air, ou ne pas être immunisé contre la chaleur de vos propres éclairs de feu).
 
 -----
 
@@ -699,7 +699,7 @@ Votre capacité naturelle de leadership vous permet de commander aux autres, y c
 * Rang 2: Suivant de base
 * Rang 3: Commandement avancé ou Disciple expert
 * Rang 4: Captiver ou Inspirer
-* Rang 5: Potentiel amélioré supérieur
+* Rang 5: Potentiel amélioré plus important
 * Rang 6: Bande de suivants ou Esprit de leader
 
 **Intrusions de la Meneuse:** Les adeptes échouent, trahissent, mentent, se corrompent, se font kidnapper ou meurent.
@@ -728,7 +728,7 @@ Vous vous donnez en spectacle principalement pour divertir les autres.
 
 * Rang 1: Légèreté
 * Rang 2: Facilité Inspirante
-* Rang 3: Compétences en Connaissances ou Potentiel amélioré supérieur
+* Rang 3: Compétences en Connaissances ou Potentiel amélioré plus important
 * Rang 4: Calme
 * Rang 5: Assistance compétente
 * Rang 6: Maître du spectacle ou Performance vindicative
@@ -766,7 +766,7 @@ Des affiches "WANTED, DEAD or ALIVE" (ou leur équivalent) sont apparues avec vo
 * Rang 5: Bande de Desperados
 * Rang 6: Pas encore mort ou Dégâts mortels
 
-**Intrusions de la Meneuse:** La plupart des gens n’aiment pas découvrir parmi eux un hors-la-loi recherché.
+**Intrusions de la Meneuse:** La plupart des gens n'aiment pas découvrir parmi eux un hors-la-loi recherché.
 
 -----
 
@@ -841,15 +841,15 @@ Vous êtes l'archétype du chasseur de trésors, du charognard et du chercheur d
 * Rang 3: Frappe nocturne ou Client Fuyant
 * Rang 4: Résilience durement gagnée
 * Rang 5: Explorateur des ténèbres
-* Rang 6: Attaque aveuglante ou Fussionne avec les Ténèbres
+* Rang 6: Attaque aveuglante ou Fusionne avec les Ténèbres
 
-**Intrusions de la Meneuse:** Les biens tombent des poches ou des sacs dans le noir ; les cartes se perdent ; les informations obtenues n’incluent pas un détail important.
+**Intrusions de la Meneuse:** Les biens tombent des poches ou des sacs dans le noir ; les cartes se perdent ; les informations obtenues n'incluent pas un détail important.
 
 -----
 
 ### Façonne des Illusions
 
-Vous façonnez des images à partir de la lumière qui sont si parfaites qu’elles semblent réelles.
+Vous façonnez des images à partir de la lumière qui sont si parfaites qu'elles semblent réelles.
 
 * Rang 1: Illusion mineure
 * Rang 2: Déguisement illusoire
@@ -858,7 +858,7 @@ Vous façonnez des images à partir de la lumière qui sont si parfaites qu’el
 * Rang 5: Image terrifiante
 * Rang 6: Illusion grandiose ou Illusion permanente
 
-**Intrusions de la Meneuse:** L'illusion n'est pas crédible. L’illusion est percée au mauvais moment.
+**Intrusions de la Meneuse:** L'illusion n'est pas crédible. L'illusion est percée au mauvais moment.
 
 -----
 
@@ -885,13 +885,13 @@ Maîtrise des Cyphers fonctionne uniquement dans un contexte où les chiffres so
 
 ### Façonne la Foudre
 
-Vous créez et déchargez de l’énergie électrique.
+Vous créez et déchargez de l'énergie électrique.
 
 * Rang 1: Choc Electrique
 * Rang 1: Charge
 * Rang 2: Comme l'éclair
 * Rang 3: Armure électrique ou Charge Drainante
-* Rang 4: Eclairs de puissance
+* Rang 4: Eclairs de Puissance
 * Rang 5: Vol électrique
 * Rang 6: Aussi Rapide que l'Eclair ou Mur de foudre
 
@@ -901,7 +901,7 @@ Vous créez et déchargez de l’énergie électrique.
 
 ### Fait des Miracles
 
-Vous pouvez guérir les autres d’un simple toucher, modifier le temps pour aider les autres et êtes généralement aimé de tous.
+Vous pouvez guérir les autres d'un simple toucher, modifier le temps pour aider les autres et êtes généralement aimé de tous.
 
 * Rang 1: Main Guérisseuse
 * Rang 2: Soulager
@@ -926,7 +926,7 @@ Vous émettez un son destructeur et manipulez les paysages sonores.
 * Rang 5: Amplifier les sons
 * Rang 6: Tremblement de terre ou Vibration mortelle
 
-**Intrusions de la Meneuse:** Les bruits forts attirent l’attention.
+**Intrusions de la Meneuse:** Les bruits forts attirent l'attention.
 
 -----
 
@@ -934,16 +934,16 @@ Vous émettez un son destructeur et manipulez les paysages sonores.
 
 Les aides électroniques implantées dans votre cerveau font de vous une surpuissance cérébrale.
 
-* Rang 1: Intellect améliorée
+* Rang 1: Intellect amélioré
 * Rang 1: Compétences en Connaissances
 * Rang 2: Une information dans le réseau
 * Rang 3: Processeur d'action ou Télépathie machine
-* Rang 4: Intellect Améliorée Supérieure
+* Rang 4: Intellect Amélioré Supérieur
 * Rang 4: Compétences en Connaissances
 * Rang 5: Voir l'avenir
 * Rang 6: Amélioration de la machine ou Sursaut mental
 
-**Intrusions de la Meneuse:** Les machines fonctionnent mal et s'arrêtent. De puissantes intelligences artificielles peuvent prendre le contrôle de machines moins pensantes. Certaines personnes ne font pas confiance à une personne qui n’est pas entièrement biologique.
+**Intrusions de la Meneuse:** Les machines fonctionnent mal et s'arrêtent. De puissantes intelligences artificielles peuvent prendre le contrôle de machines moins pensantes. Certaines personnes ne font pas confiance à une personne qui n'est pas entièrement biologique.
 
 -----
 
@@ -964,17 +964,17 @@ Votre corps est en partie une machine.
 
 ### Garde le Passage
 
-Tout le monde veut que vous soyez à ses côtés lorsqu’il s’agit d’un combat, car rien ne vous échappe.
+Tout le monde veut que vous soyez à ses côtés lorsqu'il s'agit d'un combat, car rien ne vous échappe.
 
 * Rang 1: Position fortifiée
 * Rang 1: Ralliez-vous à moi
-* Rang 2: Esprit de puissance
+* Rang 2: Esprit de Puissance
 * Rang 3: Constructeur de fortifications ou Détourner les attaques
 * Rang 4: Puissance améliorée supérieure
 * Rang 5: Champ de renforcement
 * Rang 6: Générer un champ de force ou Attaque Etourdissante
 
-**Intrusions de la Meneuse:** Une structure d'importance stratégique s’effondre. L'ennemi attaque depuis une direction inattendue.
+**Intrusions de la Meneuse:** Une structure d'importance stratégique s'effondre. L'ennemi attaque depuis une direction inattendue.
 
 -----
 
@@ -1003,7 +1003,7 @@ Vous gardez le lieu où vous vivez à l'abri de tout danger.
 * Rang 1: Activiste communautaire
 * Rang 2: Compétence avec les attaques
 * Rang 3: Fureur du berger ou Compétence en Défense Supérieure
-* Rang 4: Potentiel amélioré supérieur
+* Rang 4: Potentiel amélioré plus important
 * Rang 5: Evasion
 * Rang 6: Compétence en Attaque Supérieure ou Mur de protection
 
@@ -1015,7 +1015,7 @@ Vous gardez le lieu où vous vivez à l'abri de tout danger.
 
 Les âmes errantes, les esprits de la nature et les êtres élémentaires vous aident et vous soutiennent.
 
-(Dans certains contextes, le Focus Guide les Esprits s’applique à un seul type d’esprit, comme les esprits des défunts, les esprits de la nature, etc.)
+(Dans certains contextes, le Focus Guide les Esprits s'applique à un seul type d'esprit, comme les esprits des défunts, les esprits de la nature, etc.)
 
 * Rang 1: Interrogez les esprits
 * Rang 2: Esprit Complice
@@ -1081,12 +1081,12 @@ Vous excellez à convaincre les autres de partager vos opinions.
 * Rang 1: Persuasion et Tromperie
 * Rang 1: Connaissance de la loi
 * Rang 2: Débat
-* Rang 3: Assistance compétente ou Avantage d'Intellect amélioré
+* Rang 3: Assistance compétente ou Avantage d'Intellect Amélioré
 * Rang 4: Fustiger
 * Rang 5: Personne ne sait mieux
-* Rang 6: Potentiel amélioré supérieur ou Stagiaire juridique
+* Rang 6: Potentiel amélioré plus important ou Stagiaire juridique
 
-**Intrusions de la Meneuse:** Les spectateurs réagissent mal à un je-sais-tout. Une distraction ou une interruption fait dérailler l’argumentation du personnage.
+**Intrusions de la Meneuse:** Les spectateurs réagissent mal à un je-sais-tout. Une distraction ou une interruption fait dérailler l'argumentation du personnage.
 
 -----
 
@@ -1096,7 +1096,7 @@ Vous pouvez invoquer des tempêtes ou les briser.
 
 * Rang 1: Survol
 * Rang 2: Armure de vent
-* Rang 3: Eclairs de puissance ou Graine de Tempête
+* Rang 3: Eclairs de Puissance ou Graine de Tempête
 * Rang 4: Surfeur des Vents
 * Rang 5: Explosion de froid
 * Rang 6: Contrôle de la météo ou Chariot à vent
@@ -1125,7 +1125,7 @@ Tout ce qui quitte votre main va exactement là où vous souhaitez qu'il aille e
 
 Vous êtes un maître d'arme d'un type particulier d'arme, qu'il s'agisse d'une épée, d'un fouet, d'un poignard, d'un pistolet ou autre.
 
-(Quelqu’un qui Maîtrise l'Armement peut disposer d’un équipement supplémentaire, notamment une arme de haute qualité.)
+(Quelqu'un qui Maîtrise l'Armement peut disposer d'un équipement supplémentaire, notamment une arme de haute qualité.)
 
 * Rang 1: Maître d'Arme
 * Rang 1: Fabricant d'armes
@@ -1191,7 +1191,7 @@ En vous spécialisant dans le lancement de sortilèges et en tenant un livre de 
 Vous pouvez manipuler l'ombre et la matière « noire ».
 
 * Rang 1: Rubans de matière noire
-* Rang 2: Ailes du Aime le Vide
+* Rang 2: Ailes du Vide
 * Rang 3: Manteau de matière noire ou Frappe de matière noire
 * Rang 4: Coquille de matière noire
 * Rang 5: Surfeur de Matière Noire
@@ -1225,7 +1225,7 @@ Des coups de poing, de pied, de coude, des genoux et des mouvements complets du 
 * Rang 1: Chair de Pierre
 * Rang 2: Avantage par Désavantage
 * Rang 2: Style de combat à mains nues
-* Rang 3: Se déplacer comme l'eau ou Potentiel amélioré supérieur
+* Rang 3: Se déplacer comme l'eau ou Potentiel amélioré plus important
 * Rang 4: Détourner les attaques
 * Rang 5: Attaque Etourdissante
 * Rang 6: Maître du style de combat à mains nues ou Dégâts mortels
@@ -1240,10 +1240,10 @@ Vous êtes un fainéant, mais vous en savez un peu sur beaucoup de choses.
 
 * Rang 1: Leçons de vie
 * Rang 2: Totalement Chill
-* Rang 3: Compétence avec les attaques ou Improvise
+* Rang 3: Compétence avec les attaques ou Improviser
 * Rang 4: Leçons de vie
 * Rang 4: Compétence en Défense Supérieure
-* Rang 5: Potentiel amélioré supérieur
+* Rang 5: Potentiel amélioré plus important
 * Rang 6: S'appuyer sur les expériences de la vie ou Vif d'esprit
 
 **Intrusions de la Meneuse:** Les nouvelles situations sont déroutantes et stressantes. Les actions (ou inactions) passées reviennent hanter le personnage.
@@ -1252,7 +1252,7 @@ Vous êtes un fainéant, mais vous en savez un peu sur beaucoup de choses.
 
 ### Ne S'Avoue Jamais Vaincu
 
-Vous n’abandonnez jamais, vous pouvez ignorer les coups et revenir toujours pour vous battre.
+Vous n'abandonnez jamais, vous pouvez ignorer les coups et revenir toujours pour vous battre.
 
 * Rang 1: Récupération améliorée
 * Rang 1: Passer à travers
@@ -1268,7 +1268,7 @@ Vous n’abandonnez jamais, vous pouvez ignorer les coups et revenir toujours po
 
 ### Opère sous Couverture
 
-Sous l’apparence de quelqu’un d’autre, vous cherchez à trouver des réponses que les puissants ne veulent pas divulguer.
+Sous l'apparence de quelqu'un d'autre, vous cherchez à trouver des réponses que les puissants ne veulent pas divulguer.
 
 (Quelqu'un qui Opère sous Couverture pourrait avoir un équipement supplémentaire comprenant un kit de déguisement.)
 
@@ -1285,7 +1285,7 @@ Sous l’apparence de quelqu’un d’autre, vous cherchez à trouver des répon
 
 ### Parle au Nom de la Terre
 
-Votre connexion spirituelle avec la nature et l’environnement vous confère des capacités mystiques.
+Votre connexion spirituelle avec la nature et l'environnement vous confère des capacités mystiques.
 
 * Rang 1: Graines de fureur
 * Rang 1: Connaissances en milieu sauvage
@@ -1301,7 +1301,7 @@ Votre connexion spirituelle avec la nature et l’environnement vous confère de
 
 ### Parle aux Machines
 
-Vous utilisez votre cerveau organique comme un ordinateur, en interface « sans fil » avec n’importe quel appareil électronique. Vous pouvez les contrôler et les influencer d’une manière que d’autres ne peuvent pas.
+Vous utilisez votre cerveau organique comme un ordinateur, en interface « sans fil » avec n'importe quel appareil électronique. Vous pouvez les contrôler et les influencer d'une manière que d'autres ne peuvent pas.
 
 * Rang 1: Affinité machine
 * Rang 1: Interface distante
@@ -1329,7 +1329,7 @@ Vous pouvez projeter votre esprit hors de votre corps pour voir des endroits loi
 * Rang 5: Passager psychique
 * Rang 6: Projection mentale ou Capteur amélioré
 
-**Intrusions de la Meneuse:** Réunir l’esprit et le corps peut parfois être désorientant et nécessiter qu’un personnage passe quelques instants pour se repérer.
+**Intrusions de la Meneuse:** Réunir l'esprit et le corps peut parfois être désorientant et nécessiter qu'un personnage passe quelques instants pour se repérer.
 
 -----
 
@@ -1381,11 +1381,13 @@ Vous possédez une arme aux capacités étranges, et votre connaissance de ses p
 * Rang 5: Mouvement enchanté
 * Rang 6: Frappe mortelle ou Attaque Tournoyante
 
-**Intrusions de la Meneuse:** Une arme se brise ou tombe. Le personnage perd sa connexion avec l'arme jusqu'à ce qu'il utilise une action pour rétablir l'harmonisation. L’énergie de l’arme se décharge de manière inattendue.
+**Intrusions de la Meneuse:** Une arme se brise ou tombe. Le personnage perd sa connexion avec l'arme jusqu'à ce qu'il utilise une action pour rétablir l'harmonisation. L'énergie de l'arme se décharge de manière inattendue.
 
 -----
 
 ### Porte une Armure Mécanique
+
+Vous portez une armure fantastique.
 
 * Rang 1: Armure motorisée
 * Rang 1: Puissance Améliorée
@@ -1413,7 +1415,7 @@ Votre perspicacité et vos capacités surnaturelles font de vous un scientifique
 * Rang 6: Incroyable exploit scientifique
 * Rang 6: Inventeur ou Champ défensif
 
-**Intrusions de la Meneuse:** Les créations deviennent incontrôlables. Les effets secondaires ne sont pas toujours prévisibles. Les sciences étranges terrifient les gens et peuvent attirer l’attention des médias. Lorsqu'un appareil créé ou modifié par une science étrange est épuisé, il explose.
+**Intrusions de la Meneuse:** Les créations deviennent incontrôlables. Les effets secondaires ne sont pas toujours prévisibles. Les sciences étranges terrifient les gens et peuvent attirer l'attention des médias. Lorsqu'un appareil créé ou modifié par une science étrange est épuisé, il explose.
 
 -----
 
@@ -1422,13 +1424,13 @@ Votre perspicacité et vos capacités surnaturelles font de vous un scientifique
 Les livres sont vos amis. Qu'y a-t-il de plus important que la connaissance ? Rien.
 
 * Rang 1: La connaissance, c'est le pouvoir
-* Rang 2: Intellect Améliorée Supérieure
-* Rang 3: Appliquer vos connaissances ou Compétences en Prêt
+* Rang 2: Intellect Amélioré Supérieur
+* Rang 3: Appliquer vos connaissances ou Compétences en Gage
 * Rang 4: La connaissance, c'est le pouvoir
-* Rang 4: Connaître l'inconn
-* Rang 5: Intellect Améliorée Supérieure
+* Rang 4: Connaître l'inconnu
+* Rang 5: Intellect Amélioré Supérieur
 * Rang 6: La connaissance, c'est le pouvoir
-* Rang 6: Tour de l'Intellectou Lire les signes
+* Rang 6: Tour de l'Intellect ou Lire les signes
 
 **Intrusions de la Meneuse:** Les livres brûlent, sont mouillés ou se perdent. Les ordinateurs tombent en panne ou perdent de la puissance. Les verres se cassent.
 
@@ -1442,7 +1444,7 @@ Vous pouvez vous transformer en animal.
 * Rang 3: Forme animale plus grande ou Forme de bête Supérieure
 * Rang 4: Analyse d'animal
 * Rang 5: Difficile à tuer
-* Rang 6: Célérité flou ou Prêter une forme animale
+* Rang 6: Vitesse floue ou Prêter une forme animale
 
 **Intrusions de la Meneuse:** Le personnage change de forme de manière inattendue. Un PNJ est effrayé par votre agressivité envers le métamorphe. La transformation prend plus de temps que prévu.
 
@@ -1493,7 +1495,7 @@ Vous pouvez extraire des images de rêves et leur donner vie dans le monde évei
 * Rang 1: Artisanat des Rêves
 * Rang 1: Science du Sommeil
 * Rang 2: Voleur de rêves
-* Rang 3: Le rêve devient réalité ou Intellect améliorée
+* Rang 3: Le rêve devient réalité ou Intellect amélioré
 * Rang 4: Rêverie
 * Rang 5: Cauchemar
 * Rang 6: Chambre des rêves ou Champ réactif
@@ -1589,7 +1591,7 @@ De nombreux super-héros peuvent voler et certains ont même des ailes. Vous pou
 
 ### S'Etire
 
-Votre corps est élastique et caoutchouteux, capable de s’étirer sur de grandes longueurs et de se comprimer lorsqu’il est frappé.
+Votre corps est élastique et caoutchouteux, capable de s'étirer sur de grandes longueurs et de se comprimer lorsqu'il est frappé.
 
 * Rang 1: Contorsionniste
 * Rang 1: Grand Pas
@@ -1600,19 +1602,19 @@ Votre corps est élastique et caoutchouteux, capable de s’étirer sur de grand
 * Rang 5: Libre de se déplacer
 * Rang 6: Briser les rangs ou Pas encore mort
 
-**Intrusions de la Meneuse:** Une attaque ou un effet perturbe l’élasticité du personnage. Un membre étiré devient trop sollicité et faible.
+**Intrusions de la Meneuse:** Une attaque ou un effet perturbe l'élasticité du personnage. Un membre étiré devient trop sollicité et faible.
 
 -----
 
 ### Sculpte la Lumière Solide
 
-Vous créez des objets physiques à partir d’une lumière solide que vous pouvez utiliser à des fins offensives et défensives.
+Vous créez des objets physiques à partir d'une lumière solide que vous pouvez utiliser à des fins offensives et défensives.
 
 * Rang 1: Lueur automatique
 * Rang 1: Lumière temporaire
 * Rang 2: Force enchevêtrante
-* Rang 3: Lumière plus Forte ou Lumière sculptée
-* Rang 4: Intellect Améliorée Supérieure
+* Rang 3: Lumière plus Forte ou Sculpter la lumière
+* Rang 4: Intellect Amélioré Supérieur
 * Rang 5: Lumière sculptée améliorée
 * Rang 6: Champ défensif ou Vol
 
@@ -1667,7 +1669,7 @@ La subtilité, la ruse et la furtivité vous permettent d'accéder là où les a
 * Rang 5: Esquive
 * Rang 6: Lavage de cerveau ou Saut de Côté
 
-**Intrusions de la Meneuse:** Les espions sont traités durement lorsqu’ils sont capturés. Les alliés désavouent les infiltrés qui se font prendre. Il vaut mieux laisser certains secrets inconnus.
+**Intrusions de la Meneuse:** Les espions sont traités durement lorsqu'ils sont capturés. Les alliés désavouent les infiltrés qui se font prendre. Il vaut mieux laisser certains secrets inconnus.
 
 -----
 
@@ -1678,10 +1680,10 @@ Quand vous devenez fou, tout le monde vous craint.
 * Rang 1: Frénésie
 * Rang 2: Puissance améliorée supérieure
 * Rang 2: Habiletés motrices
-* Rang 3: Frappe Renversante ou Combattant sans armure:
+* Rang 3: Frappe Renversante ou Combattant sans armure
 * Rang 4: Frénésie supérieure
 * Rang 5: Attaquez et attaquez encore
-* Rang 6: Potentiel amélioré supérieur ou Dégâts mortels
+* Rang 6: Potentiel amélioré plus important ou Dégâts mortels
 
 **Intrusions de la Meneuse:** Il est facile pour un berserker de perdre le contrôle et d'attaquer ses amis comme ses ennemis.
 
@@ -1698,7 +1700,7 @@ Vous pouvez réduire à la taille d'un bug et, avec suffisamment d'expérience, 
 * Rang 3: Agrandir ou Changements Rapides
 * Rang 4: Petit vol
 * Rang 5: Rétrécir les autres
-* Rang 6: Plus grand ou Tiny
+* Rang 6: Plus grand ou Minuscule
 
 **Intrusions de la Meneuse:** Une créature pense que le petit personnage est de la nourriture potentielle. Le petit personnage se retrouve coincé dans un espace minuscule ou sous un objet qui tombe.
 
@@ -1728,7 +1730,7 @@ Vous pouvez envelopper votre corps de flammes, ce qui vous protège et nuit à v
 Vous aspirez le pouvoir des machines et des créatures afin de vous donner du pouvoir.
 
 {{< hint info >}}
-Les robots et autres machines vivantes doivent être traités comme des créatures, et non comme des machines, dans le but d’en siphonner l’énergie.
+Les robots et autres machines vivantes doivent être traités comme des créatures, et non comme des machines, dans le but d'en siphonner l'énergie.
 {{< /hint >}}
 
 * Rang 1: Drain de Machine
@@ -1757,7 +1759,7 @@ Bien que manier une épée dans un environnement où les gens ne portent génér
 * Rang 3: Epéiste entraîné
 * Rang 3: Fléau des Monstres Amélioré ou Détournement
 * Rang 4: Continuez le combat
-* Rang 5: Compétence en Attaque Supérieure (épées)
+* Rang 5: Compétence en Attaque Supérieure
 * Rang 6: Meurtrier ou Fléau des Monstres Géants
 
 **Intrusions de la Meneuse:** Le monstre a tendu un piège ou tendu une embuscade. Le monstre a des capacités jusqu'alors inconnues. La mère du monstre jure de se venger.
@@ -1785,7 +1787,7 @@ Vous pouvez vous déplacer si vite que vous devenez flou.
 Vous pouvez survivre dans des étendues sauvages où d'autres périssent.
 
 * Rang 1: Vie en pleine nature
-* Rang 1: Puissance Amélioré
+* Rang 1: Puissance Améliorée
 * Rang 2: Vivre de la terre
 * Rang 2: Explorateur de la Nature
 * Rang 3: Sens et sensibilités animales ou Encouragement de la Nature
@@ -1817,7 +1819,7 @@ Vous avez un sens psychique qui vous permet de voir ce que les autres ne peuvent
 Vous pouvez voler et vous êtes super fort, difficile à blesser et rapide aussi. Y a-t-il quelque chose que vous ne pouvez pas faire ?
 
 * Rang 1: Survol
-* Rang 2: Potentiel amélioré supérieur
+* Rang 2: Potentiel amélioré plus important
 * Rang 3: Réserves cachées ou Voir à travers la matière
 * Rang 4: En un Clin d'oeil
 * Rang 4: Accélérer
@@ -1843,7 +1845,7 @@ Bien que tous les choix de personnages soient soumis à l'approbation du MJ, Voy
 * Rang 5: Doppelganger Temporel
 * Rang 6: Appel à travers le temps ou Voyage dans le temps
 
-**Intrusions de la Meneuse:** Des paradoxes se créent. D’autres se souviennent différemment des événements passés.
+**Intrusions de la Meneuse:** Des paradoxes se créent. D'autres se souviennent différemment des événements passés.
 
 -----
 
@@ -1862,18 +1864,6 @@ Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur
 **Intrusions de la Meneuse:** Un sort s'exécute de manière erratique ou rebondit sur le lanceur. Quelque chose interfère avec la préparation des sorts. Le lancement de sorts attire l'attention d'une créature puissante ou d'un rival potentiel. Le sort de chiffre lancé est remplacé par celui d'un chiffre aléatoire.
 
 -----
-
-### Utilise la Magie Sauvage
-
-Lanceur de sorts qui apprend une variété de sorts au lieu de se concentrer sur un seul type de magie.
-
-* Rang 1: Répertoire magique
-* Rang 1: Lancement de Cypher
-* Rang 2: Répertoire étendu
-* Rang 3: Sursaut de Cypher ou Magie Sauvage plus rapide
-* Rang 4: Répertoire étendu
-* Rang 5: Entraînement magique
-* Rang 6: Maximiser le Cypher ou Instinct de Magie Sauvage
 
 **Intrusions de la Meneuse:** Un sort s'exécute de manière erratique ou rebondit sur le lanceur. Quelque chose interfère avec la préparation des sorts. Le lancement de sorts attire l'attention d'une créature puissante ou d'un rival potentiel. Le sort de chiffre lancé est remplacé par celui d'un chiffre aléatoire.
 
@@ -1905,11 +1895,11 @@ Le Focus nouvellement créée doit être nommée sous la forme d'un verbe, comme
 
 ## Choisir une Capacité en fonction de la Puissance Relative
 
-Les indications de sélection des capacités vous invitent à choisir une capacité parmi l’une des trois gammes : Rang bas, Rang moyen et Rang élevé. Ces plages correspondent aux « grades » de puissance donnés pour chaque capacité. Ces capacités sont ensuite classées en catégories de capacités en fonction du type de choses qu'ils font : les capacités qui améliorent les attaques physiques sont dans la catégorie des compétences d'attaque, les capacités qui aident les alliés sont dans la catégorie de soutien, et ainsi de suite. Recherchez les notes et les catégories dans la section Catégories de capacités et puissance relative du chapitre Capacités.
+Les indications de sélection des capacités vous invitent à choisir une capacité parmi l'une des trois gammes : Rang bas, Rang moyen et Rang élevé. Ces plages correspondent aux « grades » de puissance donnés pour chaque capacité. Ces capacités sont ensuite classées en catégories de capacités en fonction du type de choses qu'ils font : les capacités qui améliorent les attaques physiques sont dans la catégorie des compétences d'attaque, les capacités qui aident les alliés sont dans la catégorie de soutien, et ainsi de suite. Recherchez les notes et les catégories dans la section Catégories de capacités et puissance relative du chapitre Capacités.
 
 Les capacités de rang bas sont mieux adaptées aux options de Focus aux rangs 1 et 2. Les capacités de rang intermédiaire sont mieux adaptées aux options de Focus aux rangs 3 et 4. Les capacités de rang élevé sont mieux adaptées aux options de Focus aux rangs 5 ​​et 6.
 
-Cela dit, vous trouverez parfois approprié d'attribuer une capacité de bas rang au rang 3 ou 4, ou peut-être une capacité de milieu de gamme au rang 1 ou 2. Faites-le avec parcimonie, mais ne l'excluez pas. C’est peut-être le seul moyen d’obtenir toutes les capacités souhaitées pour le Focus que vous développez. Les capacités de rang supérieur coûtent généralement plus de points de réserve à utiliser. Ainsi, si une capacité de milieu de gamme est disponible au rang 1 ou 2, ou qu'une capacité de rang supérieur est disponible au rang 3 ou 4, le coût plus élevé sera un facteur d'équilibrage.
+Cela dit, vous trouverez parfois approprié d'attribuer une capacité de bas rang au rang 3 ou 4, ou peut-être une capacité de milieu de gamme au rang 1 ou 2. Faites-le avec parcimonie, mais ne l'excluez pas. C'est peut-être le seul moyen d'obtenir toutes les capacités souhaitées pour le Focus que vous développez. Les capacités de rang supérieur coûtent généralement plus de points de réserve à utiliser. Ainsi, si une capacité de milieu de gamme est disponible au rang 1 ou 2, ou qu'une capacité de rang supérieur est disponible au rang 3 ou 4, le coût plus élevé sera un facteur d'équilibrage.
 
 ### Equilibrer les Capacités
 
@@ -1917,11 +1907,11 @@ Les indications au sein de chaque catégorie contribuent grandement à garantir 
 
 Par exemple, quelqu'un qui utilise le froid pourrait être capable de créer de petites sculptures de neige en plus d'émettre un rayon froid. Quelqu'un qui utilise de l'électricité pourrait être en mesure de recharger un artefact épuisé ou disposer d'un atout pour gérer les systèmes électriques. Et ainsi de suite.
 
-Souvent, les indications de Focus mentionnent cela comme une possibilité. Cependant, vous disposez d'une grande latitude pour décider si un Focus nécessite une capacité supplémentaire, même si les indications de ce rang n'en indiquent pas. Si vous ajoutez une capacité, ou s'il existe une capacité de puissance plus élevée dans un rang qui ne devrait normalement pas l'avoir, cela peut signifier que le choix donné au rang suivant, ou au rang précédent, n'est pas aussi bon. Équilibrer un Focus est un peu un art. Résistez à l’envie de donner trop de puissance à le Focus, mais ne la sous-estimez pas non plus.
+Souvent, les indications de Focus mentionnent cela comme une possibilité. Cependant, vous disposez d'une grande latitude pour décider si un Focus nécessite une capacité supplémentaire, même si les indications de ce rang n'en indiquent pas. Si vous ajoutez une capacité, ou s'il existe une capacité de puissance plus élevée dans un rang qui ne devrait normalement pas l'avoir, cela peut signifier que le choix donné au rang suivant, ou au rang précédent, n'est pas aussi bon. Équilibrer un Focus est un peu un art. Résistez à l'envie de donner trop de puissance à le Focus, mais ne la sous-estimez pas non plus.
 
 ### Les Indications de Capacité ne sont pas Prescriptives
 
-Chaque catégorie de Focus fournit une ligne directrice sur le type de capacité que vous devez sélectionner à chaque rang. Mais ne considérez pas les indications comme quelque chose que vous ne pouvez pas modifier. Elles ne sont pas prescriptives; elles ne sont qu'un point de départ. Vous souhaiterez peut-être varier le type de capacité d'un rang particulier qui n'est pas indiqué dans les indications. Tant que la capacité choisie se situe dans la courbe de puissance attendue pour ce Rang, tout va bien. L'indication' n’est pas censée être une camisole de force.
+Chaque catégorie de Focus fournit une ligne directrice sur le type de capacité que vous devez sélectionner à chaque rang. Mais ne considérez pas les indications comme quelque chose que vous ne pouvez pas modifier. Elles ne sont pas prescriptives; elles ne sont qu'un point de départ. Vous souhaiterez peut-être varier le type de capacité d'un rang particulier qui n'est pas indiqué dans les indications. Tant que la capacité choisie se situe dans la courbe de puissance attendue pour ce Rang, tout va bien. L'indication' n'est pas censée être une camisole de force.
 
 Par exemple, si vous construisez un Focus d'utilisation du froid pour un jeu se déroulant dans un genre fantastique, vous pouvez décider qu'une capacité qui invoque un démon est un meilleur choix à un rang particulier qu'une capacité qui inflige des dégâts dans une zone, ce que demande l'indication Rang 5 pour la manipulation de l'énergie. Faire le changement est probablement particulièrement valable si vous appelez votre nouveau focus quelque chose comme Cannalise le Neuvième Cercle.
 
@@ -1931,23 +1921,23 @@ Si vous créez un Focus et que vous pensez qu'elle devrait fournir une suite de 
 
 ### Concept et Categorie
 
-Choisir de créer un Focus qui utilise un concept particulier --- par exemple, créer des illusions --- ne vous oblige pas à créer un Focus dans une catégorie particulière --- dans ce cas, la manipulation de l'environnement. Un Focus peut être construite de différentes manières en utilisant une énergie, un outil ou un concept particulier, chacun conduisant finalement à un Focus qui fournit des résultats différents. Tout dépend de vos objectifs. Dans ce cas, la création d’illusions pourrait être utilisée pour influencer les autres, ce qui plaide en faveur d’un Focus basée sur les indications de la catégorie d’influence.
+Choisir de créer un Focus qui utilise un concept particulier --- par exemple, créer des illusions --- ne vous oblige pas à créer un Focus dans une catégorie particulière --- dans ce cas, la manipulation de l'environnement. Un Focus peut être construite de différentes manières en utilisant une énergie, un outil ou un concept particulier, chacun conduisant finalement à un Focus qui fournit des résultats différents. Tout dépend de vos objectifs. Dans ce cas, la création d'illusions pourrait être utilisée pour influencer les autres, ce qui plaide en faveur d'un Focus basée sur les indications de la catégorie d'influence.
 
 De la même manière, si un Focus accorde à un personnage la possibilité d'invoquer une sorte de force ou d'énergie, cela ne signifie pas que le Focus doit automatiquement être construite en utilisant les indications de la catégorie de manipulation d'énergie (même si bien sûr cela serait possible si attaquer et vous protéger avec cette énergie est le but). Mais un Focus pourrait être construite pour accorder des capacités de création d'énergie ou de force principalement axées sur la résistance, cela suggère une orientation vers le combat défensif (quelqu'un qui peut encaisser beaucoup de dégats dans un combat) ; ou des capacités se concentrant sur tirer avec le souci principal de maximiser les dégâts, suggérant ainsi un Focus de catégorie combat offensif ; ou alors vous créez un suivant composé de cette énergie ou force, suggérant ainsi un Focus de catégorie Utilisation d'Alliés (c'est-à-dire quelqu'un qui utilise des créatures aidantes, des PNJ, ou même qui duplique des versions d'eux-mêmes pour vous donner un coup de pouce).
 
 Voici un autre exemple : la Motivaton Contrôle la Gravité pourrait éventuellement être un Focus de catégorie manipulation de l'environnement ou de catégorie manipulation d'énergie. Cela dépend si l'accent est davantage mis sur l'écrasement et le maintien des objets en place (manipulation de l'environnement) ou sur le fait de faire exploser des objets et de se protéger grâce à la gravité (manipulation d'énergie).
 
-La même souplesse du concept s’applique à d’autres domaines. Par exemple, si quelqu'un est capable d'invoquer et de modeler de la terre brute, il peut l'utiliser pour se transformer en un être de pierre (combat défensif), pour battre des ennemis (combat offensif), ou pour créer des murs, des barricades et des boucliers pour protéger leurs alliés (soutien).
+La même souplesse du concept s'applique à d'autres domaines. Par exemple, si quelqu'un est capable d'invoquer et de modeler de la terre brute, il peut l'utiliser pour se transformer en un être de pierre (combat défensif), pour battre des ennemis (combat offensif), ou pour créer des murs, des barricades et des boucliers pour protéger leurs alliés (soutien).
 
 Si vous recherchez une capacité et que vous n'arrivez pas à trouver celle qui vous convient dans le vaste catalogue du chapitre Capacités, envisagez d'en modifier une afin d'en créer une nouvelle (et pour accomplir ce dont vous avez besoin). Cette modification consiste à utiliser les mécanismes sous-jacents d'une capacité tels qu'ils sont écrits, mais que vous en modifiez les effets visibles d'une manière ou d'une autre. Par exemple, vous êtes peut-être en train de créer un nouvel objectif de déplacement de terre, mais vous ne parvenez pas à trouver suffisamment de capacités liées à la terre pour répondre à vos besoins. Il est assez facile de modifier d'autres capacités pour qu'ils utilisent la terre au lieu du feu, du froid ou du magnétisme. Par exemple, Ailes de Feu pourrait devenir Ailes de Terre, Armure de Glace pourrait devenir Armure de Terre, et ainsi de suite. Ces altérations ne changent rien sauf le type de dégâts et les éventuelles répercussions (par exemple, Ailes de Terre pourrait générer des nuages ​​de poussière dans leur sillage).
 
 ### Des Capacités qui font référence à d'autres Capacités
 
-Certaines capacités du chapitre Capacités font référence à d’autres capacités. Si,pour votre Focus ou votre type, vous sélectionnez une capacité qui fait référence ou modifie une capacité de rang inférieur, incluez également cette capacité de rang inférieur dans votre type ou focus en tant que sélection qu'un PJ peut faire à un rang inférieur.
+Certaines capacités du chapitre Capacités font référence à d'autres capacités. Si,pour votre Focus ou votre type, vous sélectionnez une capacité qui fait référence ou modifie une capacité de rang inférieur, incluez également cette capacité de rang inférieur dans votre type ou focus en tant que sélection qu'un PJ peut faire à un rang inférieur.
 
 ## Création d'une toute nouvelle Capacité
 
-Vous pouvez aller plus loin que la modification superficielle et créer une ou plusieurs nouvelles capacités. Ce faisant, essayez de trouver quelque chose d’aussi proche que possible de l’effet souhaité, puis utilisez-le comme modèle. Dans tous les cas, décider du coût d'une capacité en ce qui concerne la réserve d'un personnage est l'un des aspects les plus importants pour obtenir une bonne capacité.
+Vous pouvez aller plus loin que la modification superficielle et créer une ou plusieurs nouvelles capacités. Ce faisant, essayez de trouver quelque chose d'aussi proche que possible de l'effet souhaité, puis utilisez-le comme modèle. Dans tous les cas, décider du coût d'une capacité en ce qui concerne la réserve d'un personnage est l'un des aspects les plus importants pour obtenir une bonne capacité.
 
 Vous avez pu remarqué que les capacités de haut-rang sont les plus coûteuses. C'est en parti parcequ'elles permettent plus de choses, mais aussi parceque les personnages de haut-rang ont plus d'Avantage que les personnages de rang inférieur, ce qui signifie qu'ils dépensent moins de points dans leurs Réserves. Un personnage de troisème rang avec un Avantage de 3 dans la Réserve appropriée ne dépensera aucun point pour une capacité qui coûte 3 points ou moins. C'est parfait pour les capacités de rang inférieur, mais vous devez plutôt vouloir qu'un personnage réfléchisse un petit peu avant d'utiliserleurs capacités les plus puissantes. Cela veut dire que les capacités devraient coûter au moins 1 point de plus que l'Avantage que le personnage est supposé avoir à ce rang. (Souvent un personnage aura un Avantage dans les Réserve principale égal à son rang.)
 
@@ -2228,7 +2218,7 @@ La liste ci-après ne sont que des exemples et n'est pas une liste complète de 
 **Indications pour la Sélection de Capacités**
 
 **Rang 1:** Choisissez une capacité de rang inférieur qui donne un PNJ de niveau 2 au personnage, ou qui donne un bénéfice similaire fournit par un PNJ. Vous pouvez également fournir les bases pour gagner de tels alliés PNJ à des rangs plus élevés en choisissant une capacité qui donne au personnage une influence sur les autres.
-Parfois, une capacité supplémentaire de rang inférieur est appropriée, en fonction de le Focus. Il s’agit souvent d’une capacité qui confère un entrainement dans une compétence dans un domaine de connaissances ou une compétence connexe. Par exemple, un entrainement dans une compétence liée au type d’allié PNJ que le personnage gagne serait appropriée.
+Parfois, une capacité supplémentaire de rang inférieur est appropriée, en fonction de le Focus. Il s'agit souvent d'une capacité qui confère un entrainement dans une compétence dans un domaine de connaissances ou une compétence connexe. Par exemple, un entrainement dans une compétence liée au type d'allié PNJ que le personnage gagne serait appropriée.
 
 **Rang 2:** Choisissez une capacité de rang inférieur qui confère une influence sur des types de PNJ similaires à ceux obtenus par l'allié au rang précédent. Si aucun allié n'a été gagné au Rang précédent, cette capacité devrait offrir cet avantage maintenant.
 Parfois, une capacité secondaire peut être appropriée en plus de la capacité fournie ci-dessus, par exemple une capacité de faible puissance qui accorde 2 ou 3 points à une Réserve.
@@ -2241,7 +2231,7 @@ L'autre option devrait être quelque chose qui profite au personnage --- peut-ê
 **Rang 4:** Choisissez une capacité de rang intermédiaire qui donne au personnage une capacité offensive ou défensive s'il n'en a pas acquis auparavant, de préférence dans le thème de le Focus. Par exemple, si le personnage gagne des alliés en raison de son charisme, cette capacité peut lui permettre de commander ses ennemis pendant de brèves périodes. Si le personnage gagne des alliés en les construisant ou en les appelant, cette capacité peut lui permettre d'affecter des entités du même type qui ne sont pas déjà ses alliés.
 Ou alors, cette capacité pourrait améliorer davantage un allié précédemment gagné du niveau 3 au niveau 4, ou accorder un allié supplémentaire.
 
-**Rang 5:** Choisissez une capacité qui améliore le personnage en lui fournissant une défense, une Réserve améliorée de statistiques ou un autre type de protection. Alternativement, cette capacité pourrait ouvrir une nouvelle possibilité pour influencer et appeler des alliés PNJ liés au thème de le Focus. Par exemple, quelqu’un qui garde des bêtes alliées pourrait acquérir la capacité d’invoquer une horde de bêtes inférieures. Quelqu'un qui construit des robots pourrait acquérir la capacité de construire plusieurs robots assistants de moindre importance. Et ainsi de suite.
+**Rang 5:** Choisissez une capacité qui améliore le personnage en lui fournissant une défense, une Réserve améliorée de statistiques ou un autre type de protection. Alternativement, cette capacité pourrait ouvrir une nouvelle possibilité pour influencer et appeler des alliés PNJ liés au thème de le Focus. Par exemple, quelqu'un qui garde des bêtes alliées pourrait acquérir la capacité d'invoquer une horde de bêtes inférieures. Quelqu'un qui construit des robots pourrait acquérir la capacité de construire plusieurs robots assistants de moindre importance. Et ainsi de suite.
 
 Enfin, cette capacité pourrait améliorer un allié précédemment gagné au niveau 5.
 
@@ -2250,7 +2240,7 @@ L'une des capacités devrait améliorer un allié précédemment acquis au nivea
 
 L'autre option de rang supérieur devrait fournir au personnage une poignée d'alliés de niveau 3.
 
-La dernière capacité de rang supérieur pourrait être une nouvelle possibilité pour influencer et appeler des alliés PNJ liés au thème de le Focus. Par exemple, quelqu’un qui gagne des alliés grâce à un charisme et un entrainement pourrait acquérir la capacité d’apprendre des informations autrement impossibles à glaner.
+La dernière capacité de rang supérieur pourrait être une nouvelle possibilité pour influencer et appeler des alliés PNJ liés au thème de le Focus. Par exemple, quelqu'un qui gagne des alliés grâce à un charisme et un entrainement pourrait acquérir la capacité d'apprendre des informations autrement impossibles à glaner.
 
 -----
 
