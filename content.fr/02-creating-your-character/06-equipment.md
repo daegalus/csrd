@@ -132,7 +132,7 @@ Les boucliers donnent un atout aux tâches de Défense de Célérité du porteur
 
 Tous les personnages ne sont pas familiers avec toutes les armes. Les Gueriers sont familiers de la plupart des type d'armes, mais les Explorateurs préfèrent les armes légères ou moyennes, et les Adeptes et les Émissaires n'utilisent que des armes légères. Si vous devez utiliser une arme pour laquelle vous n'avez aucune expériencen une attaque avec cette arme sera désavantagée. Avoirde l'expérience avec une arme est appelé avoir de la pratique avec l'arme.
 
-Les **armes légères** n'infligent que 2 points de dommages, mais elles facilitent les jets d'attaque car elles sont rapides et simples à utiliser. Les armes légères sont ls poings, les pieds, les massues, les couteaux, les hâchettes, les rapières, les petits pistolets, et ainsi de suite. Les armes qui sont particulièrement petites sont des armes légères.
+Les **armes légères** n'infligent que 2 points de dommages, mais elles facilitent les jets d'attaque car elles sont rapides et simples à utiliser. Les armes légères sont les poings, les pieds, les massues, les couteaux, les hâchettes, les rapières, les petits pistolets, et ainsi de suite. Les armes qui sont particulièrement petites sont des armes légères.
 
 Les **armes moyennes** infligent 4 point de dommage. Les armes moyennes incluent les épées, les hâches de bataille, les maces, les arbalètes, les lances, les pistolets, les blasters, et ainsi de suite. La plupart des armes sont moyennes. tout ce qui peut être utilisé à une main (même si c'est souvent utilisé à deux mains comme les bâtons ou les lances) est une arme moyenne.
 
