@@ -952,7 +952,7 @@ Vous n'avez jamais été très bavard. Lorsque vous êtes obligé d'interagir av
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Actions, Not Words:** +2 à votre Réserve de Puissance, et +2 à votre Réserve de Célérité.
+**Des actions, pas des mots:** +2 à votre Réserve de Puissance, et +2 à votre Réserve de Célérité.
 
 **Compétence:** Vous êtes entraîné à la compétence perception.
 
