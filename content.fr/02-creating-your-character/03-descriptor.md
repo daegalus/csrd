@@ -1,12 +1,12 @@
 ---
 title: Descripteur
 weight: 3
-description: Votre descripteur définie votre personnage, il lui donne son caractère. Le descripteur change la façon de chaque pesonnage d'accomplir chaque action.
+description: Votre descripteur définit votre personnage, il lui donne son caractère. Le descripteur change la façon de chaque pesonnage d'accomplir chaque action.
 ---
 
 # Descripteur
 
-Votre descripteur définie votre personnage, il lui donne son caractère. Les différences entre un Explorateur Charmeur et un Explorateur Vicieux sont considérables. Le descripteur change la façon de chaque pesonnage d'accomplir chaque action. Votre descripteur place votre personnage dans la situation (la première aventure, qui démarre la campagne) et contribue à le motiver. C'est l'adjectif de la phrase « Je suis un *adjectif nom* qui *verbes* ».
+Votre descripteur définit votre personnage, il lui donne son caractère. Les différences entre un Explorateur Charmeur et un Explorateur Vicieux sont considérables. Le descripteur change la façon de chaque pesonnage d'accomplir chaque action. Votre descripteur place votre personnage dans la situation (la première aventure, qui démarre la campagne) et contribue à le motiver. C'est l'adjectif de la phrase « Je suis un *adjectif nom* qui *verbes* ».
 
 Les descripteurs offrent un ensemble unique de capacités, de compétences ou de modifications supplémentaires à vos Réserves de statistiques. Toutes les propositions d'un descripteur ne sont pas des modifications positives du personnage. Par exemple, certains descripteurs ont des incapacités --- des tâches pour lesquelles un personnage n'est pas doué. Vous pouvez considérer les incapacités comme des compétences négatives : au lieu d’être un peu meilleur dans ce genre de tâche, vous êtes un peu pire. Si vous devenez compétent dans une tâche pour laquelle vous êtes incapable, elles s'annulent. N'oubliez pas que les personnages sont définis autant par ce pour quoi ils ne sont *pas* bons que par ce pour quoi ils *sont* bons.
 
@@ -456,7 +456,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 **Guérit rapidement:** Vous divisez par deux le temps nécessaire pour effectuer un jet de récupération (minimum une action).
 
-**Almost Unstoppable:** Tant que vous êtes diminué sur le suivi des dégâts, vous fonctionnez comme si vous étiez en bonne santé. Pendant que vous êtes handicapé, vous fonctionnez comme si vous étiez diminué. En d’autres termes, vous ne subissez pas les effets d’une déficience jusqu’à ce que vous deveniez handicapé, et vous ne subissez jamais les effets d’une déficience. Vous mourrez quand même si tous vos Réserves de statistiques sont à 0.
+**Quasiment Inarrêtable:** Tant que vous êtes diminué sur le suivi des dégâts, vous fonctionnez comme si vous étiez en bonne santé. Pendant que vous êtes handicapé, vous fonctionnez comme si vous étiez diminué. En d’autres termes, vous ne subissez pas les effets d’une déficience jusqu’à ce que vous deveniez handicapé, et vous ne subissez jamais les effets d’une déficience. Vous mourrez quand même si tous vos Réserves de statistiques sont à 0.
 
 **Compétence:** Vous êtes entraîné auc actions de défense de Puissance.
 
@@ -1029,7 +1029,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 **Incorruptible:** Vous êtes entraîné à  aux tâches de défense d'Intellect et toutes tâches impliquant de résister à la tentation.
 
-**Compétence:** You're wide-eyed. Vous êtes entraîné à  perception tasks.
+**Compétence:** You're wide-eyed. Vous êtes entraîné aux tâches de perception.
 
 **Inaptitude:** Toute tâche qui implique de démystifier des tromperies ou de déterminer les Focus secrètes de quelqu'un est désavantagée.
 
