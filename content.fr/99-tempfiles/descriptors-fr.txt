@@ -6,7 +6,7 @@ Chaotic/40/Chaotique
 Charming/41/Charmant
 Clever/41/Malin
 Clumsy/41/Maladroit
-Craven/42/Lache
+Craven/42/Lâche
 Creative/42/Créatif
 Cruel/43/Cruel
 Dishonorable/44/Sans Honneur
@@ -30,7 +30,7 @@ Learned/51/Erudit
 Lucky/51/Chanceux
 Mad/51/Fou
 Mechanical/52/Doué pour la mécanique
-Mysterious/52/Mysterieux
+Mysterious/52/Mystérieux
 Mystical/53/Mystique
 Naive/53/Naif
 Perceptive/54/Perspicace

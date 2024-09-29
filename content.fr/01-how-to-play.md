@@ -17,7 +17,7 @@ La Meneuse définit une une difficulté pour une tâche donnée. Il y a 10 degr�
 Chaque diffidulté a un nombre seuil associé. Ce nombreseuil est toujours trois fois la difficulté de la tâche, ainsi une tâche de difficulté de 1 a un nombre seuil de 3, mais une tâche de difficulté de 4 a une nombre de seuil de 12. Pour réussir la tâche, vous devez obtenir un jet de dé égal ou supérieur. Consulter la table des [Difficulté des Tâches](#difficulté-des-tâches) pour voir comment cela fonctionne.
 
 
-Les compétences des personnates, des circonstances favorables ou un bon équipement peuvent diminuer la difficulté d'une tâche. Par exemple, si un personnage est entraîné en escalade, il transforme une tache d'escalade de difficulté 6 en une tache d'escalade de difficulté 5. Ceci est appelé *faciliter la difficulté d'un cran* (ou juste *faciliter la difficulté*, étant assumé qu'elle est facilitée d'un cran). Si il est spécialisé dans l'escalade, il transforme une tâche d'escalade de difficulté 6 en une tâche d'escalade de difficulté 4. Ceci est appelé *faciliter la difficulté de deux crans*. Diminuer la difficulté d'une tâche est aussi appelée *faciliter une tâche*. Certaines situations peuvent augmenter, ou *entraver*, la difficulté d'une tâche. Si une tâche est entravée, cela augmente la difficulté d'un cran.
+Les compétences des personnages, des circonstances favorables ou un bon équipement peuvent diminuer la difficulté d'une tâche. Par exemple, si un personnage est entraîné en escalade, il transforme une tache d'escalade de difficulté 6 en une tache d'escalade de difficulté 5. Ceci est appelé *faciliter la difficulté d'un cran* (ou juste *faciliter la difficulté*, étant assumé qu'elle est facilitée d'un cran). Si il est spécialisé dans l'escalade, il transforme une tâche d'escalade de difficulté 6 en une tâche d'escalade de difficulté 4. Ceci est appelé *faciliter la difficulté de deux crans*. Diminuer la difficulté d'une tâche est aussi appelée *faciliter une tâche*. Certaines situations peuvent augmenter, ou *entraver*, la difficulté d'une tâche. Si une tâche est entravée, cela augmente la difficulté d'un cran.
 
 Une compétence est une catégorie de connaissance, de capacité ou d'activité relative à une tâche, telle que l'escalade, la géographie, ou la persuasion. Un personnage qui possède une compétence est meilleur pour accomplir une tâche associée qu'un personnage qui ne l'a pas. Le niveau de compétence d'un personnage est soit entrainé (raisonablement compétent) ou spécialisé (très compétent).
 
@@ -125,8 +125,6 @@ Une portée immédiate à partir d'un personnage se situe dans les quelques pas 
 Une courte portée est ce qui est au-delà de la portée immédiate mais moins que 15m (50 pieds) environ.
 
 Une longue portée est ce qui est au-delà de la courte portée mais moins que 30m (100 pieds) environ.
-
-Une longue portée est ce qui est au-delà de la longue portée mais moins que 30m (100 pieds) environ.
 
 Une très longue portée est ce qui est au-delà de la longue portée mais moins que 150m (500 pieds) environ. Au-delà de cette portée les distances sont toujours spécifique---300m (1000 pieds), 1,5km (1 mille), et ainsi de suite.
 

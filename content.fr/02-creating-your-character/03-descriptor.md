@@ -675,7 +675,7 @@ Cependant, vous avez plus que compensé votre apparence par d'autres moyens. Par
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Versatile:** Vous obtenez 4 points supplémentaires à répartir entre vos pools de statistiques.
+**Versatile:** Vous obtenez 4 points supplémentaires à répartir entre vos Réserves de statistiques.
 
 **Compétence:** Vous êtes entraîné à l'intimidation et toute autre interaction basée sur la peur, si vous montrez votre vrai visage.
 
@@ -1323,13 +1323,13 @@ Selon les règles normales, chaque descripteur est basé sur certaines modificat
 
 Certains descripteurs offrent +4 à une Réserve de statistiques et soit deux compétences spécifiques, soit une compétence générale.
 
-D'autres descripteurs offrent +2 à un pool de statistiques et soit trois compétences spécifique, soit une compétence spécifique et une compétence générale.
+D'autres descripteurs offrent +2 à une Réserve de statistiques et soit trois compétences spécifiques, soit une compétence spécifique et une compétence générale.
 
 Une compétence générale couvre de nombreux domaines (comme toutes les interactions). Une compétence spécifique couvre moins de domaines (comme, uniquement les interactions basées sur la tromperie). Les compétences liées au combat, telles que la défense ou l’initiative, sont considérées en ce sens comme des compétences générales.
 
-Quoi qu’il en soit, vous pouvez ajouter une compétence supplémentaire si elle est contrebalancée par une incapacité.
+Quoi qu’il en soit, vous pouvez ajouter une compétence supplémentaire si elle est contrebalancée par une incapacité.not
 
-Vous pouvez ajouter d'autres capacités non liées aux compétences en les analysant et en essayant de les assimiler à la valeur d'une compétence, si possible. Si le descripteur semble déséquilibré, ajoutez un article à prix modéré comme équipement supplémentaire pour équilibrer les choses.
+Vous pouvez ajouter d'autres capacités qui ne sont pas liées aux compétences en les analysant et en essayant de les assimiler à la valeur d'une compétence, si possible. Si le descripteur semble déséquilibré, ajoutez un article à prix modéré comme équipement supplémentaire pour équilibrer les choses.
 
 Avec ces informations générales, vous pouvez personnaliser un descripteur, mais gardez à l'esprit qu'un descripteur fortement personnalisé n'est pas un descripteur s'il ne dit plus rien sur un personnage. Il est préférable d'utiliser ces informations pour créer un nouveau descripteur qui correspond exactement à la façon dont le joueur souhaite décrire le personnage.
 

@@ -39,7 +39,7 @@ L'Intellect peut être pensée comme de l'intelligence ou de la Personnalité ca
 
 ## Réserve, Avantage et Effort
 
-Chacune des trois stats ont deux composantes: la Réserve et l'Avantage. Votre Réserve représente votre faculté pure, innée, et votre Avantage représente à quel point vous savez utiliser ce que vous avez. Un troisième composant est lié à ce concept: l'Effort. Quand votre personnage a vraiment bescapacitésoin d'accomplir une tâche, vous pouvez appliquer de l'Effort.
+Chacune des trois stats a deux composantes: la Réserve et l'Avantage. Votre Réserve représente votre faculté pure, innée, et votre Avantage représente à quel point vous savez utiliser ce que vous avez. Un troisième composant est lié à ce concept: l'Effort. Quand votre personnage a vraiment besoin d'accomplir une tâche, vous pouvez appliquer de l'Effort.
 
 {{< hint info >}}
 Vos réserve de stat, tout comme votre Effort et Avantage, sont déterminés par le type de votre personnage, son descripteur et sa motivation. A partir de ces indications, vous avez toutefois beaucoup de fléxibilité pour développer votre personnage.
@@ -49,7 +49,7 @@ Vos réserve de stat, tout comme votre Effort et Avantage, sont déterminés par
 
 Votre Réserve est la mesure de base d'une stat. Comparer les Réserves de deux créatures vous donnera un bon apperçu de quelle créature est supérieure dans cette stat. Par exemple, un personnage qui a une Réserve de Puissance de 16 est plus costaud qu'un personnage qui a une Réserve de Puissance de 12. La plupart des personnages commencent avec une Réserve entre 9 et 12 dans la plupart des stats---c'est la fourchette moyenne.
 
-Quand votre personnage est blessé, malade ou attaqué, vous perdez temporairement des points de l'une de vos Réserve de stat. La nature de l'attaque détermine Réserve perd des points. Par exemple, un dommage physique par une épée réduit votre Réserve de Puissance, un poison qui vous rend maladroit réduit votre Réserve de Célérité, et une attaque psionique réduit votre Réserve d'Intellect. Vous pouvez aussi dépensser des points de l'une de vos Réserve pour diminuer la difficulté d'une tâche (voir [Effort](#effort) ci-dessous). Vous pouvez vous reposer pour récupérer des points perdus dans une Réserve de stat, et certaines Capacités spéciales ou cyphers peuvent vous permettre de récupérer des points perdus rapidement.ints quickly.
+Quand votre personnage est blessé, malade ou attaqué, vous perdez temporairement des points de l'une de vos Réserve de stat. La nature de l'attaque détermine Réserve perd des points. Par exemple, un dommage physique par une épée réduit votre Réserve de Puissance, un poison qui vous rend maladroit réduit votre Réserve de Célérité, et une attaque psionique réduit votre Réserve d'Intellect. Vous pouvez aussi dépensser des points de l'une de vos Réserve pour diminuer la difficulté d'une tâche (voir [Effort](#effort) ci-dessous). Vous pouvez vous reposer pour récupérer des points perdus dans une Réserve de stat, et certaines Capacités spéciales ou cyphers peuvent vous permettre de récupérer des points perdus rapidement.
 
 ## Avantage
 Bien que votre Réserve est la mesure de base d'une stat, votre Avantage est aussi important. Quand quelque chose vous demande de dépenser des points d'une de vos Réserves, votre Avantage associé à la stat réduit ce coût. Cela réduit aussi le coût pour appliquer de l'Effort à un jet de dé.
@@ -84,9 +84,9 @@ Quand vous appliquez de l'Effort dans une attaque de mélée, vous avez l'option
 
 ## Effort Et Dommages
 
-Au lieu d'appliquer de l'Effort pour faciliter votre attaque, vous pouvez appliquer de l'Effort pour augmenter les sommages infligés par l'attaque. Poru chaque niveau d'Effort que vous appliquez ainsi, vous infligez 3 points de dommages supplémentaires. Cela fonctionne pour tout type d'attaque qui inflige des dommages, que ce soit une épée, une arbalète, une attaque psi, ou autre.
+Au lieu d'appliquer de l'Effort pour faciliter votre attaque, vous pouvez appliquer de l'Effort pour augmenter les dommages infligés par l'attaque. Pour chaque niveau d'Effort que vous appliquez ainsi, vous infligez 3 points de dommages supplémentaires. Cela fonctionne pour tout type d'attaque qui inflige des dommages, que ce soit une épée, une arbalète, une attaque psi, ou autre.
 
-Quand vous utilisez de l'Effort pour augmenter des dommages d'une attaque sur zone, comme par l'explosion créée par la Capacité d'Adepte Consussion, vous infligez 2 points de dommages supplémentaires au lieu de 3 points. Toutefois, ces points supplémentaires sont infligés à toutes les cibles de la zone. De plus, même si une des cibles résiste à l'attaque, elle subit quand même 1 point de dommage.
+Quand vous utilisez de l'Effort pour augmenter des dommages d'une attaque sur zone, comme par l'explosion créée par la Capacité d'Adepte Concussion, vous infligez 2 points de dommages supplémentaires au lieu de 3 points. Toutefois, ces points supplémentaires sont infligés à toutes les cibles de la zone. De plus, même si une des cibles résiste à l'attaque, elle subit quand même 1 point de dommage.
 
 ## Utilisation multiple de l'Effort et Avantage
 
@@ -98,9 +98,9 @@ Vous pouvez utiliser l'Avantage pour une stat particulière uniquement une fois 
 
 ## Exemples de l'utilisation de Stat
 
-Un personnage débutant est en train de combattre un rat géant. Avec sa lance, le PJ essaie de transpercer le rat, qui est une créature de niveau 2 et qui a donc un nombre seuil de 6. Le personnage se tient sur un rocher et frappe vers le bas sur la bête, et la Meneuse décide que cette tactique est un atout qui facilité d'un cran (vers une difficulté de 1 au lieu de 2 initialement). Cela diminue le nombre seuil à 3. Attaquer avec une lance est une action de Puissance; le personnage a une Réserve de Puissance de 11 et un avantage de Puissance de 0. Avant de faire le jet de dé, le PJ décide d'appliquer un niveau d'Effort pour faciliter l'attaque. Cela coûte 3 points de sa Réserve de Puissance, la réduisant à 8. Mais les points sont bien dépensés. Appliquer l'Effort diminue la difficulté de 1 à 0, et ainsi aucun jet de dé n'est nécessaire---l'attaque réussit automatiquement.
+    Un personnage débutant est en train de combattre un rat géant. Avec sa lance, le PJ essaie de transpercer le rat, qui est une créature de niveau 2 et qui a donc un nombre seuil de 6. Le personnage se tient sur un rocher et frappe vers le bas sur la bête, et la Meneuse décide que cette tactique est un atout qui facilité d'un cran (vers une difficulté de 1 au lieu de 2 initialement). Cela diminue le nombre seuil à 3. Attaquer avec une lance est une action de Puissance; le personnage a une Réserve de Puissance de 11 et un avantage de Puissance de 0. Avant de faire le jet de dé, le PJ décide d'appliquer un niveau d'Effort pour faciliter l'attaque. Cela coûte 3 points de sa Réserve de Puissance, la réduisant à 8. Mais les points sont bien dépensés. Appliquer l'Effort diminue la difficulté de 1 à 0, et ainsi aucun jet de dé n'est nécessaire---l'attaque réussit automatiquement.
 
-Un autre personnage essaie de convaincre un garde de le laisser entrer dans un bureau pour parler avec un noble influent. La Meneuse décide que c'est une action d'Intellect. Le personnage est de rang 3 et a un Effort de 3, une Réserve d'Intellect de 13 et un Avantage d'Intellect de 1. Avant de jeter le dé, il décide si il applique de l'Effort. Il peut choisir d'appliquer un, deux, ou trois niveaux d'Effort, ou de ne pas en appliquer du tout. Cette action est importante pour lui, et il décide donc d'appliquer deux niveaux d'Effort, facilitant la tâche de deux crans. Grâce à son Avantage d'Intellect, appliquer l'Effort ne coûte que 4 points de sa Réserve d'Intellect (3 points pour le premier niveau d'Effort, plus 2 points pour le second niveau moins 1 point de l'Avantage). Dépenser ces pointsréduit la Réserve d'Intellect à 9. La Meneuse décide que convaincre le garde est une tâche de difficulté 3 (Exigeant) avec un nombre seuil de 9; appliquer deux niveaux d'Effort permet de réduire la difficulté à 1 (simple) et un nombre cible de 3. Le Joueur lance un `d20` et obtient un 8. Comme ce résultat est supérieur ou égal au nombre seuil de la tâche, le personnage réussit. Toutefois, si le PJ n'avait pas appliquer d'Effort, il aurait échoué car le résultat du dé (8) aurait été inférieur au nombre seuil initial (9) de la tâche.
+    Un autre personnage essaie de convaincre un garde de le laisser entrer dans un bureau pour parler avec un noble influent. La Meneuse décide que c'est une action d'Intellect. Le personnage est de rang 3 et a un Effort de 3, une Réserve d'Intellect de 13 et un Avantage d'Intellect de 1. Avant de jeter le dé, il décide si il applique de l'Effort. Il peut choisir d'appliquer un, deux, ou trois niveaux d'Effort, ou de ne pas en appliquer du tout. Cette action est importante pour lui, et il décide donc d'appliquer deux niveaux d'Effort, facilitant la tâche de deux crans. Grâce à son Avantage d'Intellect, appliquer l'Effort ne coûte que 4 points de sa Réserve d'Intellect (3 points pour le premier niveau d'Effort, plus 2 points pour le second niveau moins 1 point de l'Avantage). Dépenser ces pointsréduit la Réserve d'Intellect à 9. La Meneuse décide que convaincre le garde est une tâche de difficulté 3 (Exigeant) avec un nombre seuil de 9; appliquer deux niveaux d'Effort permet de réduire la difficulté à 1 (simple) et un nombre cible de 3. Le Joueur lance un `d20` et obtient un 8. Comme ce résultat est supérieur ou égal au nombre seuil de la tâche, le personnage réussit. Toutefois, si le PJ n'avait pas appliquer d'Effort, il aurait échoué car le résultat du dé (8) aurait été inférieur au nombre seuil initial (9) de la tâche.
 
 ## Rang de Personnage
 
@@ -193,7 +193,7 @@ Le Cypher system n'a pas de liste définitive de compétences. Toutefois, la lis
 * Dissimulation
 * Equilibriste
 * Escalade
-* Fraquasser
+* Fracasser
 <--->
 * Géographie
 * Géologie
@@ -213,7 +213,7 @@ Le Cypher system n'a pas de liste définitive de compétences. Toutefois, la lis
 * Pilotage
 * Porter
 * Réparer
-* S'échapper
+* S'infiltrer
 * Sauter
 * Soigner
 * Travail du bois
@@ -230,4 +230,4 @@ Seules les compétences acquises à partir des capacités du type de personnage,
 
 Si vous gagnez une capacité spéciale à partir de votre type, focus ou un autre aspect de votre personnage, vous pouvez la sélectionner à la place d'une compétence et devenir entraîné ou spécialisé dans cette capacité. Par exemple, si vous avez une attaque psi, quand vient le moment de choisir une compétence dans laquelle vous seriez entraîné, vous pouvez sélectionner vote attaque psi en tant que compétence. Cela facilitera l'attaque à chaque fois que vous l'utiliserez. Chaque capacité que vous avez compte comme une compétence unique dans ce cas d'usage. Vous ne pouvez pas sélectionner "tous les pouvoirs mentaux" en tant que seule compétence et devenir entraîné ou spécialisé pour une catégorie aussi large.
 
-Dans la pluart des campagnes, parler courament une langue est considéré comme une compétence. Donc si vous voulez parler Espagnol, c'est la même chose qu'être entraîné en biologie ou à nager.
+Dans la plupart des campagnes, parler courament une langue est considéré comme une compétence. Donc si vous voulez parler Espagnol, c'est la même chose qu'être entraîné en biologie ou à nager.
