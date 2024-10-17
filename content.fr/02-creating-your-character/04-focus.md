@@ -2477,14 +2477,9 @@ Quelque fois une Capacité supplémentaire de faible puissance convient en fonct
 **Rang 2:** Si le thème de la Motivation n'est pas une transformation physique, choisissez une Capacité de rang inférieur qui offre une méthode supplémentaire pour défendre, soigner des dommages ou éviter des attaques.
 Si le thème de la Motivation est une transformation physique, coisissez une Capacité de rang inférieur qui débloque une nouvelle possibilité liée à la forme que prend le personnage.Cela peut être de gagner un meilleur contrôle de la transformation, débloquer une interface robotique, ou bien débloquer encore plus cette forme. Cette Capacité n'est pas nécessaire défensive, bien qu'elle pourrait l'être.
 
-<<<<<<< Updated upstream
-**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour le Focus; le PJ choisira l'un ou l'autre.
-One option should provide an additional form of protection in keeping with the focus's theme, such as more defensive capabilities unlocked from a transformation (which might also come with additional offensive capabilities) ou a simple physical enhancement if defense is gained by skills ou enhanced healing.
-=======
 **Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
 Une des options devrait fournir une forme supplémentaire de protection dans le thème de la Motivation, telle que plus de possibilités défensives débloquées de la transformation (qui peut aussi venir avec de nouvelles posisbilités offensives) ou un simple entrainement physique si la défense est acquise par les compétences ou les soins.
 L'autre option devrait fournir une possibilité offensive , particulièrement si vous créez une Motivation qui n'est pas une transformation et qui n'a pas encore de bénéfices offensifs. Cette possibilité pourrait être une attaque améliorée ou qui permet un autre néfice au combat, comme s'échapper rapidement ou (de l'autre côté du spectre) devenir inébranlable.
->>>>>>> Stashed changes
 
 **Rang 4:** Choisissez une capacité de rang intermédiaire qui améliore les avantages donnés par le paradigme de focus "j'inflige des dommages". Cela inclut souvent un entrainement dans un type particulier de défense. Ou alors, cela peut augmenter les avantages fournis par des capacités de défense précédentes, que ce soit par un meilleur contrôle sur une transformation, gagner des chances supplémentaires pour éviter des dommages ou des tâches pour ré-essayer des tâches associées avec une détermination renforcée, et ainsi de suite. Si le focus manque d'options offensives, c'est une bonne place pour en ajouter.
 
