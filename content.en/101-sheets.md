@@ -1,15 +1,15 @@
 ---
-title: Sheets & Links
+title: Feuilles et liens
 weight: 101
-description: Character Sheets and Other Links
+description: Feuilles de personnages et autres liens
 ---
 
-# Character Sheets
+# Feuilles de Personnages
 
-Free character and campaign sheets can be found on the [official Monte Cook Games store page](https://www.montecookgames.com/store/product/cypher-system-character-and-campaign-sheets/).
+Des feuilles de personnages et de campagnes peuvent être téléchargées gratuitement dans la  [boutique officielle Monte Cook Games](https://www.montecookgames.com/store/product/cypher-system-character-and-campaign-sheets/).
 
 # Cypher Unlimited Discord (Unofficial)
 
-[Discord Server](https://t.co/ftQarCKKHu)
+[Serveur Discord](https://t.co/ftQarCKKHu)
 
-This is to my knowledge the largest and most "official" discord for the Cypher System. It is community run. It's a great community and place to chat. I idle there myself.
+C'est à ma connaissance le plus grand et le plus "officiel" serveur discord pour le Cypher System. Il est administré par la communauté. C'est une super communauté et un endroit sympa pour discuter. J'y traîne souvent moi-même.
