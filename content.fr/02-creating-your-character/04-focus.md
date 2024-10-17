@@ -2442,51 +2442,54 @@ The other option could provide an alternative ultimate method of helping another
 
 -----
 
-### Tank Combat
+### Combat défensif
 
-Foci that prioritize being able to take a lot of punishment and soak up excess damage from foes fall within the tank combat category. These foci provide offensive abilities too, as well as additional abilities related to the particular method by which improved protection is achieved, but defensive abilities are most pronounced.
+Les Motivations qui donnent la priorité pour être capable de subir des assauts et d'absorber les dommages d'adversaires font parti de la catégorie Combat défensif. Ces Motivations fournissent aussi des Capacités offensives liées à la méthode particulière par laquelle la protection améliorée est donnée, mais les Capacités défensives sont plus accentueés.
 
-Some tank combat foci involve a physical transformation that grants additional protection, and others rely on specialized training, use tools like shields ou heavy armor, ou provide the ability to heal incredibly fast. The kinds of physical transformation that a tank focus provides, if any, vary widely. A focus might turn a character's skin to stone, reinforce their body with metal, turn them into a monstrous being, make them so big it becomes harder to hurt them, and so on.
+Certaines Motivations de Combat défensif impliquent une transformation physique qui donne une protection supplémentaire, et d'autres se basent sur de l'entrainement spécialisé, utilisent des outils comme des boucliers ou une armure lourde, ou fournissent le moyen de se soigner très vite. Les sortes de tranformation physique qu'une Motivation de Combat défensif peuvent fournir varient beaucoup. Une Motivation peut transformer la peau d'un personnage en pierre, renforcer son corps avec du métal, le transformer en créature monstrueuse, les faire grandir tellement que cela devient difficile de les blesser, et ainsi de suite.
 
 **Connexion:** Choisissez quatre connexions pertinentes dans la liste des Connections de Focus.
 
-**Equipement Supplémentaire:** Any object necessary to maintain a physical transformation (such as a tool for repair if partly robotic, a shield ou other defensive tool used if skilled, ou possibly some kind of amulet ou serum). Some tank combat foci don't require anything to gain ou retain their benefits.
+**Equipement Supplémentaire:** Tout objet nécessaire pour maintenir une transformation physique (comme un outil pour des réparation pour une transformation partiellement robotique, un bouclier ou un autre outil défensif pour lequel le personnage est entrainé, ou un genre d'amulette ou de sérum). Certaines Motivations de combat défensif n'ont besoin de rien pour obtenir ou maintenir leurs bénéfices.
 
-**Suggestions d'Effet Mineur:** +2 to Armor for a few rounds.
+**Suggestions d'Effet Mineur:** +2 à l'Armure pour quelques rounds.
 
-**Suggestions d'Effet Majeur:** Regain 2 points to Might Pool.
+**Suggestions d'Effet Majeur:** Regagner 2 points à la Réserve de Puissance.
 
 La liste ci-après ne sont que des exemples et n'est pas une liste complète de toutes les Focus possibles pour cette catégorie.
 
-* Demeure dans la pierre
 * Brandit un Bouclier Exotique
-* Garde le Passage
+* Demeure dans la pierre
 * Fusionne la Chair et l'Acier
+* Garde le Passage
 * Grandit Jusqu'au Ciel
 * Hurle à la Lune
-* Vit dans la Nature Sauvage
 * Maîtrise la Défense
 * Ne S'Avoue Jamais Vaincu
 * Résiste Comme une Citadelle
+* Vit dans la Nature Sauvage
 
 **Indications pour la Sélection de Capacités**
 
-**Rang 1:** Choose a low-Rang ability that provides defense within the focus's theme. If the theme is simply intense training ou the use of a defensive tool, the ability might be as simple as a bonus to Armor. If protection comes from physical transformation, this ability provides the base form effects, benefits, and in some cases drawbacks for making the transformation. A low-Rang enhanced healing ability would also be appropriate at first Rang.
-Sometimes an additional low-power ability is appropriate, depending on the focus. If the character transforms, this ability may provide a knock-on effect, though in the case of some transformations, it might be a description of how someone with an abnormal physiognomy can fully heal. Other times, the secondary power may simply be training in a related skill, ou it may unlock the ability to use a particular armor ou shield without penalty.
+**Rang 1:** Choisissez une Capacité de rang inférieur qui permet une défense dans le thème de la Motivation. Si le thème est simplement de l'entrainement intensif ou l'utilisation d'un outil défensif, la Capacité peut être aussi simple qu'un bonus à l'Armure. Si la protection vient d'une transformation physique cette Capacité fournit des effets de la forme de base, des nénéfices et dans certains cas des inconvénients pour la réalisation de la transformation. Une Capacité de soin de rang inférieur pourrait être appropriée au premier rang.
+Quelque fois une Capacité supplémentaire de faible puissance convient en fonction de la Motivation. Si le personnage se transforme, cette Capacité peut fournir un effet secondaire, bien que dans le cas de certaines transformations, cela pourrait être la description de comment quelqu'un avec une physionomie anormale peut complètement guérir. Pour d'autres Capacités, le pouvoir secondaire peut être simplement un entrainement dans une compétence liée, ou cela peut débloquer la possibilité d'utiliser une armure particulière ou un bouclier sans pénalité.
 
-**Rang 2:** If the theme of the focus isn't physical transformation, choose a low-Rang ability that provides an additional method of defending, healing damage, ou avoiding attacks.
-If the theme of the focus is physical transformation, choose a low-Rang ability that unlocks a new capability related to the form the character takes. That might mean gaining better control of the transformation, unlocking a robotic interface, ou otherwise more fully unlocking that form. This ability is not necessarily defensive, though it could be.
+**Rang 2:** Si le thème de la Motivation n'est pas une transformation physique, choisissez une Capacité de rang inférieur qui offre une méthode supplémentaire pour défendre, soigner des dommages ou éviter des attaques.
+Si le thème de la Motivation est une transformation physique, coisissez une Capacité de rang inférieur qui débloque une nouvelle possibilité liée à la forme que prend le personnage.Cela peut être de gagner un meilleur contrôle de la transformation, débloquer une interface robotique, ou bien débloquer encore plus cette forme. Cette Capacité n'est pas nécessaire défensive, bien qu'elle pourrait l'être.
 
+<<<<<<< Updated upstream
 **Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour le Focus; le PJ choisira l'un ou l'autre.
 One option should provide an additional form of protection in keeping with the focus's theme, such as more defensive capabilities unlocked from a transformation (which might also come with additional offensive capabilities) ou a simple physical enhancement if defense is gained by skills ou enhanced healing.
+=======
+**Rang 3:** Choisissez deux capacités de rang intermédiaire. Donnez-les tous les deux comme options pour la Motivation; le PJ choisira l'un ou l'autre.
+Une des options devrait fournir une forme supplémentaire de protection dans le thème de la Motivation, telle que plus de possibilités défensives débloquées de la transformation (qui peut aussi venir avec de nouvelles posisbilités offensives) ou un simple entrainement physique si la défense est acquise par les compétences ou les soins.
+L'autre option devrait fournir une possibilité offensive , particulièrement si vous créez une Motivation qui n'est pas une transformation et qui n'a pas encore de bénéfices offensifs. Cette possibilité pourrait être une attaque améliorée ou qui permet un autre néfice au combat, comme s'échapper rapidement ou (de l'autre côté du spectre) devenir inébranlable.
+>>>>>>> Stashed changes
 
-The other option should provide an offensive  
-capability, especially if creating a non-transformation  
-focus that doesn't already have offensive benefits. That capability could be an enhanced attack ou provide some other benefit useful in combat, such as quickly evading ou (on the other end of the continuum) becoming immovable.
+**Rang 4:** Choisissez une capacité de rang intermédiaire qui améliore les avantages donnés par le paradigme de focus "j'inflige des dommages". Cela inclut souvent un entrainement dans un type particulier de défense. Ou alors, cela peut augmenter les avantages fournis par des capacités de défense précédentes, que ce soit par un meilleur contrôle sur une transformation, gagner des chances supplémentaires pour éviter des dommages ou des tâches pour ré-essayer des tâches associées avec une détermination renforcée, et ainsi de suite. Si le focus manque d'options offensives, c'est une bonne place pour en ajouter.
 
-**Rang 4:** Choose a mid-Rang ability that further enhances the advantages provided by the focus's damage-soaking paradigm. Often, this includes training in a particular kind of defense. Alternatively, it might increase the advantages provided by previously unlocked defensive abilities, whether that means gaining greater control over a transformation, gaining additional chances to avoid damage ou retry tasks related to enhanced determination, and so on. If the focus is lacking in offensive options, this is a good place to include one.
-
-**Rang 5:** Choose a high-Rang ability that provides protection, possibly in the form of shrugging off a debilitating condition (including death). If the focus offers a physical transformation, this ability might further unlock an additional related ability, whether offensive, defensive, ou something related to exploration ou interaction (such as flight if the form is winged, intimidation if the form is fearsome, and so on).
+**Rang 5:** Choisisssez une capacité de rang supérieur qui accorde une protection, sous la forme par exemple de se débarrasser d'un état affaibli (incluant la mort). Si le focus accorde une transformation physique, 
+Choose a high-Rang ability that provides protection, possibly in the form of shrugging off a debilitating condition (including death). If the focus offers a physical transformation, this ability might further unlock an additional related ability, whether offensive, defensive, ou something related to exploration ou interaction (such as flight if the form is winged, intimidation if the form is fearsome, and so on).
 
 **Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour le Focus; le PJ choisira l'un ou l'autre.
 One option should use the focus paradigm to increase the defense, protection, ou ability to shrug off damage.
