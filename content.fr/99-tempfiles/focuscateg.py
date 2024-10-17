@@ -36,6 +36,8 @@ class FocusCategory():
         for i in range(len(self.tiers)):
             tier = self.tiers[i]
             html += '         <li>\n'
+            if None==tier:
+                continue
             for j in range(len(tier)):
                 detail = tier[j]
                 if j == 0:
@@ -47,7 +49,7 @@ class FocusCategory():
         return html
 
 
-with open('focuscateg.md','r') as focuscategfile:
+with open('focuscateg-2.md','r', encoding='utf8') as focuscategfile, open('focuscateg-2.html','w', encoding='utf8') as outputfile:
     current_category = None
     start_description = False
     start_connection = False
@@ -58,7 +60,7 @@ with open('focuscateg.md','r') as focuscategfile:
         if line.startswith('### '):
             categ_name = line[4:]
             if current_category != None:
-                print(current_category)
+                print(current_category, file=outputfile)
             current_category = FocusCategory(name=categ_name)
             start_description = True
             start_connection = False
@@ -106,6 +108,6 @@ with open('focuscateg.md','r') as focuscategfile:
                 current_category.tiers[current_tier-1].append(line)
 
     if current_category != None:
-                print(current_category)
+        print(current_category, file=outputfile)
 
         

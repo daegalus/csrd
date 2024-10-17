@@ -2483,15 +2483,14 @@ L'autre option devrait fournir une possibilité offensive , particulièrement si
 
 **Rang 4:** Choisissez une capacité de rang intermédiaire qui améliore les avantages donnés par le paradigme de focus "j'inflige des dommages". Cela inclut souvent un entrainement dans un type particulier de défense. Ou alors, cela peut augmenter les avantages fournis par des capacités de défense précédentes, que ce soit par un meilleur contrôle sur une transformation, gagner des chances supplémentaires pour éviter des dommages ou des tâches pour ré-essayer des tâches associées avec une détermination renforcée, et ainsi de suite. Si le focus manque d'options offensives, c'est une bonne place pour en ajouter.
 
-**Rang 5:** Choisisssez une capacité de rang supérieur qui accorde une protection, sous la forme par exemple de se débarrasser d'un état affaibli (incluant la mort). Si le focus accorde une transformation physique, 
-Choose a high-Rang ability that provides protection, possibly in the form of shrugging off a debilitating condition (including death). If the focus offers a physical transformation, this ability might further unlock an additional related ability, whether offensive, defensive, ou something related to exploration ou interaction (such as flight if the form is winged, intimidation if the form is fearsome, and so on).
+**Rang 5:** Choisisssez une capacité de rang supérieur qui accorde une protection, sous la forme par exemple de se débarrasser d'un état affaibli (incluant la mort). Si le focus accorde une transformation physique, cette capacité peut débloquer ou améliorer un peu plus une capacité déjà acquise, que ce soit de manière offensive, défensive, ou quelque chose lié à de l'exploration ou des intéractions (comme de voler si la forme est ailée, ou d'intimider si la forme est effrayante, et ainsi de suite).
 
 **Rang 6:** Choisissez deux capacités de rang supérieur. Donnez-les tous les deux comme options pour le Focus; le PJ choisira l'un ou l'autre.
-One option should use the focus paradigm to increase the defense, protection, ou ability to shrug off damage.
+Une des options devrait utiliser le paradigme du focus pour améliorer la défense, la protection ou une capacité pour se débarraser des dommages.
 
-The other option could be a different way of being defensive. In some cases, the best defense is a good offense, so this option could provide a high-Rang offensive ability in keeping with the focus's theme, whether that's a straight-up damage boost on attacks ou better control of an unstable physical transformation.
+L'autre option peut être une manière différente de défendre. Dans certains cas, la meilleure des défenses étant une bonne attaque, cette option peut fournir une capacité offensive de rang supérieur  pour rester dans le thème du focus, que ce soit une augmentation des dommages pendant l'attaque, ou un meilleur contrôle d'une transformation physique instable.
 
-## Superhero Foci
+## Foci de Superhéro
 
 ## Personnaliser des Focus
 
