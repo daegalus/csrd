@@ -1,12 +1,12 @@
 ---
 title: Descripteur
 weight: 3
-description: Votre descripteur définie votre personnage, il lui donne son caractère. Le descripteur change la façon de chaque pesonnage d'accomplir chaque action.
+description: Votre descripteur définit votre personnage, il lui donne son caractère. Le descripteur change la façon de chaque pesonnage d'accomplir chaque action.
 ---
 
 # Descripteur
 
-Votre descripteur définie votre personnage, il lui donne son caractère. Les différences entre un Explorateur Charmeur et un Explorateur Vicieux sont considérables. Le descripteur change la façon de chaque pesonnage d'accomplir chaque action. Votre descripteur place votre personnage dans la situation (la première aventure, qui démarre la campagne) et contribue à le motiver. C'est l'adjectif de la phrase « Je suis un *adjectif nom* qui *verbes* ».
+Votre descripteur définit votre personnage, il lui donne son caractère. Les différences entre un Explorateur Charmeur et un Explorateur Vicieux sont considérables. Le descripteur change la façon de chaque pesonnage d'accomplir chaque action. Votre descripteur place votre personnage dans la situation (la première aventure, qui démarre la campagne) et contribue à le motiver. C'est l'adjectif de la phrase « Je suis un *adjectif nom* qui *verbes* ».
 
 Les descripteurs offrent un ensemble unique de capacités, de compétences ou de modifications supplémentaires à vos Réserves de statistiques. Toutes les propositions d'un descripteur ne sont pas des modifications positives du personnage. Par exemple, certains descripteurs ont des incapacités --- des tâches pour lesquelles un personnage n'est pas doué. Vous pouvez considérer les incapacités comme des compétences négatives : au lieu d’être un peu meilleur dans ce genre de tâche, vous êtes un peu pire. Si vous devenez compétent dans une tâche pour laquelle vous êtes incapable, elles s'annulent. N'oubliez pas que les personnages sont définis autant par ce pour quoi ils ne sont *pas* bons que par ce pour quoi ils *sont* bons.
 
@@ -21,58 +21,58 @@ Votre descripteur compte le plus lorsque vous êtes un personnage débutant. Les
 ## Descriptors
   
 {{< columns >}}
-Attirant
-Au Regard-perçant
-Bienfaisant
-Borné
-Calme
-Casse-cou
-Chanceux
-Chaotique
-Charmant
-Créatif
-Cruel
-Curieux
-Doué pour la mécanique
-Dur-à-Cuire
-Empathique
-Endurant
-Erudit
+- [Attirant](#attirant)
+- [Au Regard-perçant](#au-regard-perçant)
+- [Bienfaisant](#bienfaisant)
+- [Borné](#borné)
+- [Calme](#calme)adaptées
+- [Casse-cou](#casse-cou)
+- [Chanceux](#chanceux)
+- [Chaotique](#chaotique)
+- [Charmant](#charmant)
+- [Créatif](#créatif)
+- [Cruel](#cruel)
+- [Curieux](#curieux)
+- [Doué pour la mécanique](#doué-pour-la-mécanique)
+- [Dur-à-Cuire](#dur-à-cuire)
+- [Empathique](#empathique)
+- [Endurant](#endurant)
+- [Erudit](#erudit)
 <--->
-Etrange
-Exilé
-Fort
-Fou
-Furtif
-Gentil
-Grâcieux
-Hideux
-Honorable
-Impétieux
-Impulsif
-Intelligent
-Intuitif
-Jovial
-Lâche
-Maladroit
+- [Etrange](#etrange)
+- [Exilé](#exilé)
+- [Fort](#fort)
+- [Fou](#fou)
+- [Furtif](#furtif)
+- [Gentil](#gentil)
+- [Grâcieux](#grâcieux)
+- [Hideux](#hideux)
+- [Honorable](#honorable)
+- [Impétieux](#impétieux)
+- [Impulsif](#impulsif)
+- [Intelligent](#intelligent)
+- [Intuitif](#intuitif)
+- [Jovial](#jovial)
+- [Lâche](#lâche)
+- [Maladroit](#maladroit)
 <--->
-Malin
-Maudit
-Mutique
-Mystérieux
-Mystique
-Naif
-Pas très brillant
-Perspicace
-Prompt
-Rapide
-Résistant
-Rugueux
-Sans Honneur
-Sceptique
-Suspicieux
-Vertueux
-Vicieux
+- [Malin](#malin)
+- [Maudit](#maudit)
+- [Mutique](#mutique)
+- [Mystérieux](#mystérieux)
+- [Mystique](#mystique)
+- [Naif](#naif)
+- [Pas très brillant](#pas-très-brillant)
+- [Perspicace](#perspicace)
+- [Prompt](#prompt)
+- [Rapide](#rapide)
+- [Résistant](#résistant)
+- [Rugueux](#rugueux)
+- [Sans Honneur](#sans-honneur)
+- [Sceptique](#sceptique)
+- [Suspicieux](#suspicieux)
+- [Vertueux](#vertueux)
+- [Vicieux](#vicieux)
 {{< /columns >}}
 
 ### Attirant
@@ -81,7 +81,7 @@ Vous êtes attirant aux yeux des autres, mais peut-être plus important encore, 
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Charismatique:** +2 à votre Réserve d'Intelligence.
+**Charismatique:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné dans les relations sociales agréables.
 
@@ -131,7 +131,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 **Serviable:** Chaque fois que vous aidez un autre personnage, ce personnage en bénéficie comme si vous aviez été entraîné, même si vous n'êtes pas entraîné ou spécialisé dans la tâche tentée.
 
-**Inaptitude:** Quand vous êtes seul, toutes les tâches d'Intelligence et de Vitesse sont entravées.
+**Inaptitude:** Quand vous êtes seul, toutes les tâches d'Intellect et de Célérité sont entravées.
 
 **Lien initial à la Première Aventure:** A partir de la liste d'options suivantes, choisissez comment vous vous êtes engagé dans la première aventure.
 
@@ -148,7 +148,7 @@ Vous êtes un peu borné, volontaire et indépendant. Personne ne peut vous conv
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Volontaire:** +4 à votre Réserve d'Intelligence.
+**Volontaire:** +4 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné à résister aux effets mentaux.
 
@@ -175,7 +175,7 @@ Calme est un excellent descripteur pour les personnages qui n'ont jamais eu l'in
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Adore les Livres:** +2 à votre Réserve d'Intelligence.
+**Adore les Livres:** +2 à votre Réserve d'Intellect.
 
 **Compétences:** Vous êtes entraîné à quatre compétences non-physiques de votre choix.
 
@@ -200,7 +200,7 @@ Cela fait partie de votre nature de remettre en question ce que les autres pense
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Agile:** +4 à votre Réserve de Vitesse.
+**Agile:** +4 à votre Réserve de Célérité.
 
 **Compétence:** Vous savez exploiter le risque et vous êtes entraîné à des tâches qui impliquent un élément de hasard, comme jouer à des jeux ou choisir entre deux ou trois options apparemment égales.
 
@@ -242,9 +242,9 @@ Le danger ne signifie pas grand-chose pour vous, principalement parce que vous n
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Tumultueux:** +4 à votre Réserve de Vitesse.
+**Tumultueux:** +4 à votre Réserve de Célérité.
 
-**Compétence:** Vous êtes entraîné aux actions de Défense d'Intelligence.
+**Compétence:** Vous êtes entraîné aux actions de Défense d'Intellect.
 
 **Chaotique:** Une fois après chaque jet de récupération de dix heures, si le premier résultat ne vous plaît pas, vous pouvez relancer un jet de dé de votre choix. Si vous le faites, et quel que soit le résultat, le MJ vous présente une intrusion du MJ.
 
@@ -261,11 +261,11 @@ Vous bénéficiez des caractéristiques suivantes:
 
 ### Charmant
 
-Vous êtes un beau parleur et un charmeur. Que ce soit par des moyens apparemment surnaturels ou simplement par des mots, vous pouvez convaincre les autres de faire ce que vous souhaitez. Très probablement, vous êtes physiquement attirant ou du moins très charismatique, et les autres aiment écouter votre voix. Vous faites probablement attention à votre apparence et restez bien soigné. Vous vous faites facilement des amis. *Vous jouez sur la facette de la personnalité de votre statistique Intelligence ; l'intelligence n'est pas votre point fort (translation to be confirmed)*. Vous êtes sympathique, mais pas nécessairement studieux ou volontaire.
+Vous êtes un beau parleur et un charmeur. Que ce soit par des moyens apparemment surnaturels ou simplement par des mots, vous pouvez convaincre les autres de faire ce que vous souhaitez. Très probablement, vous êtes physiquement attirant ou du moins très charismatique, et les autres aiment écouter votre voix. Vous faites probablement attention à votre apparence et restez bien soigné. Vous vous faites facilement des amis. *Vous jouez sur la facette de la personnalité de votre statistique Intellect ; l'intelligence n'est pas votre point fort (translation to be confirmed)*. Vous êtes sympathique, mais pas nécessairement studieux ou volontaire.
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Personable:** +2 à votre Réserve d'Intelligence.
+**Personable:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné dans toutes les tâches d'intéractions sociales positives ou plaisantes.
 
@@ -294,7 +294,7 @@ Peut-être avez-vous un cahier dans lequel vous notez vos idées afin de pouvoir
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Inventive:** +2 à votre Réserve d'Intelligence.
+**Inventive:** +2 à votre Réserve d'Intellect.
 
 **Original:** Vous proposez toujours quelque chose de nouveau. Vous êtes entraîné dans toute tâche liée à la création d'un récit (comme une histoire, une pièce de théâtre ou un scénario). Cela inclut la tromperie, si la tromperie implique un récit que vous êtes capable de raconter.
 
@@ -325,13 +325,13 @@ De plus, vous n’avez pas besoin d’être cruel dans toutes les situations. En
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Calculateur:** +2 à votre Réserve d'Intelligence.
+**Calculateur:** +2 à votre Réserve d'Intellect.
 
 **Cruauté:** Lorsque vous utilisez la force, vous pouvez choisir de mutiler ou de lui infliger des blessures douloureuses pour prolonger la souffrance de votre ennemi. Chaque fois que vous infligez des dégâts, vous pouvez choisir d'infliger 2 points de dégâts de moins pour faciliter votre prochaine attaque contre cet ennemi.
 
 **Compétence:** Vous êtes entraîné dans les tâches en relation avec in tasks lié à la tromperie, à l'intimidation et à la persuasion lorsque vous interagissez avec des personnages éprouvant une douleur physique ou émotionnelle.
 
-**Inaptitude:** Vous avez du mal à vous connecter avec les autres, à comprendre leurs motivations ou à partager leurs sentiments. Toute tâche visant à déterminer les motivations, les sentiments ou les dispositions d'un autre personnage est désavantagée.
+**Inaptitude:** Vous avez du mal à vous connecter avec les autres, à comprendre leurs Focus ou à partager leurs sentiments. Toute tâche visant à déterminer les Focus, les sentiments ou les dispositions d'un autre personnage est désavantagée.
 
 **Equipement Supplémentaire:** Vous possédez un souvenir précieux de la dernière personne que vous avez détruite. Le prix du souvenir est modéré et vous pouvez le vendre ou l'échanger contre un objet de valeur égale ou moindre.
 
@@ -352,7 +352,7 @@ Vous avez probablement à tout moment sur vous une douzaine de livres et de réc
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Intelligent:** +4 à votre Réserve d'Intelligence.
+**Intelligent:** +4 à votre Réserve d'Intellect.
 
 **Compétence:** Vous avez envie d'apprendre. Vous êtes entraîné à toute tâche qui implique d'apprendre quelque chose de nouveau, que vous parliez à un local pour obtenir des informations ou que vous fouilliez dans de vieux livres pour découvrir des traditions.
 
@@ -379,7 +379,7 @@ Vous avez un talent particulier avec les machines de toutes sortes, et vous save
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Intelligent:** +2 à votre Réserve d'Intelligence.
+**Intelligent:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné dans toutes les actions impliquant l’identification ou la compréhension des machines.
 
@@ -398,17 +398,17 @@ Vous bénéficiez des caractéristiques suivantes:
 
 ### Dur-à-Cuire
 
-You're strong and can take a lot of physical punishment. You might have a large frame and a square jaw. Tough characters frequently have visible scars.
+Vous êtes costaud et vous pouvez subir pas mal de chocs physiques. Vous avez des épaules larges et une machoire carrée. Les durs-à-cuir ont souvent des cicatrices visibles.
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Resilient:** +1 to Armor.
+**Resilient:** +1 à l'Armure.
 
-**Healthy:** Add 1 to the points you regain when you make a recovery roll.
+**Bonne santé:** Ajoutre 1 à vos jets de récupération.
 
-**Compétence:** Vous êtes entraîné in Might defense actions.
+**Compétence:** Vous êtes entraîné dans les actions de défense de Puissance.
 
-**Equipement Supplémentaire:** You have an extra light weapon.
+**Equipement Supplémentaire:** Vous avez une arme légère supplémentaire.
 
 **Lien initial à la Première Aventure:** A partir de la liste d'options suivantes, choisissez comment vous vous êtes engagé dans la première aventure.
 
@@ -427,7 +427,7 @@ Le bombardement constant d’émotions de la part de votre entourage a probablem
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Overt d'esprit:** +4 à votre Réserve d'Intelligence.
+**Overt d'esprit:** +4 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné dans les tâches impliquant de ressentir d'autres émotions, de discerner des dispositions ou d'avoir une idée des gens qui vous entourent.
 
@@ -456,13 +456,13 @@ Vous bénéficiez des caractéristiques suivantes:
 
 **Guérit rapidement:** Vous divisez par deux le temps nécessaire pour effectuer un jet de récupération (minimum une action).
 
-**Almost Unstoppable:** Tant que vous êtes diminué sur le suivi des dégâts, vous fonctionnez comme si vous étiez en bonne santé. Pendant que vous êtes handicapé, vous fonctionnez comme si vous étiez diminué. En d’autres termes, vous ne subissez pas les effets d’une déficience jusqu’à ce que vous deveniez handicapé, et vous ne subissez jamais les effets d’une déficience. Vous mourrez quand même si tous vos Réserves de statistiques sont à 0.
+**Quasiment Inarrêtable:** Tant que vous êtes diminué sur le suivi des dégâts, vous fonctionnez comme si vous étiez en bonne santé. Pendant que vous êtes handicapé, vous fonctionnez comme si vous étiez diminué. En d’autres termes, vous ne subissez pas les effets d’une déficience jusqu’à ce que vous deveniez handicapé, et vous ne subissez jamais les effets d’une déficience. Vous mourrez quand même si tous vos Réserves de statistiques sont à 0.
 
 **Compétence:** Vous êtes entraîné auc actions de défense de Puissance.
 
 **Inaptitude:** Vous êtes grand, fort, et lent à réagir. Toute tâche impliquant de l'initiative est désavantagée.
 
-**Lourd:** Lorsque vous appliquez un Effort lors d'un jet de Vitesse, vous devez dépenser 1 point supplémentaire de votre réserve de Vitesse.
+**Lourd:** Lorsque vous appliquez un Effort lors d'un jet de Célérité, vous devez dépenser 1 point supplémentaire de votre réserve de Célérité.
 
 **Lien initial à la Première Aventure:** A partir de la liste d'options suivantes, choisissez comment vous vous êtes engagé dans la première aventure.
 
@@ -479,7 +479,7 @@ Vous avez étudié seul ou avec un moniteur. Vous connaissez beaucoup de choses 
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Intelligent:** +2 à votre Réserve d'Intelligence.
+**Intelligent:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné dans trois domaines de connaissances de votre choix.
 
@@ -504,7 +504,7 @@ Les personnages étranges peuvent être des mutants ou des personnes nées avec 
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Lumière Intérieure:** +2 à votre Réserve d'Intelligence.
+**Lumière Intérieure:** +2 à votre Réserve d'Intellect.
 
 **Bizarrerie Physique:** Vous avez un aspect physique unique qui est bizarre. Selon le paramètre, cela peut varier considérablement. Vous pourriez avoir des cheveux violets ou des pointes métalliques sur la tête. Peut-être que vos mains ne se connectent pas à vos bras, même si elles bougent comme si c'était le cas. Peut-être qu’un troisième œil regarde du côté de votre tête, ou que des vrilles superflues poussent dans votre dos. Quoi qu'il en soit, votre bizarrerie peut être une mutation, un trait surnaturel (une bénédiction ou une malédiction), une caractéristique sans explication, ou simplement un tatouage vraiment sauvage qui attire beaucoup d'attention.
 
@@ -560,7 +560,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 **Compétence:** Vous êtes entraîné dans toutes les actions de saut.
 
-**Equipement Supplémentaire:** Vous disposez d’une arme extra moyenne ou d’une arme lourde.
+**Equipement Supplémentaire:** Vous disposez d’une arme moyenne ou lourde supplémentaire.
 
 **Lien initial à la Première Aventure:** A partir de la liste d'options suivantes, choisissez comment vous vous êtes engagé dans la première aventure.
 
@@ -577,7 +577,7 @@ Vous avez approfondi des sujets que les gens n’étaient pas censés connaître
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Bien informé:** +4 à votre Réserve d'Intelligence.
+**Bien informé:** +4 à votre Réserve d'Intellect.
 
 **Eclairs de Génie:** Chaque fois qu'une telle connaissance est appropriée, le MJ vous fournit des informations bien qu'il n'y ait aucune explication claire sur la manière dont vous pourriez savoir une telle chose. Ceci est à la discrétion du MJ, mais cela devrait se produire aussi souvent qu'une fois par session.
 
@@ -602,7 +602,7 @@ Vous êtes sournois, glissant et rapide. Ces talents vous aident à vous cacher,
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Rapide:** +2 à votre Réserve de Vitesse.
+**Rapide:** +2 à votre Réserve de Célérité.
 
 **Compétence:** Vous êtes entraîné dans toutes les tâches furtives.
 
@@ -627,7 +627,7 @@ Il a toujours été facile pour vous de voir les choses du point de vue des autr
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Emotionellement Intuitif:** +2 à votre Réserve d'Intelligence.
+**Emotionellement Intuitif:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous savez ce que c'est de se mettre à la place de quelqu'un d'autre. Vous êtes entraîné dans toutes les tâches liées à une interaction sociale agréable et au discernement des dispositions des autres.
 
@@ -650,13 +650,13 @@ Vous avez un parfait sens de l’équilibre, vous bougez et parlez avec grâce e
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Agile:** +2 à votre Réserve de Vitesse.
+**Agile:** +2 à votre Réserve de Célérité.
 
 **Compétence:** Vous êtes entraîné dans toutes les tâches impliquant un équilibre et des mouvements prudents.
 
 **Compétence:** Vous êtes entraîné dans toutes les tâches impliquant les arts du spectacle physique.
 
-**Compétence:** Vous êtes entraîné dans toutes les tâches de défense de Vitesse.
+**Compétence:** Vous êtes entraîné dans toutes les tâches de défense de Célérité.
 
 **Lien initial à la Première Aventure:** A partir de la liste d'options suivantes, choisissez comment vous vous êtes engagé dans la première aventure.
 
@@ -675,7 +675,7 @@ Cependant, vous avez plus que compensé votre apparence par d'autres moyens. Par
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Versatile:** Vous obtenez 4 points supplémentaires à répartir entre vos pools de statistiques.
+**Versatile:** Vous obtenez 4 points supplémentaires à répartir entre vos Réserves de statistiques.
 
 **Compétence:** Vous êtes entraîné à l'intimidation et toute autre interaction basée sur la peur, si vous montrez votre vrai visage.
 
@@ -704,7 +704,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 **Compétence:** Vous êtes entraîné aux intéractions plaisantes.
 
-**Compétence:** Vous êtes entraîné à discerner les véritables motivations des gens ou voir à travers les mensonges.
+**Compétence:** Vous êtes entraîné à discerner les véritables Focus des gens ou voir à travers les mensonges.
 
 **Lien initial à la Première Aventure:** A partir de la liste d'options suivantes, choisissez comment vous vous êtes engagé dans la première aventure.
 
@@ -721,7 +721,7 @@ Vous êtes du genre affirmé, confiant en vos capacités, énergique et peut-êt
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Energetique:** +2 à votre Réserve de Vitesse.
+**Energetique:** +2 à votre Réserve de Célérité.
 
 **Compétence:** Vous êtes entraîné à l'initiative.
 
@@ -748,11 +748,11 @@ Les personnages impulsifs ont des ennuis. C'est leur truc, et c'est très bien. 
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Reckless:** +2 à votre Réserve de Vitesse.
+**Casse-cou:** +2 à votre Réserve de Célérité.
 
 **Compétence:** Vous êtes entraîné dans les actions d'initiative (pour déterminer qui commence le combat en premier).
 
-**Compétence:** Vous êtes entraîné dans les actions de défense de Vitesse.
+**Compétence:** Vous êtes entraîné dans les actions de défense de Célérité.
 
 **Inaptitude:** Vous essayez n'importe quoi une fois, mais vous vous ennuyez rapidement par la suite. Toute tâche qui implique de la patience, de la volonté ou de la discipline est désavantagée.
 
@@ -771,7 +771,7 @@ Vous êtes plutôt intelligent. Votre mémoire est vive et vous comprenez facile
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Intelligent:** +2 à votre Réserve d'Intelligence.
+**Intelligent:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné dans un domaine de connaissance de votre choix.
 
@@ -792,7 +792,7 @@ Vous êtes souvent chatouillé par le sentiment de savoir ce que quelqu’un va 
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Inné:** +2 à votre Réserve d'Intelligence.
+**Inné:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné aux tâches de perception.
 
@@ -813,7 +813,7 @@ Vous êtes joyeux, sympathique et extraverti. Vous mettez les autres à l'aise a
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Spirituel:** +2 à votre Réserve d'Intelligence.
+**Spirituel:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes convivial et mettez la plupart des gens à l'aise avec votre attitude. Vous êtes entraîné à toutes les tâches liées à une interaction sociale agréable.
 
@@ -840,7 +840,7 @@ Des descripteurs comme Lâche, Cruel et Déshonorant pourraient ne pas convenir 
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Furtive:** +2 à votre Réserve de Vitesse.
+**Furtive:** +2 à votre Réserve de Célérité.
 
 **Compétence:** Vous êtes entraîné dans les tâches de furtivité.
 
@@ -869,7 +869,7 @@ Vous avez l'esprit vif et vous réfléchissez bien. Vous comprenez les gens, vou
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Malin:** +2 à votre Réserve d'Intelligence.
+**Malin:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné dans toutes les interactions impliquant des mensonges et de la tricherie.
 
@@ -900,7 +900,7 @@ Certains joueurs ne veulent peut-être pas être définis par une qualité « n�
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Empôté:** −2 à votre Réserve de Vitesse.
+**Empôté:** −2 à votre Réserve de Célérité.
 
 **Musclé:** +2 à votre Réserve de Puissance.
 
@@ -927,13 +927,13 @@ Vous êtes bien certain que votre destin vous mène, inextricablement, vers une 
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Jumpy:** +2 à votre Réserve de Vitesse.
+**Jumpy:** +2 à votre Réserve de Célérité.
 
 **Compétence:** Toujours à l'affût du danger, vous êtes entraîné aux tâches liées à la perception.
 
-**Compétence:** Vous avez l'esprit défensif, vous êtes donc entraîné aux tâches de défense de Vitesse.
+**Compétence:** Vous avez l'esprit défensif, vous êtes donc entraîné aux tâches de défense de Célérité.
 
-**Compétence:** Vous êtes cynique et vous attendez au pire. Ainsi, vous résistez aux chocs mentaux. Vous êtes entraîné à des tâches de défense d'Intelligence liées à la perte de votre santé mentale ou de votre équanimité.
+**Compétence:** Vous êtes cynique et vous attendez au pire. Ainsi, vous résistez aux chocs mentaux. Vous êtes entraîné à des tâches de défense d'Intellect liées à la perte de votre santé mentale ou de votre équanimité.
 
 **Maudit:** Une fois sur deux, le MJ utilise l'intrusion du MJ sur votre personnage, vous ne pouvez pas le refuser et ne recevez pas d'XP pour cela (vous obtenez toujours un XP à attribuer à un autre joueur). C'est parce que vous êtes condamné. L’univers est un endroit froid et indifférent, et vos efforts sont pour le moins vains.
 
@@ -948,11 +948,11 @@ Vous bénéficiez des caractéristiques suivantes:
 
 ### Mutique
 
-Vous n'avez jamais été très bavard. Lorsque vous êtes obligé d'interagir avec les autres, vous ne pensez jamais à la bonne chose à dire : les mots vous manquent complètement, ou ils sont complètement faux. Vous finissez souvent par dire précisément la mauvaise chose et par insulter quelqu'un sans le vouloir. La plupart du temps, tu restes maman. Cela fait de vous un auditeur --- un observateur attentif. Cela signifie également que vous êtes plus doué pour faire les choses que pour en parler. Vous êtes prompt à agir.
+Vous n'avez jamais été très bavard. Lorsque vous êtes obligé d'interagir avec les autres, vous ne pensez jamais à la bonne chose à dire : les mots vous manquent complètement, ou ils sont complètement faux. Vous finissez souvent par dire précisément la mauvaise chose et par insulter quelqu'un sans le vouloir. La plupart du temps, vous restez silencieux. Cela fait de vous un auditeur --- un observateur attentif. Cela signifie également que vous êtes plus doué pour faire les choses que pour en parler. Vous êtes prompt à agir.
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Actions, Not Words:** +2 à votre Réserve de Puissance, et +2 à votre Réserve de Vitesse.
+**Des actions, pas des mots:** +2 à votre Réserve de Puissance, et +2 à votre Réserve de Célérité.
 
 **Compétence:** Vous êtes entraîné à la compétence perception.
 
@@ -973,7 +973,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 ### Mystérieux
 
-La silhouette sombre qui se cache silencieusement dans un coin ? C'est vous. Personne ne sait vraiment d'où vous venez ni quelles sont vos motivations : vous cachez bien votre jeu. A plupart des gens sont perplexes, mais cela ne fait pas de vous un mauvais ami ou un mauvais allié. Vous êtes simplement doué pour garder les choses pour vous, vous déplacer sans être vu et dissimuler votre présence et votre identité.
+La silhouette sombre qui se cache silencieusement dans un coin ? C'est vous. Personne ne sait vraiment d'où vous venez ni quelles sont vos Focus : vous cachez bien votre jeu. A plupart des gens sont perplexes, mais cela ne fait pas de vous un mauvais ami ou un mauvais allié. Vous êtes simplement doué pour garder les choses pour vous, vous déplacer sans être vu et dissimuler votre présence et votre identité.
 
 Vous bénéficiez des caractéristiques suivantes:
 
@@ -1000,13 +1000,13 @@ Vous vous considérez comme mystique, en harmonie avec le mystérieux et le para
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Intelligent:** +2 à votre Réserve d'Intelligence.
+**Intelligent:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné dans toutes les actions impliquant l’identification ou la compréhension du surnaturel.
 
 **Sentir la Magie:** Vous pouvez sentir si le surnaturel est actif dans des situations où sa présence n’est pas évidente. Vous devez étudier attentivement un objet ou un lieu pendant une minute pour savoir si une touche mystique est à l’œuvre.
 
-**Sort:** Vous pouvez exécuter la capacité Magie Prosaïque comme un sort lorsque vous avez une main libre et que vous pouvez payer le coût en points d'Intelligence.
+**Sort:** Vous pouvez exécuter la capacité Magie Prosaïque comme un sort lorsque vous avez une main libre et que vous pouvez payer le coût en points d'Intellect.
 
 **Inaptitude:** Vous avez des manières ou une aura que les autres trouvent un peu déconcertantes. Toute tâche impliquant le charme, la persuasion ou la tromperie est désavantagée.
 
@@ -1027,11 +1027,11 @@ Vous bénéficiez des caractéristiques suivantes:
 
 **Frais et Dispo:** Vous ajoutez +1 à vos vos jets de Récupération.
 
-**Incorruptible:** Vous êtes entraîné à  aux tâches de défense d'Intelligence et toutes tâches impliquant de résister à la tentation.
+**Incorruptible:** Vous êtes entraîné à  aux tâches de défense d'Intellect et toutes tâches impliquant de résister à la tentation.
 
-**Compétence:** You're wide-eyed. Vous êtes entraîné à  perception tasks.
+**Compétence:** You're wide-eyed. Vous êtes entraîné aux tâches de perception.
 
-**Inaptitude:** Toute tâche qui implique de démystifier des tromperies ou de déterminer les motivations secrètes de quelqu'un est désavantagée.
+**Inaptitude:** Toute tâche qui implique de démystifier des tromperies ou de déterminer les Focus secrètes de quelqu'un est désavantagée.
 
 **Lien initial à la Première Aventure:** A partir de la liste d'options suivantes, choisissez comment vous vous êtes engagé dans la première aventure.
 
@@ -1054,11 +1054,11 @@ Cela peut être libérateur et vraiment amusant de jouer un personnage un peu id
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Imprudent:** –4 à votre Réserve d'Intelligence.
+**Imprudent:** –4 à votre Réserve d'Intellect.
 
 **Insouciant:** Vous réussissez plus par chance qu’autre chose. Chaque fois que vous lancez un dé pour une tâche, lancez deux fois et obtenez le résultat le plus élevé.
 
-**Faiblesse intellectuelle :** Chaque fois que vous dépensez des points de votre réserve d’Intelligence, cela vous coûte 1 point de plus que d’habitude.
+**Faiblesse intellectuelle :** Chaque fois que vous dépensez des points de votre réserve d’Intellect, cela vous coûte 1 point de plus que d’habitude.
 
 **Inaptitude:** Toute tâche de défense intellectuelle est désavantagée.
 
@@ -1075,13 +1075,13 @@ Vous bénéficiez des caractéristiques suivantes:
 
 ### Perspicace
 
-Il vous manque peu. Vous repérez les petits détails du monde qui vous entoure et êtes habile à faire des déductions à partir des informations que vous trouvez. Vos talents font de vous un détective exceptionnel, un scientifique redoutable ou un éclaireur talentueux.
+Peu vous échappe. Vous repérez les petits détails du monde qui vous entoure et êtes habile à faire des déductions à partir des informations que vous trouvez. Vos talents font de vous un détective exceptionnel, un scientifique redoutable ou un éclaireur talentueux.
 
 Même si vous êtes habile à trouver des indices, vous n'avez aucune compétence pour détecter les signaux sociaux. Vous négligez une infraction causée par vos déductions ou à quel point votre examen minutieux peut rendre les gens autour de vous inconfortables. Vous avez tendance à considérer les autres comme des nains intellectuels par rapport à vous, ce qui ne vous sert pas à grand-chose lorsque vous avez besoin d’une faveur.
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Malin:** +2 à votre Réserve d'Intelligence.
+**Malin:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous avez le sens du détail. Vous êtes entraîné à toute tâche qui implique de trouver ou de remarquer de petits détails.
 
@@ -1108,7 +1108,7 @@ Vous vous déplacez rapidement, êtes capable de sprinter par courtes rafales et
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Rapide:** +4 à votre Réserve de Vitesse.
+**Rapide:** +4 à votre Réserve de Célérité.
 
 **Compétence:** Vous êtes entraîné dans les actions d'initiative (pour déterminer qui commence le combat en premier).
 
@@ -1131,7 +1131,7 @@ Vous êtes vif. Parce que vous êtes rapide, vous pouvez accomplir des tâches p
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Energetique:** +2 à votre Réserve de Vitesse.
+**Energetique:** +2 à votre Réserve de Célérité.
 
 **Compétence:** Vous êtes entraîné à courir.
 
@@ -1154,13 +1154,13 @@ Vous pouvez subir de nombreuses épreuves, tant physiques que mentales, tout en 
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Résistant:** +2 à votre Réserve de Puissance, et +2 à votre Réserve d'Intelligence.
+**Résistant:** +2 à votre Réserve de Puissance, et +2 à votre Réserve d'Intellect.
 
 **Récupération:** Vous pouvez effectuer un jet de récupération supplémentaire chaque jour. Ce jet n'est qu'une action. Vous pouvez donc faire deux jets de récupération qui demandent chacun une action, un jet qui prend dix minutes, un quatrième lancer qui prend une heure et un cinquième lancer qui nécessite dix heures de repos.
 
 **Compétence:** Vous êtes entraîné aux tâches de défense de Puissance.
 
-**Compétence:** Vous êtes entraîné aux tâches de défense d'Intelligence.
+**Compétence:** Vous êtes entraîné aux tâches de défense d'Intellect.
 
 **Inaptitude:** Vous êtes robuste mais pas nécessairement fort. Toute tâche impliquant de déplacer, plier ou casser des objets est désavantagée.
 
@@ -1206,7 +1206,7 @@ Il n’y a pas d’honneur parmi les voleurs, ni les traîtres, les traîtres, l
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Sneaky:** +4 à votre Réserve de Vitesse.
+**Sneaky:** +4 à votre Réserve de Célérité.
 
 **Bien mérité:** Lorsque le MJ donne à un autre joueur un point d'expérience à attribuer à quelqu'un pour une intrusion du MJ, ce joueur ne peut pas vous le donner.
 
@@ -1233,7 +1233,7 @@ Vous possédez une attitude interrogative face à des affirmations qui sont souv
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Insightful:** +2 à votre Réserve d'Intelligence.
+**Insightful:** +2 à votre Réserve d'Intellect.
 
 **Compétence:** Vous êtes entraîné dans l'identification.
 
@@ -1256,9 +1256,9 @@ Personne ne peut être aussi réservé que vous et se faire de nombreux amis. Tr
 
 Vous bénéficiez des caractéristiques suivantes:
 
-**Suspicieux:** +2 à votre Réserve d'Intelligence.
+**Suspicieux:** +2 à votre Réserve d'Intellect.
 
-**Compétence:** Vous êtes entraîné aux tâches de défense d'Intelligence.
+**Compétence:** Vous êtes entraîné aux tâches de défense d'Intellect.
 
 **Compétence:** Vous êtes entraîné à toutes les tâches impliquant de discerner la vérité, de percer les déguisements et de reconnaître les mensonges et autres tromperies.
 
@@ -1281,7 +1281,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 **Intrépide:** +2 à votre Réserve de Puissance.
 
-**Compétence:** Vous êtes entraîné à discerner les véritables motivations des gens ou voir à travers les mensonges.
+**Compétence:** Vous êtes entraîné à discerner les véritables Focus des gens ou voir à travers les mensonges.
 
 **Compétence:** Votre adhésion à un code moral strict a endurci votre esprit contre la peur, le doute et les influences extérieures. Vous êtes entraîné à des tâches de défense intellectuelle.
 
@@ -1304,7 +1304,7 @@ Vous bénéficiez des caractéristiques suivantes:
 
 **Sanguinaire:** Une fois que vous commencez à vous battre, vous ne voyez que du rouge. Vous infligez 2 points de dégâts supplémentaires à chaque attaque.
 
-**Berserk:** Une fois que vous commencez à vous battre, il est difficile pour vous de vous arrêter. En fait, c'est une tâche de difficulté 2 en Intelligence de le faire, même si votre ennemi se rend ou si vous n'avez plus d'ennemis. Si ce dernier cas se produit et que vous ne parvenez pas à vous arrêter, vous attaquez l'allié le plus proche à courte portée.
+**Berserk:** Une fois que vous commencez à vous battre, il est difficile pour vous de vous arrêter. En fait, c'est une tâche de difficulté 2 en Intellect de le faire, même si votre ennemi se rend ou si vous n'avez plus d'ennemis. Si ce dernier cas se produit et que vous ne parvenez pas à vous arrêter, vous attaquez l'allié le plus proche à courte portée.
 
 **Equipement Supplémentaire:** Vous disposez d’un carnet que vous utilisez pour répertorier ceux qui vous ont fait du tort.
 
@@ -1323,13 +1323,13 @@ Selon les règles normales, chaque descripteur est basé sur certaines modificat
 
 Certains descripteurs offrent +4 à une Réserve de statistiques et soit deux compétences spécifiques, soit une compétence générale.
 
-D'autres descripteurs offrent +2 à un pool de statistiques et soit trois compétences spécifique, soit une compétence spécifique et une compétence générale.
+D'autres descripteurs offrent +2 à une Réserve de statistiques et soit trois compétences spécifiques, soit une compétence spécifique et une compétence générale.
 
 Une compétence générale couvre de nombreux domaines (comme toutes les interactions). Une compétence spécifique couvre moins de domaines (comme, uniquement les interactions basées sur la tromperie). Les compétences liées au combat, telles que la défense ou l’initiative, sont considérées en ce sens comme des compétences générales.
 
-Quoi qu’il en soit, vous pouvez ajouter une compétence supplémentaire si elle est contrebalancée par une incapacité.
+Quoi qu’il en soit, vous pouvez ajouter une compétence supplémentaire si elle est contrebalancée par une incapacité.not
 
-Vous pouvez ajouter d'autres capacités non liées aux compétences en les analysant et en essayant de les assimiler à la valeur d'une compétence, si possible. Si le descripteur semble déséquilibré, ajoutez un article à prix modéré comme équipement supplémentaire pour équilibrer les choses.
+Vous pouvez ajouter d'autres capacités qui ne sont pas liées aux compétences en les analysant et en essayant de les assimiler à la valeur d'une compétence, si possible. Si le descripteur semble déséquilibré, ajoutez un article à prix modéré comme équipement supplémentaire pour équilibrer les choses.
 
 Avec ces informations générales, vous pouvez personnaliser un descripteur, mais gardez à l'esprit qu'un descripteur fortement personnalisé n'est pas un descripteur s'il ne dit plus rien sur un personnage. Il est préférable d'utiliser ces informations pour créer un nouveau descripteur qui correspond exactement à la façon dont le joueur souhaite décrire le personnage.
 
