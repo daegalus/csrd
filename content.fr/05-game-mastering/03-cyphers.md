@@ -1,162 +1,156 @@
 ---
 title:  Cyphers
 weight:  3
-description: Cyphers are one-use abilities that characters gain over the course of play.
+description: Les cyphers sont des capacités à usage unique que les personnages acquièrent au cours du jeu.
 ---
 
 # Cyphers
 
-Cyphers are one-use abilities that characters gain over the course of play. They have cool powers that can heal, make attacks, ease or hinder task rolls, or (in a more supernatural and extreme example) produce effects such as nullifying gravity or turning something invisible.
+Les cyphers sont des capacités à usage unique que les personnages acquièrent au cours du jeu. Ils ont des pouvoirs impressionnants qui peuvent soigner, effectuer des attaques, faciliter ou entraver les jets de tâche, ou (dans un exemple plus surnaturel et extrême) produire des effets tels que la nullification de la gravité ou rendre quelque chose invisible.
 
-Most cyphers aren't physical objects---just something useful that happens right when you need it. They might be a burst of insight that allows a character to make a perfectly executed attack, a lucky guess when using a computer terminal, a coincidental distraction that gives you an advantage against an NPC, or a supernatural entity that makes things work out in your favor. In some games, cyphers come in the form of items, like magic potions or bits of alien technology.
+La plupart des cyphers ne sont pas des objets physiques — juste quelque chose d'utile qui se produit au bon moment. Ils peuvent être une révélation soudaine qui permet à un personnage d'effectuer une attaque parfaitement exécutée, une intuition chanceuse lors de l'utilisation d'un terminal informatique, une distraction fortuite qui vous donne un avantage contre un PNJ, ou une entité surnaturelle qui fait en sorte que les choses se déroulent en votre faveur. Dans certains jeux, les cyphers se présentent sous la forme d'objets, comme des potions magiques ou des morceaux de technologie extraterrestre.
 
-Cyphers that don't have a physical form are called subtle cyphers.
+Les cyphers qui n'ont pas de forme physique sont appelés cyphers subtils.
 
-Cyphers that have a physical form are called manifest cyphers.
+Les cyphers qui ont une forme physique sont appelés cyphers manifestes.
 
-Regardless of their form, cyphers are single-use effects and are always consumed when used. Unless a cypher's description says otherwise, it works only for the character who activates it. For example, a PC can't use an enduring shield cypher on a friend.
+Quelles que soient leur forme, les cyphers sont des effets à usage unique et sont toujours consommés lorsqu'ils sont utilisés. À moins que la description d'un cypher n'indique le contraire, il ne fonctionne que pour le personnage qui l'active. Par exemple, un personnage joueur (PJ) ne peut pas utiliser un cypher de bouclier durable sur un ami.
 
-Cyphers are a game mechanic designed for frequent discovery and use. PCs can have only a small number of cyphers at any given time, and since they're always finding more, they're encouraged to use them at a steady pace.
+Les cyphers sont une mécanique de jeu conçue pour être découverts et utiliser fréquemment. Les PJ ne peuvent avoir qu'un petit nombre de cyphers à tout moment, et comme ils en découvrent toujours davantage, ils sont encouragés à les utiliser à un rythme régulier.
 
-In theory, the cyphers gained by the PCs are determined randomly. However, the GM can allow PCs to acquire or find them intentionally as well. Cyphers are gained with such regularity that the PCs should feel that they can use them freely. There will always be more, and they'll have different benefits. This means that in gameplay, cyphers are less like gear or treasure and more like character abilities that the players don't choose. This leads to fun game moments where a player can say "Well, I've got an X that might help in this situation," and X is always different. X might be an intuitive understanding of the local computer network, a favor from the Faerie Court, an explosive device, a short-range teleporter, or a force field. It might be a powerful magnet or a prayer that will cure disease. It could be anything. Cyphers keep the game fresh and interesting. Over time, characters can learn how to safely carry more and more cyphers at the same time, so cyphers really do seem more like abilities and less like gear.
+En théorie, les cyphers obtenus par les PJ sont déterminés de manière aléatoire. Cependant, la Meneuse (MJ) peut également permettre aux PJ de les acquérir ou de les trouver intentionnellement. Les cyphers sont obtenus avec une telle régularité que les PJ devraient avoir l'impression de pouvoir les utiliser librement. Il y en aura toujours plus, et ils auront différents avantages. Cela signifie qu'en cours de jeu, les cyphers ressemblent moins à du matériel ou à des trésors et plus à des capacités de personnage que les joueurs ne choisissent pas. Cela donne lieu à des moments de jeu amusants où un joueur peut dire : "Eh bien, j'ai un X qui pourrait aider dans cette situation," et X est toujours différent. X pourrait être une compréhension intuitive du réseau informatique local, un service de la Cour féerique, un dispositif explosif, un téléporteur à courte portée, ou un champ de force. Cela pourrait être un puissant aimant ou une prière qui guérira une maladie. Cela pourrait être n'importe quoi. Les cyphers gardent le jeu frais et intéressant. Au fil du temps, les personnages peuvent apprendre à porter de plus en plus de cyphers en même temps, si bien que les cyphers semblent vraiment plus comme des capacités et moins comme du matériel.
 
-{{< hint info >}}
-"Carry" in this sense refers to both subtle cyphers and manifest cyphers, though a PC may not actually carry anything that physically represents the cypher. A character thrown into prison without their equipment might still have subtle cyphers.
-{{< /hint >}}
+{{< hint info >}} "Porter" dans ce sens fait référence à la fois aux cyphers subtils et aux cyphers manifestes, bien qu'un PJ ne puisse pas réellement porter quoi que ce soit qui représente physiquement le cypher. Un personnage jeté en prison sans son équipement pourrait tout de même avoir des cyphers subtils. {{< /hint >}}
 
-Cyphers don't have to be used to make room for new ones. For subtle cyphers, a character can just use an action to "lose" the cypher, freeing up space to "find" one later (once a subtle cypher is discarded this way, it is gone and can't be recovered). For manifest cyphers, it's perfectly acceptable for the PCs to stash one elsewhere for later use; of course, that doesn't mean it will still be there when they return.
+Les cyphers n'ont pas besoin d'être utilisés pour faire de la place pour de nouveaux. Pour les cyphers subtils, un personnage peut simplement utiliser une action pour "perdre" le cypher, libérant ainsi de l'espace pour "trouver" un autre plus tard (une fois qu'un cypher subtil est jeté de cette manière, il est perdu et ne peut pas être récupéré). Pour les cyphers manifestes, il est parfaitement acceptable que les PJ en cachent un ailleurs pour une utilisation ultérieure ; bien sûr, cela ne signifie pas qu'il sera toujours là à leur retour.
 
-## Why Cyphers?
+## Pourquoi les Cyphers ?
 
-Cyphers are (not surprisingly, based on the name) the heart of the Cypher System. This is because characters in this game have some abilities that rarely or never change and can always be counted on---pretty much like in all games---and they have some abilities that are ever-changing and inject a great deal of variability in play. They are the major reason why no Cypher System game session should ever be dull or feel just like the last session. This week your character can solve the problem by walking through walls, but last time it was because you could create an explosion that could level a city block.
+Les cyphers sont (sans surprise, d'après le nom) le cœur du Cypher System. Cela est dû au fait que les personnages de ce jeu possèdent certaines capacités qui changent rarement ou jamais et sur lesquelles on peut toujours compter—un peu comme dans tous les jeux—et ils ont également des capacités qui changent constamment, injectant une grande dose de variabilité dans le jeu. Ils sont la principale raison pour laquelle aucune session de jeu du Cypher System ne devrait jamais être ennuyeuse ou ressembler à la dernière session. Cette semaine, votre personnage peut résoudre le problème en traversant les murs, mais la fois précédente, c'était parce que vous pouviez créer une explosion capable de raser un pâté de maisons.
 
-The Cypher System, then, is one where PC abilities are fluid, with the GM and the players both having a role in their choice, their assignment, and their use. Although many things separate the game system from others, this aspect makes it unique, because cyphers recognize the importance and value of two things:
+Le Cypher System est donc un système où les capacités des PJ sont fluides, La Meneuse et les joueurs ayant tous deux un rôle dans leur choix, leur attribution et leur utilisation. Bien que de nombreux éléments distinguent ce système de jeu des autres, cet aspect le rend unique, car les cyphers reconnaissent l'importance et la valeur de deux choses :
 
-1. "Treasure," because character abilities make the game fun and exciting. In fact, in the early days of roleplaying, treasure (usually in the form of magic items found in dungeons) was really the only customization of characters that existed. One of the drives to go out and have adventures is so you can discover cool new things that help you when you go on even more adventures. This is true in many RPGs, but in the Cypher System, it's built right into the game's core.
-2. Letting the GM have a hand in determining PC abilities makes the game move more smoothly. Some GMs prefer  
-to roll cyphers randomly, but some do not. For example, giving the PCs a cypher that will allow them to teleport far away might be a secret adventure seed placed by a  
-forward-thinking GM. Because the GM has an idea of where the story is going, they can use cyphers to help guide the path. Alternatively, if the GM is open to it, they can give out cyphers that enable the characters to take a more proactive role (such as teleporting anywhere they want). Perhaps most important, they can do these things without worrying about the long-term ramifications of the ability. A device that lets you teleport multiple times might really mess up the game over the long term. But once? That's just fun.
+1. Le "trésor", car les capacités des personnages rendent le jeu amusant et excitant. En fait, dans les premiers temps des jeux de rôle, le trésor (généralement sous forme d'objets magiques trouvés dans des donjons) était vraiment la seule personnalisation des personnages qui existait. Un des moteurs pour partir à l'aventure est de découvrir de nouvelles choses intéressantes qui vous aident lorsque vous partez pour encore plus d'aventures. Cela est vrai dans de nombreux RPG, mais dans le Cypher System, c'est intégré directement dans le cœur du jeu.
+2. Permettre au MJ d'avoir son mot à dire sur les capacités des PJ rend le jeu plus fluide. Certains MJs préfèrent lancer les cyphers de manière aléatoire, mais d'autres non. Par exemple, donner aux PJ un cypher qui leur permettra de se téléporter loin pourrait être une graine d'aventure secrète placée par un MJ prévoyant. Comme La Meneuse a une idée de la direction que prend l'histoire, il peut utiliser les cyphers pour guider le chemin. Alternativement, si La Meneuse est ouvert à cela, il peut distribuer des cyphers qui permettent aux personnages d'adopter un rôle plus proactif (comme se téléporter où ils le souhaitent). Peut-être plus important encore, ils peuvent faire ces choses sans se soucier des conséquences à long terme de la capacité. Un dispositif qui vous permet de vous téléporter plusieurs fois pourrait vraiment perturber le jeu sur le long terme. Mais une fois ? C'est juste amusant.
 
-### Cypher Limits
+### Limites des Cyphers
 
-All characters have a maximum number of cyphers they can have at any one time, determined by their type. If a character ever attempts to carry more, random cyphers instantly disappear until the PC has a number of cyphers equal to their maximum (depending on the genre of the campaign, subtle cyphers may be more or less likely to vanish this way). These vanished cyphers are not recoverable.
+Tous les personnages ont un nombre maximum de cyphers qu'ils peuvent avoir en même temps, déterminé par leur type. Si un personnage essaie de porter plus de cyphers, des cyphers aléatoires disparaissent instantanément jusqu'à ce que le PJ ait un nombre de cyphers égal à son maximum (selon le genre de la campagne, les cyphers subtils peuvent être plus ou moins susceptibles de disparaître de cette manière). Ces cyphers disparus ne peuvent pas être récupérés.
 
-## Subtle Cyphers
+### Cyphers Subtils
 
-Subtle (nonphysical) cyphers are a way to introduce cyphers into a game without overt "powered stuff"---no potions, alien crystals, or anything of that nature. They're most useful, perhaps, in a modern or horror setting without obvious fantasy elements. Subtle cyphers are more like the inherent abilities PCs have, adding boosts to Edge, recovering points from Pools, coming up with ideas, and so on. In general, these are commonplace, non-supernatural effects---a subtle cypher wouldn't create a laser beam or allow a character to walk through a wall. They don't break the fragile bubble of believability in genres where flashy powers and abilities don't make a lot of sense.
+Les cyphers subtils (non physiques) sont un moyen d'introduire des cyphers dans un jeu sans "éléments puissants" évidents—pas de potions, de cristaux aliens, ou quoi que ce soit de ce genre. Ils sont peut-être les plus utiles dans un cadre moderne ou horrifique sans éléments de fantasy évidents. Les cyphers subtils ressemblent davantage aux capacités inhérentes des PJ, ajoutant des augmentations à l'Avantage, récupérant des points des Réserves, proposant des idées, et ainsi de suite. En général, ce sont des effets courants, non surnaturels—un cypher subtil ne créerait pas un faisceau laser ni ne permettrait à un personnage de traverser un mur. Ils ne brisent pas la fragile bulle de crédibilité dans les genres où des pouvoirs et des capacités flashy n'ont pas beaucoup de sens.
 
-Subtle cyphers are particularly nice in a genre where the PCs are supposed to be normal people. The cyphers can simply be an expression of innate capabilities in characters that aren't always dependable. And in many ways, that's probably more realistic than an ability you can count on with certainty, because in real life, some days you can jump over a fence, and some days you just can't.
+Les cyphers subtils sont particulièrement adaptés dans un genre où les PJ sont censés être des personnes normales. Les cyphers peuvent simplement être une expression des capacités innées des personnages qui ne sont pas toujours fiables. Et de plusieurs manières, c'est probablement plus réaliste qu'une capacité sur laquelle vous pouvez compter avec certitude, car dans la vraie vie, certains jours vous pouvez sauter par-dessus une clôture, et certains jours vous ne le pouvez tout simplement pas.
 
-Concepts for subtle cyphers include the following:
+**Bonne fortune:** Parfois, les choses se passent juste comme il faut. Vous êtes au bon endroit au bon moment.
 
-**Good fortune:**  Once in a while, things just go your way. You're in the right place at the right time.
+**Inspirations:** Parfois, vous êtes inspiré à faire quelque chose que vous n'avez jamais fait auparavant et que vous ne pourrez peut-être pas refaire. Appelez cela de l'adrénaline mélangée à la bonne motivation, ou simplement faire la bonne chose au bon endroit au bon moment. Qui peut vraiment le définir ? La vie est drôle de cette façon.
 
-**Inspirations:**  Sometimes you get inspired to do something you've never done before and might not be able to do again. Call it adrenaline mixed with the right motivation, or just doing the right thing at the right place at the right time. Who can really define it? Life's funny that way.
+**Concepts aliens:** Des concepts complexes et complètement inhumains pénètrent notre monde et s'infiltrent dans la conscience humaine. Lorsque cela se produit, cela peut provoquer une détresse mentale et une désorientation. Cela peut également accorder des capacités et des avantages impossibles.
 
-**Alien concepts:**  Complex and utterly inhuman memes enter our world and worm their way into and out of human consciousness. When this happens, it can cause mental distress and disorientation. It can also grant impossible abilities and advantages.
+**Bénédictions:** Dans un monde de fantasy, il y a neuf dieux. Chaque matin, tous les résidents intelligents du monde prient l'un des dieux, et certains des fidèles obtiennent une bénédiction divine. Certaines personnes croient que prier différents dieux vous donne différentes bénédictions.
 
-**Blessings:**  In a fantasy world, there are nine gods. Each morning, all intelligent residents of the world pray to one of the gods, and some of the faithful gain a divine blessing. Some people believe that praying to different gods gives you different blessings.
+**Chansons entêtantes:** Vous savez quanddes fois certaines chansons surgissent dans votre tête et ne partent pas ? Il y a un pouvoir dans ces chansons, et les bonnes personnes savent comment l'exploiter. Rendez les chansons troublantes ou évoquant des chants maléfiques, et vous avez un concept de cypher parfait pour une campagne d'horreur.
 
-**Earworms:**  You know how some songs pop into your head and just won't leave? There's a power to those songs, and the right people know how to harness it. Make the songs disturbing or reminiscent of evil chants, and you've got a perfect cypher concept for a horror campaign.
+**Transmissions mystérieuses:** Qu'est-ce que ce bourdonnement ? Ce grésillement mécanique ? Ces chiffres qui se répètent encore et encore ? Et pourquoi certaines personnes seules peuvent les entendre ? Quelques-uns qui sont conscients des sons ont appris à les utiliser.
 
-**Mysterious transmissions:**  What's that buzzing? That mechanical chittering? Those numbers repeating over and over? And why can only some people hear it? A few who are aware of the sounds have learned how to make use of them.
+**Pouvoirs surnaturels:** Les énergies mentales ou mystiques changent et se déplacent constamment, montent et descendent. Mais vous avez découvert comment accorder votre esprit à elles. Aucune action physique ou aucun accessoire n'est requis—juste un conduit intérieur vers le numineux.
 
-**Supernatural powers:**  Mental or mystical energies constantly shift and change, ebb and flow. But you've figured out how to attune your mind to them. There are no physical actions or paraphernalia required---just an inner conduit to the numinous.
+### Découvrir des Cyphers Subtils
 
-### Discovering Subtle Cyphers
+Étant donné que les cyphers subtils ne sont pas des objets physiques, les MJs devront déterminer quand donner aux PJ de nouveaux cyphers pour remplacer ceux qu'ils ont utilisés. Les cyphers ne devraient probablement pas être entièrement liés à des actions sous le contrôle des personnages—en d'autres termes, ils ne devraient pas résulter de la méditation ou de quelque chose de ce genre. Au lieu de cela, La Meneuse devrait choisir des points significatifs dans l'histoire où de nouveaux cyphers pourraient simplement venir sans être demandés par les PJ. Dans une vue d'ensemble, cela n'est pas différent des cyphers manifestes placés comme trésor dans la tanière d'une créature, un cache secret, ou ailleurs pour que les personnages les trouvent. Quoi qu'il en soit, La Meneuse choisit de bons endroits pour "réapprovisionner" les capacités basées sur des cyphers potentiellement utilisées.
 
-Since subtle cyphers aren't physical objects, GMs will need to figure out when to give PCs new ones to replace the ones they have used. The cyphers probably shouldn't be tied to actions entirely under the characters' control---in other words, they shouldn't come as a result of meditation or anything of that nature. Instead, the GM should choose significant points in the story when new cyphers might simply come unbidden to the PCs. In the broader view, this is no different than manifest cyphers placed as treasure in a creature's lair, a secret cache, or somewhere else for the characters to find. Either way, the GM is picking good spots to "refill" potentially used cypher-based abilities.
+Les cyphers subtils se trouvent souvent en groupes d'un à six (La Meneuse peut lancer 1d6 pour déterminer le nombre). Le MJ pourrait attribuer aléatoirement les cyphers à chaque PJ qui a de la place pour plus, ou présenter une sélection de cyphers au groupe et permettre aux joueurs de choisir ceux qu'ils veulent pour leurs personnages. Les personnages devraient immédiatement savoir ce que font leurs cyphers subtils. Si un PJ active un cypher subtil de guérison en pensant qu'il s'agit de quelque chose pour ouvrir une serrure, c'est une perte d'une capacité utile du personnage.
 
-Subtle cyphers are often found in groups of one to six (the GM can roll 1d6 to determine the number). The GM might randomly assign the cyphers to each PC who has space for more, or present a selection of cyphers to the group and allow the players to choose which ones they want for their characters. Characters should immediately know what their subtle cyphers do. If a PC activates a healing subtle cypher when they think it's something to help pick a lock, that's a waste of a useful character ability.
+Les PJs pourraient être en mesure d'obtenir des cyphers subtils auprès d'PNJ ou dans des circonstances inhabituelles sous forme de cadeaux, de faveurs ou de bénédictions, même en demandant un type particulier de cypher subtil, tel que guérison, protection ou compétence. Par exemple, les PJs qui font un don dans un temple d'une déesse de la guérison pourraient demander à recevoir une bénédiction (cypher subtil) leur permettant de prononcer une prière de guérison qui restaure des points dans l'une de leurs Réserves. Un sorcier PNJ qui doit une faveur aux PJ pourrait leur lancer un sort qui dévie une arme s'ils prononcent un mot magique. Un pylône alien pourrait accorder la connaissance d'un étrange code mental qui permet à une personne de voir dans l'obscurité pendant quelques heures.
 
-PCs might be able to obtain subtle cyphers from NPCs or in unusual circumstances as gifts, boons, or blessings, even asking for a particular kind of subtle cypher, such as healing, protection, or skill. For example, PCs who make a donation at a temple of a healing goddess could ask to receive a blessing (subtle cypher) that allows them to speak a healing prayer that restores points to one of their Pools. An NPC wizard who owes the PCs a favor might cast a spell on them that deflects one weapon if they say a magic word. An alien pylon might grant knowledge of a strange mental code that lets a person see in the dark for a few hours.
+Un PJ peut également acquérir un nouveau cypher subtil en dépensant 1 XP sur l'une des intrusions des joueurs suivantes :
 
-A PC can also acquire a new subtle cypher by spending 1 XP on one of the following player intrusions:
+Cypher général : Vous demandez au MJ un cypher subtil général, tel que "guérison", "mouvement", "défense" ou peut-être quelque chose d'aussi spécifique que "vol". Le MJ vous donne un cypher qui correspond à cette description et détermine aléatoirement son niveau. Si vous n'avez pas de place pour ce cypher, vous perdez immédiatement l'un de vos cyphers actuels (à votre choix) et le nouveau cypher prend sa place.
 
-**General cypher:**  You ask the GM for a general subtle cypher, such as "healing," "movement," "defense," or perhaps something as specific as "flight." The GM gives you a cypher that meets that description and randomly determines its level. If you don't have space for this cypher, you immediately lose one of your current cyphers (your choice) and the new cypher takes its place.
+Cypher spécifique : Vous demandez au MJ un cypher subtil spécifique (tel qu'un soin ou un stimulant) d'un niveau spécifique. Effectuez un jet d'Intellect avec une difficulté égale au niveau du cypher plus 1. Si vous avez déjà eu ce cypher auparavant, la tâche est facilitée. Si vous échouez au jet, vous ne gagnez pas de cypher. Si vous réussissez, La Meneuse vous donne ce cypher subtil à ce niveau. Si vous n'avez pas de place pour ce nouveau cypher, vous perdez immédiatement l'un de vos cyphers actuels (à votre choix) et le nouveau cypher prend sa place. Que vous réussissiez ou non au jet, les 1 XP sont dépensés.
 
-**Specific cypher:**  You ask the GM for a specific subtle cypher (such as a curative or stim) of a specific level. Make an Intellect roll with a difficulty equal to the cypher's level plus 1. If you have had this cypher before, the task is eased. If you fail the roll, you do not gain a cypher. If you succeed, the GM gives you that subtle cypher at that level. If you don't have space for this new cypher, you immediately lose one of your current cyphers (your choice) and the new cypher takes its place. Whether or not you succeed at the roll, the 1 XP is spent.
+## Cyphers de Fantasy
 
-## Fantasy Cyphers
+Les objets magiques sont une constante des histoires et des jeux de fantasy. Dans le Cypher System, ces objets magiques sont, bien sûr, des cyphers. Le Cypher System suppose que les cyphers subtils sont la norme, mais dans un jeu de fantasy, l'hypothèse est généralement l'opposée : les cyphers sont des objets physiques (cyphers manifestes) avec des pouvoirs magiques, que les héros trouvent comme trésor, cadeaux ou récompenses pour leurs aventures et exploits.
 
-Magic items are a staple of fantasy stories and games. In the Cypher System, these magic items are, of course, cyphers. The Cypher System assumes that subtle cyphers are the default, but in a fantasy game the assumption is usually the opposite---cyphers are physical objects (manifest cyphers) with magical powers, which the heroes find as treasure, gifts, or rewards for their adventures and exploits.
+### Mélanger Cyphers Subtils Et Manifestes
 
-### Mixing Subtle And Manifest Cyphers
+Il n'y a aucune raison pour qu'une campagne de fantasy ne puisse pas utiliser des cyphers manifestes et subtils. Dans ce cadre, les cyphers manifestes sont les objets tangibles trouvés dans des trésors, et les cyphers subtils représentent la bonne fortune, les bénédictions des dieux, et d'autres coïncidences qui bénéficient aux personnages.
 
-There's no reason why a fantasy campaign can't use manifest cyphers and subtle cyphers. In this setup, manifest cyphers are the tangible objects found in treasure hoards, and subtle cyphers represent good fortune, the blessings of the gods, and other coincidences that benefit the characters.
+### Formes de Cypher
 
-### Cypher Forms
+La forme d'un cypher manifeste—tel qu'une potion ou un rouleau—n'affecte pas du tout ses capacités. Une potion qui facilite la prochaine tâche de l'utilisateur de trois étapes est fonctionnellement identique à un rouleau magique qui fait la même chose.
 
-What form a manifest cypher takes---such as a potion or scroll---doesn't affect its abilities at all. A potion that eases the user's next task by three steps is functionally identical to a magical scroll that does the same thing.
-
-To randomly determine a manifest cypher's form, roll on the following table.
+Pour déterminer aléatoirement la forme d'un cypher manifeste, lancez sur la table suivante.
 
 | d100  | Cypher Form        |
 | ----- | ------------------ |
-| 01-02 | Bone runeplate     |
-| 03-04 | Book page          |
-| 05-07 | Bottle of powder   |
-| 08-09 | Brand              |
-| 10-12 | Brick              |
-| 13-15 | Carved bone        |
-| 16-18 | Carved stick       |
-| 19-20 | Carved tooth       |
-| 21-23 | Chalky potion      |
-| 30-33 | Clay runeplate     |
-| 34-37 | Crystal            |
-| 38-39 | Elaborate scar     |
-| 40-42 | Envelope of powder |
-| 43-44 | Fuming potion      |
-| 45-47 | Glass              |
-| 48-50 | Leaf               |
-| 51-54 | Leather scroll     |
-| 55-57 | Metal runeplate    |
-| 58-60 | Oily potion        |
-| 61-62 | Paper scroll       |
-| 63-66 | Papyrus scroll     |
-| 67-71 | Parchment scroll   |
-| 72-74 | Pouch of powder    |
-| 75-76 | Skin drawing       |
-| 77-80 | Stone              |
-| 81-82 | Tattoo             |
-| 83-85 | Thick potion       |
-| 86-88 | Tube of power      |
-| 89-92 | Vellum scroll      |
-| 93-96 | Watery potion      |
-| 97-00 | Wood runeplate     |
+| 01-02 | Plaque de runes en os    |
+| 03-04 | Page de livre          |
+| 05-07 | Bouteille de poudre   |
+| 08-09 | Marque              |
+| 10-12 | Brique              |
+| 13-15 | Os sculpté        |
+| 16-18 | Bâton sculpté      |
+| 19-20 | Dent sculptée      |
+| 21-23 | Potion crayeuse      |
+| 30-33 | Plaque runique en argile    |
+| 34-37 | Cristal            |
+| 38-39 | Cicatrice élaborée   |
+| 40-42 | Enveloppe de poudre |
+| 43-44 | Potion fumante     |
+| 45-47 | Verre              |
+| 48-50 | Feuille               |
+| 51-54 | Rouleau en cuir    |
+| 55-57 | Plaque runique en métal    |
+| 58-60 | Potion huileuse        |
+| 61-62 | Rouleau de papier     |
+| 63-66 | Rouleau de papyrus    |
+| 67-71 | Rouleau de parchemin   |
+| 72-74 | Sac de poudre    |
+| 75-76 | Dessin sur peau       |
+| 77-80 | Pierre              |
+| 81-82 | Tatouage             |
+| 83-85 | Potion épaisse      |
+| 86-88 | Tube de pouvoir      |
+| 89-92 | Rouleau de vélin     |
+| 93-96 | Potion aqueuse     |
+| 97-00 | Plaque runique en bois    |
 
-### Example Fantasy Cyphers
+### Exemples de Cyphers Fantastiques
 
-All of the cyphers in this chapter are manifest and fantastic cyphers.
+Tous les cyphers dans ce chapitre sont des cyphers manifestes et fantastiques.
 
 #### Fantasy Cyphers Table
 
 | d100  | Cypher                 |
 | ----- | ---------------------- |
-| 01-05 | Acid resistance        |
-| 06-11 | Animal control         |
-| 12-18 | Beast shape            |
-| 19-27 | Cold resistance        |
-| 28-34 | Demon ward             |
-| 35-39 | Dragon ward            |
-| 40-44 | Electricity resistance |
-| 45-48 | Elemental conjuration  |
-| 49-57 | Fire resistance        |
-| 58-61 | Giant size             |
-| 62-65 | Instant boat           |
-| 66-68 | Instant tower          |
-| 69-72 | Lycanthrope ward       |
-| 73-76 | Penultimate key        |
-| 77-82 | Poison resistance      |
-| 83-86 | Restorative aura       |
-| 87-89 | Thought listening      |
-| 90-93 | Tiny size              |
-| 94-98 | Undead ward            |
-| 99-00 | Walking corpse         |
+| 01-05 | Resistance à l'acide        |
+| 06-11 | Contrôle d'animal         |
+| 12-18 | Forme de bête            |
+| 19-27 | Résistance au Froid       |
+| 28-34 | Protection contre les Démons      |
+| 35-39 | Protection contre les Dragons            |
+| 40-44 | Résistance à l'Électricité |
+| 45-48 | Conjuration Élementaire  |
+| 49-57 | Résistance au Feu      |
+| 58-61 | Taille Géante            |
+| 62-65 | Bateau Instantané          |
+| 66-68 | Tour Instantanée          |
+| 69-72 | Protection contre les Lycanthropes    |
+| 73-76 | Clé Pénultième     |
+| 77-82 | Résistance au Poison     |
+| 83-86 | Aura restauratrice      |
+| 87-89 | Écoute des Pensées      |
+| 90-93 | Taille Minuscule   |
+| 94-98 | Protection contre les morts-vivants |
+| 99-00 | Corps qui marche        |
 
 -----
 
-#### Acid Resistance
+#### Résistance à l'acide
 
 **Level:**  1d6 + 3
 
@@ -164,281 +158,279 @@ All of the cyphers in this chapter are manifest and fantastic cyphers.
 
 -----
 
-#### Animal Control
+#### Contrôle d'animal
 
 **Level:**  1d6 + 2
 
-**Effect:**  To activate the cypher, the user must succeed on an Intellect attack against a beast whose level does not exceed the cypher's level. If successful, the beast immediately becomes calm. The beast awaits the user's commands and carries out all orders to the best of its ability. The target remains so enslaved for a number of hours equal to the cypher's level minus the target's level. (If the result is 0, the target is enslaved for only one minute.) The beast could attack or defend, a dog could follow a scent or retrieve an object, a badger could dig a hole, and so on.
+**Effect:**  Pour activer le cypher, l'utilisateur doit réussir une attaque d'Intellect contre une bête dont le niveau ne dépasse pas celui du cypher. En cas de succès, la bête devient immédiatement calme. Elle attend les ordres de l'utilisateur et exécute toutes les commandes du mieux qu'elle peut. La cible reste ainsi asservie pendant un nombre d'heures égal au niveau du cypher moins le niveau de la cible. (Si le résultat est 0, la cible est asservie pendant seulement une minute.) La bête peut attaquer ou se défendre, un chien peut suivre une piste ou récupérer un objet, un blaireau peut creuser un trou, et ainsi de suite.
 
-The cypher doesn't give the user any special ability to understand the target or perceive through its senses. For example, the user can command an eagle to fly above a group of enemies, but the eagle can't describe what it sees and the user can't look through its eyes.
+Le cypher ne confère à l'utilisateur aucune capacité spéciale pour comprendre la cible ou percevoir à travers ses sens. Par exemple, l'utilisateur peut ordonner à un aigle de voler au-dessus d'un groupe d'ennemis, mais l'aigle ne peut pas décrire ce qu'il voit et l'utilisateur ne peut pas regarder à travers ses yeux.
 
-"Beast" in this sense refers to creatures of animal-level intelligence and may include unintelligent magical creatures like basilisks, pegasi, and so on.
+Dans ce contexte, "bête" fait référence à des créatures d'intelligence animale et peut inclure des créatures magiques non intelligentes comme des basilics, des pégases, etc.
 
 -----
 
-#### Beast Shape
+#### Forme de Bête
 
 **Level:**  1d6
 
-**Effect:**  The user transforms into a specific kind of animal, such as a bear, hawk, horse, or wolf (the kind of animal is determined by the cypher's creator). The user gains the animal's type of movement (swimming for a fish, flying for a bird, and so on) and two assets on tasks to pretend to be that animal. The user also gains an asset on one skill appropriate to their animal form (or two skills for cypher level 5 and higher). See the Animal Form Minor Abilities table.
+**Effect:**  L'utilisateur se transforme en un type spécifique d'animal, tel qu'un ours, un faucon, un cheval ou un loup (le type d'animal est déterminé par le créateur du cypher). L'utilisateur acquiert le type de mouvement de l'animal (nage pour un poisson, vol pour un oiseau, etc.) et deux atouts sur les tâches pour se faire passer pour cet animal. L'utilisateur gagne également un atout sur une compétence appropriée à sa forme animale (ou deux compétences pour un cypher de niveau 5 et supérieur). Voir le tableau des capacités mineures de forme animale.
 
-The magic shrinks or enlarges the user to a size more suitable for their animal form, but generally can't make them more than about 50 percent smaller or larger, so the user might become an unusually large bird or a small bear. This doesn't affect the animal's abilities. The user can still use all of their abilities that don't rely specifically on their normal form. For example, an Adept in wolf form can't wield a dagger because wolves don't have hands, but could still use a healing power or mind blast ability.
+La magie réduit ou agrandit l'utilisateur à une taille plus adaptée à sa forme animale, mais ne peut généralement pas le faire plus de 50 % plus petit ou plus grand, donc l'utilisateur pourrait devenir un oiseau de taille inhabituellement grande ou un petit ours. Cela n'affecte pas les capacités de l'animal. L'utilisateur peut toujours utiliser toutes ses capacités qui ne dépendent pas spécifiquement de sa forme normale. Par exemple, un Adept sous forme de loup ne peut pas manier un poignard parce que les loups n'ont pas de mains, mais il pourrait toujours utiliser un pouvoir de guérison ou une capacité de décharge mentale.
 
-After about an hour, the user returns to their normal form.
+Après environ une heure, l'utilisateur revient à sa forme normale.
 
-Depending on the cypher, the user might still be able to speak in a humanoid language, talk in a "language" of animal noises that other transformed people can understand perfectly, speak with animals of the same kind, or none of the above.
+Selon le cypher, l'utilisateur pourrait encore être capable de parler dans une langue humanoïde, de communiquer dans un "langage" de bruits animaux que d'autres personnes transformées peuvent parfaitement comprendre, de parler avec des animaux du même type, ou rien de tout cela.
 
 -----
 
-#### Cold Resistance
+#### Résistance au Froid
 
 **Level:**  1d6 + 3
 
-**Effect:**  The user gains Armor against cold damage equal to the cypher's level for one hour.
+**Effect:**  L'utilisateur gagne une Armure contre les dégâts de froid égale au niveau du cypher pendant une heure.
 
 -----
 
-#### Demon Ward
+#### Protection contre les Démons
 
 **Level:**  1d6
 
-**Effect:**  For one hour, the user gains Armor equal to the cypher's level against damage from demons, devils, and similar malevolent creatures.
+**Effect:**  Pendant une heure, l'utilisateur gagne une Armure égale au niveau du cypher contre les dégâts provenant des démons, des diables et d'autres créatures maléfiques similaires.
 
 -----
 
-#### Dragon Ward
+#### Protection contre les Dragons
 
 **Level:**  1d6
 
-**Effect:**  For one hour, the user gains Armor equal to the cypher's level against damage from dragons, wyverns, and similar magical reptilian creatures.
+**Effect:**  Pendant une heure, l'utilisateur gagne une Armure égale au niveau du cypher contre les dégâts provenant des dragons, des wyverns et d'autres créatures reptiles magiques similaires.
 
-In a typical fantasy campaign, a demon is a supernatural being from another dimension or plane of existence.
+Dans une campagne de fantasy typique, un démon est un être surnaturel provenant d'une autre dimension ou d'un autre plan d'existence.
 
 -----
 
-#### Electricity Resistance
+#### Résistance à l'Électricité
 
 **Level:**  1d6 + 3
 
-**Effect:**  The user gains Armor against electricity damage equal to the cypher's level for one hour.
+**Effect:**  L'utilisateur gagne une Armure contre les dégâts électriques égale au niveau du cypher pendant une heure.
 
 -----
 
-#### Elemental Conjuration
+#### Conjuration Élementaire
 
 **Level:**  1d6
 
-**Effect:**  Summons an elemental creature (air, earth, fire, or water) that can understand the verbal commands of the user. Once the elemental is summoned, commanding it is not an action. It can make attacks or perform actions as ordered to the best of its abilities, but it cannot speak. The elemental never goes farther than long range away from the user.
+**Effect:**  Invoque une créature élémentaire (air, terre, feu ou eau) qui peut comprendre les ordres verbaux de l'utilisateur. Une fois l'élémentaire invoqué, le commandement n'est pas une action. Il peut attaquer ou effectuer des actions comme ordonné du mieux qu'il peut, mais il ne peut pas parler. L'élémentaire ne s'éloigne jamais de plus d'une longue portée de l'utilisateur.
 
-The elemental is not particularly intelligent or capable of initiating action. It responds if attacked, but otherwise does only as commanded.
+L'élémentaire n'est pas particulièrement intelligent ou capable d'initier une action. Il répond s'il est attaqué, mais ne fait que ce qui est commandé.
 
-The elemental remains for one hour per cypher level or until its physical form is destroyed, after which it vanishes back to its native realm.
+L'élémentaire reste pendant une heure par niveau de cypher ou jusqu'à ce que sa forme physique soit détruite, après quoi il disparaît dans son royaume d'origine.
 
 -----
 
-#### Fire Resistance
+#### Résistance au Feu
 
 **Level:**  1d6 + 3
 
-**Effect:**  The user gains Armor against fire damage equal to the cypher's level for one hour.
+**Effect:**  L'utilisateur gagne une Armure contre les dégâts de feu égale au niveau du cypher pendant une heure.
 
 -----
 
-#### Giant Size
+#### Taille Géante
 
 **Level:**  1d6
 
-**Effect:**  The user grows to about one and a half times their normal size. While at this larger size, they add 4 points to their Might Pool and +2 to their Might Edge, but their Speed defense rolls are hindered.
+**Effect:**  L'utilisateur grandit d'environ une fois et demie sa taille normale. Lorsqu'il est à cette taille plus grande, il ajoute 4 points à sa Réserve de Puissance et +2 à son Avantage de Puissance, mais ses jets de défense de Célérité sont entravés.
 
-They return to their normal size after a minute. When the effect ends, their Might Edge returns to normal, they lose the penalty to Speed defense, and they subtract 4 points from their Might Pool (if this brings the Pool to 0, they subtract the overflow first from their Speed Pool and then, if necessary, from their Intellect Pool).
+Il revient à sa taille normale après une minute. Lorsque l'effet se termine, son Avantage de Puissance revient à la normale, il perd le malus à la défense de Célérité, et il soustrait 4 points de sa Réserve de Puissance (si cela ramène la Réserve à 0, il soustrait d'abord l'excédent de sa Réserve de Célérité puis, si nécessaire, de sa Réserve d'Intellect).
 
-If the user is an NPC, the cypher increases their health by 4, eases their Might-based tasks, and hinders their Speed defense. When the effect ends, they lose 4 health and all of the other advantages and penalties from the cypher.
+Si l'utilisateur est un PNJ, le cypher augmente sa santé de 4, facilite ses tâches basées sur la Puissance, et entrave sa défense de Célérité. Lorsque l'effet se termine, il perd 4 points de santé et tous les autres avantages et malus du cypher.
 
 -----
 
-#### Instant Boat
+#### Bateau Instantané
 
 **Level:**  1d6 + 2
 
-**Effect:**  Creates or transforms into a small sailboat that can carry up to eight people. The user or other characters must row, steer, and sail the boat as normal. At cypher level 5 and higher, the boat grants an asset on all tasks relating to its movement, and at cypher level 7 and higher, the boat can move a short distance each round under its own power. The boat lasts for a day, after which it vanishes.
+**Effect:**  Crée ou se transforme en un petit voilier pouvant transporter jusqu'à huit personnes. L'utilisateur ou d'autres personnages doivent ramer, diriger et naviguer le bateau normalement. À partir du niveau de cypher 5 et plus, le bateau accorde un atout sur toutes les tâches liées à son mouvement, et à partir du niveau de cypher 7 et plus, le bateau peut se déplacer sur une courte distance chaque round par ses propres moyens. Le bateau dure une journée, après quoi il disparaît.
 
 -----
 
-#### Instant Tower
+#### Tour Instantanée
 
 **Level:**  1d6 + 3
 
-**Effect:**  Creates a simple, squat stone tower with a door, three arrow slits, and a ceiling hatch leading to the roof. The tower is 10 feet (3 m) square and 12 feet (4 m) tall. If the cypher level is 7 or higher, the tower also has a second story (with four arrow slits), increasing its total height to 20 feet (6 m). If there isn't sufficient room for the tower to reach its full size, it fills the available space, but its appearance and growth does not apply any force or pressure against the confining surfaces.
+**Effect:**  Crée une simple tour en pierre, trapue, avec une porte, trois créneaux, et un trou d'accès au plafond menant au toit. La tour mesure 10 pieds (3 m) de côté et 12 pieds (4 m) de hauteur. Si le niveau du cypher est de 7 ou plus, la tour a également un deuxième étage (avec quatre créneaux), augmentant sa hauteur totale à 20 pieds (6 m). S'il n'y a pas suffisamment de place pour que la tour atteigne sa taille maximale, elle remplit l'espace disponible, mais son apparence et sa croissance n'appliquent aucune force ou pression contre les surfaces de confinement.
 
-The tower is permanent and immobile once created.
+La tour est permanente et immobile une fois créée.
 
 -----
 
-#### Lycanthrope Ward
+#### Protection contre les Lycanthropes
 
 **Level:**  1d6
 
-**Effect:**  For one hour, the user gains Armor equal to the cypher's level against damage from werewolves and other lycanthropes.
+**Effect:**  Pendant une heure, l'utilisateur gagne une Armure égale au niveau du cypher contre les dégâts provenant des loups-garous et d'autres lycanthropes.
 
-**Lycanthrope:**  Formally, a human who can transform into a wolf. Informally, a human who can transform into an animal, such as a bear, rat, tiger, or wolf
+**Lycanthrope:**  Formelle, une personne humaine qui peut se transformer en loup. Informellement, une personne humaine qui peut se transformer en un animal, tel qu'un ours, un rat, un tigre ou un loup.
 
 -----
 
-#### Penultimate Key
+#### Clé Pénultième
 
 **Level:**  1d6 + 2
 
-**Effect:**  Locks or unlocks any one door, portal, chest, or other lockable item of the cypher's level or lower. The targeted item must have a keyhole for the cypher to work.
+**Effect:**  Verrouille ou déverrouille une porte, un portail, un coffre ou un autre objet verrouillable de niveau du cypher ou inférieur. L'objet ciblé doit avoir un trou de serrure pour que le cypher fonctionne.
 
-Legends speak of the Ultimate Key, which can open any lock, even those sealed by a god.
+Les légendes parlent de la Clé Ultime, qui peut ouvrir n'importe quelle serrure, même celles scellées par un dieu.
 
 -----
 
-#### Poison Resistance
+#### Résistance au Poison
 
 **Level:**  1d6 + 3
 
-**Effect:**  The user gains Armor against poison damage equal to the cypher's level for one hour.
+**Effect:**  L'utilisateur gagne une Armure contre les dégâts de poison égale au niveau du cypher pendant une heure.
 
 -----
 
-#### Restorative Aura
+#### Aura Récupératrice
 
 **Level:**  1d6
 
-**Effect:**  Creates an immediate area filled with aromatic smoke, reassuring sounds, gentle light, or other pleasing sensations that last for one hour. Creatures who rest within the area gain +2 on their recovery rolls (or +4 for cypher level 5 and higher). NPCs instead recover 2 health if they spend at least ten minutes within the area (or 4 health for cypher level 5 and higher). For a creature to gain this benefit, its entire rest must occur while the cypher is active.
+**Effect:**  Crée une zone immédiate remplie de fumée aromatique, de sons réconfortants, de lumière douce ou d'autres sensations agréables qui durent une heure. Les créatures qui se reposent dans la zone gagnent +2 sur leurs jets de récupération (ou +4 pour un cypher de niveau 5 et plus). Les PNJ récupèrent plutôt 2 points de santé s'ils passent au moins dix minutes dans la zone (ou 4 points de santé pour un cypher de niveau 5 et plus). Pour qu'une créature bénéficie de cet avantage, son repos entier doit avoir lieu pendant que le cypher est actif.
 
 -----
 
-#### Thought Listening
+#### Écoute des Pensées
 
 **Level:**  1d6 + 1
 
-**Effect:**  The user can read the surface thoughts of a creature within short range that they can see, even if the target doesn't want them to. Once the user has established contact, they can read the target's thoughts for up to one minute per cypher level.
+**Effect:**  L'utilisateur peut lire les pensées superficielles d'une créature à portée courte qu'il peut voir, même si la cible ne le souhaite pas. Une fois que l'utilisateur a établi le contact, il peut lire les pensées de la cible pendant jusqu'à une minute par niveau de cypher.
 
 -----
 
-#### Tiny Size
+#### Taille Minuscule
 
 **Level:**  1d6
 
-**Effect:**  The user shrinks to about one-tenth their normal size. While at this smaller size, they add 4 points to their Speed Pool and +2 to their Speed Edge, but all of their Might actions are hindered by two steps. They return to their normal size after a minute. When the effect ends, their Speed Edge returns to normal, they lose the penalty to Might actions, and they subtract 4 points from their Speed Pool (if this brings the Pool to 0, they subtract the overflow first from their Intellect Pool and then, if necessary, from their Might Pool).
+**Effect:**  L'utilisateur rétrécit à environ un dixième de sa taille normale. Lorsqu'il est à cette taille plus petite, il ajoute 4 points à sa Réserve de Célérité et +2 à son Avantage de Célérité, mais toutes ses actions basées sur la Puissance sont entravées de deux niveaux. Il revient à sa taille normale après une minute. Lorsque l'effet se termine, son Avantage de Célérité revient à la normale, il perd le malus aux actions de Puissance, et il soustrait 4 points de sa Réserve de Célérité (si cela ramène la Réserve à 0, il soustrait d'abord l'excédent de sa Réserve d'Intellect, puis, si nécessaire, de sa Réserve de Puissance).
 
-If the user is an NPC, the cypher eases their Speed-based tasks and hinders their Might-based tasks. When the effect ends, they lose all of the advantages and penalties from the cypher.
+Si l'utilisateur est un PNJ, le cypher facilite ses tâches basées sur la Célérité et entrave ses tâches basées sur la Puissance. Lorsque l'effet se termine, il perd tous les avantages et malus du cypher.
 
 -----
 
-#### Undead Ward
+#### Protection contre les Morts-Vivants
 
 **Level:**  1d6
 
-**Effect:**  For one hour, the user gains Armor equal to the cypher's level against damage from skeletons, zombies, ghosts, vampires, and other undead creatures.
+**Effect:**  Pendant une heure, l'utilisateur gagne une Armure égale au niveau du cypher contre les dégâts provenant des squelettes, des zombies, des fantômes, des vampires et d'autres créatures morts-vivantes.
 
 -----
 
-#### Walking Corpse
+#### Cadavre Animé
 
 **Level:**  1d6
 
-**Effect:**  Animates a corpse as a level 1 (or level 2 for cypher level 5 and higher) undead skeleton or zombie, depending on the condition of the body. The corpse can be no larger than a typical human. The animated corpse has none of the intelligence, memories, or special abilities that it had in life. The creature follows the user's verbal commands for one hour, after which it becomes an inert corpse. Unless the creature is killed by damage, the user can reanimate it again when its time expires, but any damage it had when it became inert applies to its newly reanimated state.
+**Effect:**  Anime un cadavre en tant que squelette ou zombie de niveau 1 (ou de niveau 2 pour un cypher de niveau 5 et supérieur), selon l'état du corps. Le cadavre ne peut pas être plus grand qu'un humain typique. Le cadavre animé n'a aucune intelligence, mémoire ou capacité spéciale qu'il avait de son vivant. La créature suit les ordres verbaux de l'utilisateur pendant une heure, après quoi elle redevient un cadavre inerte. À moins que la créature ne soit tuée par des dégâts, l'utilisateur peut la réanimer à nouveau lorsque son temps expire, mais tous les dégâts qu'elle avait lorsqu'elle est devenue inerte s'appliquent à son nouvel état réanimé.
 
-## Manifest Cyphers
+## Cyphers Manifestes
 
-Because manifest cyphers are physical objects, and people are familiar with the idea of finding "treasure" as part of playing an RPG, these kinds of cyphers are easy to get into the hands of the PCs. They are often found in groups of one to six (the GM can roll 1d6 to determine the number), usually because the characters are searching for them. They might be among the possessions of a fallen foe, hidden in a secret room, or scattered amid the wreckage of a crashed starship. The GM can prepare a list ahead of time of what successful searchers find. Sometimes this list is random, and sometimes there is logic behind it. For example, a warlock's laboratory might contain four different magic potions that the PCs can find.
+Étant donné que les cyphers manifestes sont des objets physiques, et que les gens sont habitués à l'idée de trouver des "trésors" en jouant à un JDR, ces types de cyphers sont faciles à mettre entre les mains des PJ. Ils sont souvent trouvés en groupes de un à six (La Meneuse peut lancer 1d6 pour déterminer le nombre), généralement parce que les personnages les cherchent. Ils peuvent se trouver parmi les possessions d'un ennemi vaincu, cachés dans une salle secrète, ou éparpillés dans les débris d'un vaisseau spatial écrasé. Le MJ peut préparer une liste à l'avance de ce que trouvent les chercheurs. Parfois, cette liste est aléatoire, et parfois, elle est logique. Par exemple, le laboratoire d'un sorcier pourrait contenir quatre potions magiques différentes que les PJ peuvent découvrir.
 
-If the characters search for cyphers, the GM sets the difficulty of the task. It is usually 3 or 4, and scavenging can take fifteen minutes to an hour.
+Si les personnages cherchent des cyphers, La Meneuse fixe la difficulté de la tâche. Elle est généralement de 3 ou 4, et fouiller peut prendre de quinze minutes à une heure.
 
-Scavenging is not the only way to obtain manifest cyphers. They can also be given as gifts, traded with merchants, or sometimes purchased in a shop.
+La fouille n'est pas le seul moyen d'obtenir des cyphers manifestes. Ils peuvent également être offerts en cadeau, échangés avec des marchands ou parfois achetés dans une boutique.
 
-Unlike subtle cyphers, characters don't automatically know what manifest cyphers do. Once the PCs find a manifest cypher, identifying it is a separate task, based on Intellect and modified by knowledge of the topic at hand. In a fantasy setting, that knowledge would probably be magic, but in a science fiction setting, it might be technology. The GM sets the difficulty of the task, but it is usually 1 or 2. Thus, even the smallest amount of knowledge means that cypher identification is automatic. The process takes one to ten minutes. If the PCs can't identify a cypher, they can bring it to an expert for identification and perhaps trade, if desired.
+Contrairement aux cyphers subtils, les personnages ne savent pas automatiquement à quoi servent les cyphers manifestes. Une fois que les PJ trouvent un cypher manifeste, l'identifier est une tâche distincte, basée sur l'Intellect et modifiée par la connaissance du sujet. Dans un cadre de fantasy, cette connaissance serait probablement la magie, mais dans un cadre de science-fiction, il pourrait s'agir de la technologie. Le MJ fixe la difficulté de la tâche, mais elle est généralement de 1 ou 2. Ainsi, même un minimum de connaissances rend l'identification des cyphers automatique. Le processus prend de une à dix minutes. Si les PJ ne peuvent pas identifier un cypher, ils peuvent l'apporter à un expert pour identification et peut-être échange, si désiré.
 
-## Manifest Cyphers Duplicating Suble Cyphers
+## Cyphers Manifestes Reproduisant les Cyphers Subtils
 
-Lots of overlap exists between what subtle cyphers and manifest cyphers can do. Nearly anything that can be explained as a subtle cypher can just as easily be a magic item, scientific device, or other manifest object. A bit of luck that helps you sneak (a subtle cypher) and a potion that helps you sneak (a manifest cypher) do the exact same thing for a character. One advantage of manifest cyphers is that characters can easily trade them to each other or sell them to NPCs. On the other hand, manifest cyphers can be dropped or stolen, and subtle cyphers can't.
+Il existe beaucoup de chevauchement entre ce que les cyphers subtils et les cyphers manifestes peuvent faire. Presque tout ce qui peut être expliqué comme un cypher subtil peut tout aussi facilement être un objet magique, un appareil scientifique, ou un autre objet manifeste. Un peu de chance qui vous aide à vous faufiler (un cypher subtil) et une potion qui vous aide à vous faufiler (un cypher manifeste) font exactement la même chose pour un personnage. Un des avantages des cyphers manifestes est que les personnages peuvent facilement les échanger entre eux ou les vendre à des PNJ. D'un autre côté, les cyphers manifestes peuvent être perdus ou volés, alors que les cyphers subtils ne le peuvent pas.
 
-It's fine if the GM decides to include both kinds of cyphers in the same game. A horror game could begin with the PCs as normal people with subtle cyphers, but as time goes on, they find one-use spells in occult tomes, weird potions, and bone dust that has strange powers.
+Il est tout à fait acceptable que La Meneuse décide d'inclure les deux types de cyphers dans le même jeu. Un jeu d'horreur pourrait commencer avec des PJ comme des personnes normales possédant des cyphers subtils, mais au fil du temps, ils découvrent des sorts à usage unique dans des grimoires occultes, des potions étranges et de la poudre d'os dotée de pouvoirs mystérieux.
 
-## Using Cyphers
+## Utiliser des Cyphers
 
-The action to use a cypher is Intellect based unless described otherwise or logic suggests otherwise. For example, throwing an explosive might be Speed based because the device is physical and not really technical, but using a ray emitter is Intellect based.
+L'action pour utiliser un cypher est basée sur l'Intellect, sauf mention contraire ou si la logique suggère le contraire. Par exemple, lancer un explosif pourrait être basé sur la Célérité parce que l'appareil est physique et pas vraiment technique, mais utiliser un émetteur de rayon est basé sur l'Intellect.
 
-Because cyphers are single-use items, cyphers used to make attacks can never be used with the Spray or Arc Spray abilities that some characters might have. They are never treated as rapid-fire weapons.
+Étant donné que les cyphers sont des objets à usage unique, les cyphers utilisés pour attaquer ne peuvent jamais être utilisés avec les capacités Pulvérisation ou Tirs en éventail que certains personnages peuvent avoir. Ils ne sont jamais considérés comme des armes à tir rapide.
 
-Identified manifest cyphers can be used automatically. Once a manifest cypher is activated, if it has an ongoing effect, that effect applies only to the character who activated the cypher. A PC can't activate a cypher and then hand it to another character to reap the benefits.
+Les cyphers manifestes identifiés peuvent être utilisés automatiquement. Une fois qu'un cypher manifeste est activé, si son effet est continu, cet effet ne s'applique qu'au personnage qui a activé le cypher. Un PJ ne peut pas activer un cypher et ensuite le remettre à un autre personnage pour qu'il en tire les bénéfices.
 
-A character can attempt to use a manifest cypher that has not been identified; this is usually an Intellect task using the cypher's level. Failure might mean that the PC can't figure out how to use the cypher or that they use it incorrectly (GM's discretion). Of course, even if the PC activates the unidentified cypher, they have no idea what its effect will be.
+Un personnage peut tenter d'utiliser un cypher manifeste qui n'a pas été identifié ; c'est généralement une tâche d'Intellect en utilisant le niveau du cypher. Un échec peut signifier que le PJ ne parvient pas à comprendre comment utiliser le cypher ou qu'il l'utilise incorrectement (à la discrétion du MJ). Bien sûr, même si le PJ active le cypher non identifié, il n'a aucune idée de l'effet qu'il aura.
 
-{{< hint info >}}
-Cyphers are meant to be used regularly and often. If PCs are hoarding or saving their cyphers, feel free to give them a reason to put the cyphers into play.
-{{< /hint >}}
+{{< hint info >}} Les cyphers sont destinés à être utilisés régulièrement et souvent. Si les PJs accumulent ou économisent leurs cyphers, n'hésitez pas à leur donner une raison de les mettre en jeu. {{< /hint >}}
 
-## Cypher Levels And Effects
+## Niveaux et Effets des Cyphers
 
-All cyphers have a level and an effect. The level sometimes determines an aspect of the cypher's power (how much damage it inflicts, for example) but otherwise it only determines the general efficacy, the way level works with any object. The Level entry for a cypher is usually a die roll, sometimes with a modifier, such as 1d6 or 1d6 + 4. The GM can roll to determine the cypher's level, or can allow the player to roll when they receive the cypher.
+Tous les cyphers ont un niveau et un effet. Le niveau détermine parfois un aspect de la puissance du cypher (combien de dégâts il inflige, par exemple) mais sinon, il ne détermine que l'efficacité générale, de la même manière que le niveau fonctionne pour n'importe quel objet. L'entrée Niveau pour un cypher est généralement un jet de dé, parfois avec un modificateur, comme 1d6 ou 1d6 + 4. Le MJ peut lancer un dé pour déterminer le niveau du cypher, ou laisser le joueur lancer le dé lorsqu'il reçoit le cypher.
 
-## Normal And Fantastic Effects
+## Effets Normaux et Fantastiques
 
-Cypher effects fall into two categories: normal and fantastic. Normal effects are things that could reasonably happen or be explained in the normal physical world we're familiar with. Fantastic effects are things that can't. A normal person could hit a target 240 feet (73 m) away with a football, quickly get over a cold, run across a tightrope, or multiply two two-digit numbers in their head. These tasks are difficult, but possible. A normal person can't throw an armored car, regrow a severed arm, create a robot out of thin air, or control gravity with their mind. These tasks are impossible according to the world as we know it. Cypher effects are either normal (possible) or fantastic (impossible according to the world as we know it).
+Les effets des cyphers se divisent en deux catégories : normaux et fantastiques. Les effets normaux sont des choses qui pourraient raisonnablement se produire ou être expliquées dans le monde physique normal que nous connaissons. Les effets fantastiques sont des choses qui ne peuvent pas. Une personne normale pourrait toucher une cible à 73 mètres de distance avec un ballon de football, se remettre rapidement d'un rhume, traverser une corde raide en courant, ou multiplier deux nombres à deux chiffres dans sa tête. Ces tâches sont difficiles, mais possibles. Une personne normale ne peut pas lancer une voiture blindée, régénérer un bras coupé, créer un robot à partir de rien ou contrôler la gravité par la pensée. Ces tâches sont impossibles selon le monde tel que nous le connaissons. Les effets des cyphers sont soit normaux (possibles), soit fantastiques (impossibles selon le monde tel que nous le connaissons).
 
-Normal cypher effects should be available to PCs regardless of the genre of your game. It's perfectly reasonable for a modern, fantasy, horror, science fiction, or superhero PC to have a cypher that gives them a one-use bonus on an attack or skill task, lets them take a quick breather to recover a few points in a Pool, or helps them focus their will to avoid distractions or fatigue.
+Les effets normaux des cyphers devraient être disponibles pour les PJ, quel que soit le genre de votre jeu. Il est tout à fait raisonnable qu'un PJ moderne, de fantasy, d'horreur, de science-fiction ou de super-héros possède un cypher qui lui donne un bonus à usage unique sur une attaque ou une tâche de compétence, lui permette de récupérer rapidement quelques points dans une Réserve, ou l'aide à concentrer sa volonté pour éviter les distractions ou la fatigue.
 
-Fantastic cypher effects should be limited to games where magic, technology, or other factors stretch the definition of "impossible." A cypher that turns a corpse into a zombie is out of place in a non-fantastic modern game, but is perfectly reasonable for a fantasy, science fiction, or superhero game, or even a horror game where zombies exist, as long as the GM decides there is an appropriate story explanation for it. The zombie cypher might be a necromantic spell in a fantasy or superhero game, a code that activates a swarm of nanobots in a science fiction game, or a virus in a horror game. The rules categorize some cypher effects as fantastic to help the GM decide whether to exclude cyphers that don't fit the game they're running. For example, it is appropriate for a GM running a zombie horror survival game set in 1990s Georgia to allow the zombie-creating cypher but not a teleportation cypher, because creating a zombie is a fantastic effect that fits the setting and teleportation isn't.
+Les effets fantastiques des cyphers devraient être limités aux jeux où la magie, la technologie ou d'autres facteurs étendent la définition de l'impossible. Un cypher qui transforme un cadavre en zombie est inapproprié dans un jeu moderne non fantastique, mais parfaitement raisonnable dans un jeu de fantasy, de science-fiction ou de super-héros, ou même dans un jeu d'horreur où des zombies existent, tant que La Meneuse décide qu'il y a une explication narrative appropriée pour cela. Le cypher de zombie pourrait être un sortilège nécromantique dans un jeu de fantasy ou de super-héros, un code activant un essaim de nanorobots dans un jeu de science-fiction, ou un virus dans un jeu d'horreur. Les règles classent certains effets de cyphers comme fantastiques pour aider La Meneuse à décider s'il convient d'exclure les cyphers qui ne s'intègrent pas dans le jeu qu'ils dirigent. Par exemple, il est approprié pour un MJ dirigeant un jeu de survie d'horreur avec des zombies se déroulant dans la Géorgie des années 1990 d'autoriser le cypher créant des zombies mais pas un cypher de téléportation, car créer un zombie est un effet fantastique qui correspond au cadre, tandis que la téléportation n'en fait pas partie.
 
-Fantastic cyphers can be subtle or manifest.
+Les cyphers fantastiques peuvent être subtils ou manifestes.
 
-### Optional Rule: Normal Cyphers Duplicating Fantastic Effects
+### Règle Optionnelle : Cyphers Normaux Reproduisant des Effets Fantastiques
 
-If the GM and players are willing to stretch their imaginations a bit, it's possible to include some fantastic cypher effects in a game where only normal cypher effects should exist, even if the PCs are only using subtle cyphers. The player using the cypher just needs to come up with a practical, realistic explanation for how the fantastic result occurred (perhaps with a much shorter or reduced effect than what's described in the cypher text).
+Si La Meneuse et les joueurs sont prêts à faire preuve d'un peu d'imagination, il est possible d'inclure certains effets fantastiques de cyphers dans un jeu où seuls des effets normaux devraient exister, même si les PJ n'utilisent que des cyphers subtils. Le joueur utilisant le cypher doit simplement trouver une explication pratique et réaliste pour expliquer comment le résultat fantastique s'est produit (peut-être avec un effet beaucoup plus court ou réduit que celui décrit dans le texte du cypher).
 
-For example, a PC with a phase changer who is trapped in a prison cell could say that instead of physically phasing through the wall, using the cypher means they find a long-forgotten secret door connected to a narrow hallway leading to safety. A PC with a fire detonation could say they notice a can of paint thinner in the room, kick it over, and throw a table lamp into the spill, creating a spark and a momentary burst of harmful flames. A PC with a monoblade could say they spot structural flaws in an opponent's armor, allowing them to attack for the rest of that combat in such a way that the foe's Armor doesn't count.
+Par exemple, un PJ avec un changeur de phase piégé dans une cellule de prison pourrait dire qu'au lieu de traverser physiquement le mur, utiliser le cypher signifie qu'il trouve une porte secrète oubliée depuis longtemps, reliée à un couloir étroit menant à la sécurité. Un PJ avec une détonation de feu pourrait dire qu'il remarque une boîte de diluant à peinture dans la pièce, la renverse et jette une lampe de table dans la flaque, créant une étincelle et une explosion de flammes momentanées. Un PJ avec une monolame pourrait dire qu'il repère des défauts structurels dans l'armure de son adversaire, lui permettant d'attaquer pendant tout le combat de manière à ce que l'armure de l'ennemi ne compte pas.
 
-These interpretations of fantastic cyphers in a non-fantastic setting require player ingenuity and GM willingness to embrace creative solutions (similar to players using player intrusions to make a change in the game world). The GM always has the right to veto the explanation for the fantastic effect, allowing the player to choose a different action instead of using the fantastic cypher.
+Ces interprétations de cyphers fantastiques dans un cadre non fantastique nécessitent l'ingéniosité des joueurs et la volonté du MJ d'embrasser des solutions créatives (similaires aux joueurs utilisant des intrusions de joueurs pour apporter un changement dans le monde du jeu). La Meneuse a toujours le droit de veto sur l'explication de l'effet fantastique, permettant au joueur de choisir une autre action au lieu d'utiliser le cypher fantastique.
 
-## Manifest Cypher Forms
+## Formes des Cyphers Manifestes
 
-None of the manifest cyphers in this chapter have a stated physical form. The entries don't tell you if something is a potion, a pill, or a device you hold in your hands because that sort of detail varies greatly from genre to genre. Are they magic? Are they tech? Are they symbiotic creatures with programmed DNA? That's up to the GM. It's flavor, not mechanics. It's as important or unimportant as the style of an NPC's hair or the color of the car the bad guys are driving. In other words, it's the kind of thing that is important in a roleplaying game, but at the same time doesn't actually change anything (and RPGs have a lot of things like that, if you think about it).
+Aucun des cyphers manifestes dans ce chapitre n'a de forme physique définie. Les entrées ne précisent pas s'il s'agit d'une potion, d'une pilule ou d'un appareil que vous tenez dans vos mains, car ce genre de détail varie beaucoup d'un genre à l'autre. Est-ce de la magie ? De la technologie ? Des créatures symbiotiques avec un ADN programmé ? C'est au MJ de décider. C'est du goût, pas de la mécanique. C'est aussi important ou insignifiant que la coiffure d'un PNJ ou la couleur de la voiture que conduisent les méchants. En d'autres termes, c'est le genre de chose qui est importante dans un jeu de rôle, mais qui en même temps ne change rien (et les JDR regorgent de ce genre de choses, si vous y réfléchissez).
 
-A manifest cypher's physical form can be anything at all, but there are some obvious choices based on genre. The GM can design a setting that uses just one type---for example, a magical world where all cyphers are potions made by faeries. Or they can use many types, perhaps mixing them from different genres. Some suggestions include the following.
+La forme physique d'un cypher manifeste peut être n'importe quoi, mais il existe des choix évidents en fonction du genre. Le MJ peut concevoir un cadre qui n'utilise qu'un seul type—par exemple, un monde magique où tous les cyphers sont des potions fabriquées par des fées. Ou il peut utiliser de nombreux types, en les mélangeant peut-être entre différents genres. Voici quelques suggestions.
 
-## Manifest Cypher Form Options
+## Options de Formes des Cyphers Manifestes
 
-| Fantasy/Fairy Tale        |
+| Fantasy/Conte de fées        |
 | ------------------------- |
 | Potions                   |
-| Scrolls                   |
-| Runeplates                |
-| Tattoos                   |
-| Charms                    |
-| Powders                   |
-| Crystals                  |
-| Books with words of power |
+| Parchemins                   |
+| Plaques runiques                |
+| Tatouages                   |
+| Charmes                    |
+| Pouvoirs                   |
+| Cristaux                  |
+| Livres avec mots de pouvoirs |
 
-| Modern/Romance                       |
+| Moderne/Romance                       |
 | ------------------------------------ |
-| Drugs (injections, pills, inhalants) |
-| Viruses                              |
+| Drogues (injections, pillules, inhalants) |
+| Virus                              |
 | Smartphone apps                      |
 
-| Science Fiction/Post-Apocalyptic     |
+| Science Fiction/Post-Apocalyptique     |
 | ------------------------------------ |
-| Drugs (injections, pills, inhalants) |
-| Computer programs                    |
-| Crystals                             |
+| Drogues (injections, pillules, inhalants) |
+| Programmes d'ordinateur              |
+| Cristaux                             |
 | Gadgets                              |
-| Viruses                              |
-| Biological implants                  |
-| Mechanical implants                  |
-| Nanotechnological injections         |
+| Virus                              |
+| Implants Biologiques                |
+| Implants Mécaniques                 |
+| Injections Nanotechnologique         |
 
-| Horror                     |
-| -------------------------- |
-| Burrowing worms or insects |
-| Pages from forbidden books |
-| Horrific images            |
+| Horreur                     |
+| --------------------------- |
+| Vers et Insectes Fouisseurs |
+| Pages de livres interdits   |
+| Images Horrifiques          |
 
 | Superhero                       |
 | ------------------------------- |
-| Forms from all the other genres |
+| Formes de tous les autres genres |
 
 ## Manifest Cypher Table
 
@@ -610,1584 +602,1577 @@ A manifest cypher's physical form can be anything at all, but there are some obv
 | 95–97 | Strength enhancer           |
 | 98–00 | Tissue regeneration         |
 
-## A Listing Of Various Cyphers
+## Liste de Divers Cyphers
 
-All cyphers in this section may be manifest cyphers. It is the GM's discretion whether a particular cypher can be a subtle cypher, and that decision usually depends on the setting. (The tables indicating subtle, manifest, and fantastic cyphers are just suggestions for a typical campaign setting.)
-
------
-
-### Adhesion
-
-**Level:**  1d6
-
-**Effect:**  Allows for automatic climbing of any surface, even horizontal ones. Lasts for ten minutes per cypher level.
+Tous les cyphers de cette section peuvent être des cyphers manifestes. Il appartient à la Meneuse de décider si un cypher particulier peut être un cypher subtil, et cette décision dépend généralement du cadre. (Les tableaux indiquant les cyphers subtils, manifestes et fantastiques ne sont que des suggestions pour un cadre de campagne typique.)
 
 -----
 
-### Age Taker
+### Adhesion/Adhésion
 
-**Level:**  1d6 + 4
+**Niveau:**  1d6
 
-**Effect:**  Begins a process of rejuvenation that removes years from the wearer's physiological age. Over the course of the next seven days, the wearer sheds a number of years equal to three times the cypher's level. The cypher doesn't regress physiological age past the age of  
-twenty-three.
-
------
-
-### Analeptic
-
-**Level:**  1d6 + 2
-
-**Effect:**  Restores a number of points equal to the cypher's level to the user's Speed Pool.
+**Effet:**  Permet de grimper automatiquement sur toute les surfaces, même horizontales. Dure pendant 10 minutes par niveau du cypher.
 
 -----
 
-### Antivenom
+### Age Taker/Preneur d'Âge
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 4
 
-**Effect:**  Renders user immune to poisons of the cypher's level or lower for one hour per cypher level (and ends any such ongoing effects, if any, already in the user's system).
-
------
-
-### Armor Reinforcer
-
-**Level:**  1d6 + 1
-
-**Effect:**  The user's Armor gains an enhancement for twenty-four hours. Roll a d6 to determine the result.
-
-| d6  | Armor Bonus                              |
-| --- | ---------------------------------------- |
-| 1   | +1 to Armor                              |
-| 2   | +2 to Armor                              |
-| 3   | +3 to Armor                              |
-| 4   | +2 to Armor, +5 against damage from fire |
-| 5   | +2 to Armor, +5 against damage from cold |
-| 6   | +2 to Armor, +5 against damage from acid |
+**Effet:**  Commence un processus de rajeunissement qui enlève des années à l'âge physiologique du porteur. Au cours des sept prochains jours, le porteur perd un nombre d'années égal à trois fois le niveau du cypher. Le cypher ne ramène pas l'âge physiologique en dessous de vingt-trois ans.
 
 -----
 
-### Attractor
+### Analeptic/Analeptique
 
-**Level:**  1d6 + 4
+**Niveau:**  1d6 + 2
 
-**Effect:**  One unanchored item the user's size or smaller within long range (very long range if the cypher level is 8 or higher) is drawn immediately to them. This takes one round. The item has no momentum when it arrives.
-
------
-
-### Banishing
-
-**Level:**  1d6
-
-**Effect:**  For the next day, each time the user strikes a solid creature or object, it generates a burst of energy that teleports the creature or object an immediate distance in a random direction (not up or down). The teleported creature's actions (including defense) are hindered on its next turn (hindered by two steps if the cypher level is 5 or higher).
+**Effet:**  Restaure un nombre de points égal au niveau du cypher dans la Réserve de Célérité de l'utilisateur.
 
 -----
 
-### Best Tool
+### Antivenom/Antivenin
 
-**Level:**  1d6
+**Niveau:**  1d6 + 2
 
-**Effect:**  Provides an additional asset for any one task using a tool, even if that means exceeding the normal limit of two assets.
-
------
-
-### Blackout
-
-**Level:**  1d6 + 2
-
-**Effect:**  An area within immediate range of the user becomes secure against any effect outside the area that sees, hears, or otherwise senses what occurs inside. To outside observers, the area is a "blur" to any sense applied. Taps, scrying sensors, and other direct surveillance methods are also rendered inoperative within the area for a day.
+**Effet:**  Rend l'utilisateur immunisé contre les poisons d'un niveau inférieur ou égal à celui du cypher pendant une heure par niveau du cypher (et annule tout effet en cours déjà présent dans le système de l'utilisateur).
 
 -----
 
-### Blinking
+### Armor Reinforcer/Renforcement d'Armure
 
-**Level:**  1d6
+**Niveau:**  1d6 + 1
 
-**Effect:**  For the next day, each time the user is struck hard enough to take damage (but not more than once per round), they teleport an immediate distance in a random direction (not up or down). Since the user is prepared for this effect and their foe is not, the user's defenses are eased for one round after they teleport.
+**Effet:**  'armure de l'utilisateur bénéficie d'une amélioration pendant vingt-quatre heures. Lancez un d6 pour déterminer le résultat.
 
------
-
-### Burst Of Speed
-
-**Level:**  1d6
-
-**Effect:**  For one minute, a user who normally can move a short distance as an action can move a long distance instead.
-
------
-
-### Catholicon
-
-**Level:**  1d6 + 2
-
-**Effect:**  Cures any disease of the cypher level or lower.
+| d6  | Bonus d'Armure                              |
+| --- | ------------------------------------------- |
+| 1   | +1 à l'Armure                               |
+| 2   | +2 à l'Armure                               |
+| 3   | +3 à l'Armure                               |
+| 4   | +2 à l'Armure, +5 contre les dégâts de feu  |
+| 5   | +2 à l'Armure, +5 contre les dégâts de froid |
+| 6   | +2 à l'Armure, +5 contre les dégâts d'acide  |
 
 -----
 
-### Chemical Factory
+### Attractor/Attracteur
 
-**Level:**  1d6
+**Niveau:**  1d6 + 4
 
-**Effect:**  After one hour, the sweat of the user produces 1d6 doses of a valuable liquid (these doses are not considered cyphers). They must be used within one week. Roll a d100 to determine the effect.
+**Effet:**  Un objet non ancré de la taille de l'utilisateur ou plus petit, situé à longue portée (très longue portée si le niveau du cypher est de 8 ou plus), est immédiatement attiré vers l'utilisateur. Cela prend un tour. L'objet n'a aucun élan lorsqu'il arrive.
+
+-----
+
+### Banishing/Bannissement
+
+**Niveau:**  1d6
+
+**Effet:**  Pendant la journée suivante, chaque fois que l'utilisateur frappe une créature ou un objet solide, cela génère une décharge d'énergie qui téléporte la créature ou l'objet à une distance immédiate dans une direction aléatoire (ni vers le haut ni vers le bas). Les actions de la créature téléportée (y compris la défense) sont entravées à son prochain tour (entravées de deux crans si le niveau du cypher est de 5 ou plus).
+
+-----
+
+### Best Tool/Meilleur Outil
+
+**Niveau:**  1d6
+
+**Effet:**  Fournit un atout supplémentaire pour toute tâche utilisant un outil, même si cela signifie dépasser la limite normale de deux atouts.
+
+-----
+
+### Blackout/Blackout
+
+**Niveau:**  1d6 + 2
+
+**Effet:**  Une zone à portée immédiate de l'utilisateur devient sécurisée contre tout effet extérieur à la zone qui tenterait de voir, d'entendre ou de percevoir ce qui se passe à l'intérieur. Pour les observateurs extérieurs, la zone apparaît comme un "flou" pour tout sens appliqué. Les écoutes, capteurs de divination et autres méthodes de surveillance directe sont également rendus inopérants dans la zone pendant une journée.
+
+-----
+
+### Blinking/Clignotement
+
+**Niveau:**  1d6
+
+**Effet:**  Pendant la journée suivante, chaque fois que l'utilisateur est frappé suffisamment fort pour subir des dégâts (mais pas plus d'une fois par tour), il se téléporte à une distance immédiate dans une direction aléatoire (ni vers le haut ni vers le bas). Comme l'utilisateur est préparé à cet effet et que son adversaire ne l'est pas, les défenses de l'utilisateur sont facilitées pendant un tour après la téléportation.
+
+-----
+
+### Burst Of Speed/Explosion de Célérité
+
+**Niveau:**  1d6
+
+**Effet:**  Pendant une minute, un utilisateur qui peut normalement se déplacer sur une courte distance en une action peut se déplacer sur une longue distance à la place.
+
+-----
+
+### Catholicon/Catholicon
+
+**Niveau:**  1d6 + 2
+
+**Effet:**  Guérit toute maladie d'un niveau égal ou inférieur à celui du cypher.
+
+-----
+
+### Chemical Factory/Usine Chimique
+
+**Niveau:**  1d6
+
+**Effet:**  Après une heure, la sueur de l'utilisateur produit 1d6 doses d'un liquide précieux (ces doses ne sont pas considérées comme des cyphers). Elles doivent être utilisées dans la semaine. Lancez un d100 pour déterminer l'effet.
 
 | d100  | Liquid Effect                                                    |
 | ----- | ---------------------------------------------------------------- |
-| 01–04 | Euphoric for 1d6 hours                                           |
-| 05–08 | Hallucinogenic for 1d6 hours                                     |
-| 09–12 | Stimulant for 1d6 hours                                          |
-| 13–16 | Depressant for 1d6 hours                                         |
-| 17–20 | Nutrient supplement                                              |
-| 21–25 | Antivenom                                                        |
-| 26–30 | Cures disease                                                    |
-| 31–35 | See in the dark for one hour                                     |
-| 36–45 | Restores a number of Might Pool points equal to cypher level     |
-| 46–55 | Restores a number of Speed Pool points equal to cypher level     |
-| 56–65 | Restores a number of Intellect Pool points equal to cypher level |
-| 66–75 | Increases Might Edge by 1 for one hour                           |
-| 76–85 | Increases Speed Edge by 1 for one hour                           |
-| 86–95 | Increases Intellect Edge by 1 for one hour                       |
-| 96–00 | Restores all Pools to full                                       |
+| 01–04 | Euphorique pendant 1d6 heures                                    |
+| 05–08 | Hallucinogène pendant 1d6 heures                                 |
+| 09–12 | Stimulant pendant 1d6 heures                                     |
+| 13–16 | Dépresseur pendant 1d6 heures                                    |
+| 17–20 | Supplément nutritionnel                                             |
+| 21–25 | Antivenin                                                        |
+| 26–30 | Guérit une maladie                                                  |
+| 31–35 | Voir dans le noir pendant une heure                                   |
+| 36–45 | Restaure un nombre de points de la Réserve de Puissance égal au niveau du cypher |
+| 46–55 | Restaure un nombre de points de la Réserve de Célérité égal au niveau du cypher |
+| 56–65 | Restaure un nombre de points de la Réserve d'Intellect égal au niveau du cypher |
+| 66–75 | Augmente l'Avantage de Puissance de 1 pendant une heure                          |
+| 76–85 | Augmente l'Avantage de Célérité de 1 pendant une heure                        |
+| 86–95 | Augmente l'Avantage d'Intellect de 1 pendant une heure                     |
+| 96–00 | Restaure toutes les Réserves au maximum                                      |
 
 -----
 
-### Comprehension
+### Comprehension/Compréhension
 
-**Level:**  1d6 + 1
+**Niveau:**  1d6 + 1
 
-**Effect:**  Within five minutes, the user can understand the words of a specific language keyed to the cypher (two languages if the cypher is level 5 or higher). This is true even of creatures that do not normally have a language. If the user could already understand the language, the cypher has no effect. Once the cypher is used, the effect is permanent, and the cypher no longer counts against the number of cyphers that a PC can bear.
+**Effet:**  En cinq minutes, l'utilisateur peut comprendre les mots d'une langue spécifique liée au cypher (deux langues si le cypher est de niveau 5 ou plus). Cela est vrai même pour les créatures qui ne possèdent normalement pas de langage. Si l'utilisateur comprenait déjà la langue, le cypher n'a aucun effet. Une fois utilisé, l'effet est permanent et le cypher ne compte plus dans la limite de cyphers qu'un personnage peut porter.
 
 -----
 
-### Condition Remover
+### Condition Remover/Éliminateur de Conditions
 
-**Level:**  1d6 + 3
+**Niveau:**  1d6 + 3
 
-**Effect:**  Cures one occurrence of one specific health condition of the cypher level or lower. It does not prevent the possibility of future occurrences of the same condition. Roll a d20 to determine what it cures.
+**Effet:**  Guérit une occurrence d'une condition de santé spécifique d'un niveau inférieur ou égal à celui du cypher. Cela n'empêche pas de futures occurrences de la même condition. Lancez un d20 pour déterminer ce que cela guérit.
 
 | d20 | Condition                  |
 | --- | -------------------------- |
-| 1   | Addiction to one substance |
-| 2   | Autoimmune disease         |
-| 3   | Bacterial infection        |
-| 4   | Bad breath                 |
-| 5   | Blisters                   |
-| 6   | Bloating                   |
+| 1   | Addiction à une substance|
+| 2   | Maladie auto-immune        |
+| 3   | Infection bactérienne       |
+| 4   | Mauvaise haleine             |
+| 5   | Ampoules                   |
+| 6   | Ballonnements                   |
 | 7   | Cancer                     |
-| 8   | Chapped lips               |
-| 9   | Flatus                     |
-| 10  | Hangover                   |
-| 11  | Heartburn                  |
-| 12  | Hiccups                    |
-| 13  | Ingrown hairs              |
-| 14  | Insomnia                   |
-| 15  | Joint problem              |
-| 16  | Muscle cramp               |
-| 17  | Pimples                    |
-| 18  | Psychosis                  |
-| 19  | Stiff neck                 |
-| 20  | Viral infection            |
+| 8   | Lèvres gercées           |
+| 9   | Flatulence                     |
+| 10  | Gueule de bois                   |
+| 11  | Brûlures d'estomac                  |
+| 12  | Hoquet                    |
+| 13  | Poils incarnés             |
+| 14  | Insomnie                   |
+| 15  | Problème articulaire             |
+| 16  | Crampes musculaires               |
+| 17  | Boutons                    |
+| 18  | Psychose                  |
+| 19  | Torticolis                |
+| 20  | Infection virale           |
 
 -----
 
-### Contingent Activator
+### Contingent Activator/Activateur Contingent
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  If the device is activated in conjunction with another cypher, the user can specify a condition under which the linked cypher will activate. The linked cypher retains the contingent command until it is used (either normally or contingently). For example, when this cypher is linked to a cypher that provides a form of healing or protection, the user could specify that the linked cypher will activate if they become damaged to a certain degree or are subject to a particular dangerous circumstance. Until the linked cypher is used, this cypher continues to count toward the maximum number of cyphers a PC can carry.
-
------
-
-### Controlled Blinking
-
-**Level:**  1d6 + 2
-
-**Effect:**  For the next day, each time the user is struck hard enough to inflict damage (but no more than once per round), they teleport to a spot they desire within immediate range. Since they are prepared for this effect and their foe is not, the user's defenses are eased for one round after they teleport.
+**Effet:**  Si l'appareil est activé conjointement avec un autre cypher, l'utilisateur peut spécifier une condition sous laquelle le cypher lié s'activera. Le cypher lié conserve la commande conditionnelle jusqu'à son utilisation (soit normalement, soit conditionnellement). Par exemple, si ce cypher est lié à un cypher qui offre une forme de guérison ou de protection, l'utilisateur pourrait spécifier que le cypher lié s'activera s'il subit des dégâts d'une certaine gravité ou s'il est exposé à une situation dangereuse particulière. Tant que le cypher lié n'est pas utilisé, ce cypher continue de compter dans le nombre maximum de cyphers qu'un personnage peut porter.
 
 -----
 
-### Curative
+### Controlled Blinking/Clignotement Contrôlé
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  Restores a number of points equal to the cypher's level to the user's Might Pool.
-
------
-
-### Curse Bringer
-
-**Level:**  1d6 + 1
-
-**Effect:**  The cypher can be activated when given to an individual who doesn't realize its significance. The next time the victim attempts an important task when the cypher is in their possession, the task is hindered by three steps.
+**Effet:**  Pendant la journée suivante, chaque fois que l'utilisateur est frappé suffisamment fort pour subir des dégâts (mais pas plus d'une fois par tour), il se téléporte à un endroit de son choix à portée immédiate. Comme il est préparé à cet effet et que son adversaire ne l'est pas, les défenses de l'utilisateur sont facilitées pendant un tour après la téléportation.
 
 -----
 
-### Darksight
+### Curative/Curatif
 
-**Level:**  1d6
+**Niveau:**  1d6 + 2
 
-**Effect:**  Grants the ability to see in the dark for five hours per cypher level. (For a more realistic game, this cypher could instead make the user specialized in low-light spotting.)
-
------
-
-### Death Bringer
-
-**Level:**  1d6
-
-**Effect:**  For the next minute, when the user strikes an NPC or creature of the cypher level or lower, they can choose to make a second attack roll. If the second attack roll is a success, the target is killed. If the target is a PC, the character instead moves down one step on the damage track.
+**Effet:**  Restaure un nombre de points égal au niveau du cypher dans la Réserve de Puissance de l'utilisateur.
 
 -----
 
-### Density
+### Curse Bringer/Porteur de Malédiction
 
-**Level:**  1d6
+**Niveau:**  1d6 + 1
 
-**Effect:**  For the next day, each time the user strikes a solid creature or object with a weapon, the weapon suddenly increases dramatically in weight, causing the blow to inflict 2 additional points of damage.
+**Effet:**  Le cypher peut être activé lorsqu'il est donné à une personne qui n'en connaît pas l'importance. La prochaine fois que la victime tente une tâche importante alors qu'elle est en possession du cypher, la tâche est entravée de trois crans.
 
 -----
 
-### Detonation
+### Darksight/Vision Nocturne
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6
 
-**Effect:**  Projects a small physical explosive up to a long distance away that explodes in an immediate radius, inflicting damage equal to the cypher's level. Roll a d100 to determine the type of damage.
+**Effet:**  Confère la capacité de voir dans le noir pendant cinq heures par niveau du cypher. (Pour un jeu plus réaliste, ce cypher pourrait plutôt rendre l'utilisateur spécialisé dans la détection en faible luminosité.)
+
+-----
+
+### Death Bringer/Porteur de Mort
+
+**Niveau:**  1d6
+
+**Effet:**  Pendant la prochaine minute, lorsque l'utilisateur frappe un PNJ ou une créature d'un niveau égal ou inférieur à celui du cypher, il peut choisir de faire un second jet d'attaque. Si ce second jet d'attaque est une réussite, la cible est tuée. Si la cible est un PJ, le personnage descend d'un cran sur la piste de dégâts.
+
+-----
+
+### Density/Densité
+
+**Niveau:**  1d6
+
+**Effet:**  Pendant la journée suivante, chaque fois que l'utilisateur frappe une créature ou un objet solide avec une arme, l'arme voit soudainement son poids augmenter de manière spectaculaire, ce qui inflige 2 points de dégâts supplémentaires.
+
+-----
+
+### Detonation/Détonation
+
+**Niveau:**  1d6 + 2
+
+**Effet:**  Projette un petit explosif physique jusqu'à longue distance qui explose dans un rayon immédiat, infligeant des dégâts égaux au niveau du cypher. Lancez un d100 pour déterminer le type de dégâts.
 
 {{< hint info >}}
-All damaging detonations inflict a minimum of 2 points of damage to those in the radius, regardless of attack or defense rolls.
+Toutes les détonations infligeant des dégâts infligent un minimum de 2 points de dégâts à ceux dans le rayon, quel que soit le jet d'attaque ou de défense.
 {{< /hint >}}
 
-| d100  | Detonation Type                    |
+| d100  | Type de Détonation                   |
 | ----- | ---------------------------------- |
-| 01–10 | Cell-disrupting (harms only flesh) |
-| 11–30 | Corrosive                          |
-| 31–40 | Electrical discharge               |
-| 41–50 | Heat drain (cold)                  |
-| 51–75 | Fire                               |
-| 76–00 | Shrapnel                           |
+| 01–10 | Perturbation cellulaire (n'affecte que la chair) |
+| 11–30 | Corrosif                          |
+| 31–40 | Décharge électrique              |
+| 41–50 | Drain de chaleur (froid)                 |
+| 51–75 | Feu                           |
+| 76–00 | Éclats                           |
 
 -----
 
-### Detonation (Creature)
+### Detonation (Creature)/Détonation (Créature)
 
-**Level:**  1d6 + 1
+**Niveau:**  1d6 + 1
 
-**Effect:**  Projects a small physical explosive up to a long distance away that explodes and creates a momentary teleportation gate. A random creature whose level is equal to or less than the cypher's level appears through the gate and attacks the closest target. After about one minute, the creature vanishes.
-
------
-
-### Detonation (Desiccating)
-
-**Level:**  1d6 + 2
-
-**Effect:**  Projects a small physical explosive up to a long distance away that bursts in an immediate radius, draining moisture from everything within it. Living creatures take damage equal to the cypher's level. Water in the area is vaporized.
+**Effet:**  Projette un petit explosif physique jusqu'à longue distance qui explose et crée un portail de téléportation temporaire. Une créature aléatoire dont le niveau est inférieur ou égal à celui du cypher apparaît à travers le portail et attaque la cible la plus proche. Au bout d'environ une minute, la créature disparaît.
 
 -----
 
-### Detonation (Flash)
+### Detonation (Desiccating)/Détonation (Desséchant)
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  Projects a small physical explosive up to a long distance away that bursts in an immediate radius, blinding all within it for one minute (ten minutes if the cypher is level 4 or higher).
-
------
-
-### Detonation (Gravity)
-
-**Level:**  1d6 + 2
-
-**Effect:**  Projects a small physical explosive up to a long distance away that bursts in an immediate radius, inflicting damage equal to the cypher's level by increasing gravity tremendously for one second. All creatures in the area are crushed to the ground for one round and cannot take physical actions.
+**Effet:**  Projette un petit explosif physique jusqu'à longue distance qui éclate dans un rayon immédiat, drainant l'humidité de tout ce qui s'y trouve. Les créatures vivantes subissent des dégâts égaux au niveau du cypher. L'eau présente dans la zone est vaporisée.
 
 -----
 
-### Detonation (Gravity Inversion)
+### Detonation (Flash)/Détonation (Flash)
 
-**Level:**  1d6 + 1
+**Niveau:**  1d6 + 2
 
-**Effect:**  Projects a small physical explosive up to a long distance away that explodes, and for one hour gravity reverses within long range of the explosion.
+**Effet:**  Projette un petit explosif physique jusqu'à longue distance qui éclate dans un rayon immédiat, aveuglant tous ceux qui s'y trouvent pendant une minute (dix minutes si le cypher est de niveau 4 ou plus).
 
 -----
 
-### Detonation (Massive)
+### Detonation (Gravity)/Détonation (Gravité)
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:** Projects a small physical explosive up to a long distance away that explodes in a short-range radius, inflicting damage equal to the cypher's level. Roll a d100 to determine the type of damage.
+**Effet:**  ProjetteDetonation (Gravity) un petit explosif physique jusqu'à longue distance qui éclate dans un rayon immédiat, infligeant des dégâts égaux au niveau du cypher en augmentant fortement la gravité pendant une seconde. Toutes les créatures dans la zone sont écrasées au sol pendant un tour et ne peuvent pas effectuer d'actions physiques.
 
-| d100  | Detonation Type                    |
+-----
+
+### Detonation (Gravity Inversion)/Détonation (Inversion Gravitationnelle)
+
+**Niveau:**  1d6 + 1
+
+**Effet:**  Projette un petit explosif physique jusqu'à longue distance qui explose, et pendant une heure, la gravité est inversée dans un rayon long autour de l'explosion.
+
+-----
+
+### Detonation (Massive)/Détonation (Massive)
+
+**Niveau:**  1d6 + 2
+
+**Effet:** Projette un petit explosif physique jusqu'à longue distance qui explose dans un rayon de courte portée, infligeant des dégâts égaux au niveau du cypher. Lancez un d100 pour déterminer le type de dégâts.
+
+| d100  | Type de Détonation                    |
 | ----- | ---------------------------------- |
-| 01–10 | Cell-disrupting (harms only flesh) |
-| 11–30 | Corrosive                          |
-| 31–40 | Electrical discharge               |
-| 41–50 | Heat drain (cold)                  |
-| 51–75 | Fire                               |
-| 76–00 | Shrapnel                           |
+| 01–10 | Perturbation cellulaire (n'affecte que la chair) |
+| 11–30 | Corrosif                          |
+| 31–40 | Décharge électrique               |
+| 41–50 | Drain de chaleur (froid)                  |
+| 51–75 | Feu                               |
+| 76–00 | Éclats                           |
 
 -----
 
-### Detonation (Matter Disruption)
+### Detonation (Matter Disruption)/Détonation (Perturbation de la Matière)
 
-**Level:**  1d6 + 4
+**Niveau:**  1d6 + 4
 
-**Effect:**  Projects a small physical explosive up to a long distance away that explodes in an immediate radius, releasing nanites that rearrange matter in random ways. Inflicts damage equal to the cypher's level.
-
------
-
-### Detonation (Pressure)
-
-**Level:**  1d6 + 2
-
-**Effect:**  Projects a small physical explosive up to a long distance away that explodes in an immediate radius, inflicting impact damage equal to the cypher's level. Also moves unattended objects out of the area if they weigh less than 20 pounds (9 kg) per cypher level.
+**Effet:**  Projette un petit explosif physique jusqu'à longue distance qui explose dans un rayon immédiat, libérant des nanites qui réarrangent la matière de manière aléatoire. Inflige des dégâts égaux au niveau du cypher.
 
 -----
 
-### Detonation (Singularity)
+### Detonation (Pressure)/Détonation (Pression)
 
-**Level:**  10
+**Niveau:**  1d6 + 2
 
-**Effect:**  Projects a small physical explosive up to a long distance away that explodes and creates a momentary singularity that tears at the fabric of the universe. Inflicts 20 points of damage to all within short range, drawing them (or their remains) together to immediate range (if possible). Player characters in the radius who fail a Might defense roll move down one step on the damage track.
-
-(The singularity detonation is a greatly feared device, sought by those interested in truly horrific destruction.)
+**Effet:**  Projette un petit explosif physique jusqu'à longue distance qui explose dans un rayon immédiat, infligeant des dégâts d'impact égaux au niveau du cypher. Déplace également les objets non surveillés hors de la zone s'ils pèsent moins de 20 livres (9 kg) par niveau du cypher.
 
 -----
 
-### Detonation (Sonic)
+### Detonation (Singularity)/Détonation (Singularité)
 
-**Level:**  1d6 + 2
+**Niveau:**  10
 
-**Effect:**  Projects a small physical explosive up to a long distance away that explodes with terrifying sound, deafening all in an immediate radius for ten minutes per cypher level.
+**Effet:**  Projette un petit explosif physique jusqu'à longue distance qui explose et crée une singularité momentanée qui déchire le tissu de l'univers. Inflige 20 points de dégâts à tous ceux dans un rayon court, les attirant (ou leurs restes) vers un rayon immédiat (si possible). Les personnages joueurs dans le rayon qui échouent à un jet de défense en Puissance descendent d'un cran sur la piste de dégâts.
+
+(La détonation par singularité est un dispositif grandement redouté, recherché par ceux qui s'intéressent à des destructions vraiment horrifiques.)
 
 -----
 
-### Detonation (Spawn)
+### Detonation (Sonic)/Détonation (Sonique)
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  Projects a small physical explosive up to a long distance away that bursts in an immediate radius, blinding all within it for one minute and inflicting damage equal to the cypher's level. The burst spawns 1d6 additional detonations; in the next round, each additional detonation flies to a random spot within short range and explodes in an immediate radius. Roll a d100 to determine the type of damage dealt by all detonations:
+**Effet:**  Projette un petit explosif physique jusqu'à longue distance qui explose avec un bruit terrifiant, rendant sourds tous ceux dans un rayon immédiat pendant dix minutes par niveau du cypher.
 
-| d100  | Detonation Type                    |
+-----
+
+### Detonation (Spawn)/Détonation (Prolifération)
+
+**Niveau:**  1d6 + 2
+
+**Effet:**  Projette un petit explosif physique jusqu'à longue distance qui éclate dans un rayon immédiat, aveuglant tous ceux qui s'y trouvent pendant une minute et infligeant des dégâts égaux au niveau du cypher. L'explosion génère 1d6 détonations supplémentaires ; au tour suivant, chaque nouvelle détonation se dirige vers un endroit aléatoire dans un rayon court et explose dans un rayon immédiat. Lancez un d100 pour déterminer le type de dégâts infligés par toutes les détonations :
+
+| d100  | Type de Détonation                    |
 | ----- | ---------------------------------- |
-| 01–10 | Cell-disrupting (harms only flesh) |
-| 11–30 | Corrosive                          |
-| 31–40 | Electrical discharge               |
-| 41–50 | Heat drain (cold)                  |
-| 51–75 | Fire                               |
-| 76–00 | Shrapnel                           |
+| 01–10 | Perturbation cellulaire (n'affecte que la chair) |
+| 11–30 | Corrosif                          |
+| 31–40 | Décharge électrique               |
+| 41–50 | Drain de chaleur (froid)                  |
+| 51–75 | Feu                               |
+| 76–00 | Éclats                           |
 
 -----
 
-### Detonation (Web)
+### Detonation (Web)/Détonation (Toile)
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  Projects a small physical explosive up to a long distance away that explodes in an immediate radius and creates sticky strands of goo. PCs caught in the area must use a Might-based action to get out, with the difficulty determined by the cypher level. NPCs break free if their level is higher than the cypher level.
+**Effet:**  Projette un petit explosif physique jusqu'à longue distance qui explose dans un rayon immédiat et crée des filaments collants. Les PJ pris dans la zone doivent réussir une action basée sur la Puissance pour s'en sortir, avec une difficulté déterminée par le niveau du cypher. Les PNJ se libèrent si leur niveau est supérieur à celui du cypher.
 
-(Rather than strands of sticky goo, some web detonations fill the area with a mass of quick-hardening foam that has the same result.)
-
------
-
-### Disarm
-
-**Level:**  1d6 + 1
-
-**Effect:**  One NPC within immediate range whose level is lower than the cypher level drops whatever they are holding.
+(Certaines détonations de toile remplissent la zone d'une mousse à durcissement rapide ayant le même effet.)
 
 -----
 
-### Disguise Module
+### Disarm/Désarmement
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 1
 
-**Effect:**  For the next ten minutes per cypher level, the user's features become almost identical to those of one designated person they have previously interacted with, easing by two steps attempts to disguise the user as that person. Once designated, the user cannot shift the effect to look like another person, though they can remove the module to look like themselves again before the end of the duration.
-
------
-
-### Disrupting
-
-**Level:**  1d6
-
-**Effect:**  For the next day, each time the user strikes a solid creature or object, the attack generates a burst of nanites that directly attack its organic cells. The target takes 1 additional point of damage. If the target's level is less than the cypher's level, it loses its next action; otherwise its next action is hindered.
+**Effet:**  Un PNJ dans un rayon immédiat dont le niveau est inférieur à celui du cypher laisse tomber ce qu'il tient.
 
 -----
 
-### Eagleseye
+### Disguise Module/Module de Déguisement
 
-**Level:**  1d6
+**Niveau:**  1d6 + 2
 
-**Effect:**  Grants the ability to see ten times as far as normal for one hour per cypher level. (For a more realistic game, the eagleseye cypher could instead give the user two assets on tasks involving seeing to long distances.)
-
------
-
-### Effect Resistance
-
-**Level:**  1d6 + 1
-
-**Effect:**  Provides a chance for additional resistance to directly damaging effects of all kinds, such as fire, lightning, and the like, for one day. (It does not provide resistance to blunt force, slashing, or piercing attacks.) If the level of the effect is of the cypher level or lower, the user gains an additional defense roll to avoid it. On a successful defense roll, treat the attack as if the user had succeeded on their regular defense roll. (If the user is an NPC, a PC attacking them with this kind of effect must succeed on two attack rolls to harm them.)
+**Effet:**  Pendant les dix minutes suivantes par niveau du cypher, les traits de l'utilisateur deviennent presque identiques à ceux d'une personne désignée avec laquelle il a déjà interagi, facilitant de deux crans les tentatives de se faire passer pour cette personne. Une fois désignée, l'utilisateur ne peut plus modifier l'effet pour ressembler à une autre personne, bien qu'il puisse retirer le module pour retrouver son apparence avant la fin de la durée.
 
 -----
 
-### Effort Enhancer (Combat)
+### Disrupting/Perturbation
 
-**Level:**  1d6 + 1
+**Niveau:**  1d6
 
-**Effect:**  For the next hour, the user can apply one free level of Effort to any task (including a combat task) without spending points from a Pool. The free level of Effort provided by this cypher does not count toward the maximum amount of Effort a character can normally apply to one task. Once this free level of Effort is used, the effect of the cypher ends.
-
------
-
-### Effort Enhancer (Noncombat)
-
-**Level:**  1d6
-
-**Effect:**  For the next hour, the user can apply one free level of Effort to a noncombat task without spending points from a Pool. The level of Effort provided by this cypher does not count toward the maximum amount of Effort a character can normally apply to one task. Once this free level of Effort is used, the effect of the cypher ends.
+**Effet:**  Pour la prochaine journée, chaque fois que l'utilisateur frappe une créature solide ou un objet, l'attaque génère une explosion de nanites qui attaquent directement ses cellules organiques. La cible subit 1 point de dégât supplémentaire. Si le niveau de la cible est inférieur à celui du cypher, elle perd sa prochaine action ; sinon, sa prochaine action est entravée.
 
 -----
 
-### Enduring Shield
+### Eagleseye/Œil d'Aigle
 
-**Level:**  1d6 + 4
+**Niveau:**  1d6
 
-**Effect:**  For the next day, the user has an asset to Speed defense rolls.
-
------
-
-### Equipment Cache
-
-**Level:**  1d6 + 1
-
-**Effect:**  The user can rummage around and produce from the cypher a desired piece of equipment (not an artifact) whose level does not exceed the cypher's level. The piece of equipment persists for up to one day, unless its fundamental nature allows only a single use (such as with a grenade).
+**Effet:**  Donne la capacité de voir dix fois plus loin que la normale pendant une heure par niveau du cypher. (Pour un jeu plus réaliste, le cypher œil d'aigle pourrait à la place accorder deux atouts pour les tâches impliquant la vision à longue distance.)
 
 -----
 
-### Farsight
+### Effect Resistance/Résistance aux Effets
 
-**Level:**  1d6 + 1
+**Niveau:**  1d6 + 1
 
-**Effect:**  The user can observe a location they have visited previously, regardless of how far away it is (even across galaxies). This vision persists for up to ten minutes per cypher level. The character can switch between viewing this location and viewing their current location once per round.
-
------
-
-### Fireproofing
-
-**Level:**  1d6 + 4
-
-**Effect:**  A nonliving object treated by this cypher has Armor against fire damage equal to the cypher's level for one day.
+**Effet:**  Fournit une chance de résistance supplémentaire aux effets directement dommageables de toutes sortes, tels que le feu, la foudre, etc., pendant une journée. (Cela ne fournit pas de résistance contre les attaques contondantes, tranchantes ou perforantes.) Si le niveau de l'effet est inférieur ou égal à celui du cypher, l'utilisateur obtient un jet de défense supplémentaire pour l'éviter. En cas de réussite, l'attaque est traitée comme si l'utilisateur avait réussi son jet de défense habituel. (Si l'utilisateur est un PNJ, un PJ qui l'attaque avec ce genre d'effet doit réussir deux jets d'attaque pour lui infliger des dégâts.)
 
 -----
 
-### Flame-Retardant Wall
+### Effort Enhancer (Combat)/Amplificateur d'Effort (Combat)
 
-**Level:**  1d6
+**Niveau:**  1d6 + 1
 
-**Effect:**  Creates an immobile plane of permeable energy up to 20 feet by 20 feet (6 m by 6 m) for one hour per cypher level. The plane conforms to the space available. Flames passing through the plane are extinguished.
-
------
-
-### Force Cube
-
-**Level:**  1d6 + 3
-
-**Effect:**  Creates an immobile cube composed of six planes of solid force, each 30 feet (9 m) to a side, for one hour. The planes conform to the space available. (Although a force cube's walls are not gaseous permeable, there is likely enough air within for trapped creatures to breathe for the hour it lasts.)
+**Effet:**  Pour l'heure suivante, l'utilisateur peut appliquer un niveau gratuit d'Effort à n'importe quelle tâche (y compris une tâche de combat) sans dépenser de points de Réserve. Le niveau gratuit d'Effort fourni par ce cypher ne compte pas dans le maximum d'Effort qu'un personnage peut normalement appliquer à une tâche. Une fois ce niveau gratuit d'Effort utilisé, l'effet du cypher prend fin.
 
 -----
 
-### Force Field
+### Effort Enhancer (Noncombat)/Amplificateur d'Effort (Non-combat)
 
-**Level:**  1d6
+**Niveau:**  1d6
 
-**Effect:** For the next day, the user is surrounded by a powerful force field, granting them +1 to Armor (+2 to Armor if the cypher level is 5 or higher).
+**Effet:**  Pour l'heure suivante, l'utilisateur peut appliquer un niveau gratuit d'Effort à une tâche non-combat sans dépenser de points de Réserve. Le niveau d'Effort fourni par ce cypher ne compte pas dans le maximum d'Effort qu'un personnage peut normalement appliquer à une tâche. Une fois ce niveau gratuit d'Effort utilisé, l'effet du cypher prend fin.
+
+-----
+
+### Enduring Shield/Bouclier Durable
+
+**Niveau:**  1d6 + 4
+
+**Effet:**  Pour la prochaine journée, l'utilisateur bénéficie d'un atout pour les jets de défense en Célérité.
+
+-----
+
+### Equipment Cache/Cache d'Équipement
+
+**Niveau:**  1d6 + 1
+
+**Effet:**  L'utilisateur peut fouiller dans le cypher et produire un équipement désiré (pas un artefact) dont le niveau ne dépasse pas celui du cypher. L'équipement persiste jusqu'à une journée, sauf si sa nature fondamentale permet un usage unique (comme une grenade).
+
+-----
+
+### Farsight/Vision à Distance
+
+**Niveau:**  1d6 + 1
+
+**Effet:**  L'utilisateur peut observer un endroit qu'il a déjà visité, peu importe la distance (même à travers des galaxies). Cette vision persiste pendant dix minutes par niveau du cypher. Le personnage peut alterner entre la vision de cet endroit et celle de son emplacement actuel une fois par round.
+
+-----
+
+### Feuproofing/Résistance au Feu
+
+**Niveau:**  1d6 + 4
+
+**Effet:**  Un objet inanimé traité par ce cypher bénéficie d'une Armure contre les dégâts de feu égale au niveau du cypher pendant une journée.
+
+-----
+
+### Flame-Retardant Wall/Mur Ignifuge
+
+**Niveau:**  1d6
+
+**Effet:**  Crée un plan immobile d'énergie perméable mesurant jusqu'à 6 m par 6 m (20 pieds par 20 pieds) pendant une heure par niveau du cypher. Le plan se conforme à l'espace disponible. Les flammes passant à travers le plan sont éteintes.
+
+-----
+
+### Force Cube/Cube de Force
+
+**Niveau:**  1d6 + 3
+
+**Effet:**  Crée un cube immobile composé de six plans de force solide, chacun mesurant 9 m (30 pieds) de côté, pendant une heure. Les plans se conforment à l'espace disponible. (Bien que les murs d'un cube de force ne soient pas perméables à l'air, il y a probablement suffisamment d'air à l'intérieur pour que les créatures piégées puissent respirer pendant l'heure que dure l'effet.)
+
+-----
+
+### Force Field/Champ de Force
+
+**Niveau:**  1d6
+
+**Effet:** Pour la prochaine journée, l'utilisateur est entouré d'un puissant champ de force, lui accordant +1 à l'Armure (+2 à l'Armure si le niveau du cypher est 5 ou plus).
 
 {{< hint info >}}
-Some force walls, shields, and cubes are transparent. Others are translucent. A few are opaque.
+Certains champs, boucliers et cubes de force sont transparents. D'autres sont translucides. Quelques-uns sont opaques. 
 {{< /hint >}}
 
 -----
 
-### Force Screen Projector
+### Force Screen Projector/Projecteur d'Écran de Force
 
-**Level:**  1d6 + 3
+**Niveau:**  1d6 + 3
 
-**Effect:**  Creates an immobile plane of solid force up to 20 feet by 20 feet (6 m by 6 m) for one hour. The plane conforms to the space available.
-
------
-
-### Force Shield Projector
-
-**Level:**  1d6 + 3
-
-**Effect:**  Creates a shimmering energy shield around the user for one hour, during which time they gain +3 to Armor (or +4 to Armor if the cypher is level 5 or higher).
+**Effet:**  Crée un plan immobile de force solide mesurant jusqu'à 6 m par 6 m (20 pieds par 20 pieds) pendant une heure. Le plan se conforme à l'espace disponible.
 
 -----
 
-### Friction Reducer
+### Force Shield Projector/Projecteur de Bouclier de Force
 
-**Level:**  1d6
+**Niveau:**  1d6 + 3
 
-**Effect:**  Spread across an area up to 10 feet (3 m) square, this makes things extremely slippery. For one hour per cypher level, movement tasks in the area are hindered by three steps.
-
------
-
-### Frigid Wall
-
-**Level:**  1d6 + 2
-
-**Effect:**  Creates a wall of supercooled air up to 30 feet by 30 feet by 1 foot (9 m by 9 m by 30 cm) that inflicts damage equal to the cypher's level on anything that passes through it. The wall conforms to the space available. It lasts for ten minutes.
+**Effet:**  Crée un bouclier d'énergie scintillant autour de l'utilisateur pendant une heure, durant laquelle il bénéficie de +3 à l'Armure (ou +4 à l'Armure si le cypher est de niveau 5 ou plus).
 
 -----
 
-### Gas Bomb
+### Friction Reducer/Réducteur de Friction
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6
 
-**Effect:**  Thrown a short distance, this bursts in a poisonous cloud within an immediate area. The cloud lingers for 1d6 rounds unless conditions dictate otherwise. Roll a d100 to determine the effect.
+**Effet:**  Répandu sur une zone allant jusqu'à 3 m carrés (10 pieds carrés), cela rend les choses extrêmement glissantes. Pendant une heure par niveau du cypher, les tâches de mouvement dans la zone sont entravées de trois niveaux.
 
-| d100  | Gas Type                                                                                                                                                                |
+-----
+
+### Frigid Wall/Mur Frigorifique
+
+**Niveau:**  1d6 + 2
+
+**Effet:**  Crée un mur d'air super-refroidi mesurant jusqu'à 9 m par 9 m par 30 cm (30 pieds par 30 pieds par 1 pied) qui inflige des dégâts égaux au niveau du cypher à tout ce qui le traverse. Le mur se conforme à l'espace disponible et dure dix minutes.
+
+-----
+
+### Gas Bomb/Bombe à Gaz
+
+**Niveau:**  1d6 + 2
+
+**Effet:**  Lancée à courte distance, elle explose en un nuage empoisonné couvrant une zone immédiate. Le nuage persiste pendant 1d6 rounds, sauf si les conditions l'indiquent autrement. Lancez un d100 pour déterminer l'effet.
+
+| d100  | Type de Gaz                                                                                                                                                             |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 01–10 | Thick smoke: occludes sight while the cloud lasts.                                                                                                                      |
-| 11–20 | Choking gas: living creatures that breathe lose their actions to choking and coughing for a number of rounds equal to the cypher's level.                               |
-| 21–50 | Poison gas: living creatures that breathe suffer damage equal to the cypher's level.                                                                                    |
-| 51–60 | Corrosive gas: everything suffers damage equal to the cypher's level.                                                                                                   |
-| 61–65 | Hallucinogenic gas: living creatures that breathe lose their actions to hallucinations and visions for a number of rounds equal to the cypher's level.                  |
-| 66–70 | Nerve gas: living creatures that breathe suffer Speed damage equal to the cypher's level.                                                                               |
-| 71–80 | Mind-numbing gas: living creatures that breathe suffer Intellect damage equal to the cypher's level.                                                                    |
-| 81–83 | Fear gas: living creatures that breathe and think flee in a random direction in fear (or are paralyzed with fear) for a number of rounds equal to the cypher's level.   |
-| 84–86 | Amnesia gas: living creatures that breathe and think permanently lose all memory of the last minute.                                                                    |
-| 87–96 | Sleep gas: living creatures that breathe fall asleep for a number of rounds equal to the cypher's level or until awoken by a violent action or an extremely loud noise. |
-| 97–00 | Rage gas: living creatures that breathe and think make a melee attack on the nearest creature and continue to do so for a number of rounds equal to the cypher's level. |
+| 01–10 | Fumée épaisse : occulte la vue tant que le nuage persiste                                                                                                                    |
+| 11–20 | Gaz d'étouffement : les créatures vivantes qui respirent perdent leurs actions à cause de l'étouffement et de la toux pendant un nombre de rounds égal au niveau du cypher.                           |
+| 21–50 | Gaz empoisonné : les créatures vivantes qui respirent subissent des dégâts égaux au niveau du cypher.                                     |
+| 51–60 | Gaz corrosif : tout subit des dégâts égaux au niveau du cypher.                                                                                               |
+| 61–65 | Gaz hallucinogène : les créatures vivantes qui respirent perdent leurs actions à cause des hallucinations et visions pendant un nombre de rounds égal au niveau du cypher.          |
+| 66–70 | Gaz neurotoxique : les créatures vivantes qui respirent subissent des dégâts en Célérité égaux au niveau du cypher.                                                                     |
+| 71–80 | Gaz débilitant : les créatures vivantes qui respirent subissent des dégâts en Intellect égaux au niveau du cypher.                                                          |
+| 81–83 | Gaz de peur : les créatures vivantes qui respirent et pensent fuient dans une direction aléatoire de peur (ou sont paralysées par la peur) pendant un nombre de rounds égal au niveau du cypher.   |
+| 84–86 | Gaz d'amnésie : les créatures vivantes qui respirent et pensent perdent définitivement toute mémoire de la dernière minute.                                                          |
+| 87–96 | Gaz soporifique : les créatures vivantes qui respirent s'endorment pendant un nombre de rounds égal au niveau du cypher ou jusqu'à ce qu'elles soient réveillées par une action violente ou un bruit extrêmement fort. |
+| 97–00 | Gaz de rage : les créatures vivantes qui respirent et pensent attaquent au corps à corps la créature la plus proche et continuent à le faire pendant un nombre de rounds égal au niveau du cypher. |
 
 -----
 
-### Gravity Nullifier
+### Gravity Nullifier/Nullificateur de Gravité
 
-**Level:**  1d6 + 3
+**Niveau:**  1d6 + 3
 
-**Effect:**  For one hour, the user can float into the air, moving vertically up to a short distance per round (but not horizontally without taking some other action, such as pushing along the ceiling). The user must weigh less than 50 pounds (23 kg) per level of the cypher.
-
------
-
-### Gravity-Nullifying Application
-
-**Level:**  1d6 + 2
-
-**Effect:**  If a nonliving object no larger than a human (two humans if the cypher level is 6 or higher) is coated by this cypher, it floats 1d20 feet in the air permanently and no longer has weight if carried (though it needs to be strapped down).
+**Effet:**  Pendant une heure, l'utilisateur peut flotter dans les airs, se déplaçant verticalement d'une courte distance par round (mais pas horizontalement sans une autre action, comme se pousser contre un plafond). L'utilisateur doit peser moins de 23 kg (50 livres) par niveau du cypher.
 
 -----
 
-### Heat Attack
+### Gravity-Nullifying Application/Application Nullifiant la Gravité
 
-**Level:**  1d6
+**Niveau:**  1d6 + 2
 
-**Effect:**  For the next day, each time the user strikes a solid creature or object, the attack generates a burst of heat that inflicts 2 additional points of damage.
+**Effet:**  Si un objet non vivant ne dépassant pas la taille d'un humain (deux humains si le niveau du cypher est 6 ou plus) est recouvert par ce cypher, il flotte à une hauteur de 1d20 pieds dans les airs de manière permanente et n'a plus de poids s'il est porté (bien qu'il doive être solidement attaché).
 
 -----
 
-### Hunter/Seeker
+### Heat Attack/Attaque de Chaleur
 
-**Level:**  1d6
+**Niveau:**  1d6
 
-**Effect:**  With long-range movement, this intelligent missile tracks and attacks a specified target (target must be within sight when selected). If it misses, it continues to attack one additional time per cypher level until it hits. For example, a level 4  
-hunter/seeker will attack a maximum of five times. Roll a d100 to determine the type of attack.
+**Effet:**  Pendant la journée suivante, chaque fois que l'utilisateur frappe une créature ou un objet solide, l'attaque génère une explosion de chaleur qui inflige 2 points de dégâts supplémentaires.
 
-| d100  | Missile Effect                                                                                                                                                  |
+-----
+
+### Hunter/Seeker/Chasseur/Traqueur
+
+**Niveau:**  1d6
+
+**Effet:**  Avec un mouvement à longue portée, ce missile intelligent suit et attaque une cible spécifiée (la cible doit être à la vue lors de la sélection). S'il rate, il continue d'attaquer une fois supplémentaire par niveau de cypher jusqu'à ce qu'il touche. Par exemple, un chasseur/traqueur de niveau 4 attaquera un maximum de cinq fois. Lancez un d100 pour déterminer le type d'attaque.
+
+| d100  | Effet du Missile                                                                                                                                                 |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 01–50 | Inflicts 8 points of damage.                                                                                                                                    |
-| 51–80 | Bears a poisoned needle that inflicts 3 points of damage plus poison.                                                                                           |
-| 81–90 | Explodes, inflicting 6 points of damage to all within immediate range.                                                                                          |
-| 91–95 | Shocks for 4 points of electricity damage, and stuns for one round per cypher level.                                                                            |
-| 96–00 | Covers target in sticky goo that immediately hardens, holding them fast until they break free with a Might action (difficulty equal to the cypher's level + 2). |
+| 01–50 | Inflige 8 points de dégâts.                                                                                                                                 |
+| 51–80 | Porte une aiguille empoisonnée qui inflige 3 points de dégâts plus du poison.                                                                                      |
+| 81–90 | Explose, infligeant 6 points de dégâts à tous ceux dans la portée immédiate.                                                                               |
+| 91–95 | Électrocute pour 4 points de dégâts électriques, et étourdit pendant un tour par niveau de cypher.                                                                   |
+| 96–00 | Recouvre la cible d'une substance collante qui durcit immédiatement, les retenant jusqu'à ce qu'ils se libèrent avec une action de Puissance (difficulté égale au niveau du cypher + 2). |
 
 -----
 
-### Image Projector
+### Image Projector/Projecteur d'Image
 
-**Level:**  1d6
+**Niveau:**  1d6
 
-**Effect:**  Projects one of the following immobile images in the area described for one hour. The image appears up to a close distance from the user (long distance if the cypher level is 4 or higher, very long distance if the cypher level is 6 or higher). Scenes include movement, sound, and smell. Roll a d100 to determine the image.
+**Effet:**  Projette l'une des images immobiles suivantes dans la zone décrite pendant une heure. L'image apparaît à une distance proche de l'utilisateur (longue distance si le niveau du cypher est 4 ou plus, très longue distance si le niveau du cypher est 6 ou plus). Les scènes incluent mouvement, son et odeur. Lancez un d100 pour déterminer l'image.
 
 | d100  | Projection                                                                                           |
 | ----- | ---------------------------------------------------------------------------------------------------- |
-| 01–20 | Terrifying creature of an unknown species, perhaps no longer alive in the world (10-foot [3 m] cube) |
-| 21–40 | Huge machine that obscures sight (30-foot [9 m] cube)                                                |
-| 41–50 | Beautiful pastoral scene (50-foot [15 m] cube)                                                       |
-| 51–60 | Food that looks delicious but may not be familiar (10-foot [3 m] cube)                               |
-| 61–80 | Solid color that obscures sight (50-foot [15 m] cube)                                                |
-| 81–00 | Incomprehensible scene that is disorienting and strange (20-foot [6 m] cube)                         |
+| 01–20 | Créature terrifiante d'une espèce inconnue, peut-être plus vivante dans le monde (cube de 10 pieds [3 m]) |
+| 21–40 | Machine énorme qui obstrue la vue (cube de 30 pieds [9 m])                                       |
+| 41–50 | Belle scène pastorale (cube de 50 pieds [15 m])                                                  |
+| 51–60 | Nourriture qui semble délicieuse mais peut ne pas être familière (cube de 10 pieds [3 m])                          |
+| 61–80 | Couleur unie qui obstrue la vue (cube de 50 pieds [15 m])                                     |
+| 81–00 | Scène incompréhensible qui est désorientante et étrange (cube de 20 pieds [6 m]               |
 
 -----
 
-### Inferno Wall
+### Inferno Wall/Mur Infernal
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  Creates a wall of extreme heat up to 30 feet by 30 feet by 1 foot (9 m by 9 m by 30 cm) that inflicts damage equal to the cypher's level on anything that passes through it. The wall conforms to the space available. It lasts for ten minutes.
-
------
-
-### Infiltrator
-
-**Level:**  1d6
-
-**Effect:**  Tiny capsule launches and moves at great speed, mapping and scanning an unknown area. It moves 500 feet (150 m) per level, scanning an area up to 50 feet (15 m) per level away from it. It identifies basic layout, creatures, and major energy sources and either transmits this information back to the user (perhaps by telepathy or an electronic signal) or returns to the user to show what it saw. Its movement is blocked by any physical or energy barrier.
+**Effet:**  Crée un mur de chaleur extrême mesurant jusqu'à 30 pieds par 30 pieds par 1 pied (9 m par 9 m par 30 cm) qui inflige des dégâts égaux au niveau du cypher à tout ce qui passe à travers. Le mur s'adapte à l'espace disponible. Il dure dix minutes.
 
 -----
 
-### Information Sensor
+### Infiltrator/Infiltrateur
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6
 
-**Effect:**  Over the course of one day, the user can activate the cypher a total number of times equal to its level. Each time, they can select a living creature within long range and learn the following about it: level, origin, species, name, and possibly other facts (such as an individual's credit score, home address, phone number, and related information).
-
------
-
-### Instant Servant
-
-**Level:**  1d6
-
-**Effect:**  Small device expands into a humanoid automaton that is roughly 2 feet (60 cm) tall. Its level is equal to the cypher's level, and it can understand the verbal commands of the character who activated it. Once the servant is activated, commanding it is not an action. It can make attacks or perform actions as ordered to the best of its abilities, but it cannot speak.
-
-The automaton has short-range movement but never goes farther than long range from the character who activated it. At the GM's discretion, the servant might have specialized knowledge, such as how to operate a particular device. Otherwise, it has no special knowledge. In any case, the servant is not artificially intelligent or capable of initiating action. It does only as commanded.
-
-The servant operates for one hour per cypher level.
+**Effet:**  Une petite capsule se lance et se déplace à grande Célérité, cartographiant et scannant une zone inconnue. Elle se déplace de 500 pieds (150 m) par niveau, scannant une zone jusqu'à 50 pieds (15 m) à partir de sa position. Elle identifie la disposition de base, les créatures et les principales sources d'énergie et transmet cette information à l'utilisateur (peut-être par télépathie ou signal électronique) ou revient à l'utilisateur pour montrer ce qu'elle a vu. Son mouvement est bloqué par tout obstacle physique ou énergétique.
 
 -----
 
-### Instant Shelter
+### Information Sensor/Capteur d'Information
 
-**Level:**  1d6 + 3
+**Niveau:**  1d6 + 2
 
-**Effect:**  With the addition of water and air, this cypher expands into a simple one-room structure with a door and a transparent window (two rooms with an internal door if the cypher level is 7 or higher). The structure is 10 feet by 10 feet by 20 feet (3 m by 3 m by 6 m). It is made from a durable, nonflammable material similar to sandstone, and is permanent and immobile once created.
-
------
-
-### Intellect Booster
-
-**Level:**  1d6 + 2
-
-**Effect:**  Adds 1 to the user's Intellect Edge for one hour (or 2 if the cypher is level 5 or higher).
+**Effet:**  Au cours d'une journée, l'utilisateur peut activer le cypher un nombre total de fois égal à son niveau. Chaque fois, il peut sélectionner une créature vivante dans un long rayon et apprendre les informations suivantes à son sujet : niveau, origine, espèce, nom, et possiblement d'autres faits (comme le score de crédit d'un individu, son adresse, son numéro de téléphone et des informations connexes).
 
 -----
 
-### Intelligence Enhancement
+### Instant Servant/Serviteur Instantané
 
-**Level:**  1d6
+**Niveau:**  1d6
 
-**Effect:**  All of the user's tasks involving intelligent deduction---such as playing chess, inferring a connection between clues, solving a mathematical problem, finding a bug in computer code, and so on---are eased by two steps for one hour. In the subsequent hour, the strain hinders the same tasks by two steps.
+**Effet:**  Petit appareil s'étend en un automate humanoïde d'environ 2 pieds (60 cm) de haut. Son niveau est égal au niveau du cypher, et il peut comprendre les commandes verbales du personnage qui l'a activé. Une fois le serviteur activé, le commandement n'est pas une action. Il peut attaquer ou effectuer des actions comme ordonné au mieux de ses capacités, mais il ne peut pas parler.
+
+L'automate a un mouvement à courte portée mais ne s'éloigne jamais plus qu'à longue portée du personnage qui l'a activé. À la discrétion du MJ, le serviteur pourrait avoir des connaissances spécialisées, comme comment utiliser un appareil particulier. Sinon, il n'a pas de connaissances particulières. Dans tous les cas, le serviteur n'est pas intelligent artificiellement ni capable d'initier une action. Il fait uniquement ce qui est commandé.
+
+Le serviteur fonctionne pendant une heure par niveau de cypher.
 
 -----
 
-### Knowledge Enhancement
+### Instant Shelter/Abri Instantané
 
-**Level:**  1d6
+**Niveau:**  1d6 + 3
 
-**Effect:**  For the next day, the character has training in a predetermined skill (or two skills if the cypher is level 5 or higher). The skill could be anything (including something specific to the operation of a particular device), or roll a d100 to choose a common skill. (It is easy to get addicted to the quick hit of training that comes from knowledge enhancement cyphers. Characters who rely on them too often may find themselves at a disadvantage when they run out, presenting a great opportunity for GM intrusion.)
+**Effet:**  Avec l'ajout d'eau et d'air, ce cypher s'étend en une simple structure d'une pièce avec une porte et une fenêtre transparente (deux pièces avec une porte intérieure si le niveau du cypher est 7 ou plus). La structure mesure 10 pieds par 10 pieds par 20 pieds (3 m par 3 m par 6 m). Elle est fabriquée à partir d'un matériau durable et non inflammable similaire au grès, et est permanente et immobile une fois créée.
 
-| d100  | Knowledge                                                                  |
+-----
+
+### Intellect Booster/Amplificateur d'Intellect
+
+**Niveau:**  1d6 + 2
+
+**Effet:**  Ajoute 1 à l'Avantage d'Intellect de l'utilisateur pendant une heure (ou 2 si le cypher est de niveau 5 ou plus).
+
+-----
+
+### Intelligence Enhancement/Amélioration de l'Intelligence
+
+**Niveau:**  1d6
+
+**Effet:**  Toutes les tâches de l'utilisateur impliquant des déductions intelligentes---comme jouer aux échecs, inférer une connexion entre des indices, résoudre un problème mathématique, trouver un bogue dans le code informatique, et ainsi de suite---sont facilitées de deux étapes pendant une heure. Au cours de l'heure suivante, la tension entrave les mêmes tâches de deux étapes.
+
+-----
+
+### Knowledge Enhancement/Amélioration de la Connaissance
+
+**Niveau:**  1d6
+
+**Effet:**  Pour la journée suivante, le personnage reçoit un entraînement dans une compétence prédéterminée (ou deux compétences si le cypher est de niveau 5 ou plus). La compétence peut être n'importe quoi (y compris quelque chose de spécifique au fonctionnement d'un appareil particulier), ou lancez un d100 pour choisir une compétence commune. (Il est facile de devenir dépendant de l'adrénaline rapide de l'entraînement qu'apportent les cyphers d'amélioration de la connaissance. Les personnages qui s'y fient trop souvent peuvent se retrouver désavantagés lorsqu'ils en manquent, offrant une grande opportunité pour une intrusion du MJ.)
+
+| d100  | Connaissance                                                                  |
 | ----- | -------------------------------------------------------------------------- |
-| 01–10 | Melee attacks                                                              |
-| 11–20 | Ranged attacks                                                             |
-| 21–40 | One type of academic or esoteric lore (biology, history, magic, and so on) |
-| 41–50 | Repairing (sometimes specific to one device)                               |
-| 51–60 | Crafting (usually specific to one thing)                                   |
+| 01–10 | Attaques au corps à corps                                                   |
+| 11–20 | Attaques à distance                                                           |
+| 21–40 | 	Un type de savoir académique ou ésotérique (biologie, histoire, magie, etc.) |
+| 41–50 | Réparation (parfois spécifique à un appareil)                            |
+| 51–60 | Artisanat (généralement spécifique à une chose)                              |
 | 61–70 | Persuasion                                                                 |
-| 71–75 | Healing                                                                    |
-| 76–80 | Speed defense                                                              |
-| 81–85 | Intellect defense                                                          |
-| 86–90 | Swimming                                                                   |
-| 91–95 | Riding                                                                     |
-| 96–00 | Sneaking                                                                   |
+| 71–75 | Soins                                                                    |
+| 76–80 | Défense de Célérité                                                           |
+| 81–85 | Défense d'Intellect                                                         |
+| 86–90 | Natation                                                                   |
+| 91–95 | Équitation                                                                 |
+| 96–00 | Furtivité                                                                |
 
 -----
 
-### Lightning Wall
+### Lightning Wall/Mur d'Éclairs
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  Creates a wall of electric bolts up to 30 feet by 30 feet by 1 foot (9 m by 9 m by 30 cm) that inflicts damage equal to the cypher's level on anything that passes through it. The wall conforms to the space available. It lasts for ten minutes.
-
------
-
-### Machine Control
-
-**Level:**  1d6 + 2
-
-**Effect:**  Splits into two pieces; one is affixed to a device and the other to a character. The character can then use their mind to control the device at long range, bidding it to do anything it could do normally. Thus, a device could be activated or deactivated, and a vehicle could be piloted. The control lasts for ten minutes per cypher level, and once the device is chosen, it cannot be changed.
+**Effet:**  Crée un mur de décharges électriques mesurant jusqu'à 30 pieds par 30 pieds par 1 pied (9 m par 9 m par 30 cm) qui inflige des dégâts égaux au niveau du cypher à tout ce qui passe à travers. Le mur s'adapte à l'espace disponible. Il dure dix minutes.
 
 -----
 
-### Magnetic Attack Drill
+### Machine Control/Contrôle de Machine
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  The user throws this cypher at a target within short range, and it drills into the target for one round, inflicting damage equal to the cypher's level. If the target is made of metal or wearing metal (such as armor), the attack is eased.
-
------
-
-### Magnetic Master
-
-**Level:**  1d6 + 2
-
-**Effect:**  Establishes a connection with one metal object within short range that a human could hold in one hand. The user can then move or manipulate the object anywhere within short range (each movement or manipulation is an action). For example, they could wield a weapon or drag a helm affixed to a foe's head to and fro. The connection lasts for ten rounds per cypher level.
+**Effet:**  Se divise en deux morceaux ; l'un est fixé à un appareil et l'autre à un personnage. Le personnage peut alors utiliser son esprit pour contrôler l'appareil à longue portée, lui ordonnant de faire tout ce qu'il pourrait faire normalement. Ainsi, un appareil pourrait être activé ou désactivé, et un véhicule pourrait être piloté. Le contrôle dure dix minutes par niveau de cypher, et une fois l'appareil choisi, il ne peut pas être changé.
 
 -----
 
-### Magnetic Shield
+### Magnetic Attack Drill/Foreuse d'Attaque Magnétique
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  For ten minutes per cypher level, metal objects cannot come within immediate range of the user. Metal items already in the area when the device is activated are slowly pushed out.
-
------
-
-### Manipulation Beam
-
-**Level:**  1d6 + 2
-
-**Effect:**  Over the course of one day, the user can activate the cypher a total number of times equal to its level. Each time, they can affect an object they can see within long range that is not too heavy for them to affect physically. The effect must occur over the course of a round and could include closing or opening a door, keying in a number on a keypad, transferring an object a short distance, wresting an object from another creature's grasp (on a successful Might-based roll), or pushing a creature an immediate distance. (A manipulation beam could be used to operate a computer at a distance, which would make some infiltration and hacking jobs easier.)
+**Effet:**  L'utilisateur lance ce cypher sur une cible à portée courte, et il s'enfonce dans la cible pendant un tour, infligeant des dégâts égaux au niveau du cypher. Si la cible est en métal ou porte du métal (comme une armure), l'attaque est facilitée.
 
 -----
 
-### Matter Transference Ray
+### Magnetic Master/Maître Magnétique
 
-**Level:**  1d6 + 3
+**Niveau:**  1d6 + 2
 
-**Effect:**  The user can target one nonliving object within long range that is their size or smaller of the cypher level or lower. The object is transferred directly to a random location at least 100 miles (160 km) away. If the GM feels it appropriate to the circumstances, only a portion of an object is transferred (a portion whose volume is no more than the user's).
-
------
-
-### Meditation Aid
-
-**Level:**  1d6 + 2
-
-**Effect:**  Restores a number of points equal to the cypher's level to the user's Intellect Pool.
+**Effet:**  Établit une connexion avec un objet métallique à portée courte qu'un humain pourrait tenir d'une main. L'utilisateur peut ensuite déplacer ou manipuler l'objet n'importe où dans la portée courte (chaque mouvement ou manipulation est une action). Par exemple, il pourrait manier une arme ou tirer un casque fixé à la tête d'un ennemi d'avant en arrière. La connexion dure dix tours par niveau de cypher.
 
 -----
 
-### Memory Switch
+### Magnetic Shield/Bouclier Magnétique
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  The user selects a point within long range, and the minds of all thinking creatures within immediate range of that point are attacked. Victims are dazed and take no action for a round, and they have no memory of the preceding hour.
+**Effet:**  Pendant dix minutes par niveau de cypher, les objets métalliques ne peuvent pas se trouver à portée immédiate de l'utilisateur. Les objets métalliques déjà dans la zone lorsque le dispositif est activé sont lentement repoussés.
 
 -----
 
-### Mental Scrambler
+### Manipulation Beam/Faisceau de Manipulation
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  Two rounds after being activated, the device creates an invisible field that fills an area within short range and lasts for one minute. The field scrambles the mental processes of all thinking creatures. The effect lasts as long as they remain in the field and for 1d6 rounds after, although an Intellect defense roll is allowed each round to act normally (both in the field and after leaving it). Each mental scrambler is keyed to a specific effect. Roll a d100 to determine the effect.
+**Effet:**  Au cours d'une journée, l'utilisateur peut activer le cypher un nombre total de fois égal à son niveau. Chaque fois, il peut affecter un objet qu'il peut voir à longue portée qui n'est pas trop lourd pour lui à manipuler physiquement. L'effet doit se produire au cours d'un tour et pourrait inclure la fermeture ou l'ouverture d'une porte, la saisie d'un numéro sur un clavier, le transfert d'un objet sur une courte distance, le fait de retirer un objet des mains d'une autre créature (avec un jet réussi basé sur la Puissance), ou de pousser une créature sur une distance immédiate. (Un faisceau de manipulation pourrait être utilisé pour faire fonctionner un ordinateur à distance, ce qui faciliterait certaines missions d'infiltration et de piratage.)
 
-| d100  | Effect                                                                             |
+-----
+
+### Matter Transference Ray/Rayon de Transfert de Matière
+
+**Niveau:**  1d6 + 3
+
+**Effet:**  L'utilisateur peut cibler un objet non vivant à longue portée qui est de sa taille ou plus petit, de niveau de cypher égal ou inférieur. L'objet est transféré directement à un emplacement aléatoire situé à au moins 100 miles (160 km) de distance. Si La Meneuse estime que cela est approprié aux circonstances, seule une partie d'un objet est transférée (une partie dont le volume n'est pas supérieur à celui de l'utilisateur).
+
+-----
+
+### Meditation Aid/Aide à la Méditation
+
+**Niveau:**  1d6 + 2
+
+**Effet:**  Restaure un nombre de points égal au niveau du cypher à la Réserve d'Intellect de l'utilisateur.
+
+-----
+
+### Memory Switch/Interrupteur de Mémoire
+
+**Niveau:**  1d6 + 2
+
+**Effet:**  L'utilisateur sélectionne un point à portée longue, et les esprits de toutes les créatures pensantes dans la portée immédiate de ce point sont attaqués. Les victimes sont étourdies et ne prennent aucune action pendant un tour, et elles n'ont aucun souvenir de l'heure précédente.
+
+-----
+
+### Mental Scrambler/Brouilleur Mental
+
+**Niveau:**  1d6 + 2
+
+**Effet:**  Deux rounds après son activation, le dispositif crée un champ invisible qui remplit une zone à portée courte et dure une minute. Le champ brouille les processus mentaux de toutes les créatures pensantes. L'effet dure tant qu'elles restent dans le champ et pendant 1d6 rounds après, bien qu'un jet de défense d'Intellect soit permis chaque tour pour agir normalement (dans le champ et après l'avoir quitté). Chaque brouilleur mental est associé à un effet spécifique. Lancez un d100 pour déterminer l'effet.
+
+| d100  | Effet                                                                             |
 | ----- | ---------------------------------------------------------------------------------- |
-| 01–30 | Victims cannot act.                                                                |
-| 31–40 | Victims cannot speak.                                                              |
-| 41–50 | Victims move slowly (immediate range) and clumsily.                                |
-| 51–60 | Victims cannot see or hear.                                                        |
-| 61–70 | Victims lose all sense of direction, depth, and proportion.                        |
-| 71–80 | Victims do not recognize anyone they know.                                         |
-| 81–88 | Victims suffer partial amnesia.                                                    |
-| 89–94 | Victims suffer total amnesia.                                                      |
-| 95–98 | Victims lose all inhibitions, revealing secrets and performing surprising actions. |
-| 99–00 | Victims' ethics are inverted.                                                      |
+| 01–30 | Les victimes ne peuvent pas agir.                                                         |
+| 31–40 | Les victimes ne peuvent pas parler.                                                        |
+| 41–50 | Les victimes se déplacent lentement (portée immédiate) et de manière maladroite.                         |
+| 51–60 | Les victimes ne peuvent ni voir ni entendre.                                          |
+| 61–70 | Les victimes perdent tout sens de la direction, de la profondeur et de la proportion.                  |
+| 71–80 | Les victimes ne reconnaissent personne qu'elles connaissent.                                  |
+| 81–88 | Les victimes souffrent d'amnésie partielle.                                       |
+| 89–94 | Les victimes souffrent d'amnésie totale.                                           |
+| 95–98 | Les victimes perdent toutes inhibitions, révélant des secrets et effectuant des actions surprenantes. |
+| 99–00 | L'éthique des victimes est inversée.                                                 |
 
 -----
 
-### Metal Death
+### Metal Death/Mort Métallique
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  Produces a stream of foam that covers an area about 3 feet by 3 feet (1 m by 1 m), transforming any metal that it touches into a substance as brittle as thin glass. The foam affects metal to a depth of about 6 inches (15 cm).
-
------
-
-### Mind Meld
-
-**Level:**  1d6 + 1
-
-**Effect:**  Lets the user speak telepathically with creatures they can see within short range for up to one hour. The user can't read a target's thoughts, except those that are specifically "transmitted."
-
-(In some games, telepathy transcends normal language barriers (if the target has a mind that allows for telepathic communication). In others, it might only pick up emotions or general concepts of thoughts in another language. It also might vary based on the ability used.)
+**Effet:**  Produit un flux de mousse qui couvre une zone d'environ 3 pieds par 3 pieds (1 m par 1 m), transformant tout métal qu'elle touche en une substance aussi fragile que du verre fin. La mousse affecte le métal sur une profondeur d'environ 6 pouces (15 cm).
 
 -----
 
-### Mind-Restricting Wall
+### Mind Meld/Fusion Mentale
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 1
 
-**Effect:**  Creates an immobile plane of permeable energy up to 20 feet by 20 feet (6 m by 6 m) for one hour. The plane conforms to the space available. Intelligent creatures passing through the plane fall unconscious for up to one hour, or until slapped awake or damaged.
+**Effet:**  Permet à l'utilisateur de parler télépathiquement avec des créatures qu'il peut voir à portée courte pendant jusqu'à une heure. L'utilisateur ne peut pas lire les pensées d'une cible, sauf celles qui sont spécifiquement "transmises".
 
------
-
-### Mind Stabilizer
-
-**Level:**  1d6
-
-**Effect:**  The user gains +5 to Armor against Intellect damage.
+(Dans certains jeux, la télépathie transcende les barrières linguistiques normales (si la cible a un esprit permettant la communication télépathique). Dans d'autres, elle pourrait ne capter que des émotions ou des concepts généraux de pensées dans une autre langue. Cela pourrait également varier en fonction de l'aptitude utilisée.)
 
 -----
 
-### Monoblade
+### Mind-Restricting Wall/Mur de Restriction Mentale
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  Produces a 6-inch (15 cm) blade that's the same level as the cypher. The blade cuts through any material of a level lower than its own. If used as a weapon, it is a light weapon that ignores Armor of a level lower than its own. The blade lasts for ten minutes.
-
------
-
-### Monohorn
-
-**Level:**  1d6 + 3
-
-**Effect:**  The user gains a horn in the center of their forehead. The horn is deadly sharp and strong, and it spirals down to a solid base where it fuses with their flesh and bone. The user is specialized in making melee attacks with the horn, which is considered a medium weapon. The horn lasts for a number of hours equal to the cypher's level.
-
-(Sometimes a monohorn cypher covers the user in a thin sheen of black hide-like material, which disguises their identity but doesn't interfere with their senses.)
+**Effet:**  Crée un plan immobile d'énergie perméable mesurant jusqu'à 20 pieds par 20 pieds (6 m par 6 m) pendant une heure. Le plan s'adapte à l'espace disponible. Les créatures intelligentes passant à travers le plan s'évanouissent pendant jusqu'à une heure, ou jusqu'à ce qu'elles soient giflées pour se réveiller ou endommagées.
 
 -----
 
-### Motion Sensor
+### Mind Stabilizer/Stabilisateur Mental
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6
 
-**Effect:**  For one hour per cypher level, the user knows when any movement occurs within short range, and when large creatures or objects move within long range (the cypher distinguishes between the two). It also indicates the number and size of the creatures or objects in motion.
+**Effet:**  L'utilisateur gagne +5 à l'Armure contre les dégâts d'Intellect.
 
 -----
 
-### Null Field
+### Monoblade/Monolame
 
-**Level:**  1d6 + 3
+**Niveau:**  1d6 + 2
 
-**Effect:**  The user and all creatures within immediate range gain +3 to Armor (+5 if the cypher is level 8 or higher) against damage of a specified kind for one hour. Roll a d100 to determine the effect.
+**Effet:**  Produit une lame de 6 pouces (15 cm) qui est du même niveau que le cypher. La lame coupe à travers tout matériau de niveau inférieur au sien. Si utilisée comme arme, c'est une arme légère qui ignore l'Armure d'un niveau inférieur au sien. La lame dure dix minutes.
+
+-----
+
+### Monohorn/Monocorne
+
+**Niveau:**  1d6 + 3
+
+**Effet:**  L'utilisateur gagne une corne au centre de son front. La corne est mortellement tranchante et robuste, et elle s'enroule jusqu'à une base solide où elle fusionne avec sa chair et son os. L'utilisateur est spécialisé dans les attaques au corps à corps avec la corne, qui est considérée comme une arme moyenne. La corne dure un nombre d'heures égal au niveau du cypher.
+
+(Parfois, un cypher de monocorne couvre l'utilisateur d'un mince revêtement de matériau semblable à une peau noire, ce qui dissimule son identité mais n'interfère pas avec ses sens.)
+
+-----
+
+### Motion Sensor/Capteur de Mouvement
+
+**Niveau:**  1d6 + 2
+
+**Effet:**  Pendant une heure par niveau de cypher, l'utilisateur sait quand un mouvement se produit dans la portée courte, et lorsque de grandes créatures ou objets se déplacent dans la portée longue (le cypher distingue les deux). Il indique également le nombre et la taille des créatures ou objets en mouvement.
+
+-----
+
+### Null Field/Champ Nul
+
+**Niveau:**  1d6 + 3
+
+**Effet:**  L'utilisateur et toutes les créatures dans la portée immédiate gagnent +3 à l'Armure (+5 si le cypher est de niveau 8 ou supérieur) contre des dégâts d'un type spécifié pendant une heure. Lancez un d100 pour déterminer l'effet.
 
 | d100  | Effect                |
 | ----- | --------------------- |
-| 01–12 | Fire                  |
-| 13–27 | Cold                  |
-| 28–39 | Acid                  |
-| 40–52 | Psychic               |
-| 53–65 | Sonic                 |
-| 66–72 | Electrical            |
+| 01–12 | Feu                  |
+| 13–27 | Froid                  |
+| 28–39 | Acide                 |
+| 40–52 | Psychique               |
+| 53–65 | Sonique                 |
+| 66–72 | Électrique            |
 | 73–84 | Poison                |
-| 85–95 | Blunt force           |
-| 96–00 | Slashing and piercing |
+| 85–95 | Force contondante           |
+| 96–00 | Tranchant et perçant |
 
 -----
 
-### Nullification Ray
+### Nullification Ray/Rayon de Nullification
 
-**Level:**  1d6 + 3
+**Niveau:**  1d6 + 3
 
-**Effect:**  The user can immediately end one ongoing effect within long range that is produced by an artifact, cypher, or special ability.
-
------
-
-### Nutrition And Hydration
-
-**Level:**  1d6 + 1
-
-**Effect:**  The user can go without food and water for a number of days equal to the cypher's level without ill effect.
+**Effet:**  L'utilisateur peut mettre immédiatement fin à un effet en cours dans la portée longue qui est produit par un artefact, un cypher ou une capacité spéciale.
 
 -----
 
-### Perfect Memory
+### Nutrition And Hydration/Nutrition et Hydratation
 
-**Level:**  1d6
+**Niveau:**  1d6 + 1
 
-**Effect:**  Allows the user to mentally record everything they see for thirty seconds per cypher level and store the recording permanently in their long-term memory. This cypher is useful for watching someone pick a specific lock, enter a complex code, or do something else that happens quickly.
-
------
-
-### Perfection
-
-**Level:**  1d6 + 2
-
-**Effect:**  The user treats their next action as if they had rolled a natural 20.
+**Effet:**  L'utilisateur peut se passer de nourriture et d'eau pendant un nombre de jours égal au niveau du cypher sans effets néfastes.
 
 -----
 
-### Personal Environment Field
+### Perfect Memory/Mémoire Parfaite
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6
 
-**Effect:**  Creates an aura of temperature and atmosphere that will sustain a human safely for a day. The aura extends to 1 foot (30 cm) around the user (double that radius if the cypher is level 7 or higher). It does not protect against sudden flashes of temperature change (such as from a heat ray). A small number of these cyphers (1%) accommodate the preferred environment of a nonhuman, nonterrestrial creature.
-
------
-
-### Phase Changer
-
-**Effect:**  Puts the user out of phase for one minute (two minutes if the cypher is level 6 or higher). During this time, they can pass through solid objects as though they were entirely insubstantial, like a ghost. They cannot make physical attacks or be physically attacked.
+**Effet:**  Permet à l'utilisateur d'enregistrer mentalement tout ce qu'il voit pendant trente secondes par niveau de cypher et de stocker cet enregistrement de manière permanente dans sa mémoire à long terme. Ce cypher est utile pour observer quelqu'un ouvrir une serrure spécifique, entrer un code complexe ou faire quelque chose d'autre qui se produit rapidement.
 
 -----
 
-### Phase Disruptor
+### Perfection/Perfection
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  Puts a portion of a physical structure (like a wall or floor) out of phase for one hour. It affects an area equal to one 5-foot (1.5 m) cube per cypher level. While the area is out of phase, creatures and objects can pass through it as if it were not there, although one cannot see through it, and it blocks light.
+**Effet:**  L'utilisateur considère sa prochaine action comme s'il avait lancé un naturel 20.
 
 -----
 
-### Poison (Emotion)
+### Personal Environment Field/Champ d'Environnement Personnel
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  The victim feels a specific emotion for one hour. Roll a d100 to determine the emotion.
+**Effet:**  Crée une aura de température et d'atmosphère qui soutiendra un humain en toute sécurité pendant un jour. L'aura s'étend sur 1 pied (30 cm) autour de l'utilisateur (doublez ce rayon si le cypher est de niveau 7 ou supérieur). Il ne protège pas contre des changements de température soudains (comme ceux d'un rayon thermique). Un petit nombre de ces cyphers (1 %) s'adaptent à l'environnement préféré d'une créature non humaine et non terrestre.
 
-{{< hint info >}}
-Most poisons are not considered cyphers, except for a very few that are unique.
-{{< /hint >}}
+-----
 
-| d100  | Emotion                                                                                                                         |
+### Phase Changer/Changeur de Phase
+
+**Effet:**  Met l'utilisateur hors de phase pendant une minute (deux minutes si le cypher est de niveau 6 ou supérieur). Pendant ce temps, il peut traverser des objets solides comme s'ils étaient entièrement immatériels, comme un fantôme. Il ne peut pas effectuer d'attaques physiques ni être attaqué physiquement.
+
+-----
+
+### Phase Disruptor/Disrupteur de Phase
+
+**Niveau:**  1d6 + 2
+
+**Effet:**  Met une partie d'une structure physique (comme un mur ou un sol) hors de phase pendant une heure. Cela affecte une zone égale à un cube de 5 pieds (1,5 m) par niveau de cypher. Pendant que la zone est hors de phase, les créatures et les objets peuvent y passer comme si elle n'existait pas, bien qu'on ne puisse pas voir à travers, et cela bloque la lumière.
+
+-----
+
+### Poison (Emotion)/Poison (Émotion)
+
+**Niveau:**  1d6 + 2
+
+**Effet:**  La victime ressent une émotion spécifique pendant une heure. Lancez un d100 pour déterminer l'émotion.
+
+{{< hint info >}} La plupart des poisons ne sont pas considérés comme des cyphers, à l'exception d'un très petit nombre qui sont uniques. {{< /hint >}}
+
+| d100  | Émotion                                                                                                                         |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 01–20 | Anger. Likely to attack anyone who disagrees with them. Very hard to interact with; all such actions are hindered by two steps. |
-| 21–40 | Fear. Flees in terror for one minute when threatened.                                                                           |
-| 41–60 | Lust. Cannot focus on any nonsexual activity.                                                                                   |
-| 61–75 | Sadness. All tasks are hindered.                                                                                                |
-| 76–85 | Complacency. Has no motivation. All tasks are hindered by two steps.                                                            |
-| 86–95 | Joy. Easy to interact with in a pleasant manner; all pleasant interaction tasks are eased.                                      |
-| 96–00 | Love. Much easier to interact with; all interaction tasks are eased by two steps, but temporary attachment is likely.           |
+| 01–20 | Colère. Prêt à attaquer quiconque n'est pas d'accord avec eux. Très difficile à interagir ; toutes ces actions sont entravées de deux étapes. |
+| 21–40 | Peur. Fuit dans la terreur pendant une minute lorsqu'il est menacé.                                                                        |
+| 41–60 | Désir. Ne peut se concentrer sur aucune activité non sexuelle.                                                                                |
+| 61–75 | Tristesse. Toutes les tâches sont entravées.                                                                                              |
+| 76–85 | Complaisance. N'a aucune motivation. Toutes les tâches sont entravées de deux étapes.                                                      |
+| 86–95 | Joie. Facile à interagir de manière agréable ; toutes les tâches d'interaction agréables sont facilitées.                                    |
+| 96–00 | Amour. Beaucoup plus facile à interagir ; toutes les tâches d'interaction sont facilitées de deux étapes, mais un attachement temporaire est probable.        |
 
 -----
 
-### Poison (Explosive)
+### Poison (Explosive)/Poison (Explosif)
 
-**Level:**  1d6 + 1
+**Niveau:**  1d6 + 1
 
-**Effect:**  Once this substance enters the bloodstream, it travels to the brain and reorganizes into an explosive that detonates when activated, inflicting 10 points of damage (ignores Armor). Roll a d100 to determine what activates the poison.
+**Effet:**  Une fois que cette substance pénètre dans la circulation sanguine, elle se dirige vers le cerveau et se réorganise en un explosif qui explose lorsqu'il est activé, infligeant 10 points de dégâts (ignore l'Armure). Lancez un d100 pour déterminer ce qui active le poison.
 
 | d100  | Activation                                                             |
 | ----- | ---------------------------------------------------------------------- |
-| 01–25 | The detonator is activated (must be within long range).                |
-| 26–40 | A specified amount of time passes.                                     |
-| 41–50 | The victim takes a specific action.                                    |
-| 51–55 | A specific note is sung or played on an instrument within short range. |
-| 56–60 | The victim smells a specific scent within immediate range.             |
-| 61–80 | The victim comes within long range of the detonator.                   |
-| 81–00 | The victim is no longer within long range of the detonator.            |
+| 01–25 | Le détonateur est activé (doit être à portée longue).            |
+| 26–40 | Un délai spécifié s'écoule.                                   |
+| 41–50 | La victime effectue une action spécifique.                                   |
+| 51–55 | Une note spécifique est chantée ou jouée sur un instrument à portée courte. |
+| 56–60 | La victime sent une odeur spécifique dans la portée immédiate.             |
+| 61–80 | La victime se rapproche à portée longue du détonateur.                  |
+| 81–00 | La victime n'est plus à portée longue du détonateur.          |
 
 -----
 
-### Poison (Mind Controlling)
+### Poison (Mind Controlling)/Poison (Contrôle Mental)
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  The victim must carry out a specific action in response to a specific trigger. Roll a d100 to determine the action.
+**Effet:**  La victime doit accomplir une action spécifique en réponse à un déclencheur spécifique. Lancez un d100 pour déterminer l'action.
 
 | d100  | Action                                                                                                          |
 | ----- | --------------------------------------------------------------------------------------------------------------- |
-| 01–20 | Lies down for one minute with eyes closed when told to do so.                                                   |
-| 21–40 | Flees in terror for one minute when threatened.                                                                 |
-| 41–60 | Answers questions truthfully for one minute.                                                                    |
-| 61–75 | Attacks close friend for one round when within immediate range.                                                 |
-| 76–85 | Obeys next verbal command given (if it is understood).                                                          |
-| 86–95 | For one day, becomes sexually attracted to the next creature of its own species that it sees.                   |
-| 96–00 | For one minute, moves toward the next red object seen in lieu of all other actions, ignoring self-preservation. |
+| 01–20 | Se couche pendant une minute les yeux fermés lorsqu'on lui demande.                                          |
+| 21–40 | Fuit dans la terreur pendant une minute lorsqu'elle est menacée.                                                             |
+| 41–60 | Répond aux questions honnêtement pendant une minute.                                                             |
+| 61–75 | 	Attaque un ami proche pendant un round lorsqu'il est à portée immédiate.                                           |
+| 76–85 | Obéit à la prochaine commande verbale donnée (si elle est comprise                                                    |
+| 86–95 | Pendant un jour, devient sexuellement attiré par la prochaine créature de sa propre espèce qu'il voit.           |
+| 96–00 | Pendant une minute, se dirige vers le prochain objet rouge aperçu au lieu de toutes les autres actions, ignorant l'autoconservation. |
 
 -----
 
-### Poison (Mind Disrupting)
+### Poison (Mind Disrupting)/Poison (Perturbation Mentale)
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  The victim suffers Intellect damage equal to the cypher's level and cannot take actions for a number of rounds equal to the cypher's level.
-
------
-
-### Psychic Communique
-
-**Level:**  1d6 + 2
-
-**Effect:** Allows the user to project a one-time, one-way telepathic message of up to ten words per cypher level, with an unlimited range, to anyone they know.
+**Effet:**  La victime subit des dégâts d'Intellect égaux au niveau du cypher et ne peut pas agir pendant un nombre de rounds égal au niveau du cypher.
 
 -----
 
-### Radiation Spike
+### Psychic Communique/Communication Psychique
 
-**Level:**  1d6 + 4
+**Niveau:**  1d6 + 2
 
-**Effect:**  Delivers a powerful burst of radiation that disrupts the tissue of any creature touched, inflicting damage equal to the cypher's level.
+**Effet:** Permet à l'utilisateur de projeter un message télépathique unique et unidirectionnel de jusqu'à dix mots par niveau de cypher, avec une portée illimitée, à quiconque qu'il connaît.
 
 -----
 
-### Ray Emitter
+### Radiation Spike/Pic de Radiation
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 4
 
-**Effect:**  Allows the user to project a ray of destructive energy up to very long range that inflicts damage equal to the cypher's level. Roll a d100 to determine the type of energy.
+**Effet:**  Inflige une forte impulsion de radiation qui perturbe les tissus de toute créature touchée, infligeant des dégâts égaux au niveau du cypher.
 
-#### Even Weirder Ray Emitters:
+-----
 
-* Turns target inside out
-* Inflicts damage and turns flesh blue
-* Renders target mute
-* Damages only plants
-* Damages only inorganic matter
-* Turns flesh to dead, stonelike material)
+### Ray Emitter/Émetteur de Rayon
 
-| d100  | Energy Type               |
+**Niveau:**  1d6 + 2
+
+**Effet:**  Permet à l'utilisateur de projeter un rayon d'énergie destructrice jusqu'à très longue portée, infligeant des dégâts égaux au niveau du cypher. Lancez un d100 pour déterminer le type d'énergie.
+
+#### Émetteurs de Rayon Encore Plus Étranges :
+
+* Retourne la cible à l'envers
+* Inflige des dégâts et rend la chair bleue
+* Rend la cible muette
+* Ne nuit qu'aux plantes
+* Ne nuit qu'à la matière inorganique
+* Transforme la chair en un matériau mort, semblable à de la pierre
+
+| d100  | Type d'Énergie             |
 | ----- | ------------------------- |
-| 01–50 | Heat/concentrated light   |
-| 51–60 | Cell-disrupting radiation |
+| 01–50 | Chaleur/lumière concentrée   |
+| 51–60 | Radiation perturbatrice cellulaire |
 | 61–80 | Force                     |
-| 81–87 | Magnetic wave             |
-| 88–93 | Molecular bond disruption |
-| 94–00 | Concentrated cold         |
+| 81–87 | Onde magnétique            |
+| 88–93 | Perturbation des liaisons moléculaires |
+| 94–00 | Froid concentré         |
 
 -----
 
-### Ray Emitter (Command)
+### Ray Emitter (Command)/Émetteur de Rayon (Commande)
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  Allows the user to project a ray up to long range (very long range if the cypher is level 6 or higher) that forces a target to obey the next verbal command given (if it is understood) for one round per cypher level.
-
------
-
-### Ray Emitter (Fear)
-
-**Level:**  1d6 + 2
-
-**Effect:**  Allows the user to project a ray up to long range (very long range if the cypher is level 6 or higher) that causes the target to flee in terror for one minute.
+**Effet:**  Permet à l'utilisateur de projeter un rayon jusqu'à portée longue (très longue portée si le cypher est de niveau 6 ou supérieur) qui force une cible à obéir à la prochaine commande verbale donnée (si elle est comprise) pendant un round par niveau de cypher.
 
 -----
 
-### Ray Emitter (Friend Slaying)
+### Ray Emitter (Fear)/ÉmetteurÉmetteur de Rayon (Peur) de Rayon (Peur)
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  Allows the user to project a ray up to long range (very long range if the cypher is level 6 or higher) that causes the target to attack its nearest ally for one round.
-
------
-
-### Ray Emitter (Mind Disrupting)
-
-**Level:**  1d6 + 2
-
-**Effect:**  Allows the user to project a ray of destructive energy up to very long range that inflicts Intellect damage equal to the cypher's level. Also, the victim cannot take actions for a number of rounds equal to the cypher's level.
+**Effet:**  Permet à l'utilisateur de projeter un rayon jusqu'à portée longue (très longue portée si le cypher est de niveau 6 ou supérieur) qui provoque la fuite de la cible dans la terreur pendant une minute.
 
 -----
 
-### Ray Emitter (Numbing)
+### Ray Emitter (Friend Slaying)/Émetteur de Rayon (Tuer un Ami)
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  Allows the user to project a ray of energy up to long range (very long range if the cypher is level 6 or higher) that numbs one limb of the target, making it useless for one minute. A small number of these devices (5%) induce numbness that lasts for one hour.
-
------
-
-### Ray Emitter (Paralysis)
-
-**Level:**  1d6 + 2
-
-**Effect:**  Allows the user to project a ray of energy up to very long range that paralyzes the target for one minute. A small number of these devices (5%) induce paralysis that lasts for one hour.
+**Effet:**  Permet à l'utilisateur de projeter un rayon jusqu'à portée longue (très longue portée si le cypher est de niveau 6 ou supérieur) qui pousse la cible à attaquer son allié le plus proche pendant un round.
 
 -----
 
-### Reality Spike
+### Ray Emitter (Mind Disrupting)/
 
-**Level:**  1d6 + 4
+**Niveau:**  1d6 + 2
 
-**Effect:**  Once activated, the cypher does not move---ever---even if activated in midair. A Might action will dislodge it, but then it is ruined.
-
------
-
-### Reflex Enhancer
-
-**Level:**  1d6
-
-**Effect:**  All tasks involving manual dexterity---such as pickpocketing, lockpicking, juggling, operating on a patient, defusing a bomb, and so on---are eased by two steps for one hour.
+**Effet:**  Permet à l'utilisateur de projeter un rayon d'énergie destructrice jusqu'à très longue portée qui inflige des dégâts d'Intellect égaux au niveau du cypher. De plus, la victime ne peut pas agir pendant un nombre de rounds égal au niveau du cypher.
 
 -----
 
-### Rejuvenator
+### Ray Emitter (Numbing)/Émetteur de Rayon (Engourdissement)
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  Restores a number of points equal to the cypher's level to one random stat Pool.
+**Effet:**  Permet à l'utilisateur de projeter un rayon d'énergie jusqu'à portée longue (très longue portée si le cypher est de niveau 6 ou supérieur) qui engourdit un membre de la cible, le rendant inutile pendant une minute. Un petit nombre de ces dispositifs (5 %) induisent un engourdissement qui dure une heure.
+
+-----
+
+### Ray Emitter (Paralysis)/Émetteur de Rayon (Paralysie)
+
+**Niveau:**  1d6 + 2
+
+**Effet:**  Permet à l'utilisateur de projeter un rayon d'énergie jusqu'à très longue portée qui paralyse la cible pendant une minute. Un petit nombre de ces dispositifs (5 %) induisent une paralysie qui dure une heure.
+
+-----
+
+### Reality Spike/Pic de Réalité
+
+**Niveau:**  1d6 + 4
+
+**Effet:**  Une fois activé, le cypher ne bouge jamais, même s'il est activé en l'air. Une action de Puissance le délogera, mais il sera alors ruiné.
+
+-----
+
+### Reflex Enhancer/Amplificateur de Réflexes
+
+**Niveau:**  1d6
+
+**Effet:**  Toutes les tâches impliquant de la dextérité manuelle - telles que le vol à la tire, le crochetage, le jonglage, les opérations chirurgicales sur un patient, le désamorçage d'une bombe, etc. - sont facilitées de deux niveaux pendant une heure.
+
+-----
+
+### Rejuvenator/Régénérateur
+
+**Niveau:**  1d6 + 2
+
+**Effet:**  Restaure un nombre de points égal au niveau du cypher à une Réserve de stat aléatoire.
 
 | d100  | Stat Pool      |
 | ----- | -------------- |
-| 01–50 | Might Pool     |
-| 51–75 | Speed Pool     |
-| 76–00 | Intellect Pool |
+| 01–50 | Réserve de Puissance    |
+| 51–75 | Réserve de Célérité     |
+| 76–00 | Réserve d'Intellect |
 
 -----
 
-### Remembering
+### Remembering/Souvenir
 
-**Level:**  1d6
+**Niveau:**  1d6
 
-**Effect:**  Allows the user to recall any one experience they've ever had. The experience can be no longer than one minute per cypher level, but the recall is perfect, so (for example) if they saw someone dial a phone, they will remember the number.
-
------
-
-### Remote Viewer
-
-**Level:**  1d6
-
-**Effect:**  For one hour per cypher level, the user can see everything going on in the vicinity of the cypher, regardless of the distance between them.
+**Effet:**  Permet à l'utilisateur de se souvenir de n'importe quelle expérience qu'il a déjà vécue. L'expérience ne peut pas durer plus d'une minute par niveau de cypher, mais le rappel est parfait, donc (par exemple) s'il a vu quelqu'un composer un numéro de téléphone, il se souviendra du numéro.
 
 -----
 
-### Repair Unit
+### Remote Viewer/Vision à Distance
 
-**Level:**  1d10
+**Niveau:**  1d6
 
-**Effect:**  The cypher becomes a multiarmed sphere that floats. It repairs one designated item (of its own level or lower) that has been damaged but not destroyed. The repair unit can also create spare parts, unless the GM rules that the parts are too specialized or rare (in which case, the unit repairs the device except for the specialized part). Repair time is 1d100 + 20 minutes.
-
------
-
-### Repeater
-
-**Level:**  1d6 + 1
-
-**Effect:**  For the next minute, the user's ranged weapon fires one additional time with ammo fabricated by the cypher. The weapon wielder can aim the free shot at the same target, or at a different target next to the first one.
+**Effet:**  Pendant une heure par niveau de cypher, l'utilisateur peut voir tout ce qui se passe dans les environs du cypher, quelle que soit la distance entre eux.
 
 -----
 
-### Repel
+### Repair Unit/Unité de Réparation
 
-**Level:**  1d6 + 1
+**Niveau:**  1d10
 
-**Effect:**  One NPC within immediate range who is of a level lower than the cypher decides to leave, using their next five rounds to move away quickly.
-
------
-
-### Retaliation
-
-**Level:**  1d6
-
-**Effect:**  For the next day, anyone striking the user receives a small burst of electricity that inflicts 1 point of damage (2 points if the cypher is level 4 or higher, 3 points if the cypher is level 6 or higher). No action or roll is required by the user.
+**Effet:**  Le cypher devient une sphère multi-bras qui flotte. Il répare un objet désigné (de son propre niveau ou inférieur) qui a été endommagé mais pas détruit. L'unité de réparation peut également créer des pièces de rechange, sauf si La Meneuse décide que les pièces sont trop spécialisées ou rares (dans ce cas, l'unité répare le dispositif, sauf pour la pièce spécialisée). Le temps de réparation est de 1d100 + 20 minutes.
 
 -----
 
-### Secret
+### Repeater/Répéteur
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 1
 
-**Effect:**  The user can ask the GM one question and get a general answer. The GM assigns a level to the question, so the more obscure the answer, the more difficult the task. Generally, knowledge that a PC could find by looking somewhere other than their current location is level 1, and obscure knowledge of the past is level 7. Gaining knowledge of the future is level 10, and such knowledge is always open to interpretation. The cypher cannot provide an answer to a question above its level.
-
------
-
-### Sheen
-
-**Level:**  1d6
-
-**Effect:**  For one week, the user's cells are coated with a protective veneer that resists damage (+1 to Armor, or +2 to Armor if the cypher is level 5 or higher) and eases Might defense rolls by two steps. However, healing is more difficult during this time; all recovery rolls suffer a –1 penalty.
+**Effet:**  Pendant la minute suivante, l'arme à distance de l'utilisateur tire une fois de plus avec des munitions fabriquées par le cypher. Le porteur de l'arme peut viser le tir supplémentaire sur la même cible ou sur une cible différente à proximité de la première.
 
 -----
 
-### Shock Attack
+### Repel/Repousser
 
-**Level:**  1d6
+**Niveau:**  1d6 + 1
 
-**Effect:**  For the next day, each time the user strikes a solid creature or object, the attack generates a burst of electricity, inflicting 1 additional point of damage (2 points if the cypher is level 4 or higher, 3 points if the cypher is level 6 or higher).
-
------
-
-### Shocker
-
-**Level:**  1d6 + 4
-
-**Effect:**  Delivers a powerful burst of electricity that shocks any creature touched, inflicting damage equal to the cypher's level.
+**Effet:**  Un PNJ à portée immédiate qui est d'un niveau inférieur au cypher décide de partir, utilisant ses cinq prochains rounds pour s'éloigner rapidement.
 
 -----
 
-### Skill Boost
+### Retaliation/Rétaliation
 
-**Level:**  1d6
+**Niveau:**  1d6
 
-**Effect:**  Dramatically but temporarily alters the user's mind and body so they can ease one specific kind of physical action by three steps. Once activated, this boost can be used a number of times equal to the cypher's level, but only within a twenty-four-hour period. The boost takes effect each time the action is performed. For example, a level 3 cypher boosts the first three times that action is attempted. Roll a d100 to determine the action.
+**Effet:**  Pendant le jour suivant, quiconque frappant l'utilisateur reçoit une petite décharge d'électricité infligeant 1 point de dégâts (2 points si le cypher est de niveau 4 ou supérieur, 3 points si le cypher est de niveau 6 ou supérieur). Aucune action ou lancer n'est requis de la part de l'utilisateur.
+-----
+
+### Secret/Secret
+
+**Niveau:**  1d6 + 2
+
+**Effet:**  L'utilisateur peut poser une question au MJ et obtenir une réponse générale. Le MJ attribue un niveau à la question, donc plus la réponse est obscure, plus la tâche est difficile. En général, les connaissances qu'un PJ pourrait trouver en cherchant ailleurs que dans son emplacement actuel sont de niveau 1, et les connaissances obscures du passé sont de niveau 7. Acquérir des connaissances sur l'avenir est de niveau 10, et ces connaissances sont toujours sujettes à interprétation. Le cypher ne peut pas fournir de réponse à une question supérieure à son niveau.
+
+-----
+
+### Sheen/Brillance
+
+**Niveau:**  1d6
+
+**Effet:**  For one week, the user's cells are coated with a protective veneer that resists damage (+1 à l'Armure, or +2 à l'Armure if the cypher is level 5 or higher) and eases Défense de Puissance rolls by two steps. However, healing is more difficult during this time; all recovery rolls suffer a –1 penalty.
+
+-----
+
+### Shock Attack/Attaque Électrique
+
+**Niveau:**  1d6
+
+**Effet:**  Pendant une semaine, les cellules de l'utilisateur sont recouvertes d'un vernis protecteur qui résiste aux dégâts (+1 à l'Armure, ou +2 à l'Armure si le cypher est de niveau 5 ou supérieur) et facilite les lancers de défense de Puissance de deux niveaux. Cependant, la guérison est plus difficile pendant cette période ; tous les lancers de récupération subissent un malus de -1.
+
+-----
+
+### Shocker/Électrisant
+
+**Niveau:**  1d6 + 4
+
+**Effet:**  Inflige une puissante décharge d'électricité qui choque toute créature touchée, infligeant des dégâts égaux au niveau du cyphe
+
+-----
+
+### Skill Boost/Amélioration de Compétence
+
+**Niveau:**  1d6
+
+**Effet:**  Modifie de manière spectaculaire mais temporaire l'esprit et le corps de l'utilisateur afin qu'il puisse faciliter un type spécifique d'action physique de trois niveaux. Une fois activée, cette amélioration peut être utilisée un nombre de fois égal au niveau du cypher, mais seulement dans un délai de vingt-quatre heures. L'amélioration prend effet chaque fois que l'action est réalisée. Par exemple, un cypher de niveau 3 améliore les trois premières fois que cette action est tentée. Lancez un d100 pour déterminer l'action.
 
 | d100  | Action            |
 | ----- | ----------------- |
-| 01–15 | Melee attack      |
-| 16–30 | Ranged attack     |
-| 31–40 | Speed defense     |
-| 41–50 | Might defense     |
-| 51–60 | Intellect defense |
-| 61–68 | Jumping           |
-| 69–76 | Climbing          |
-| 77–84 | Running           |
-| 85–92 | Swimming          |
-| 93–94 | Sneaking          |
-| 95–96 | Balancing         |
-| 97–98 | Perceiving        |
-| 99    | Carrying          |
-| 00    | Escaping          |
+| 01–15 | Attaque au corps à corps      |
+| 16–30 | Attaque à distance     |
+| 31–40 | Défense de Célérité     |
+| 41–50 | Défense de Puissance     |
+| 51–60 | Défense d'Intellect |
+| 61–68 | Saut           |
+| 69–76 | Escalade          |
+| 77–84 | Course           |
+| 85–92 | Natation          |
+| 93–94 | Furtivité          |
+| 95–96 | Équilibre         |
+| 97–98 | Perception        |
+| 99    | Portage          |
+| 00    | Évasion          |
 
 -----
 
-### Slave Maker
+### Slave Maker/Fabricant d'Esclaves
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  To activate the cypher, the user must succeed on a melee attack against a creature about the size of the user and whose level does not exceed the cypher's level. The cypher bonds to the target, who immediately becomes calm. The target awaits the user's commands and carries out all orders to the best of its ability. The target remains so enslaved for a number of hours equal to the cypher's level minus the target's level. (If the result is 0, the target is enslaved for only one minute.)
-
------
-
-### Sleep Inducer
-
-**Level:**  1d6
-
-**Effect:**  Touch puts the victim to sleep for ten minutes per cypher level or until awoken by a violent action or an extremely loud noise.
+**Effet:**   Pour activer le cypher, l'utilisateur doit réussir une attaque au corps à corps contre une créature de taille comparable à la sienne et dont le niveau ne dépasse pas celui du cypher. Le cypher se lie à la cible, qui devient immédiatement calme. La cible attend les commandes de l'utilisateur et exécute tous les ordres du mieux qu'elle peut. La cible reste ainsi asservie pendant un nombre d'heures égal au niveau du cypher moins le niveau de la cible. (Si le résultat est 0, la cible est asservie pendant seulement une minute.)
 
 -----
 
-### Sniper Module
+### Sleep Inducer/Inducteur de Sommeil
 
-**Level:**  1d6
+**Niveau:**  1d6
 
-**Effect:**  For the next hour per cypher level, the effective range of the user's ranged weapon increases by one category (immediate to short, short to long, long to very long, very long to 1,000 feet \[300 m\]). A weapon with a range greater than very long has its range doubled.
-
------
-
-### Solvent
-
-**Level:**  1d10
-
-**Effect:**  Dissolves 1 cubic foot of material each round. After one round per cypher level, the cypher becomes inert.
+**Effet:**  Un contact endort la victime pendant dix minutes par niveau de cypher ou jusqu'à ce qu'elle soit réveillée par une action violente ou un bruit extrêmement fort.
 
 -----
 
-### Sonic Hole
+### Sniper Module/Module de Tireur d'Élite
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6
 
-**Effect:**  Draws all sound within long range into the device for one round per cypher level. Within the affected area, no sound can be heard.
-
-(Sonic holes are much-loved by thieves everywhere but can also be used for less nefarious purposes, such as hunting prey and sneaking past enemies.)
+**Effet:**  Pendant l'heure suivante par niveau de cypher, la portée effective de l'arme à distance de l'utilisateur augmente d'une catégorie (immédiate à courte, courte à longue, longue à très longue, très longue à 1 000 pieds (300m)). Une arme ayant une portée supérieure à très longue voit sa portée doublée.
 
 -----
 
-### Sound Dampener
+### Solvent/Solvant
 
-**Level:**  1d6 + 2
+**Niveau:**  1d10
 
-**Effect:**  Dampens all sound within immediate range for one minute per cypher level, providing an asset on stealth actions by all creatures in the area.
-
------
-
-### Spatial Warp
-
-**Level:**  1d6 + 4
-
-**Effect:**  When affixed to a device that affects a single target at range, that range is increased to 1 mile (1.5 km) with no penalties. Space is temporarily warped in terms of seeing and reaching the target. If direct line of sight is important to the device's effect, it remains important. The spatial warp lasts 10 minutes per cypher level.
+**Effet:**  Dissout 1 pied cube de matériel chaque round. Après un round par niveau de cypher, le cypher devient inerte.
 
 -----
 
-### Speed Boost
+### Sonic Hole/Trou Sonore
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  Adds 1 to the user's Speed Edge for one hour (adds 2 if the cypher is level 5 or higher).
+**Effet:**  Attire tout le son dans un rayon de longue portée dans le dispositif pendant un round par niveau de cypher. Dans la zone affectée, aucun son ne peut être entendu.
 
------
-
-### Spy
-
-**Level:**  1d6 + 2
-
-**Effect:**  Produces a tiny spying object that resists detection as a level 8 creature. The object moves at great speed, mapping and scanning an unknown area. It moves 500 feet (150 m) per level, scanning an area up to 50 feet (15 m) away from it. It identifies basic layout, creatures, and major energy sources. Its movement is blocked by any physical or energy barrier. At the end of its mapping run, it returns to the user and reports. If it discovers a predefined target during its run (such as "a creature of level 5 or higher," "a locked door," "a major energy source," and so on), it detonates instead, dealing damage equal to the cypher's level (half electrical damage, half shrapnel damage) to all creatures and objects in short range.
+(Les trous sonores sont très appréciés des voleurs, mais peuvent également être utilisés à des fins moins néfastes, comme la chasse au gibier et le passage furtif devant des ennemis.)
 
 -----
 
-### Stasis Keeper
+### Sound Dampener/Atténuateur de Son
 
-**Level:**  1d6
+**Niveau:**  1d6 + 2
 
-**Effect:**  Puts a subject into stasis for a number of days equal to the cypher's level, or until it is violently disturbed. An object in stasis does not age and comes out of the stasis alive and in the same condition as it went in, with no memory of the period of inactivity.
+**Effet:**  Atténue tout son dans un rayon immédiat pendant une minute par niveau de cypher, offrant un Avantage sur les actions de furtivité pour toutes les créatures de la zone.
+-----
+
+### Spatial Warp/Distorsion Spatiale
+
+**Niveau:**  1d6 + 4
+
+**Effet:**  Lorsqu'il est fixé à un dispositif qui affecte une cible unique à distance, cette distance est augmentée à 1 mile (1,5 km) sans pénalités. L'espace est temporairement déformé en termes de visibilité et d'atteinte de la cible. Si la ligne de vue directe est importante pour l'effet du dispositif, elle reste importante. La distorsion spatiale dure 10 minutes par niveau de cypher.
 
 -----
 
-### Stim
+### Speed Boost/Amélioration de Célérité
 
-**Level:**  1d6
+**Niveau:**  1d6 + 2
 
-**Effect:**  Eases the user's next action taken by three steps.
-
------
-
-### Strength Boost
-
-**Level:**  1d6 + 2
-
-**Effect:**  Adds 1 to Might Edge for one hour (or 2 if the cypher is level 5 or higher).
+**Effet:**  Ajoute 1 à l'Avantage de Célérité de l'utilisateur pendant une heure (ajoute 2 si le cypher est de niveau 5 ou supérieur).
 
 -----
 
-### Strength Enhancer
+### Spy/Espion
 
-**Level:**  1d6
+**Niveau:**  1d6 + 2
 
-**Effect:**  All noncombat tasks involving raw strength---such as breaking down a door, lifting a heavy boulder, forcing open elevator doors, competing in a weightlifting competition, and so on---are eased by two steps for one hour.
-
------
-
-### Subdual Field
-
-**Level:**  1d6 + 3
-
-**Effect:**  Two rounds after being activated, the device creates an invisible field that fills a specified area (such as a cube a short distance across) within long range. The field lasts for one minute. It affects the minds of thinking beings within the field, preventing them from taking hostile actions. The effect lasts as long as they remain in the field and for 1d6 rounds after, although an Intellect defense roll is allowed each round to act normally (both in the field and after leaving it).
+**Effet:**  Produit un petit objet d'espionnage qui résiste à la détection comme une créature de niveau 8. L'objet se déplace à grande vitesse, cartographiant et scannant une zone inconnue. Il se déplace de 500 pieds (150 m) par niveau, scannant une zone jusqu'à 50 pieds (15 m) autour de lui. Il identifie la disposition de base, les créatures et les principales sources d'énergie. Son mouvement est bloqué par toute barrière physique ou énergétique. À la fin de son parcours de cartographie, il revient à l'utilisateur et fait un rapport. S'il découvre une cible prédéfinie durant son parcours (comme "une créature de niveau 5 ou supérieur", "une porte verrouillée", "une source d'énergie majeure", etc.), il explose à la place, infligeant des dégâts égaux au niveau du cypher (moitié de dégâts électriques, moitié de dégâts d'éclats) à toutes les créatures et objets à portée courte.
 
 -----
 
-### Telepathy
+### Stasis Keeper/Gardien de Stase
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6
 
-**Effect:** For one hour, the device enables long-range mental communication with anyone the user can see.
-
------
-
-### Teleporter (Bounder)
-
-**Level:**  1d6 + 2
-
-**Effect:**  User teleports up to 100 **×** the cypher level in feet to a location they can see. They arrive safely with their possessions but cannot take anything else with them.
+**Effet:**  Met un sujet en stase pendant un nombre de jours égal au niveau du cypher, ou jusqu'à ce qu'il soit violemment perturbé. Un objet en stase ne vieillit pas et sort de la stase vivant et dans le même état que celui dans lequel il est entré, sans mémoire de la période d'inactivité.
 
 -----
 
-### Teleporter (Interstellar)
+### Stim/Stimulant
 
-**Level:**  1d6 + 4
+**Niveau:**  1d6
 
-**Effect:**  User teleports anywhere in the galaxy to a location they have previously visited or seen. They arrive safely with their possessions but cannot take anything else with them.
-
------
-
-### Teleporter (Planetary)
-
-**Level:**  1d6 + 4
-
-**Effect:**  User teleports anywhere on the planet to a location they have previously visited or seen. They arrive safely with their possessions but cannot take anything else with them.
+**Effet:**  Facilite la prochaine action de l'utilisateur de trois crans.
 
 -----
 
-### Teleporter (Traveler)
+### Strength Boost/Amélioration de Puissance
 
-**Level:**  1d6 + 4
+**Niveau:**  1d6 + 2
 
-**Effect:**  User teleports up to 100 **x** the cypher level in miles to a location they have previously visited or seen. They arrive safely with their possessions but cannot take anything else with them.
-
------
-
-### Temporal Viewer
-
-**Level:**  1d6 + 4
-
-**Effect:**  Displays moving images and sound, up to ten minutes per cypher level in length, depicting events that occurred at the current location up to one year prior. The user specifies the time period shown by the viewer.
+**Effet:**  Ajoute 1 à l'Avantage de Puissance pendant une heure (ou 2 si le cypher est de niveau 5 ou supérieur).
 
 -----
 
-### Time Dilation (Defensive)
+### Strength Enhancer/Amplificateur de Puissance
 
-**Level:**  1d6
+**Niveau:**  1d6
 
-**Effect:**  For the next twenty-four hours, when the user is attacked, they move in rapid, seemingly random jumps, a few inches to one side or the other. This is an asset that modifies the user's defense rolls by two steps (three steps if the cypher is level 6 or higher).
-
------
-
-### Time Dilation (Offensive)
-
-**Level:**  1d6
-
-**Effect:**  For the next twenty-four hours, when the user makes a melee attack, they move at almost instantaneous speed, easing their attacks by two steps (three steps if the cypher is level 6 or higher).
+**Effet:**  Toutes les tâches non-combattantes impliquant de la force brute---comme forcer une porte, soulever un lourd rocher, ouvrir des portes d'ascenseur, participer à une compétition de haltérophilie, etc.---sont facilitées de deux niveaux pendant une heure.
 
 -----
 
-### Tissue Regeneration
+### Subdual Field/Champ de Subjugation
 
-**Level:**  1d6 + 4
+**Niveau:**  1d6 + 3
 
-**Effect:**  For the next hour, the user regains 1 point lost to damage per round, up to a total number of points equal to twice the cypher's level. As each point is regained, they choose which Pool to add it to. If all their Pools are at maximum, the regeneration pauses until they take more damage, at which point it begins again (if any time remains in the hour) until the duration expires.
+**Effet:**  Deux rounds après son activation, le dispositif crée un champ invisible qui remplit une zone spécifiée (comme un cube d'une courte distance) dans un rayon de longue portée. Le champ dure une minute. Il affecte les esprits des êtres pensants à l'intérieur du champ, les empêchant de prendre des actions hostiles. L'effet dure tant qu'ils restent dans le champ et pendant 1d6 rounds après, bien qu'un jet de Défense d'Intellect soit autorisé chaque round pour agir normalement (à la fois dans le champ et après l'avoir quitté).
 
-{{< hint info >}}
-A tissue regeneration cypher can be used to regenerate a lost appendage (an arm, a foot, a leg, and so on) or to repair scar tissue from burns and other tissue-related disfigurements. If the cypher is used in this fashion, it restores only 1d6 points over the hour duration.
+-----
+
+### Telepathy/Télépathie
+
+**Niveau:**  1d6 + 2
+
+**Effet:** Pendant une heure, le dispositif permet une communication mentale à longue distance avec quiconque que l'utilisateur peut voir.
+
+-----
+
+### Teleporter (Bounder)/Téléporteur (Sauter)
+
+**Niveau:**  1d6 + 2
+
+**Effet:**  L'utilisateur se téléporte jusqu'à 100 x le niveau du cypher en pieds vers un endroit qu'il peut voir. Il arrive en toute sécurité avec ses possessions, mais ne peut rien d'autre emporter avec lui.
+-----
+
+### Teleporter (Interstellar)/Téléporteur (Interstellaire)
+
+**Niveau:**  1d6 + 4
+
+**Effet:**  L'utilisateur se téléporte n'importe où dans la galaxie vers un endroit qu'il a déjà visité ou vu. Il arrive en toute sécurité avec ses possessions, mais ne peut rien d'autre emporter avec lui.
+
+-----
+
+### Teleporter (Planetary)/Téléporteur (Planétaire)
+
+**Niveau:**  1d6 + 4
+
+**Effet:**  L'utilisateur se téléporte n'importe où sur la planète vers un endroit qu'il a déjà visité ou vu. Il arrive en toute sécurité avec ses possessions, mais ne peut rien d'autre emporter avec lui.
+
+-----
+
+### Teleporter (Traveler)/Téléporteur (Voyageur)
+
+**Niveau:**  1d6 + 4
+
+**Effet:**  L'utilisateur se téléporte jusqu'à 100 x le niveau du cypher en miles vers un endroit qu'il a déjà visité ou vu. Il arrive en toute sécurité avec ses possessions, mais ne peut rien d'autre emporter avec lui.
+
+-----
+
+### Temporal Viewer/Vision Temporelle
+
+**Niveau:**  1d6 + 4
+
+**Effet:**  Affiche des images et des sons animés, jusqu'à dix minutes par niveau de cypher, représentant des événements qui se sont produits à l'emplacement actuel jusqu'à un an auparavant. L'utilisateur spécifie la période de temps montrée par le visualiseur.
+
+-----
+
+### Time Dilation (Defensive)/Dilatation Temporelle (Défensive)
+
+**Niveau:**  1d6
+
+**Effet:**  Pendant les vingt-quatre heures suivantes, lorsque l'utilisateur est attaqué, il se déplace par des sauts rapides, apparemment aléatoires, de quelques centimètres d'un côté ou de l'autre. Cela constitue un Avantage qui modifie les jets de défense de l'utilisateur de deux niveaux (trois niveaux si le cypher est de niveau 6 ou supérieur).
+
+-----
+
+### Time Dilation (Offensive)/Dilatation Temporelle (Offensive)
+
+**Niveau:**  1d6
+
+**Effet:**  Pendant les vingt-quatre heures suivantes, lorsque l'utilisateur effectue une attaque au corps à corps, il se déplace à une vitesse presque instantanée, facilitant ses attaques de deux niveaux (trois niveaux si le cypher est de niveau 6 ou supérieur).
+
+-----
+
+### Tissue Regeneration/Régénération des Tissus
+
+**Niveau:**  1d6 + 4
+
+**Effet:**  Pendant la prochaine heure, l'utilisateur regagne 1 point perdu à cause de dégâts par round, jusqu'à un total de points égal au double du niveau du cypher. À chaque point regagné, il choisit à quelle Réserve l'ajouter. Si toutes ses Réserves sont à leur maximum, la régénération fait une pause jusqu'à ce qu'il subisse d'autres dégâts, moment auquel elle recommence (s'il reste du temps dans l'heure) jusqu'à l'expiration de la durée.
+
+{{< hint info >}} 
+Un cypher de régénération des tissus peut être utilisé pour régénérer un membre perdu (un bras, un pied, une jambe, etc.) ou pour réparer des cicatrices dues à des brûlures et d'autres déformations liées aux tissus. Si le cypher est utilisé de cette manière, il ne restaure qu'1d6 points pendant la durée d'une heure. 
 {{< /hint >}}
 
 -----
 
-### Tracer
+### Tracer/Traceur
 
-**Level:**  1d6
+**Niveau:**  1d6
 
-**Effect:**  Fires a microscopic tracer that clings to any surface within short range. For the next twenty-four hours, the launcher shows the distance and direction to the tracer, as long as it is within 1 mile (100 miles if the cypher is level 3 or higher, in the same dimension if the cypher is level 6 or higher).
-
------
-
-### Trick Embedder
-
-**Level:**  1d6
-
-**Effect:**  A nonintelligent animal immediately and perfectly learns one trick (two tricks if the cypher is level 4 or higher) it is capable of physically performing (roll over, heel, spin, shake, go to an indicated place within long range, and so on). The trick must be designated when the cypher is activated.
+**Effet:**  Tire un traceur microscopique qui s'accroche à toute surface dans un rayon de courte portée. Pendant les vingt-quatre heures suivantes, le lanceur indique la distance et la direction vers le traceur, tant qu'il est à moins de 1 mile (100 miles si le cypher est de niveau 3 ou supérieur, dans la même dimension si le cypher est de niveau 6 ou supérieur).
 
 -----
 
-### Uninterruptible Power Source
+### Trick Embedder/Intégrateur de Tours
 
-**Level:**  1d6 + 4
+**Niveau:**  1d6
 
-**Effect:** Provides power to another device for up to a day. The device to be powered can be as simple as a light source or as complex as a small starcraft, assuming the cypher's level is equal to the item's power requirements. A desk lamp is a level 1 power requirement, a car engine is a level 5 power requirement, and a starship is a level 10 power requirement.
-
------
-
-### Vanisher
-
-**Level:**  1d6 + 2
-
-**Effect:**  The user becomes invisible for five minutes per cypher level, during which time they are specialized in stealth and Speed defense tasks. This effect ends if they do something to reveal their presence or position---attacking, using an ability, moving a large object, and so on. If this occurs, they can regain the remaining invisibility effect by taking an action to focus on hiding their position.
+**Effet:**  Un animal non intelligent apprend immédiatement et parfaitement un tour (deux tours si le cypher est de niveau 4 ou supérieur) qu'il est capable d'exécuter physiquement (rouler, rester au pied, tourner, serrer la main, se rendre à un endroit indiqué dans un rayon de longue portée, etc.). Le tour doit être désigné lorsque le cypher est activé.
 
 -----
 
-### Visage Changer
+### Uninterruptible Power Source/Source d'Énergie Ininterruptible
 
-**Level:**  1d6
+**Niveau:**  1d6 + 4
 
-**Effect:** Changes the appearance of one human-sized creature, providing an asset to disguise tasks (easing them by two steps if the cypher is level 5 or higher). The change takes ten minutes to apply and lasts for twenty-four hours.
-
------
-
-### Visual Displacement Device
-
-**Level:**  1d6
-
-**Effect:**  Projects holographic images of the user to confuse attackers. The images appear around the user, giving them an asset to Speed defense actions for ten minutes per cypher level.
+**Effet:** Fournit de l'énergie à un autre dispositif pendant jusqu'à un jour. Le dispositif à alimenter peut être aussi simple qu'une source lumineuse ou aussi complexe qu'un petit vaisseau spatial, à condition que le niveau du cypher soit égal aux exigences en énergie de l'objet. Une lampe de bureau nécessite un niveau de 1, un moteur de voiture nécessite un niveau de 5, et un vaisseau spatial nécessite un niveau de 10.
 
 -----
 
-### Vocal Translator
+### Vanisher/Disparition
 
-**Level:**  1d6
+**Niveau:**  1d6 + 2
 
-**Effect:**  For twenty-four hours per cypher level, translates everything said by the user into a language that anyone can understand.
-
------
-
-### Warmth
-
-**Level:**  1d6
-
-**Effect:**  Keeps the user warm and comfortable, even in the harshest cold temperatures, for twenty-four hours. During this time, the user has Armor equal to the cypher's level that protects against cold damage.
+**Effet:**  L'utilisateur devient invisible pendant cinq minutes par niveau de cypher, pendant lesquelles il est spécialisé dans les tâches de furtivité et de Défense de Célérité. Cet effet prend fin s'il fait quelque chose pour révéler sa présence ou sa position---attaquer, utiliser une capacité, déplacer un gros objet, etc. Si cela se produit, il peut récupérer l'effet d'invisibilité restant en prenant une action pour se concentrer sur le fait de cacher sa position.
 
 -----
 
-### Water Adapter
+### Visage Changer/Changeur de Visage
 
-**Level:**  1d6
+**Niveau:**  1d6
 
-**Effect:**  The user can breathe underwater and operate at any depth (without facing the debilitating consequences of changing pressure) for four hours per cypher level. This cypher can also be used in the regular atmosphere, allowing the user to ignore ill effects from very low or very high atmospheric pressure. The cypher does not protect against vacuum.
+**Effet:** Change l'apparence d'une créature de taille humaine, fournissant un Avantage pour les tâches de déguisement (facilitant ces tâches de deux niveaux si le cypher est de niveau 5 ou supérieur). Le changement prend dix minutes à appliquer et dure vingt-quatre heures.
 
 -----
 
-### Weapon Enhancement
+### Visual Displacement Device/Dispositif de Déplacement Visuel
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6
 
-**Effect:**  Modifies a weapon's attack in a particular fashion for ten minutes per cypher level. Roll a d100 for the modification.
+**Effet:**  Projette des images holographiques de l'utilisateur pour tromper les attaquants. Les images apparaissent autour de l'utilisateur, lui offrant un Avantage pour les actions de Défense de Célérité pendant dix minutes par niveau de cypher.
+
+-----
+
+### Vocal Translator/Traducteur Vocal
+
+**Niveau:**  1d6
+
+**Effet:**  Pendant vingt-quatre heures par niveau de cypher, traduit tout ce que dit l'utilisateur dans une langue que tout le monde peut comprendre.
+
+-----
+
+### Warmth/Chaleur
+
+**Niveau:**  1d6
+
+**Effet:**  Garde l'utilisateur au chaud et à l'aise, même dans les températures les plus froides, pendant vingt-quatre heures. Pendant ce temps, l'utilisateur bénéficie d'une Armure égale au niveau du cypher qui protège contre les dégâts de froid.
+
+-----
+
+### Water Adapter/Adaptateur Aquatique
+
+**Niveau:**  1d6
+
+**Effet:**  L'utilisateur peut respirer sous l'eau et opérer à n'importe quelle profondeur (sans subir les conséquences débilitantes des changements de pression) pendant quatre heures par niveau de cypher. Ce cypher peut également être utilisé dans l'atmosphère normale, permettant à l'utilisateur d'ignorer les effets néfastes d'une pression atmosphérique très basse ou très élevée. Le cypher ne protège pas contre le vide.
+
+-----
+
+### Weapon Enhancement/Amélioration d'Arme
+
+**Niveau:**  1d6 + 2
+
+**Effet:**  Modifie l'attaque d'une arme d'une manière particulière pendant dix minutes par niveau de cypher. Lancez un d100 pour la modification.
 
 | d100  | Modification                                                                                                       |
 | ----- | ------------------------------------------------------------------------------------------------------------------ |
-| 01–10 | Eases attack by one step                                                                                           |
-| 11–20 | Deals bonus electrical damage equal to cypher level                                                                |
-| 21–30 | Deals bonus cold damage equal to cypher level                                                                      |
-| 31–40 | Deals bonus poison damage equal to cypher level                                                                    |
-| 41–50 | Deals bonus acid damage equal to cypher level                                                                      |
-| 51–60 | Deals bonus fire damage equal to cypher level                                                                      |
-| 61–70 | Deals bonus sonic damage equal to cypher level                                                                     |
-| 71–80 | Deals bonus psychic damage equal to cypher level                                                                   |
-| 81–90 | Knockback (on 18–20 on successful attack roll, target knocked back 30 feet [9 m])                                  |
-| 91–95 | Holding (on 18–20 on successful attack roll, target can't act on its next turn)                                    |
-| 96–97 | Eases attack by two steps                                                                                          |
-| 98    | Banishing (on 18–20 on successful attack roll, target is sent to random location at least 100 miles [160 km] away) |
-| 99    | Explodes, inflicting damage equal to cypher level to all within immediate range                                    |
-| 00    | Heart-seeking (on 18–20 on successful attack roll, target is killed)                                               |
+| 01–10 | Facilite l'attaque d'un niveau                                                                                   |
+| 11–20 | Inflige des dégâts électriques supplémentaires égaux au niveau du cypher                                                        |
+| 21–30 | Inflige des dégâts de froid supplémentaires égaux au niveau du cypher                                                              |
+| 31–40 | Inflige des dégâts de poison supplémentaires égaux au niveau du cypher                                                           |
+| 41–50 | Inflige des dégâts acides supplémentaires égaux au niveau du cypher                                                            |
+| 51–60 | Inflige des dégâts de feu supplémentaires égaux au niveau du cypher                                              |
+| 61–70 | Inflige des dégâts soniques supplémentaires égaux au niveau du cypher                                                       |
+| 71–80 | Inflige des dégâts psychiques supplémentaires égaux au niveau du cypher                                                       |
+| 81–90 | Recul (sur 18–20 lors d'un jet d'attaque réussi, la cible est repoussée de 30 pieds [9 m])                      |
+| 91–95 | Immobilisation (sur 18–20 lors d'un jet d'attaque réussi, la cible ne peut pas agir lors de son prochain tour)                           |
+| 96–97 | Facilite l'attaque de deux niveaux                                                                                |
+| 98    | Exil (sur 18–20 lors d'un jet d'attaque réussi, la cible est envoyée à un endroit aléatoire à au moins 100 miles [160 km] de distance) |
+| 99    | Explose, infligeant des dégâts égaux au niveau du cypher à tous ceux dans la portée immédiate                          |
+| 00    | Ciblage du cœur (sur 18–20 lors d'un jet d'attaque réussi, la cible est tuée)                                      |
 
 -----
 
-### Wings
+### Wings/Ailes
 
-**Level:**  1d6 + 2
+**Niveau:**  1d6 + 2
 
-**Effect:**  User can fly at their normal running speed for ten minutes per cypher level.
-
------
-
-### X-Ray Viewer
-
-**Level:**  1d6 + 4
-
-**Effect:**  Allows the user to see through up to 2 feet (60 cm) of material of a level lower than the cypher. The effect lasts for one minute per cypher level.
+**Effet:**  L'utilisateur peut voler à sa vitesse de course normale pendant dix minutes par niveau de cypher.
 
 -----
 
-### Zero Point Field
+### X-Ray Viewer/Vision aux Rayons X
 
-**Level:**  1d6 + 3
+**Niveau:**  1d6 + 4
 
-**Effect:**  Renders an inanimate object outside the effects of most energy for one minute. This means the object cannot be harmed, moved, or manipulated in any way. It remains in place (even in midair).
-
-## Power Boost Cyphers
-
-These cyphers increase, modify, or improve a character's existing powers. A burst boost cypher, for example, allows someone with the Bears a Halo of Fire focus to create a blast of fire in all directions, one time. Imagine this as being a fire-using superhero's ability to "go nova."
-
-Power boost cyphers affect one use of a character's abilities but do not require an action. Their use is part of the action that they affect.
-
-Power boost cyphers are a special type of cypher. In some Cypher System games, they may be inappropriate, and in others, they may be the main (or only) type of cypher available, as determined by the GM. They can be either subtle or manifest.
+**Effet:**  Permet à l'utilisateur de voir à travers jusqu'à 2 pieds (60 cm) de matériau d'un niveau inférieur à celui du cypher. L'effet dure une minute par niveau de cypher.
 
 -----
 
-### Area Boost
+### Zero Point Field/Champ de Point Zéro
+
+**Niveau:**  1d6 + 3
+
+**Effet:**  Rend un objet inanimé à l'extérieur des effets de la plupart des énergies pendant une minute. Cela signifie que l'objet ne peut pas être endommagé, déplacé ou manipulé de quelque manière que ce soit. Il reste en place (même en l'air).
+
+## Cyphers de Renforcement de Puissance
+
+Ces cyphers augmentent, modifient ou améliorent les pouvoirs existants d'un personnage. Par exemple, un cypher de renforcement de détonation permet à quelqu'un ayant le focus "Bears a Halo of Fire" de créer une explosion de feu dans toutes les directions, une seule fois. Imaginez cela comme la capacité d'un super-héros utilisant le feu à "exploser".
+
+Les cyphers de renforcement de puissance affectent une utilisation des capacités d'un personnage, mais ne nécessitent pas d'action. Leur utilisation fait partie de l'action qu'ils affectent.
+
+Les cyphers de renforcement de puissance sont un type spécial de cypher. Dans certains jeux du Cypher System, ils peuvent être inappropriés, et dans d'autres, ils peuvent être le type principal (ou unique) de cypher disponible, selon la décision du MJ. Ils peuvent être subtils ou manifestes.
+
+-----
+
+### Area Boost/Renforcement de Zone
 
 **Level:**  1d6 + 1
 
-**Effect:**  This cypher boosts an ability that affects a single target. The ability expands the effect so it includes the immediate area around that target. If the ability normally affects an immediate area, the area becomes short. Short areas are increased to long. Long areas are increased to very long. Abilities with very long areas become 1,000-foot (300 m) areas. All other areas double in radius.
+**Effect:**  Ce cypher renforce une capacité qui affecte une cible unique. La capacité élargit l'effet pour inclure la zone immédiate autour de cette cible. Si la capacité affecte normalement une zone immédiate, la zone devient courte. Les zones courtes sont augmentées à longues. Les zones longues sont augmentées à très longues. Les capacités avec des zones très longues deviennent des zones de 1 000 pieds (300 m). Toutes les autres zones doublent leur rayon.
 
 -----
 
-### Burst Boost
+### Burst Boost/Renforcement de Détonation
 
 **Level:**  1d6 + 2
 
-**Effect:**  This cypher boosts an ability that affects a single target at short range or farther. The range decreases to immediate, but the ability affects all targets within immediate range.
+**Effect:**  Ce cypher renforce une capacité qui affecte une cible unique à portée courte ou plus loin. La portée diminue à immédiate, mais la capacité affecte toutes les cibles dans la portée immédiate.
 
 -----
 
-### Damage Boost
+### Damage Boost/Renforcement de Dégâts
 
 **Level:**  1d6 + 2
 
-**Effect:**  This cypher boosts an ability that inflicts points of damage. The ability inflicts additional damage equal to this cypher's level.
+**Effect:**  Ce cypher renforce une capacité qui inflige des points de dégâts. La capacité inflige des dégâts supplémentaires égaux au niveau de ce cypher.
 
 -----
 
-### Efficacy Boost (Major)
+### Efficacy Boost (Major)/Renforcement d'Efficacité (Majeur)
 
 **Level:**  1d6 + 1
 
-**Effect:**  This cypher boosts an ability that requires a skill roll. The use of the ability is eased by two steps. This kind of cypher might be appropriate only in superhero campaigns, at least with any regularity.)
+**Effect:**  Ce cypher renforce une capacité qui nécessite un jet de compétence. L'utilisation de la capacité est facilitée de deux niveaux. Ce type de cypher pourrait n'être approprié que dans des campagnes de super-héros, au moins avec une certaine régularité.
 
 -----
 
-### Efficacy Boost (Minor)
+### Efficacy Boost (Minor)/Renforcement d'Efficacité (Mineur)
 
 **Level:**  1d6
 
-**Effect:**  This cypher boosts an ability that requires a skill roll. The use of the ability is eased.
+**Effect:**  Ce cypher renforce une capacité qui nécessite un jet de compétence. L'utilisation de la capacité est facilitée.
 
 -----
 
-### Energy Boost
+### Energy Boost/Renforcement d'Énergie
 
 **Level:**  1d6
 
-**Effect:**  This cypher boosts an ability that has a stat Pool cost. The cost is reduced to 0.
+**Effect:**  Ce cypher renforce une capacité qui a un coût en Réserve de caractéristiques. Le coût est réduit à 0.
 
 -----
 
-### Range Boost
+### Range Boost/Renforcement de Portée
 
 **Level:**  1d6 + 1
 
-**Effect:**  This cypher boosts the range of an ability. Something that affects only you can now affect someone you touch. Any other ability increases its range by one category (touch to immediate, immediate to short, short to long, long to very long, very long to 1,000 feet \[300 m\], or double for any range longer than very long).
+**Effect:**  Ce cypher renforce la portée d'une capacité. Quelque chose qui affecte uniquement vous peut désormais affecter quelqu'un que vous touchez. Toute autre capacité augmente sa portée d'une catégorie (toucher à immédiate, immédiate à courte, courte à longue, longue à très longue, très longue à 1 000 pieds \[300 m\], ou double pour toute portée plus longue que très longue).
 
 -----
 
-### Target Boost
+### Target Boost/Renforcement de Cible
 
 **Level:**  1d6 + 2
 
-**Effect:**  This cypher boosts an ability that affects a target at a range greater than touch. It can affect a second target within range (if the ability is an attack, make a separate attack roll for the second creature).
+**Effect:**  Ce cypher renforce une capacité qui affecte une cible à une portée supérieure à toucher. Il peut affecter une seconde cible dans la portée (si la capacité est une attaque, faites un jet d'attaque séparé pour la seconde créature).

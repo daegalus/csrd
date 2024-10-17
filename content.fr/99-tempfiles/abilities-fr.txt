@@ -16,7 +16,7 @@ Action Processor/Processeur d'action (4 points d'intelligence) : En vous appuyan
 ==
 Adaptation : Grâce à une mutation latente, un appareil implanté dans votre colonne vertébrale, un rituel réalisé avec du sang de dragon ou un autre cadeau, vous restez désormais à une température confortable ; vous n'aurez jamais à vous soucier des radiations dangereuses, des maladies ou des gaz ; et peut toujours respirer dans n'importe quel environnement (même dans le vide de l'espace). Facilitateur.
 ==
-Adroit Cypher Use/Utilisation adroite des cyphers: Vous pouvez utiliser quatre cyphers à la fois. Facilitateur.
+Adroit Cypher Use/Utilisation adroite des cyphers: Vous pouvez porter quatre cyphers à la fois. Facilitateur.
 ==
 Advanced Command/Commandement avancé (7 points d'Intellect): Une cible à courte portée obéit à n'importe quel ordre que vous donnez tant qu'elle peut vous entendre et vous comprendre. De plus, tant que vous continuez à ne rien faire d'autre qu'émettre des commandes (ne prendre aucune autre action), vous pouvez donner une nouvelle commande à cette même cible. Cet effet prend fin lorsque vous arrêtez d'émettre des commandes ou qu'elles sont hors de portée. Action à initier.
 ==
@@ -744,7 +744,7 @@ Experienced in Armor/Expérimenté en armure : la réduction du coût de votre 
 ==
 Expert Crafter/Artisan expert : au lieu de lancer un jet, vous pouvez choisir de réussir automatiquement une tâche d'artisanat pour laquelle vous êtes entraîné. La tâche doit être de difficulté 4 ou inférieure. Si vous parvenez à réduire la difficulté évaluée d'une tâche de fabrication à 4 ou moins, cette capacité s'applique également à chaque sous-tâche, en supposant que quelque chose ne vous interrompe pas pendant le temps de construction qui s'ensuit. Facilitateur.
 ==
-Expert Cypher Use/Utilisation experte des cyphers: Vous pouvez utiliser trois cyphers à la fois. Facilitateur.
+Expert Cypher Use/Utilisation experte des cyphers: Vous pouvez porter trois cyphers à la fois. Facilitateur.
 ==
 Expert Driver/Chauffeur expert : Vous êtes spécialisé dans toutes les tâches liées à la conduite d'une voiture, d'un camion ou d'une moto, y compris les tâches de réparation mécanique. Facilitateur.
 ==
@@ -766,7 +766,7 @@ Extra Recovery/Récupération supplémentaire : vous gagnez une récupération 
 ==
 Extra Skill/Compétence supplémentaire : vous êtes entraîné à une compétence de votre choix (autre que les attaques ou la défense) dans laquelle vous n'êtes pas déjà entraîné. Vous pouvez sélectionner cette capacité plusieurs fois. Chaque fois que vous le sélectionnez, vous devez choisir une compétence différente. Facilitateur.
 ==
-Extra Use/Utilisation supplémentaire (3 points d'Intellect) : Vous tentez d'obtenir une utilisation supplémentaire d'un artefact sans déclencher de jet d'épuisement. La difficulté de la tâche est égale au niveau de l'artefact. Si vous avez fabriqué l'artefact, vous gagnez un atout pour la tâche. En cas d'échec, le jet d'épuisement se déroule normalement. Vous pouvez également essayer d'utiliser un cypher manifeste sans le graver, mais la tâche est entravée. Une tentative infructueuse d'obtenir une utilisation supplémentaire d'un cypher manifeste le détruit avant qu'il ne puisse produire l'effet souhaité. Action.
+Extra Use/Utilisation supplémentaire (3 points d'Intellect) : Vous tentez d'obtenir une utilisation supplémentaire d'un artefact sans déclencher de jet d'épuisement. La difficulté de la tâche est égale au niveau de l'artefact. Si vous avez fabriqué l'artefact, vous gagnez un atout pour la tâche. En cas d'échec, le jet d'épuisement se déroule normalement. Vous pouvez également essayer d'utiliser un cypher manifeste sans l'épuiser, mais la tâche est entravée. Une tentative infructueuse d'obtenir une utilisation supplémentaire d'un cypher manifeste le détruit avant qu'il ne puisse produire l'effet souhaité. Action.
 ==
 Extreme Mastery/Maîtrise extrême (6 points de puissance ou 6 points de vitesse) : lorsque vous utilisez l'arme de votre choix, vous pouvez relancer n'importe quel jet d'attaque de votre choix et prendre le meilleur des deux résultats. Facilitateur.
 ==
@@ -1355,7 +1355,7 @@ Mask/Masque (5 points d'Intellect) : Vous transformez votre corps pour devenir q
 ==
 Master Crafter/Maître artisan : Vous êtes entraîné à la fabrication de deux types d'objets, ou vous êtes spécialisé dans deux types d'objets pour lesquels vous êtes déjà entraîné.
 ==
-Master Cypher Use/Maîtrise dans l' Utilisation des Cyphers: Vous pouvez utiliser cinq cyphers à la fois. Facilitateur.
+Master Cypher Use/Maîtrise dans l' Utilisation des Cyphers: Vous pouvez porter cinq cyphers à la fois. Facilitateur.
 ==
 Master Entertainer/Maître du spectacle: votre capacité Inspiring Ease fonctionne plus efficacement, facilitant les tâches de vos amis de deux étapes plutôt que d'une seule. Facilitateur.
 ==
