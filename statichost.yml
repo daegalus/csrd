@@ -1,0 +1,5 @@
+domains:
+  # Primary domain
+  - cyphersrd.quest
+  # Domains that redirect to the primary
+  - www.cyphersrd.quest
