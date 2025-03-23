@@ -58,7 +58,7 @@ Vous êtes un bon allié à avoir dans un combat. Vous savez comment utiliser de
 
 **Rôle en Groupe:** Les guerriers subissent et infligent généralement le plus de dégâts dans une situation dangereuse. Il leur incombe souvent de protéger les autres membres du groupe contre les menaces. Cela signifie parfois que les guerriers assument également des rôles de commandement, du moins au combat et dans d'autres moments de danger.
 
-**Rôle en Société:** Les Guerriers ne sont pas toujours des soldats ou des mercenaires. N'importe qui est est toujours prêt pour la violence, ou même la violence potentielle, peut être un Guerrier dans un sens génstat_details = models.ForeignKey("I18NCharField50", on_delete=models.SET_NULLnull=True)éral. Cela inclut les gardes, les gardiens, les officiers de police, les marins, ou les personnes dans d'autres rôle ou profession qui savent comment se défendre avec talent.
+**Rôle en Société:** Les Guerriers ne sont pas toujours des soldats ou des mercenaires. N'importe qui est est toujours prêt pour la violence, ou même la violence potentielle, peut être un Guerrier dans un sens général. Cela inclut les gardes, les gardiens, les officiers de police, les marins, ou les personnes dans d'autres rôle ou profession qui savent comment se défendre avec talent.
 
 **Guerier Expérimentés:** Alors que les Gueriers gagne en expérience, leur compétence dans les batailles, que ce soit en se défendant ou en infligeant des dommages, augmente à un rang impressionant. A un rang supérieur, ils peuvent souvent se prendre un groupe d'aversaires tout seul ou affronter sur son terrain n'importe qui.
 
@@ -91,7 +91,7 @@ Votre type vous aide à déterminer la relation que vous avez avec la campagne e
 
 ### Intrusions de Joueur pour un Guerrier
 
-Vus pouvez dépenser un XP pour utiliser une des ces intrusions de joueur, à condition que la situation soit appropriée et que la Meneuse soit d'accord.
+Vous pouvez dépenser un XP pour utiliser une des ces intrusions de joueur, à condition que la situation soit appropriée et que la Meneuse soit d'accord.
 
 **Position Parfaite:** Vous combattez au moins trois adversaires et chacun d'eux se trouve exactement à la bonne position pour vous pour faire un mouvement pour lequel vous vous êtes entrainé il y a longtemps, vous permettant de les attaquer tous les trois en une seule action. Faites un jet d'attaque pour chaque adversaire. Vous restez limité par la quantité d'Effort que vous pouvez allouer en une seule action.
 
@@ -418,7 +418,7 @@ Choisissez une des capacités ci-dessous (ou du rang inférieur) pour l'ajouter 
 
 {{< hint warning >}}
 
-Jen veut créé une Adepte, une sorcière pour une campagne de fantasy. Elle décide d'être plutôt équilibrée, alors elle met 2 de ses points supplémentaires dans chaque Réserve de statistiques, ce qui lui donne une réserve de Puissance de 9, une Réserve de Célérité de 11 et une Réserve d'intelligence de 14. Son adepte est intelligente et rapide. Elle a un Avantage d'Intellect de 1, un Avantage de Puissance de 0 et un Avantage de Célérité de 0. En tant que personnage de premier rang, son effort est de 1. Comme capacités initiales, elle choisit Assaut Magique et Ward, ce qui lui donne une forte attaque et une défense. Elle choisit également Formation magique et complète son personnage avec Scan, qui, espère-t-elle, sera utile pour obtenir des informations et des connaissances. Pour ce personnage, Assaut Magique, Ward et Scan sont tous des sorts qu'elle maîtrise au fil des années d'entraînement et d'études.
+Jeanne veut créer une Adepte, une sorcière pour une campagne de fantasy. Elle décide d'être plutôt équilibrée, alors elle met 2 de ses points supplémentaires dans chaque Réserve de statistiques, ce qui lui donne une réserve de Puissance de 9, une Réserve de Célérité de 11 et une Réserve d'intelligence de 14. Son adepte est intelligente et rapide. Elle a un Avantage d'Intellect de 1, un Avantage de Puissance de 0 et un Avantage de Célérité de 0. En tant que personnage de premier rang, son effort est de 1. Comme capacités initiales, elle choisit Assaut Magique et Ward, ce qui lui donne une forte attaque et une défense. Elle choisit également Formation magique et complète son personnage avec Scan, qui, espère-t-elle, sera utile pour obtenir des informations et des connaissances. Pour ce personnage, Assaut Magique, Ward et Scan sont tous des sorts qu'elle maîtrise au fil des années d'entraînement et d'études.
 
 Elle peut porter trois cyphers. Le MJ lui donne une potion qui agit comme un téléporteur à courte portée, un petit charme qui redonne 5 points à sa réserve d'intelligence et une fiole remplie de liquide qui explose comme une bombe enflammée. La sorcière de Jen est douée avec les armes légères, elle choisit donc un poignard.
 

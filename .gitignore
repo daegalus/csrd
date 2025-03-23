@@ -1,3 +1,11 @@
 public/
 resources/_gen/
 .hugo_build.lock
+*.log
+*.pdf
+*.fdb_latexmk
+*.aux
+*.fls
+*.synctex.gz
+*.out
+*.toc

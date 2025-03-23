@@ -32,7 +32,7 @@ C'est tout. Voilà comment faire absolument tout, que ce soit identifier un appa
 
 **EFFORT:** Dépenser des points d'une Réserve de stat pour réduire la difficulté d'une tâche. Un PJ peut décider si, oui ou non, il applique de l'effort pendant son tour avant que le jet de dé soit effecté. Les PNJs n'applique jamais d'Effort.
 
-**DESAVANTAGER:** Une augmentation de la difficulté de la tâche, d'habitude d'un cran. Si il n'est pas indiqué de combien de cran une tâche est désavantagée, alors la difficulté est augmentée de un cran.
+**ENTRAVER:** Une augmentation de la difficulté de la tâche, d'habitude d'un cran. Si il n'est pas indiqué de combien de cran une tâche est désavantagée, alors la difficulté est augmentée de un cran.
 
 **INAPTITUDE:** L'opposé d'être entraîné---vous êtes désavantagé à achque fois que vous tentez d'accomplir une tâche pour laquelle vous êtes inapte. Si vous devenez entraîné à cette tâche, l'entrainement et l'inaptitude se compensent l'un l'autre et vous avez maintenant de la pratique dans la tâche.
 
@@ -115,7 +115,7 @@ Un joueur peut appliquer de l'Effortpour faciliter une tâche. Pour ce faire, un
 
 Chaque personnage a un niveau maximum d'Effort qu'il peut appliquer à une seule tâche. L'Effort ne peut pas pas faciliter une tâche de plus de six crans---tout de qui donne plus de six crans par l'Effort n'est pas pris en compte.
 
-**Niveaux Gratuit d'Effort:** I y a quelques capacités qui peuvent vous donner un niveau d'Effort gratuit (en général elles vous deamndent d'appliquer au moins un niveau d'Effort pour la tâche). En pratique, vous gagnez un niveau d'Effort supplémentaire en plus de ce que pourquoi vous avez payé. Ce niveau d'Effort gratuit peut dépasser la limite de l'Effort pour votre personnage, mais pas la lmite des six crans d'Effort maximum pour faciliter une tâche.
+**Niveaux Gratuit d'Effort:** Il y a quelques capacités qui peuvent vous donner un niveau d'Effort gratuit (en général elles vous demandent d'appliquer au moins un niveau d'Effort pour la tâche). En pratique, vous gagnez un niveau d'Effort supplémentaire en plus de ce que pourquoi vous avez payé. Ce niveau d'Effort gratuit peut dépasser la limite de l'Effort pour votre personnage, mais pas la lmite des six crans d'Effort maximum pour faciliter une tâche.
 
 ### Lancer le dé
 
@@ -137,7 +137,7 @@ Comme vu dans les deux derniers exemples ci-dessus, le PJ lance le dé que ce so
 
 Si le résulat du jet de dé du joueur est un 1, 17, 18, 19 ou 20 (le d20 indique un de ces nombres), alors des règles spéciales s'appliquent. Elles ont détaillées dans les sections suivantes.
 
-1: Intrusion de la Meneuse. La Meneuse a une intrusion gratuite (voir plus bas) et ne dnne pas de points d'expérience (XP) en échange..
+1: Intrusion de la Meneuse. La Meneuse a une intrusion gratuite (voir plus bas) et ne dnne pas de points d'expérience (XP) en échange.
 
 17: Bonus aux dommages. Si le jet était pour une attaque faisant des dommages, cela augmente les dommages de 1 point supplémentaire.
 
@@ -168,7 +168,7 @@ En combat, l'effet mineur le plus simple est d'influger 3 points de dommages sup
 
 **Objet endommagé:** Au lieu de frapper la cible, l'attaque frappe ce que tient la cible. Si l'attaque touche, le pesonnage peut faire un jet de Puissance contre une difficulté égale au niveau de l'objet. Sur un succès, l'objet descend d'un ou deux crans sur le suivi des dommages aux objets.
 
-**Cile Distraite:** Pendant un round, toutes les tâches de la cible sont désavantagées.
+**Cible Distraite:** Pendant un round, toutes les tâches de la cible sont désavantagées.
 
 **Cible Repoussée:** La cible est repoussée de un ou deux mètres. La plupart du temps cela n'a pas beaucoup d'importance, mais si le combat a lieu près d'un rebord ou à côté d'un puit de lave l'effet peut importer.
 
@@ -176,7 +176,7 @@ En combat, l'effet mineur le plus simple est d'influger 3 points de dommages sup
 
 **Frapper une partie du corps spécifique:** L'attaquant frappe un endroit spécifique du corps de l'adversaire. La Meneuse définit la nature de l'effet spécial, si il y en a, qui en découle. Par exemple, frapper le tentacule d'une créature qui est enroulé autour d'un allié peut rendre sa fuite plus facile. Frapper un adversaire dans les yeux peut l'aveugler pendant un round. Frapper un créture à l'un de ses points faibles peut ignorer l'Armure.
 
-D'habitude, la Meneuse juge que seul l'effet mineur se produit. Par exemple, obtenir un 19 contre un adversaire relativement faible signifie qu'il tombre de la falaise. L'effet rend le round plus interressant, mais la défaite d'une créature mineure n'a pas impact significatif sur l'histoire. Dans d'autres cas, la Meneuse peut décider qu'un jet de dé supplémentaire est nécessaire pour réussir l'effet---le jet de dé spécial  ne fait que donner au personnage *l'opportunité* d'un effet mineur. Cela arrive souvent quand l'effet souhaité est très improbable, comme de pousser un robot de combat de 50 tonnes par-dessus le rebord de la falaise. Si le joueur veut simplement 3 points de dommages supplémentaires comme effet mineur, pas besoin de jet de dé en plus.
+D'habitude, la Meneuse juge que seule l'effet mineur se produit. Par exemple, obtenir un 19 contre un adversaire relativement faible signifie qu'il tombre de la falaise. L'effet rend le round plus interressant, mais la défaite d'une créature mineure n'a pas impact significatif sur l'histoire. Dans d'autres cas, la Meneuse peut décider qu'un jet de dé supplémentaire est nécessaire pour réussir l'effet---le jet de dé spécial  ne fait que donner au personnage *l'opportunité* d'un effet mineur. Cela arrive souvent quand l'effet souhaité est très improbable, comme de pousser un robot de combat de 50 tonnes par-dessus le rebord de la falaise. Si le joueur veut simplement 3 points de dommages supplémentaires comme effet mineur, pas besoin de jet de dé en plus.
 
 ### Effet Majeur
 

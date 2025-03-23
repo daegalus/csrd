@@ -1,0 +1,956 @@
+\documentclass[a4paper,french,twocolumn,twoside]{book}
+\usepackage[T1]{fontenc}    % Encodage T1 (adapté au français)
+%French-specific commands
+%--------------------------------------
+% https://en.wikibooks.org/wiki/LaTeX/Special_Characters
+\usepackage[french]{babel}
+\usepackage[autolanguage]{numprint} % for the \nombre command
+
+\usepackage{lmodern}        % Caractères plus lisibles
+\usepackage{babel}          % Réglages linguistiques (avec french)
+\pagestyle{empty}           % N'affiche pas de numéro de page
+\usepackage[explicit]{titlesec}  % pour modifier le style de chapitre
+\usepackage{color}        % pour les coleurs de police
+\usepackage[table,dvipsnames]{xcolor}  % pour les couleurs des tableaux https://en.wikibooks.org/wiki/LaTeX/Colors
+\usepackage{graphicx}     % pour inclure des images
+\usepackage{wrapfig}
+%\usepackage[dvipsnames]{xcolor} % pour les couleurs
+\usepackage{fancyhdr} % pour les entete
+\usepackage{ifthen}  % branchements conditionnels
+\usepackage{xpatch} 
+\usepackage[export]{adjustbox}  % pour positionner des images dans la page
+\usepackage{tabularx}  % pour les tableaux
+\usepackage{wrapfig}   % pour le que le texte ne recouvre pas les figures/tableaux
+\usepackage{stfloats}   % pour le que le texte ne recouvre pas les figures/tableaux
+\usepackage{multicol}   % gestion de plusieurs colonnes (dans une cellule de tableau pas ex)
+\usepackage{enumitem}   % pour la personnalisation des liste
+\usepackage{hyperref}   % for linking references https://en.wikibooks.org/wiki/LaTeX/Hyperlinks
+%-----------------------------------
+%%  Default Font
+\usepackage[sfdefault]{cabin}
+\renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif
+\usepackage[T1]{fontenc}
+
+%-----------------------------------
+% page margins
+% https://www.overleaf.com/learn/latex/Page_size_and_margins
+% https://fr.overleaf.com/learn/latex/Single_sided_and_double_sided_documents
+\usepackage[
+  top=20mm,
+  bottom=20mm,
+  marginparwidth=111pt
+  %textwidth=345pt,
+]{geometry}
+%-----------------------------------
+\newcommand*{\definitchapitre}[2]{\chapter{#1 \label{#2} \definitentete{#1}}}
+%-----------------------------------
+% commande pour afficher l'image de tête de chapitre
+\newcommand*{\afficheimagechapitre}[1]{
+    \hspace*{-72pt}
+    \ifthenelse{\equal{#1}{1}}{
+        \includegraphics[height=8.25cm]{CS-page4-01.png}
+    }
+    {
+        \ifthenelse{\equal{#1}{2}}{
+            \includegraphics[height=8.25cm]{CS-page5-01.png}
+        }
+        {
+            \ifthenelse{\equal{#1}{3}}{
+                \includegraphics[height=8.25cm]{CS-page7-01.png}
+                }
+                {
+                    \ifthenelse{\equal{#1}{4}}{
+                        \includegraphics[height=8.25cm]{CS-page14-01.png}
+                        }
+                        {
+                            \ifthenelse{\equal{#1}{5}}{
+                                \includegraphics[height=8.25cm]{CS-page20-01.png}
+                                }
+                                {
+                                    \ifthenelse{\equal{#1}{6}}{
+                                        \includegraphics[height=8.25cm]{CS-page34-01.png}
+                                        }
+                                        {
+                                            \ifthenelse{\equal{#1}{7}}{
+                                                \includegraphics[height=8.25cm]{CS-page38-01.png}
+                                                }
+                                                {
+                                                    \ifthenelse{\equal{#1}{8}}{
+                                                        \includegraphics[height=8.25cm]{CS-page60-01.png}
+                                                        }
+                                                        {
+                                                            \ifthenelse{\equal{#1}{9}}{
+                                                                \includegraphics[height=8.25cm]{CS-page95-01.png}
+                                                                }
+                                                                {
+                                                                    \ifthenelse{\equal{#1}{10}}{
+                                                                        \includegraphics[height=8.25cm]{CS-page201-01.png}
+                                                                    }{
+                                                                        IMAGE A DEFINIR
+                                                                    }
+                                                                }
+                                                        }
+                                                }
+                                        }
+                                }
+                        }
+                }
+        }
+    }
+}
+%-----------------------------------------------------
+%  Style pour les en-têtes
+\newcommand*{\definitentete}[1]{\fancypagestyle{plain}{ %
+    \fancyhf{} % remove everything
+    \renewcommand{\headrulewidth}{1pt} % remove lines as well
+    \renewcommand{\footrulewidth}{1pt}
+    \fancyhead[RO]{#1}
+    \fancyhead[LE]{CYPHER SYSTEM}
+}
+}
+%-----------------------------------
+%  définition des en-têtes
+\setlength{\headheight}{15.2pt}
+\pagestyle{fancy}
+\fancyhead[LE]{CYPHER SYSTEM}
+%------------------------------------
+%  définition du style des listes de nom capacités
+\newlist{abnamelist}{itemize}{1}
+\setlist[abnamelist]{label={\includegraphics[height=3mm]{CS-mini-logo.png}}}
+%-----------------------------------
+\newcommand*{\abilitylistitem}[2]{#1 (\hyperref[#2]{\pageref{#2}})}
+%------------------------------------
+%  définition du style des listes de capacités (chapitre 9)
+%\newlist{ablist}{itemize}{1}
+%\setlist[ablist]{leftmargin=*,label={\includegraphics[height=3mm]{CS-mini-logo.png} :}}
+%\setlist[ablist]{label={\includegraphics[height=3mm]{CS-mini-logo.png}}}
+\newcommand*{\abilitydetaillistitem}[2]{\item \textbf{#1 :} #2}
+%#######################################################################
+\title{CYPHER SYSTEM LIVRE DES R\`{E}GLES}
+\author{Monte Cook, Bruce R. Cordell, Sean K. Reynolds}
+%#######################################################################
+\begin{document}
+\frontmatter
+\maketitle
+\tableofcontents
+\mainmatter
+%-----------------------------------
+%   reset headers
+\fancypagestyle{plain}{ %
+    \fancyhf{} % remove everything
+}
+%#######################################################################
+    \part*{LE CYPHER SYSTEM}
+    %-----------------------------------------------------
+    % https://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/macros/latex/contrib/titlesec/titlesec.pdf
+    % https://borntocode.fr/latex-personnaliser-les-titres-chapter/
+    %% define format for chapter
+    \titleformat{\chapter} % command
+        [display] % shape
+        {\bfseries\Large\centering} % format
+        {\textcolor{RedViolet}{Chapitre \ \thechapter \\ \huge #1} \\ \afficheimagechapitre{\thechapter}} % label
+        {0.5ex} % sep
+        {
+            \centering
+        } % before-code
+        [
+        \centering
+        ] % after-code
+        \titlespacing*{\chapter}
+        {0mm} %left
+        {-0pt} %before-step
+        {0mm} %after-step
+        {} %right
+    %-----------------------------------------------------
+    %% define format for section
+    \titleformat{\section} % Command to format section titles
+    {\normalfont\Large\bfseries} % Format: normal font, large size, bold
+    {\thesection}{1em} % Label format: section number followed by 1em space
+    {} % Before the title
+    [\titlerule] % After the title: horizontal line
+
+    \titleformat{\section} % command
+        [display] % shape
+        {\bfseries\Large} % format
+        {\textcolor{RedViolet}{#1}} % label
+        {0.5ex} % sep
+        {
+            \Large
+        } % before-code
+
+        \titlespacing*{\section}
+        {0mm} %left
+        {-0pt} %before-step
+        {0mm} %after-step
+        {} %right
+    %-----------------------------------------------------
+    % numberless
+    \titleformat{name=\section,numberless}[runin] 
+        {\normalfont\Large\bfseries}
+        {\\ \textcolor{RedViolet} {#1}}
+        {20pt}
+        {\Large}
+        [\\]
+    
+    %#######################################################################
+    %            CHAPTER 1
+    %#######################################################################
+    \chapter{\uppercase{Des mondes d'aventures}\label{ch:chapter1}}
+    %---------------------------
+    % https://texdoc.org/serve/fancyhdr/0
+    \fancypagestyle{plain}{ %
+        \fancyhf{} % remove everything
+        \renewcommand{\headrulewidth}{1pt} % remove lines as well
+        \renewcommand{\footrulewidth}{0pt}
+        \xpretocmd\headrule{\color{RedViolet}}{}{\PatchFailed}
+        \fancyhead[RO]{\textcolor{RedViolet}{\textsc{Des mondes d'aventures}}}
+        \fancyhead[LE]{\textcolor{RedViolet}{CYPHER SYSTEM}}
+    }
+    Finalement, tout ce que nous voulons, c'est précisément de jouer au jeu auquel nous voulons jouer. Toutes les Meneuses et Meneurs ont un cadre de campagne parfait dans un coin de leur tête. Les joueuses et joueurs ont cette idée de personnage qui serait leur meilleur personnage jamais créé, si seulement ils avaient la chance de le créer et de le jouer. Ces rêves de jouer exactement ce que vous souhaitez jouer sont la raison d'être de ce livre.
+
+    Il s'agit d'une version révisée du livre de règles original du Cypher System. J'ai réuni le contenu de ce livre à partir des jeux du Cypher System existant à l'époque \textendash Numenera et The Strange. C'était essentiellement une compilation de tout ce matériel de jeu, ainsi que beaucoup de suggestions sur la façon de l'utiliser de la manière que vous souhaitez. Les joueurs et les Meneuses nous ont dit que cela répondait bien à ces besoins.
+
+    Nous avons beaucoup appris depuis. Pas tellement sur les règles du système elles-mêmes \textendash qui restent essentiellement inchangées \textendash mais sur la manière dont nous voulons utiliser ce type de livre, et donc sur la manière de présenter l'information. Il est vraiment difficile de créer quelque chose qui soit utilisable par n'importe qui pour n'importe quoi et de le présenter de manière réellement conviviale. Mais je pense que c'est exactement ce que nous avons fait avec ce livre. Les innovations que vous trouverez dans ces pages \textendash la façon dont toutes les capacités ont été cataloguées pour que vous puissiez les utiliser comme bon vous semble, l'accent mis sur les cyphers subtils, l'étendue des genres présentés \textendash rendent ce matériel plus facile à utiliser et plus facile à personnaliser.
+
+    Le tout nouveau contenu, comme le système d'arc narratif, le système d'artisanat, les informations supplémentaires sur les genres, etc., rendra, je l'espère, vos parties plus amusantes et vos histoires plus riches.
+
+    Mais permettez-moi de répéter : nous n'avons pas changé la façon dont le jeu fonctionne. Vous pouvez utiliser ce livre en parallèle avec l'ancien livre de règles du Cypher System sans trop de problèmes.
+
+    D'une certaine manière, ce livre est un volume complémentaire à un livre que j'ai écrit intitulé Your Best Game Ever. Ce livre est un guide indépendant du système de jeux pour comprendre et apprécier les jeux de rôle. Le présent ouvrage prend les idées et suggestions présentées dans ce dernier et leur donne un ensemble de règles qui les rend possibles. Mon objectif est de vous donner les outils pour avoir votre meilleur jeu jamais joué. Et cela, je crois, implique de pouvoir jouer dans le cadre et avec les personnages que vous avez toujours voulu.
+
+    Maintenant, espérons-le, vous pouvez enfin le faire.
+
+
+    Amusez-bien
+    
+    \includegraphics[height=20pt]{CS-page4-02.png}
+
+    
+    Monte Cook
+
+    Mars 2019
+    %#######################################################################
+    %            CHAPTER 2
+    %#######################################################################
+    \chapter{uppercase{Tout est permis}\label{ch:chapter2}}
+    %---------------------------
+    % https://texdoc.org/serve/fancyhdr/0
+    \fancypagestyle{plain}{ %
+        \fancyhf{} % remove everything
+        \renewcommand{\headrulewidth}{1pt} % remove lines as well
+        \renewcommand{\footrulewidth}{0pt}
+        \xpretocmd\headrule{\color{RedViolet}}{}{\PatchFailed}
+        \fancyhead[RO]{\textcolor{RedViolet}{textsc{Tout est permis}}}
+        \fancyhead[LE]{\textcolor{RedViolet}{CYPHER SYSTEM}}
+    }
+    Pour commencer, nous nous adressons directement aux meneuses (ou MJ). Les joueurs comme les MJ utiliseront ce livre, mais il est fort probable que ce soit d'abord le MJ qui le consulte.
+
+    Ce que vous tenez entre vos mains est un guide. Un mode d'emploi. Vous ne pouvez pas simplement vous asseoir et commencer à jouer, car le manuel du Cypher System n'est pas conçu pour être utilisé de cette façon. Il vous faut d'abord y mettre quelque chose de votre propre invention. Il n'y a pas de cadre ni de monde prédéfinis ici. Le système est conçu pour vous aider à dépeindre n'importe quel monde ou cadre que vous pouvez imaginer.
+
+    Considérez ce livre comme un coffre à jouets. Vous pouvez sortir ce que vous voulez et y jouer comme bon vous semble. Vous n'utiliserez pas tout ce qu'il contient, du moins pas d'un seul coup. Vous utiliserez des parties de ce livre pour construire le jeu que vous souhaitez jouer. Sortez quelques éléments et essayez-les. Remettez en place ceux qui ne vous conviennent pas, et essayez d'autres. Utilisez certains maintenant et gardez-en d'autres pour votre prochaine partie. Vous avez toute la liberté possible (en fait, de nombreux mondes).
+
+    A propos de mondes, vous devez décider quel cadre de campagne utiliser, en fonction du genre que vous avez choisi. Cela peut être n'importe quoi. Prenez votre livre ou film préféré, ou concevoir quelque chose à partir de rien.
+
+    Alors, en pratique, ce que vous choisissez ici, c'est l'expérience que vous voulez vivre\textendash et que vous voulez faire vivre aux joueurs. C'est une décision tellement fondamentale que tout le groupe devrait peut-être y participer. Demandez aux autres joueurs quel genre ils aiment et quels types d'expériences ils souhaitent vivre. C'est essentiel, car cela garantit que tout le monde obtient ce qu'il attend du jeu.
+
+    Bien sûr, tout le contenu de ce livre ne convient pas à tous les genres. Vous, en tant que MJ, devrez le lire une fois que vous aurez choisi un genre et sélectionner les types, les axes et ainsi de suite. Ensuite, informez vos joueurs du matériel que vous avez décidé de rendre disponible afin qu'ils puissent créer des personnages adaptés au genre
+
+
+    \section*{GENRES}
+    Jeter un coup d'œil à la 3ième partie Genre qui contient un nombre de chapitres consacrés aux genres. Ce sont des catégories assez larges, et nous les utiliserons dans ce livre comme point de départ. Ces catégories sont : Fantasy, moderne, science-fiction, hoerreur, romance, super-héros, post-apocalyptique, contes de fées, et historique.
+
+    Avec ces descriptions assez génériques, nous pouvons couvrir la plupart des cadres de jeu (mais probablement pas tous)  que vous pouvez jouer avec le Cypher System. Certains de ces genres nécessite du matériel unique, des artifacts, ou des descripteurs. Certains ont besoin de nouvelles règles pour améliorer l'immersion que vous recherchez.
+
+    Nous parlons d'immersion, parce que sous beaucoup d'aspect, c'est ce qu'un genre est. Si vous voulez faire vivre l'expérience d'être terrifié par des zombies qui rodent autour de la maison de votre personnage, vous voulez de l'horreur. Si vous voulez faire vivre l'expérience d'être extrêmement puissant et utiliser ces pouvoirs pour protéger le monde des extra-terrestres, vous voulez des super-héros (avec peut-être une touche de science-fiction).
+
+
+    \section*{CADRES DE CAMPAGNE}
+    Bien que les genres soient des catégories utiles pour organiser vos idées, ce que vous allez réellement créer, c'est un cadre. Des étiquettes comme « science-fiction » ou « space opera » sont pratiques, mais au final, ce qui compte, c'est le cadre spécifique que vous établissez.
+
+    Votre cadre \textendash qu'il s'agisse d'une création originale ou d'une adaptation\textendash vous appartient entièrement. Ne vous inquiétez pas de ce que d'autres pourraient considérer comme approprié pour un genre donné. Une fois que vous commencez à assembler votre cadre, vous voudrez peut-être parcourir à nouveau les sections sur la création de personnages dans ce livre. Ce qui est habituellement adapté à un genre fantastique, par exemple, peut ne pas convenir à votre propre univers de fantasy.
+
+    Imaginons que, dans votre monde, la magie du feu soit toujours maléfique et uniquement pratiquée par des prêtres possédés par des démons. Dans ce cas, l'axe Porte une auréole de feu ne serait pas approprié pour les personnages des joueurs, même s'il est parfaitement acceptable dans d'autres jeux de fantasy.
+
+    Plus vous définissez précisément les détails de votre cadre, plus il sera facile d'en ajuster les éléments. Et plus votre univers s'éloigne des clichés du genre, plus vous devrez adapter les choix possibles. Mais ce n'est pas un problème : les cadres spécifiques et distincts sont souvent les plus amusants, les plus mémorables et les plus engageants pour vos joueurs. Ils valent largement l'effort supplémentaire.
+
+
+    \section*{ADAPTER LES RÈGLES}
+    Parfois, vous devez modifier certaines choses pour qu'elles correspondent à vos besoins et envies. Prenons par exemple la saveur « magie » que vous pouvez attribuer à n'importe quel type présenté dans le chapitre 5. Elle s'appelle « magie » et possède de nombreux éléments associés à ce concept, mais il serait très simple de changer son nom en « psionique », « pouvoirs mutants » ou tout autre terme adapté à votre univers.
+
+    En d'autres termes, sélectionner du contenu dans ce livre peut ne pas suffire. Vous pourriez avoir besoin d'ajuster certains éléments ici et là. Heureusement, la plupart du matériel est conçu pour être modifié ou adapté. En fait, grâce à la simplicité des mécaniques de base du Cypher System, effectuer des ajustements est un jeu d'enfant. Ce n'est pas un système où un petit changement risque d'entraîner un effet domino aux conséquences imprévues.
+
+    Dans le chapitre 7, vous trouverez des directives pour créer de nouveaux descripteurs. Le chapitre 8 contient une section entière consacrée à la création de nouveaux axes adaptés à votre propre jeu. De plus, les types de personnages du chapitre 5 sont conçus pour être personnalisés et remodelés. 
+
+    Lorsque vous apportez des modifications, concentrez-vous moins sur l'équilibrage du jeu et davantage sur la narration des histoires que vous souhaitez raconter, tout en permettant aux joueurs de créer et d'incarner les personnages qu'ils veulent. Si vous parvenez à faire ces deux choses correctement, tout le monde sera satisfait. Et au final, c'est précisément ce qu'est l'équilibrage du jeu. 
+
+    Vous pouvez également consulter le chapitre 25 pour approfondir la façon de modifier les mécaniques du jeu. Mais dans l'ensemble, ce chapitre vous rappellera ce que vous venez de lire : c'est *votre* jeu, et vous êtes libre d'en faire ce que vous voulez.
+
+    %#######################################################################
+    %            CHAPTER 3
+    %#######################################################################
+    \chapter{\uppercase{Comment jouer au Cypher System}\label{ch:chapter3}}
+    %---------------------------
+    % https://texdoc.org/serve/fancyhdr/0
+    \fancypagestyle{plain}{ %
+        \fancyhf{} % remove everything
+        \renewcommand{\headrulewidth}{1pt} % remove lines as well
+        \renewcommand{\footrulewidth}{0pt}
+        \xpretocmd\headrule{\color{RedViolet}}{}{\PatchFailed}
+        \fancyhead[RO]{\textcolor{RedViolet}{\textsc{Comment jouer au Cypher System}}}
+        \fancyhead[LE]{\textcolor{RedViolet}{CYPHER SYSTEM}}
+    }
+    Les règles du Cypher System sont assez simples à la base, car toute la mécanique de jeu repose sur quelques concepts fondamentaux.
+
+    Ce chapitre donne une brève explication de comment jouer, c'est une bonne entrée en matière pour comprendre ces mécanismes. Une fois que vous avez compris les concepts de base, vous pourrez aller consulter Chapitre 11: Les Règles du Jeux pour des informations plus détaillées.
+    
+    Le Cypher System utilise un dé à 20 faces (1d20) pour déterminer le résultat de la plupart des actions. A chaque fois qu'un jet de dé de n'importe quel type est demandé et que le type de dé n'est pas spécifié, jeter un d20.
+
+    La Meneuse définit une difficulté pour une tâche donnée. Il y a 10 degrés de difficulté. Ainsi, la difficulté d'une tâche peut être évaluée sur une échelle de 1 à 10.
+
+    Chaque difficulté a un nombre seuil associé. Ce nombre seuil est toujours trois fois la difficulté de la tâche, ainsi une tâche de difficulté de 1 a un nombre seuil de 3, mais une tâche de difficulté de 4 a une nombre de seuil de 12. Pour réussir la tâche, vous devez obtenir un jet de dé égal ou supérieur. Consulter la table des Difficulté d'une Tâche pour voir comment cela fonctionne.
+
+    Les compétences des personnages, des circonstances favorables ou un bon équipement peuvent diminuer la difficulté d'une tâche. Par exemple, si un personnage est entraîné en escalade, il transforme une tache d'escalade de difficulté 6 en une tache d'escalade de difficulté 5. Ceci est appelé faciliter la difficulté d'un cran (ou juste faciliter la difficulté, étant assumé qu'elle est facilitée d'un cran). Si il est spécialisé dans l'escalade, il transforme une tâche d'escalade de difficulté 6 en une tâche d'escalade de difficulté 4. Ceci est appelé *faciliter la difficulté de deux crans*. Diminuer la difficulté d'une tâche est aussi appelée *faciliter une tâche*. Certaines situations peuvent augmenter la difficulté d'une tâche. Augmenter la difficulté d'un cran est aussi appelé « entraver une tâche ».
+
+    % https://en.wikibooks.org/wiki/LaTeX/Tables
+    % https://www.overleaf.com/learn/latex/Tables
+    \begin{table*}[t!]
+        \hspace*{-90pt}
+        \centering
+         \begin{tabular}{ c c c p{10cm} } 
+        \multicolumn{4}{ l }{\Large \textcolor{RedViolet}{Difficulté de la Tâche}} \\
+        \textbf{Difficulté de la Tâche} & \textbf{Description} & \textbf{Nombre Cible} & \textbf{Aide} \\ [0.5ex]
+         \rowcolor{RedViolet!50}
+         0 & Routine & 0 & Tâche typique qui demande de l'attention, mais la plupart des gens y arrivent habituellement.  \\ 
+         \rowcolor{RedViolet!20}
+         1 & Simple & 3 & La plupart des gens arrivent à le faire la plupart du temps. \\ 
+         \rowcolor{RedViolet!50}
+         2 & Standard & 6 & Tâche typique qui demande de l'attention, mais la plupart des gens y arrivent habituellement.  \\
+         \rowcolor{RedViolet!20}
+         3 & Exigeant & 9 & Demande une bonne concentration; la plupart des gens ont une chance sur deux de réussir. \\
+         \rowcolor{RedViolet!50}
+         4 & Difficile & 12 & les personnes entraînées ont 50\% de chance de réussir. \\
+         \rowcolor{RedViolet!20}
+         5 & Gageure & 15 & Même les personnes entraînés échouent souvent.  \\
+         \rowcolor{RedViolet!50}
+         6 & Intimidant & 18 & Les personnes normales ne réussissent quasiment jamais. \\
+         \rowcolor{RedViolet!20}
+         7 & Formidable & 21 & Impossible sans de bonnes compétences ou beaucoup d'effort. \\
+         \rowcolor{RedViolet!50}
+         8 & Héroïque & 24 & Une tâche digne d'être racontée durant des années après. \\
+         \rowcolor{RedViolet!20}
+         9 & Immortel & 27 & Une tâche digne de légendes qui durent quelques générations. \\
+         \rowcolor{RedViolet!50}
+         10 & Impossible & 30 & Une tâche que des humains normaux n'envisageraient pas (mais qui respecte les lois de la physique). \\
+         \end{tabular}
+         \label{table:taskdifficulty}
+    \end{table*}
+
+
+    Une compétence est une catégorie de connaissance, de capacité ou d'activité relative à une tâche, telle que l'escalade, la géographie, ou la persuasion. Un personnage qui possède une compétence est meilleur pour accomplir une tâche associée qu'un personnage qui ne l'a pas. Le niveau de compétence d'un personnage est soit entraîné (raisonnablement compétent) ou spécialisé (très compétent).
+
+    Si vous êtes entraîné dans une compétence relative à une tâche, vous facilitez la difficulté de cette tâche d'un cran. Si vous êtes spécialisé, vous la facilitez de deux crans. Une compétence ne peut jamais diminuer la difficulté d'une tâche de plus de deux crans.
+
+    Tout autre élément qui diminue la difficulté (de l'aide d'un allié, une pièce spécifique d'un équipement, ou d'autres avantages) est appelé un atout. Les atouts ne peuvent jamais diminuer la difficulté de plus de deux crans.
+
+    Vous pouvez aussi diminuer la difficulté d'une tâche en appliquant de l'Effort.
+
+    Pour résumer, trois choses peuvent diminuer la difficulté d'une tâche: les compétences, les atouts, et l'Effort.
+
+    Si vous pouvez faciliter une tâche jusqu'à ce sa difficulté soir réduite à zéro, vous réussissez automatiquement et vous n'avez pas besoin de jeter un dé.
+
+
+    \section*{QUAND JETER UN DÉ ?}
+    A chaque fois qu'un personnage tente d'accomplir une tâche, la Meneuse assigne une difficulté à cette tâche, et vous lancez un d20 contre le nombre seuil associé.
+
+    Quand vous sautez d'un véhicule en flamme, balancez une hache sur une bête mutante, nagez dans une rivière en crue, identifiez un objet étrange, convainquez un marchand de vous faire un prix, fabriquez un objet, utilisez un pouvoir pour contrôler l'esprit d'un adversaire, ou utilisez un fusil blaster pour faire un trou dans un mur, vous jetez un d20.
+
+    Toutefois, si vous tentez quelque chose dont la difficulté est de 0, alors aucun jet n'est nécessaire\textendash vous réussissez automatiquement. Beaucoup d'actions ont une difficulté de 0. Par exemple, marcher dans une pièce et ouvrir une porte, utiliser une capacité spéciale pour annuler la gravité pour voler, utiliser une capacité pour protéger votre ami de la radiation, ou activer un appareil (dont vous comprenez le fonctionnement) pour ériger un champs de force. Toutes ces tâches sont des actions de routine et ne nécessitent aucun jet de dé.
+
+    En utilisant des compétences, des atouts, et de l'Effort, vous pouvez faciliter la difficulté d'une tâche potentielle jusqu'à zéro et ainsi supprimer la nécessité de jeter un dé. Marcher sur une poutre est compliquer pour la plupart des personnes, mais pour un gymnaste expérimenté c'est la routine. Vous ne pouvez jamais faciliter la difficulté d'une attaque sur un adversaire jusqu'à 0 et réussir sans jeter un dé.
+
+    Si il n'y pas besoin de jeter un dé, il n'y a aucune chance d'échouer. Toutefois, s'il n'y a aucune chance pour un succès remarquable (dans le Cypher System, cela signifie d'habitude de faire un 19 ou 20, ce qui est appelé un jet spécial).
+
+    \begin{table*}[t!]
+        \hspace*{-50pt}
+        \centering
+         \begin{tabular}{ | p{17cm} | } 
+            \hline
+            \rowcolor{RedViolet!20} {\Large \textcolor{RedViolet}{GLOSSAIRE}} \\
+            \rowcolor{RedViolet!20} \textbf{Meneuse:} La joueuse ou le joueur qui n'interprète pas un personnage mais qui plutôt indique la direction que prend l'histoire et qui interprète tous les PNJs. \\
+            \rowcolor{RedViolet!20} \textbf{Personnage non-joueur (PNJ):} Personnages interprèté par la Meneuse. Pensez à eux comme des personnages mineurs dans l'histoire, ou les adversaires. Cela inclut toute sorte de créature aussi bien que les êtres humains. \\
+            \rowcolor{RedViolet!20} \textbf{Groupe:} Un groupe de personnages joueur (et peut être quelques alliés PNJs). Personnage joueur (PJ): un personnage interprèté par une joueuse ou un joueur plutôt que par la Meneuse. Penser aux PJs comme les principaux personnages de l'histoire. \\
+            \rowcolor{RedViolet!20} \textbf{Joueur:} Les joueurs qui interprète des personnages dans le jeu. \\
+            \rowcolor{RedViolet!20} \textbf{Session:} Une simple expérience de jeu. Cela dure habituellement quelques heures. Quelque fois, une aventure peut être terminée en une session. La plupart du temps, une aventure est étalée sur plusieurs sessions. \\
+            \rowcolor{RedViolet!20} \textbf{Aventure:} Une partie de la campagne avec un commencement et une fin. C'est en général définit au départ par un objectif pour les PJs et à la fin par si ou non ils parviennent à atteindre l'objectif. \\
+            \rowcolor{RedViolet!20} \textbf{Campagne:} Une série de sessions liées entre elles par une histoire principale avec les mêmes PJs. Souvent, mais pas toujours, une campagne implique un certain nombre d'aventures. \\
+            \hline
+         \end{tabular}
+         \label{table:basicglossary}
+    \end{table*}
+
+    
+    \begin{table*}[b]
+        \hspace*{0pt}
+        \centering
+         \begin{tabular}{ | m{14cm} | } 
+            \hline
+            \rowcolor{RedViolet!20} Avec le Cypher System, ce sont les joueurs qui font tous les jets de dés. Si un personnage attaque une créature, le joueur lance le dé pour l'attaque. Si une créature attaque un personnage, le joueur fait un jet de défense.. \\
+            \hline
+         \end{tabular}
+         \label{table:hint3.1}
+    \end{table*}
+
+    \section*{COMBAT}
+
+    Faire une attaque dans un combat fonctionne comme tout autre tâche: la Meneuse assigne une difficulté à la tâche, et vous jetez un d20 contre le nombre seuil.
+
+    La difficulté de votre jet d'attaque dépend d'à quel point votre adversaire est puissant. Comme toutes les tâches ont une difficulté qui va de 1 à 10, les créatures ont un niveau qui va de 1 à 10. LA plupart du temps, la difficulté de votre jet d'attaque est la même que le niveau de la créature. Par exemple, si vous attaquez un bandit de niveau 2, c'est une tâche de difficulté 2, donc le nombre seuil est de 6.
+
+    Il est important de noter que ce sont uniquement les joueurs qui lancent les dés.. Si un personnage attaque une créature, le joueur fait le jet d'attaque. Si une créature attaque un personnage, le joueur fait un jet de défense.Les dommages infligés par une attaque ne sont pas déterminés par un jet de dé\textendash c'est un nombre fixe basé sur l'arme ou l'attaque utilisée. Par exemple, une lance inflige toujours 4 points de dommages.
+
+    Votre caractéristique d'Armure réduit les dommages que vous subissez directement. Vous obtenez de l'Armure en portant une armure physique (un blouson de cuir dans l'époque contemporaine ou une côte de maille dans une campagne médiévale) ou de capacités spéciales.. Comme les dommages infligés par les armes, l'Armure est un nombre fixe, par un jet de dé. Si vous êtes attaqué, soustrayez votre Armure des dommages que vous subissez. Par exemple, un blouson de cuir vous donne +1 à votre Armure, cela signifie que vous diminuez d'un point les dommages subis. Si l'Armure réduit les dommages à 0, vous ne subissez aucun dommage de l'attaque.
+
+    Quand vous verrez le mot "Armure" avec une majuscule dans les règles du jeu (en dehors du nom d'une capacité spéciale), cela réfère à votre caractéristique d'Armure\textendash le nombre que vous soustrayez des dommages subis. Quand vous voyez le mot "armure" avec une minuscule, cela réfère à toute armure physique que vous pourriez porter.
+
+    Les armes physiques typiques sont classées en trois catégories: légères, moyennes et lourdes.
+
+    \textbf{Les armes légères} n'infligent que 2 points de dommages, mais elles facilitent les jets d'attaque car elles sont rapides et simples à utiliser. Les armes légères sont les poings, les pieds, les massues, les couteaux, les hachettes, les rapières, les petits pistolets, et ainsi de suite. Les armes qui sont particulièrement petites sont des armes légères.
+
+    \textbf{Les armes moyennes} infligent 4 point de dommage. Les armes moyennes incluent les épées, les haches de bataille, les maces, les arbalètes, les lances, les pistolets, les blasters, et ainsi de suite. La plupart des armes sont moyennes. tout ce qui peut être utilisé à une main (même si c'est souvent utilisé à deux mains comme les bâtons ou les lances) est une arme moyenne.
+
+    \textbf{Les armes lourdes} infligent 6 points de dommage et elles doivent être utilisées à deux mains pour attaquer. Les armes lourde sont les grandes épées, les grandes haches, les marteaux de guerre, les hallebardes, les arbalètes lourdes, les fusils blaser, et ainsi de suite. Tout ce qui doit être utilisé avec deux mains est une arme lourde.
+
+
+    \section*{LES JETS SPÉCIAUX}
+    Quand le résultat d'un jet de dé est un 19 naturel (le d20 indique 19) et que c'est un succès, alors vous obtenez un effet mineur. En combat, un effet mineur inflige 3 points de dommages supplémentaires à votre attaque, ou, si vous préférez un résultat spécial, vous pouvez décidez à la place de repousser votre adversaire, de le distraire ou quelque chose de similaire. Quand ce n'est pas en combat, un effet mineur peut signifier que vous réussissez l'action avec une grâce particulière. Par exemple, si vous sautez d'un rebord, vous atterrissez légèrement sur vos pieds, ou si vous essayez de persuader quelqu'un, vous le convainquez que vous êtes plus malin que vous ne l'êtes. En d'autres mots, non seulement vous réussissez mais vous allez un peu plus loin.
+
+    Quand le résultat d'un jet de dé est un 20 naturel (le d20 indique 20) et que c'est un succès, alors vous obtenez un effet majeur C'est similaire à un effet mineur, mais le résultat est plus impressionnant. En combat, un effet majeur inflige 4 points de dommage supplémentaires à votre attaque, mais comme pour un effet mineur, vous pouvez choisir à la place un effet plus dramatique, comme de mettre à terre votre adversaire, l'étourdir, ou prendre une action supplémentaire. En dehors du combat, un effet majeur signifie qu'un bénéfice survient, en fonction des circonstances. Par exemple, quand vous grimpez sur un mur, vous faites l'ascension deux fois plus vite. Quand un jet de dé vous confère un effet majeur, vous pouvez choisir un effet mineur à la place si vous préférez.
+
+    En combat (et seulement en combat), quand vous faites un 17 ou un 18 naturel à votre jet d'attaque, vous ajoutez respectivement 1 ou 2 points aux dommages. Cela ne donne pas d'effet spécial, seulement des dommages supplémentaires.
+
+    Faire un 1 au jet de dé est toujours mauvais. Cela signifie que la Meneuse peut introduire une nouvelle complication dans la rencontre.
+
+    \begin{figure*}[b]
+        \includegraphics[height=10cm,center]{CS-page10-01.png}
+    \end{figure*}
+
+    \section*{PORTÉE ET RAPIDITÉ}
+    Les distances (ou portées) sont simplifiées en quatre catégories de distance: immédiates, courtes, longues et très longues.
+
+    \textbf{Une distance immédiate} à partir d'un personnage se situe dans les quelques pas autour. Si un personnage se tient dans une petite pièce, tout se qui se trouve dans la pièce est à portée immédiate. Au plus, la portée immédiate est de 3m (10 pieds).
+
+    \textbf{Une distance courte} est ce qui est au-delà de la portée immédiate mais moins que 15m (50 pieds) environ.
+
+    \textbf{Une longue distance} est ce qui est au-delà de la courte portée mais moins que 30m (100 pieds) environ.
+
+    \textbf{Une très longue distance} est ce qui est au-delà de la longue portée mais moins que 150m (500 pieds) environ. Au-delà de cette portée les distances sont toujours spécifique\textendash300m (1000 pieds), 1,5km (1 mille), et ainsi de suite.
+
+    L'idée est qu'il n'est pas nécessaire de mesurer les distances de manière précise. La portée immédiate est là immédiatement, pratiquement à côté du personnage. Une courte portée est proche. Une longue portée est loin et une très longue portée est vraiment loin.
+
+    Toutes les armes et les capacités spéciales utilisent ces termes pour les portées. par exemple, toutes les armées de mêlée ont une portée immédiate\textendash ce sont des armes de close-combat, et vous pouvez les utiliser pour attaque n'importe qui dans une portée immédiate. Un couteau de lancer (et la plupart des armes lancées) ont une portée courte. Un arc a une portée longue. La capacité d'Adepte Assaut Magique a aussi une courte portée.
+
+    Un personnage peut se déplacer dans une portée immédiate dans le cadre d'une autre action. En d'autres mots, il peut faire quelques pas jusqu'au panneau de contrôle et activer un levier. Il peut se fendre dans une petite pièce pour attaquer un ennemi. Il peut ouvrir une porte et traverser.
+
+    Un personnage peut se déplacer sur une courte portée en tant qu'action pendant un tour. Il peut aussi essayer de se déplacer sur une longue portée pendant toute leur action, mais le joueur devra faire un jet de dé pour voir si le personnage glisse ou trébuche par conséquence de déplacer aussi vite.
+
+    Par exemple, si les PJs combattent un groupe de cultistes, chaque personnage peut attaquer n'importe quel cultiste dans une mêlée classique\textendash ils sont tous dans une portée immédiate. Les positions exactes ne sont pas importantes. Les créatures dans un combat sont toujours en train de se déplacer, changer de position ou de se bousculer. Toutefois, si un cultiste se met en retrait pour tirer au pistolet un personnage devra peut-être utiliser toute une action pour se déplacer sur une courte portée pour l'attaquer. Cela n'a pas d'importance que le culstiste soir à 6m ou 12m\textendash cela est simplement considéré comme une courte portée. Cela aura de l'importance si le cultiste se trouve à plus de 15m car à cette distance cela nécessitera un long ou un très long déplacement.
+
+    \begin{figure*}[b]
+        \centering
+        \includegraphics[height=10cm,center]{CS-page11-01.png}
+    \end{figure*}
+
+    \section*{POINTS D'EXPÉRIENCE}
+    Les Points d'Expérience (XP) sont des récompenses données aux joueurs quand la Meneuse s'immisce dans l'histoire (ceci est appelé une intrusion de la Meneuse) avec un défi nouveau et inattendu. Par exemple, au milieu d'un combat, la Meneuse peut informer le joueur que son arme lui échappe des mains. Toutefois, pour s'immiscer de cette façon, la Meneuse doit récompenser le joueur avec 2 points d'XP. Le joueur qui obtient cette récompense, doit, à son tour, donner immédiatement un de ces deux points de XP à un autre joueur et justifier ce don (peut-être que le joueur a eu une bonne idée, a fait une bonne blague, a fait une action qui a sauvé une vie, etc).
+
+    Toutefois, le joueur peut refuser l'intrusion de MJ. Dans ce cas, il n'obtient pas les 2 points de XP de la Meneuse, et il doit dépenser un point de XP de leur propre réserve de XP. Si le joueur n'a pas de XP à dépenser, il ne peut pas refuser l'intrusion.
+
+    La Meneuse peut aussi donner aux joueurs des XP entre les sessions en tant que récompenses pour avoir fait des découvertes pendant l'aventure. Les découvertes sont des évènements intéressants, des secrets merveilleux, des artefacts puissants, des réponses à des mystères, ou des solutions à des problèmes (tels que où les kidnappeurs détiennent leur victime ou comment les PJs ont réparé leur vaisseau). Vous ne méritez pas de XP pour avoir tuer des adversaires ou l'accomplissement de défis standards au court du jeu. La découverte est l'âme du Cypher System.
+
+    Les points d'expérience sont utilisés principalement pour l'avancement du personnage (pour des détails, consultez le chapitre Chapitre 4: Créer votre Personnage), mais un joueur peut aussi dépenser 1 XP pour relancer n'importe quel jet de dé et choisir le meilleur d'entre les deux.
+
+    \begin{table*}[t]
+        \hspace*{0pt}
+        \centering
+         \begin{tabular}{ | m{14cm} | } 
+            \hline
+            \rowcolor{RedViolet!20} You don't earn XP for killing foes or overcoming standard challenges in the
+            course of play. Discovery is the soul of the Cypher System. \\
+            \hline
+         \end{tabular}
+         \label{table:hint3.1}
+    \end{table*}
+
+
+    \section*{CYPHERS}
+    Les Cyphers sont des capacités à usage unique. Dans beaucoup de campagnes, les cyphers ne sont pas des objets physiques--ils peuvent être un sort lancé sur un personnage, une bénédiction d'un dieu, ou simplement un coup de pouce du destin qui lui donne un avantage. Dans certaines campagnes, les cyphers sont des objets physiques que les personnages peuvent transporter. Que les cyphers sont des objets physiques ou non, il font parti du personnage (comme son équipement ou une capacité spéciale) et sont des éléments que les personnages peuvent utiliser pendant le jeu. La forme que prend les cyphers physiques dépend du type de campagne. Dans un monde médiéval fantastique cela peut être des potions ou des baguettes magiques, mais pour de la science fiction cela peut être des cristaux extra-terrestres ou des prototypes.
+
+    Les personnages vont trouver de nouveaux Cyphers fréquemment au cours du jeu, les joueurs ne devraient donc pas hésiter à utiliser les capacités de leur cyphers. Comme les cyphers sont toujours différents, les personnages auront toujours des nouveaux pouvoirs spéciaux à essayer. 
+
+
+    \section*{AUTRES DÉS}
+    En plus du d20, vous aurez besoin d'un d6 (un dé à six faces). Vous aurez rarement besoin de jeter un d100, que vous pourrez obetnir en jetant deux fois un d20 et en retenant le dernier chiffre du premier dé pour les dizaines, et le dernier chiffre du secod jet pour les unités. Par exemple, jeter les dés et obtenir un 17 et un 9 vous donne 79, obtenir un 3 et un 18 vous donne un 38, et obtenir un 20 et un 10 vous donne 00 (ou 100). Si vous avez un d10 (un dé à dix faces), vous pourez l'utiliser à la place du d20 pour avoir un nombre entre 1 et 100.
+
+    \begin{figure*}[h]
+        \centering
+        \includegraphics[height=10cm,center]{CS-page12-01.png}
+    \end{figure*}
+
+%#######################################################################
+\part*{\uppercase{Personnages}}
+%-----------------------------------------------------
+% https://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/macros/latex/contrib/titlesec/titlesec.pdf
+% https://borntocode.fr/latex-personnaliser-les-titres-chapter/
+%% define format for chapter for part 2
+\titleformat{\chapter} % command
+    [display] % shape
+    {\bfseries\Large\centering} % format
+    {\textcolor{BlueViolet}{Chapitre \ \thechapter \\ \huge #1} \\ \afficheimagechapitre{\thechapter}} % label
+    {0.5ex} % sep
+    {
+        \centering
+    } % before-code
+    [
+    \centering
+    ] % after-code
+    \titlespacing*{\chapter}
+    {0mm} %left
+    {-0pt} %before-step
+    {0mm} %after-step
+    {} %right
+%-----------------------------------------------------
+%% define format for section
+\titleformat{\section} % Command to format section titles
+{\normalfont\Large\bfseries} % Format: normal font, large size, bold
+{\thesection}{1em} % Label format: section number followed by 1em space
+{} % Before the title
+[\titlerule] % After the title: horizontal line
+
+\titleformat{\section} % command
+    [display] % shape
+    {\bfseries\Large} % format
+    {\textcolor{BlueViolet}{#1}} % label
+    {0.5ex} % sep
+    {
+        \Large
+    } % before-code
+
+    \titlespacing*{\section}
+    {0mm} %left
+    {-0pt} %before-step
+    {0mm} %after-step
+    {} %right
+%-----------------------------------------------------
+% numberless
+\titleformat{name=\section,numberless}[runin] 
+    {\normalfont\Large\bfseries}
+    {\\ \textcolor{BlueViolet} {#1}}
+    {20pt}
+    {\Large}
+    [\\]
+%-----------------------------------------------------
+%% define format for subsection
+    \titleformat{\subsection} % command
+    [display] % shape
+    {\bfseries\large} % format
+    {\textcolor{BlueViolet}{#1}} % label
+    {0.5ex} % sep
+    {
+        \large
+    } % before-code
+
+    \titlespacing*{\subsection}
+    {0mm} %left
+    {-0pt} %before-step
+    {0mm} %after-step
+    {} %right
+%-----------------------------------------------------
+% numberless
+\titleformat{name=\subsection,numberless}[runin] 
+    {\normalfont\large\bfseries}
+    {\\ \textcolor{BlueViolet} {#1}}
+    {20pt}
+    {\large}
+    [\\]
+%#######################################################################
+%            CHAPTER 4
+%#######################################################################
+\chapter{\uppercase{Créer Votre Personnage}\label{ch:chapter4}}
+\fancypagestyle{plain}{ %
+\fancyhf{} % remove everything
+\renewcommand{\headrulewidth}{1pt} % remove lines as well
+\renewcommand{\footrulewidth}{0pt}
+\xpretocmd\headrule{\color{BlueViolet}}{}{\PatchFailed}
+\fancyhead[RO]{\textcolor{BlueViolet}{\textsc{Créer Votre Personnage}}}
+\fancyhead[LE]{\textcolor{BlueViolet}{CYPHER SYSTEM}}
+}
+
+Ce chapitre vous détaille comment créer des personnages pour jouer à une partie de jeux de rôle basée sur le Cypher System. Cela nécessite un ensemble de décisions qui vont donner corps à votre personnage, de façon à ce que plus vous comprennez le type de personnage vous avez envie de jouer et plus la création du personnage sera simple. Le processus implique de bien comprendre les principes des trois statistiques (Puissance, Célérité et Intellect) et de choisir trois aspects (Réserve, Avantage et Effort) qui vont déterminer les possibilités de votre personnage.
+
+\section*{Les Statistiques du Personnage}
+
+Chaque personnage joueur a trois caractéristiques bien définies qui sont appelées "statistiques" ou "stats". Ces stats sont Puissance, Célérité et Intellect. Ce sont des catégories assez larges qui couvrent des aspects différents d'un personnage.
+
+\subsection*{Puissance}
+
+La puissance définit à quel point votre personnage est fort et résistant. Les concepts de force, endurance, constitution, résistance et les prouesses physiques sont englobées dans cette stat. La Puissance n'est pas relative à la taille; c'est plutôt une mesure absolue. Un éléphant a plus de Puissance que le plus puissant des tigres, qui a plus de Puissance que le plus puissant des rats, qui a plus de Puissance que la plus puissante des araignées.
+
+La Puissance gouverne les actions comme de force une porte ou de marcher pendant des jours sans manger ou de résister à une maladie. C'est aussi le moyen principal pour déterminer combien de dommages votre personnage peut supporter dans une situation dangereuse. Les personnages physiques, endurants ou plutôt orientés dans le combat devraient se concentrer sur la Puissance.
+
+La Puissance peut être pensée comme Puissance/Santé car elle contrôle à quel point vous être fort et à quel niveau de chocs physiques vous pouvez supporter.
+
+\subsection*{Célérité}
+
+La Célérité décrit à quel point votre personnage est rapide et bien coordonné. La stat inclut l'agilité, la vitesse, le mouvement, la dextérité et les reflexes. La Célérité contrôle les actions telles qu'éviter les attaques, se dissimuler et s'infiltrer, lancer une balle avec précision. Cette stat permet de déterminer si vous pouvez vous déplacer rapidement dans votre tour. Les personnages agiles, rapides, ou les as de la dissimulation, tout comme ceux qui souhaitent exceller en tir à distance, devraient avoir une bonne Célérité.
+
+La Célérité peut être pensée comme de la Vitesse ou de l'Agilité car elle contrôle votre célérité et vos reflexes.
+
+\subsection*{Intellect}
+
+Cette stat détermine à quel point votre personnage peut être malin, éduqué et apprécié. Cela inclut l'intelligence, la sagesse, le charisme, l'éducation, le raisonnement, l'esprit, la volonté et le charme. L'intelligence contrôle la résolution d'énigmes, se souvenir de faits, énoncer des mensonges convaincants, et utiliser des pouvoirs mentaux. Les personnages interressés dans la communication, dans l'érudition, ou dans le contrôle de pouvoirs sunaturels devraient avoir une bonne stat d'Intellect.
+
+\section*{Réserve, Avantage, et Effort}
+
+Chacune des trois stats a deux composantes: la Réserve et l'Avantage. Votre Réserve représente votre faculté pure, innée, et votre Avantage représente à quel point vous savez utiliser ce que vous avez. Un troisième composant est lié à ce concept: l'Effort. Quand votre personnage a vraiment besoin d'accomplir une tâche, vous pouvez appliquer de l'Effort.
+
+\subsection*{Réserve}
+
+Votre Réserve est la mesure de base d'une stat. Comparer les Réserves de deux créatures vous donnera un bon apperçu de quelle créature est supérieure dans cette stat. Par exemple, un personnage qui a une Réserve de Puissance de 16 est plus costaud qu'un personnage qui a une Réserve de Puissance de 12. La plupart des personnages commencent avec une Réserve entre 9 et 12 dans la plupart des stats—c'est la fourchette moyenne.
+
+Quand votre personnage est blessé, malade ou attaqué, vous perdez temporairement des points de l'une de vos Réserve de stat. La nature de l'attaque détermine Réserve perd des points. Par exemple, un dommage physique par une épée réduit votre Réserve de Puissance, un poison qui vous rend maladroit réduit votre Réserve de Célérité, et une attaque psionique réduit votre Réserve d'Intellect . Vous pouvez aussi dépensser des points de l'une de vos Réserve pour diminuer la difficulté d'une tâche (voir Effort ci-dessous). Vous pouvez vous reposer pour récupérer des points perdus dans une Réserve de stat, et certaines capacités spéciales ou cyphers peuvent vous permettre de récupérer des points perdus rapidement.
+
+\subsection*{Avantage}
+
+Bien que votre Réserve est la mesure de base d'une stat, votre Avantage est aussi important. Quand quelque chose vous demande de dépenser des points d'une de vos Réserves, votre Avantage associé à la stat réduit ce coût. Cela réduit aussi le coût pour appliquer de l'Effort à un jet de dé.
+
+Par exemple, disons que vous la capacité d'attaque mentale et que son activation coûte 1 point de votre Réserve d'Intellect. Soustrayez votre Avantage d'Intellect du coût d'activation et le résultat représente le nombre de points que vous devez dépenser pour utiliser d'attaque mentale. Si l'utilisation de votre Avantage réduit le coût à zéro, vous pouvez utiliser la capacité gratuitement.
+
+Votre Avantage peut être différent pour chaque stat. Par exemple, vous pourriez avoir un Avantage de Puissance de 1, un Avantage de Célérité de 1, et un Avantage d'Intellect de 0. Vous aurez toujours un avantage d'au moins 1 dans une des stats. Votre Avantage dans une stat réduit le coût de la dépense de points dans cette Réserve, mais pas des autres Réserves. Votre Avantage de Puissance réduit les coûts dépensés dans votre Réserve de Puissance, mais cela n'affecte pas votre Réserve de Célérité ou d'Intellect. Une fois que l'Avantage pour une stat atteint 3, vous pouvez appliquer un niveau d'Effort gratuitement.
+
+Un personnage qui a une Réserve de Puissance faible mais un fort Avantage de Puissance a le potentiel d'accomplir des actions de Puissance de manière plus régulière qu'un personnage qui a une Réserve de Puissance de 0. Un Avantage élevé permet de réduire le coût des dépenses de points de la Réserve associée, ce qui implique qu'il y a plus de points disponibles pour appliquer de l'Effort.
+
+\subsection*{Effort}
+
+Quand votre personnage a vraiment besoin d'accomplir une tâche, vous pouvez appliquer de l'Effort. Pour un personnage débutant, appliquer de l'Effort nécessite de dépenser 3 points de la Réserve de la stat appropriée pour l'action. Ainsi, si votre personnage essaie d'éviter une attaque (un jet de Célérité) et veut augmenter ses chances de succès, vous pouvez appliquer de l'Effort en dépensant 3 points de votre Réserve de Célérité. L'Effort facilite une tâche d'un cran. On appelle cela appliquer un niveau d'Effort.
+
+Vous n'êtes pas obligé d'appliquer de l'Effort si vous ne voulez pas. Si vous choisissez d'appliquer de l'Effort pour une tâche, vous devez le faire avant de jeter le dé—vous ne pouvez pas jeter le dé et décider d'appliquer de l'Effort si votre jet de dé n'est pas bon.
+
+Appliquer de l'Effort peut diminuer la difficulté d'une tâche encore plus: chaque niveau d'Effort facilite la tâche d'un cran supplémentaire. Appliquer un niveau d'Effort facilite la tâche d'un cran, appliquer deux niveaux facilite la tâche de deux crans, et ainsi de suite. Toutefois, chaque niveau d'Effort après le premier ne coûte que 2 points de la Réserve de Stat au lieu de 3. Ainsi, appliquer deux niveaux d'Effort coûte 5 points (3 pour le premier niveau plus 2 pour le second niveau), appliquer trois niveaux coûte 7 points (3 plus 2 plus 2), et ainsi de suite.
+
+Chaque personnage a un score d'Effort, qui indique le nombrede niveau d'Effort maximum qui peut appliquer sur un jet de dé. Un personnage débutant (premier rang) a un Effort de 1, ce qui signifie que vous ne pouvez qu'un seul niveau d'Effort à un jet de dé. Un personnage plus expérimenté a un score d'Effort plus grand et peut appliquer plus de niveaux d'Effort à un jet de dé. Par exemple, un personnage qui a un score d'Effort de 3 peut appliquer jusqu'à 3 niveaux d'Effort pour réduire la difficulté d'une tâche.
+
+Quand vous appliquez de l'Effort, soustrayez votre Avantage associé au total du coût. Par exemple, disons que vous avez besoin de faire un jet de RApidité. Pour augmenter votre chance de succès, vous décidez d'appliquer un niveau d'Effort, ce qui va faciliter la tâche. Normalement, cela vous coûterait 3 points de votre R2serve de Célérité. Toutefois vous avez un Avatange de Célérité de 2, que vous soustrayez au coût de l'Effort. Ainsi, l'application de l'Effort pour le jet de dé ne coûte qu'un point de votre Réserve de Célérité.
+
+Que se passe-t-il si vous appliquez deux niveaux d'Effort à un jet de Célérité au lieu d'un seul ? Cela faciliterait la tâche de deux crans. Normalement, cela couterait 5 point de votre Réserve de Célérité, mais après soustraction de votre Avantage de Célérité de 2, cela ne coute finalement que 3 points.
+
+Une fois que l'Avantage d'une stat atteint 3, vous pouvez appliquer un niveau d'Effort gratuitement. Par exemple, si cous avez un Avantage de RApidité de 3 et que vous souhaitez appliquer un niveau d'Effort à un jet de Célérité, cela vous coute 0 point de votre Réserve de Célérité. (En situation normale, appliquer un niveau d'Effort vous coute 3 points, mais comme vous soustrayez votre Avantage de Célérité, cela le réduit à 0.)
+
+Les compétences et autres avantages permettent aussi de faciliter une tâche, et vous pouvez les utiliser en conjonction de l'Effort. De plus, votre personnage peut avoir des capacités spéciales ou de l'équipement qui vous permet d'appliquer de l'Effort pour accomplir un effet spécial, tel que mettre un adversaire à terre ou affecter plusieurs cibles avec un pouvoir qui n'en affecte qu'un seul normalement.
+
+\section*{Effort et Dommages}
+
+Au lieu d'appliquer de l'Effort pour faciliter votre attaque, vous pouvez appliquer de l'Effort pour augmenter les dommages infligés par l'attaque. Pour chaque niveau d'Effort que vous appliquez ainsi, vous infligez 3 points de dommages supplémentaires. Cela fonctionne pour tout type d'attaque qui inflige des dommages, que ce soit une épée, une arbalète, une attaque psi, ou autre.
+
+Quand vous utilisez de l'Effort pour augmenter des dommages d'attaque de zone,, comme par l'explosion créée par la Capacité d'Adepte Concussion, vous infligez 2 points de dommages supplémentaires au lieu de 3 points. Toutefois, ces points supplémentaires sont infligés à toutes les cibles de la zone. De plus, même si une des cibles résiste à l'attaque, elle subit quand même 1 point de dommage.
+
+\section*{Utilisation multiple de l'Effort et Avantage}
+
+Si votre Effort est de 2 ou plus, vous pouvez appliquer de l'Effort à plusieurs aspects d'une simple action. Par exemple, si vous faites une attaque, vous pouvez appliquer de l'Effort à votre jet d'attaque et appliquer de l'Effort pour augmenter les dommages.
+
+La somme totale de l'Effort que vous appliquez ne peut pas être supérieure à votre score d'Effort. Par exemple, si votre effort est de 2, vous pouvez appliquer jusqu'à 2 niveaux d'Effort. Vous pourriez appliquer un niveau d'Effort au jet d'attaque et un niveau d'Effort pour les dommages, deux niveaux d'Effort pour l'attaque et aucun Effort pour les dommages, ou aucun Effort pour l'attaque et deux niveaux pour les dommages.
+
+Vous pouvez utiliser l'Avantage pour une stat particulière uniquement une fois par action. Par exemple, si vous appliquez, sur la stat de Puissance, de l'Effort pour le jet d'attaque et pour les dommages, vous pouvez utiliser votre Avantage de Puissance pour réduire le coût d'un des usage de l'Effort (jet d'attaue ou dommages), mais pas les deux. Si vous dépensez un point d'Intellect pour activer votre attaque psi et un niveau d'Effort pour faciliter le jet d'attaque, vous pouvez utiliser votre Avantage d'Intellect pour réduire l'un des deux (activation ou attaque), mais pas les deux.
+
+\section*{Exemples de l'utilisation de Stat}
+
+Un personnage débutant est en train de combattre un rat géant. Avec sa lance, le PJ essaie de transpercer le rat, qui est une créature de niveau 2 et qui a donc un nombre seuil de 6. Le personnage se tient sur un rocher et frappe vers le bas sur la bête, et la Meneuse décide que cette tactique est un atout qui facilité d'un cran (vers une difficulté de 1 au lieu de 2 initialement). Cela diminue le nombre seuil à 3. Attaquer avec une lance est une action de Puissance; le personnage a une Réserve de Puissance de 11 et un avantage de Puissance de 0. Avant de faire le jet de dé, le PJ décide d'appliquer un niveau d'Effort pour faciliter l'attaque. Cela coûte 3 points de sa Réserve de Puissance, la réduisant à 8. Mais les points sont bien dépensés. Appliquer l'Effort diminue la difficulté de 1 à 0, et ainsi aucun jet de dé n'est nécessaire---l'attaque réussit automatiquement.
+
+Un autre personnage essaie de convaincre un garde de le laisser entrer dans un bureau pour parler avec un noble influent. La Meneuse décide que c'est une action d'Intellect. Le personnage est de rang 3 et a un Effort de 3, une Réserve d'Intellect de 13 et un Avantage d'Intellect de 1. Avant de jeter le dé, il décide si il applique de l'Effort. Il peut choisir d'appliquer un, deux, ou trois niveaux d'Effort, ou de ne pas en appliquer du tout. Cette action est importante pour lui, et il décide donc d'appliquer deux niveaux d'Effort, facilitant la tâche de deux crans. Grâce à son Avantage d'Intellect, appliquer l'Effort ne coûte que 4 points de sa Réserve d'Intellect (3 points pour le premier niveau d'Effort, plus 2 points pour le second niveau moins 1 point de l'Avantage). Dépenser ces pointsréduit la Réserve d'Intellect à 9. La Meneuse décide que convaincre le garde est une tâche de difficulté 3 (Exigeant) avec un nombre seuil de 9; appliquer deux niveaux d'Effort permet de réduire la difficulté à 1 (simple) et un nombre cible de 3. Le Joueur lance un d20 et obtient un 8. Comme ce résultat est supérieur ou égal au nombre seuil de la tâche, le personnage réussit. Toutefois, si le PJ n'avait pas appliquer d'Effort, il aurait échoué car le résultat du dé (8) aurait été inférieur au nombre seuil initial (9) de la tâche.
+
+\begin{figure*}[t]
+    \includegraphics[height=10cm,center]{CS-page17-01.png}
+\end{figure*}
+
+
+\section*{Rangs de Personnage}
+
+Chaque personnage commence le jeu au premier rang. Le rang est une mesure du pouvoir, de résistance et de capacité. Les personnages peuvent avancer jusqu'au rang six. Alors que votre personnage passe au rang supérieur, il gagne de nouvelles capacités, augmente son Effort et peut améliorer un Avantage de stat ou augmenter une stat. En général, même un personnage de rang 1 est déjà assez compétent. Il est facile d'imaginer qu'il a déjà vécu pas mal d'expériences. Ce n'est pas une progression "de zéro à héro", mais plutôt une personne compétente qui affine et polit ses capacités et ses connaissances. Progresser vers un rang supérieur n'est pas vraiment l'objectif des personnages du Cypher System, mais plutôt une représentation de comment les personnages progressent dans l'histoire.
+
+Pour avancer au rang suivant, les personnages gagne des points d'expérience (XP) en poursuivant les arcs de personnage, allant en aventure et en découvrant de nouvelles choses---le système est vraiment basé sur la découverte et l'exploration, tout autant que l'accomplissement d'objectifs personnels. Les points d'expérience ont plusieurs usages, dont un est d'acquérir des bénéfices au personnage. Une fois que votre personnage a acquis quatre bénéfices de personnage, il avance au rang suivant. Chaque bénéfice coûte 4 XP, et vous pouvez les acquérir ans n'importe quel ordre, mais vous devez acquérir un de chaque type de bénéfice (et ainsi avancer vers le rang suivant) avant de pouvoir acquérir le même bénéfice à nouveau. Les quatre bénéfices sont les suivants.
+
+
+\textbf{Augmenter vos Possibilités:} Vous gagnez 4 points à ajouter à vos Réserves de stat. Vous pouvez allouer ces points parmi les Réserves comme vous l'entendez.
+
+\textbf{Avancer vers la Perfection:} Vous ajoutez 1 à votre Avantage, votre Avantage de Célérité ou à votre Avantage d'Intellect (à vous de choisir).
+
+\textbf{Extra Effort:} Votre score d' Effort augmente de 1.
+
+\textbf{Compétences:} Vous devenez entraîné dans une compétence de votre choix, autre que pour l'attaque ou la défense. Comme décrit dans le Chapitre 11: Règles du Jeu, un personnage entraîné dans une compétence traite la difficulté d'une tâche avec un cran de moins que la normale. La compétence que vous choisissez pour ce bénéfice peut être ce que vous voulez, comme escalade, saut, persuasion, ou dissimulation. Vous pouvez aussi choisir d'avoir plus de savoir dans un type de connaissance, telle que l'histoire ou la géologie. Vous pouvez même choisir une compétence basée sur des capacités spéciales de votre personnage. Par exemple, si votre personnage peut faire un jet d'Intellect pour attaquer un ennemi avec sa force mentale, vous pouvez devenir entraîné à utiliser cette capacité, facilitant la tâche de son utilisation. Si vous choisissez une compétence pour laquelle vous êtes déjà entraîné, vous devenez spécialisé dans cette compétence, facilitant les tâches de deux crans au lieu d'un seul.
+
+\textbf{Autres Options:} Les joueurs peuvent aussi dépenser 4 XP pour acheter d'autres options spéciales à la place d'acquérir une nouvelle compétence. Sélectionner une de ces options compte comme un bénéfice de compétence pour avancer vers le rang suivant. Les options spéciales sont les suivantes:
+• Réduire le coût de porter une armure. Cette option diminue le coût de Célérité pour porter une armure de 1.
+• Ajouter 2 à votre jets de récupération.
+• Sélectionner une nouvelle capacité de votre type de votre rang ou d'un rang inférieur.
+
+\begin{figure*}[b]
+    \includegraphics[height=10cm]{CS-page18-01.png}
+\end{figure*}
+
+\section*{DESCRIPTEUR DE PERSONNAGE, TYPE ET FOCUS}
+Pour créer votre personnage, vous élaborez une phrase simple qui le décrit. Cette phrase, ou proposition, prend la forme suivante:
+"Je suis un [mettre un nom ici] [mettre un adjectif ici] qui [mettre un groupe verbal ici]."
+Ainsi: "Je suis un adjectif nom qui verbe-complément". Par exemple, vous pourriez énoncer, "Je suis un Robuste Guerrier qui Contrôle les Bêtes Sauvages" ou "Je suis un Séduisant Explorateur qui Concentre l'Esprit sur la Matière".
+Dans cette phrase, l'adjectif est appelé votre descripteur.
+
+Le nom est le type de votre personnage.
+
+Le groupe verbal est appelé votre focus.
+
+Même si le type du personnage est au milieu de la phrase, c'est par lui que nous commencerons cette discussion.
+
+Le type de votre personnage est son essence. Dans certains jeux de rôle il peut être appelé classe de personnage. Votre type aide à déterminer la place de personnage dans le monde et la relation avec les autres dans la campagne. C'est le nom dans la phrase "Je suis un adjectif nom qui groupe verbal".
+
+Vous pouvez choisir parmi quatre types de personnage: Guerriers, Adeptes, Explorateurs, Émissaires.
+
+Votre descripteur définit votre personnage---il donne une coloration à tout ce qu'il fait. Votre descripteur met votre personnage en situation (la première aventure qui démarre la campagne) et aide à fournir une motivation. C'est l'adjectif dans la phrase "Je suis un adjectif nom qui groupe verbal".
+
+A moins que la Meneuse ne dise le contraire, vous pouvez choisir n'importe quel descripteur de personnage.
+
+Le Focus est ce que votre personnage fait de mieux. Le Focus fournit la spécificité de votre personnage et donne de nouvelles capacités qui pourraient s'avérer utiles. Votre Focus vous aide aussi à comprendre comment vous associer avec d'autres PJ de votre groupe. C'est le groupe verbal dans la phrase "Je suis un adjectif nom qui groupe verbal".
+
+Il y a plusieurs focus de personnage. Celui que vous choisirez dépend probablement de la campagne et du genre de la partie.
+
+\section*{\uppercase{Capacités Spéciales}}
+Les types et focus des personnages donnent aux PJs des capacités spéciales à chaque nouveau rang. L'utilisation de ces capacités coûte en général des points de vos Réserves de stat; ce coût est indiqué entre parenthèses après le nom de la capacité. Votre Avantage dans la stat associée peut réduire ce coût de la capacité, mais souvenez-vous que vous ne pouvez appliquer l'Avantage qu'une fois par action. Par exemple, disons qu'un Adepte avec un Avantage d'Intellect de 2 souhaite  utiliser sa capacité d'Assaut Magique pour créer un éclair de force, ce qui coûte 1 point d'Intellect. Il voudrait aussi augmenter les dommages de l'attaque en utilisant un niveau d'Effort, ce qui coûte 3 points d'Intellect. Le coût total de l'action est de 2 points de Réserve d'Intellect (1 point pour l'éclair de force, plus 3 points pour utiliser l'Effort, moins 2 points de l'Avantage).
+
+Dans certains cas, le coût pour une capacité a un signe + après le nombre. Par exemple, le coût peut être donné comme "2+ Points d'Intellect". Cela signifie que vous pouvez dépenser plus de points ou plus de niveaux d'Effort pour améliorer la capacité, tel que détaillé dans la description de la capacité.
+Plusieurs capacités spéciales confèrent au personnage l'option d'accomplir une action qu'il ne pourrait pas faire normalement, telle que projeter des éclairs de givre ou attaquer plusieurs adversaires à la fois. Utiliser une de ces capacités est une action à part entière, et à la fin de la description il est indiqué "Action" pour vous le rappeler. Cette description peut aussi vous fournir plus d'information sur quand et comment vous pouvez accomplir cette action.
+Certaines capacités spéciales vous permettent d'accomplir une action familière---une action que vous pourriez déjà faire---sous une forme différente. Par exemple, une capacité peut vous laisser porter une armure lourde, réduire la difficulté d'un jet de défense de Célérité, ou ajouter 2 points aux dommages de feu aux dommages de votre arme. Ces capacités sont de la catégorie des Facilitateurs. Utiliser l'une de ces capacités n'est pas considéré comme une action. Les facilitateurs fonctionnent, soit de manière constante (comme de porter une armure lourde, qui n'est pas une action), soit se produisent au cours d'une autre action (telle que ajouter des dommages de feu aux dommages de votre arme, qui va se produire pendant votre action d'attaque). Si une capacité spéciale est un facilitateur, il est indiqué "Facilitateur" à la fin de sa description.
+
+Certaines capacités spécifient une durée, mais vous pouvez interrompre l'une de vos propre capacité quand vous le souhaitez.
+
+\begin{table*}[b]
+    \hspace*{-20mm}
+    \centering
+     \begin{tabular}{ | m{17cm} | } 
+        \hline
+        \rowcolor{SkyBlue!50}
+        \Large SKILLS \\
+        \rowcolor{SkyBlue!50}
+        \begin{multicols}{2}
+            Quelque fois votre personnage va acquérir un entraînement dans une compétence ou une tâche spécifique. Par exemple, votre focus peut signifier que vous avez été entraîné dans la dissimulation, dans l'escalade et le saut, ou dans les interactions sociales. A d'autres moments, votre personnage pourra choisir une compétence pour en devenir entraîné, et vous pourrez sélectionner une compétence qui s'associe à toute tâche à laquelle vous pensez que vous aurez à accomplir.
+
+            Le Cypher System n'a pas de liste définitive de compétences. Toutefois, la liste ci-après donne des idées:
+            \begin{tabular}{ l | l | l } 
+                \rowcolor{SkyBlue!50}
+                Acrobatie & Géographie & Physique \\
+                Astronomie & Géologie & Pickpocket \\
+                Biologie & Histoire & Pilotage \\
+                Botanique & Identifier & Porter \\
+                Chevaucher & Initiative & Réparer \\
+                Conduire un véhicule & Intimidation & S'infiltrer \\
+                Crochetage & Machiniste & Sauter \\
+                Déguisement & Nager & Soigner \\
+                Discrétion & Ordinateur & Travail du bois \\
+                Dissimulation & Perception & Travail du cuir \\
+                Escalade & Persuasion & Travail du métal \\
+                Fracasser & Philosophie & Tromper \\
+            \end{tabular}
+            Vous pouvez choisir une compétence qui incorpore plus d'une de ces définitions ci-dessus (interagir peut inclure tromper, intimidation et persuasion) ou cela peut être une version plus spécifique (se cacher peut être dissimulation quand vous ne bougez pas). Vous pouvez aussi avoir des compétences plus générales liées à une profession, telle que boulanger, marin, ou bûcheron. Si vous voulez sélectionner une compétence qui n'est pas dans cette liste, il est probablement sage de consulter d'abord la Meneuse, mais en général, la chose la plus importante est de choisir des compétences qui soient appropriées à votre personnage.
+    
+            Souvenez-vous que si vous gagnez une compétence pour laquelle vous êtes déjà entraîné, vous devenez spécialisé dans cette compétence. Comme les descriptions des compétences sont assez vagues, déterminer si vous êtes entraîné ou spécialisé peut demander un peu de réflexion. Par exemple, si vous êtes entraîné à mentir et que plus tard vous gagnez une capacité qui vous donne un entraînement de compétence dans toutes les interactions sociales, alors vous devenez spécialisé dans les mensonges et entraîné dans les autres formes d'interaction. Être entraîné trois fois dans une compétence n'apporte rien de plus que de l'être deux fois (en d'autres termes, spécialisé est le maximum que l'on puisse atteindre dans une compétence).
+            Seules les compétences acquises à partir des capacités du type de personnage, ou quelques rares autres cas, vous permettent de devenir entraîné dans les tâches d'attaque ou de défense.
+            
+            Si vous gagnez une capacité spéciale à partir de votre type, focus ou un autre aspect de votre personnage, vous pouvez la sélectionner à la place d'une compétence et devenir entraîné ou spécialisé dans cette capacité. Par exemple, si vous avez une attaque psi, quand vient le moment de choisir une compétence dans laquelle vous seriez entraîné, vous pouvez sélectionner vote attaque psi en tant que compétence. Cela facilitera l'attaque à chaque fois que vous l'utiliserez. Chaque capacité que vous avez compte comme une compétence unique dans ce cas d'usage. Vous ne pouvez pas sélectionner "tous les pouvoirs mentaux" en tant que seule compétence et devenir entraîné ou spécialisé pour une catégorie aussi large.
+            Dans la plupart des campagnes, parler couramment une langue est considéré comme une compétence. Donc si vous voulez parler Espagnol, c'est la même chose qu'être entraîné en biologie ou à nager.
+        \end{multicols}
+  \\
+        \hline
+     \end{tabular}
+     \label{table:skills}
+\end{table*}
+
+
+
+%#######################################################################
+%            CHAPTER 5
+%#######################################################################
+\chapter{\uppercase{Type}\label{ch:chapter5}}
+\fancypagestyle{plain}{ %
+\fancyhf{} % remove everything
+\renewcommand{\headrulewidth}{1pt} % remove lines as well
+\renewcommand{\footrulewidth}{0pt}
+\xpretocmd\headrule{\color{BlueViolet}}{}{\PatchFailed}
+\fancyhead[RO]{\textcolor{BlueViolet}{Type}}
+\fancyhead[LE]{\textcolor{BlueViolet}{CYPHER SYSTEM}}
+}
+
+Le Type de personnage est le coeur de votre personnage. Son type vous aide à déterminer sa place dans le monde et les relations avec les autres dans la campagne. C'est le "nom" dans la phrase "Je suis un/e textit{nom+adjectif} qui textit{proposition}"
+
+Vous pouvez choisir parmi quatre types de personnage: Guerrier, Adepte, Explorateur, et Emissaire. Toutefois, vous pourriez ne pas vouloir utiliser ces termes génériques. Ce chapitre vous propose, pour chaque type, quelques alternatives de noms qui pourraient être plus adapté à un genre particulier. Vous trouverez peut-être que des noms comme "Guerrier" ou "Explorateur" ne sonnent pas juste, en particulier dans des campagnes se déroulant à une époque contemporaine. Comme toujours, vous êtes libre de faire comme vous voulez.
+
+Comme le type est la base sur laquelle votre personnage est bati, il est important de considérer comment le type se tient avec la campagne sélectionnée. Pour se faire, les types sont en pratique des archetypes. Un Guerrier, par exemple, pourrait être n'importe qui du chevalier en armure étincellante au policier dans la rue ou au baroudeur cybernétique vétéran de milliers de guerres futuristes.
+
+Pour faciliter l'usage des quatre types dans les diverses campagnes, différentes méthodes appelées "préférences" sont présentées dans le Chapitre 6: Préférence piur aider à personnaliser les différents types pour de la fantasy, de la science fiction, ou d'autres genres (ou pour s'ajuster à différents concepts de personnage).
+
+Au final, des options plus fondamentales de personnalisation sont fournies à la fin de ce chapitre.
+
+\section*{Guerrier}
+
+\begin{description}
+    \item[Fantasy/Contes:] guerrier, combattant, escrimeur, chevalier, barbare, soldat, myrmidon, valkyrie
+    \item[Moderne/Horreur/Romance:] officier de police, soldat, gardien, détective, vigile, athlète
+    \item[Science fiction:] officier de sécurité, guerrier, homme de troupe, soldat, mercenaire
+    \item[Superhéro/Post-Apocalyptique:] héro, brique, cogneur
+\end{description}
+
+Vous êtes un bon allié à avoir dans un combat. Vous savez comment utiliser des armes et vous défendre.En fonction du genre et de la campagne, cela pourrait signifier de porter une épée et un bouclier dans une arêne de gladiateurs, un AK-47 et des grenades en bandoulière dans la jungle, ou un fusil blaster et une armure mécanique dans l'exploration d'une planète lointaine.
+
+\begin{description}
+    \item[Rôle Individuel:] Les Guerriers sont orienté sur le physique et l'action. ils auront plus l'habitude de surmonter un péril en utilisant la force que d'autre moyen, et ils prennent souvent le chemin le plus court vers leur objectif.
+    \item[Rôle dans un Groupe:] Les guerriers subissent et infligent généralement le plus de dégâts dans une situation dangereuse. Il leur incombe souvent de protéger les autres membres du groupe contre les menaces. Cela signifie parfois que les guerriers assument également des rôles de commandement, du moins au combat et dans d'autres moments de danger.
+    \item[Rôle en société:] Les Guerriers ne sont pas toujours des soldats ou des mercenaires. N'importe qui est est toujours prêt pour la violence, ou même la violence potentielle, peut être un Guerrier dans un sens général. Cela inclut les gardes, les gardiens, les officiers de police, les marins, ou les personnes dans d'autres rôle ou profession qui savent comment se défendre avec talent.
+    \item[Guerier Expérimentés:] Alors que les guerriers progressent, leur compétence en combat—que ce soit en se défendant ou en infligeant des dommages—augmente à un rang impressionant. A un rang supérieur, ils peuvent souvent se prendre un groupe d'aversaires tout seul ou affronter sur son terrain n'importe qui.
+\end{description}
+
+\begin{table}[]
+    \begin{tabular}{ | l | }
+        \rowcolor{SkyBlue!50}
+        \textcolor{BlueViolet}{\Large \uppercase{Intrusion de Joueur}} \\
+        \rowcolor{SkyBlue!50}
+        Une intrusion de joueur est quand un joueur choisi d'altérer quelque chose dans la campagne, rendant les choses plus facile pour le PJ. De manièr conceptuelle, c'est l'inverse d'un intrusion de MJ qui donne au joueur des points d'expérience (XP) en introduisant une complication inatendue pour le personnage. Dans le cas du joueur, ce dernier dépense un 1 XP et présente une solution à un problème ou une complication. Ce que l'intrusion du joueur peut faire est en général introduire un changement du monde ou des circonstances en cours, plutôt que de changer directement le personnage. Par exemple, une intrusion qui propose que le cypher qui vient d'être utilisé a une charge supplémentaire, est appropriée, mais une intrusion qui propose que le personnage est soigné ne l'est pas. Si le joueur n'a pas d'XP à dépenser, il ne peut pas utiliser d'intrusion de joueur.
+
+        Quelques exemples d'intrusion de joueur sont proposées pour chaque type. Cela dit, toutes les intrusions de joueur listées ici ne sont pas appropriées à chaque situation. Le MJ peut autoriser les joueurs à proposer d'autres suggestions d'intrusion de joueur, mais la Meneuse a le dernier mot pour savoir si une intrusion est appropriée en fonction du type de personnage et de la situation. Si la Meneuse refuse l'intrusion, le joueur ne dépense pas de XP, et l'intrusion n'a simplement pas lieu.
+
+        Utiliser une intrusion ne requiert pas du personnage d'utiliser une action pour l'activer. Une intrusion de joueur survient tout simplement. \\
+        \hline
+    \end{tabular}
+\end{table}
+
+\section*{Intrusions de Joueur pour un Guerrier}
+
+Vous pouvez dépenser 1 XP pour utiliser une des intrusions de joueur suivantes, à condition que la situation est appropriée et que la Meneuse soit d'accord.
+\begin{description}
+    \item[Position Parfaite:] Vous combattez au moins trois adversaires et chacun d'eux se trouve exactement à la bonne position pour vous pour faire un mouvement pour lequel vous vous êtes entrainé il y a longtemps, vous permettant de les attaquer tous les trois en une seule action. Faites un jet d'attaque pour chaque adversaire. Vous restez limité par la quantité d'Effort que vous pouvez allouer en une seule action.
+    \item[Vieil Ami:] Un ancien companion d'arme se présente de manière spontanée et vous fourni de l'aide dans ce que vous êtes en train de faire. Il doit accomplir sa propre mission et ne peut pas rester plus longtemps que pour vous aider, parler un peu après et peut-être partager un repas rapide.
+    \item[Arme cassée:] L'arme de votre adversaire a un point faible. Pendant le combat, l'arme est endommagée et descend de deux rangs sur le suivi des dommages des objets.
+\end{description}
+
+\section*{Réserves de Stat pour un Guerrier}
+\begin{table}[h]
+    \begin{tabular}{ l c }
+        \textbf{Stat} & \textbf{Valeur de Réserve au Démarrage} \\
+        \rowcolor{SkyBlue!50}
+        Puissance & 10 \\
+        \rowcolor{SkyBlue!20}
+        Célérité & 10 \\
+        \rowcolor{SkyBlue!50}
+        Intellect & 8 \\
+    \end{tabular}
+\end{table}
+
+Vous avez 6 points supplémentaires à répartir parmi vos Réserves de stat comme vous le souhaitez.
+
+\section*{Guerrier de Premier Rang}
+
+Les Guerriers de Premier Rang ont les capacités suivantes:
+\begin{description}
+    \item[Effort:] Votre Effort est de 1.
+    \item[Physical Nature:] Vous avez un Avantage de Puissance de 1 et un Avantage de Célérité de 0, ou vous avez un Avantage de Puissance de 0 et un Avantage de Célérité de 1. Dans tous les cas, vous avez un Avantage d'Intellect de 0.
+    \item[Cypher Use:] Vous pouvez porter deux cyphers en même temps.
+    \item[Armes:] Vous avez la pratique des armes légères, moyennes et lourdes et n'avez aucune pénalité quand vous utilisez une arme quelconque.
+    \item[Equipment au départ:] Des vêtements appropriés et deux armes de votre choix, ainsi que un objet cher, deux objets modérement chers, et jusqu'à quatre objets peu chers.
+    \item[Capacités Spéciales:] Choisissez quatre capacités listées ci-cessous. Vous ne pouvez pas choisir la même capacité plus d'une fois, à moins que sa description dit le contraire. La description complète de chaque capacité listée se trouve dans le chapitre Capacités, qui dispose aussi des descriptions pour les préférences et les capacités de focus en un seul grand catalogue.
+\end{description}
+
+\begin{abnamelist}
+    \item \abilitylistitem{Avantage de Stat Amélioré}{itm:Improved_Edge}
+\end{abnamelist}
+
+%#######################################################################
+%            CHAPTER 6
+%#######################################################################
+\chapter{\uppercase{Préférence}\label{ch:chapter6}}
+\fancypagestyle{plain}{ %
+\fancyhf{} % remove everything
+\renewcommand{\headrulewidth}{1pt} % remove lines as well
+\renewcommand{\footrulewidth}{0pt}
+\xpretocmd\headrule{\color{BlueViolet}}{}{\PatchFailed}
+\fancyhead[RO]{\textcolor{BlueViolet}{Préférence}}
+\fancyhead[LE]{\textcolor{BlueViolet}{CYPHER SYSTEM}}
+}
+%#######################################################################
+%            CHAPTER 7
+%#######################################################################
+\chapter{\uppercase{Descripteur}\label{ch:chapter7}}
+\fancypagestyle{plain}{ %
+\fancyhf{} % remove everything
+\renewcommand{\headrulewidth}{1pt} % remove lines as well
+\renewcommand{\footrulewidth}{0pt}
+\xpretocmd\headrule{\color{BlueViolet}}{}{\PatchFailed}
+\fancyhead[RO]{\textcolor{BlueViolet}{Descripteur}}
+\fancyhead[LE]{\textcolor{BlueViolet}{CYPHER SYSTEM}}
+}
+%#######################################################################
+%            CHAPTER 8
+%#######################################################################
+\chapter{\uppercase{Focus}\label{ch:chapter8}}
+\fancypagestyle{plain}{ %
+\fancyhf{} % remove everything
+\renewcommand{\headrulewidth}{1pt} % remove lines as well
+\renewcommand{\footrulewidth}{0pt}
+\xpretocmd\headrule{\color{BlueViolet}}{}{\PatchFailed}
+\fancyhead[RO]{\textcolor{BlueViolet}{Focus}}
+\fancyhead[LE]{\textcolor{BlueViolet}{CYPHER SYSTEM}}
+}
+
+%#######################################################################
+%            CHAPTER 9
+%#######################################################################
+\chapter{\uppercase{Capacités}\label{ch:chapter9}}
+\fancypagestyle{plain}{ %
+\fancyhf{} % remove everything
+\renewcommand{\headrulewidth}{1pt} % remove lines as well
+\renewcommand{\footrulewidth}{0pt}
+\xpretocmd\headrule{\color{BlueViolet}}{}{\PatchFailed}
+\fancyhead[RO]{\textcolor{BlueViolet}{Capacités}}
+\fancyhead[LE]{\textcolor{BlueViolet}{CYPHER SYSTEM}}
+}
+
+Ce chapitre présente un grand catalogue de plus d'un millier de capacités qu'un personnage peut obtenir par son type, ses préférences et son focus. Elles sont triées par ordre alphabétique.
+
+Le type de personnage, ses préférences et son focus donne un rang particulier à chaque capacité. Toutefois, si vous créez un nouveau focus ou un nouveau type, nous vous fournissons quelques outils supplémentaires.
+
+Le premier outil est un niveau de pouvoir pour chaque capacité. Ce niveau vous indiquera à quel point il est puissant par rapport aux autres capacités. Les capacités qui sont appropriées pour les personnages de rang 1 et 2 sont appelées "capacités de rang inférieur", celles pour les personnages de rang 3 et 4 sont appelées "capacités de rang intermédiaire", et celles pour les personnages de rang 5 et 6 sont appelées "capacités de rang supérieures".
+
+Les capacités sont triées ci-après en catégories basées sur les sortes de choses qu'elles font. Par exemple, les capacités qui améliorent les attaques physiques sont dans la catégorie des compétences en "attaque", les capacités qui soutiennent les alliés sont dans la catégorie "support", et ainsi de suite.
+
+\section*{Catégories de Capacités et Pouvoir Relatif}
+
+Les capacités peuvent être divisées en plusieurs catégories basées sur les sortes de choses qu'elles font. Par exemple, les capacités qui améliorent les attaques physiques sont dans la catégorie des compétences en "attaque", les capacités qui soutiennent les alliés sont dans la catégorie "support", et ainsi de suite. Après chaque description de catégorie vous trouverez une liste de capacités triées par rang (inférieur/intermédiaire/supérieur).
+
+Les catégories sont principalement utilisées par les MJs quand ils définissent les nouveaux focus pour une campagne pour leur permettre de ne chercher qu'une liste simple de capacités au lieu d'essayer de trouver quelque chose d'approprié parmi le miller de capacité dans ce chapitre. Par exemple, la Meneuse pourrait avoir un focus, personnalisée pour sa campagne, et appelée "Est Née dans le Marais" et voudrait une capacité défensive de rang 5. Dans ce cas, la Meneuse peut jeter un coup d'oeil aux capacités de rang supérieur dans la catégorie "protection" et trouver rapidement quelles options sont disponibles.
+
+
+\section*{Capacités - A}
+\begin{abnamelist}
+    \abilitydetaillistitem{Absorber l'Esprit\label{itm:Infuse_Spirit}}{Lorsque vous tuez une créature ou détruisez un esprit avec une attaque, si vous le souhaitez, son esprit (s'il n'est pas protégé) vous infuse immédiatement et vous regagnez 1d6 points dans l'une de vos Réserves (votre choix). L'esprit est stocké en vous, ce qui signifie qu'il ne peut être questionné, ressuscité ou ramené à la vie par quelque moyen que ce soit, sauf si vous le permettez. Facilitateur.(Infuse Spirit - 153)}
+    %\abilitydetaillistitem{Avantage de Stat Amélioré\label{itm:Improved_Edge}}{Choisissez un de vos Avantage de statistique qui est de 0. Il passe à 1. Enabler.(Improved Edge 151)}
+    
+\end{abnamelist}
+
+%#######################################################################
+%            CHAPTER 10
+%#######################################################################
+\chapter{\uppercase{équipement}\label{ch:chapter10}}
+\fancypagestyle{plain}{ %
+\fancyhf{} % remove everything
+\renewcommand{\headrulewidth}{1pt} % remove lines as well
+\renewcommand{\footrulewidth}{0pt}
+\xpretocmd\headrule{\color{BlueViolet}}{}{\PatchFailed}
+\fancyhead[RO]{\textcolor{BlueViolet}{\uppercase{é}quipement}}
+\fancyhead[LE]{\textcolor{BlueViolet}{CYPHER SYSTEM}}
+}
+
+\backmatter
+\end{document}
