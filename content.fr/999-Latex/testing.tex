@@ -1,0 +1,190 @@
+\documentclass[letterpaper,french,twocolumn,openany]{book}
+\usepackage[T1]{fontenc}    % Encodage T1 (adapté au français)
+%French-specific commands
+%____________________________________________________________________
+% https://en.wikibooks.org/wiki/LaTeX/Special_Characters
+\usepackage[french]{babel}
+\usepackage[autolanguage]{numprint} % for the \nombre command
+\usepackage{hyperref}   % for linking references https://en.wikibooks.org/wiki/LaTeX/Hyperlinks
+\usepackage{lmodern}        % Caractères plus lisibles
+\usepackage{babel}          % Réglages linguistiques (avec french)
+%\pagestyle{empty}           % N'affiche pas de numéro de page
+\usepackage[explicit]{titlesec}  % pour modifier le style de chapitre
+\usepackage{color}        % pour les coleurs de police
+\usepackage[table,dvipsnames]{xcolor}  % pour les couleurs des tableaux https://en.wikibooks.org/wiki/LaTeX/Colors
+\usepackage{graphicx}     % pour inclure des images
+\usepackage{wrapfig}
+%\usepackage[dvipsnames]{xcolor} % pour les couleurs
+\usepackage{fancyhdr} % pour les entete
+\usepackage{ifthen}  % branchements conditionnels
+\usepackage{xpatch} 
+\usepackage[export]{adjustbox}  % pour positionner des images dans la page
+\usepackage{tabularx}  % pour les tableaux
+\usepackage{wrapfig}   % pour le que le texte ne recouvre pas les figures/tableaux
+\usepackage{stfloats}   % pour le que le texte ne recouvre pas les figures/tableaux
+\usepackage{multicol}   % gestion de plusieurs colonnes (dans une cellule de tableau pas ex)
+\usepackage{enumitem}   % pour la personnalisation des liste
+\usepackage{parskip}     % for paragraph indenttion
+%____________________________________________________________________
+%%  Default Font
+\usepackage[sfdefault]{cabin}
+\renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif
+\usepackage[T1]{fontenc}
+
+\usepackage{lipsum}   % for test text
+\usepackage{titletoc}    % for having ToC under each chapter
+\usepackage{letltxmacro}
+\usepackage{etoolbox}
+
+%____________________________________________________________________
+% page margins
+% https://www.overleaf.com/learn/latex/Page_size_and_margins
+% https://fr.overleaf.com/learn/latex/Single_sided_and_double_sided_documents
+\usepackage[
+  top=20mm,
+  bottom=20mm,
+  marginparwidth=111pt
+  %textwidth=345pt,
+]{geometry}
+
+\titleformat{\chapter} % command
+[display] % shape
+{\bfseries\centering} % format
+{\textcolor{RedViolet}{\Large Chapitre \ \thechapter \\ \huge \uppercase{#1} \\ \hspace*{-75pt} \includegraphics[width=\paperwidth]{CS-page4-01.png}}
+  } % label
+{0pt} % sep
+{
+    \centering
+    \hspace*{-75pt}
+} % before-code
+[
+    \small
+] % after-code
+\titlespacing{\chapter}
+{0mm} %left
+{-0pt} %before-step
+{0mm} %after-step
+{} %right
+
+
+\newcommand\MiniToC{%
+  \setcounter{tocdepth}{2}
+  \startcontents
+  \printcontents{}{1}{\section*{\contentsname}\vskip-3.5ex\hrulefill\vskip1ex}
+  \vskip-0.5ex\noindent\hrulefill
+  \setcounter{tocdepth}{0}
+}
+\setcounter{tocdepth}{0}
+
+\makeatletter
+\newif\if@chap@enddc
+\@chap@enddctrue
+\LetLtxMacro\ltx@@chapter\@chapter
+\renewcommand\@chapter[2][]{%
+  \ltx@@chapter[#1]{#2}
+  \expandafter\label{chap:\thechapter}
+}
+
+\let\ltx@toc\tableofcontents
+\renewcommand\tableofcontents{%
+  \ltx@toc
+  \let\ltx@chapter\chapter
+  \renewcommand\chapter{%
+    \expandafter\label{prenextchap:\thechapter}
+    \ltx@chapter
+  }%
+}
+\let\ltx@enddocument\enddocument
+\renewcommand\enddocument{%
+  \if@chap@enddc\expandafter\label{prenextchap:\thechapter}\fi
+  \ltx@enddocument
+}
+\def\chaprange{%
+  \expandafter\pageref{chap:\thechapter}--\expandafter\pageref{prenextchap:\thechapter}
+}
+
+\let\ltx@addcontentsline\addcontentsline
+\def\CR@addcontentsline#1#2#3{%
+  \addtocontents{#1}{\protect\contentsline{#2}{#3}{\chaprange}}
+}
+
+\def\ToggleChaprange{\let\addcontentsline\CR@addcontentsline}
+\def\BypassChaprange{\let\addcontentsline\ltx@addcontentsline}
+\def\BreakChaprange{%
+  \expandafter\label{prenextchap:\thechapter}
+  \let\addcontentsline\ltx@addcontentsline
+  \@chap@enddcfalse
+}
+\makeatother
+
+\pretocmd{\section}{\BypassChaprange}{}{}
+\pretocmd{\chapter}{\ToggleChaprange}{}{}
+
+\begin{document}
+\frontmatter
+\begin{titlepage}
+    \centering
+    \begin{figure*}
+        \hspace*{-75pt}
+        \includegraphics*[width=\paperwidth]{CS-Cover.png}    
+    \end{figure*}
+\end{titlepage}
+
+%\blankpage
+
+\mainmatter
+\tableofcontents
+
+\part{première partie}
+\chapter{premier chapitre}
+
+%\makebox[\pagewidth][c]{\includegraphics[width=\paperwidth]{CS-page4-01.png}}
+\begin{wrapfigure}{l}{2mm}
+    {\fontsize{12mm}{2mm}\selectfont\textcolor{RedViolet}{\textbf{F}}}
+\end{wrapfigure}\lipsum[1-7]
+
+\section{premiere section}
+\lipsum[1]
+
+\subsection{premiere sous section}
+\lipsum[1]
+
+\subsection{seconde sous section}
+\lipsum[2-3]
+
+\section{seconde section}
+
+\lipsum[1-7]
+
+\subsection{premiere sous section}
+
+\lipsum[1]
+
+\begin{table}[h]
+    \begin{tabular}{ | p{\columnwidth} | }
+\hline
+\rowcolor{SkyBlue!50}
+\textcolor{BlueViolet}{\Large \uppercase{Intrusion de Joueur}} \\
+\rowcolor{SkyBlue!50}
+Une intrusion de joueur est quand un joueur choisi d'altérer quelque chose dans la campagne, rendant les choses plus facile pour le PJ. De manière conceptuelle, c'est l'inverse d'un intrusion de MJ qui donne au joueur des points d'expérience (XP) en introduisant une complication inatendue pour le personnage. Dans le cas du joueur, ce dernier dépense un 1 XP et présente une solution à un problème ou une complication. Ce que l'intrusion du joueur peut faire est en général introduire un changement du monde ou des circonstances en cours, plutôt que de changer directement le personnage. Par exemple, une intrusion qui propose que le cypher qui vient d'être utilisé a une charge supplémentaire, est appropriée, mais une intrusion qui propose que le personnage est soigné ne l'est pas. Si le joueur n'a pas d'XP à dépenser, il ne peut pas utiliser d'intrusion de joueur.
+
+Quelques exemples d'intrusion de joueur sont proposées pour chaque type. Cela dit, toutes les intrusions de joueur listées ici ne sont pas appropriées à chaque situation. Le MJ peut autoriser les joueurs à proposer d'autres suggestions d'intrusion de joueur, mais la Meneuse a le dernier mot pour savoir si une intrusion est appropriée en fonction du type de personnage et de la situation. Si la Meneuse refuse l'intrusion, le joueur ne dépense pas de XP, et l'intrusion n'a simplement pas lieu.
+
+Utiliser une intrusion ne requiert pas du personnage d'utiliser une action pour l'activer. Une intrusion de joueur survient tout simplement. \\
+\hline
+    \end{tabular}
+\end{table}
+
+\subsection{seconde sous section}
+
+\lipsum[2-3]
+
+
+\section{troisieme section}
+
+\lipsum[1-7]
+
+\part{seconde partie}
+\chapter{Quatrième section}
+
+\end{document}
