@@ -9,3 +9,4 @@ resources/_gen/
 *.synctex.gz
 *.out
 *.toc
+*.synctex(busy)
