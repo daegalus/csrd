@@ -50,7 +50,7 @@
 \titleformat{\chapter} % command
 [display] % shape
 {\bfseries\centering} % format
-{\textcolor{RedViolet}{\Large Chapitre \ \thechapter \\ \huge \uppercase{#1} \\ \hspace*{-75pt} \includegraphics[width=\paperwidth]{CS-page4-01.png}}
+{\textcolor{RedViolet}{\Large Chapitre \ \thechapter \\ \huge \uppercase{#1} \\ \hspace*{-75pt} \includegraphics[width=\paperwidth]{img/CS-page4-01.png}}
   } % label
 {0pt} % sep
 {
@@ -63,9 +63,14 @@
 \titlespacing{\chapter}
 {0mm} %left
 {-0pt} %before-step
-{0mm} %after-step
+{-10mm} %after-step
 {} %right
-
+%\titlespacing{\paragraph}
+% {5pc}{1.5ex minus .1 ex}{1pc}
+\titlespacing{\chapter}
+{0mm} %left
+{0pt} %before-step
+{0mm} %after-step
 
 \newcommand\MiniToC{%
   \setcounter{tocdepth}{2}
@@ -122,18 +127,18 @@
 
 \begin{document}
 \frontmatter
-\begin{titlepage}
-    \centering
-    \begin{figure*}
-        \hspace*{-75pt}
-        \includegraphics*[width=\paperwidth]{CS-Cover.png}    
-    \end{figure*}
-\end{titlepage}
+% \begin{titlepage}
+%     \centering
+%     \begin{figure*}
+%         \hspace*{-75pt}
+%         \includegraphics*[width=\paperwidth]{img/CS-Cover.png}    
+%     \end{figure*}
+% \end{titlepage}
 
 %\blankpage
 
 \mainmatter
-\tableofcontents
+%\tableofcontents
 
 \part{première partie}
 \chapter{premier chapitre}

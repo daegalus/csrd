@@ -40,9 +40,10 @@
 \usepackage[
   top=16mm,
   bottom=18mm,
-  marginparwidth=33mm,
-  marginparsep=3mm,
-  %outer=38mm,
+  marginparwidth=30mm,
+  marginparsep=2mm,
+  outer=50mm,
+  inner=20mm,
   headheight=7mm,
   headsep=7mm
   %textwidth=345pt,
@@ -104,7 +105,7 @@
         }
     }
 }
-%____________________________________________________________________---------------
+%____________________________________________________________________
 %  Style pour les en-têtes
 \newcommand*{\definitentete}[1]{
     \fancypagestyle{plain}{ %
@@ -135,10 +136,36 @@
 \newcommand*{\abilitydetaillistitem}[2]{\item \textbf{#1 :} #2}
 %-------------------------------------------------------------------
 %  style de paragraphe 
-%\setlength{\parindent}{3mm}
 \newcommand*{\chapterfirstletter}[2]{\begin{wrapfigure}{l}{2mm}
     {\Huge\textcolor{#2}{\textbf{#1}}}
 \end{wrapfigure}}
+%----------------------------------------------------------------
+% commande pour la couleur de chaque partie
+\newcommand*{\textcolorpartzero}[1]{\textcolor{RedViolet}{#1}}
+\newcommand*{\textcolorpartone}[1]{\textcolor{BlueViolet}{#1}}
+%\newcommand*{\getcolorpart}[1]{\ifthenelse{\equal{#1}{0}}{RedViolet}{\ifthenelse{\equal{#1}{1}}{BlueViolet}{\ifthenelse{\equal{#1}{2}}{BlueViolet}{}}}}
+%\newcommand*{\textcolorpart}[2]{\textcolor{\getcolorpart{#1}}{#2}}
+\newcommand*{\getcolorpartone}{BlueViolet}
+%  commande pour définir chaque chapitre
+\newcommand*{\startchapter}[3]{\chapter{#1}
+    \label{#2}
+    \fancypagestyle{plain}{ %
+    \fancyhf{} % remove everything
+    \renewcommand{\headrulewidth}{1pt} % remove lines as well
+    \renewcommand{\footrulewidth}{0pt}
+    \xpretocmd\headrule{\color{#3}}{}{\PatchFailed}
+    \fancyhead[RO]{\textcolor{#3}{\textsc{#1}}}
+    \fancyhead[LE]{\textcolor{#3}{CYPHER SYSTEM}}
+    \fancyhf[FLE,FRO]{\thepage}
+}
+\fancyhf{} % remove everything
+\renewcommand{\headrulewidth}{1pt} % remove lines as well
+\renewcommand{\footrulewidth}{0pt}
+\xpretocmd\headrule{\color{#3}}{}{\PatchFailed}
+\fancyhead[RO]{\textcolor{#3}{#1}}
+\fancyhead[LE]{\textcolor{#3}{CYPHER SYSTEM}}
+\fancyhf[FLE,FRO]{\thepage}
+}
 %#######################################################################
 \title{CYPHER SYSTEM LIVRE DES R\`{E}GLES}
 \author{Monte Cook, Bruce R. Cordell, Sean K. Reynolds}
@@ -155,12 +182,11 @@
     \begin{figure*}
         \hspace*{-75pt}
         \vspace*{-75pt}
-        \includegraphics*[height=29cm]{img/CS-Cover.png}    
+        \includegraphics*[height=\paperheight]{img/CS-Cover.png}    
     \end{figure*}
 \end{titlepage}
 %-------------------------
 % blank page
-\shipout\null
 %-------------------------
 \mainmatter
 \tableofcontents
@@ -169,63 +195,51 @@
 \fancypagestyle{plain}{ %
     \fancyhf{} % remove everything
 }
+\fancyhf[FLE,FRO]{\thepage}
 %#######################################################################
-    \part*{LE CYPHER SYSTEM}
-    %____________________________________________________________________---------------
-    % https://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/macros/latex/contrib/titlesec/titlesec.pdf
-    % https://borntocode.fr/latex-personnaliser-les-titres-chapter/
-    %% define format for chapter
-    \titleformat{\chapter} % command
-        [display] % shape
-        {\bfseries\Large\centering} % format
-        {\textcolor{RedViolet}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
-        {0pt} % sep
-        {
-            \centering
-        } % before-code
-        [
-            \small
-        ] % after-code
-    \titlespacing*{\chapter}
-        {0mm} %left
-        {-0pt} %before-step
-        {0mm} %after-step
-        {} %right
-    %____________________________________________________________________---------------
-    %% define format for section
-    \titleformat{\section} % Command to format section titles
-    {\normalfont\Large\bfseries} % Format: normal font, large size, bold
-    {\thesection}{1em} % Label format: section number followed by 1em space
-    {} % Before the title
-    [\titlerule] % After the title: horizontal line
-    \titleformat{\section} % command
-        [display] % shape
-        {\bfseries\Large} % format
-        {\textcolor{RedViolet}{#1}} % label
-        {0.5ex} % sep
-        {
-            \Large
-        } % before-code
-        \titlespacing*{\section}
-        {0mm} %left
-        {-0pt} %before-step
-        {0mm} %after-step
-        {} %right
-    %____________________________________________________________________---------------
-    % numberless
-    \titleformat{name=\section,numberless}[runin] 
-        {\normalfont\Large\bfseries}
-        {\\ \textcolor{RedViolet} {#1}}
-        {20pt}
-        {\Large}
-        [\\]
+%   PART 0 : The CYPHER SYSTEM
+%#######################################################################
+\part*{LE CYPHER SYSTEM}
+%____________________________________________________________________
+% https://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/macros/latex/contrib/titlesec/titlesec.pdf
+% https://borntocode.fr/latex-personnaliser-les-titres-chapter/
+%% define format for chapter
+\titleformat{\chapter} % command
+    [display] % shape
+    {\bfseries\Large\centering} % format
+    {\textcolor{RedViolet}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
+    {0pt} % sep
+    {
+        \centering
+    } % before-code
+    [
+        \small
+    ] % after-code
+\titlespacing{\chapter}
+    {0mm} %left
+    {-0pt} %before-step
+    {-10mm} %after-step
+    {} %right
+%____________________________________________________________________
+%% define format for section
+% numberless
+\titleformat{name=\section,numberless}[runin] 
+    {\normalfont\Large\bfseries}
+    {\\ \textcolor{RedViolet} {#1}}
+    {20pt}
+    {\Large}
+    [\\]
+% paragraphe indentation
+\setlength{\parindent}{3mm}
 %#######################################################################
 \include{./tex/Chapter-01.tex}
 \include{./tex/Chapter-02.tex}
 \include{./tex/Chapter-03.tex}
 %#######################################################################
+%    PART 1 : CHARACTERS
+%#######################################################################
 \part*{\uppercase{Personnages}}
-%____________________________________________________________________---------------
+%____________________________________________________________________
 % https://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/macros/latex/contrib/titlesec/titlesec.pdf
 % https://borntocode.fr/latex-personnaliser-les-titres-chapter/
 %% define format for chapter for part 2
@@ -245,29 +259,29 @@
     {-0pt} %before-step
     {0mm} %after-step
     {} %right
-%____________________________________________________________________---------------
+%____________________________________________________________________
 %% define format for section
-\titleformat{\section} % Command to format section titles
-{\normalfont\Large\bfseries} % Format: normal font, large size, bold
-{\thesection}{1em} % Label format: section number followed by 1em space
-{} % Before the title
-[\titlerule] % After the title: horizontal line
+% \titleformat{\section} % Command to format section titles
+% {\normalfont\Large\bfseries} % Format: normal font, large size, bold
+% {\thesection}{1em} % Label format: section number followed by 1em space
+% {} % Before the title
+% [\titlerule] % After the title: horizontal line
 
-\titleformat{\section} % command
-    [display] % shape
-    {\bfseries\Large} % format
-    {\textcolor{BlueViolet}{#1}} % label
-    {0.5ex} % sep
-    {
-        \Large
-    } % before-code
+% \titleformat{\section} % command
+%     [display] % shape
+%     {\bfseries\Large} % format
+%     {\textcolor{BlueViolet}{#1}} % label
+%     {0.5ex} % sep
+%     {
+%         \Large
+%     } % before-code
 
-    \titlespacing*{\section}
-    {0mm} %left
-    {-0pt} %before-step
-    {0mm} %after-step
-    {} %right
-%____________________________________________________________________---------------
+%     \titlespacing*{\section}
+%     {0mm} %left
+%     {-0pt} %before-step
+%     {0mm} %after-step
+%     {} %right
+%____________________________________________________________________
 % numberless
 \titleformat{name=\section,numberless}[runin] 
     {\normalfont\Large\bfseries}
@@ -275,23 +289,8 @@
     {20pt}
     {\Large}
     [\\]
-%____________________________________________________________________---------------
+%____________________________________________________________________
 %% define format for subsection
-    \titleformat{\subsection} % command
-    [display] % shape
-    {\bfseries\large} % format
-    {\textcolor{BlueViolet}{#1}} % label
-    {0.5ex} % sep
-    {
-        \large
-    } % before-code
-
-    \titlespacing*{\subsection}
-    {0mm} %left
-    {-0pt} %before-step
-    {0mm} %after-step
-    {} %right
-%____________________________________________________________________---------------
 % numberless
 \titleformat{name=\subsection,numberless}[runin] 
     {\normalfont\large\bfseries}
@@ -309,17 +308,17 @@
 \include{./tex/Chapter-09.tex}
 \include{./tex/Chapter-10.tex}
 %#######################################################################
-%   Part 2 Les règles
+%   PART 2 Les règles
 %#######################################################################
 \part*{\uppercase{Les Règles}}
-%____________________________________________________________________---------------
+%____________________________________________________________________
 % https://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/macros/latex/contrib/titlesec/titlesec.pdf
 % https://borntocode.fr/latex-personnaliser-les-titres-chapter/
 %% define format for chapter for part 2
 \titleformat{\chapter} % command
     [display] % shape
     {\bfseries\Large\centering} % format
-    {\textcolor{BlueViolet}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
+    {\textcolor{RawSienna}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
     {0.5ex} % sep
     {
         \centering
@@ -332,42 +331,21 @@
     {-0pt} %before-step
     {0mm} %after-step
     {} %right
-%____________________________________________________________________---------------
+%____________________________________________________________________
 %% define format for section
-\titleformat{\section} % Command to format section titles
-{\normalfont\Large\bfseries} % Format: normal font, large size, bold
-{\thesection}{1em} % Label format: section number followed by 1em space
-{} % Before the title
-[\titlerule] % After the title: horizontal line
-
-\titleformat{\section} % command
-    [display] % shape
-    {\bfseries\Large} % format
-    {\textcolor{BlueViolet}{#1}} % label
-    {0.5ex} % sep
-    {
-        \Large
-    } % before-code
-
-    \titlespacing*{\section}
-    {0mm} %left
-    {-0pt} %before-step
-    {0mm} %after-step
-    {} %right
-%____________________________________________________________________---------------
 % numberless
 \titleformat{name=\section,numberless}[runin] 
     {\normalfont\Large\bfseries}
-    {\\ \textcolor{BlueViolet} {#1}}
+    {\\ \textcolor{BlueVRawSiennaiolet} {#1}}
     {20pt}
     {\Large}
     [\\]
-%____________________________________________________________________---------------
+%____________________________________________________________________
 %% define format for subsection
     \titleformat{\subsection} % command
     [display] % shape
     {\bfseries\large} % format
-    {\textcolor{BlueViolet}{#1}} % label
+    {\textcolor{RawSienna}{#1}} % label
     {0.5ex} % sep
     {
         \large
@@ -378,11 +356,11 @@
     {-0pt} %before-step
     {0mm} %after-step
     {} %right
-%____________________________________________________________________---------------
+%____________________________________________________________________
 % numberless
 \titleformat{name=\subsection,numberless}[runin] 
     {\normalfont\large\bfseries}
-    {\\ \textcolor{BlueViolet} {#1}}
+    {\\ \textcolor{RawSienna} {#1}}
     {20pt}
     {\large}
     [\\]
@@ -392,14 +370,14 @@
 %   Part 3 Les Genres
 %#######################################################################
 \part*{\uppercase{Les Genres}}
-%____________________________________________________________________---------------
+%____________________________________________________________________
 % https://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/macros/latex/contrib/titlesec/titlesec.pdf
 % https://borntocode.fr/latex-personnaliser-les-titres-chapter/
 %% define format for chapter for part 3
 \titleformat{\chapter} % command
     [display] % shape
     {\bfseries\Large\centering} % format
-    {\textcolor{BlueViolet}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
+    {\textcolor{OliveGreen}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
     {0.5ex} % sep
     {
         \centering
@@ -412,57 +390,57 @@
     {-0pt} %before-step
     {0mm} %after-step
     {} %right
-%____________________________________________________________________---------------
+%____________________________________________________________________
 %% define format for section
-\titleformat{\section} % Command to format section titles
-{\normalfont\Large\bfseries} % Format: normal font, large size, bold
-{\thesection}{1em} % Label format: section number followed by 1em space
-{} % Before the title
-[\titlerule] % After the title: horizontal line
+% \titleformat{\section} % Command to format section titles
+% {\normalfont\Large\bfseries} % Format: normal font, large size, bold
+% {\thesection}{1em} % Label format: section number followed by 1em space
+% {} % Before the title
+% [\titlerule] % After the title: horizontal line
 
-\titleformat{\section} % command
-    [display] % shape
-    {\bfseries\Large} % format
-    {\textcolor{BlueViolet}{#1}} % label
-    {0.5ex} % sep
-    {
-        \Large
-    } % before-code
+% \titleformat{\section} % command
+%     [display] % shape
+%     {\bfseries\Large} % format
+%     {\textcolor{BlueViolet}{#1}} % label
+%     {0.5ex} % sep
+%     {
+%         \Large
+%     } % before-code
 
-    \titlespacing*{\section}
-    {0mm} %left
-    {-0pt} %before-step
-    {0mm} %after-step
-    {} %right
-%____________________________________________________________________---------------
+%     \titlespacing*{\section}
+%     {0mm} %left
+%     {-0pt} %before-step
+%     {0mm} %after-step
+%     {} %right
+%____________________________________________________________________
 % numberless
 \titleformat{name=\section,numberless}[runin] 
     {\normalfont\Large\bfseries}
-    {\\ \textcolor{BlueViolet} {#1}}
+    {\\ \textcolor{OliveGreen} {#1}}
     {20pt}
     {\Large}
     [\\]
-%____________________________________________________________________---------------
+%____________________________________________________________________
 %% define format for subsection
-    \titleformat{\subsection} % command
-    [display] % shape
-    {\bfseries\large} % format
-    {\textcolor{BlueViolet}{#1}} % label
-    {0.5ex} % sep
-    {
-        \large
-    } % before-code
+    % \titleformat{\subsection} % command
+    % [display] % shape
+    % {\bfseries\large} % format
+    % {\textcolor{OliveGreen}{#1}} % label
+    % {0.5ex} % sep
+    % {
+    %     \large
+    % } % before-code
 
-    \titlespacing*{\subsection}
-    {0mm} %left
-    {-0pt} %before-step
-    {0mm} %after-step
-    {} %right
-%____________________________________________________________________---------------
+    % \titlespacing*{\subsection}
+    % {0mm} %left
+    % {-0pt} %before-step
+    % {0mm} %after-step
+    % {} %right
+%____________________________________________________________________
 % numberless
 \titleformat{name=\subsection,numberless}[runin] 
     {\normalfont\large\bfseries}
-    {\\ \textcolor{BlueViolet} {#1}}
+    {\\ \textcolor{OliveGreen} {#1}}
     {20pt}
     {\large}
     [\\]
@@ -471,14 +449,14 @@
 %   Part 4 Maîtriser Le Jeu
 %#######################################################################
 \part*{\uppercase{Maîtriser le Jeu}}
-%____________________________________________________________________---------------
+%____________________________________________________________________
 % https://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/macros/latex/contrib/titlesec/titlesec.pdf
 % https://borntocode.fr/latex-personnaliser-les-titres-chapter/
 %% define format for chapter for part 4
 \titleformat{\chapter} % command
     [display] % shape
     {\bfseries\Large\centering} % format
-    {\textcolor{BlueViolet}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
+    {\textcolor{ForestGreen}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
     {0.5ex} % sep
     {
         \centering
@@ -491,57 +469,57 @@
     {-0pt} %before-step
     {0mm} %after-step
     {} %right
-%____________________________________________________________________---------------
+%____________________________________________________________________
 %% define format for section
-\titleformat{\section} % Command to format section titles
-{\normalfont\Large\bfseries} % Format: normal font, large size, bold
-{\thesection}{1em} % Label format: section number followed by 1em space
-{} % Before the title
-[\titlerule] % After the title: horizontal line
+% \titleformat{\section} % Command to format section titles
+% {\normalfont\Large\bfseries} % Format: normal font, large size, bold
+% {\thesection}{1em} % Label format: section number followed by 1em space
+% {} % Before the title
+% [\titlerule] % After the title: horizontal line
 
-\titleformat{\section} % command
-    [display] % shape
-    {\bfseries\Large} % format
-    {\textcolor{BlueViolet}{#1}} % label
-    {0.5ex} % sep
-    {
-        \Large
-    } % before-code
+% \titleformat{\section} % command
+%     [display] % shape
+%     {\bfseries\Large} % format
+%     {\textcolor{BlueViolet}{#1}} % label
+%     {0.5ex} % sep
+%     {
+%         \Large
+%     } % before-code
 
-    \titlespacing*{\section}
-    {0mm} %left
-    {-0pt} %before-step
-    {0mm} %after-step
-    {} %right
-%____________________________________________________________________---------------
+%     \titlespacing*{\section}
+%     {0mm} %left
+%     {-0pt} %before-step
+%     {0mm} %after-step
+%     {} %right
+%____________________________________________________________________
 % numberless
 \titleformat{name=\section,numberless}[runin] 
     {\normalfont\Large\bfseries}
-    {\\ \textcolor{BlueViolet} {#1}}
+    {\\ \textcolor{ForestGreen} {#1}}
     {20pt}
     {\Large}
     [\\]
-%____________________________________________________________________---------------
+%____________________________________________________________________
 %% define format for subsection
-    \titleformat{\subsection} % command
-    [display] % shape
-    {\bfseries\large} % format
-    {\textcolor{BlueViolet}{#1}} % label
-    {0.5ex} % sep
-    {
-        \large
-    } % before-code
+    % \titleformat{\subsection} % command
+    % [display] % shape
+    % {\bfseries\large} % format
+    % {\textcolor{ForestGreen}{#1}} % label
+    % {0.5ex} % sep
+    % {
+    %     \large
+    % } % before-code
 
-    \titlespacing*{\subsection}
-    {0mm} %left
-    {-0pt} %before-step
-    {0mm} %after-step
-    {} %right
-%____________________________________________________________________---------------
+    % \titlespacing*{\subsection}
+    % {0mm} %left
+    % {-0pt} %before-step
+    % {0mm} %after-step
+    % {} %right
+%____________________________________________________________________
 % numberless
 \titleformat{name=\subsection,numberless}[runin] 
     {\normalfont\large\bfseries}
-    {\\ \textcolor{BlueViolet} {#1}}
+    {\\ \textcolor{ForestGreen} {#1}}
     {20pt}
     {\large}
     [\\]
