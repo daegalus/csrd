@@ -24,14 +24,28 @@
 \usepackage{stfloats}   % pour le que le texte ne recouvre pas les figures/tableaux
 \usepackage{multicol}   % gestion de plusieurs colonnes (dans une cellule de tableau pas ex)
 \usepackage{enumitem}   % pour la personnalisation des liste
-\usepackage{parskip}     % for paragraph indenttion
+\usepackage[skip]{parskip}     % for paragraph indenttion
 \usepackage{titletoc}    % for having ToC under each chapter
+\usepackage[many]{tcolorbox}   % for avanced boxes
+\usepackage{everypage} % to draw a line in the margins
+\usepackage{tikzpagenodes}
+\usepackage{tikz}   %  for graphics https://ctan.mines-albi.fr/graphics/pgf/base/doc/pgfmanual.pdf
+\usetikzlibrary{backgrounds,calc}
 %____________________________________________________________________
 %%  Default Font
 \usepackage[sfdefault]{cabin}
 \renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif
 \usepackage[T1]{fontenc}
-
+%____________________________________________________________________
+%%  Default colors per part
+%\definecolor{CSCOLORPARTZERO}{rgb}{0.56078,0.40392,0.51765}%main color for part0
+\colorlet{CSCOLORPARTZERO}{RedViolet}%main color for part0
+%\definecolor{CSCOLORPARTONE}{rgb}{0.129,0.259,0.557}%main color for part1
+\colorlet{CSCOLORPARTONE}{BlueViolet}
+\definecolor{CSCOLORPARTTWO}{rgb}{0.561,0.255,0.122}%main color for part2
+\definecolor{CSCOLORPARTTHREE}{rgb}{0.463,0.427,0.173}%main color for part3
+\definecolor{CSCOLORPARTFOUR}{rgb}{0.165,0.478,0.235}%main color for part4
+\definecolor{CSCOLORPARTFIVE}{rgb}{0.239,0.220,0.584}%main color for part5
 %____________________________________________________________________
 % page margins
 % https://www.overleaf.com/learn/latex/Page_size_and_margins
@@ -40,8 +54,8 @@
 \usepackage[
   top=16mm,
   bottom=18mm,
-  marginparwidth=30mm,
-  marginparsep=2mm,
+  marginparwidth=40mm,
+  marginparsep=4mm,
   outer=50mm,
   inner=20mm,
   headheight=7mm,
@@ -49,7 +63,10 @@
   %textwidth=345pt,
 ]{geometry}
 %____________________________________________________________________
-\newcommand*{\definitchapitre}[2]{\chapter{#1 \label{#2} \definitentete{#1}}}
+%  space between paragraphs
+\setlength{\parskip}{0pt}
+%____________________________________________________________________
+%\newcommand*{\definitchapitre}[2]{\chapter{#1 \label{#2} \definitentete{#1}}}
 %____________________________________________________________________
 % commande pour afficher l'image de tête de chapitre
 \newcommand*{\afficheimagechapitre}[1]{
@@ -118,9 +135,9 @@
 }
 %____________________________________________________________________
 %  définition des en-têtes
-\setlength{\headheight}{15.2pt}
-\pagestyle{fancy}
-\fancyhead[LE]{CYPHER SYSTEM}
+% \setlength{\headheight}{15.2pt}
+% \pagestyle{fancy}
+% \fancyhead[LE]{CYPHER SYSTEM}
 %____________________________________________________________________-
 \newcommand*{\smallcslogo}{\includegraphics[height=3mm]{img/CS-mini-logo.png}}
 %  définition du style des listes de nom capacités
@@ -135,37 +152,84 @@
 %\setlist[ablist]{label={\includegraphics[height=3mm]{CS-mini-logo.png}}}
 \newcommand*{\abilitydetaillistitem}[2]{\item \textbf{#1 :} #2}
 %-------------------------------------------------------------------
-%  style de paragraphe 
+%  commande pour afficher la première lettre du prelier paragraphe d'un chapitre
 \newcommand*{\chapterfirstletter}[2]{\begin{wrapfigure}{l}{2mm}
     {\Huge\textcolor{#2}{\textbf{#1}}}
 \end{wrapfigure}}
 %----------------------------------------------------------------
 % commande pour la couleur de chaque partie
-\newcommand*{\textcolorpartzero}[1]{\textcolor{RedViolet}{#1}}
-\newcommand*{\textcolorpartone}[1]{\textcolor{BlueViolet}{#1}}
+\newcommand*{\textcolorpartzero}[1]{\textcolor{CSCOLORPARTZERO}{#1}}
+\newcommand*{\textcolorpartone}[1]{\textcolor{CSCOLORPARTONE}{#1}}
 %\newcommand*{\getcolorpart}[1]{\ifthenelse{\equal{#1}{0}}{RedViolet}{\ifthenelse{\equal{#1}{1}}{BlueViolet}{\ifthenelse{\equal{#1}{2}}{BlueViolet}{}}}}
 %\newcommand*{\textcolorpart}[2]{\textcolor{\getcolorpart{#1}}{#2}}
-\newcommand*{\getcolorpartone}{BlueViolet}
-%  commande pour définir chaque chapitre
+\newcommand*{\getcolorpartone}{CSCOLORPARTONE}
+%  commande pour définir chaque chapitre avec definition des entetes
 \newcommand*{\startchapter}[3]{\chapter{#1}
     \label{#2}
     \fancypagestyle{plain}{ %
-    \fancyhf{} % remove everything
+        \fancyhf{} % remove everything
+        \renewcommand{\headrulewidth}{1pt} % remove lines as well
+        \renewcommand{\footrulewidth}{0pt}
+        \xpretocmd\headrule{\color{#3}}{}{\PatchFailed}
+        \fancyhead[RO]{\textcolor{#3}{\textsc{#1}}}
+        \fancyhead[LE]{\textcolor{#3}{CYPHER SYSTEM}}
+        \fancyhf[FLE,FRO]{\thepage}
+    }
+    % \fancyhf{} % remove everything
     \renewcommand{\headrulewidth}{1pt} % remove lines as well
     \renewcommand{\footrulewidth}{0pt}
-    \xpretocmd\headrule{\color{#3}}{}{\PatchFailed}
-    \fancyhead[RO]{\textcolor{#3}{\textsc{#1}}}
+    %\xpretocmd\headrule{\color{#3}}{}{\PatchFailed}
+    \fancyhead[RO]{\textcolor{#3}{#1}}
     \fancyhead[LE]{\textcolor{#3}{CYPHER SYSTEM}}
     \fancyhf[FLE,FRO]{\thepage}
 }
-\fancyhf{} % remove everything
-\renewcommand{\headrulewidth}{1pt} % remove lines as well
-\renewcommand{\footrulewidth}{0pt}
-\xpretocmd\headrule{\color{#3}}{}{\PatchFailed}
-\fancyhead[RO]{\textcolor{#3}{#1}}
-\fancyhead[LE]{\textcolor{#3}{CYPHER SYSTEM}}
-\fancyhf[FLE,FRO]{\thepage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   encart avec logo CS en en-tete
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand*{\CSBoxLogoSet}[1]{
+    \tcbset{CSTextBox/.style={enhanced,enlarge top by=5.5mm,
+    overlay app={\node[anchor=north, xshift=-0mm, yshift=6.2mm] at (frame.north)
+      {\includegraphics[width=10mm]{img/CS-Logo-boxheader.png}};
+    },
+    overlay app={%bordure verticale en haut à gauche
+        \begin{scope}[shift={([xshift=0pt,yshift=-1cm]frame.north west)}]
+            \path[fill=#1] (0.5pt,-2.25pt) arc[radius = 2pt, start angle= -90, end angle= -270];
+            \draw[color=#1, line width=2pt] (-0.5pt,0) -- ([xshift=-0.5pt]frame.north west);
+        \end{scope}
+        \path[fill=#1] (frame.north west) -- ([xshift=4pt]frame.north west) -- ([xshift=0pt,yshift=-4pt]frame.north west) circle;
+    },
+    overlay app={%coin en bas à droite
+        \path[fill=#1] (frame.south east) -- ([xshift=-4pt]frame.south east) -- ([xshift=0pt,yshift=4pt]frame.south east) circle;
+    }}}
+    \tcbset{CSTextBoxBackground/.style={enhanced,%
+    top=5.5mm,
+    colback=#1!50!white,
+    colframe=#1,
+    %sharp corners=downhill,
+    overlay={\begin{scope}[shift={([yshift=0mm]frame.north)}]
+      \path[fill=#1!50!white,draw=#1!50!white] (0,0) circle (4.7mm);
+      \end{scope}
+    }}}
 }
+\newcommand*{\CSBoxLogo}[2]{{
+    \CSBoxLogoSet{#1}
+    \begin{tcolorbox}[CSTextBoxBackground,CSTextBox]
+        #2
+    \end{tcolorbox}
+}}
+\newcommand*{\CSBoxLogoFloatTop}[2]{{
+    \CSBoxLogoSet{#1}
+    \begin{tcolorbox}[CSTextBoxBackground,CSTextBox,floatplacement=t,float]
+        #2
+    \end{tcolorbox}
+}}
+\newcommand*{\CSBoxLogoFloatBottom}[2]{{
+    \CSBoxLogoSet{#1}
+    \begin{tcolorbox}[CSTextBoxBackground,CSTextBox,floatplacement=b,float]
+        #2
+    \end{tcolorbox}
+}}
+
 %#######################################################################
 \title{CYPHER SYSTEM LIVRE DES R\`{E}GLES}
 \author{Monte Cook, Bruce R. Cordell, Sean K. Reynolds}
@@ -199,7 +263,40 @@
 %#######################################################################
 %   PART 0 : The CYPHER SYSTEM
 %#######################################################################
+% define format for chapter
+\titleformat{\part} % command
+    [display] % shape
+    {\bfseries\Large\centering} % format
+    {
+        \centering
+        \textcolor{CSCOLORPARTZERO}{Partie \ \thepart \\ \huge \uppercase{#1}}
+    } % label
+    {0pt} % sep
+    {
+        \centering
+        \begin{figure*}
+            \hspace*{-75pt}
+            \vspace*{-75pt}
+            \includegraphics*[height=\paperheight]{img/part1.png}    
+        \end{figure*}
+    } % before-code
+    % [
+    %     \startcontents
+    %     \printcontents{l}{1}[2]{}
+    % ] % after-code
 \part*{LE CYPHER SYSTEM}
+%_________________________________________________
+% draw a line for the margin
+\AddEverypageHook{\tikz[remember picture,overlay]{% put a line in the margin
+%   \ifodd\value{page}\draw[CSCOLORPARTZERO]($(current page text area.north east)$)
+%     -- ($(current page text area.south east)$);
+%   \else\draw[CSCOLORPARTZERO]($(current page text area.north west)$)
+%     -- ($(current page text area.south west)$);
+    \ifodd\value{page}\draw[CSCOLORPARTZERO]($(current page text area.north east)+(2mm,0pt)$)
+    -- ($(current page text area.south east)+(2mm,0pt)$);
+  \else\draw[CSCOLORPARTZERO]($(current page text area.north west)+(-2mm,0pt)$)
+    -- ($(current page text area.south west)+(-2mm,0pt)$);
+  \fi}}
 %____________________________________________________________________
 % https://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/macros/latex/contrib/titlesec/titlesec.pdf
 % https://borntocode.fr/latex-personnaliser-les-titres-chapter/
@@ -207,7 +304,7 @@
 \titleformat{\chapter} % command
     [display] % shape
     {\bfseries\Large\centering} % format
-    {\textcolor{RedViolet}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
+    {\textcolor{CSCOLORPARTZERO}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
     {0pt} % sep
     {
         \centering
@@ -220,15 +317,25 @@
     {-0pt} %before-step
     {-10mm} %after-step
     {} %right
+\titlespacing*{\paragraph}
+    {0mm} %left
+    {-0pt} %before-step
+    {0mm} %after-step
+    {} %right
 %____________________________________________________________________
 %% define format for section
 % numberless
-\titleformat{name=\section,numberless}[runin] 
+\titleformat{name=\section,numberless}%[runin] 
     {\normalfont\Large\bfseries}
-    {\\ \textcolor{RedViolet} {#1}}
-    {20pt}
+    {\textcolor{CSCOLORPARTZERO}{#1}}
+    {0pt}
     {\Large}
-    [\\]
+    %[\\]
+\titlespacing*{\section}
+    {0mm} %left
+    {-0pt} %before-step
+    {0mm} %after-step
+    {0mm} %right
 % paragraphe indentation
 \setlength{\parindent}{3mm}
 %#######################################################################
@@ -246,7 +353,7 @@
 \titleformat{\chapter} % command
     [display] % shape
     {\bfseries\Large\centering} % format
-    {\textcolor{BlueViolet}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
+    {\textcolor{CSCOLORPARTONE}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
     {0.5ex} % sep
     {
         \centering
@@ -254,52 +361,31 @@
     [
     \centering
     ] % after-code
-    \titlespacing*{\chapter}
+\titlespacing*{\chapter}
     {0mm} %left
     {-0pt} %before-step
     {0mm} %after-step
     {} %right
 %____________________________________________________________________
 %% define format for section
-% \titleformat{\section} % Command to format section titles
-% {\normalfont\Large\bfseries} % Format: normal font, large size, bold
-% {\thesection}{1em} % Label format: section number followed by 1em space
-% {} % Before the title
-% [\titlerule] % After the title: horizontal line
-
-% \titleformat{\section} % command
-%     [display] % shape
-%     {\bfseries\Large} % format
-%     {\textcolor{BlueViolet}{#1}} % label
-%     {0.5ex} % sep
-%     {
-%         \Large
-%     } % before-code
-
-%     \titlespacing*{\section}
-%     {0mm} %left
-%     {-0pt} %before-step
-%     {0mm} %after-step
-%     {} %right
-%____________________________________________________________________
 % numberless
 \titleformat{name=\section,numberless}[runin] 
     {\normalfont\Large\bfseries}
-    {\\ \textcolor{BlueViolet} {#1}}
+    {\textcolor{CSCOLORPARTONE}{#1}}
     {20pt}
     {\Large}
-    [\\]
+    []
 %____________________________________________________________________
 %% define format for subsection
 % numberless
 \titleformat{name=\subsection,numberless}[runin] 
     {\normalfont\large\bfseries}
-    {\\ \textcolor{BlueViolet} {#1}}
+    {\textcolor{CSCOLORPARTONE}{#1}}
     {20pt}
     {\large}
-    [\\]
+    []
 %#######################################################################
-%\MiniToC % table of content for part 1
+% table of content for part 1
 \include{./tex/Chapter-04.tex}
 \include{./tex/Chapter-05.tex}
 \include{./tex/Chapter-06.tex}
@@ -318,7 +404,7 @@
 \titleformat{\chapter} % command
     [display] % shape
     {\bfseries\Large\centering} % format
-    {\textcolor{RawSienna}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
+    {\textcolor{CSCOLORPARTTWO}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
     {0.5ex} % sep
     {
         \centering
@@ -336,7 +422,7 @@
 % numberless
 \titleformat{name=\section,numberless}[runin] 
     {\normalfont\Large\bfseries}
-    {\\ \textcolor{BlueVRawSiennaiolet} {#1}}
+    {\\ \textcolor{CSCOLORPARTTWO} {#1}}
     {20pt}
     {\Large}
     [\\]
@@ -345,7 +431,7 @@
     \titleformat{\subsection} % command
     [display] % shape
     {\bfseries\large} % format
-    {\textcolor{RawSienna}{#1}} % label
+    {\textcolor{CSCOLORPARTTWO}{#1}} % label
     {0.5ex} % sep
     {
         \large
@@ -360,7 +446,7 @@
 % numberless
 \titleformat{name=\subsection,numberless}[runin] 
     {\normalfont\large\bfseries}
-    {\\ \textcolor{RawSienna} {#1}}
+    {\\ \textcolor{CSCOLORPARTTWO} {#1}}
     {20pt}
     {\large}
     [\\]
@@ -377,7 +463,7 @@
 \titleformat{\chapter} % command
     [display] % shape
     {\bfseries\Large\centering} % format
-    {\textcolor{OliveGreen}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
+    {\textcolor{CSCOLORPARTTHREE}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
     {0.5ex} % sep
     {
         \centering
@@ -416,7 +502,7 @@
 % numberless
 \titleformat{name=\section,numberless}[runin] 
     {\normalfont\Large\bfseries}
-    {\\ \textcolor{OliveGreen} {#1}}
+    {\\ \textcolor{CSCOLORPARTTHREE} {#1}}
     {20pt}
     {\Large}
     [\\]
@@ -440,7 +526,7 @@
 % numberless
 \titleformat{name=\subsection,numberless}[runin] 
     {\normalfont\large\bfseries}
-    {\\ \textcolor{OliveGreen} {#1}}
+    {\\ \textcolor{CSCOLORPARTTHREE} {#1}}
     {20pt}
     {\large}
     [\\]
@@ -456,7 +542,7 @@
 \titleformat{\chapter} % command
     [display] % shape
     {\bfseries\Large\centering} % format
-    {\textcolor{ForestGreen}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
+    {\textcolor{CSCOLORPARTFIVE}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
     {0.5ex} % sep
     {
         \centering
@@ -495,7 +581,7 @@
 % numberless
 \titleformat{name=\section,numberless}[runin] 
     {\normalfont\Large\bfseries}
-    {\\ \textcolor{ForestGreen} {#1}}
+    {\\ \textcolor{CSCOLORPARTFIVE} {#1}}
     {20pt}
     {\Large}
     [\\]
@@ -519,7 +605,7 @@
 % numberless
 \titleformat{name=\subsection,numberless}[runin] 
     {\normalfont\large\bfseries}
-    {\\ \textcolor{ForestGreen} {#1}}
+    {\\ \textcolor{CSCOLORPARTFIVE} {#1}}
     {20pt}
     {\large}
     [\\]

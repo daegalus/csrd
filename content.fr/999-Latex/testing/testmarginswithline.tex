@@ -1,0 +1,184 @@
+\documentclass[letterpaper,french,openany,twocolumn]{book}
+
+\usepackage[T1]{fontenc}    % Encodage T1 (adapté au français)
+%French-specific commands
+%____________________________________________________________________
+% https://en.wikibooks.org/wiki/LaTeX/Special_Characters
+\usepackage[french]{babel}
+\usepackage[autolanguage]{numprint} % for the \nombre command
+\usepackage{hyperref}   % for linking references https://en.wikibooks.org/wiki/LaTeX/Hyperlinks
+\usepackage{lmodern}        % Caractères plus lisibles
+\usepackage{babel}          % Réglages linguistiques (avec french)
+%\pagestyle{empty}           % N'affiche pas de numéro de page
+\usepackage[explicit]{titlesec}  % pour modifier le style de chapitre
+\usepackage{color}        % pour les coleurs de police
+\usepackage[table,dvipsnames,HTML]{xcolor}  % pour les couleurs des tableaux https://en.wikibooks.org/wiki/LaTeX/Colors
+\usepackage{graphicx}     % pour inclure des images
+\usepackage{graphbox}   % allows to add keys to \includegraphics
+\usepackage{wrapfig}
+%\usepackage[dvipsnames]{xcolor} % pour les couleurs
+\usepackage{fancyhdr} % pour les entete
+\usepackage{ifthen}  % branchements conditionnels
+\usepackage{xpatch} 
+\usepackage[export]{adjustbox}  % pour positionner des images dans la page
+\usepackage{tabularx}  % pour les tableaux
+\usepackage{wrapfig}   % pour le que le texte ne recouvre pas les figures/tableaux
+\usepackage{stfloats}   % pour le que le texte ne recouvre pas les figures/tableaux
+\usepackage{multicol}   % gestion de plusieurs colonnes (dans une cellule de tableau pas ex)
+\usepackage{enumitem}   % pour la personnalisation des liste
+\usepackage[skip]{parskip}     % for paragraph indenttion
+\usepackage[many]{tcolorbox}   % for avanced boxes
+\usepackage{everypage}
+\usepackage{tikzpagenodes}
+\usepackage{tikz}   %  for graphics https://ctan.mines-albi.fr/graphics/pgf/base/doc/pgfmanual.pdf
+\usetikzlibrary{backgrounds,calc}
+%____________________________________________________________________
+%%  Default Font
+\usepackage[sfdefault]{cabin}
+\renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif
+\usepackage[T1]{fontenc}
+
+\usepackage{lipsum}   % for test text
+\usepackage{titletoc}    % for having ToC under each chapter
+\usepackage{letltxmacro}
+\usepackage{etoolbox}
+%____________________________________________________________________
+% page margins
+% https://www.overleaf.com/learn/latex/Page_size_and_margins
+% https://fr.overleaf.com/learn/latex/Single_sided_and_double_sided_documents
+\usepackage[
+  top=20mm,
+  bottom=20mm,
+  marginparwidth=0mm
+  %textwidth=345pt,
+]{geometry}
+
+\begin{document}
+\frontmatter
+\mainmatter
+
+% \tcbset{enhanced,
+%   colback=red!5!white,
+%   colframe=red!75!black,
+%   watermark color=red!15!white
+% }
+% Preamble:
+%\usepackage{tikz,lipsum}
+%\tcbuselibrary{skins,breakable}
+%\newcounter{example}
+\newtcolorbox{floatingbox}{%
+  enhanced,
+  colback=red!5!white,
+  colframe=red!75!black,
+  watermark color=red!15!white,
+  %floatplacement=t,
+  float*=t,
+  title=Floating box from |floatplacement|,
+  watermark text={I am floating}
+}
+
+\colorlet{colexam}{red!75!black}
+\newtcolorbox{myexample}{%
+  empty,
+  before=\par\medskip\noindent,parbox=false,boxsep=0pt,
+  top=4pt,
+  breakable,pad at break*=0mm,%vfill before first,
+  %if odd page={left=0mm,right=3mm}{left=3mm,right=0mm},
+  extras first={if odd page={left=0mm,right=3mm,
+    overlay first={\draw[colexam,line width=1pt] ([xshift=-0.5pt]frame.north east)
+      --([xshift=-0.5pt]frame.south east); },
+    }{overlay first={\draw[colexam,line width=1pt] ([xshift=-0.5pt]frame.north west)
+      --([xshift=-0.5pt]frame.south west);},
+    }},
+  extras middle and last={if odd page={left=0mm,right=3mm,
+    overlay middle={\draw[colexam,line width=1pt] ([xshift=-0.5pt]frame.north east)
+    --([xshift=-0.5pt]frame.south east); },
+    overlay last={\draw[colexam,line width=1pt] ([xshift=-0.5pt]frame.north east)
+    --([xshift=-0.5pt]frame.south east); }
+  }{left=3mm,right=0mm,
+    overlay middle={\draw[colexam,line width=1pt] ([xshift=-0.5pt]frame.north west)
+    --([xshift=-0.5pt]frame.south west);},
+    overlay last={\draw[colexam,line width=1pt] ([xshift=-0.5pt]frame.north west)
+    --([xshift=-0.5pt]frame.south west);}
+  }},
+  overlay unbroken={if odd page={left=0mm,right=3mm
+    overlay first={\draw[colexam,line width=1pt] ([xshift=-0.5pt]frame.north east)
+    --([xshift=-0.5pt]frame.south east); },
+    }{left=3mm,right=0mm,
+    overlay first={\draw[colexam,line width=1pt] ([xshift=-0.5pt]frame.north west)
+    --([xshift=-0.5pt]frame.south west);},
+  }},
+}
+% \colorlet{colexam}{red!75!black}
+% \newtcolorbox[use counter=example]{myexample}{%
+% empty,title={Example \thetcbcounter},attach boxed title to top left,
+% boxed title style={empty,size=minimal,toprule=2pt,top=4pt,
+% overlay={\draw[colexam,line width=2pt]
+% ([yshift=-1pt]frame.north east)--([yshift=-1pt]frame.north west);}},
+% coltitle=colexam,fonttitle=\Large\bfseries,
+% before=\par\medskip\noindent,parbox=false,boxsep=0pt,left=0pt,right=3mm,top=4pt,
+% breakable,pad at break*=0mm,vfill before first,
+% overlay unbroken={\draw[colexam,line width=1pt]
+% ([yshift=-1pt]title.north west)--([xshift=-0.5pt,yshift=-1pt]title.north-|frame.west)
+% --([xshift=-0.5pt]frame.south west)--(frame.south east); },
+% overlay first={\draw[colexam,line width=1pt]
+% ([yshift=-1pt]title.north west)--([xshift=-0.5pt,yshift=-1pt]title.north-|frame.west)
+% --([xshift=-0.5pt]frame.south west); },
+% overlay middle={\draw[colexam,line width=1pt] ([xshift=-0.5pt]frame.north west)
+% --([xshift=-0.5pt]frame.south west); },
+% overlay last={\draw[colexam,line width=1pt] ([xshift=-0.5pt]frame.north west)
+% --([xshift=-0.5pt]frame.south west)--(frame.south east);},%
+% }
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{première partie}
+\chapter{premier chapitre}
+\newgeometry{marginparwidth=50mm}% set margin width
+\AddEverypageHook{\tikz[remember picture,overlay]{% put a line in the margin
+  \ifodd\value{page}\draw ($(current page text area.north west)+(-0.5\marginparsep,0pt)$)
+    -- ($(current page text area.south west)+(-0.5\marginparsep,0pt)$);
+  \else\draw ($(current page text area.north east)+(0.5\marginparsep,0pt)$)
+    -- ($(current page text area.south east)+(0.5\marginparsep,0pt)$);
+  \fi}}
+%\begin{multicols}{2}
+%\begin{myexample}
+
+\section{premiere section}
+\lipsum[1]
+
+\subsection{premiere sous section}
+\lipsum[1]
+\subsection{seconde sous section}
+\lipsum[2-3]
+
+\section{seconde section}
+
+\lipsum[1-7]
+
+\subsection{premiere sous section}
+
+\lipsum[1]
+
+\subsection{seconde sous section}
+
+\lipsum[2-3]
+
+
+\section{troisieme section}
+\lipsum[1-7]
+
+\section{quatrième section}
+\lipsum[1-7]
+
+% \end{myexample}
+% \end{multicols}
+
+\begin{floatingbox}
+  This floating box is placed at the top of a page.
+\end{floatingbox}
+\restoregeometry% end margins
+
+\part{seconde partie}
+\chapter{Quatrième section}
+
+\end{document}
+
