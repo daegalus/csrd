@@ -14,6 +14,7 @@
 \usepackage[table,dvipsnames]{xcolor}  % pour les couleurs des tableaux https://en.wikibooks.org/wiki/LaTeX/Colors
 \usepackage{graphicx}     % pour inclure des images
 \usepackage{wrapfig}
+\usepackage{setspace}  % to manage space between lines https://en.wikibooks.org/wiki/LaTeX/Paragraph_Formatting#Line_spacing
 %\usepackage[dvipsnames]{xcolor} % pour les couleurs
 \usepackage{fancyhdr} % pour les entete
 \usepackage{ifthen}  % branchements conditionnels
@@ -31,6 +32,7 @@
 \usepackage{tikzpagenodes}
 \usepackage{tikz}   %  for graphics https://ctan.mines-albi.fr/graphics/pgf/base/doc/pgfmanual.pdf
 \usetikzlibrary{backgrounds,calc}
+\usepackage{ifoddpage}  % to detect odd/even page
 %____________________________________________________________________
 %%  Default Font
 \usepackage[sfdefault]{cabin}
@@ -68,59 +70,84 @@
 %____________________________________________________________________
 %\newcommand*{\definitchapitre}[2]{\chapter{#1 \label{#2} \definitentete{#1}}}
 %____________________________________________________________________
-% commande pour afficher l'image de tête de chapitre
-\newcommand*{\afficheimagechapitre}[1]{
-    \hspace*{-76pt}
+% commande pour afficher l'image de tête de partie
+\newcommand*{\afficheimagepart}[1]{
     \ifthenelse{\equal{#1}{1}}{
-        \includegraphics[width=\paperwidth]{img/CS-page4-01.png}
+        \includegraphics[width=\paperwidth]{img/part1.png}
     }
     {
         \ifthenelse{\equal{#1}{2}}{
-            \includegraphics[width=\paperwidth]{img/CS-page5-01.png}
+            \includegraphics[width=\paperwidth]{img/part2.png}
         }
         {
             \ifthenelse{\equal{#1}{3}}{
-                \includegraphics[width=\paperwidth]{img/CS-page7-01.png}
+                \includegraphics[width=\paperwidth]{img/part3.png}
                 }
                 {
                     \ifthenelse{\equal{#1}{4}}{
-                        \includegraphics[width=\paperwidth]{img/CS-page14-01.png}
+                        \includegraphics[width=\paperwidth]{img/part4.png}
                         }
                         {
                             \ifthenelse{\equal{#1}{5}}{
-                                \includegraphics[width=\paperwidth]{img/CS-page20-01.png}
+                                \includegraphics[width=\paperwidth]{img/part5.png}
                                 }
+                                {}
+                        }
+                }
+        }
+    }
+}
+%____________________________________________________________________
+% commande pour récupérer la couleur de la partie
+\newcommand*{\couleurpart}[1]{
+    \ifthenelse{\equal{#1}{0}}{CSCOLORPARTZERO}
+    {
+        \ifthenelse{\equal{#1}{1}}{CSCOLORPARTONE}
+        {
+            \ifthenelse{\equal{#1}{2}}{CSCOLORPARTTWO}
+                {
+                    \ifthenelse{\equal{#1}{3}}{CSCOLORPARTTHREE}
+                        {
+                            \ifthenelse{\equal{#1}{4}}{CSCOLORPARTFOUR}
                                 {
-                                    \ifthenelse{\equal{#1}{6}}{
-                                        \includegraphics[width=\paperwidth]{img/CS-page34-01.png}
-                                        }
-                                        {
-                                            \ifthenelse{\equal{#1}{7}}{
-                                                \includegraphics[width=\paperwidth]{img/CS-page38-01.png}
-                                                }
-                                                {
-                                                    \ifthenelse{\equal{#1}{8}}{
-                                                        \includegraphics[width=\paperwidth]{img/CS-page60-01.png}
-                                                        }
-                                                        {
-                                                            \ifthenelse{\equal{#1}{9}}{
-                                                                \includegraphics[width=\paperwidth]{img/CS-page95-01.png}
-                                                                }
-                                                                {
-                                                                    \ifthenelse{\equal{#1}{10}}{
-                                                                        \includegraphics[height=8.25cm]{img/CS-page201-01.png}
-                                                                    }{
-                                                                        IMAGE A DEFINIR
-                                                                    }
-                                                                }
-                                                        }
-                                                }
-                                        }
+                                    \ifthenelse{\equal{#1}{4}}{CSCOLORPARTFIVE}{}
                                 }
                         }
                 }
         }
     }
+}
+%____________________________________________________________________
+% commande pour afficher l'image de tête de chapitre
+\newcommand*{\afficheimagechapitre}[1]{
+    \begin{tcolorbox}[halign=center,width=\paperwidth,boxrule=0mm,colback=white,colframe=white,notitle,left=0mm,right=0mm,top=0mm,bottom=0mm,left skip=0mm,beforeafter skip=0mm,
+        if odd page={grow to left by=4mm}{grow to left by=6.5mm}]
+    \renewcommand{\arraystretch}{0}
+    \hspace{-0mm}\begin{tabular}{c@{}}
+    \includegraphics[width=\paperwidth]{img/CS-redline-up2.png}\\
+    \ifthenelse{\equal{#1}{1}}{\includegraphics[width=\paperwidth]{img/CS-page4-01.png}\\}
+    {\ifthenelse{\equal{#1}{2}}{\includegraphics[width=\paperwidth]{img/CS-page5-01.png}\\}
+    {\ifthenelse{\equal{#1}{3}}{\includegraphics[width=\paperwidth]{img/CS-page7-01.png}\\}
+    {\ifthenelse{\equal{#1}{4}}{\includegraphics[width=\paperwidth]{img/CS-page14-01.png}\\}
+    {\ifthenelse{\equal{#1}{5}}{\includegraphics[width=\paperwidth]{img/CS-page20-01.png}\\}
+    {\ifthenelse{\equal{#1}{6}}{\includegraphics[width=\paperwidth]{img/CS-page34-01.png}\\}
+    {\ifthenelse{\equal{#1}{7}}{\includegraphics[width=\paperwidth]{img/CS-page38-01.png}\\}
+    {\ifthenelse{\equal{#1}{8}}{\includegraphics[width=\paperwidth]{img/CS-page60-01.png}\\}
+    {\ifthenelse{\equal{#1}{9}}{\includegraphics[width=\paperwidth]{img/CS-page95-01.png}\\}
+    {\ifthenelse{\equal{#1}{10}}{\includegraphics[width=\paperwidth]{img/CS-page201-01.png}\\}
+    {IMAGE A DEFINIR\\}
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    }
+    \includegraphics[width=\paperwidth]{img/CS-redline-down2.png}
+    \end{tabular}
+    \end{tcolorbox}
 }
 %____________________________________________________________________
 %  Style pour les en-têtes
@@ -268,30 +295,21 @@
     [display] % shape
     {\bfseries\Large\centering} % format
     {
+        \hspace*{-75pt}\vspace*{-75pt}\begin{figure*}\afficheimagepart{\thepart}\end{figure*}
         \centering
-        \textcolor{CSCOLORPARTZERO}{Partie \ \thepart \\ \huge \uppercase{#1}}
+        \textcolor{\couleurpart{\thepart}}{Partie \ \thepart \\ \huge \uppercase{#1}}
     } % label
     {0pt} % sep
     {
         \centering
-        \begin{figure*}
-            \hspace*{-75pt}
-            \vspace*{-75pt}
-            \includegraphics*[height=\paperheight]{img/part1.png}    
-        \end{figure*}
     } % before-code
     % [
     %     \startcontents
     %     \printcontents{l}{1}[2]{}
-    % ] % after-code
-\part*{LE CYPHER SYSTEM}
+    % ] % after-code\part*{LE CYPHER SYSTEM}
 %_________________________________________________
 % draw a line for the margin
 \AddEverypageHook{\tikz[remember picture,overlay]{% put a line in the margin
-%   \ifodd\value{page}\draw[CSCOLORPARTZERO]($(current page text area.north east)$)
-%     -- ($(current page text area.south east)$);
-%   \else\draw[CSCOLORPARTZERO]($(current page text area.north west)$)
-%     -- ($(current page text area.south west)$);
     \ifodd\value{page}\draw[CSCOLORPARTZERO]($(current page text area.north east)+(2mm,0pt)$)
     -- ($(current page text area.south east)+(2mm,0pt)$);
   \else\draw[CSCOLORPARTZERO]($(current page text area.north west)+(-2mm,0pt)$)
@@ -302,9 +320,17 @@
 % https://borntocode.fr/latex-personnaliser-les-titres-chapter/
 %% define format for chapter
 \titleformat{\chapter} % command
-    [display] % shape
-    {\bfseries\Large\centering} % format
-    {\textcolor{CSCOLORPARTZERO}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
+    [block] % shape
+    {\bfseries\Large\centering\filcenter} % format
+    {
+        \begin{tcolorbox}[width=\paperwidth,colback=white,colframe=white,boxrule=0pt,halign=center,
+            if odd page={grow to left by=38mm}{grow to left by=95mm}]
+         %\textcolor{#1}{Chapitre \ \thechapter \\ \huge \uppercase{#1}}
+         \textcolor{CSCOLORPARTZERO}{Chapitre \ \thechapter \\ \huge \uppercase{#1}}
+         \hspace{0pt}\\
+        \afficheimagechapitre{\thechapter}
+        \end{tcolorbox}
+    } % label
     {0pt} % sep
     {
         \centering
@@ -314,15 +340,10 @@
     ] % after-code
 \titlespacing{\chapter}
     {0mm} %left
-    {-0pt} %before-step
-    {-10mm} %after-step
+    {-15mm} %before-step
+    {-15mm} %after-step
     {} %right
-\titlespacing*{\paragraph}
-    {0mm} %left
-    {-0pt} %before-step
-    {0mm} %after-step
-    {} %right
-%____________________________________________________________________
+%_______________________________________________________
 %% define format for section
 % numberless
 \titleformat{name=\section,numberless}%[runin] 
@@ -337,6 +358,15 @@
     {0mm} %after-step
     {0mm} %right
 % paragraphe indentation
+%____________________________________________________________________
+%% define format for subsection
+% numberless
+\titleformat{name=\subsection,numberless}[display] 
+    {\normalfont\large\bfseries}
+    {\textcolor{CSCOLORPARTZERO}{#1}}
+    {20pt}
+    {\large}
+    [\small]
 \setlength{\parindent}{3mm}
 %#######################################################################
 \include{./tex/Chapter-01.tex}
@@ -345,45 +375,89 @@
 %#######################################################################
 %    PART 1 : CHARACTERS
 %#######################################################################
-\part*{\uppercase{Personnages}}
+% define format for chapter
+\titleformat{\part} % command
+    [display] % shape
+    {\bfseries\Large\centering} % format
+    {
+        \centering
+        \textcolor{\couleurpart{\thepart}}{Partie \ \thepart \\ \huge \uppercase{#1}}
+    } % label
+    {0pt} % sep
+    {
+        \centering
+        \begin{figure*}
+            \hspace*{-75pt}
+            \vspace*{-75pt}
+            \afficheimagepart{\thepart}
+        \end{figure*}
+    } % before-code
+    % [
+    %     \startcontents
+    %     \printcontents{l}{1}[2]{}
+    % ] % after-code
+\part*{Personnages}
+%_________________________________________________
+% draw a line for the margin
+\AddEverypageHook{\tikz[remember picture,overlay]{% put a line in the margin
+    \ifodd\value{page}\draw[CSCOLORPARTONE]($(current page text area.north east)+(2mm,0pt)$)
+    -- ($(current page text area.south east)+(2mm,0pt)$);
+  \else\draw[CSCOLORPARTONE]($(current page text area.north west)+(-2mm,0pt)$)
+    -- ($(current page text area.south west)+(-2mm,0pt)$);
+  \fi}}
 %____________________________________________________________________
 % https://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/macros/latex/contrib/titlesec/titlesec.pdf
 % https://borntocode.fr/latex-personnaliser-les-titres-chapter/
-%% define format for chapter for part 2
+%% define format for chapter
 \titleformat{\chapter} % command
-    [display] % shape
-    {\bfseries\Large\centering} % format
-    {\textcolor{CSCOLORPARTONE}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
-    {0.5ex} % sep
+    [block] % shape
+    {\bfseries\Large\centering\filcenter} % format
+    {
+        \begin{tcolorbox}[width=\paperwidth,colback=white,colframe=white,boxrule=0pt,halign=center,
+            if odd page={grow to left by=38mm}{grow to left by=95mm}]
+         %\textcolor{#1}{Chapitre \ \thechapter \\ \huge \uppercase{#1}}
+         \textcolor{CSCOLORPARTONE}{Chapitre \ \thechapter \\ \huge \uppercase{#1}}
+         \hspace{0pt}\\
+        \afficheimagechapitre{\thechapter}
+        \end{tcolorbox}
+    } % label
+    {0pt} % sep
     {
         \centering
     } % before-code
     [
-    \centering
+        \small
     ] % after-code
-\titlespacing*{\chapter}
+\titlespacing{\chapter}
+    {0mm} %left
+    {-15mm} %before-step
+    {-10mm} %after-step
+    {} %right
+%_______________________________________________________
+%% define format for section
+% numberless
+\titleformat{name=\section,numberless}%[runin] 
+    {\normalfont\Large\bfseries}
+    {\textcolor{CSCOLORPARTONE}{#1}}
+    {0pt}
+    {\Large}
+    %[\\]
+\titlespacing*{\section}
     {0mm} %left
     {-0pt} %before-step
     {0mm} %after-step
-    {} %right
-%____________________________________________________________________
-%% define format for section
-% numberless
-\titleformat{name=\section,numberless}[runin] 
-    {\normalfont\Large\bfseries}
-    {\textcolor{CSCOLORPARTONE}{#1}}
-    {20pt}
-    {\Large}
-    []
+    {0mm} %right
+% paragraphe indentation
 %____________________________________________________________________
 %% define format for subsection
 % numberless
-\titleformat{name=\subsection,numberless}[runin] 
+\titleformat{name=\subsection,numberless}[display] 
     {\normalfont\large\bfseries}
     {\textcolor{CSCOLORPARTONE}{#1}}
     {20pt}
     {\large}
-    []
+    [\small]
+\setlength{\parindent}{3mm}
 %#######################################################################
 % table of content for part 1
 \include{./tex/Chapter-04.tex}
@@ -396,221 +470,22 @@
 %#######################################################################
 %   PART 2 Les règles
 %#######################################################################
-\part*{\uppercase{Les Règles}}
-%____________________________________________________________________
-% https://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/macros/latex/contrib/titlesec/titlesec.pdf
-% https://borntocode.fr/latex-personnaliser-les-titres-chapter/
-%% define format for chapter for part 2
-\titleformat{\chapter} % command
-    [display] % shape
-    {\bfseries\Large\centering} % format
-    {\textcolor{CSCOLORPARTTWO}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
-    {0.5ex} % sep
-    {
-        \centering
-    } % before-code
-    [
-    \centering
-    ] % after-code
-    \titlespacing*{\chapter}
-    {0mm} %left
-    {-0pt} %before-step
-    {0mm} %after-step
-    {} %right
-%____________________________________________________________________
-%% define format for section
-% numberless
-\titleformat{name=\section,numberless}[runin] 
-    {\normalfont\Large\bfseries}
-    {\\ \textcolor{CSCOLORPARTTWO} {#1}}
-    {20pt}
-    {\Large}
-    [\\]
-%____________________________________________________________________
-%% define format for subsection
-    \titleformat{\subsection} % command
-    [display] % shape
-    {\bfseries\large} % format
-    {\textcolor{CSCOLORPARTTWO}{#1}} % label
-    {0.5ex} % sep
-    {
-        \large
-    } % before-code
-
-    \titlespacing*{\subsection}
-    {0mm} %left
-    {-0pt} %before-step
-    {0mm} %after-step
-    {} %right
-%____________________________________________________________________
-% numberless
-\titleformat{name=\subsection,numberless}[runin] 
-    {\normalfont\large\bfseries}
-    {\\ \textcolor{CSCOLORPARTTWO} {#1}}
-    {20pt}
-    {\large}
-    [\\]
-%#######################################################################
+\part*{Les Règles}
 
 %#######################################################################
 %   Part 3 Les Genres
 %#######################################################################
-\part*{\uppercase{Les Genres}}
-%____________________________________________________________________
-% https://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/macros/latex/contrib/titlesec/titlesec.pdf
-% https://borntocode.fr/latex-personnaliser-les-titres-chapter/
-%% define format for chapter for part 3
-\titleformat{\chapter} % command
-    [display] % shape
-    {\bfseries\Large\centering} % format
-    {\textcolor{CSCOLORPARTTHREE}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
-    {0.5ex} % sep
-    {
-        \centering
-    } % before-code
-    [
-    \centering
-    ] % after-code
-    \titlespacing*{\chapter}
-    {0mm} %left
-    {-0pt} %before-step
-    {0mm} %after-step
-    {} %right
-%____________________________________________________________________
-%% define format for section
-% \titleformat{\section} % Command to format section titles
-% {\normalfont\Large\bfseries} % Format: normal font, large size, bold
-% {\thesection}{1em} % Label format: section number followed by 1em space
-% {} % Before the title
-% [\titlerule] % After the title: horizontal line
+\part*{Les Genres}
 
-% \titleformat{\section} % command
-%     [display] % shape
-%     {\bfseries\Large} % format
-%     {\textcolor{BlueViolet}{#1}} % label
-%     {0.5ex} % sep
-%     {
-%         \Large
-%     } % before-code
-
-%     \titlespacing*{\section}
-%     {0mm} %left
-%     {-0pt} %before-step
-%     {0mm} %after-step
-%     {} %right
-%____________________________________________________________________
-% numberless
-\titleformat{name=\section,numberless}[runin] 
-    {\normalfont\Large\bfseries}
-    {\\ \textcolor{CSCOLORPARTTHREE} {#1}}
-    {20pt}
-    {\Large}
-    [\\]
-%____________________________________________________________________
-%% define format for subsection
-    % \titleformat{\subsection} % command
-    % [display] % shape
-    % {\bfseries\large} % format
-    % {\textcolor{OliveGreen}{#1}} % label
-    % {0.5ex} % sep
-    % {
-    %     \large
-    % } % before-code
-
-    % \titlespacing*{\subsection}
-    % {0mm} %left
-    % {-0pt} %before-step
-    % {0mm} %after-step
-    % {} %right
-%____________________________________________________________________
-% numberless
-\titleformat{name=\subsection,numberless}[runin] 
-    {\normalfont\large\bfseries}
-    {\\ \textcolor{CSCOLORPARTTHREE} {#1}}
-    {20pt}
-    {\large}
-    [\\]
-%#######################################################################
 %#######################################################################
 %   Part 4 Maîtriser Le Jeu
 %#######################################################################
-\part*{\uppercase{Maîtriser le Jeu}}
-%____________________________________________________________________
-% https://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/macros/latex/contrib/titlesec/titlesec.pdf
-% https://borntocode.fr/latex-personnaliser-les-titres-chapter/
-%% define format for chapter for part 4
-\titleformat{\chapter} % command
-    [display] % shape
-    {\bfseries\Large\centering} % format
-    {\textcolor{CSCOLORPARTFIVE}{Chapitre \ \thechapter \\ \huge \uppercase{#1}} \\ \afficheimagechapitre{\thechapter}} % label
-    {0.5ex} % sep
-    {
-        \centering
-    } % before-code
-    [
-    \centering
-    ] % after-code
-    \titlespacing*{\chapter}
-    {0mm} %left
-    {-0pt} %before-step
-    {0mm} %after-step
-    {} %right
-%____________________________________________________________________
-%% define format for section
-% \titleformat{\section} % Command to format section titles
-% {\normalfont\Large\bfseries} % Format: normal font, large size, bold
-% {\thesection}{1em} % Label format: section number followed by 1em space
-% {} % Before the title
-% [\titlerule] % After the title: horizontal line
-
-% \titleformat{\section} % command
-%     [display] % shape
-%     {\bfseries\Large} % format
-%     {\textcolor{BlueViolet}{#1}} % label
-%     {0.5ex} % sep
-%     {
-%         \Large
-%     } % before-code
-
-%     \titlespacing*{\section}
-%     {0mm} %left
-%     {-0pt} %before-step
-%     {0mm} %after-step
-%     {} %right
-%____________________________________________________________________
-% numberless
-\titleformat{name=\section,numberless}[runin] 
-    {\normalfont\Large\bfseries}
-    {\\ \textcolor{CSCOLORPARTFIVE} {#1}}
-    {20pt}
-    {\Large}
-    [\\]
-%____________________________________________________________________
-%% define format for subsection
-    % \titleformat{\subsection} % command
-    % [display] % shape
-    % {\bfseries\large} % format
-    % {\textcolor{ForestGreen}{#1}} % label
-    % {0.5ex} % sep
-    % {
-    %     \large
-    % } % before-code
-
-    % \titlespacing*{\subsection}
-    % {0mm} %left
-    % {-0pt} %before-step
-    % {0mm} %after-step
-    % {} %right
-%____________________________________________________________________
-% numberless
-\titleformat{name=\subsection,numberless}[runin] 
-    {\normalfont\large\bfseries}
-    {\\ \textcolor{CSCOLORPARTFIVE} {#1}}
-    {20pt}
-    {\large}
-    [\\]
+\part*{Maîtriser le Jeu}
 %#######################################################################
-
+%#######################################################################
+%   Part 5 backmatter
+%#######################################################################
 \backmatter
+\part*{La Fin est Importante}
 \end{document}
 

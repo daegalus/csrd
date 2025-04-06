@@ -76,45 +76,6 @@
     {-0pt} %before-step
     {-00mm} %after-step
     {} %right
-\titleformat{\part} % command
-    [display] % shape
-    {\bfseries\Large\centering} % format
-    {
-        \centering
-          % \hspace*{-20pt}
-          % \vspace*{-20pt}
-          % \includegraphics*[height=\paperheight]{../img/CS-page13-01.png}    
-          \includegraphics[%
-              width=\paperwidth,
-              height=\paperheight,
-              align=t,
-              smash=br,
-              vshift=40mm,     % adjust the vertical position
-              hshift=-94mm     % adjust the horizontal position
-          ]{../img/CS-page13-01.png}%
-        \textcolor{RedViolet}{Partie \ \thepart \\ \huge \uppercase{#1}}%
-        \vspace{-100mm}
-        \setcounter{tocdepth}{1}
-        \startcontents
-        \printcontents{}{0}{}
-        \setcounter{tocdepth}{0}
-        % \printcontents{}{1}{\section*{\contentsname}}
-        % \hfill\smash{\raisebox{\height}{%
-        %   \begin{minipage}{.8\textwidth}
-        %     \printcontents{}{1}{\section*{\contentsname}}
-        %   \end{minipage}%
-        %   }%
-        % }%\vskip50pt\par
-        %\printcontents[parts]{}{1}[2]{}
-        %\stopcontents[parts]
-%          
-    } % label
-    {0pt} % sep
-    {
-        \centering
-        \pagecolor{blue!20} % Set page color here
-    } % before-code
-   % [ ] % after-code
 \titleformat{\chapter} % command
 [display] % shape
 {\bfseries\centering} % format
@@ -162,7 +123,75 @@
 % \end{titlepage}
 %\blankpage
 \mainmatter
-%\tableofcontents
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\titleformat{\part} % command
+    [display] % shape
+    {\bfseries\Large\centering} % format
+    {
+        \centering
+          \includegraphics[%
+              width=\paperwidth,
+              height=\paperheight,
+              align=t,
+              smash=br,
+              vshift=40mm,     % adjust the vertical position
+              hshift=-94mm     % adjust the horizontal position
+          ]{../img/CS-page13-01.png}%
+        \textcolor{RedViolet}{\huge \uppercase{#1}}%
+        \vspace{-100mm}
+        \tableofcontents
+    %     \setcounter{tocdepth}{1}
+    %     \startcontents
+    %     \printcontents{}{0}{}
+    %     \setcounter{tocdepth}{0}         
+    % } % label
+    {0pt} % sep
+    {
+        \centering
+        \pagecolor{blue!20} % Set page color here
+    } % before-code
+   % [ ] % after-code
+\part*{Table des Matières}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\titleformat{\part} % command
+    [display] % shape
+    {\bfseries\Large\centering} % format
+    {
+        \centering
+          % \hspace*{-20pt}
+          % \vspace*{-20pt}
+          % \includegraphics*[height=\paperheight]{../img/CS-page13-01.png}    
+          \includegraphics[%
+              width=\paperwidth,
+              height=\paperheight,
+              align=t,
+              smash=br,
+              vshift=40mm,     % adjust the vertical position
+              hshift=-94mm     % adjust the horizontal position
+          ]{../img/CS-page13-01.png}%
+        \textcolor{RedViolet}{Partie \ \thepart \\ \huge \uppercase{#1}}%
+        \vspace{-100mm}
+        \setcounter{tocdepth}{1}
+        \startcontents
+        \printcontents{}{0}{}
+        \setcounter{tocdepth}{0}
+        % \printcontents{}{1}{\section*{\contentsname}}
+        % \hfill\smash{\raisebox{\height}{%
+        %   \begin{minipage}{.8\textwidth}
+        %     \printcontents{}{1}{\section*{\contentsname}}
+        %   \end{minipage}%
+        %   }%
+        % }%\vskip50pt\par
+        %\printcontents[parts]{}{1}[2]{}
+        %\stopcontents[parts]
+%          
+    } % label
+    {0pt} % sep
+    {
+        \centering
+        \pagecolor{blue!20} % Set page color here
+    } % before-code
+   % [ ] % after-code
 \part{première partie}
 \nopagecolor
 \chapter{premier chapitre}
@@ -348,8 +377,58 @@ Utiliser une intrusion ne requiert pas du personnage d'utiliser une action pour 
 \section{troisieme section}
 
 \lipsum[1-7]
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\titleformat{\part} % command
+    [display] % shape
+    {\bfseries\Large\centering} % format
+    {
+        \centering
+          % \hspace*{-20pt}
+          % \vspace*{-20pt}
+          % \includegraphics*[height=\paperheight]{../img/CS-page13-01.png}    
+          \includegraphics[%
+              width=\paperwidth,
+              height=\paperheight,
+              align=t,
+              smash=br,
+              vshift=40mm,     % adjust the vertical position
+              hshift=-94mm     % adjust the horizontal position
+          ]{../img/CS-page13-01.png}%
+        \textcolor{BlueViolet}{Partie \ \thepart \\ \huge \uppercase{#1}}%
+        \vspace{-100mm}
+        \setcounter{tocdepth}{1}
+        \startcontents
+        \printcontents{}{0}{}
+        \setcounter{tocdepth}{0}
+        % \printcontents{}{1}{\section*{\contentsname}}
+        % \hfill\smash{\raisebox{\height}{%
+        %   \begin{minipage}{.8\textwidth}
+        %     \printcontents{}{1}{\section*{\contentsname}}
+        %   \end{minipage}%
+        %   }%
+        % }%\vskip50pt\par
+        %\printcontents[parts]{}{1}[2]{}
+        %\stopcontents[parts]
+%          
+    } % label
+    {0pt} % sep
+    {
+        \centering
+        \pagecolor{blue!20} % Set page color here
+    } % before-code
+   % [ ] % after-code
 \part{seconde partie}
+
 \chapter{Quatrième section}
+
+\chapter{Cinquième section}
+
+\chapter{Sixième section}
+
+\part{Troisième partie}
+
+\chapter{Septième section}
+
+\chapter{Huitième section}
 
 \end{document}
