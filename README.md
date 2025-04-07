@@ -27,7 +27,7 @@ Dependencies:
 
 When you pull the git repo, make sure you run `git submodule init` to pull the theme.
 
-From tehre, you just need to run `hugo` to build, it will output to the `/public` folder, it will be created if it is nor present.
+From there, you just need to run `hugo` to build, it will output to the `/public` folder, it will be created if it is nor present.
 
 You can also use `hugo server --minify` to run a live-updating development server.
 

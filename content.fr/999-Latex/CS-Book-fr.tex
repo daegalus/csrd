@@ -256,7 +256,41 @@
         #2
     \end{tcolorbox}
 }}
-
+%µ%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   encart sans logo CS pour l'encadré de la page des parties
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand*{\CSBoxTocSet}[1]{
+    \tcbset{CSTextBoxToc/.style={enhanced,enlarge top by=5.5mm,
+    % overlay app={\node[anchor=north, xshift=-0mm, yshift=6.2mm] at (frame.north)
+    %   {\includegraphics[width=10mm]{img/CS-Logo-boxheader.png}};
+    % },
+    overlay app={%bordure verticale en haut à gauche
+        \begin{scope}[shift={([xshift=0pt,yshift=-1cm]frame.north west)}]
+            \path[fill=#1] (0.5pt,-2.25pt) arc[radius = 2pt, start angle= -90, end angle= -270];
+            \draw[color=#1, line width=2pt] (-0.5pt,0) -- ([xshift=-0.5pt]frame.north west);
+        \end{scope}
+        \path[fill=#1] (frame.north west) -- ([xshift=4pt]frame.north west) -- ([xshift=0pt,yshift=-4pt]frame.north west) circle;
+    },
+    overlay app={%coin en bas à droite
+        \path[fill=#1] (frame.south east) -- ([xshift=-4pt]frame.south east) -- ([xshift=0pt,yshift=4pt]frame.south east) circle;
+    }}}
+    \tcbset{CSTextBoxTocBackground/.style={enhanced,%
+        top=5.5mm,
+        colback=#1!50!white,
+        colframe=#1,
+        sharp corners=downhill,
+    % overlay={\begin{scope}[shift={([yshift=0mm]frame.north)}]
+    %   \path[fill=#1!50!white,draw=#1!50!white] (0,0) circle (4.7mm);
+    %   \end{scope}
+    % }
+    }}
+}
+\newcommand*{\CSBoxToc}[2]{
+    \CSBoxTocSet{#1}
+    \begin{tcolorbox}[CSTextBoxTocBackground,CSTextBoxToc]
+        #2
+    \end{tcolorbox}
+}
 %#######################################################################
 \title{CYPHER SYSTEM LIVRE DES R\`{E}GLES}
 \author{Monte Cook, Bruce R. Cordell, Sean K. Reynolds}
@@ -280,7 +314,21 @@
 % blank page
 %-------------------------
 \mainmatter
-\tableofcontents
+%\tableofcontents
+%____________________________________________________________________
+\titlecontents{part}[0pt]%⟨left⟩
+    {}%⟨above-code⟩
+    {}%numbered-entry-format
+    {}%numberless-entry-format
+    {\hfill\thecontentspage}%⟨filler-page-format⟩
+    []%⟨below-code⟩
+\titlecontents{chapter}% define TOC style for chapters
+    [0pt]%left
+    {\small}%above-code
+    {Chapitre \thecontentslabel\ :\ }%numbered-entry-format
+    {\textcolor{RedViolet}{\thecontentslabel}}%numberless-entry-format
+    {\hfill\thecontentspage}%filler page format
+    [\small]%below-code
 %____________________________________________________________________
 %   reset headers
 \fancypagestyle{plain}{ %
@@ -290,23 +338,31 @@
 %#######################################################################
 %   PART 0 : The CYPHER SYSTEM
 %#######################################################################
-% define format for chapter
-\titleformat{\part} % command
+% define format for part
+\titleformat{\part}% command
     [display] % shape
     {\bfseries\Large\centering} % format
     {
-        \hspace*{-75pt}\vspace*{-75pt}\begin{figure*}\afficheimagepart{\thepart}\end{figure*}
-        \centering
-        \textcolor{\couleurpart{\thepart}}{Partie \ \thepart \\ \huge \uppercase{#1}}
+        % \hspace*{-75pt}\vspace*{-75pt}\begin{figure*}\afficheimagepart{\thepart}\end{figure*}
+        % \centering
+        % \textcolor{\couleurpart{\thepart}}{Partie \ \thepart \\ \huge \uppercase{#1}}
+        \huge \textcolor{RedViolet}{\uppercase{Table des Matières}}
+        % \startcontents
+        % \printcontents{l}{1}[2]{}
     } % label
     {0pt} % sep
     {
         \centering
     } % before-code
-    % [
-    %     \startcontents
-    %     \printcontents{l}{1}[2]{}
-    % ] % after-code\part*{LE CYPHER SYSTEM}
+    [
+        {\vspace*{4pc}%
+            \printcontents[mainchapterspart0]%name
+            {}%prefix
+            {-1}%startlevel
+            [0]%toc-depth
+            {}%toc-code
+        }
+    ] % after-code\part*{LE CYPHER SYSTEM}
 %_________________________________________________
 % draw a line for the margin
 \AddEverypageHook{\tikz[remember picture,overlay]{% put a line in the margin
@@ -369,9 +425,12 @@
     [\small]
 \setlength{\parindent}{3mm}
 %#######################################################################
+\startcontents[mainchapterspart0]
+\part*{Le Cypher System}
 \include{./tex/Chapter-01.tex}
 \include{./tex/Chapter-02.tex}
 \include{./tex/Chapter-03.tex}
+%\stopcontents[mainchapterspart0]
 %#######################################################################
 %    PART 1 : CHARACTERS
 %#######################################################################
@@ -381,22 +440,37 @@
     {\bfseries\Large\centering} % format
     {
         \centering
-        \textcolor{\couleurpart{\thepart}}{Partie \ \thepart \\ \huge \uppercase{#1}}
+        \includegraphics[%
+            width=\paperwidth,
+            height=\paperheight,
+            align=t,
+            smash=br,
+            vshift=40mm,     % adjust the vertical position
+            hshift=-94mm     % adjust the horizontal position
+        ]{img/CS-page13-01.png}%
+        \textcolor{BlueViolet}{Partie \ \thepart \\ \huge \uppercase{#1}}%
+        %\textcolor{\couleurpart{\thepart}}{Partie \ \thepart \\ \huge \uppercase{#1}}
     } % label
     {0pt} % sep
     {
         \centering
-        \begin{figure*}
-            \hspace*{-75pt}
-            \vspace*{-75pt}
-            \afficheimagepart{\thepart}
-        \end{figure*}
+        \pagecolor{blue!20} % Set page color here
     } % before-code
-    % [
-    %     \startcontents
-    %     \printcontents{l}{1}[2]{}
-    % ] % after-code
+    [
+        {\vspace*{100mm}%
+            \textcolor{white}{TOC Chapitre 1}
+            % \textcolor{white}{\printcontents[mainchapterspart1]%name
+            %     {}%prefix
+            %     {0}%startlevel
+            %     [0]%toc-depth
+            %     {}%toc-code
+            % }
+        }
+    ] % after-code
+%
+\startcontents[mainchapterspart1]
 \part*{Personnages}
+\nopagecolor
 %_________________________________________________
 % draw a line for the margin
 \AddEverypageHook{\tikz[remember picture,overlay]{% put a line in the margin
@@ -467,25 +541,31 @@
 \include{./tex/Chapter-08.tex}
 \include{./tex/Chapter-09.tex}
 \include{./tex/Chapter-10.tex}
+\stopcontents[mainchapterspart1]
 %#######################################################################
 %   PART 2 Les règles
 %#######################################################################
 \part*{Les Règles}
-
+\startcontents[mainchapterspart2]
+\stopcontents[mainchapterspart2]
 %#######################################################################
 %   Part 3 Les Genres
 %#######################################################################
 \part*{Les Genres}
-
+\startcontents[mainchapterspart3]
+\stopcontents[mainchapterspart3]
 %#######################################################################
 %   Part 4 Maîtriser Le Jeu
 %#######################################################################
 \part*{Maîtriser le Jeu}
+\startcontents[mainchapterspart4]
+\stopcontents[mainchapterspart4]
 %#######################################################################
 %#######################################################################
 %   Part 5 backmatter
 %#######################################################################
 \backmatter
 \part*{La Fin est Importante}
+\stopcontents[mainchapterspart0]
 \end{document}
 

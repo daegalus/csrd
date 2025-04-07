@@ -49,62 +49,69 @@
   %textwidth=345pt,
 ]{geometry}
 
-\newif\ifpartialtoc
-\partialtoctrue
-\makeatletter
-\patchcmd{\@makeparthead}
-  {\vspace*{-50\p@}}
-  {\ifpartialtoc
-    \vspace*{0\p@}%
-    \hfill\smash{\raisebox{\height}{%
-      \begin{minipage}{.8\textwidth}
-        \printcontents{}{1}{\section*{\contentsname}}
-      \end{minipage}%
-      }%
-    }%\vskip50pt\par
-   \else
-   \vspace*{50pt}%
-   \fi%  
-  }
-  {}
-  {}
-%\pretocmd{\part}{\startcontents}{}{}
-\makeatother
+% \newif\ifpartialtoc
+% \partialtoctrue
+% \makeatletter
+% \patchcmd{\@makeparthead}
+%   {\vspace*{-50\p@}}
+%   {\ifpartialtoc
+%     \vspace*{0\p@}%
+%     \hfill\smash{\raisebox{\height}{%
+%       \begin{minipage}{.8\textwidth}
+%         \printcontents{}{1}{\section*{\contentsname}}
+%       \end{minipage}%
+%       }%
+%     }%\vskip50pt\par
+%    \else
+%    \vspace*{50pt}%
+%    \fi%  
+%   }
+%   {}
+%   {}
+% %\pretocmd{\part}{\startcontents}{}{}
+% \makeatother
 
 \titlespacing{\part}
     {0mm} %left
     {-0pt} %before-step
     {-00mm} %after-step
     {} %right
-\titleformat{\chapter} % command
-[display] % shape
-{\bfseries\centering} % format
-{\textcolor{RedViolet}{\Large Chapitre \ \thechapter \\ \huge \uppercase{#1} \\ \hspace*{-75pt} \includegraphics[width=\paperwidth]{../img/CS-page4-01.png}}
-  } % label
-{0pt} % sep
-{
-    \centering
-    \hspace*{-75pt}
-} % before-code
-[
-    \small
-] % after-code
-\titlespacing{\chapter}
-{0mm} %left
-{-0pt} %before-step
-{-10mm} %after-step
-{} %right
+% \titleformat{\chapter} % command
+% [display] % shape
+% {\bfseries\centering} % format
+% %{\textcolor{RedViolet}{\Large Chapitre \ \thechapter \\ \huge #1 \\ \hspace*{-75pt} \includegraphics[width=\paperwidth]{../img/CS-page4-01.png}}} % label
+% {Chapitre \ \thechapter \\ \huge #1} % label
+% {0pt} % sep
+% {
+%     \centering
+%     \hspace*{-75pt}
+% } % before-code
+% [
+%     \small
+% ] % after-code
+% \titlespacing{\chapter}
+% {0mm} %left
+% {-0pt} %before-step
+% {-10mm} %after-step
+% {} %right
 %\newcommand*{\paragraphbreak}{}
-\titlespacing{\paragraph}
-{0mm} %left
-{0pt} %before-step
-{0mm} %after-step
- %{5pc}{1.5ex minus .1 ex}{1pc}
-\titlespacing{\chapter}
-{0mm} %left
-{0pt} %before-step
-{0mm} %after-step
-\titlecontents{section}% define TOC style for parts
+% \titlespacing{\paragraph}
+% {0mm} %left
+% {0pt} %before-step
+% {0mm} %after-step
+%  %{5pc}{1.5ex minus .1 ex}{1pc}
+% \titlespacing{\chapter}
+% {0mm} %left
+% {0pt} %before-step
+% {0mm} %after-step
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\titlecontents{part}[]%⟨left⟩
+{}%⟨above-code⟩
+{\contentslabel{2.3em}}%⟨numbered-entry-format⟩
+{}%⟨numberless-entry-format⟩
+{}%⟨filler-page-format⟩
+[]%⟨below-code⟩
+\titlecontents{chapter}% define TOC style for chapters
     [2cm]%left
     {\centering}%above-code
     {}%numbered-entry-format
@@ -124,34 +131,35 @@
 %\blankpage
 \mainmatter
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\titleformat{\part} % command
+\titleformat{name=\part} % command
     [display] % shape
     {\bfseries\Large\centering} % format
     {
         \centering
-          \includegraphics[%
-              width=\paperwidth,
-              height=\paperheight,
-              align=t,
-              smash=br,
-              vshift=40mm,     % adjust the vertical position
-              hshift=-94mm     % adjust the horizontal position
-          ]{../img/CS-page13-01.png}%
-        \textcolor{RedViolet}{\huge \uppercase{#1}}%
+        %   \includegraphics[%
+        %       width=\paperwidth,
+        %       height=\paperheight,
+        %       align=t,
+        %       smash=br,
+        %       vshift=40mm,     % adjust the vertical position
+        %       hshift=-94mm     % adjust the horizontal position
+        %   ]{../img/CS-page13-01.png}%
+        % \textcolor{RedViolet}{\huge \uppercase{#1}}%
         \vspace{-100mm}
-        \tableofcontents
+        %\tableofcontents
     %     \setcounter{tocdepth}{1}
     %     \startcontents
     %     \printcontents{}{0}{}
     %     \setcounter{tocdepth}{0}         
-    % } % label
+    } % label
     {0pt} % sep
     {
         \centering
-        \pagecolor{blue!20} % Set page color here
+        %\pagecolor{blue!20} % Set page color here
     } % before-code
    % [ ] % after-code
-\part*{Table des Matières}
+\part{Table des Matières}
+\tableofcontents
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \titleformat{\part} % command
     [display] % shape
@@ -194,11 +202,15 @@
    % [ ] % after-code
 \part{première partie}
 \nopagecolor
+
 \chapter{premier chapitre}
+
 %\makebox[\pagewidth][c]{\includegraphics[width=\paperwidth]{CS-page4-01.png}}
 \begin{wrapfigure}{l}{2mm}
     {\fontsize{12mm}{2mm}\selectfont\textcolor{RedViolet}{\textbf{F}}}
-\end{wrapfigure}\lipsum[1-7]
+\end{wrapfigure}
+
+\lipsum[1-7]
 
 \section{premiere section}
 \lipsum[1]
@@ -273,15 +285,15 @@
 Vous pouvez en retirer ce que vous voulez et jouer avec comme vous le voulez.}
 
 \sffamily
-\begin{testcolors}[rgb,HTML,cmyk,hsb,gray]
+\begin{testcolors}[rgb,HTML,hsb,gray]
 \testcolor{RedViolet}
 \testcolor{CSRED}
 \testcolor{CSREDD}
 \testcolor{RedViolet!50!red}
 \testcolor{RedViolet!50!magenta}
-\testcolor[cmyk]{0,0,1,0.5}
+%\testcolor[cmyk]{0,0,1,0.5}
 \testcolor[HTML]{8F6784}
-\testcolor[rgb:cmyk]{0,0,.5,.5}
+%\testcolor[rgb:cmyk]{0,0,.5,.5}
 \end{testcolors}
 %\tcbset{CSTextBoxBackground/.style={enhanced,colback=RedViolet!50!white,colframe=RedViolet!50!white,
 % \tcbset{CSTextBoxBackground/.style={enhanced,%enlarge top by=5.5mm,
@@ -417,18 +429,40 @@ Utiliser une intrusion ne requiert pas du personnage d'utiliser une action pour 
         \pagecolor{blue!20} % Set page color here
     } % before-code
    % [ ] % after-code
+%\tableofcontents
+
 \part{seconde partie}
+\nopagecolor
 
-\chapter{Quatrième section}
+\chapter{Deuxième chapitre}
 
-\chapter{Cinquième section}
+\lipsum[1]
 
-\chapter{Sixième section}
+\chapter{Troisième chapitre}
+
+\lipsum[1]
+
+\chapter{Quatrième chapitre}
+
+\lipsum[1]
+
+\chapter{Cinquième chapitre}
+
+\lipsum[1]
+
+\chapter{Sixième chapitre}
+
+\lipsum[1]
 
 \part{Troisième partie}
+\nopagecolor
 
-\chapter{Septième section}
+\chapter{Septième chapitre}
 
-\chapter{Huitième section}
+\lipsum[1]
+
+\chapter{Huitième chapitre}
+
+\lipsum[1]
 
 \end{document}

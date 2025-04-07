@@ -8,6 +8,11 @@ languageName = 'English'
 contentDir = 'content.en'
 weight = 1
 
+[languages.fr]  
+languageName = 'French'
+contentDir = 'content.fr'
+weight = 2
+
 # Theme
 enableGitInfo = true
 disableKinds = ['taxonomy', 'taxonomyTerm']
