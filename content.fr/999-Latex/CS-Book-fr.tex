@@ -135,7 +135,9 @@
     {\ifthenelse{\equal{#1}{8}}{\includegraphics[width=\paperwidth]{img/CS-page60-01.png}\\}
     {\ifthenelse{\equal{#1}{9}}{\includegraphics[width=\paperwidth]{img/CS-page95-01.png}\\}
     {\ifthenelse{\equal{#1}{10}}{\includegraphics[width=\paperwidth]{img/CS-page201-01.png}\\}
+    {\ifthenelse{\equal{#1}{11}}{\includegraphics[width=\paperwidth]{img/CS-page206-01.png}\\}
     {IMAGE A DEFINIR\\}
+    }
     }
     }
     }
@@ -545,8 +547,111 @@
 %#######################################################################
 %   PART 2 Les règles
 %#######################################################################
+% define format for chapter
+\titleformat{\part} % command
+    [display] % shape
+    {\bfseries\Large\centering} % format
+    {
+        \centering
+        \includegraphics[%
+            width=\paperwidth,
+            height=\paperheight,
+            align=t,
+            smash=br,
+            vshift=40mm,     % adjust the vertical position
+            hshift=-94mm     % adjust the horizontal position
+        ]{img/CS-page206-01.png}%
+        \textcolor{CSCOLORPARTTWO}{Partie \ \thepart \\ \huge \uppercase{#1}}%
+        %\textcolor{\couleurpart{\thepart}}{Partie \ \thepart \\ \huge \uppercase{#1}}
+    } % label
+    {0pt} % sep
+    {
+        \centering
+        \pagecolor{CSCOLORPARTTWO!20} % Set page color here
+    } % before-code
+    [
+        {\vspace*{100mm}%
+            \textcolor{white}{TOC Chapitre 2}
+            % \textcolor{white}{\printcontents[mainchapterspart1]%name
+            %     {}%prefix
+            %     {0}%startlevel
+            %     [0]%toc-depth
+            %     {}%toc-code
+            % }
+        }
+    ] % after-code
+%
 \part*{Les Règles}
+\nopagecolor
+%_________________________________________________
+% draw a line for the margin
+\AddEverypageHook{\tikz[remember picture,overlay]{% put a line in the margin
+    \ifodd\value{page}\draw[CSCOLORPARTTWO]($(current page text area.north east)+(2mm,0pt)$)
+    -- ($(current page text area.south east)+(2mm,0pt)$);
+  \else\draw[CSCOLORPARTTWO]($(current page text area.north west)+(-2mm,0pt)$)
+    -- ($(current page text area.south west)+(-2mm,0pt)$);
+  \fi}}
+%____________________________________________________________________
+% https://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/macros/latex/contrib/titlesec/titlesec.pdf
+% https://borntocode.fr/latex-personnaliser-les-titres-chapter/
+%% define format for chapter
+\titleformat{\chapter} % command
+    [block] % shape
+    {\bfseries\Large\centering\filcenter} % format
+    {
+        \begin{tcolorbox}[width=\paperwidth,colback=white,colframe=white,boxrule=0pt,halign=center,
+            if odd page={grow to left by=38mm}{grow to left by=95mm}]
+         %\textcolor{#1}{Chapitre \ \thechapter \\ \huge \uppercase{#1}}
+         \textcolor{CSCOLORPARTTWO}{Chapitre \ \thechapter \\ \huge \uppercase{#1}}
+         \hspace{0pt}\\
+        \afficheimagechapitre{\thechapter}
+        \end{tcolorbox}
+    } % label
+    {0pt} % sep
+    {
+        \centering
+    } % before-code
+    [
+        \small
+    ] % after-code
+\titlespacing{\chapter}
+    {0mm} %left
+    {-15mm} %before-step
+    {-10mm} %after-step
+    {} %right
+%_______________________________________________________
+%% define format for section
+% numberless
+\titleformat{name=\section,numberless}%[runin] 
+    {\normalfont\Large\bfseries}
+    {\textcolor{CSCOLORPARTTWO}{#1}}
+    {0pt}
+    {\Large}
+    %[\\]
+\titlespacing*{\section}
+    {0mm} %left
+    {0pt} %before-step
+    {0mm} %after-step
+    {0mm} %right
+% paragraphe indentation
+%____________________________________________________________________
+%% define format for subsection
+% numberless
+\titleformat{name=\subsection,numberless}[display] 
+    {\normalfont\large\bfseries}
+    {\textcolor{CSCOLORPARTTWO}{#1}}
+    {0pt}
+    {\large}
+    [\small]
+\titlespacing*{\subsection}
+    {0mm} %left
+    {0pt} %before-step
+    {0mm} %after-step
+    {0mm} %right
+\setlength{\parindent}{3mm}
+%################################
 \startcontents[mainchapterspart2]
+\include{./tex/Chapter-11.tex}
 \stopcontents[mainchapterspart2]
 %#######################################################################
 %   Part 3 Les Genres
