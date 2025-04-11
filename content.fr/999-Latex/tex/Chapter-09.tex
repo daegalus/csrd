@@ -1,18 +1,9 @@
 %#######################################################################
 %            CHAPTER 9
 %#######################################################################
-\startchapter{Capacités}{ch:chapter9}{\getcolorpartone}
-% \chapter{Capacités}
-% \label{ch:chapter9}
-% \fancypagestyle{plain}{ %
-% \fancyhf{} % remove everything
-% \renewcommand{\headrulewidth}{1pt} % remove lines as well
-% \renewcommand{\footrulewidth}{0pt}
-% \xpretocmd\headrule{\color{BlueViolet}}{}{\PatchFailed}
-% \fancyhead[RO]{\textcolor{BlueViolet}{Capacités}}
-% \fancyhead[LE]{\textcolor{BlueViolet}{CYPHER SYSTEM}}
-% }
-\chapterfirstletter{C}{\getcolorpartone}e chapitre présente un grand catalogue de plus d'un millier de capacités qu'un personnage peut obtenir par son type, ses préférences et son focus. Elles sont triées par ordre alphabétique.
+\startchapter{Capacités}{ch:chapter9}{CSCOLORPARTONE}
+%\raggedright
+Ce chapitre présente un grand catalogue de plus d'un millier de capacités qu'un personnage peut obtenir par son type, ses préférences et son focus. Elles sont triées par ordre alphabétique.
 
 Le type de personnage, ses préférences et son focus donne un rang particulier à chaque capacité. Toutefois, si vous créez un nouveau focus ou un nouveau type, nous vous fournissons quelques outils supplémentaires.
 
@@ -28,9 +19,9 @@ Les catégories sont principalement utilisées par les MJs quand ils définissen
 
 %____________________________________________________________________---------------
 % numberless
-\titleformat{name=\section,numberless}[runin] 
+\titleformat{name=\section,numberless}%[block] 
     {\normalfont\Large\bfseries}
-    {\\ \textcolor{BlueViolet} {\uppercase{Capacités}\ \textendash\ #1}}
+    {\textcolor{CSCOLORPARTONE} {\uppercase{Capacités} \textendash #1}}
     {0.5em}
     {\Large}
     []
@@ -40,14 +31,11 @@ Les catégories sont principalement utilisées par les MJs quand ils définissen
     {\normalfont\scshape}
     {{\includegraphics[height=3mm]{img/CS-mini-logo.png}}\textbf{#1:}\ } % label
     {0pt}{}[]
-
 \titlespacing*{\subsection}
-        {0mm} %left
+        {0mm} %left\section*{A}
         {10pt} %before-step
         {0mm} %after-step
         {} %right
-
-
 %--------------------------
 \section*{A}
 
@@ -635,7 +623,6 @@ Vous êtes habile à réclamer les récompenses que la renommée peut générer.
 \phantomsection\label{subsec:ab_have_spacesuit_will_travel}
 
 D'une manière ou d'une autre, vous êtes devenu le propriétaire légal d'une combinaison spatiale entièrement fonctionnelle et avancée. La combinaison spatiale fournit +1 d'armure et, plus important encore, vous permet de survivre dans le vide de l'espace en utilisant les réserves de la combinaison jusqu'à douze heures à la fois avec suffisamment de masse de réaction pour vous déplacer en apesanteur sur des jets de gaz ionisé pendant la même période. Après chaque utilisation, la combinaison doit être rechargée, soit avec des cartouches d'air et de masse réactionnelle déjà chargées, soit en laissant la combinaison reposer inutilisée dans une zone à atmosphère respirable pendant au moins deux heures, période pendant laquelle elle rechargera à la fois l'air et masse de réaction utilisant des mécanismes à semi-conducteurs intégrés. L'alimentation électrique de la combinaison est un générateur thermoélectrique à radio-isotopes, ce qui signifie qu'elle fonctionnera pendant quelques décennies avant de devoir être remplacée. Facilitateur. (Have Spacesuit, Will Travel \textendash (148))
-
 \
 %--------------------------
 \section*{B}
@@ -814,7 +801,6 @@ En tant que serviteur des dieux, vous pouvez invoquer des bénédictions en leur
 \item[Guerre] (1 point d'Intellect). Une cible que vous choisissez à courte portée (potentiellement vous-même) inflige 2 points de dégâts supplémentaires lors de sa prochaine attaque d'arme réussie. Action.
 \item[Eau/Mer] (2 points d'Intellect). Une cible que vous touchez peut respirer de l'eau pendant dix minutes. Action. (Blessing of the Gods \textendash (114))
 \end{description}
-
 \
 %--------------------------
 \section*{C}
@@ -1668,7 +1654,6 @@ Vous gagnez 3 points dans votre Réserve de Célérité. Facilitateur. (Enhanced
 \phantomsection\label{subsec:ab_greater_enhanced_speed}
 
 vous gagnez 6 points dans votre Réserve de Célérité. Facilitateur. (Greater Enhanced Speed \textendash (146))
-
 \
 %--------------------------
 \section*{D}
@@ -2097,7 +2082,6 @@ Vous déchirez, ou faites éclater instantanément un objet métallique qui est 
 \phantomsection\label{subsec:ab_deflect_attacks}
 
 En utilisant votre esprit, vous vous protégez des attaques entrantes. Pendant les dix minutes suivantes, vous êtes entraîné aux tâches de défense de Célérité. Action à initier. (Deflect Attacks \textendash (127))
-
 \
 %--------------------------
 \section*{E}
@@ -2491,7 +2475,6 @@ la réduction du coût de votre capacité Pratiqué en armure s'améliore. Vous 
 \phantomsection\label{subsec:ab_wrest_from_chance}
 
 Si vous obtenez un 1 naturel sur un d20, vous pouvez relancer le dé. Si vous relancez, vous évitez une intrusion du MJ (à moins que vous n'obteniez un deuxième 1) et vous pourriez réussir votre tâche. Une fois que vous utilisez cette capacité, elle n'est à nouveau disponible qu'après avoir effectué un jet de récupération de dix heures. Facilitateur. (Wrest From Chance \textendash (200))
-
 \
 %--------------------------
 \section*{F}
@@ -2745,7 +2728,6 @@ Durant l'heure suivante, vous adoptez certaines caractéristiques d'une ombre gr
 \phantomsection\label{subsec:ab_castigate}
 
 Vous intimidez tellement tout adversaire à longue portée qui comprend la parole (même si ce n'est pas votre langue) qu'il perd sa prochaine action et que toutes ses autres actions sont gênées pendant une minute. Chaque fois que vous tentez cette capacité contre la même cible, vous devez appliquer un niveau d'effort de plus que celui appliqué lors de la tentative précédente. Action. (Castigate \textendash (118))
-
 \
 %--------------------------
 \section*{G}
@@ -2849,7 +2831,6 @@ votre forme de pierre issue de la capacité Corps du Golem est plus difficile à
 \phantomsection\label{subsec:ab_generate_force_field}
 
 Vous créez six plans de force solide (niveau 8), chacun de 30 pieds (9 m) de côté, qui persistent pendant une heure. Les plans doivent être contigus et ils conservent la position que vous choisissez lors du lancement de cette capacité. Par exemple, vous pouvez disposer les plans de manière linéaire, créant un mur de 55 m de long, ou vous pouvez créer un cube fermé. Les plans sont conformes à l'espace disponible. Chaque niveau d'effort supplémentaire que vous appliquez augmente le niveau de la barrière de un (jusqu'à un maximum de niveau 10) ou augmente le nombre d'heures pendant lesquelles elle reste d'un. Action à initier. (Generate Force Field \textendash (145))
-
 \
 %--------------------------
 \section*{H}
@@ -2883,7 +2864,6 @@ Même si il est prudent, un enquêteur se retrouve parfois dans une bagarre. Sav
 \phantomsection\label{subsec:ab_hemorrhage}
 
 Vous effectuez une frappe puissante et précise qui inflige des dégâts supplémentaires plus tard. Lors de votre prochain tour, la cible de cette attaque subit 3 points de dégâts supplémentaires (ignore l'armure). La cible peut éviter ces dégâts supplémentaires en effectuant un jet de récupération, en utilisant n'importe quelle capacité qui la soigne ou en utilisant son action pour soigner la blessure. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour augmenter cette durée d'un tour. Action. (Hemorrhage \textendash (149))
-
 \
 %--------------------------
 \section*{I}
@@ -3132,7 +3112,6 @@ Une araignée géante apparaît à portée immédiate. Si vous avez appliqué un
 \phantomsection\label{subsec:ab_blameless}
 
 vous êtes entraîné dans l'un des domaines suivants: tromperie, furtivité ou déguisement. Facilitateur. (Blameless \textendash (113))
-
 \
 %--------------------------
 \section*{J}
@@ -3161,7 +3140,6 @@ Jusqu'à la fin du tour suivant, vous pouvez vous déplacer à travers des objet
 \phantomsection\label{subsec:ab_just_a_bit_mad}
 
 vous êtes entraîné aux tâches de défense intellectuelle. Facilitateur. (Just a Bit Mad \textendash (156))
-
 \
 %--------------------------
 \section*{K}
@@ -3170,7 +3148,6 @@ vous êtes entraîné aux tâches de défense intellectuelle. Facilitateur. (Jus
 \phantomsection\label{subsec:ab_knock_out}
 
 Vous effectuez une attaque de mêlée qui n'inflige aucun dégât. Au lieu de cela, si l'attaque réussit, effectuez un deuxième jet basé sur la Puissance. En cas de succès, un ennemi de niveau 3 ou inférieur perd connaissance pendant une minute. Pour chaque niveau d'effort utilisé, vous pouvez affecter un niveau d'ennemi supérieur ou prolonger la durée d'une minute supplémentaire. Action. (Knock Out \textendash (156))
-
 \
 %--------------------------
 \section*{L}
@@ -3379,7 +3356,6 @@ Votre corps se dissout dans un nuage de photons qui se déplacent instantanémen
 \phantomsection\label{subsec:ab_levity}
 
 Grâce à votre esprit, votre charme, votre humour et votre grâce, vous êtes entraîné à toutes les interactions sociales autres que celles impliquant la coercition ou l'intimidation. Pendant les repos, vous mettez tellement vos amis et camarades à l'aise qu'ils gagnent +1 à leurs jets de récupération. Facilitateur. (Levity \textendash (158))
-
 \
 %--------------------------
 \section*{M}
@@ -3733,7 +3709,6 @@ Avec un œil vif et des mouvements rapides, vous perturbez certaines fonctions d
 \phantomsection\label{subsec:ab_power_memory}
 
 lorsque vous utilisez Pouvoir de copie, il vous suffit d'avoir vu la capacité utilisée au cours de la journée précédente (au lieu de l'heure précédente), et l'utilisation de l'effort prolonge la durée pendant laquelle votre copie peut atteindre un jour par niveau d'effort (au lieu de d'une heure par niveau). Facilitateur. (Power Memory \textendash (CTS, 55)))
-
 \
 %--------------------------
 \section*{N}
@@ -3787,7 +3762,6 @@ Cette capacité fonctionne comme la capacité Nécromancie sauf qu'elle crée un
 \phantomsection\label{subsec:ab_negotiate}
 
 Dans toute réunion où deux personnes ou plus tentent d'établir la vérité ou de prendre une décision, vous pouvez influencer le verdict grâce à une rhétorique magistrale. Si vous disposez de quelques tours ou plus pour faire valoir votre point de vue, soit la décision passe en votre faveur, soit, si quelqu'un d'autre fait valoir un point concurrent, toute tâche de persuasion ou de tromperie associée est facilitée de deux étapes. Action à initier, un ou plusieurs tours à réaliser. (Negotiate \textendash (165))
-
 \
 %--------------------------
 \section*{O}
@@ -3826,7 +3800,6 @@ Vous pouvez poser une question à un être mort dont vous touchez le cadavre. Pa
 \phantomsection\label{subsec:ab_shipspeak}
 
 vous pouvez effectuer des manœuvres de base à distance planétaire avec un vaisseau spatial avec lequel vous vous êtes lié à l'aide de Liaison machine. Vous pouvez l'envoyer à un endroit désigné, l'appeler, le faire atterrir, autoriser ou refuser l'entrée, etc., même si vous n'êtes pas à bord. La création de liens est un processus qui nécessite une journée de méditation à bord du navire. Action. (Shipspeak \textendash (183))
-
 \
 %--------------------------
 \section*{P}
@@ -4320,7 +4293,6 @@ Pendant les dix minutes suivantes, si vous attaquez quelqu'un que vous avez dés
 \phantomsection\label{subsec:ab_punish_all_the_guilty}
 
 vous pouvez attaquer jusqu'à cinq ennemis à portée immédiate que vous avez désignés comme coupables avec votre capacité de désignation, le tout dans le cadre de la même action en un seul tour. Effectuez des jets d'attaque séparés pour chaque ennemi, mais toutes les attaques comptent comme une seule action au cours d'un seul round. Vous restez limité par la quantité d'Effort que vous pouvez appliquer sur une action. Tout ce qui modifie votre attaque ou vos dégâts s'applique à toutes les attaques. Si vous disposez également de la capacité Attaque Tournoyante, vous infligez 1 point de dégâts supplémentaire lorsque vous utilisez Punir tous les coupables. Action. (Punish All the Guilty \textendash (173))
-
 \
 %--------------------------
 \section*{Q}
@@ -4329,7 +4301,6 @@ vous pouvez attaquer jusqu'à cinq ennemis à portée immédiate que vous avez d
 \phantomsection\label{subsec:ab_something_in_the_road}
 
 Lorsque vous utilisez un véhicule comme arme, vous infligez 5 points de dégâts supplémentaires. Facilitateur. (Something in the Road \textendash (184))
-
 \
 %--------------------------
 \section*{R}
@@ -4648,7 +4619,6 @@ vous ajustez la vue d'une créature afin qu'elle puisse voir normalement dans le
 \phantomsection\label{subsec:ab_daydream}
 
 Vous entraînez quelqu'un dans une rêverie, substituant un rêve de votre propre création à la réalité de la cible pendant une minute maximum. Vous pouvez affecter une cible à longue portée que vous pouvez voir, ou une cible à moins de 16 km (10 miles) sur laquelle vous avez des coupures de cheveux ou de peau. Selon toutes les apparences extérieures, une cible affectée reste (ou ment) immobile. Mais à l'intérieur, la réalité substituée (ou le rêve dans un rêve, si la cible dormait) est ce que la cible expérimente. Si la cible est sous contrainte, elle peut tenter un autre jet de défense Intellect à chaque round pour se libérer, même si la cible peut ne pas se rendre compte de son état. Soit le rêve se déroule selon un scénario que vous avez préparé lorsque vous avez utilisé cette capacité, soit si vous utilisez vos propres actions (vous forçant dans un état similaire à celui de la cible), vous pouvez diriger le rêve qui se déroule d'un tour à l'autre. Utiliser cette capacité sur une cible endormie facilite l'attaque initiale. Action à initier ; si vous dirigez le rêve, action à diriger par tour. (Daydream \textendash (124))
-
 \
 %--------------------------
 \section*{S}
@@ -5032,7 +5002,6 @@ Vous flottez lentement dans les airs. Si vous vous concentrez, vous pouvez contr
 \phantomsection\label{subsec:ab_divine_symbol}
 
 Vous invoquez le pouvoir divin en traçant un symbole lumineux dans l'air avec vos doigts. Des piliers tordus de rayonnement divin lancent jusqu'à cinq cibles à longue portée. Une attaque réussie sur une cible inflige 5 points de dégâts. Si vous appliquez Effort pour augmenter les dégâts, vous infligez 2 points de dégâts supplémentaires par niveau d'Effort (au lieu de 3 points) ; les cibles subissent 1 point de dégâts même si vous échouez au jet d'attaque. Action. (Divine Symbol \textendash (131))
-
 \
 %--------------------------
 \section*{T}
@@ -5371,7 +5340,6 @@ Vous vous téléportez instantanément vers n'importe quel endroit à longue dis
 \phantomsection\label{subsec:ab_medium_teleportation}
 
 Vous vous téléportez instantanément vers n'importe quel endroit situé à une longue distance que vous pouvez voir. En plus des options normales d'utilisation de l'Effort, vous pouvez choisir d'utiliser l'Effort pour augmenter votre portée, vous téléporter vers un endroit que vous ne pouvez pas voir ou emmener d'autres personnes avec vous. Chaque longue distance supplémentaire coûte un niveau d'effort. Se téléporter vers une destination que vous ne pouvez pas voir coûte un niveau d'effort. Chaque ou deux cibles supplémentaires apportées avec vous coûtent un niveau d'effort (vous devez toucher toutes les cibles supplémentaires). Ces niveaux d'effort sont comptés séparément, donc se téléporter sur une longue distance supplémentaire vers un endroit que vous ne pouvez pas voir avec deux passagers coûte un total de trois niveaux d'effort. Action. (Medium Teleportation \textendash (161))
-
 \
 %--------------------------
 \section*{U}
@@ -5440,7 +5408,6 @@ Si vous avez le temps et la liberté de rechercher des matériaux quotidiens dan
 \phantomsection\label{subsec:ab_use_senses_of_others}
 
 Vous pouvez voir, entendre, sentir, toucher et goûter à travers les sens de toute personne avec laquelle vous avez un contact télépathique en utilisant des capacités télépathiques ou similaires. Vous pouvez tenter d'utiliser cette capacité sur une cible volontaire ou non à longue portée ; une cible réticente peut tenter de résister. Vous n'avez pas besoin de voir la cible, mais vous devez savoir qu'elle est à portée. Vos sens partagés durent dix minutes. Action à établir. (Use Senses of Others \textendash (195))
-
 \
 %--------------------------
 \section*{V}
@@ -5671,7 +5638,6 @@ cette capacité fonctionne comme la capacité de Défenseur dévoué, sauf que l
 \phantomsection\label{subsec:ab_true_senses}
 
 vous pouvez voir dans l'obscurité totale jusqu'à 15 m, comme s'il s'agissait d'une faible lumière. Vous reconnaissez les hologrammes, les déguisements, les illusions d'optique, le mimétisme sonore et autres astuces similaires (pour tous les sens) pour ce qu'ils sont. Facilitateur. (True Senses \textendash (194))
-
 \
 %--------------------------
 \section*{Y}
@@ -5685,7 +5651,6 @@ vous pouvez voir dans une lumière extrêmement faible comme s'il s'agissait d'u
 \phantomsection\label{subsec:ab_beast_eyes}
 
 En vous connectant à la créature grâce à votre capacité Compagnon de bête, vous pouvez percevoir par ses sens si elle se trouve à moins de 1,5 km de vous. Cet effet dure jusqu'à dix minutes. Action à établir. (Beast Eyes \textendash (112))
-
 \
 %--------------------------
 

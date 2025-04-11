@@ -33,6 +33,8 @@
 \usepackage{tikz}   %  for graphics https://ctan.mines-albi.fr/graphics/pgf/base/doc/pgfmanual.pdf
 \usetikzlibrary{backgrounds,calc}
 \usepackage{ifoddpage}  % to detect odd/even page
+\usepackage[maxfloats=100]{morefloats}  % trying to overcome 18 floats limit to avoid piling up figures at the end of chapters
+\usepackage[pages=some,placement=top]{background}
 %____________________________________________________________________
 %%  Default Font
 \usepackage[sfdefault]{cabin}
@@ -55,7 +57,7 @@
 % https://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/macros/latex/contrib/geometry/geometry.pdf
 \usepackage[
   top=16mm,
-  bottom=18mm,
+  bottom=15mm,
   marginparwidth=40mm,
   marginparsep=4mm,
   outer=50mm,
@@ -202,19 +204,9 @@
 %\newcommand*{\textcolorpart}[2]{\textcolor{\getcolorpart{#1}}{#2}}
 \newcommand*{\getcolorpartone}{CSCOLORPARTONE}
 %  commande pour définir chaque chapitre avec definition des entetes
-\newcommand*{\startchapter}[3]{\chapter{#1}
+\newcommand*{\startchapter}[3]{\label{#2}\chapter{#1}
     \phantomsection
-    \label{#2}
     \thispagestyle{fancy}
-    % \fancypagestyle{plain}{ %
-    %     \fancyhf{} % remove everything
-    %     \renewcommand{\headrulewidth}{1pt} % remove lines as well
-    %     \renewcommand{\footrulewidth}{0pt}
-    %     \xpretocmd\headrule{\color{#3}}{}{\PatchFailed}
-    %     \fancyhead[RO]{\textcolor{#3}{\textsc{#1}}}
-    %     \fancyhead[LE]{\textcolor{#3}{CYPHER SYSTEM}}
-    %     \fancyhf[FLE,FRO]{\thepage}
-    % }
     \fancyhf{} % remove everything
     \renewcommand{\headrulewidth}{1pt} % remove lines as well
     \renewcommand{\footrulewidth}{0pt}
@@ -318,12 +310,19 @@
 %-------------------------
 %  cover
 \begin{titlepage}
-    \centering
-    \begin{figure*}
-        \hspace*{-65pt}
-        \vspace*{-90pt}
-        \includegraphics*[height=\paperheight]{img/CS-Cover.png}    
-    \end{figure*}
+    \tikz[remember picture,overlay] \node[opacity=1,inner sep=0pt] at (current page.center){\includegraphics[height=\paperheight]{img/CS-Cover.png}};
+    % {\ }
+    % \backgroundsetup{
+    %     contents={\includegraphics[height=\paperheight]{img/CS-Cover.png}}
+    %     ,opacity=1
+
+    %     }
+    % \centering
+    % \begin{figure*}
+    %     \hspace*{-65pt}
+    %     \vspace*{-90pt}
+    %     \includegraphics*[height=\paperheight]{img/CS-Cover.png}    
+    % \end{figure*}
 \end{titlepage}
 %-------------------------
 % blank page
@@ -343,7 +342,7 @@
     {Chapitre \thecontentslabel\ :\ }%numbered-entry-format
     {\textcolor{RedViolet}{\thecontentslabel}}%numberless-entry-format
     {\hfill\thecontentspage}%filler page format
-    [\small]%below-code
+    [\raggedright]%below-code
 %____________________________________________________________________
 %   reset headers
 % \fancypagestyle{plain}{ %
@@ -400,13 +399,13 @@
         \centering
     } % before-code
     [
-        \small
+        \raggedright
     ] % after-code
 \titlespacing{\chapter}
-    {0mm} %left
+    {0pt} %left
     {-15mm} %before-step
     {-15mm} %after-step
-    {} %right
+    [0pt] %right
 %_______________________________________________________
 %% define format for section
 % numberless
@@ -415,12 +414,12 @@
     {\textcolor{CSCOLORPARTZERO}{#1}}
     {0pt}
     {\Large}
-    %[\\]
+    [\raggedright\small]
 \titlespacing*{\section}
-    {0mm} %left
+    {0pt} %left
     {-0pt} %before-step
     {0mm} %after-step
-    {0mm} %right
+    [0mm] %right
 % paragraphe indentation
 %____________________________________________________________________
 %% define format for subsection
@@ -430,10 +429,11 @@
     {\textcolor{CSCOLORPARTZERO}{#1}}
     {0pt}
     {\large}
-    []
+    [\raggedright\small]
 \setlength{\parindent}{3mm}
 %#######################################################################
 \startcontents[mainchapterspart0]
+\backgroundsetup{}
 \part*{Le Cypher System}
 \pagestyle{fancy}
 %_________________________________________________
@@ -528,13 +528,13 @@
         \centering
     } % before-code
     [
-        \small
+        \raggedright\small
     ] % after-code
 \titlespacing{\chapter}
     {0mm} %left
     {-15mm} %before-step
     {-10mm} %after-step
-    {} %right
+    [0mm] %right
 %_______________________________________________________
 %% define format for section
 % numberless
@@ -543,12 +543,12 @@
     {\textcolor{CSCOLORPARTONE}{#1}}
     {0pt}
     {\Large}
-    %[\\]
+    [\raggedright\small]
 \titlespacing*{\section}
     {0mm} %left
     {-0pt} %before-step
     {0mm} %after-step
-    {0mm} %right
+    [0mm] %right
 % paragraphe indentation
 %____________________________________________________________________
 %% define format for subsection
@@ -558,7 +558,7 @@
     {\textcolor{CSCOLORPARTONE}{#1}}
     {0pt}
     {\large}
-    []
+    [\raggedright\small]
 \setlength{\parindent}{3mm}
 %#######################################################################
 % table of content for part 1
@@ -656,13 +656,13 @@
         \centering
     } % before-code
     [
-        \small
+        \raggedright\small
     ] % after-code
 \titlespacing{\chapter}
     {0mm} %left
     {-15mm} %before-step
     {-10mm} %after-step
-    {} %right
+    [0mm] %right
 %_______________________________________________________
 %% define format for section
 % numberless
@@ -671,12 +671,12 @@
     {\textcolor{CSCOLORPARTTWO}{#1}}
     {0pt}
     {\Large}
-    %[\\]
+    [\raggedright\small]
 \titlespacing*{\section}
     {0mm} %left
     {0pt} %before-step
     {0mm} %after-step
-    {0mm} %right
+    [0mm] %right
 % paragraphe indentation
 %____________________________________________________________________
 %% define format for subsection
@@ -686,12 +686,12 @@
     {\textcolor{CSCOLORPARTTWO}{#1}}
     {0pt}
     {\large}
-    []
+    [\raggedright\small]
 \titlespacing*{\subsection}
     {0mm} %left
     {0pt} %before-step
     {0mm} %after-step
-    {0mm} %right
+    [0mm] %right
 \setlength{\parindent}{3mm}
 %################################
 \startcontents[mainchapterspart2]

@@ -1,7 +1,21 @@
 %#######################################################################
 %            CHAPTER 10
 %#######################################################################
-\startchapter{équipement}{ch:chapter10}{\getcolorpartone}
+\startchapter{équipement}{ch:chapter10}{CSCOLORPARTONE}
+%_______________________________________________________
+%% define format for section
+% numberless
+\titleformat{name=\section,numberless}%[runin] 
+    {\normalfont\Large\bfseries}
+    {\textcolor{CSCOLORPARTONE}{#1}}
+    {0pt}
+    {\Large}
+    [\raggedright\small]
+\titlespacing*{\section}
+    {0pt} %left
+    {0pt} %before-step
+    {0pt} %after-step
+    [0pt] %right
 L'équipement joue seulement un petit rôle dans le Cypher System. Il est beaucoup plus important de se concentrer sur ce que vous pouvez faire plutôt que ce que vous avez. Ceci dit, ils est important quelque fois de savoir si vous avez assez de corde, ou de quel type de flingue votre pilote de l'espace a dans son holster.
 
 \section*{Devises et Prix}
@@ -386,18 +400,18 @@ Les pièces de vêtements peuvent varier en fonction du climat ou des coutumes l
 
 **Tenue stylée:** Un ensemble de vêtements choisis en fonction de la mode et des coutumes locales. En général, c'est le minimum requis pour rencontrer les personnages importants de ville comme le maire ou un noble. Les évènements avec un statut très élevé peuvent demander des tenues qui peuvent couteux quatre fois plus chères.
 
-| Objet                 | Prix  |
-| --------------------- | ----- |
-| Costume d'artiste     | 3 po  |
-| Tenue d'artisan       | 2 po  |
-| Tenue d'ascète        | 1 po  |
-| Tenue d'explorateur   | 8 po  |
-| Tenue de magicien     | 5 po  |
-| Tenue de paysan       | 1 pa  |
-| Tenue de voyageur     | 2 po  |
-| Tenue pour le froid   | 6 po  |
-| Tenue stylée          | 25 po |
-| Vêtements de prêtre   | 5 po  |
+% | Objet                 | Prix  |
+% | --------------------- | ----- |
+% | Costume d'artiste     | 3 po  |
+% | Tenue d'artisan       | 2 po  |
+% | Tenue d'ascète        | 1 po  |
+% | Tenue d'explorateur   | 8 po  |
+% | Tenue de magicien     | 5 po  |
+% | Tenue de paysan       | 1 pa  |
+% | Tenue de voyageur     | 2 po  |
+% | Tenue pour le froid   | 6 po  |
+% | Tenue stylée          | 25 po |
+% | Vêtements de prêtre   | 5 po  |
 
 \section*{Animaux et accessoires}
 
