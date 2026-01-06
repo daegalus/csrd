@@ -25,11 +25,13 @@ If end up loving the system, and want more content, or the full rulebook, I grea
 
 {{< details title="2026-01-06" open=true >}}
 Major update to 2025-08-22 version of the CSRD. This is a massive update with nearly double the content! New additions include: 
+
 - **Weird West genre** (creatures, NPCs, forgeborn, equipment) 
-- **new species descriptors** (Halfling, Lizardfolk)
-- **expanded Sci-Fi equipment** with tech ratings
+- **New species descriptors** (Halfling, Lizardfolk)
+- **Expanded Sci-Fi equipment** with tech ratings
 - **Cypher Shorts** quick-play rules
-- **expanded Fairy Tale equipment**
+- **Expanded Fairy Tale equipment**
+
 Check the GitHub page for full diffs.
 {{< /details >}}
 
