@@ -718,3 +718,205 @@ A benchmark for setting an omni orb’s limits is to compare it to a cypher of t
 **Effect:** The wearer is able to fly as effortlessly as walking, moving up to a short distance each round in any direction. In space, if the wearer does nothing but move for three actions in a row, they accelerate greatly and can move up to 200 miles (320 km) per hour, or about 2,000 feet (600 m) each round. The ring also provides the wearer with breathable air while in space or underwater (although this doesn’t provide protection against poison gas or other air-based hazards). The wearer can verbally communicate with other ring-wearers within 1 mile (1.5 km), and verbally request information (relayed to them with a synthesized voice) from the internet or a local equivalent.
 
 **Depletion:** 1 in 1d100 (check each day of flying)
+
+## Example Superpowered Creatures
+
+{{< hint danger >}} {{< columns2 >}} Demigod <---> 9 (27) {{< /columns2 >}}{{< /hint >}}
+Lesser gods, divine children of gods and mortals, and other beings bequeathed with partly divine power are called demigods. Their capacities so radically exceed those of regular people that they have transcended humanity. Demigods are so physically and mentally powerful that it’s difficult for them to hide their semi-divine appearance to mortal creatures—not that most would make the effort in the first place.
+
+**Motive:** Ineffable
+
+**Environment:** Anywhere other divine entities exist (or once existed)
+
+**Health:** 99
+
+**Damage Inflicted:** 12 points
+
+**Armor:** 5
+
+**Movement:** Short; long when flying
+
+**Combat:** Demigods can attack foes up to half a mile (1 km) away with bolts of divine energy (usually in the form of lightning). A demigod can dial up the level of destruction if it wishes, so that instead of affecting only one target, a bolt deals 9 points of damage to all targets within short range of the primary target. Targets caught in the conflagration who succeed on a Speed defense roll still suffer 5 points of damage.
+
+Demigods are just as scary in hand-to-hand combat and can attack all targets within immediate range as an action. They can also call on a variety of other abilities that seem like magic to lesser foes and mimic the effect of any cypher of level 5 or lower.
+
+A demigod doesn’t need to alter reality to heal itself, as it automatically regains 2 points of health per round.
+
+**Interaction:** For all their power, demigods share most human traits and weaknesses. This means it’s possible to negotiate with one, though the consequences for angering a demigod in the process are dire.
+
+**Use:** A demigod was banned from the higher realm of their birth for unknown reasons. Now they seek to show their worth by undertaking a great quest in the mortal world, and they are looking to assemble a group of mortal comrades (sycophants?) to aid them.
+
+**Loot:** Demigods might carry an artifact related to some aspect of their domain (such as wind, messages, or death), if they have one, and 1d6 cyphers.
+
+**GM intrusion:** The divine nature of the demigod allows it to act out of turn, take control of an object (such as an artifact or a cypher) that the PC is about to use against it, and either deactivate the object or turn it against the character.
+
+{{< hint danger >}} {{< columns2 >}} Demon <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
+Demons are formless spirits of the dead tortured in nether realms until all that was good or caring in them was burned away, forging a being of spite and hate.
+
+A demon remembers only fragments of its former life—every good memory is cauterized, and every slight, misfortune, snub, and pain is amplified, motivating the creature to tempt others into the same state.
+
+Having no flesh to call its own, a demon is a shadowed, ephemeral horror able to possess others. A demon can cause great harm in a short time by forcing its host to lie, steal, and harm loved ones.
+
+**Motive:** Hungers for others’ pain and fear
+
+**Environment:** Anywhere
+
+**Health:** 25
+
+**Damage Inflicted:** 6 points
+
+**Movement:** Short; immediate while flying in immaterial form
+
+**Modifications:** All stealth tasks as level 7 in immaterial form; deception tasks as level 6
+
+**Combat:** The immaterial touch of a demon either inflicts 5 points of damage from rot, or allows the demon to attempt to possess the target. The target of an attempted possession must make an Intellect defense roll or become possessed, whereupon the demon’s immaterial form disappears into the target.
+
+The first round in which a character is possessed, they can act normally. In the second and all subsequent rounds, the possessing demon can control the actions of the host, but the  
+character can attempt an Intellect defense roll to resist each suggested action. Successful resistance means that the character does nothing for one round. In other rounds, the character can act as they choose. A possessing demon’s actions are limited to attempts to control its host and leaving the host.
+
+A possessed target is allowed an Intellect defense roll to eject the demon once per day, barring any exorcism attempts. The defense roll is hindered by one additional step each day of possession after the first seven days. An ejected or cast-out demon is powerless for one or more days.
+
+A demon not possessing another creature is immaterial and can pass through solid objects whose level is lower than its own. While the demon is immaterial, it takes only 1 point of damage from mundane attacks, but it takes full damage from magical, energy, and psychic attacks. While it possesses another creature, the demon is immune to most attacks (though not so the host; killing the host will eject the demon).
+
+**Interaction:** A demon allows a possessed host to act normally, as long as it doesn’t reveal the demon’s presence. If its presence is known, the demon might negotiate, but only after a tirade of lies and obscenity, and the demon likely betrays any deal reached.
+
+**Use:** An ally of the PCs has begun acting differently, and not for the good.
+
+**GM intrusion:** The character who attempts an exorcism of a possessed target is successful, but the demon moves directly from the former victim into the exorcist. The new host can make an Intellect-based roll to eject the demon, but only after the first round of possession.
+
+{{< hint danger >}} {{< columns2 >}} Demon Lord <---> 9 (27) {{< /columns2 >}}{{< /hint >}}
+Demon lords are mighty demons, commanding hundreds of lesser fiends and often ruling an entire hellscape dimension. No mere brutes, they are smart, wield powerful magic, make centuries-long plans of conquest against rival demons, and seek to corrupt and enslave powerful mortals. Some are nearly as powerful as gods and are worshipped as such by cultists or evil creatures, claiming ownership of a concept like murder, rot, undeath, or seduction. A few are known to mate with mortals to produce cambion offspring. 
+
+**Motive:** Power, conquest, souls 
+
+**Environment:** Any hell dimension, sometimes called by mortal magic 
+
+**Health:** 100
+
+**Damage Inflicted:** 12 points 
+
+**Armor:** 5 
+
+**Movement:** Short; long when flying 
+
+**Modifications:** History and magical knowledge as level 10
+
+**Combat:** A demon lord attacks with a bolt of evil energy or fire up to a long distance away, inflicting 12 points of damage on one target or 9 points of damage on all targets within short range of the primary target. Targets caught in the area attack who succeed on a Speed defense roll still suffer 5 points of damage. A demon lord can make melee attacks on all targets within immediate range as an action. 
+
+They can also call on a variety of other magical abilities that mimic the effect of any cypher of level 5 or lower—usually destructive, painful, and transformative effects.
+
+ A demon lord automatically regains 3 points of health per round. They typically have the following abilities: 
+
+• Change Shape: The demon lord can take the form of a human or similar humanoid as its action, or return to its regular shape. When so changed, its disguise is nearly impenetrable without special knowledge. As a human, the demon lord is a level 7 creature. 
+
+• Possession: The demon lord can possess a creature and still use its own abilities. 
+
+• Summon Demon: Summon a demon or devil to serve it for one day. 
+
+• Wish: The demon lord can grant a mortal a wish (up to level 9) in exchange for an appropriate payment or service, but the wish is often twisted or has hidden consequences. 
+
+**Interaction:** Demon lords are willing to bargain with mortals if it leads to the mortal’s corruption or advances the demon’s agenda in some way. They sometimes respond to flattery or bribes of powerful souls or magic items. 
+
+**Use:** A mad cult wants to summon a demon lord in order to end the world. A mysterious stranger offers aid in exchange for a favor to be named later. 
+
+**Loot:** A demon lord often has an artifact relating to some aspect of its nature or interests, such as a weapon, ring, or armor, as well as 1d6 cyphers.
+
+**GM intrusions:**The demon lord offersthe character somethingso tempting (an artifact,immortality, and soon) that they lose theirnext action and mustmake an Intellectdefense roll to resisttrying to bargain for it.
+
+The demon lord createsa portal and retreatsto its own dimension;the portal remainsopen for one round
+
+{{< hint danger >}} {{< columns2 >}} Devil <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
+Devils are manifest evil. As “native fauna” of various tortuous nether realms, devils come in many forms, though most are iterations on a theme that includes a humanoid shape, large batwings, bestial faces, and twisting horns. Most stink of brimstone and sport tails that end in a fork. Devils fill the ranks of hellish armies, guard evil vaults, and appear at the magical summons of warlocks and sorcerers who are not afraid for the sanctity of their own souls.
+
+**Motive:** Collect souls
+
+**Environment:** Anywhere in various nether realms; sometimes called by mortal magic
+
+**Health:** 12
+
+**Damage Inflicted:** 5 points
+
+**Armor:** 3
+
+**Movement:** Short when walking or flying
+
+**Modifications:** All tasks related to deception as level 7
+
+**Combat:** When possible, a devil attacks with surprise. If successful, it unfurls two great wings and claws at the ends of its fingers. It leaps into the air, flies up to a short distance toward the nearest foe, and attacks that creature as a single action.
+
+Some devils carry tridents. The weapon inflicts 5 points of damage, and the target must either move to a position within an immediate distance chosen by the devil or take 2 additional points of damage from being impaled (a total of 7 points of damage). Impaled foes automatically take 5 points of damage each round until they use an action to pull  
+themselves free.
+
+**Interaction:** Evil, cruel, and malevolent, devils are more than happy to talk, especially to those already caught and being readied for torture. Devils serve yet more powerful devils out of fear. If they find someone or something they fear more, they readily betray their master and become obsequious and cringing, though further betrayal is always on the table.
+
+**Use:** A spate of violent murders grips a city in fear—a devil has escaped into the world of mortals without a leash. It spends nights hunting anyone it spots from its perches atop the city’s holy places.
+
+**GM intrusion:** A devil anticipates the character’s melee attack and brings its wing down “just so” on the attacker’s weapon. If the character fails a Speed defense roll, the weapon breaks. Either way, the attack fails to hit the devil.
+
+{{< hint danger >}} {{< columns2 >}} Djinni <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
+Djinn inhabit unseen dimensions beyond the visible universe. Just like normal creatures, djinn are individuals, and they can be good, evil, or unconcerned about the fates and doings of others.
+
+**Motive:** Unpredictable
+
+**Environment:** Almost anywhere
+
+**Health:** 35
+
+**Damage Inflicted:** 9 points
+
+**Movement:** Short; long when flying
+
+**Modifications:** Knowledge of Arabian history as level 8
+
+**Combat:** With a touch, a djinni can warp a victim’s flesh, inflicting damage. Djinn can also use an action to send out a magitech “EMP burst” that renders all artifacts, machines, and lesser magic devices within short range inoperable for one minute. (If the item is part of a character’s equipment, they can prevent this outcome by succeeding on a Speed defense roll.) Instead of disabling all devices in range, a djinni can instead take control of one item within range for one minute, if applicable.
+
+A djinni can transform into a being of smoke and flame as its action. While in this form, it has +10 to Armor but can’t attack foes. It gains the ability to fly a long distance each round and retains the ability to communicate normally. The first time each day that a djinni returns to physical form after having become smoke, it regains 25 points of health.
+
+Some djinn have the ability to grant wishes, and a few are beholden to do so thanks to an ancient, unexplained agreement with other djinn. Those who grant wishes twist them against the asker, especially if a wish is poorly worded or there are multiple ways to interpret it. The level of the effect granted is no greater than level 7, as determined by the GM, who can modify the effect of the wish accordingly. (The larger the wish, the more likely the GM will limit its effect.)
+
+**Interaction:** When a djinni interacts with characters, it’s narcissistic, certain in its own immense power, and unlikely to let slights pass. That said, low-tier characters could negotiate with one peacefully because even djinn have needs and desires.
+
+**Use:** Agents of a foreign power retrieved a magic lamp from an ancient Arabian ruin. The PCs’ job is to determine whether there is reason for alarm.
+
+**Loot:** Most djinn carry a couple of cyphers, and some have a magic artifact useful in combat.
+
+**GM intrusion:** When the character is touched by a djinni, instead of taking damage, the character is turned to smoke and fire and sent whirling off in a random direction. They lose their next turn and return to normal almost 300 feet (90 m) from where they started.
+
+{{< hint danger >}} {{< columns2 >}} Kaiju <---> 10 (30) {{< /columns2 >}}{{< /hint >}}
+Kaiju come in a variety of shapes, but all share one difficult-to-ignore quality: mind-blowing size. Appearances of these colossal creatures are rare events that usually don’t last for more than a few days. In that sense, they’re akin to hundred-year storms and at least as destructive. When they emerge, they’re attracted by artificial structures, the more densely situated and elaborate the better, which they set to smashing with a vengeance. It’s hard to judge the size of things so far outside normal scale, but good estimates put most kaiju at over 300 feet (90 m) in height.
+
+Kaiju rely primarily on their strength and mass, but many have some additional trick or ability that sets them apart from their kin, which usually translates into even more devastation.
+
+The other quality all kaiju share is the talent of hiding after a rampage by diving into a nearby sea or burrowing deep into the earth. Sometimes the same kaiju will appear again days, months, years, or decades later, attacking the same location or someplace entirely new.
+
+**Motive:** Destruction
+
+**Environment:** Usually near communities containing many high structures
+
+**Health:** 140
+
+**Damage Inflicted:** 18 points
+
+**Armor:** 5
+
+**Movement:** Short
+
+**Modifications:** Speed defense as level 8 due to size
+
+**Combat:** A kaiju can punch, kick, or deliver a tail or tentacle lash at something within long range. Damage is inflicted on the target and everything within short range of the target, and even those that succeed on a Speed defense roll take 7 points of damage.
+
+Kaiju heal quickly, usually at a rate of 2 points per round.
+
+Kaiju are rare and devastating enough that most are dubbed with a unique identifier by survivors. The entry for each creature below notes only where it varies from the base creature described above.
+
+*Rampagion:* This kaiju has been estimated to be almost 1,000 feet (300 m) high. Once per day, it can make a charging trample attack, dealing its damage in a line 300 feet (90 m) wide and 2 miles (3 km) long. Rampagion has 10 Armor and deals 20 points of damage with a physical attack (or 8 points if a victim makes a successful Speed defense roll).
+
+*Suneko:* This kaiju’s body, which resembles a cross between a lion and a lizard, is so hot that its skin glows like red coals, its mane like the sun’s corona, and its eyes like beaming searchlights. Suneko automatically deals 10 points of damage to everyone within immediate range. The creature can emit twin rays of plasma from its eyes in a focused beam that can reach as far as the horizon, which from Suneko’s height above the ground is about 22 miles (35 km). When it makes its eyebeam attack, it stops emitting killing heat in immediate range for about one minute.
+
+**Interaction:** Most PCs can’t directly interact with a kaiju unless they have some special device or association allowing them to get the attention of one of the massive creatures. Doing so could give the characters a chance to trick or lure the beast, or maybe even persuade one kaiju to fight another.
+
+**Use:** After seeing the devastation caused by a kaiju, the PCs might decide (or be asked) to find a way to stop a projected future appearance by the same creature.
+
+**GM intrusion:**  
+The character gains the direct attention of the kaiju. If the kaiju attacks the character, They are awarded 5 XP, only 1 of which they have to give to a friend.
+

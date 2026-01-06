@@ -1,24 +1,23 @@
 <div class="flex flex-wrap justify-between">
 
-{{ if and .GitInfo .Site.Params.BookRepo }}
-  <div>
-    {{- $date := partial "docs/date" (dict "Date" .GitInfo.AuthorDate.Local "Format" .Site.Params.BookDateFormat) -}}
-    {{- $commitPath := default "commit" .Site.Params.BookCommitPath -}}
-    <a class="flex align-center" href="{{ .Site.Params.BookRepo }}/{{ $commitPath }}/{{ .GitInfo.Hash }}" title='{{ i18n "Last modified by" }} {{ .GitInfo.AuthorName }} | {{ $date }}' target="_blank" rel="noopener">
-      <img src="{{ "svg/calendar.svg" | relURL }}" class="book-icon" alt="Calendar" />
-      <span>{{ $date }}</span>
-    </a>
-  </div>
+<div>
+{{ if and .GitInfo .Site.Params.BookLastChangeLink }}
+  {{- $date := partial "docs/date" (dict "Date" .Lastmod "Format" .Site.Params.BookDateFormat) -}}
+  <a class="flex align-center" href="{{ partial "docs/links/commit" . }}" title='{{ partial "docs/text/i18n" "Last modified by" }} {{ .GitInfo.AuthorName }} | {{ $date }}' target="_blank" rel="noopener">
+    <img src="{{ partial "docs/icon" "calendar" }}" class="book-icon" alt="{{ partial "docs/text/i18n" "Calendar" }}" />
+    <span>{{ $date }}</span>
+  </a>
 {{ end }}
+</div>
 
-{{ if and .File .Site.Params.BookRepo .Site.Params.BookEditPath }}
-  <div>
-    <a class="flex align-center" href="{{ .Site.Params.BookRepo }}/{{ .Site.Params.BookEditPath }}/{{ .Site.Params.contentDir | default "content" }}/{{ replace .File.Path "\\" "/" }}" target="_blank" rel="noopener">
-      <img src="{{ "svg/edit.svg" | relURL }}" class="book-icon" alt="Edit" />
-      <span>{{ i18n "Edit this page" }}</span>
-    </a>
-  </div>
+<div>
+{{ if and .File .Site.Params.BookEditLink }}
+  <a class="flex align-center" href="{{ partial "docs/links/edit" . }}" target="_blank" rel="noopener edit">
+    <img src="{{ partial "docs/icon" "edit" }}" class="book-icon" alt="{{ partial "docs/text/i18n" "Edit" }}" />
+    <span>{{ partial "docs/text/i18n" "Edit this page" }}</span>
+  </a>
 {{ end }}
+</div>
 
 </div>
 
@@ -26,4 +25,6 @@
 {{ with $script.Content }}
   <script>{{ . | safeJS }}</script>
 {{ end }}
+
 <script defer src="https://umami.mistlyric.net/script.js" data-website-id="7785992e-67bf-499f-9df4-278235891a9f"></script>
+{{ partial "docs/prev-next" . }}

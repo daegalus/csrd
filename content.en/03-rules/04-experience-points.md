@@ -22,9 +22,8 @@ Example 1: Through skill and the aid of another character, a fourth-tier PC ease
 
 Example 2: During a fight, a PC swings their axe and damages a foe with a slice across the shoulder. The GM intrudes by saying that the foe turned just as the axe struck, wrenching the weapon from the character's grip and sending it clattering across the floor. The axe comes to a stop 10 feet (3 m) away. Because the GM intruded, the PC gains 2 XP, and the player immediately gives one of those XP to another player. Now the character must deal with the dropped weapon, perhaps drawing a different weapon or using their next turn to scramble after the axe.
 
-{{< hint info >}}
-For much more on GM intrusions, see the Running the Cypher System chapter.
-{{< /hint >}}
+> [!NOTE]
+> For much more on GM intrusions, see the Running the Cypher System chapter.
 
 ## Character Arcs
 
@@ -44,9 +43,8 @@ Character arcs are always player-driven. A GM cannot force one on a character. T
 
 At the end of a session, review the actions you took and describe how they might equate to the completion of a step (or possibly more than one step) in their character arc. If the GM agrees, the character gets their reward.
 
-{{< hint info >}}
-When in doubt, if one character accomplishes a step in their arc but another character does not, the first character should get the 2 XP reward, but the other character should probably still get, at minimum, 1 XP for the session.
-{{< /hint >}}
+> [!NOTE]
+> When in doubt, if one character accomplishes a step in their arc but another character does not, the first character should get the 2 XP reward, but the other character should probably still get, at minimum, 1 XP for the session.
 
 This chapter presents many sample character arcs (see below).
 
@@ -58,9 +56,8 @@ It can also mean finding a new procedure or device (something too big to be cons
 
 Last, depending on the GM's outlook and the kind of campaign the group wants to play, a discovery could be a secret, an ethical idea, an adage, or even a truth.
 
-{{< hint info >}}
-It's a fine line, but ultimately the GM decides what constitutes a discovery as opposed to just something weird in the course of an adventure. Usually, the difference is, did the PCs successfully interact with it and learn something about it? If so, it's probably a discovery.
-{{< /hint >}}
+> [!NOTE]
+> It's a fine line, but ultimately the GM decides what constitutes a discovery as opposed to just something weird in the course of an adventure. Usually, the difference is, did the PCs successfully interact with it and learn something about it? If so, it's probably a discovery.
 
 **Artifacts:** When the group gains an artifact, award XP equal to the artifact's level and divide it among the PCs (minimum 1 XP for each character). Round down if necessary. For example, if four PCs discover a level 5 artifact, they each get 1 XP. Money, standard equipment, and cyphers are not worth XP. (Experience point awards for artifacts should usually apply even if the artifact was given to the PCs rather than found, because often such gifts are the rewards for success.)
 
@@ -74,9 +71,8 @@ Experience points are meant to be used. Hoarding them is not a good idea; if a p
 
 Generally, experience points can be spent in four ways: immediate benefits, short- and medium-term benefits, long-term benefits, and character advancement.
 
-{{< hint info >}}
-Experience points should not be a goal unto themselves. Instead, they are a game mechanic to simulate how---through experience, time, toil, travail, and so on--- characters become more skilled, more able, and more powerful. Spending XP to explain a change in a character's capabilities that occurred in the course of the story, such as if the PC made a new device or learned a new skill, isn't a waste of XP---it's what XP are for.
-{{< /hint >}}
+> [!NOTE]
+> Experience points should not be a goal unto themselves. Instead, they are a game mechanic to simulate how---through experience, time, toil, travail, and so on--- characters become more skilled, more able, and more powerful. Spending XP to explain a change in a character's capabilities that occurred in the course of the story, such as if the PC made a new device or learned a new skill, isn't a waste of XP---it's what XP are for.
 
 ### Immediate Benefits
 
@@ -112,9 +108,8 @@ Long-term benefits can include the following.
 
 **Wealth:** The PC comes into a considerable amount of wealth, whether it's a windfall, an inheritance, or a gift. It might be enough to buy a home or a title, but that's not really the point. The main benefit is that the PC no longer needs to worry about the cost of simple equipment, lodging, food, and so on. This wealth could mean a set amount---perhaps 50,000 dollars (or whatever is appropriate in the setting)---or it could bestow the ability to ignore minor costs, as decided by the player and GM.
 
-{{< hint info >}}
-GMs and players should work together to make XP awards and expenditures fit the ongoing story. If a PC stays in a location for two months to learn the inhabitants' unique language, the GM might award the character a few XP, which are then immediately spent to grant them the ability to understand and speak that language.
-{{< /hint >}}
+> [!NOTE]
+> GMs and players should work together to make XP awards and expenditures fit the ongoing story. If a PC stays in a location for two months to learn the inhabitants' unique language, the GM might award the character a few XP, which are then immediately spent to grant them the ability to understand and speak that language.
 
 ### Character Advancement
 
@@ -130,9 +125,8 @@ Progressing to the next tier involves four steps. When a PC has spent 4 XP on ea
 
 If you choose a skill that you are already trained in, you become specialized in that skill, easing the task by two steps instead of one. If you choose a skill that you have an inability in, the training and the inability cancel each other out (you aren't eased or hindered in that task). For example, if you have an inability in perception, becoming trained in that cancels out the inability.
 
-{{< hint info >}}
-Once you're specialized in a skill, you can't improve your training in that skill further (you can ease a task by up to two steps with training). You can still make that task easier with assets and a few rare abilities that don't count as an asset or training.
-{{< /hint >}}
+> [!NOTE]
+> Once you're specialized in a skill, you can't improve your training in that skill further (you can ease a task by up to two steps with training). You can still make that task easier with assets and a few rare abilities that don't count as an asset or training.
 
 **Other Options:** Players can also spend 4 XP to purchase other special options. Selecting one of these options counts as purchasing one of the four stages necessary to advance to the next tier. The other three need to be from the other categories. The special options are as follows:
 
@@ -176,13 +170,11 @@ Character arcs should always take at least weeks in game time, and no more than 
 
 The following are common character arcs that you can choose for your character. If you and the GM want to make a new one, it should be fairly easy after looking through these models.
 
-{{< hint info >}}
-This chapter has a selection of sample character arcs, but you can create your own too. The arcs are intentionally broad to encompass many different characters and stories. For example, Revenge is a very simple and straightforward character arc. The player who chooses this arc for their character decides who they want revenge on, and why. It's up to the players and the GM to make the details fit.
-{{< /hint >}}
+> [!NOTE]
+> This chapter has a selection of sample character arcs, but you can create your own too. The arcs are intentionally broad to encompass many different characters and stories. For example, Revenge is a very simple and straightforward character arc. The player who chooses this arc for their character decides who they want revenge on, and why. It's up to the players and the GM to make the details fit.
 
-{{< hint info >}}
-Some players might not want to use character arcs. The GM, however, can still use them as a benchmark for awarding XP. If the PCs are going off to explore a strange planet, the GM can essentially give them the Explore arc.
-{{< /hint >}}
+> [!NOTE]
+> Some players might not want to use character arcs. The GM, however, can still use them as a benchmark for awarding XP. If the PCs are going off to explore a strange planet, the GM can essentially give them the Explore arc.
 
 ### Aid A Friend
 

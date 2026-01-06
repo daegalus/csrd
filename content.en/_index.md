@@ -6,15 +6,14 @@ description: "The system reference document for the Cypher System, a tabletop ro
 
 # Cypher System Reference Document
 
-## Version: 2023-04-18
+## Version: 2025-08-22
 
 {{< hint danger >}}
 I am sure there are formattng issues and mistakes in the files. If you notice anything, please use the link below to report it. There is a lot of text and easy to miss things.
 {{< /hint >}}
 
-{{< hint warning >}}
-The site will follow the light/dark mode settings of your browser, there is currently no toggle for now, but one might be added in the future.
-{{< /hint >}}
+> [!WARNING]
+> The site will follow the light/dark mode settings of your browser, there is currently no toggle for now, but one might be added in the future.
 
 These rules of the Cypher System, taken from the Cypher System Reference Document (CSRD). The CSRD is provided by Monte Cook Games, as a free and legal way to access the rules and build upon them.
 
@@ -23,6 +22,16 @@ Use the navigation menu on the left to choose the section you'd like to read. Th
 If end up loving the system, and want more content, or the full rulebook, I greatly encourage you to visit the [Monte Cook Games store](https://www.montecookgames.com/store/), and support the system.
 
 ## News
+
+{{< details title="2026-01-06" open=true >}}
+Major update to 2025-08-22 version of the CSRD. This is a massive update with nearly double the content! New additions include: 
+- **Weird West genre** (creatures, NPCs, forgeborn, equipment) 
+- **new species descriptors** (Halfling, Lizardfolk)
+- **expanded Sci-Fi equipment** with tech ratings
+- **Cypher Shorts** quick-play rules
+- **expanded Fairy Tale equipment**
+Check the GitHub page for full diffs.
+{{< /details >}}
 
 {{< details title="2024-07-02" open=true >}}
 I am aware of the new CSRD version, but I'm currently in the midst of a move to Europe in addition to parenting an toddler and an infant. might take me a few days to a couple of weeks to update the site with changes.

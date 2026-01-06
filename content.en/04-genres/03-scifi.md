@@ -205,11 +205,10 @@ If Void Rules are also being used and have triggered, redline maneuvers are even
 
 ### The Superiority Of A Well-Crewed Spacecraft
 
-{{< hint warning >}}
-A spacecraft with some or all of the PCs crewing different systems stations will be more capable than a regular spacecraft in combat. Which means that an enemy spacecraft that might prove challenging based on its level might actually be fairly easily handled by PCs who fully understand their options.
-
-But be careful, because even competent PCs should fear squadrons of enemy ships, and military craft with several weapon systems. Even a single level difference is magnified, so make sure not to capriciously throw spacecraft at the PCs that are 2 levels higher than their own
-{{< /hint >}}
+> [!WARNING]
+> A spacecraft with some or all of the PCs crewing different systems stations will be more capable than a regular spacecraft in combat. Which means that an enemy spacecraft that might prove challenging based on its level might actually be fairly easily handled by PCs who fully understand their options.
+>
+> But be careful, because even competent PCs should fear squadrons of enemy ships, and military craft with several weapon systems. Even a single level difference is magnified, so make sure not to capriciously throw spacecraft at the PCs that are 2 levels higher than their own
 
 ### Bridge Combat
 
@@ -297,13 +296,12 @@ At the end of each full round, reset all the markers on the tracker to their bas
 
 ### Vehicles Fighting Creatures
 
-{{< hint warning >}}
-Spacecraft vs. Colossal Creatures: If a creature is as capable as a spacecraft, treat it that way when it comes to vehicular combat. Instead of adjusting for mismatched tech rating, treat the creature's effective level as if three levels less than its actual level. Extrapolate "weapon systems" to the creature's attack methods, defenses to its weird organic plating, and so on. Killing such a creature means taking out its "power core or other vital spot."
-
-Spacecraft vs. Regular Creatures: If a vehicle weapon system fires on an unprotected PC (or a PC in a spacecraft fires ship weapons on a creature outside the craft that isn't colossal), it's an entirely different situation. Attacks against a vehicle's systems face all the previously mentioned modifiers. On top of that, add an additional five steps of hindrance to attacks by a regular creature against a starcraft.
-
-A PC defending from a spacecraft's attack is hindered by five steps. Except in this case, the spacecraft inflicts damage. Given that ship weapons compared to handheld weapons are an order of magnitude apart when it comes to power, a good rule of thumb is that a spacecraft's weapon inflicts 25 points of damage on a successful hit and knocks the character one step down the damage track. Even if the character succeeds on their defense roll, they still take 5 points of damage.
-{{< /hint >}}
+> [!WARNING]
+> Spacecraft vs. Colossal Creatures: If a creature is as capable as a spacecraft, treat it that way when it comes to vehicular combat. Instead of adjusting for mismatched tech rating, treat the creature's effective level as if three levels less than its actual level. Extrapolate "weapon systems" to the creature's attack methods, defenses to its weird organic plating, and so on. Killing such a creature means taking out its "power core or other vital spot."
+>
+> Spacecraft vs. Regular Creatures: If a vehicle weapon system fires on an unprotected PC (or a PC in a spacecraft fires ship weapons on a creature outside the craft that isn't colossal), it's an entirely different situation. Attacks against a vehicle's systems face all the previously mentioned modifiers. On top of that, add an additional five steps of hindrance to attacks by a regular creature against a starcraft.
+>
+> A PC defending from a spacecraft's attack is hindered by five steps. Except in this case, the spacecraft inflicts damage. Given that ship weapons compared to handheld weapons are an order of magnitude apart when it comes to power, a good rule of thumb is that a spacecraft's weapon inflicts 25 points of damage on a successful hit and knocks the character one step down the damage track. Even if the character succeeds on their defense roll, they still take 5 points of damage.
 
 ### PC Weapon System Options
 
@@ -386,9 +384,8 @@ Optionally, specialized characters who have a psionic type and/or focus gain one
 
 ### More Powerful Psionics
 
-{{< hint warning >}}
-As the GM, you could allow a PC to spend 4 XP to unlock a new psionic ability instead of 3 XP. Such an ability is treated more like a regular type or focus ability. Such an ability is still governed by the rules described under More Psi Abilities, but is not subject to the limitations for manifesting the ability (i.e., expending a recovery roll or lots of time); instead, the user simply pays their Pool costs to use them.
-{{< /hint >}}
+> [!WARNING]
+> As the GM, you could allow a PC to spend 4 XP to unlock a new psionic ability instead of 3 XP. Such an ability is treated more like a regular type or focus ability. Such an ability is still governed by the rules described under More Psi Abilities, but is not subject to the limitations for manifesting the ability (i.e., expending a recovery roll or lots of time); instead, the user simply pays their Pool costs to use them.
 
 ## Optional Rule: Posthuman Upgrades
 
@@ -547,9 +544,8 @@ Ancient ultras (also called alien ultras) is shorthand for the concept that one 
 
 ### Kardashev Scale
 
-{{< hint warning >}}
-Even in the realm of hard science fiction, the fantastic can sometimes creep in, at least as a hypothesis. For instance, despite the lack of theoretical foundation for the technologies that would be required to achieve it, many scientists accept that the Kardashev Scale is broadly true. A Type I civilization is even more advanced than ours in the 21st century, having the ability to capture all energy from the Earth. A Type II civilization uses the entire output of the energy of its star, building things on a mega-scale, such as a ring or sphere that encircles the sun or structures that involve the moving or dismantling of a planet. A Type III civilization begins to harness the power of all the stars in its galaxy and can even reshape things on a galactic scale. Additional types are hypothesized, which include the manipulation of the universe (Type IV) and even the multiverse (Type V).
-{{< /hint >}}
+> [!WARNING]
+> Even in the realm of hard science fiction, the fantastic can sometimes creep in, at least as a hypothesis. For instance, despite the lack of theoretical foundation for the technologies that would be required to achieve it, many scientists accept that the Kardashev Scale is broadly true. A Type I civilization is even more advanced than ours in the 21st century, having the ability to capture all energy from the Earth. A Type II civilization uses the entire output of the energy of its star, building things on a mega-scale, such as a ring or sphere that encircles the sun or structures that involve the moving or dismantling of a planet. A Type III civilization begins to harness the power of all the stars in its galaxy and can even reshape things on a galactic scale. Additional types are hypothesized, which include the manipulation of the universe (Type IV) and even the multiverse (Type V).
 
 ## Suggested Types For A Science Fiction Game
 
@@ -3213,9 +3209,8 @@ Here are a few sample starship types:
 
 "Crew" indicates the minimum number of people needed to operate the ship. Many ships can carry more passengers. "Weapon Systems" indicates the maximum number of different enemies the ship can target at once---but only one attack per target in any circumstance.
 
-{{< hint info >}}
-Since it's frighteningly easy to die in a space battle if your ship is destroyed, most ships have escape pods. Even fighter craft have ejection systems that put the pilot out into space in an environment suit. In other words, GMs should try to give PCs a way out of immediately dying if they get on the wrong end of a space battle.
-{{< /hint >}}
+> [!NOTE]
+> Since it's frighteningly easy to die in a space battle if your ship is destroyed, most ships have escape pods. Even fighter craft have ejection systems that put the pilot out into space in an environment suit. In other words, GMs should try to give PCs a way out of immediately dying if they get on the wrong end of a space battle.
 
 ### Effects Of Gravity
 

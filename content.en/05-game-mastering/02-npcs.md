@@ -98,7 +98,7 @@ A berserker is a fierce warrior who can fly into a rage, greatly increasing thei
 
 A berserker can enter a state of rage as part of their action. When raging, they gain +1 to Armor (including against fire), their melee attacks inflict an additional 2 points of damage, and their attacks, Might defense, and actions relying on strength (such as climbing and jumping) are eased by two steps. However, their Speed defense is hindered. A raging berserker fights only with melee weapons and won't retreat from battle.
 
-Interaction: Berserkers are the elites of some warrior cultures and enjoy physical competitions such as wrestling, throwing heavy items, and feasting. They dislike weak and cowardly folk, and do not tolerate insults to their strength or honor.
+**Interaction:** Berserkers are the elites of some warrior cultures and enjoy physical competitions such as wrestling, throwing heavy items, and feasting. They dislike weak and cowardly folk, and do not tolerate insults to their strength or honor.
 
 **Use:** A group of warriors is led by a mighty berserker looking for a challenging fight. A group of berserkers enters town and picks fights with the local toughs.
 
@@ -202,7 +202,7 @@ Dwarf leaders are usually officers or priests.
 
 *Dwarf Officer:* level 5; health 16; damage inflicted 7 points Dwarf priest: level 5; health 16; can heal one creature for 10 points or all within immediate range for 5 points
 
-Interaction: Dwarves are proud and hardworking, but they tend to be stubborn, gruff, and unforgiving of offenses to them or their clan. It takes time to gain their trust, but they respect a fair deal, a hard bargain, a sharp axe, and a sturdy hammer.
+**Interaction:** Dwarves are proud and hardworking, but they tend to be stubborn, gruff, and unforgiving of offenses to them or their clan. It takes time to gain their trust, but they respect a fair deal, a hard bargain, a sharp axe, and a sturdy hammer.
 
 **Use:** A stoic old dwarf is looking to go on one more quest before retiring. A clan of dwarves seeks a trade agreement with a human city leader---or redress for an old insult.
 
@@ -238,9 +238,8 @@ A typical elf might know a few minor spells, such as heating or chilling food, c
 
 Guards keep the peace but don't usually show much initiative. Ultimately, they do as they're ordered by their superiors, regardless of legality. A guard might be a star trooper dressed in intimidating armor, a mall security guard, a beat police officer, or a mafia goon.
 
-{{< hint info >}}
-When attacked, guards always call for the help of other guards, if possible.
-{{< /hint >}}
+> [!NOTE]
+> When attacked, guards always call for the help of other guards, if possible.
 
 **Motive:** Keep the peace; follow orders
 
@@ -378,7 +377,7 @@ A thief takes things that don't belong to them---preferably with their victim re
 
 **Combat:** Thieves prefer small concealable weapons---knives, batons, and so on---so they can quickly make themselves look like an innocent bystander. Their goal is to escape, not kill, so they often rely on tricks like caltrops, spilled oil, and smoke pellets to distract or delay foes and give themselves an opportunity to get away. They aren't above using poison, typically a sleep poison that knocks out a foe for ten minutes on a failed Might defense task.
 
-Interaction: Thieves run a broad range of personalities---nervous, arrogant, quietly confident, sarcastic, and more. They like to know the risks and rewards of what they'll be doing, and they don't like surprises.
+**Interaction:** Thieves run a broad range of personalities---nervous, arrogant, quietly confident, sarcastic, and more. They like to know the risks and rewards of what they'll be doing, and they don't like surprises.
 
 **Use:** A cocky thief steals an item from a character and returns it to prove their skills are up to the task. A gang of pickpockets targets a character's jewelry or cyphers.
 

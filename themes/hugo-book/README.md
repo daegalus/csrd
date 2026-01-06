@@ -1,12 +1,12 @@
 # Hugo Book Theme
 
-[![Hugo](https://img.shields.io/badge/hugo-0.79-blue.svg)](https://gohugo.io)
+[![Hugo](https://img.shields.io/badge/hugo-0.146-blue.svg)](https://gohugo.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Build with Hugo](https://github.com/alex-shpak/hugo-book/workflows/Build%20with%20Hugo/badge.svg)
 
 ### [Hugo](https://gohugo.io) documentation theme as simple as plain book
 
-![Screenshot](https://github.com/alex-shpak/hugo-book/blob/master/images/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/alex-shpak/hugo-book/main/images/screenshot.png)
 
 - [Features](#features)
 - [Requirements](#requirements)
@@ -33,8 +33,8 @@
 
 ## Requirements
 
-- Hugo 0.79 or higher
-- Hugo extended version, read more [here](https://gohugo.io/news/0.48-relnotes/)
+- Hugo 0.146 or higher
+- Hugo extended version, [Installation Instructions](https://gohugo.io/installation/)
 
 ## Installation
 
@@ -60,7 +60,7 @@ Start with initializing hugo modules, if not done yet:
 hugo mod init github.com/repo/path
 ```
 
-Navigate to your hugo project root and add [module] section to your `config.toml`:
+Navigate to your hugo project root and add [module] section to your `hugo.toml`:
 
 ```toml
 [module]
@@ -83,7 +83,7 @@ Below is an example on how to create a new site from scratch:
 hugo new site mydocs; cd mydocs
 git init
 git submodule add https://github.com/alex-shpak/hugo-book themes/hugo-book
-cp -R themes/hugo-book/exampleSite/content .
+cp -R themes/hugo-book/exampleSite/content.en/* ./content
 ```
 
 ```sh
@@ -92,44 +92,8 @@ hugo server --minify --theme hugo-book
 
 ## Menu
 
-### File tree menu (default)
-
 By default, the theme will render pages from the `content/docs` section as a menu in a tree structure.  
-You can set `title` and `weight` in the front matter of pages to adjust the order and titles in the menu.
-
-### Leaf bundle menu (Deprecated, to be removed in June 2022)
-
-You can also use leaf bundle and the content of its `index.md` file as menu.  
-Given you have the following file structure:
-
-```
-├── content
-│   ├── docs
-│   │   ├── page-one.md
-│   │   └── page-two.md
-│   └── posts
-│       ├── post-one.md
-│       └── post-two.md
-```
-
-Create a file `content/menu/index.md` with the content:
-
-```md
-+++
-headless = true
-+++
-
-- [Book Example]({{< relref "/docs/" >}})
-  - [Page One]({{< relref "/docs/page-one" >}})
-  - [Page Two]({{< relref "/docs/page-two" >}})
-- [Blog]({{< relref "/posts" >}})
-```
-
-And Enable it by setting `BookMenuBundle: /menu` in Site configuration.
-
-- [Example menu](https://github.com/alex-shpak/hugo-book/blob/master/exampleSite/content.en/menu/index.md)
-- [Example config file](https://github.com/alex-shpak/hugo-book/blob/master/exampleSite/config.yaml)
-- [Leaf bundles](https://gohugo.io/content-management/page-bundles/)
+You can set `title` and `weight` in the front matter of pages to adjust the order and titles in the menu, as well as other parameters to hide or alter urls in the menu. You can choose which folder to use for generating menu with `BookSection` configuration parameter.
 
 ## Blog
 
@@ -140,8 +104,8 @@ A blog is not the primary usecase of this theme, so it has only minimal features
 
 ### Site Configuration
 
-There are a few configuration options that you can add to your `config.toml` file.  
-You can also see the `yaml` example [here](https://github.com/alex-shpak/hugo-book/blob/master/exampleSite/config.yaml).
+There are a few configuration options that you can add to your `hugo.toml` file.  
+You can also see the `yaml` example [here](https://github.com/alex-shpak/hugo-book/blob/main/exampleSite/hugo.yaml).
 
 ```toml
 # (Optional) Set Google Analytics if you use it to track your website.
@@ -177,35 +141,29 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
   # /static/logo.png then the path would be 'logo.png'
   BookLogo = 'logo.png'
 
-  # (Optional, default none) Set leaf bundle to render as side menu
-  # When not specified file structure and weights will be used
-  # Deprecated, to be removed in June 2022
-  BookMenuBundle = '/menu'
+  # (Optional, default 'favicon.png') Set the path to a favicon for the site.
+  # If the favicon is in /static/custom.svg, then the path would be 'custom.svg'.
+  BookFavicon = 'favicon.png'
 
   # (Optional, default docs) Specify section of content to render as menu
   # You can also set value to "*" to render all sections to menu
   BookSection = 'docs'
 
-  # Set source repository location.
-  # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/alex-shpak/hugo-book'
+  # (Optional, default none) Set template for commit link for the page. Requires enableGitInfo.
+  # When set enabled 'Last Modified' and a link to the commit in the footer of the page.
+  # Param is executed as template using .Site, .Page and .GitInfo as context.
+  BookLastChangeLink = 'https://github.com/alex-shpak/hugo-book/commit/{{ .GitInfo.Hash }}'
 
-  # Specifies commit portion of the link to the page's last modified commit hash for 'doc' page
-  # type.
-  # Required if 'BookRepo' param is set.
-  # Value used to construct a URL consisting of BookRepo/BookCommitPath/<commit-hash>
-  # Github uses 'commit', Bitbucket uses 'commits'
-  BookCommitPath = 'commit'
+  # (Optional, default none) Set template for edit page link.
+  # When set enabled 'Edit this page' link in the footer of the page.
+  # Param is executed as template using .Site, .Page and .Path as context.
+  BookEditLink = 'https://github.com/alex-shpak/hugo-book/edit/main/exampleSite/{{ .Path }}'
 
-  # Enable 'Edit this page' links for 'doc' page type.
-  # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
-  # Path must point to the site directory.
-  BookEditPath = 'edit/master/exampleSite'
-
-  # (Optional, default January 2, 2006) Configure the date format used on the pages
+  # (Optional, default 'January 2, 2006') Configure the date format used on the pages
   # - In git information
   # - In blog posts
-  BookDateFormat = 'Jan 2, 2006'
+  # https://gohugo.io/functions/time/format/
+  BookDateFormat = 'January 2, 2006'
 
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
@@ -241,16 +199,16 @@ You can specify additional params in the front matter of individual pages:
 # Set type to 'docs' if you want to render page outside of configured section or if you render section other than 'docs'
 type = 'docs'
 
-# Set page weight to re-arrange items in file-tree menu (if BookMenuBundle not set)
+# Set page weight to re-arrange items in file-tree menu.
 weight = 10
 
-# (Optional) Set to 'true' to mark page as flat section in file-tree menu (if BookMenuBundle not set)
+# (Optional) Set to 'true' to mark page as flat section in file-tree menu.
 bookFlatSection = false
 
 # (Optional) Set to hide nested sections or pages at that level. Works only with file-tree menu mode
 bookCollapseSection = true
 
-# (Optional) Set true to hide page or section from side menu (if BookMenuBundle not set)
+# (Optional) Set true to hide page or section from side menu.
 bookHidden = false
 
 # (Optional) Set 'false' to hide ToC from page
@@ -259,11 +217,15 @@ bookToC = true
 # (Optional) If you have enabled BookComments for the site, you can disable it for specific pages.
 bookComments = true
 
-# (Optional) Set to 'false' to exclude page from search index.
-bookSearchExclude = true
+# (Optional) Set to 'true' to exclude page from search index.
+bookSearchExclude = false
 
-# (Optional) Set explicit href attribute for this page in a menu (if BookMenuBundle not set)
+# (Optional) Set explicit href attribute for this page in a menu.
 bookHref = ''
+
+# /!\ This is an experimental feature, might be removed or changed at any time
+# (Optional) Set an icon for the menu entity of the page, icons are discovered from `assets/icons` folder.
+bookIcon = 'calendar'
 ```
 
 ### Partials
@@ -293,10 +255,11 @@ In addition to this, there are several empty partials you can override to easily
 | `assets/_variables.scss` | Override default SCSS variables                                                       |
 | `assets/_fonts.scss`     | Replace default font with custom fonts (e.g. local files or remote like google fonts) |
 | `assets/mermaid.json`    | Replace Mermaid initialization config                                                 |
+| `assets/katex.json`      | Replace KaTeX initialization config                                                   |
 
 ### Plugins
 
-There are a few features implemented as plugable `scss` styles. Usually these are features that don't make it to the core but can still be useful.
+There are a few features implemented as pluggable `scss` styles. Usually these are features that don't make it to the core but can still be useful.
 
 | Plugin                            | Description                                                 |
 | --------------------------------- | ----------------------------------------------------------- |
@@ -309,10 +272,10 @@ To enable plugins, add `@import "plugins/{name}";` to `assets/_custom.scss` in y
 
 There are a few hugo templates inserted in `<head>`
 
-- [Google Analytics](https://gohugo.io/templates/internal/#google-analytics)
-- [Open Graph](https://gohugo.io/templates/internal/#open-graph)
+- [Google Analytics](https://gohugo.io/templates/embedded/#google-analytics)
+- [Open Graph](https://gohugo.io/templates/embedded/#open-graph)
 
-To disable Open Graph inclusion you can create your own empty file `\layouts\_internal\opengraph.html`.
+To disable Open Graph inclusion you can create your own empty file `/layouts/partials/opengraph.html`.
 In fact almost empty not quite empty because an empty file looks like absent for HUGO. For example:
 ```
 <!-- -->
@@ -326,6 +289,7 @@ In fact almost empty not quite empty because an empty file looks like absent for
 - [Hints](https://hugo-book-demo.netlify.app/docs/shortcodes/hints/)
 - [KaTeX](https://hugo-book-demo.netlify.app/docs/shortcodes/katex/)
 - [Mermaid](https://hugo-book-demo.netlify.app/docs/shortcodes/mermaid/)
+- [Steps](https://hugo-book-demo.netlify.app/docs/shortcodes/steps/)
 - [Tabs](https://hugo-book-demo.netlify.app/docs/shortcodes/tabs/)
 
 By default, Goldmark trims unsafe outputs which might prevent some shortcodes from rendering. It is recommended to set `markup.goldmark.renderer.unsafe=true` if you encounter problems.
@@ -339,9 +303,9 @@ If you are using `config.yaml` or `config.json`, consult the [configuration mark
 
 ## Versioning
 
-This theme follows a simple incremental versioning. e.g. `v1`, `v2` and so on. There might be breaking changes between versions.
+This theme follows a simple incremental versioning. e.g. `v1.0.0`, `v2.0.0` and so on. Releases will happen on breaking changes.
 
-If you want lower maintenance, use one of the released versions. If you want to live on the bleeding edge of changes, you can use the `master` branch and update your website when needed.
+If you want lower maintenance, use one of the released versions. If you want to live on the bleeding edge of changes, you can use the `main` branch and update your website when needed, this also the default branch.
 
 ## Contributing
 

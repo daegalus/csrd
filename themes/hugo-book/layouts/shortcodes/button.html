@@ -1,12 +1,18 @@
-{{ $ref := "" }}
-{{ $target := "" }}
-{{ with .Get "href" }}
-  {{ $ref = . }}
-  {{ $target = "_blank" }}
-{{ end }}
-{{ with .Get "relref" }}
-  {{ $ref = relref $ . }}
-{{ end }}
-<a {{ with $ref }} href="{{.}}" {{ end }} {{ with $target }} target="{{.}}" rel="noopener" {{ end }} class="book-btn{{ with .Get "class" }} {{ . }}{{ end }}">
-  {{ .Inner | .Page.RenderString }}
+{{- $href := partial "docs/links/portable-link" (dict "Page" .Page "Destination" (.Get "href")) -}}
+{{- $isRemote := (urls.Parse $href).IsAbs -}}
+{{- $attributes := partial "docs/text/mapper" (dict
+  "attributes" (cond .IsNamedParams .Params dict)
+  "set" (dict
+    "href" $href
+    "target" "_blank"
+    "rel" "noopener"
+  )
+  "merge" (dict
+    "class" "book-btn"
+  )
+  "delete" (cond $isRemote (slice) (slice "target" "rel"))
+) -}}
+<a {{ partial "docs/html-attrs" $attributes | safeHTMLAttr }}>
+  {{- .InnerDeindent -}}
 </a>
+{{- /* remove whitespaces */ -}}

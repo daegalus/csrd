@@ -17,33 +17,29 @@ Might defines how strong and durable your character is. The concepts of strength
 
 Might governs actions from forcing doors open to walking for days without food to resisting disease. It's also the primary means of determining how much damage your character can sustain in a dangerous situation. Physical characters, tough characters, and characters interested in fighting should focus on Might.
 
-{{< hint info >}}
-Might could be thought of as Might/Health because it governs how strong you are and how much physical punishment you can take.
-{{< /hint >}}
+> [!NOTE]
+> Might could be thought of as Might/Health because it governs how strong you are and how much physical punishment you can take.
 
 ## Speed
 
 Speed describes how fast and physically coordinated your character is. The stat embodies quickness, movement, dexterity, and reflexes. Speed governs such divergent actions as dodging attacks, sneaking around quietly, and throwing a ball accurately. It helps determine whether you can move farther on your turn. Nimble, fast, or sneaky characters will want good Speed stats, as will those interested in ranged combat.
 
-{{< hint info >}}
-Speed could be thought of as Speed/Agility because it governs your overall swiftness and reflexes.
-{{< /hint >}}
+> [!NOTE]
+> Speed could be thought of as Speed/Agility because it governs your overall swiftness and reflexes.
 
 ## Intellect
 
 This stat determines how smart, knowledgeable, and likable your character is. It includes intelligence, wisdom, charisma, education, reasoning, wit, willpower, and charm. Intellect governs solving puzzles, remembering facts, telling convincing lies, and using mental powers. Characters interested in communicating effectively, being learned scholars, or wielding supernatural powers should stress their Intellect stat.
 
-{{< hint info >}}
-Intellect could be thought of as Intellect/Personality because it governs both intelligence and charisma.
-{{< /hint >}}
+> [!NOTE]
+> Intellect could be thought of as Intellect/Personality because it governs both intelligence and charisma.
 
 ## Pool, Edge, And Effort
 
 Each of the three stats has two components: Pool and Edge. Your Pool represents your raw, innate ability, and your Edge represents knowing how to use what you have. A third element ties into this concept: Effort. When your character really needs to accomplish a task, you apply Effort.
 
-{{< hint info >}}
-Your stat Pools, as well as your Effort and Edge, are determined by the character type, descriptor, and focus that you choose. Within those guidelines, however, you have a lot of flexibility in how you develop your character.
-{{< /hint >}}
+> [!NOTE]
+> Your stat Pools, as well as your Effort and Edge, are determined by the character type, descriptor, and focus that you choose. Within those guidelines, however, you have a lot of flexibility in how you develop your character.
 
 ## Pool
 
@@ -79,9 +75,8 @@ Once a stat's Edge reaches 3, you can apply one level of Effort for free. For ex
 
 Skills and other advantages also ease a task, and you can use them in conjunction with Effort. In addition, your character might have special abilities or equipment that allow you to apply Effort to accomplish a special effect, such as knocking down a foe with an attack or affecting multiple targets with a power that normally affects only one.
 
-{{< hint info >}}
-When applying Effort to melee attacks, you have the option of spending points from either your Might Pool or your Speed Pool. When making ranged attacks, you may spend points only from your Speed Pool. This reflects that with melee you sometimes use brute force and sometimes use finesse, but with ranged attacks, it's always about careful targeting.
-{{< /hint >}}
+> [!NOTE]
+> When applying Effort to melee attacks, you have the option of spending points from either your Might Pool or your Speed Pool. When making ranged attacks, you may spend points only from your Speed Pool. This reflects that with melee you sometimes use brute force and sometimes use finesse, but with ranged attacks, it's always about careful targeting.
 
 ## Effort And Damage
 
@@ -117,9 +112,8 @@ To progress to the next tier, characters earn experience points (XP) by pursuing
 
 **Skills:** You become trained in one skill of your choice, other than attacks or defense. As described in Rules of the Game, a character trained in a skill treats the difficulty of a related task as one step lower than normal. The skill you choose for this benefit can be anything you wish, such as climbing, jumping, persuading, or sneaking. You can also choose to be knowledgeable in a certain area of lore, such as history or geology. You can even choose a skill based on your character's special abilities. For example, if your character can make an Intellect roll to blast an enemy with mental force, you can become trained in using that ability, easing the task of using it. If you choose a skill that you are already trained in, you become specialized in that skill, easing related tasks by two steps instead of one.
 
-{{< hint info >}}
-Skills are a broad category of things your character can learn and accomplish. For a list of sample skills, see below.
-{{< /hint >}}
+> [!NOTE]
+> Skills are a broad category of things your character can learn and accomplish. For a list of sample skills, see below.
 
 ### Other Options
 
@@ -155,9 +149,8 @@ Focus is what your character does best. Focus gives your character specificity a
 
 There are many character foci. The ones you choose from will probably depend on the setting and genre of your game.
 
-{{< hint info >}}
-You can use the Flavors chapter to slightly modify character types to customize them for different genres.
-{{< /hint >}}
+> [!NOTE]
+> You can use the Flavors chapter to slightly modify character types to customize them for different genres.
 
 ## Special Abilities
 
@@ -171,9 +164,8 @@ Some special abilities allow you to perform a familiar action---one that you can
 
 Some abilities specify a duration, but you can always end one of your own abilities anytime you wish.
 
-{{< hint info >}}
-Because the Cypher System covers so many genres, not all of the descriptors, types, and foci might be available for players. The GM will decide what's available in their particular game and whether anything is modified, and they'll let the players know.
-{{< /hint >}}
+> [!NOTE]
+> Because the Cypher System covers so many genres, not all of the descriptors, types, and foci might be available for players. The GM will decide what's available in their particular game and whether anything is modified, and they'll let the players know.
 
 ## Skills
 

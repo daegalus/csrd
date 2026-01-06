@@ -1,67 +1,73 @@
 html {
-  font-size: $font-size-base;
+  font-size: var(--font-size);
   scroll-behavior: smooth;
   touch-action: manipulation;
+  scrollbar-gutter: stable;
 }
 
 body {
   min-width: $body-min-width;
-  color: var(--text-main);
-  background: var(--background-body);
+  color: var(--body-font-color);
+  background: var(--body-background) var(--body-background-tint);
 
-  letter-spacing: 0.33px;
-  font-weight: $body-font-weight;
+  font-weight: var(--body-font-weight);
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-
-  box-sizing: border-box;
-  * {
-    box-sizing: inherit;
-  }
 }
 
 h1,
 h2,
 h3,
 h4,
-h5 {
-  font-weight: $body-font-weight;
+h5,
+h6 {
+  font-weight: inherit;
 }
 
 a {
+  flex: auto;
+  align-items: center;
+  gap: .5em;
+
   text-decoration: none;
-  color: var(--links);
+  cursor: default;
+
+  &[href], &[role=button] {
+    color: var(--color-link);
+    cursor: pointer;
+  }
 }
 
-img {
-  vertical-align: baseline;
+small {
+  @extend .text-small;
 }
 
-:focus {
+:focus-visible, input.toggle:focus-visible + label {
   @include outline;
 }
 
-aside nav ul {
+nav ul {
   padding: 0;
   margin: 0;
   list-style: none;
 
   li {
-    margin: 1em 0;
     position: relative;
   }
 
   a {
-    display: block;
+    padding: 0.5em 0;
+    display: flex;
+    transition: opacity 0.1s ease-in-out;
   }
 
-  a:hover {
+  a[href]:hover, a[role=button]:hover {
     opacity: 0.5;
   }
 
   ul {
-    padding-inline-start: $padding-16;
+    padding-inline-start: 1.5em;
   }
 }
 
@@ -85,6 +91,11 @@ ul.pagination {
   filter: var(--icon-filter);
 }
 
+a .book-icon {
+  height: 1em;
+  width: 1em;
+}
+
 .book-brand {
   margin-top: 0;
   margin-bottom: $padding-16;
@@ -92,63 +103,68 @@ ul.pagination {
   img {
     height: 1.5em;
     width: 1.5em;
-    margin-inline-end: $padding-8;
   }
 }
 
 .book-menu {
   flex: 0 0 $menu-width;
-  font-size: $font-size-14;
+  font-size: var(--font-size-smaller);
 
   .book-menu-content {
     width: $menu-width;
     padding: $padding-16;
-    background: var(--background-body);
 
     @include fixed;
   }
 
-  a,
-  label {
+  a, label {
     color: inherit;
-    cursor: pointer;
     word-wrap: break-word;
+    display: flex;
   }
 
   a.active {
-    color: var(--links);
+    color: var(--color-link);
+  }
+
+  label > img:last-child {
+    height: 1em;
+    width: 1em;
+
+    cursor: pointer;
+
+    align-self: center;
+    transition: transform 0.1s ease-in-out;
   }
 
   input.toggle + label + ul {
     display: none;
   }
 
-  input.toggle:checked + label + ul {
-    display: block;
-  }
+  input.toggle:checked + label {
+    > img:last-child {
+      transform: rotate(90deg);
+    }
 
-  input.toggle + label::after {
-    content: "▸";
-  }
-
-  input.toggle:checked + label::after {
-    content: "▾";
+    + ul {
+      display: block;
+    }
   }
 }
 
 // for RTL support
 body[dir="rtl"] .book-menu {
-  input.toggle + label::after {
-    content: "◂";
+  input.toggle + label > img:last-child {
+    transform: rotate(180deg);
   }
 
-  input.toggle:checked + label::after {
-    content: "▾";
+  input.toggle:checked + label > img:last-child {
+    transform: rotate(90deg);
   }
 }
 
 .book-section-flat {
-  margin: $padding-16 * 2 0;
+  margin: $padding-16 0;
 
   > a,
   > span,
@@ -168,37 +184,83 @@ body[dir="rtl"] .book-menu {
 }
 
 .book-post {
-  margin-bottom: $padding-16 * 3;
+  margin-bottom: $padding-16 * 4;
+
+  .book-post-date img {
+    height: 1em;
+    width: 1em;
+    margin-inline-end: .5em;
+  }
+
+  .book-post-content {
+    margin-top: $padding-16;
+  }
+
+  .book-post-thumbnail {
+    flex: 0 0 34%;
+
+    img {
+      width: 100%;
+      aspect-ratio: 4 / 3;
+      object-fit: cover;
+    }
+  }
 }
 
 .book-header {
-  display: none;
   margin-bottom: $padding-16;
 
   label {
     line-height: 0;
   }
 
-  img.book-icon {
-    height: 1.5em;
-    width: 1.5em;
+  h3 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 0 $padding-16;
+  }
+}
+
+.book-layout-landing .book-header {
+  display: block;
+  position: relative;
+  z-index: 1;
+
+  nav > ul {
+    display: flex;
+    gap: $padding-16;
+    justify-content: end;
+
+    > li {
+      display: block;
+      white-space: nowrap;
+
+      > ul {
+        display: none;
+        position: absolute;
+        padding: 0;
+      }
+
+      &:hover > ul, &:focus-within > ul {
+        display: block;
+      }
+    }
   }
 }
 
 .book-search {
   position: relative;
-  margin: $padding-16 0;
-  border-bottom: 1px solid transparent;
+  margin: $padding-8 0;
 
   input {
     width: 100%;
     padding: $padding-8;
 
-    border: 0;
-    border-radius: $border-radius;
+    border: $padding-1 solid var(--gray-200);
+    border-radius: var(--border-radius);
 
     background: var(--gray-100);
-    color: var(--text-main);
+    color: var(--body-font-color);
 
     &:required + .book-search-spinner {
       display: block;
@@ -215,10 +277,14 @@ body[dir="rtl"] .book-menu {
     height: $padding-16;
 
     border: $padding-1 solid transparent;
-    border-top-color: var(--text-main);
+    border-top-color: var(--body-font-color);
     border-radius: 50%;
 
     @include spin(1s);
+  }
+
+  ul a {
+    padding-bottom: 0;
   }
 
   small {
@@ -228,13 +294,17 @@ body[dir="rtl"] .book-menu {
 
 .book-toc {
   flex: 0 0 $toc-width;
-  font-size: $font-size-12;
+  font-size: var(--font-size-smallest);
 
   .book-toc-content {
     width: $toc-width;
     padding: $padding-16;
 
     @include fixed;
+  }
+
+  a {
+    display: block;
   }
 
   img {
@@ -249,12 +319,11 @@ body[dir="rtl"] .book-menu {
 
 .book-footer {
   padding-top: $padding-16;
-  font-size: $font-size-14;
+  font-size: var(--font-size-smaller);
 
-  img {
-    height: 1em;
-    width: 1em;
-    margin-inline-end: $padding-8;
+  a {
+    margin: $padding-4 0;
+    padding: $padding-4 0;
   }
 }
 
@@ -262,13 +331,15 @@ body[dir="rtl"] .book-menu {
   margin-top: $padding-16;
 }
 
-.book-languages {
-  margin-block-end: $padding-16 * 2;
+.book-copyright {
+  margin-top: $padding-16;
+}
 
-  .book-icon {
-    height: 1em;
-    width: 1em;
-    margin-inline-end: .5em;
+.book-languages {
+  margin-bottom: $padding-16;
+
+  span {
+    padding: 0;
   }
 
   ul {
@@ -278,54 +349,21 @@ body[dir="rtl"] .book-menu {
 
 // Responsive styles
 .book-menu-content,
-.book-toc-content,
-.book-page,
-.book-header aside,
-.markdown {
+.book-toc-content {
   transition: 0.2s ease-in-out;
   transition-property: transform, margin, opacity, visibility;
   will-change: transform, margin, opacity;
 }
 
-@media screen and (max-width: $tablet-breakpoint) {
-  #toc-control {
-    display: inline;
-  }
-
-  .book-toc {
-    display: none;
-  }
-
-  .book-header {
-    display: block;
-  }
-
-  #toc-control:focus ~ main label[for="toc-control"] {
-    @include outline;
-  }
-
-  #toc-control:checked ~ main {
-    .book-header aside {
-      display: block;
-    }
-  }
-
-  .book-header label[for=menu-control] img {
-    display: none;
-  }
-}
-
 @media screen and (max-width: $mobile-breakpoint) {
-  #menu-control,
-  #toc-control {
-    display: inline;
-  }
-
   .book-menu {
     visibility: hidden;
     margin-inline-start: -$menu-width;
-    font-size: $font-size-base;
     z-index: 1;
+
+    .book-menu-content {
+      background: var(--body-background);
+    }
   }
 
   .book-toc {
@@ -336,12 +374,13 @@ body[dir="rtl"] .book-menu {
     display: block;
   }
 
-  .book-header label[for=menu-control] img {
-    display: inline;
+  .book-post-container {
+    flex-direction: column-reverse;
   }
 
-  #menu-control:focus ~ main label[for="menu-control"] {
-    @include outline;
+  #menu-control,
+  #toc-control {
+    display: inline;
   }
 
   #menu-control:checked ~ main {
@@ -360,16 +399,12 @@ body[dir="rtl"] .book-menu {
 
     .book-menu-overlay {
       display: block;
-      position: absolute;
+      position: fixed;
       top: 0;
       bottom: 0;
       left: 0;
       right: 0;
     }
-  }
-
-  #toc-control:focus ~ main label[for="toc-control"] {
-    @include outline;
   }
 
   #toc-control:checked ~ main {

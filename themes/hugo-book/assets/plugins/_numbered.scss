@@ -1,9 +1,9 @@
 $startLevel: 1;
 $endLevel: 6;
 
-.book-page .markdown {
+.book-page .markdown.book-article {
   @for $currentLevel from $startLevel through $endLevel {
-    > h#{$currentLevel} {
+    h#{$currentLevel} {
       counter-increment: h#{$currentLevel};
       counter-reset: h#{$currentLevel + 1};
 
@@ -19,18 +19,14 @@ $endLevel: 6;
   }
 }
 
-.book-toc nav ul {
+.book-toc nav#TableOfContents ul {
+  counter-reset: item;
+
   li {
     counter-increment: item;
 
-    &:first-child {
-      counter-reset: item;
-    }
-
-    &:before {
+    > a:before {
       content: counters(item, ".") ". ";
-      float: left;
-      margin-inline-end: $padding-4;
     }
   }
 }

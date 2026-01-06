@@ -64,13 +64,12 @@ Mechanical traps have a triggering mechanism---something set up to react when an
 
 ### Finding Traps
 
-{{< hint warning >}}
-Most characters won't notice traps unless actively looking for them; they don't know a trap is in the area until their presence, movement, or action triggers it. Characters can passively or actively search for traps if they suspect such dangers are present.
-
-Passive searching for traps means one character (usually in the front of the group) is carefully checking the area before moving forward. This means the group moves at about half normal speed, but they get to make a search roll for any traps the GM has in their path. Allowing characters to passively search in this way means the players don't have to keep stating over and over that they're looking for traps. The drawback for them is that it takes them more time to get anywhere (which means time-based special abilities and cyphers will run out sooner).
-
-Active searching is used when the characters worry or suspect that there is a trap in the area and want to find it. Active searching takes about one round for each immediate area searched. Rather than having the players make separate rolls for each immediate area, the GM should have them make one roll for the entire room; if successful, they find the trap, and if they fail, they don't find it. If there is a second trap, the GM can have them make another roll after they've resolved the first trap.
-{{< /hint >}}
+> [!WARNING]
+> Most characters won't notice traps unless actively looking for them; they don't know a trap is in the area until their presence, movement, or action triggers it. Characters can passively or actively search for traps if they suspect such dangers are present.
+>
+> Passive searching for traps means one character (usually in the front of the group) is carefully checking the area before moving forward. This means the group moves at about half normal speed, but they get to make a search roll for any traps the GM has in their path. Allowing characters to passively search in this way means the players don't have to keep stating over and over that they're looking for traps. The drawback for them is that it takes them more time to get anywhere (which means time-based special abilities and cyphers will run out sooner).
+>
+> Active searching is used when the characters worry or suspect that there is a trap in the area and want to find it. Active searching takes about one round for each immediate area searched. Rather than having the players make separate rolls for each immediate area, the GM should have them make one roll for the entire room; if successful, they find the trap, and if they fail, they don't find it. If there is a second trap, the GM can have them make another roll after they've resolved the first trap.
 
 ### Disabling, Damaging, And Bypassing Traps
 
@@ -98,18 +97,15 @@ The rest of the chapter presents a large number of traps with game stats. Every 
 
 ### Common Trap Poisons
 
-{{< hint warning >}}
-
-* **Blindness:** The poison blinds the creature if they fail a defense roll. Typical durations are one minute, ten minutes, and one hour.
-* **Choking:** The poison makes the creature choke and cough if they fail a defense roll. Typical durations are one minute, ten minutes, and one hour. Severe versions of choking poison might make a creature start to suffocate.
-* **Damage Track:** The poison moves the creature down one step on the damage track if they fail a defense roll.
-* **Debilitating:** The poison hinders all of the creature's actions by one or two steps if they fail a defense roll. (Some poisons may affect only certain kinds of actions, such as Speed defense rolls or Might-based tasks.) Typical durations are ten minutes, one hour, and ten hours.
-* **Instant Damage:** The poison inflicts damage (Might, Speed, or Intellect) one time if the creature fails a defense roll.
-* **Ongoing Damage:** The poison inflicts damage (Might, Speed, or Intellect) immediately. When a certain amount of time has passed (such as every round or every minute), it inflicts damage again if the creature fails its defense roll. The ongoing damage usually ends on its own (such as after five additional rounds of damage) or after the creature makes a defense roll against it. Usually the ongoing damage is a much smaller amount than the initial damage, such as 1 point every round.
-* **Paralysis:** The poison prevents the creature from taking any physical actions if they fail a defense roll (this might leave them standing in place like a statue, or make them go limp and collapse to the floor). Typical durations are ten minutes, one hour, and ten hours.
-* **Sleep:** The poison knocks the creature unconscious if they fail a defense roll. Typical durations are ten minutes, one hour, and ten hours. The poison might also make the creature groggy, hindering all actions for an additional amount of time equal to how long the unconsciousness would have lasted (for example, knocking out a creature for an hour and then making them groggy for an hour, even if they're awakened early).
-
-{{< /hint >}}
+> [!WARNING]
+> * **Blindness:** The poison blinds the creature if they fail a defense roll. Typical durations are one minute, ten minutes, and one hour.
+> * **Choking:** The poison makes the creature choke and cough if they fail a defense roll. Typical durations are one minute, ten minutes, and one hour. Severe versions of choking poison might make a creature start to suffocate.
+> * **Damage Track:** The poison moves the creature down one step on the damage track if they fail a defense roll.
+> * **Debilitating:** The poison hinders all of the creature's actions by one or two steps if they fail a defense roll. (Some poisons may affect only certain kinds of actions, such as Speed defense rolls or Might-based tasks.) Typical durations are ten minutes, one hour, and ten hours.
+> * **Instant Damage:** The poison inflicts damage (Might, Speed, or Intellect) one time if the creature fails a defense roll.
+> * **Ongoing Damage:** The poison inflicts damage (Might, Speed, or Intellect) immediately. When a certain amount of time has passed (such as every round or every minute), it inflicts damage again if the creature fails its defense roll. The ongoing damage usually ends on its own (such as after five additional rounds of damage) or after the creature makes a defense roll against it. Usually the ongoing damage is a much smaller amount than the initial damage, such as 1 point every round.
+> * **Paralysis:** The poison prevents the creature from taking any physical actions if they fail a defense roll (this might leave them standing in place like a statue, or make them go limp and collapse to the floor). Typical durations are ten minutes, one hour, and ten hours.
+> * **Sleep:** The poison knocks the creature unconscious if they fail a defense roll. Typical durations are ten minutes, one hour, and ten hours. The poison might also make the creature groggy, hindering all actions for an additional amount of time equal to how long the unconsciousness would have lasted (for example, knocking out a creature for an hour and then making them groggy for an hour, even if they're awakened early).
 
 {{< hint danger >}} Arrow --- 4 (12) {{< /hint >}}
 

@@ -1,18 +1,31 @@
 /* You can override SASS variables here. */
 
-// @import "plugins/dark";
+// Preserving custom colors and mapping to new theme variables
 
 @mixin theme-light {
+  // --- New Theme Variables ---
+  --body-background: #fff;
+  --body-font-color: #363636;
+  --color-link: #0076d1;
+  --color-visited-link: #5500bb; // Default
+
   --gray-100: #f8f9fa;
   --gray-200: #e9ecef;
   --gray-500: #adb5bd;
 
-  --icon-filter: none;
+  // Accents (New Theme Requirement)
+  @include accent("default", #64748b);
+  @include accent("note", #4486dd);
+  @include accent("tip", #3bad3b);
+  @include accent("important", #8144dd);
+  @include accent("warning", #f59e42);
+  @include accent("caution", #d84747);
+  // Fallbacks
+  @include accent("info", #4486dd);
+  @include accent("success", #3bad3b);
+  @include accent("danger", #d84747);
 
-  --hint-color-info: #6bf;
-  --hint-color-warning: #fd6;
-  --hint-color-danger: #f66;
-
+  // --- Legacy Custom Variables (for _custom.scss) ---
   --background-body: #fff;
   --background: #efefef;
   --background-alt: #f7f7f7;
@@ -24,33 +37,41 @@
   --focus: #0096bfab;
   --border: #dbdbdb;
   --code: #000;
-  --animation-duration: 0.1s;
-  --button-base: #d0cfcf;
-  --button-hover: #9b9b9b;
-  --scrollbar-base: #a4a4a4;
-  --scrollbar-thumb: var(--scrollbar-base);
-  --scrollbar-thumb-hover: var(--button-hover);
-  --form-placeholder: #949494;
-  --form-text: #1d1d1d;
-  --variable: #39a33c;
   --highlight: #ff0;
-  --select-arrow: svg-load('./assets/select-arrow.svg', fill: #161f27);
+  --scrollbar-thumb: #a4a4a4;
+  --scrollbar-thumb-hover: #9b9b9b;
+  
+  --hint-color-info: #6bf;
+  --hint-color-warning: #fd6;
+  --hint-color-danger: #f66;
 }
 
 @mixin theme-dark {
+  // --- New Theme Variables ---
+  --body-background: #202b38; // Restoring Blue-ish Dark
+  --body-font-color: #dbdbdb;
+  --color-link: #41adff;
+  --color-visited-link: #b88dff;
+
   --gray-100: rgba(255, 255, 255, 0.1);
   --gray-200: rgba(255, 255, 255, 0.2);
   --gray-500: rgba(255, 255, 255, 0.5);
 
-  --icon-filter: brightness(0) invert(1);
+  // Accents (New Theme Requirement)
+  @include accent("default", #64748b);
+  @include accent("note", #4486dd);
+  @include accent("tip", #3bad3b);
+  @include accent("important", #8144dd);
+  @include accent("warning", #f59e42);
+  @include accent("caution", #d84747);
+  // Fallbacks
+  @include accent("info", #4486dd);
+  @include accent("success", #3bad3b);
+  @include accent("danger", #d84747);
 
-  --hint-color-info: #6bf;
-  --hint-color-warning: #fd6;
-  --hint-color-danger: #f66;
-
-  
+  // --- Legacy Custom Variables (for _custom.scss) ---
   --background-body: #202b38;
-  --background: #161f27;
+  --background: #161f27; // Darker blue-ish background
   --background-alt: #1a242f;
   --selection: #1c76c5;
   --text-main: #dbdbdb;
@@ -60,16 +81,12 @@
   --focus: #0096bfab;
   --border: #526980;
   --code: #ffbe85;
-  --animation-duration: 0.1s;
-  --button-base: #0c151c;
-  --button-hover: #040a0f;
-  --scrollbar-hover: #03070a;
-  --scrollbar-thumb: var(--button-hover);
-  --scrollbar-thumb-hover: var(--scrollbar-hover);
-  --form-placeholder: #a9a9a9;
-  --form-text: #fff;
-  --variable: #d941e2;
   --highlight: #efdb43;
-  --select-arrow: svg-load('./assets/select-arrow.svg', fill: #efefef);
+  --scrollbar-thumb: #040a0f;
+  --scrollbar-thumb-hover: #03070a;
+  --icon-filter: brightness(0) invert(1);
+  
+  --hint-color-info: #6bf;
+  --hint-color-warning: #fd6;
+  --hint-color-danger: #f66;
 }
-

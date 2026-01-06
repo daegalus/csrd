@@ -1,29 +1,4 @@
 .markdown {
-  // {{< expand "Label" "icon" >}}
-  .book-expand {
-    margin-top: $padding-16;
-    margin-bottom: $padding-16;
-
-    border: $padding-1 solid var(--gray-200);
-    border-radius: $border-radius;
-
-    overflow: hidden;
-
-    .book-expand-head {
-      background: var(--gray-100);
-      padding: $padding-8 $padding-16;
-      cursor: pointer;
-    }
-
-    .book-expand-content {
-      display: none;
-      padding: $padding-16;
-    }
-
-    input[type="checkbox"]:checked + .book-expand-content {
-      display: block;
-    }
-  }
 
   // {{< tabs >}}
   .book-tabs {
@@ -31,9 +6,7 @@
     margin-bottom: $padding-16;
 
     border: $padding-1 solid var(--gray-200);
-    border-radius: $border-radius;
-
-    overflow: hidden;
+    border-radius: var(--border-radius);
 
     display: flex;
     flex-wrap: wrap;
@@ -53,38 +26,47 @@
       display: none;
     }
 
-    input[type="radio"]:checked + label {
-      border-bottom: $padding-1 solid var(--links);
+    input[type="radio"]:checked+label {
+      border-bottom: $padding-1 solid var(--color-link);
     }
-    input[type="radio"]:checked + label + .book-tabs-content {
+
+    input[type="radio"]:checked+label+.book-tabs-content {
       display: block;
-    }
-    input[type="radio"]:focus + label {
-      @include outline;
     }
   }
 
   // {{< columns >}}
   .book-columns {
-    margin-left: -$padding-16;
-    margin-right: -$padding-16;
+    gap: $padding-16;
 
-    > div {
+    >div {
       margin: $padding-16 0;
-      min-width: $body-min-width / 2;
-      padding: 0 $padding-16;
+      min-width: $body-min-width * 0.66;
+    }
+
+    >ul {
+      list-style: none;
+      display: flex;
+      padding: 0;
+      flex-wrap: wrap;
+      gap: $padding-16;
+
+      >li {
+        flex: 1 1;
+        min-width: $body-min-width * 0.66;
+      }
     }
   }
 
   // {{< button >}}
-  a.book-btn {
+  a.book-btn[href] {
     display: inline-block;
-    font-size: $font-size-14;
-    color: var(--links);
+    font-size: var(--font-size-smaller);
+    color: var(--color-link);
     line-height: $padding-16 * 2;
     padding: 0 $padding-16;
-    border: $padding-1 solid var(--links);
-    border-radius: $border-radius;
+    border: $padding-1 solid var(--color-link);
+    border-radius: var(--border-radius);
     cursor: pointer;
 
     &:hover {
@@ -92,39 +74,181 @@
     }
   }
 
-  // {{< hint >}}
   .book-hint {
-    @each $name, $color in $hint-colors {
+    @each $name in (note, tip, important, warning, caution, default, info, success, danger) {
       &.#{$name} {
-        border-color: $color;
-        background-color: rgba($color, 0.1);
-        padding-top: 0.1em;
-        padding-bottom: 0.1em;
-        margin-top: 0.2em;
-        margin-bottom: 0.2em;
+        border-color: var(--color-accent-#{$name});
+        background-color: var(--color-accent-#{$name}-tint);
       }
     }
-    .markdown-inner {
-      padding-top: 0.1em;
-      padding-bottom: 0.1em;
-      margin-top: 0.2em;
-      margin-bottom: 0.2em;
+  }
+
+  // {{< badge >}}
+  .book-badge {
+    @each $name in (note, tip, important, warning, caution, default, info, success, danger) {
+      &.#{$name} {
+        --accent-color: var(--color-accent-#{$name});
+      }
     }
 
-    @media screen and (max-width: $tablet-breakpoint) {
-      .book-columns .text-center {
-        text-align: left;
+    display: inline-block;
+    font-size: var(--font-size-smaller);
+    font-weight: var(--body-font-weight);
+    vertical-align: middle;
+    border-radius: var(--border-radius);
+    border: $padding-1 solid var(--accent-color);
+    overflow: hidden;
+    text-wrap: nowrap;
+    color: var(--body-font-color);
+
+    span {
+      display: inline-block;
+      padding: 0 $padding-8;
+    }
+
+    span.book-badge-value {
+      color: var(--body-background);
+      background-color: var(--accent-color);
+    }
+  }
+
+  // {{< steps >}}
+  .book-steps {
+    position: relative;
+
+    >ol {
+      counter-reset: steps;
+      list-style: none;
+      padding-inline-start: $padding-16 + $padding-4;
+      margin-top: $padding-16 * 2;
+
+      >li::before {
+        content: counter(steps);
+        counter-increment: steps;
+
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        left: $padding-8;
+
+        height: $padding-16 * 1.5;
+        width: $padding-16 * 1.5;
+        padding: $padding-4;
+        border-radius: $padding-8;
+
+        white-space: nowrap;
+        line-height: $padding-16;
+
+        color: var(--body-background);
+        background: var(--gray-500);
+        outline: $padding-4 solid var(--body-background);
       }
-      .book-columns .text-right {
-        text-align: left;
+
+      >li {
+        @extend .markdown-inner;
+        border-inline-start: $padding-1 solid var(--gray-500);
+        padding-inline-start: $padding-16 * 3;
+        padding-bottom: $padding-16 * 2;
       }
-      .book-columns .markdown-inner {
-        display: block;
-        clear: both;
+
+      >li:last-child {
+        border: 0;
       }
-      .book-columns {
-        display: block;
+    }
+  }
+
+  // {{< card >}}
+  .book-card {
+    display: block;
+    overflow: hidden;
+    height: 100%;
+    border-radius: var(--border-radius);
+    border: $padding-1 solid var(--gray-200);
+
+    > a {
+      display: block;
+      height: 100%;
+
+      &[href], &[href]:visited {
+        color: var(--body-font-color);
       }
+
+      &[href]:hover {
+        text-decoration: none;
+        background: var(--gray-100);
+      }
+    }
+
+    > a > img, > img {
+      width: 100%;
+      display: block;
+      aspect-ratio: 4 / 3;
+      object-fit: cover;
+    }
+
+    .markdown-inner {
+      padding: $padding-16;
+    }
+  }
+
+  // {{< image >}}
+  .book-image {
+    input + img {
+      cursor: zoom-in;
+      transition: transform 0.2s ease-in-out;
+    }
+
+    input:checked + img {
+      position: fixed;
+
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+
+      background: var(--body-background);
+      object-fit: contain;
+      width: 100%;
+      height: 100%;
+
+      z-index: 1;
+      cursor: zoom-out;
+      padding: $padding-16;
+    }
+  }
+
+  // {{< asciinema >}}
+  .book-asciinema {
+    margin: $padding-16 0;
+  }
+
+  .book-hero {
+    min-height: $padding-16 * 24;
+    align-content: center;
+
+    h1 {
+      font-size: 3em;
+    }
+  }
+
+  .book-codeblock-filename {
+    background: var(--gray-100);
+    border: $padding-1 solid var(--gray-200);
+    border-bottom: 0;
+    font-size: var(--font-size-smaller);
+    margin-top: $padding-16;
+    padding: $padding-4 $padding-8;
+    border-start-start-radius: var(--border-radius);
+    border-start-end-radius: var(--border-radius);
+
+    a {
+      color: var(--body-font-color);
+    }
+
+    + .highlight pre {
+      margin-top: 0;
+      border-start-start-radius: 0;
+      border-start-end-radius: 0;
     }
   }
 }

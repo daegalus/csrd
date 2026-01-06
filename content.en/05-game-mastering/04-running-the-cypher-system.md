@@ -81,9 +81,8 @@ There are two ways for the GM to handle this kind of intrusion. You could say "Y
 
 When player modifications (such as skill, Effort, and so on) determine that success is automatic, the GM can use GM intrusion to negate the automatic success. The player must roll for the action at its original difficulty level or target number 20, whichever is lower.
 
-{{< hint info >}}
-Remember, any time you give a player 1 XP for a GM intrusion, you're actually giving them 2--- one to keep and one to give to another player.
-{{< /hint >}}
+> [!NOTE]
+> Remember, any time you give a player 1 XP for a GM intrusion, you're actually giving them 2--- one to keep and one to give to another player.
 
 ### Using GM Intrusion as a Narrative Tool
 
@@ -99,9 +98,8 @@ This is wonderfully empowering to the GM---not in a "Ha ha, now I'll trounce the
 
 For example, let's say the PCs are surrounded by orcs. One character is badly injured---debilitated---and the rest are hurt. Some of the orcs produce a large weighted net. Rather than asking for a lot of rolls and figuring the mechanics for escape, you use intrusion and say that the net goes over the PCs who are still on their feet. The rest of the orcs point spears menacingly. This is a pretty strong cue to the players that surrender is a good (and possibly the only) option. Some players won't take the hint, however, so another use of intrusion might allow the orcs to hit one of the trapped PCs on the head and render them unconscious while their friends struggle in the net. If the players still don't surrender, it's probably best to play out the rest of the encounter without more GM intrusions---using more would be heavy-handed by anyone's measure---although it's perfectly reasonable to rule that a character rendered debilitated is knocked unconscious, since the orcs are trying to take the PCs alive.
 
-{{< hint info >}}
-Remember that GM intrusions can occur at any time, not just during combat. Disrupting or changing a tense interaction with NPCs can have big repercussions.
-{{< /hint >}}
+> [!NOTE]
+> Remember that GM intrusions can occur at any time, not just during combat. Disrupting or changing a tense interaction with NPCs can have big repercussions.
 
 ### Using GM Intrusion as a Resolution Mechanic
 
@@ -131,9 +129,8 @@ When a PC rolls a 1, handle the GM intrusion the same way that you'd handle an i
 * Out of combat, a surprise foe appears, and the scene turns into a combat.
 * In an interaction, the GM introduces a surprising motive for the NPC. For example, the PCs are trying to bribe an official for information, and the official reveals that what they really want isn't money but for someone to rescue their kidnapped son.
 
-{{< hint info >}}
-This might not be true of your players, but many players rarely, if ever, spend XP to refuse an intrusion from the GM, though they regularly use XP to avoid an intrusion that comes from a bad roll. And there's nothing wrong with that. Some GMs might want to forbid using an XP to reroll a 1, but there's really no point---if you've got an idea for a good intrusion, you don't need to wait until a player rolls a 1 to use it.
-{{< /hint >}}
+> [!NOTE]
+> This might not be true of your players, but many players rarely, if ever, spend XP to refuse an intrusion from the GM, though they regularly use XP to avoid an intrusion that comes from a bad roll. And there's nothing wrong with that. Some GMs might want to forbid using an XP to reroll a 1, but there's really no point---if you've got an idea for a good intrusion, you don't need to wait until a player rolls a 1 to use it.
 
 ### GM Intrusion That Affects the Group
 
@@ -239,13 +236,11 @@ A few more important notes about devising new cyphers:
 * Cyphers should be temporary. Typically, a power is used once. Abilities or advantages that have a duration last from ten minutes to twenty-four hours (at most).
 * Manifest cyphers can take any form. Just make them appropriate to the genre.
 
-{{< hint info >}}
-Cyphers teach GMs to design different kinds of scenarios---ones in which the whole adventure isn't wrecked if a player has something that can solve a single problem (defeat a foe, read a mind, bypass a barrier, or whatever). There should always be more to the adventure than one linchpin encounter, obstacle, foe, or secret.
-{{< /hint >}}
+> [!NOTE]
+> Cyphers teach GMs to design different kinds of scenarios---ones in which the whole adventure isn't wrecked if a player has something that can solve a single problem (defeat a foe, read a mind, bypass a barrier, or whatever). There should always be more to the adventure than one linchpin encounter, obstacle, foe, or secret.
 
-{{< hint info >}}
-It's all right if players think of cyphers (especially manifest cyphers) as equipment or treasure. You should choose points in the course of the story that are appropriate for awarding subtle cyphers, especially if the PCs aren't at their full capacity.
-{{< /hint >}}
+> [!NOTE]
+> It's all right if players think of cyphers (especially manifest cyphers) as equipment or treasure. You should choose points in the course of the story that are appropriate for awarding subtle cyphers, especially if the PCs aren't at their full capacity.
 
 ## Artifacts
 
@@ -259,9 +254,8 @@ Also like cyphers, artifacts are simple for the GM to create. The only differenc
 
 For examples of artifacts, see the Genres chapter.
 
-{{< hint info >}}
-You may wish to forbid the use of XP to reroll artifact depletion rolls. That's pretty reasonable.
-{{< /hint >}}
+> [!NOTE]
+> You may wish to forbid the use of XP to reroll artifact depletion rolls. That's pretty reasonable.
 
 ## Fantasy Artifacts
 

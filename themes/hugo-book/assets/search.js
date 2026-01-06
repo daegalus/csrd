@@ -5,18 +5,23 @@
 {{ $searchConfig := i18n "bookSearchConfig" | default "{}" }}
 
 (function () {
-  const searchDataURL = '{{ $searchData.RelPermalink }}';
+  const searchDataURL = '{{ partial "docs/links/resource-precache" $searchData }}';
   const indexConfig = Object.assign({{ $searchConfig }}, {
-    tokenize: "forward",
-    optimize: true,
-    resolution: 9,
-    cache: 100,
-    worker: true,
-    document: {
-      id: 'id',
-      index: ['content'],
-      store: ['title', 'href', 'section', 'content'],
-    }
+    includeScore: true,
+    useExtendedSearch: true,
+    fieldNormWeight: 1.5,
+    threshold: 0.2,
+    ignoreLocation: true,
+    keys: [
+      {
+        name: 'title',
+        weight: 0.7
+      },
+      {
+        name: 'content',
+        weight: 0.3
+      }
+    ]
   });
 
   const input = document.querySelector('#book-search-input');
@@ -68,10 +73,7 @@
     fetch(searchDataURL)
       .then(pages => pages.json())
       .then(pages => {
-        window.bookSearchIndex = new FlexSearch.Document(indexConfig);
-        pages.forEach(page => {
-          window.bookSearchIndex.add(page.id, page);
-        });
+        window.bookSearchIndex = new Fuse(pages, indexConfig);
       })
       .then(() => input.required = false)
       .then(search);
@@ -86,39 +88,16 @@
       return;
     }
 
-    const searchHits = window.bookSearchIndex.searchAsync(input.value, 5);
-    searchHits.then(pages => {
-      pages.forEach(function (pageMeta) {
-        pageMeta.result.forEach(function (pageIdx) {
-          console.log("Index: " + pageIdx)
-          const page = window.bookSearchIndex.store[pageIdx];
-          console.log(page)
-          const li = element('<li><a href></a><small></small><br><medium></medium></li>');
-          const a = li.querySelector('a'), small = li.querySelector('small'), medium = li.querySelector('medium');
-    
-          a.href = page.href;
-          a.textContent = page.title;
-          small.textContent = page.section;
-    
-          console.log(page)
-          const idx = page.content.indexOf(input.value);
-          if (idx > 0) {
-            // Bold the search term
-            let content = page.content.substring(0, idx) + '<strong>' + page.content.substring(idx, idx + input.value.length) + '</strong>' + page.content.substring(idx + input.value.length);
-    
-            let start = idx - (100-input.value.length)/2;
-            if (start < 0) {
-              start = 0;
-            }
-            let end = idx + input.value.length + (100-input.value.length)/2;
-            if (end > content.length) {
-              end = content.length;
-            }
-            medium.innerHTML = "..." + content.substring(start, end) + "...";
-            results.appendChild(li);
-          }
-        });
-      });
+    const searchHits = window.bookSearchIndex.search(input.value).slice(0,10);
+    searchHits.forEach(function (page) {
+      const li = element('<li><a href></a><small></small></li>');
+      const a = li.querySelector('a'), small = li.querySelector('small');
+
+      a.href = page.item.href;
+      a.textContent = page.item.title;
+      small.textContent = page.item.section;
+
+      results.appendChild(li);
     });
   }
 

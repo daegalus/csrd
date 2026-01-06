@@ -76,7 +76,8 @@ An **exorbitant item** is something only the very rich can afford. A very nice h
 
 Think of the categories as powers of 10. That is to say, a moderately priced item is ten times more costly than an inexpensive item. An expensive item is ten times more costly than a moderately priced item, and thus 100 times the cost of something inexpensive. A very expensive item is ten times the cost of an expensive one, 100 times the cost of a moderate one, and 1,000 times the cost of an inexpensive one. An exorbitant item is priced ten times beyond that.
 
-(In some settings, even the generalization offered by the pricing categories might be too specific or cumbersome. In many superhero games, for example, prices are relatively moot. After saving the city, typical superheroes don't worry about paying rent or how much dinner will cost. On the other hand, in a grittier superhero game, maybe that's exactly what they worry about.)
+> [!NOTE]
+> In some settings, even the generalization offered by the pricing categories might be too specific or cumbersome. In many superhero games, for example, prices are relatively moot. After saving the city, typical superheroes don't worry about paying rent or how much dinner will cost. On the other hand, in a grittier superhero game, maybe that's exactly what they worry about.
 
 ## Using The Price Categories
 

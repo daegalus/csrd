@@ -21,39 +21,38 @@ That's it. That's how to do anything, whether it's identifying an unknown device
 
 ## Key Concepts
 
-{{< hint warning >}}
-**ACTION:** Anything a character does that is significant---punch a foe, leap a chasm, activate a device, use a special power, and so on. Each character can take one action in a round.
-
-**CHARACTER:** Any creature in the game capable of acting, whether it is a player character (PC) run by a player or a nonplayer character (NPC) run by the game master (GM). In the Cypher System, even bizarre creatures, sentient machines, and living energy beings can be "characters."
-
-**DIFFICULTY:** A measure of how easy it is to accomplish a task. Difficulty is rated on a scale from 1 (lowest) to 10 (highest). Altering the difficulty to make a task harder is called "hindering." Altering it to make a task easier is called "easing." All changes in difficulty are measured in steps. Difficulty often equates directly with level, so opening a level 3 locked door probably has a difficulty of 3.
-
-**EASE:** A decrease in a task's difficulty, usually by one step. If something doesn't say how many steps it eases a task, then it reduces the difficulty by one step.
-
-**EFFORT:** Spending points from a stat Pool to reduce the difficulty of a task. A PC decides whether or not to apply Effort on their turn before the roll is made. NPCs never apply Effort.
-
-**HINDER:** An increase in a task's difficulty, usually by one step. If something doesn't say how many steps it hinders a task, then it increases the difficulty by one step.
-
-**INABILITY:** The opposite of trained---you're hindered whenever you attempt a task that you have an inability in. If you also become trained in the task, the training and the inability cancel each other out and you become practiced.
-
-**LEVEL:** A way to measure the strength, difficulty, power, or challenge of something in the game. Everything in the game has a level. NPCs and objects have levels that determine the difficulty of any task related to them. For example, an opponent's level determines how hard they are to hit or avoid in combat. A door's level indicates how hard it is to break down. A lock's level determines how hard it is to pick. Levels are rated on a scale from 1 (lowest) to 10 (highest). PC tiers are a little like levels, but they go only from 1 to 6 and mechanically work very differently than levels---for example, a PC's tier does not determine a task's difficulty.
-
-**PRACTICED:** The normal, unmodified ability to use a skill---not trained, specialized, or an inability. Your type determines what weapon skills you're practiced in; if you aren't practiced with a type of weapon, you have an inability in it.
-
-**ROLL:** A d20 roll made by a PC to determine whether an action is successful. Although the game occasionally uses other dice, when the text simply refers to "a roll," it always means a d20 roll.
-
-**ROUND:** A length of time about five to ten seconds long. There are about ten rounds in a minute. When it's really important to track precise time, use rounds. Basically, it's the length of time to take an action in the game, but since everyone more or less acts simultaneously, all characters get to take an action each round.
-
-**SPECIALIZED:** Having an exceptional amount of skill in a task. Being specialized eases the task by two steps. So, if you are specialized in climbing, all your climbing tasks are eased by two steps.
-
-**STAT:** One of the three defining characteristics for PCs: Might, Speed, or Intellect. Each stat has two values: Pool and Edge. Your Pool represents your raw, innate ability, and your Edge represents knowing how to use what you have. Each stat Pool can increase or decrease over the course of play---for example, you can lose points from your Might Pool when struck by an opponent, spend points from your Intellect Pool to activate a special ability, or rest to recover points in your Speed Pool after a long day of marching. Anything that damages a stat, restores a stat, or boosts or penalizes a stat affects the stat's Pool.
-
-**TASK:** Any action that a PC attempts. The GM determines the difficulty of the task. In general, a task is something that you do and an action is you performing that task, but in most cases they mean the same thing.
-
-**TRAINED:** Having a reasonable amount of skill in a task. Being trained eases the task. For example, if you are trained in climbing, all climbing tasks for you are eased. If you become very skilled at that task, you become specialized instead of trained. You do not need to be trained to attempt a task.
-
-**TURN:** The part of the round when a character or creature takes its actions. For example, if a Warrior and an Adept are fighting an orc, each round the Warrior takes an action on their turn, the Adept takes an action on their turn, and the orc takes an action on its turn. Some abilities or effects last only one turn, or end when the next turn is started.
-{{< /hint >}}
+> [!WARNING]
+> **ACTION:** Anything a character does that is significant---punch a foe, leap a chasm, activate a device, use a special power, and so on. Each character can take one action in a round.
+>
+> **CHARACTER:** Any creature in the game capable of acting, whether it is a player character (PC) run by a player or a nonplayer character (NPC) run by the game master (GM). In the Cypher System, even bizarre creatures, sentient machines, and living energy beings can be "characters."
+>
+> **DIFFICULTY:** A measure of how easy it is to accomplish a task. Difficulty is rated on a scale from 1 (lowest) to 10 (highest). Altering the difficulty to make a task harder is called "hindering." Altering it to make a task easier is called "easing." All changes in difficulty are measured in steps. Difficulty often equates directly with level, so opening a level 3 locked door probably has a difficulty of 3.
+>
+> **EASE:** A decrease in a task's difficulty, usually by one step. If something doesn't say how many steps it eases a task, then it reduces the difficulty by one step.
+>
+> **EFFORT:** Spending points from a stat Pool to reduce the difficulty of a task. A PC decides whether or not to apply Effort on their turn before the roll is made. NPCs never apply Effort.
+>
+> **HINDER:** An increase in a task's difficulty, usually by one step. If something doesn't say how many steps it hinders a task, then it increases the difficulty by one step.
+>
+> **INABILITY:** The opposite of trained---you're hindered whenever you attempt a task that you have an inability in. If you also become trained in the task, the training and the inability cancel each other out and you become practiced.
+>
+> **LEVEL:** A way to measure the strength, difficulty, power, or challenge of something in the game. Everything in the game has a level. NPCs and objects have levels that determine the difficulty of any task related to them. For example, an opponent's level determines how hard they are to hit or avoid in combat. A door's level indicates how hard it is to break down. A lock's level determines how hard it is to pick. Levels are rated on a scale from 1 (lowest) to 10 (highest). PC tiers are a little like levels, but they go only from 1 to 6 and mechanically work very differently than levels---for example, a PC's tier does not determine a task's difficulty.
+>
+> **PRACTICED:** The normal, unmodified ability to use a skill---not trained, specialized, or an inability. Your type determines what weapon skills you're practiced in; if you aren't practiced with a type of weapon, you have an inability in it.
+>
+> **ROLL:** A d20 roll made by a PC to determine whether an action is successful. Although the game occasionally uses other dice, when the text simply refers to "a roll," it always means a d20 roll.
+>
+> **ROUND:** A length of time about five to ten seconds long. There are about ten rounds in a minute. When it's really important to track precise time, use rounds. Basically, it's the length of time to take an action in the game, but since everyone more or less acts simultaneously, all characters get to take an action each round.
+>
+> **SPECIALIZED:** Having an exceptional amount of skill in a task. Being specialized eases the task by two steps. So, if you are specialized in climbing, all your climbing tasks are eased by two steps.
+>
+> **STAT:** One of the three defining characteristics for PCs: Might, Speed, or Intellect. Each stat has two values: Pool and Edge. Your Pool represents your raw, innate ability, and your Edge represents knowing how to use what you have. Each stat Pool can increase or decrease over the course of play---for example, you can lose points from your Might Pool when struck by an opponent, spend points from your Intellect Pool to activate a special ability, or rest to recover points in your Speed Pool after a long day of marching. Anything that damages a stat, restores a stat, or boosts or penalizes a stat affects the stat's Pool.
+>
+> **TASK:** Any action that a PC attempts. The GM determines the difficulty of the task. In general, a task is something that you do and an action is you performing that task, but in most cases they mean the same thing.
+>
+> **TRAINED:** Having a reasonable amount of skill in a task. Being trained eases the task. For example, if you are trained in climbing, all climbing tasks for you are eased. If you become very skilled at that task, you become specialized instead of trained. You do not need to be trained to attempt a task.
+>
+> **TURN:** The part of the round when a character or creature takes its actions. For example, if a Warrior and an Adept are fighting an orc, each round the Warrior takes an action on their turn, the Adept takes an action on their turn, and the orc takes an action on its turn. Some abilities or effects last only one turn, or end when the next turn is started.
 
 ## Taking Action
 
@@ -95,9 +94,8 @@ By using skills and assets, working together, and---perhaps most important---app
 
 There are three basic ways in which a character can ease a task: skills, assets, and Effort. Each method eases the task by at least one step---never in smaller increments.
 
-{{< hint info >}}
-By using skills, assets, and Effort, a character can ease a task by a maximum of ten steps: one or two steps from skills, one or two steps from assets, and one to six steps from Effort.
-{{< /hint >}}
+> [!NOTE]
+> By using skills, assets, and Effort, a character can ease a task by a maximum of ten steps: one or two steps from skills, one or two steps from assets, and one to six steps from Effort.
 
 ### Skills
 
@@ -107,7 +105,8 @@ Characters may be skilled at performing a specific task. A skill can vary from c
 
 An asset is anything that helps a character with a task, such as having a really good crowbar when trying to force open a door or being in a rainstorm when trying to put out a fire. Appropriate assets vary from task to task. The perfect awl might help when woodworking, but it won't make a dance performance much better. An asset usually eases a task by one step. Assets can never ease a task by more than two steps---any more than two steps from assets don't count.
 
-(The important thing to remember is that a skill can reduce the difficulty by no more than two steps, and assets can reduce the difficulty by no more than two steps, regardless of the situation. Thus, no task's difficulty will ever be reduced by more than four steps without using Effort.)
+> [!NOTE]
+> The important thing to remember is that a skill can reduce the difficulty by no more than two steps, and assets can reduce the difficulty by no more than two steps, regardless of the situation. Thus, no task's difficulty will ever be reduced by more than four steps without using Effort.
 
 ### Effort
 
@@ -153,7 +152,8 @@ GM intrusion is explained in more detail in the Running the Cypher System chapte
 
 For GM intrusion on a defense roll, a roll of 1 might mean that the PC takes 2 additional points of damage from the attack, indicating that the opponent got in a lucky blow.
 
-(For complete details about GM intrusion and how to use it to best effect in the game, see the Running the Cypher System chapter.)
+> [!NOTE]
+> For complete details about GM intrusion and how to use it to best effect in the game, see the Running the Cypher System chapter.
 
 ### Minor Effect
 
@@ -219,7 +219,8 @@ Distance is simplified into four basic categories: immediate, short, long, and v
 Immediate distance from a character is within reach or within a few steps; if a character stands in a small room, everything in the room is within immediate distance. At most, immediate distance is 10 feet (3 m). Immediate distance is sometimes referred to as close, or even  
 point-blank, particularly when referring to ranges.
 
-(The words "immediate" and "close" can be used interchangeably to talk about distance. If a creature or object is within arm's reach of the character, it can be considered both immediate and close.)
+> [!NOTE]
+> The words "immediate" and "close" can be used interchangeably to talk about distance. If a creature or object is within arm's reach of the character, it can be considered both immediate and close.
 
 Short distance is anything greater than immediate distance but less than 50 feet (15 m) or so.
 
@@ -239,19 +240,18 @@ GMs and players don't need to determine exact distances. For example, if the PCs
 
 ### Other Distances
 
-{{< hint warning >}}
-In rare cases where distances beyond very long are needed, real-world distances are best (1 mile, 100 kilometers, and so on). However, the following shorthand distances can be useful in some settings:
-
-**Planetary:** On the same planet.
-
-**Interplanetary:** Within the same solar system.
-
-**Interstellar:** Within the same galaxy.
-
-**Intergalactic:** Anywhere in the same universe.
-
-**Interdimensional:** Anywhere.
-{{< /hint >}}
+> [!WARNING]
+> In rare cases where distances beyond very long are needed, real-world distances are best (1 mile, 100 kilometers, and so on). However, the following shorthand distances can be useful in some settings:
+>
+> **Planetary:** On the same planet.
+>
+> **Interplanetary:** Within the same solar system.
+>
+> **Interstellar:** Within the same galaxy.
+>
+> **Intergalactic:** Anywhere in the same universe.
+>
+> **Interdimensional:** Anywhere.
 
 ## Timekeeping
 
@@ -261,30 +261,28 @@ This is true even when a special ability has a specific duration. In an encounte
 
 ### Timekeeping (table)
 
-{{< hint warning >}}
-
-| Action                                                          | Time Usually Required                         |
-| --------------------------------------------------------------- | --------------------------------------------- |
-| Walking a mile over easy terrain                                | About fifteen minutes                         |
-| Walking a mile over rough terrain (forest, snow, hills)         | About half an hour                            |
-| Walking a mile over difficult terrain (mountains, thick jungle) | About forty-five minutes                      |
-| Moving from one significant location in a city to another       | About fifteen minutes                         |
-| Sneaking into a guarded location                                | About fifteen minutes                         |
-| Observing a new location to get salient details                 | About fifteen minutes                         |
-| Having an in-depth discussion                                   | About ten minutes                             |
-| Resting after a fight or other strenuous activity               | About ten minutes                             |
-| Resting and having a quick meal                                 | About half an hour                            |
-| Making or breaking camp                                         | About half an hour                            |
-| Shopping for supplies in a market or store                      | About an hour                                 |
-| Meeting with an important contact                               | About half an hour                            |
-| Referencing a book or website                                   | About half an hour                            |
-| Searching a room for hidden things                              | At least half an hour, perhaps one hour       |
-| Searching for cyphers or other valuables amid a lot of stuff    | About an hour                                 |
-| Identifying and understanding a cypher                          | Fifteen minutes to half an hour               |
-| Identifying and understanding an artifact                       | At least fifteen minutes, perhaps three hours |
-| Repairing a device (assuming parts and tools available)         | At least an hour, perhaps a day               |
-| Building a device (assuming parts and tools available)          | At least a day, perhaps a week                |
-{{< /hint >}}
+> [!WARNING]
+> | Action                                                          | Time Usually Required                         |
+> | --------------------------------------------------------------- | --------------------------------------------- |
+> | Walking a mile over easy terrain                                | About fifteen minutes                         |
+> | Walking a mile over rough terrain (forest, snow, hills)         | About half an hour                            |
+> | Walking a mile over difficult terrain (mountains, thick jungle) | About forty-five minutes                      |
+> | Moving from one significant location in a city to another       | About fifteen minutes                         |
+> | Sneaking into a guarded location                                | About fifteen minutes                         |
+> | Observing a new location to get salient details                 | About fifteen minutes                         |
+> | Having an in-depth discussion                                   | About ten minutes                             |
+> | Resting after a fight or other strenuous activity               | About ten minutes                             |
+> | Resting and having a quick meal                                 | About half an hour                            |
+> | Making or breaking camp                                         | About half an hour                            |
+> | Shopping for supplies in a market or store                      | About an hour                                 |
+> | Meeting with an important contact                               | About half an hour                            |
+> | Referencing a book or website                                   | About half an hour                            |
+> | Searching a room for hidden things                              | At least half an hour, perhaps one hour       |
+> | Searching for cyphers or other valuables amid a lot of stuff    | About an hour                                 |
+> | Identifying and understanding a cypher                          | Fifteen minutes to half an hour               |
+> | Identifying and understanding an artifact                       | At least fifteen minutes, perhaps three hours |
+> | Repairing a device (assuming parts and tools available)         | At least an hour, perhaps a day               |
+> | Building a device (assuming parts and tools available)          | At least a day, perhaps a week                |
 
 ## Encounters, Rounds, And Initiative
 
@@ -294,7 +292,8 @@ A round is about five to ten seconds. The length of time is variable because som
 
 To determine who goes first, second, and so on in a round, each player makes a Speed roll called an initiative roll. Most of the time, it's only important to know which characters act before the NPCs and which act after the NPCs. On an initiative roll, a character who rolls higher than an NPC's target number takes their action before the NPC does. As with all target numbers, an NPC's target number for an initiative roll is three times the NPC's level. Many times, the GM will have all NPCs take their actions at the same time, using the highest target number from among all the NPCs. Using this method, any characters who rolled higher than the target number act first, then all the NPCs act, and finally any characters who rolled lower than the target number act.
 
-(An initiative roll is a d20 roll. Since your initiative depends on how fast you are, if you spend Effort on the roll, the points come from your Speed Pool.)
+> [!NOTE]
+> An initiative roll is a d20 roll. Since your initiative depends on how fast you are, if you spend Effort on the roll, the points come from your Speed Pool.
 
 The order in which the characters act usually isn't important. If the players want to go in a precise order, they can act in initiative order (highest to lowest), by going around the table, by going oldest to youngest, and so on.
 
@@ -306,11 +305,10 @@ Since the action moves as a cycle, anything that lasts for a round ends where it
 
 ### A Closer Look at Situations That Don't Involve PCs
 
-{{< hint warning >}}
-Ultimately, the GM is the arbiter of conflicts that do not involve the PCs. They should be adjudicated in the most interesting, logical, and story-based way possible. When in doubt, match the level of the NPCs (characters or creatures) or their respective effects to determine the results. Thus, if a level 4 NPC fights a level 3 NPC, the level 4 NPC will win, but if they face a level 7 NPC, they'll lose. Likewise, a level 4 creature resists poisons or devices of level 3 or lower but not those of level 5 and above.
-
-The essence is this: in the Cypher System, it doesn't matter if something is a creature, a poison, or a gravity-dispelling ray. If it's a higher level, it wins; if it's a lower level, it loses. If two things of equal level oppose each other, there might be a long, drawn-out battle that could go either way.
-{{< /hint >}}
+> [!WARNING]
+> Ultimately, the GM is the arbiter of conflicts that do not involve the PCs. They should be adjudicated in the most interesting, logical, and story-based way possible. When in doubt, match the level of the NPCs (characters or creatures) or their respective effects to determine the results. Thus, if a level 4 NPC fights a level 3 NPC, the level 4 NPC will win, but if they face a level 7 NPC, they'll lose. Likewise, a level 4 creature resists poisons or devices of level 3 or lower but not those of level 5 and above.
+>
+> The essence is this: in the Cypher System, it doesn't matter if something is a creature, a poison, or a gravity-dispelling ray. If it's a higher level, it wins; if it's a lower level, it loses. If two things of equal level oppose each other, there might be a long, drawn-out battle that could go either way.
 
 ## Actions
 
@@ -460,7 +458,8 @@ Some effects can immediately shift a PC one or more steps on the damage track. T
 
 Some attacks, like a serpent's poisonous bite or a Speaker's Enthrall, have effects other than damage to a stat Pool or shifting the PC on the damage track. These attacks can cause unconsciousness, paralysis, and so on.
 
-(When NPCs (who have only health) suffer Speed or Intellect damage, normally this is treated the same as Might damage. However, the GM or the player has the option to suggest an appropriate alternate effect---the NPC suffers a penalty, moves more slowly, is stunned, and so on.)
+> [!NOTE]
+> When NPCs (who have only health) suffer Speed or Intellect damage, normally this is treated the same as Might damage. However, the GM or the player has the option to suggest an appropriate alternate effect---the NPC suffers a penalty, moves more slowly, is stunned, and so on.
 
 ### The Damage Track
 
@@ -476,9 +475,8 @@ An impaired character ignores minor and major effect results on their rolls, and
 
 **Dead** is dead.
 
-{{< hint info >}}
-The damage track allows you to know how far from death you are. If you're hale, you're three steps from death. If you're impaired, you're two steps from death. If you're debilitated, you are only one small step from death's door.)
-{{< /hint >}}
+> [!NOTE]
+> The damage track allows you to know how far from death you are. If you're hale, you're three steps from death. If you're impaired, you're two steps from death. If you're debilitated, you are only one small step from death's door.)
 
 ### Recovering Points in a Pool
 
@@ -536,7 +534,8 @@ In combat situations, many modifiers might come into play. Although the GM is at
 
 When in doubt, if it seems like it should be harder to attack in a situation, hinder the attack rolls. If it seems like attacks should gain an advantage or be easier in some way, hinder the defense rolls.
 
-(Precise ranges are not important in the Cypher System. The broadly defined "immediate," "short," "long," and "very long" ranges let the GM quickly make a judgment call and keep things moving. Basically, the idea is: your target is right there, your target is close, your target is pretty far away, or your target is extremely far away.)
+> [!NOTE]
+> Precise ranges are not important in the Cypher System. The broadly defined "immediate," "short," "long," and "very long" ranges let the GM quickly make a judgment call and keep things moving. Basically, the idea is: your target is right there, your target is close, your target is pretty far away, or your target is extremely far away.
 
 #### Cover
 
@@ -570,13 +569,11 @@ Thus, the game has four measurements of distance: immediate, short, long, and ve
 
 **Extreme Range:** Targets just at the limit of a weapon's range are at extreme range. Attacks against such targets are hindered.
 
-{{< hint info >}}
-The GM might allow a character with a ranged weapon to attack beyond extreme range, but the attack would be hindered by two steps for each range category beyond the normal limit. Attacks with hard limits, such as the blast radius of a bomb, can't be modified.
-{{< /hint >}}
+> [!NOTE]
+> The GM might allow a character with a ranged weapon to attack beyond extreme range, but the attack would be hindered by two steps for each range category beyond the normal limit. Attacks with hard limits, such as the blast radius of a bomb, can't be modified.
 
-{{< hint info >}}
-In certain situations, such as a PC on top of a building looking across an open field, the GM should allow ranged attacks to exceed their maximum range. For example, in perfect conditions, a good archer can hit a large target with a bow and arrow at 500 feet (150 m), much farther than a bow's typical long range.
-{{< /hint >}}
+> [!NOTE]
+> In certain situations, such as a PC on top of a building looking across an open field, the GM should allow ranged attacks to exceed their maximum range. For example, in perfect conditions, a good archer can hit a large target with a bow and arrow at 500 feet (150 m), much farther than a bow's typical long range.
 
 #### Illumination
 
@@ -717,7 +714,8 @@ You decide what action will trigger your action, and if the triggering action ha
 
 Waiting is also a good way to deal with a ranged attacker who rises from behind cover, fires an attack, and ducks back down. You could say "I wait to see them pop up from behind cover and then I shoot them."
 
-(Waiting is also a useful tool for cooperative actions (see below).)
+> [!NOTE]
+> Waiting is also a useful tool for cooperative actions (see below).
 
 ## Action: Defend
 
@@ -743,7 +741,8 @@ Thus, players and GMs can return to the beginning of this chapter and look at th
 
 As further guidance, the following are some of the more common actions a player might take.
 
-(Players are encouraged to come up with their own ideas for what their characters do rather than looking at a list of possible actions. That's why there is a "do something else" action. PCs are not pieces on a game board---they are people in a story. And like real people, they can try anything they can think of. (Succeeding is another matter entirely.) The task difficulty system provides GMs with the tools they need to adjudicate anything the players come up with.)
+> [!NOTE]
+> Players are encouraged to come up with their own ideas for what their characters do rather than looking at a list of possible actions. That's why there is a "do something else" action. PCs are not pieces on a game board---they are people in a story. And like real people, they can try anything they can think of. (Succeeding is another matter entirely.) The task difficulty system provides GMs with the tools they need to adjudicate anything the players come up with.
 
 ### Climbing
 
@@ -775,9 +774,8 @@ Sometimes you can help by performing a task that complements what another person
 
 **Draw the Attack:** When an NPC attacks a character, another PC can prominently present themselves, shout taunts, and move to try to get the foe to attack them instead. In most cases, this action succeeds without a roll---the opponent attacks the prominent PC instead of their companions. In other cases, such as with intelligent or determined foes, the prominent character must succeed at an Intellect action to draw the attack. If that Intellect action is successful, the foe attacks the prominent character, whose defenses are hindered by two steps. Two characters attempting to draw an attack at the same time cancel each other out.
 
-{{< hint info >}}
-Two characters attempting to draw an attack at the same time cancel each other out.
-{{< /hint >}}
+> [!NOTE]
+> Two characters attempting to draw an attack at the same time cancel each other out.
 
 **Take the Attack:** A character can use their action to throw themselves in front of a foe's successful attack to save a nearby comrade. The attack automatically succeeds against the sacrificial character, and it deals 1 additional point of damage. A character cannot willingly take more than one attack each round in this way.
 
@@ -825,17 +823,14 @@ Characters might try to make a cypher, an artifact, or an alien psionic starship
 
 That said, tinkering with weird stuff is not easy. Obviously, the difficulty varies from situation to situation, but difficulties starting at 7 are not unreasonable. The time, tools, and training required would be similar to the time, tools, and training needed to repair a device. If the tinkering results in a long-term benefit for the character---such as creating an artifact that they can use---the GM should require them to spend XP to make it.
 
-{{< hint info >}}
-Circumstances really matter. For example, sewing a dress by hand might take five times as long (or more) as using a sewing machine.
-{{< /hint >}}
+> [!NOTE]
+> Circumstances really matter. For example, sewing a dress by hand might take five times as long (or more) as using a sewing machine.
 
-{{< hint info >}}
-The GM is free to overrule some attempts at creation, building, or repair, requiring that the character have a certain level of skill, proper tools and materials, and so forth.
-{{< /hint >}}
+> [!NOTE]
+> The GM is free to overrule some attempts at creation, building, or repair, requiring that the character have a certain level of skill, proper tools and materials, and so forth.
 
-{{< hint info >}}
-Obviously, what is considered "weird stuff " will vary from setting to setting, and sometimes the concept might not apply at all. But many times, there will be something in the setting that is too strange, too alien, too powerful, or too dangerous for PCs to mess around with (or at least mess around with easily). Einstein may have been extraordinary, but that doesn't mean he could reverse-engineer a teleporter made in another dimension.
-{{< /hint >}}
+> [!NOTE]
+> Obviously, what is considered "weird stuff " will vary from setting to setting, and sometimes the concept might not apply at all. But many times, there will be something in the setting that is too strange, too alien, too powerful, or too dangerous for PCs to mess around with (or at least mess around with easily). Einstein may have been extraordinary, but that doesn't mean he could reverse-engineer a teleporter made in another dimension.
 
 ### Crafting Difficulty and Time
 
@@ -877,7 +872,8 @@ If you run a short distance before jumping, divide the jump distance (in feet) b
 
 For a vertical jump, the distance you clear (in feet) is equal to the difficulty of the jumping task. If you run an immediate distance, it counts as an asset, easing the jump.
 
-(There's nothing wrong with the GM simply assigning a difficulty level to a jump without worrying about the precise distance. The rules here are just so everyone has some guidelines.)
+> [!NOTE]
+> There's nothing wrong with the GM simply assigning a difficulty level to a jump without worrying about the precise distance. The rules here are just so everyone has some guidelines.
 
 ### Looking Or Listening
 
@@ -959,17 +955,14 @@ It's important to remember that a failed attack doesn't always mean a miss. The 
 
 This bare-bones system should allow the GM and players to flesh out exciting encounters involving the whole group. For example, perhaps while one PC pilots a ship, another mans the guns, and another frantically attempts to repair damage to the maneuvering thrusters before they crash into the space station they're trying to defend.
 
-{{< hint info >}}
-During a vehicular battle, particularly a space battle, there's a lot of chatter about shields failing, hull integrity, being outmaneuvered, coming in too fast, and whatnot. These sorts of details are great, but they're all flavor, so they're represented in the rules generally, rather than specifically.
-{{< /hint >}}
+> [!NOTE]
+> During a vehicular battle, particularly a space battle, there's a lot of chatter about shields failing, hull integrity, being outmaneuvered, coming in too fast, and whatnot. These sorts of details are great, but they're all flavor, so they're represented in the rules generally, rather than specifically.
 
-{{< hint info >}}
-For more details about vehicles, refer to the Genre chapter.
-{{< /hint >}}
+> [!NOTE]
+> For more details about vehicles, refer to the Genre chapter.
 
-{{< hint info >}}
-Training in driving makes the character practiced in using a vehicle as a weapon. If the vehicle is used to run over a victim or ram an enemy vehicle, treat a motorcycle as a medium weapon and treat a car or truck as a heavy weapon.
-{{< /hint >}}
+> [!NOTE]
+> Training in driving makes the character practiced in using a vehicle as a weapon. If the vehicle is used to run over a victim or ram an enemy vehicle, treat a motorcycle as a medium weapon and treat a car or truck as a heavy weapon.
 
 | Targeting Task                   | Attack Hindered | Effect                                                  |
 | -------------------------------- | --------------- | ------------------------------------------------------- |
@@ -985,9 +978,8 @@ Player characters have the option to gain followers as they advance in tier, as 
 
 The PC generally makes rolls for their follower when the follower takes actions, though usually a follower's modifications provide an asset to a specific action taken by the PC they follow.
 
-{{< hint info >}}
-If a follower dies, the character gains a new one after at least two weeks and proper recruitment.
-{{< /hint >}}
+> [!NOTE]
+> If a follower dies, the character gains a new one after at least two weeks and proper recruitment.
 
 **Modifications:** A follower can help a PC in one or more tasks, granting the PC an asset to that task. The level of the follower indicates the number of different tasks they can help with. The tasks that the follower is able to help with are predetermined, usually chosen by the PC when they gain the follower. A level 2 follower who the player determines is a spy could grant a PC an asset on two different tasks, such as stealth and deception. Followers cannot help with tasks that they don't have modifications for; for the purpose of helping, treat the follower as if they had inabilities in all nonmodified tasks.
 

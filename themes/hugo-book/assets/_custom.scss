@@ -253,3 +253,10 @@ footer {
 body > footer {
   margin-top: 40px;
 }
+
+// Fix: Force hide hamburger menu on laptop/desktop screens
+@media screen and (min-width: $mobile-breakpoint) {
+  .book-header {
+    display: none !important;
+  }
+}

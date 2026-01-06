@@ -14,9 +14,8 @@ The first is a power grade for each ability, which tells you about how potent it
 
 These abilities are further sorted into ability categories based on the kinds of things they do---abilities that improve physical attacks are in the attack skill category, abilities that assist allies are in the support category, and so on.
 
-{{< hint info >}}
-Unless otherwise noted, you cannot choose the same ability twice, even if you get it from both your type and a flavor.)
-{{< /hint >}}
+> [!NOTE]
+> Unless otherwise noted, you cannot choose the same ability twice, even if you get it from both your type and a flavor.
 
 ## Ability Categories And Relative Power
 
@@ -24,9 +23,8 @@ Abilities can be divided into several categories based on the kinds of things th
 
 The categories are mainly used by GMs when designing new foci for a campaign, allowing them to search a short list of abilities instead of trying to find something appropriate among the thousand or so abilities in this chapter. For example, the GM might have a custom focus in their campaign called "Is Born of the Swamp" and want a defensive ability for tier 5, so they can look at the high-tier abilities in the protection category and quickly narrow down what options are available.
 
-{{< hint info >}}
-It may be possible that a character gains the same ability from more than one source (such as from their type and their descriptor). Unless the two abilities are obviously additive (such as two abilities that each add 3 points to your Might Pool, which together would give the character +6 Might points), the duplicated ability might be improved in some way, such as having a longer duration or greater effect, or automatically providing an asset. Some abilities give suggestions on how to do this; otherwise, the player and the GM should work out whether and how the ability is improved.
-{{< /hint >}}
+> [!NOTE]
+> It may be possible that a character gains the same ability from more than one source (such as from their type and their descriptor). Unless the two abilities are obviously additive (such as two abilities that each add 3 points to your Might Pool, which together would give the character +6 Might points), the duplicated ability might be improved in some way, such as having a longer duration or greater effect, or automatically providing an asset. Some abilities give suggestions on how to do this; otherwise, the player and the GM should work out whether and how the ability is improved.
 
 The ability categories are not intended to be rigid or comprehensive. Some abilities fall into more than one category, and it could be argued that some abilities could be included in more categories than are listed here.
 
@@ -3080,9 +3078,8 @@ Your mind can travel up to 1 mile (1.5 km) from your body. Each level of additio
 
 Your physical body is helpless until this effect ends. You cannot use your physical senses to perceive anything. For example, your body could sustain a significant injury, and you wouldn't know it. Your body cannot take Intellect damage, so if your body takes enough damage to reduce both your Might Pool and your Speed Pool to 0, your mind snaps back to your body, and you are stunned until the end of the next round as you try to reorient yourself to your predicament. Action to initiate.
 
-{{< hint info >}}
-Mentally projecting characters may attract psychic entities and predators that PCs normally don't have to deal with, run into weather psychic phenomena that risks severing their connection, and possibly even become lost on a different metaphysical plane.
-{{< /hint >}}
+> [!NOTE]
+> Mentally projecting characters may attract psychic entities and predators that PCs normally don't have to deal with, run into weather psychic phenomena that risks severing their connection, and possibly even become lost on a different metaphysical plane.
 
 **Mentally Tough:** Staring into the naked weave of hyperspace, warped space, or a similar effect related to faster-than-light travel is hard on the mind, but you've developed resistance. You're trained in Intellect defense tasks. Enabler.
 
@@ -3375,9 +3372,8 @@ The creature you inhabit can use your Intellect Edge in place of their own. In a
 
 When you take an action, you use the creature's body to perform that action if they allow it. Action to initiate.
 
-{{< hint info >}}
-A character should using Psychic Passenger should consider secreting their actual body someplace away from prying eyes and wild beasts, or they may return to an unfortunate situation.
-{{< /hint >}}
+> [!NOTE]
+> A character should using Psychic Passenger should consider secreting their actual body someplace away from prying eyes and wild beasts, or they may return to an unfortunate situation.
 
 **Psychic Suggestion (4 Intellect points):** You attempt to make the target take the action you indicate on its next turn. If the action you wish the target to take would cause direct harm to itself or its allies, your mental attack is hindered. Action.
 
@@ -3917,9 +3913,8 @@ If you also have this ability from another source, you may use either ability, t
 
 Your future self shares your stats, so any damage that either of you takes applies to the same stat Pools. If your future self is killed, you and your future self disappear in the third round (as normal) and you reappear, dead, in the fourth round. Neither you nor your future self can use Time Loop again until you reappear as your future self in the fourth round. Action.
 
-{{< hint info >}}
-In effect, Time Loop lets "you" take an action on the round you use it, two actions on the second round, and zero actions on the third round, and then you're back to normal after that.
-{{< /hint >}}
+> [!NOTE]
+> In effect, Time Loop lets "you" take an action on the round you use it, two actions on the second round, and zero actions on the third round, and then you're back to normal after that.
 
 **Time Travel (10+ Intellect points):** You and up to three willing characters you choose within immediate range travel to a point in time that you specify when you use this ability. The point in time must be within ten years of the present. For each level of Effort applied, you can travel ten more years or bring three more creatures with you. When you appear in the new moment in time, you do so in the same position you were in when you used this ability. Upon arriving at your temporal destination, you and the other time travelers are stunned for one minute. In order to return to your original time, you must use this ability again. Action.
 

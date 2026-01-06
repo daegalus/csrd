@@ -46,15 +46,13 @@ A level 0 creature isn’t a threat to a character and is instantly killed if hi
 
 **Erase Cantrip (1 Intellect point):** You erase up to a page of text from a typical surface (such as paper, parchment, wood, or plastic) within immediate range. The writing slowly disappears over a few seconds. Affecting magical writing requires an Intellect-based attack roll. Action.
 
-{{< hint info >}}
-Erase Cantrip doesn’t remove fingerprints, impressions in the paper, or other evidence that writing used to be there.
-{{< /hint >}}
+> [!NOTE]
+> Erase Cantrip doesn’t remove fingerprints, impressions in the paper, or other evidence that writing used to be there.
 
 **Exterminate Cantrip (1 Intellect point):** You create a bolt of energy that kills one common vermin creature (level 0) within a short distance, such as a fly, worm, cockroach, or mouse. One casting can affect multiple smaller creatures (such as ants or fleas) within 1 cubic foot. The spell is accompanied by a quick bolt of black and yellow energy. Action
 
-{{< hint info >}}
-Exterminate Cantrip is an exception to the rule that trying to cause direct harm with a cantrip is hindered by two steps. A swarm whose level is 1 or higher is unaffected by this cantrip, even though the individual creatures in the swarm might be.
-{{< /hint >}}
+> [!NOTE]
+> Exterminate Cantrip is an exception to the rule that trying to cause direct harm with a cantrip is hindered by two steps. A swarm whose level is 1 or higher is unaffected by this cantrip, even though the individual creatures in the swarm might be.
 
 **Extra Chair Cantrip (1 Intellect point):** A table you touch somehow has room (and a chair) for one more person to comfortably sit there without affecting anyone else at the table. This lasts anywhere from ten minutes to an hour, or less if the person in the extra chair leaves for more than a few minutes. Action.
 
@@ -102,9 +100,8 @@ Variants of Fire Crown Cantrip create a crown of lightning, smoke, ice, water, o
 
 **Quiet Cantrip (1 Intellect point):** You muffle the noise from one target within a short distance for a few seconds. Breaking a window or knocking a glass off the table would be no louder than someone tapping their finger on the glass. An obnoxious security alarm would only be as loud as a computer speaker. A ringing phone would be barely audible. If you cast this on a willing creature, they gain an asset on stealth tasks for one round if they move no more than an immediate distance on their turn. Action.
 
-{{< hint info >}}
-Affecting an unwilling creature (or something they’re carrying) with an ability requires an attack roll to succeed. If you’re using a cantrip, by default that attack roll is hindered by two steps
-{{< /hint >}}
+> [!NOTE]
+> Affecting an unwilling creature (or something they’re carrying) with an ability requires an attack roll to succeed. If you’re using a cantrip, by default that attack roll is hindered by two steps
 
 **Rainbow Cantrip (1 Intellect point):** You create a softly glowing band of colors resembling a rainbow, extending from your hand to an object or willing creature within short range. The far end doesn’t move (a creature could move away from it by going around a corner or out of range). You can anchor your end in place or allow it to move when your hand moves. The rainbow gives off light like a candle and lasts about a minute. Action.
 
@@ -148,9 +145,8 @@ Magic is a community affair, and magicians are more powerful in groups. A coven 
 
 For magician NPCs in a coven, the GM can assume that their rank is equal to their NPC level (with a maximum of 6).
 
-{{< hint info >}}
-Spending XP to advance a character’s rank in a coven does not count as one of the four character advancements needed to reach a higher tier
-{{< /hint >}}
+> [!NOTE]
+> Spending XP to advance a character’s rank in a coven does not count as one of the four character advancements needed to reach a higher tier
 
 ### Joining A Coven
 
@@ -440,7 +436,7 @@ Tier 2:
 
 Emotional Support Pet (3+ Intellect points): You conjure an adorable animal that most people find irresistibly cute, such as a puppy, kitten, or bunny, who is outgoing and friendly and otherwise acts according to its nature. Anyone in short range who can see the animal eases their defense tasks against negative feelings (such as anger, fear, sadness, and worry) for the next hour. Anyone who pets, cuddles, or plays with this animal for at least a round or two (up to four people can do so at once) feels happier for the next hour and adds +1 to any recovery rolls they make during that time. At the end of the spell, the conjured animal curls up, falls asleep, and disappears in a puff of smoke. If the animal is harmed in any way, anyone who saw it happen eases all rolls against the creature responsible for the harm. In addition to the normal options for using Effort, you can conjure three additional animals for each level of Effort you apply to this ability. Action.
 
-Adorable Animal: level 1, positive social interactions as level 3
+**Adorable Animal:** level 1, positive social interactions as level 3
 
 Fetch
 
@@ -4428,7 +4424,7 @@ Strong AIs (also called true AIs) have all the abilities of sim AIs, plus the ab
 
 Strong AI Use: A strong AI may serve as a shipmind just like a sim AI, but is likely to be a full partner in a setting where AI rights are respected. Indeed, strong AIs can rise to any position a human could achieve, up to and including leading a group, faction, or entire nation.
 
-Strong AI: level 5–8, up to level 8 when it comes to a specific application of knowledge or skill; see Artificial Intelligence on page 115
+**Strong AI:** level 5–8, up to level 8 when it comes to a specific application of knowledge or skill; see Artificial Intelligence on page 115
 
 ## POST- SINGULARITY
 
@@ -4490,76 +4486,68 @@ Assuming the facilities are available, characters can pay for the customization 
 
 ## PLANETARY VEHICLE LISTING
 
-CYCLES 
+{{< hint danger >}} {{< columns2 >}} CYCLES 
 
 CONTEMPORARY 
 
 Motorcycle, dirt bike 
 
-level 2 (6) 
-
+level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Knobby two-wheeled or three-wheeled vehicle, supporting a basic frame with a seat for one rider (and sometimes a passenger) open to the environment, ideal for wild terrain and off-road travel; moves a short distance each round in wild terrain or an average of 48 km/h (30 mph) during long-distance travel (double movement on paved surfaces). 
 
-Motorcycle, cruiser 
+{{< hint danger >}} {{< columns2 >}} Motorcycle, cruiser 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Two-wheeled vehicle, supporting a stylish frame with a seat for one rider (and sometimes a passenger) open to the environment suitable for paved surfaces; moves a long distance each round on paved surfaces or an average of 96 km/h (60 mph) during long-distance travel. 
 
-ADVANCED 
+{{< hint danger >}} {{< columns2 >}} ADVANCED 
 
 Motorcycle, battle 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Two-wheeled vehicle, supporting a reinforced, armored frame with a seat for one rider (and sometimes a passenger) partly open the environment, providing the rider Armor 2. Built-in weapons include a deployable swivel long-range machine gun that inflicts 8 points of damage. Auto-stabilization eases all tasks related to riding. Suitable for paved and broken surfaces; moves a long distance each round on paved and broken surfaces or an average of 144 km/h (90 mph) during long-distance travel. 
 
-Motorcycle, omni-terrain 
+{{< hint danger >}} {{< columns2 >}} Motorcycle, omni-terrain 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Two-wheeled vehicle with telescoping spokes capable of adapting to nearly any terrain (except water or other liquids), supporting a basic frame with a seat for one rider (and sometimes a passenger) open to the environment, ideal for utterly wild terrain and off-road travel; able to “climb” natural steep and near-vertical surfaces. Auto-stabilization eases all tasks related to riding. Moves a long distance each round in any terrain or an average of 112 km/h (70 mph) during long-distance travel. 
 
-Vacuum cycle 
+### Vacuum Cycle 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Two-wheeled vehicle, supporting a reinforced, lightly enclosed and pressurized frame with a seat for one rider (and sometimes a passenger), providing the rider Armor 1 (though if damage is taken, it’s likely a breach has occurred). Auto-stabilization eases all tasks related to riding. Suitable for paved and broken surfaces on airless moons or in polluted or poisonous atmospheres; moves a long distance each round on paved and broken surfaces or an average of 80 km/h (50 mph) during long-distance travel. 
 
-FANTASTIC 
+### Fantastic 
 
-Hover speedster 
+{{< hint danger >}} {{< columns2 >}} Hover Speedster 
 
-level 5 (15) 
-
+Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 A sweptback frame with a seat for one rider (and often a passenger) open to the environment, with anti-gravity repulsors allowing it to hover up to 2 m (6 feet) over any terrain (including water and other liquids), ideal for utterly wild terrain and over-water excursions. Auto-stabilization eases all tasks related to riding by two steps. Moves a very long distance each round in any terrain or an average of 240 km/h (150 mph) during long-distance travel. 
 
-Hard-light cycle 
+### Hard-Light Cycle 
 
-level 5 (15) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Two-wheeled vehicle of hard light capable of adapting to most terrains, supporting a sleek reinforced, armored frame with a seat for one rider (and sometimes a passenger) partly open the environment, providing the rider Armor 1. Suitable for crossing above any surface via self-deploying light bridge, a 1 cm (3 inch) thick by 3 m (10 feet) wide, constantly extending forcefield surface that persists for about ten minutes. The bridge can reach to almost any height, though maximum gradient shouldn’t exceed 30%. Auto-stabilization eases all tasks related to riding by two steps. Moves a long distance each round on self-deploying bridge or an average of 190 km/h (120 mph) during long-distance travel. 
 
 Hard-light cycles can also be used as gladiatorial vehicles, modified to lay a forcefield wall trail behind rather than a bridge underneath, against opponents on similar cycles in a limited area with speedometers partly disabled.
 
-Hover speedster, battle 
+{{< hint danger >}} {{< columns2 >}} Hover speedster, battle 
 
-level 6 (18) 
-
+level <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Very Expensive
 
 As hover speedster, with the addition of reinforced cowling providing the rider Armor 2. Built-in weapons include deployable swivel long-range energy weapons that inflict 9 points of damage.
@@ -4592,34 +4580,30 @@ Buying a car at the bottom of its price range usually means the car isn’t top 
 
 ## CONTEMPORARY
 
-Car, used 
+{{< hint danger >}} {{< columns2 >}} Car, used 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive to Very Expensive 
 
 Four-wheeled vehicle, supporting a slightly dented and rusted metallic frame with seats for a driver and up to four additional passengers; operable/easily breakable glass windows give openness to environment. Moves a long distance each round on paved surfaces or an average of 80 km/h (50 mph) during extended trips. 
 
-Car, sedan 
+{{< hint danger >}} {{< columns2 >}} Car, sedan 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Expensive to Very Expensive 
 
 As used car, but in better shape. Moves a long distance each round on paved surfaces or an average of 96 km/h (60 mph) during extended trips.
 
-Car, sports 
+{{< hint danger >}} {{< columns2 >}} Car, sports 
 
-level 6 (18) 
-
+level <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Very Expensive to Exorbitant 
 
 Four-wheeled vehicle, supporting a “rolling work of art” frame focusing on flamboyance and swagger, sometimes at the expense of practicality and efficiency. Seats for a driver and usually only a single passenger; operable/easily breakable glass windows (and or retractable hardtop) provide openness to environment. Auto-stabilization eases all tasks related to driving. Moves a long distance each round on paved surfaces or an average of 144 km/h (90 mph) during extended trips. 
 
-Car, utility 
+{{< hint danger >}} {{< columns2 >}} Car, utility 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Expensive to Very Expensive 
 
 Four-wheeled vehicle, supporting a frame in a van or truck configuration that prioritizes carrying cargo over passengers (though up to ten additional passengers, in addition to the driver, could squeeze into a van or into the open bed of truck). Operable/easily breakable glass windows (and/or retractable hardtop) provide openness to environment. Moves a long distance each round on paved surfaces or an average of 96 km/h (60 mph) during extended trips.
@@ -4634,43 +4618,38 @@ Very Expensive 
 
 Hover frame with a seat for driver and up to four other passengers, often open to the environment (luxury versions have retractable hardtops). Inboard (or external) rotors force air down, allowing the vehicle to hover up to 1 m (3 feet) over any terrain (including water and other liquids). Ideal for utterly wild terrain and over-water excursions. Moves a long distance each round in any terrain or an average of 160 km/h (100 mph) during longdistance travel. 
 
-Land ark 
+### Land Ark 
 
-level 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
  Exorbitant 
 
 Treaded, all-terrain wheels support a completely enclosed interior habitat with five to ten interior chambers arranged either to house one or more families, support scientific research, exploration, spying, or configured for some other purpose to support a team of individuals. Moves an immediate distance each round in utterly wild terrain, a short distance each round in broken terrain or an average of 64 km/h (40 mph) during long-distance travel (double movement on paved surfaces, though a land ark rarely finds roads). 
 
-Land ark, battle 
+{{< hint danger >}} {{< columns2 >}} Land ark, battle 
 
-level 5 (15) 
-
+level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Exorbitant x2 
 
 As land ark (and sometimes called a “battle ark”), but sports superior weapons, though half the interior space. 
 
-Moon buggy 
+### Moon Buggy 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Six-wheeled vehicle, supporting a reinforced, lightly enclosed and pressurized frame with seats for a driver and up to four additional passengers, providing driver and passengers Armor 1 (though if damage is taken, it’s likely a breach has occurred). Auto-stabilization eases all tasks related to driving. Suitable for paved and broken surfaces on airless moons or in polluted or poisonous atmospheres; moves a long distance each round on paved and broken surfaces or an average of 64 km/h (40 mph) during long-distance travel.
 
 ## FANTASTIC  
-Car, flying 
+{{< hint danger >}} {{< columns2 >}} Car, flying 
 
-level 5 (15) 
-
+level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Enclosed (but with retractable hardtop) frame contains seats for a driver and up to four other passengers, providing the driver (and vehicle) Armor 1. Anti-gravity repulsors allow the vehicle to fly within the atmosphere. Flies a very long distance each round in any terrain or an average of 320 km/h (200 mph) during long-distance travel. 
 
-Car, smart 
+{{< hint danger >}} {{< columns2 >}} Car, smart 
 
-level 6 (18) 
-
+level <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 As flying car, but on-board weak AI always handles all driving functions, unless the driver takes control. The AI prioritizes passenger safety, and in the event of a crash, protects all passengers in a brief stasis field (assuming power reserves remain intact).
@@ -4694,51 +4673,45 @@ As flying car, but on-board weak AI always handles all driving functions, unless
 
 ## CONTEMPORARY
 
-Airplane, basic 
+{{< hint danger >}} {{< columns2 >}} Airplane, basic 
 
-level 2 (6) 
-
+level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Enclosed airframe with seats for pilot and one passenger. Operable/easily breakable side glass windows give openness to environment. Flies a long distance each round using a rotating propeller to force air over wings or an average of 225 km/h (140 mph) during extended trips. 
 
-Helicopter 
+### Helicopter 
 
-level 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 Enclosed cockpit with seats for a pilot and up to six passengers. Operable/easily breakable windows give openness to environment. Flies a long distance each round using rotor blades or an average of 225 km/h (140 mph) during extended trips. 
 
-Fighter jet 
+### Fighter Jet 
 
-level 5 (15) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 Swept-back enclosed airframe with seats for a pilot and one passenger. Built-in weapons include very long-range Gatling-style cannons. Flies a very long distance each round using jets or an average of over 1,125 km/h (700 mph) during extended trips.
 
 ## ADVANCED  
-Cloud surfing board 
+### Cloud Surfing Board 
 
-level 1 (3) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 1 (3) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 A 4 m (12 feet) long, smart-plastic flying wing open to the environment on which a single rider stands; rider must succeed on a difficulty 1 Speed roll each round. In combat, it moves a long distance each round, but on extended trips, it can move up to 130 km/h (80 mph). Often used for cloud surfing on Venus. 
 
-Jetpack 
+### Jetpack 
 
-level 2 (6) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Harness lofts pilot over the ground using variable microjets, allowing the user to fly. Open to the environment (requiring user to wear protective gear). Flies a very long distance each round or an average of 190 km/h (120 mph) during long-distance travel, though the pack must be refueled every 1000 miles. 
 
-VTOL hyperjet 
+### Vtol Hyperjet 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 Swept-back enclosed airframe with seats for a pilot and up to eight passengers. Built-in weapons include long-range Gatling-style cannons (treat as superior weapons). VTOL (vertical take-off and landing) allows the hyperjet incredible maneuverability. Auto-stabilization eases all tasks related to piloting (other than vehicular combat). Flies a very long distance each round using jets or an average of over 2,410 km/h (1,500 mph) during extended trips.
@@ -4751,51 +4724,45 @@ Exorbitant
 
 As VTOL hyperjet, but with superior stealth instead of superior weapons. 
 
-VTOL seawing 
+### Vtol Seawing 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 As VTOL hyperjet, but sacrifices weapons so it can operate both in the air and underwater as a submersible. Able to move a long distance each round underwater or 80 km/h (50 mph) during extended trips underwater. 
 
-Zeppelin, yacht 
+{{< hint danger >}} {{< columns2 >}} Zeppelin, yacht 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 This luxury flying vehicle boasts a completely enclosed interior habitat with five to ten interior chambers arranged either to house one or more families, support scientific research, exploration, spying, or configured for some other purpose to support a team of individuals. Moves a short distance each round or an average of 160 km/h (100 mph) during extended travel (half or double that depending on air conditions).
 
 ## FANTASTIC  
-Hoverboard 
+### Hoverboard 
 
-level 2 (6) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 Configurable from being as small as a skateboard suitable for one rider up to a disk 1.5 m (5 feet) in diameter. Auto-stabilization eases all tasks related to riding. Open to the environment (requiring user to wear protective gear). Flies a long distance each round or an average of 225 km/h (140 mph) during long-distance travel. 
 
-Orb, personal
+{{< hint danger >}} {{< columns2 >}} Orb, personal
 
-level 2 (6) 
-
+level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Deployed from a fist-sized sphere as an action, the personal orb takes shape around a single traveler, forming an environment force field that shields wind and air turbulence, keeping the atmosphere at a comfortable temperature, and providing Armor 1. Once deployed, the orb pilots itself as directly as possible, flying to a destination at very long distance per round or up to 480 km/h (300 mph) during an extended trip, with a maximum duration of up to thirty-six hours. Personal orbs are usually single-use transports.
 
-Hard-light jet 
+### Hard-Light Jet 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 Composed of hard light and pseudo-matter, this futuristic airframe has seats for a pilot and up to two passengers. Built-in weapons include very long-range energy cannons. Auto-stabilization eases all tasks related to piloting by two steps (except for vehicular combat). Flies a very long distance each round using jets or an average of over 8,000 km/h (5,000 mph) during extended trips, and can even make low-orbit rendezvous. 
 
-Teleportation disc 
+### Teleportation Disc 
 
-level 6 (18) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 Immovable disc-shaped pad (or hollow free-standing ring) keyed to one or more locations within 160 km (100 miles); step on the disc (or pass through the ring) and appear at the keyed location. Discs of level 9 and above can teleport users between planets or even stars, like small versions of stellar gates.
@@ -4819,148 +4786,131 @@ Immovable disc-shaped pad (or hollow free-standing ring) keyed to one or more lo
 
 ## CONTEMPORARY
 
-Jet ski 
+### Jet Ski 
 
-level 2 (6) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 A stylish seaworthy hull with a seat for one rider (and sometimes a passenger) open to the environment; moves a long distance each round or up to 112 km/h (65 mph) on calm water (half movement rates in choppy water). 
 
-Motorboat 
+### Motorboat 
 
-level 2 (6) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Seaworthy hull with a seat for a pilot and up to eight passengers. Open to the environment; moves a long distance each round or up to 80 km/h (50 mph) on calm water (half movement rates in choppy water). Used motorboats can be had at moderate prices but actions related to operating it are subject to automatic GM intrusions on a d20 die roll of 1 or 2. 
 
-Motorboat, performance 
+{{< hint danger >}} {{< columns2 >}} Motorboat, performance 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 As motorboat, but can reach speeds over 128 km/h (80 mph). 
 
-Submersible, personal 
+{{< hint danger >}} {{< columns2 >}} Submersible, personal 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 Completely enclosed and water-tight hull with a seat for a pilot (and up to one passenger); moves a short distance each round underwater or up to 50 km/h (30 mph) on an extended trip. Minimal options for docking with other underwater craft or manipulating the environment without customization. 
 
-Yacht 
+### Yacht 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 Seaworthy hull with a deck section open to the air and sections completely enclosed with five to ten interior chambers suitable for living, leisure, supporting scientific research, exploration, spying, or configured for some other purpose to support a team of individuals. Moves a long distance each round or up to 80 km/h (50 mph) on calm water (half movement rates in choppy water). 
 
-Gunboat, fast attack craft 
+{{< hint danger >}} {{< columns2 >}} Gunboat, fast attack craft 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 A fast attack craft (FAC) is relatively small and agile (compared to more massive warships), armed with anti-ship missiles, guns, and/or torpedoes. Features both open decks and a couple of completely enclosed interior chambers. A gunboat is cramped, has little room for food or water, and is not as seaworthy as it could be (all tasks related to operating the craft, except vehicular combat, are hindered). Moves a long distance each round or up to 96 km/h (60 mph) on calm water (half movement rates in choppy water). Requires a trained crew and central coordination to operate.
 
-Submarine 
+### Submarine 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 Massive underwater craft armed with torpedoes and surface-to-air missiles. Completely enclosed interior chambers provide the crew (and vehicle) Armor 4 as well as breathable air and pressure; lots of room for crew, supplies, and so on. Moves a long distance underwater each round or up to 75 km/h (47 mph). Requires a trained crew and central coordination to operate. 
 
-Warship, destroyer  
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Warship, destroyer  
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 Massive water-going craft armed with anti-ship missiles, surface-to-air missiles, guns, and torpedoes, as well as hangars for one or two armed helicopters; treat as having superior weapons during vehicular combat. Features both open decks and many completely enclosed interior chambers. Lots of room for crew, supplies, and so on. Moves a long distance each round or up to 64 km/h (40 mph) on calm water (half movement rates in choppy water). Requires a trained crew and central coordination to operate.
 
 ## ADVANCED  
-Sub, waterglide 
+{{< hint danger >}} {{< columns2 >}} Sub, waterglide 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 As personal submersible, but supercavitation technology allows incredible speeds underwater, allowing the sub to move a very long distance each round or up to 370 km/h (230 mph) on extended trips. 
 
-Yacht, hydroplane 
+{{< hint danger >}} {{< columns2 >}} Yacht, hydroplane 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 As yacht, but can cut through the sea at speeds of up to 480 km/h (300 mph) in calm or stormy weather without risk of capsizing. 
 
-Submarine, supercavitation
+{{< hint danger >}} {{< columns2 >}} Submarine, supercavitation
 
-level 5 (15) 
-
+level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 As submarine, but supercavitation technology allows incredible speeds underwater, allowing the sub to move a very long distance each round or up to 370 km/h (230 mph) on extended trips.
 
 ## FANTASTIC
 
-Manta 
+### Manta 
 
-level 6 (18) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 As hard-light jet, but operates underwater, moving up to a very long distance each round or up to 480 km/h (300 mph) on extended trips.
 
 ## MECHS AND TANKS
 
-CONTEMPORARY 
+### Contemporary 
 
-Tank
+{{< hint danger >}} {{< columns2 >}} Tank
 
- level 4 (12) 
-
+ Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 Rugged caterpillar track supports a completely enclosed frame, contains seats for a driver and up to four other crew; treat as having superior armor. Armed with a central cannon. Moves a short distance each round, or on extended trips, up to 40 km/h (25 mph) on relatively flat terrain, or twice that on paved surfaces. 
 
-ADVANCED 
+{{< hint danger >}} {{< columns2 >}} ADVANCED 
 
 Mech, loader 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Powered anthropomorphic exoskeleton frame partially open to the environment. Grants three free levels of Effort to all lifting and hauling tasks. Moves an immediate distance each round. Attacks in the mech (using its loading arms) are hindered, but inflict 10 points of damage. Moves up to a short distance or up to 24 km/h (15 mph) on extended trips. 
 
-Mech, infantry 
+{{< hint danger >}} {{< columns2 >}} Mech, infantry 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Powered anthropomorphic exoskeleton frame partially open to the environment but provides a single operator Armor 3. Attacks in the infantry mech (using either an electrified blade for melee or a long-range combat rifle) are eased, inflicting 6 points of damage. Moves a short distance or power jumps up to a very long distance once every other round or up to 72 km/h (45 mph) on extended trips. 
 
-Mech, interceptor 
+{{< hint danger >}} {{< columns2 >}} Mech, interceptor 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 As infantry mech, but upgrades include complete and sealed enclosure with life support (qualifying it for vehicular combat). Attacks in the interceptor mech also include a battery of very long-range missiles. An additional flight mode allows the interceptor to fly a very long distance for up to ten minutes before recharge is required. Some mechs have superior weapons, defense, or speed, but that doubles the cost. 
 
-FANTASTIC 
+### Fantastic 
 
-Colossal battle mech 
+{{< hint danger >}} {{< columns2 >}} Colossal Battle Mech 
 
-level 6 (18) 
-
+Level <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 A 78 m (255 feet) tall powered anthropomorphic exoskeleton frame. Creates a sealed enclosure (qualifying it for vehicular combat) with life support for an operator and a crew of up to six people. Armed with a massive “melee” plasma sword and “mech-punch” (melee attacks that can be made at long range), plus very long-range missiles, grenades, and energy weapons, operable by the pilot and crew at up to five different independent weapon stations simultaneously; treat as having superior weapons. Can run and fly up to a very long distance each round, and can even ascend into low orbit for brief periods.
@@ -5070,26 +5020,23 @@ Generally speaking, all tasks for operating a pioneer-era spacecraft are hindere
 
 ## CONTEMPORARY
 
-Space Capsule 
+### Space Capsule 
 
-level 1 (3) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 1 (3) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 Sealed capsule delivered into space by a launch vehicle or shuttle, carries a crew of up to seven or a payload of up to 6,000 kg (13,000 pounds); once delivered into a microgravity environment, becomes a free-flying spacecraft with limited maneuverability, though all piloting tasks are hindered and propellant must be renewed every ten hours of use. Capable of safely returning crew and cargo back down a gravity well though a fiery reentry process that lands the capsule in water for recovery by watercraft. 
 
-Rocket, heavy-lift launch 
+{{< hint danger >}} {{< columns2 >}} Rocket, heavy-lift launch 
 
-level 2 (6) 
-
+level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 Provides access to low orbit and beyond for a cargo of up to 45,350 kg (100,000 pounds) through the coordinated efforts of dozens of engineers and controllers operating and monitoring the vehicle from another location. Extremely limited maneuverability; a detachable space capsule allows for transfer of crew or cargo to orbiting craft or stations from the launch vehicle after ascent. Craft is partially re-usable in that the booster rockets autonomously return to designated pads where they can be refurbished and refueled. 
 
-Shuttle, launch 
+{{< hint danger >}} {{< columns2 >}} Shuttle, launch 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 As heavy-lift launch vehicle, except the main craft can re-enter an atmosphere after delivering a payload and land aerodynamically as a fixed wing craft. Much greater maneuverability than a launch vehicle, both in space and in the air on re-entry, though all piloting tasks are hindered. Refurbishment means essentially rebuilding the spacecraft, and is a process of many months and another priceless expenditure in cost.
@@ -5102,120 +5049,105 @@ Once launched, self-guiding torpedoes engage smart-tracking systems to zero in o
 Advanced spacecraft have advanced propulsion technologies, allowing them to move between planets within a single solar system, with transit times between planets varying from days to weeks (or more, if using a less efficient drive). Most advanced spacecraft can’t land on a planet’s surface unless noted, requiring some secondary craft or means to transfer crew and cargo.
 
 ## ADVANCED  
-Wafercraft, exploration 
+{{< hint danger >}} {{< columns2 >}} Wafercraft, exploration 
 
-level 1 (3) 
-
+level <---> 1 (3) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Miniaturized vehicle just large enough to contain thousands of tiny data flecks and sensor modules, designed to accelerate to 90% the speed of light by use of external launching laser beamed for many years. Data wafers contain encrypted personalities (human and/or AI) capable of gathering data on target solar systems after relative travel times of months (but decades in objective time). 
 
-Microcapsule 
+### Microcapsule 
 
-level 2 (6) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 As space capsule, but smaller. Limited fusion drive allows movement within a given area of space, but a microcapsule usually doesn’t have enough fuel to move between planets. External manipulators allow the pilot to attempt repair and construction tasks without exiting the vehicle. 
 
-Microcapsule, fighter (dart) 
+{{< hint danger >}} {{< columns2 >}} Microcapsule, fighter (dart) 
 
-level 1 (3) 
-
+level <---> 1 (3) {{< /columns2 >}}{{< /hint >}}
 Very Expensive x2 
 
 As microcapsule, but with a laser cannon weapon system capable of targeting another craft. 
 
-Spacecraft, racer 
+{{< hint danger >}} {{< columns2 >}} Spacecraft, racer 
 
-level 1 (3) 
-
+level <---> 1 (3) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 A spacecraft designed only for speed and high-G maneuvers, with space for a single pilot (and maybe one passenger) in cradles fitted for high-G chemical amelioration, easing all piloting tasks by two steps. Travel times across limited interplanetary distances are halved in a racer. Mostly used for competition or as couriers. 
 
-Spacecraft, freighter 
+{{< hint danger >}} {{< columns2 >}} Spacecraft, freighter 
 
-level 2 (6) 
-
+level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 A spacecraft designed to haul cargo between planets with a crew up of to 15. Freighter ships may be quite large, or at least haul cargo that is quite large, but these craft are bulky and not meant for quick changes in direction or combat; all maneuvering and combat tasks are hindered. Able to move interplanetary distances with advanced variable dynamic ion propulsion. Can land and take off from low-gravity moons and dwarf planets. 
 
-Spaceplane 
+### Spaceplane 
 
-level 2 (6) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 As launch shuttle (contemporary), but fulfills the promise of launch (without boosters), operations and maneuverability in orbit, and reentry and landing on a planetary surface, all without need for massive refurbishment or colossal external network of controllers.
 
-Spaceplane, combat (claw) 
+{{< hint danger >}} {{< columns2 >}} Spaceplane, combat (claw) 
 
-level 2 (6) 
-
+level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Exorbitant x2 
 
 As spaceplane, but smaller (with room for a single pilot), fitted with two weapon systems: a laser cannon and one torpedo battery. To move between planets or further, a claw usually relies on a larger carrier or more fantastic means of transport. 
 
-Spacecraft, solar sail 
+{{< hint danger >}} {{< columns2 >}} Spacecraft, solar sail 
 
-level 2 (6) 
-
+level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 A spacecraft designed for long-haul research expeditions around the solar system with a crew of up to five or six, with individual pods designed for induced hibernation during double or triple normal travel times to extend provisions to last several years or longer. No external power is required; solar power provides the motive force. Usually unable to land or ascend from a planetary surface. 
 
-Spacecraft, dragonfly class 
+{{< hint danger >}} {{< columns2 >}} Spacecraft, dragonfly class 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Exorbitant x2 
 
 Has the planetary launch and reentry capabilities of a spaceplane, but is more expansive, able to house a live-in crew of about a dozen people and over 45,350 kg (100,000 pounds) of cargo, with interplanetary (as opposed to merely orbital) range. Life-support lasts three months before restocking supplies is required. The ship includes a bridge, crew quarters, engineering, an impressively large cargo bay, and a bay containing one microcapsule. May have one weapon system. 
 
-Spacecraft, exploration class 
+{{< hint danger >}} {{< columns2 >}} Spacecraft, exploration class 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Exorbitant x3 
 
 As dragonfly class spacecraft, but larger and able to house a crew of about twenty-five people. Customized for exploration with extended range-sensing capabilities and onboard biological and geological labs (among others) for in situ analysis. 
 
-Spacecraft, corvette class 
+{{< hint danger >}} {{< columns2 >}} Spacecraft, corvette class 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 A small warship spacecraft designed for high-G maneuvers, including use of high-G chemical amelioration for a crew of up to fifteen people. Features four weapon systems, including one laser cannon capable of targeting other craft, one torpedo battery, and one superior weapon system in the form of a gauss cannon. Able to move interplanetary distances with advanced variable dynamic ion propulsion. Can land and take off from lowgravity moons and dwarf planets. 
 
-Spacecraft, destroyer class 
+{{< hint danger >}} {{< columns2 >}} Spacecraft, destroyer class 
 
-level 5 (15)
-
+level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
  Priceless As corvette spacecraft, but four times as large, allowing four times the crew and ten weapon systems (including two superior weapon systems). Possesses superior defenses. Often utilized to escort larger vessels in a space fleet or battle group and defend them against swarms of smaller attackers. Includes bays for two fireteams of six microcapsule fighters (darts). 
 
-Spacecraft, dreadnought 
+{{< hint danger >}} {{< columns2 >}} Spacecraft, dreadnought 
 
-level 5 (15) 
-
+level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 As corvette spacecraft, but ten times as large, allowing ten times the crew and twenty weapon systems (including five superior weapon systems). Often utilized to escort larger vessels in a space fleet or battle group and defend them against swarms of smaller attackers. Includes bays for a squadron of fifteen darts and a fireteam of three combat spaceplanes. 
 
-Skyhook
+### Skyhook
 
-level 6 (18) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 Heavy rotating space station orbiting a moon or planet that extends two massive tethers opposite each other, so that one tether periodically dips deep into the atmosphere close to the surface. At this point, payloads are hooked to the end of the cable as the tether passes, and are then flung into orbit by the station’s massive rotation. The skyhook can decelerate and safely de-orbit other payloads in the same way.
 
-Space elevator 
+### Space Elevator 
 
-level 7 (21) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 Tether anchored to the surface of a moon or planet that extends into space along which vehicles can travel, granting access to and from orbital space. A counterweight space station exists at the far end of the tether in what is essentially geostationary orbit.
@@ -5228,10 +5160,9 @@ Starcraft (and other vehicles) of a higher tech rating involved in vehicular com
 
 ## FANTASTIC
 
-Dagger fighter 
+### Dagger Fighter 
 
-level 1 (3) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 1 (3) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 A bare-bones, single-occupant fighter with a single weapon system that fires blasters. Dagger fighters cannot move between stars (though as fantastic craft, can move between planets), and require a larger carrier for FTL movement, such as a capital class starship with suitable docking bays. 
@@ -5244,50 +5175,44 @@ Exorbitant 
 
 A spacecraft designed to haul cargo (or passengers, or both) between stars with a crew up of to twenty-five. Cargo starships may be impressively massive, or at least haul cargo sections that are quite large, but these craft are bulky and not meant for quick changes in direction or combat; all maneuvering and combat tasks are hindered. 
 
-Starship, solo fighter 
+{{< hint danger >}} {{< columns2 >}} Starship, solo fighter 
 
-level 2 (6)
-
+level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
  Exorbitant 
 
 A small double-occupant starship with two weapon systems that fire blasters. Minimum size vehicle capable of FTL travel. 
 
-Starship, general purpose 
+{{< hint danger >}} {{< columns2 >}} Starship, general purpose 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 A small starship with room for only three to six crew plus an integrated ship AI able to handle many routine ship functions including navigation with FTL propulsion system. Designed for exploration of distant locations, salvage operations, and/or to act as a tug-craft for larger ships that need assistance. May possess a single weapon system such as a particle cannon. 
 
-Starship, discovery class 
+{{< hint danger >}} {{< columns2 >}} Starship, discovery class 
 
-level 5 (15) 
-
+level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 A large research starship with quarters for crew and staff of up to 150 or more people. Has either centrifugal artificial gravity (or in a fantastic tech-rated setting, gravitic compensators providing shipboard gravity control). Primarily designed as a research and discovery vehicle, such starships also have three weapon systems, usually a couple of blaster cannons and a torpedo battery. Highly configurable, a discovery class ship could be converted for war with sufficient resources, granting it superior weapons. 
 
-Starship, warship class 
+{{< hint danger >}} {{< columns2 >}} Starship, warship class 
 
-level 5 (15) 
-
+level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 A relatively small warship with gravitic compensators allowing for extreme maneuvering for a crew of up to fifty people, easing all piloting tasks. Six weapon stations include three blaster cannons and three torpedo batteries. Two of these systems are superior weapons. Includes bays for a fireteam of three dagger fighter starships.
 
-Starship, capital class 
+{{< hint danger >}} {{< columns2 >}} Starship, capital class 
 
-level 7 (21) 
-
+level <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 As warship class starship, but over a hundred times larger, with room for over a few hundred crew. Ten weapon stations include five blaster cannons and five torpedo batteries. Four of these are superior weapons. Includes bays for two squadrons of fifteen dagger fighter starships. 
 
-Starship, omega class 
+{{< hint danger >}} {{< columns2 >}} Starship, omega class 
 
-level 10 (30) 
-
+level <---> 10 (30) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 Three times as large again as a capital class starship, an omega class craft has over a thousand crew and over thirty weapon systems. Ten of these are superior weapons. Combined weapon fire can deal significant damage to a planetary surface, possibly destroying it. Includes bays for six squadrons of thirty dagger fighter starships.
@@ -5296,50 +5221,44 @@ Three times as large again as a capital class starship, an omega class craft has
 Stellar gates open wormholes between two fixed points at different locations without crossing the space between. The complexity of building a stellar gate is so extreme that such technology is often ascribed to found portals and networks dating back to mysterious ancient ultras or by post-singularity AIs. As might be expected, gates have a fantastic tech rating, no matter how small.
 
 ## FANTASTIC  
-Gate, planetary 
+{{< hint danger >}} {{< columns2 >}} Gate, planetary 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 A free-standing ring or horizontal circular pad up to 9 m (30 feet) in diameter in/over which a spherical event horizon forms, allowing one-way travel to another location on the planet, orbiting moon, or orbiting space station with similar gate structure. Once the event horizon collapses (after several minutes up to an hour), travel back to the original gate is possible by initiating a second event horizon, though power reserves usually take several hours or more to build up to support each new wormhole opening. 
 
-Gate, interplanetary 
+{{< hint danger >}} {{< columns2 >}} Gate, interplanetary 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 As planetary gate, but twice as large and connects gate structures that lie between locations within a single solar system. 
 
-Gate, star 
+{{< hint danger >}} {{< columns2 >}} Gate, star 
 
-level 5 (15) 
-
+level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 As planetary gate, but four times as large and connects gate structures that lie between locations within a few thousand light-years. 
 
-Gate, galactic 
+{{< hint danger >}} {{< columns2 >}} Gate, galactic 
 
-level 6 (18) 
-
+level <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 As planetary gate, but six times as large and connects gate structures that lie between locations within a single galaxy. 
 
-Gate, intergalactic 
+{{< hint danger >}} {{< columns2 >}} Gate, intergalactic 
 
-level 7 (21) 
-
+level <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 As planetary gate, but six times as large and connects gate structures that lie between locations in different galaxies across the entire breadth of the universe. 
 
-Gate, interdimensional 
+{{< hint danger >}} {{< columns2 >}} Gate, interdimensional 
 
-level 7 (21) 
-
+level <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 As planetary gate, but connects gate structures that lie in alternate dimensions.
@@ -5357,10 +5276,9 @@ Priceless 
 
 As contemporary utility car or sports car, but once moving can transition into another preset dimension or time. Enormous power requirements require recharge period of several days between each use. 
 
-Matrix, temporal 
+{{< hint danger >}} {{< columns2 >}} Matrix, temporal 
 
-level 8 (24) 
-
+level <---> 8 (24) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 An arbitrarily shaped vehicle or structure, bigger on the inside than out, that allows a pilot to travel into different locations in time and space, though arbitrary destinations are sometimes achieved despite apparent navigation successes by the pilot. Enormous power requirements require recharge period of several days between each use.
@@ -5946,9 +5864,9 @@ Level: Like the difficulty of a task, each trap has a level. You use the level t
 
 Description: This general description explains what the trap does, how it operates, whether it resets automatically, if it has a limited number of uses, and so on.
 
-Damage Inflicted: Generally, when a trap hits a creature, it inflicts its level in damage regardless of the form of attack (arrow, poison, collapsing ceiling, and so on). The entries always specify the amount of damage inflicted, even if it’s the normal amount for a trap of its level. 
+**Damage Inflicted:** Generally, when a trap hits a creature, it inflicts its level in damage regardless of the form of attack (arrow, poison, collapsing ceiling, and so on). The entries always specify the amount of damage inflicted, even if it’s the normal amount for a trap of its level. 
 
-Modifications: Use these numbers when a trap’s information says to use a different target number. For example, a level 4 trap might say “defends as level 5,” which means PCs attacking it or trying to disable it must roll a target number of 15 (for difficulty 5) instead of 12 (for difficulty 4). Typical modifiers are to the trap’s attacks, defenses, and stealth (how hard or easy it is to notice the trap). 
+**Modifications:** Use these numbers when a trap’s information says to use a different target number. For example, a level 4 trap might say “defends as level 5,” which means PCs attacking it or trying to disable it must roll a target number of 15 (for difficulty 5) instead of 12 (for difficulty 4). Typical modifiers are to the trap’s attacks, defenses, and stealth (how hard or easy it is to notice the trap). 
 
 GM Intrusion: This entry suggests one or more ways to use GM intrusions in an encounter with the trap. It’s just one possible idea of many, and the GM is encouraged to come up with their own uses of the game mechanic.
 
@@ -5970,181 +5888,164 @@ GM Intrusion: This entry suggests one or more ways to use GM intrusions in an en
 
 - Sleep: The poison knocks the creature unconscious if they fail a defense roll. Typical durations are ten minutes, one hour, and ten hours. The poison might also make the creature groggy, hindering all actions for an additional amount of time equal to how long the unconsciousness would have lasted (for example, knocking out a creature for an hour and then making them groggy for an hour, even if they’re awakened early).
 
-ARROW 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Arrow <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Fires an arrow or crossbow bolt. The simplest one-use trap of this kind is an actual crossbow (perhaps hidden behind a hole in a wall or door) rigged with a tripwire to pull the trigger; a creature would need to manually reset this trap for it to be a danger again. More complex traps might automatically reload from a supply of bolts so the trap can be triggered multiple times, or fire automatically once triggered until the ammunition is expended. A variant of this trap releases a volley of arrows into the targeted area, affecting multiple creatures or the same creature more than once. 
 
-Damage Inflicted: 4 points 
+**Damage Inflicted:** 4 points 
 
-Modifications: Defense and stealth as level 6 (if hidden behind a hole in the wall) 
+**Modifications:** Defense and stealth as level 6 (if hidden behind a hole in the wall) 
 
 GM Intrusion: The arrow is barbed, and removing it inflicts 3 points of damage. The arrow is attached to a string, cord, or wire, with the other end tied to something dangerous like a falling block or an electrical shock.
 
-CRUSHING WALL 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Crushing Wall <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 A section of a wall falls over onto the targeted character. This is usually a one-use trap (although a similar trap could be built in its place). 
 
 A variant of this trap is a deadfall, where something heavy (such as a log, huge stone block, or cart full of rocks) falls from a higher position onto the character. Sometimes the falling block is made to exactly fit a trapped corridor so that triggering the trap makes the area impassible.
 
  A less lethal variant drops a large amount of sand or dirt, inflicting 3 points of ambient damage (ignores Armor). Another variant releases oil (perhaps burning) or marbles, inflicting 3 points of ambient damage and making the area difficult terrain.
 
-Damage Inflicted: 6 points (ignores Armor) 
+**Damage Inflicted:** 6 points (ignores Armor) 
 
 GM Intrusion: The fallen wall blocks access to an exit. The wall debris buries the character, who is trapped until they can dig free. Another trap, hazard, or threat is behind the fallen wall (such as arrow traps or a room full of zombies) and can now reach the characters.
 
-DISINTEGRATION 7 (21)
-
+{{< hint danger >}} {{< columns2 >}} Disintegration <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 A magical ray of eerie energy blasts the character, disrupting their physical matter. Any creature killed by the ray (or any object destroyed by it) turns to dust. 
 
-Damage Inflicted: 15 points 
+**Damage Inflicted:** 15 points 
 
 GM Intrusion: In addition to inflicting damage, the ray moves the character one step down the damage track. Part of the ray splits or ricochets off the character and strikes a second creature, inflicting 10 points of damage. 
 
-EXPLOSIVE GLYPH 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Explosive Glyph <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 A magical rune activates when touched or passed over, exploding in an immediate or short area. Typical glyphs inflict acid, cold, electricity, or fire damage, but more unusual versions include ones that inflict holy, shadow, thorn, unholy, or stranger types of magical energy damage. A nonmagical variant of this trap sprays a mist of acid, a jet of electrified salt water, or a gout of burning oil. 
 
-Damage Inflicted: 4 points of energy damage (ignores Armor); all creatures in the area take 1 point of damage even if they make their defense roll. 
+**Damage Inflicted:** 4 points of energy damage (ignores Armor); all creatures in the area take 1 point of damage even if they make their defense roll. 
 
-Modifications: Stealth as level 5 
+**Modifications:** Stealth as level 5 
 
 GM Intrusion: The glyph marks the character’s face with a symbol indicating they are a thief. The glyph makes the character run away in fear for one minute. The character is cursed, and all of their actions are hindered until the curse is removed.
 
-FLOODING ROOM 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Flooding Room <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Exits to the room close off and the area starts to fill with water. Within a few minutes, the entire room is flooded and creatures in it begin to drown. 
 
 A variant of this room reduces the air pressure (either by pumping it out through tiny holes or by retracting the floor or ceiling). As the air gets thinner, characters are hindered by one, two, or three steps before falling unconscious and starting to suffocate. (Restoring the air allows the characters to awaken, but doesn’t move them back up the damage track.) 
 
-Damage Inflicted: None until drowning starts 
+**Damage Inflicted:** None until drowning starts 
 
-Modifications: Defends as level 7 
+**Modifications:** Defends as level 7 
 
 GM Intrusion: Hostile creatures such as piranhas or electric eels are in the water and attack all creatures. The room fills with water faster than expected because the floor and/or ceiling are also moving toward each other.
 
-MANGLER 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Mangler <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 A small hole in the wall extends sharp blades or weights when a creature reaches into it, mangling their hand and hindering all actions requiring that hand by one or two steps. 
 
 A floor variant is a small trapdoor over a closed compartment, which mangles the character’s foot when they step on the trapdoor, reducing their movement speed by half.
 
  Another variant is a needle trap attached to a small peephole or spyhole in a door or wall. The trap springs when the character touches the area around the hole (even a slight touch with their face as they look is sufficient), inflicting lasting damage to the character’s eye and partially blinding them. A gentler variant traps the character’s limb in glue instead of inflicting damage. The character’s extremity might be glued to the hole, or they may be able to pull free but have a glue pot stuck on their hand or foot. 
 
-Damage Inflicted: 3 points, plus lasting damage 
+**Damage Inflicted:** 3 points, plus lasting damage 
 
-Modifications: Stealth as level 4 
+**Modifications:** Stealth as level 4 
 
 GM Intrusion: The trap has hooks, holding the character in place and inflicting damage when they try to escape if they fail a Speed defense roll. The glue attracts a swarm of fire ants or wasps. The glue is also a slow-acting acid or poison.
 
-NET 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Net <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 A net suspended above the character drops and constricts (and perhaps lifts the character off the ground). Large net traps can affect multiple creatures at once. This kind of trap usually requires a creature to manually reset it.
 
 A variant of this trap is a snare made of sturdy cord or wire. 
 
-Damage Inflicted: Entanglement (trapped character cannot move until they use an action to make a Might or Speed defense roll to break or escape the net) 
+**Damage Inflicted:** Entanglement (trapped character cannot move until they use an action to make a Might or Speed defense roll to break or escape the net) 
 
-Modifications: Attacks as level 5, defends as level 2 
+**Modifications:** Attacks as level 5, defends as level 2 
 
 GM Intrusion: The net is barbed, inflicting 1 point of damage each round that the trapped character tries to move. The net is the nesting place for biting insects, which swarm and attack the trapped character and all nearby creatures each round.
 
-PIT 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Pit <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 A trapdoor in the floor opens, dropping the triggering character into a pit. Larger versions of this trap can catch multiple characters at once. The trap can be reset by moving the trapdoor back into its closed position. In outdoor areas, this trap is more likely to be a pit covered in leafy branches (or a tarp) and camouflaged by soil and other debris. 
 
 A variant of this trap is a bridge over a chasm, river, or other dangerous location that is rigged to collapse when enough weight reaches the middle section. 
 
-Damage Inflicted: 1 point of ambient damage per 10 feet fallen (ignores Armor) 
+**Damage Inflicted:** 1 point of ambient damage per 10 feet fallen (ignores Armor) 
 
 GM Intrusion: The trapdoor is slippery with oil, hindering attempts to catch the edge and avoid falling. The trapdoor closes after the character falls through, trapping them inside in the darkness. The walls of the pit are greased, hindering attempts to climb out by two steps. A dangerous creature is at the bottom of the pit (or in a room adjacent to it). The pit is filled with poison gas. The trapdoor detaches and falls into the pit, inflicting 1 point of ambient damage per 10 feet it falls. The pit has spikes at the bottom, inflicting an additional 4 points of damage to anyone who falls in.
 
-POISON GAS 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Poison Gas <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 The area slowly fills with poison gas. Because it takes a minute or more for the poison to become thick enough to cause harm, it is likely that the character won’t realize at first that they’ve sprung a trap. 
 
 A variant of this trap fills the room with flammable gas, which explodes if there is an open flame (such as from a torch) or a spark (such as a metal weapon against metal armor), inflicting fire damage equal to the trap’s level. 
 
 A further variant fills the room with dead air (containing no oxygen), which slowly extinguishes flames and suffocates creatures. 
 
-Damage Inflicted: As poison 
+**Damage Inflicted:** As poison 
 
-Modifications: Stealth as level 5 
+**Modifications:** Stealth as level 5 
 
 GM Intrusion: The character has an allergic reaction to the gas, which hinders all their actions for an hour after exposure because of sneezing, watery eyes, or itchy skin. The gas makes the character hallucinate, mistaking their companions for enemies, until they make an Intellect defense roll. The gas is flammable.
 
-POISON NEEDLE 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Poison Needle <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 A poisoned needle jabs at a character touching the trapped object (usually a lock or treasure chest) or is fired from a mechanism similar to an arrow trap. It may have a reservoir of poison that allows it to attack several times. 
 
-Damage Inflicted: 1 point (plus poison)
+**Damage Inflicted:** 1 point (plus poison)
 
-Modifications: Stealth as level 6 
+**Modifications:** Stealth as level 6 
 
 GM Intrusion: The trap releases acid into the lock mechanism, making the trapped object impossible to unlock. The trap releases acid into the container, destroying some of the valuables inside. The trap releases a puff of poison gas instead of a poisoned needle, affecting all nearby characters.
 
-PORTCULLIS 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Portcullis <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 An iron portcullis drops from the ceiling to block access to an area or separate a character from others nearby. If the creature dodging the falling portcullis wants to choose which side of the trap they end up on, the Speed defense roll is hindered. Otherwise, it is even chances what side they end up on. 
 
 A variant of this trap is a solid wall. A magical variant is a force field. 
 
-Damage Inflicted: 5 points
+**Damage Inflicted:** 5 points
 
 GM Intrusion: The portcullis impales the character, trapping them beneath it until it is lifted or destroyed. The portcullis is electrified, inflicting 1 point of damage each time it is touched or attacked with flesh or a metal object. A second portcullis drops nearby, trapping a character in a small area. Murder-holes in the ceiling allow enemies to make ranged attacks on the trapped character.
 
-ROLLING BOULDER 6 (12)
-
+{{< hint danger >}} {{< columns2 >}} Rolling Boulder <---> 6 (12) {{< /columns2 >}}{{< /hint >}}
 A large boulder, wheel, or barrel rolls into the area, crushing anything in its path. Depending on the configuration of the area, the boulder might follow a specific path, ricochet erratically, break open pit traps, or get stuck somewhere. 
 
 A variant is a large iron weight on a chain that swings from the ceiling. The weight swings back and forth several times, giving it multiple chances to hit the characters, but decreasing its damage with each swing until it stops and becomes an obstacle. 
 
-Damage Inflicted: 6 points 
+**Damage Inflicted:** 6 points 
 
-Modifications: Defends as level 7 
+**Modifications:** Defends as level 7 
 
 GM Intrusion: The boulder crashes through a door or wall, giving other dangerous creatures access to the character’s location. The boulder blocks the way out. The boulder carries a character along with it for some distance. The boulder is hollow and full of burning oil, leaving a fiery trail behind it. The boulder is hollow and contains undead skeletons, which jump out as it moves and attack nearby creatures.
 
-SLICING BLADE 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Slicing Blade <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 A thin blade slices out from a gap in the wall, floor, or ceiling. The trap might be designed to sweep the entire area (such as the width of a corridor) or leave a tiny safe space just beyond the blade’s reach so a creature who knows of the trap can get past it. This kind of trap is usually designed to reset automatically after a minute or has a lever nearby that allows a creature to reset it manually. 
 
-Damage Inflicted: 5 points 
+**Damage Inflicted:** 5 points 
 
-Modifications: Attacks as level 6 
+**Modifications:** Attacks as level 6 
 
 GM Intrusion: The blade is a magical weapon with an additional effect, such as inflicting 3 points of fire damage. The blade is rusted and breaks off when it hits the character, inflicting 1 point of damage (ignores Armor) each round after the initial attack until it is healed.
 
-SLIDING STAIR 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Sliding Stair <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 A stairway or section of stairs unexpectedly turns into a ramp. Anyone who makes a Speed defense roll can catch hold near where they were standing; otherwise, they slide or tumble to the bottom and take damage. This kind of trap usually resets after a minute or has a manual reset lever at the top or bottom of the stairs. 
 
-Damage Inflicted: 1 point of ambient damage per 20 feet slid (ignores Armor) 
+**Damage Inflicted:** 1 point of ambient damage per 20 feet slid (ignores Armor) 
 
 GM Intrusion: The trap releases oil, hindering attempts to climb the ramp or stairs by two steps. Tiny blades stick out between the sections of the ramp, inflicting an additional 3 points of damage. The trap releases a boulder to roll down the stairs after the sliding character, inflicting an additional 3 points of damage.
 
-SNAKE PIT 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Snake Pit <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 The trap drops the character into a pit full of snakes or drops a large number of snakes on the character. The snakes immediately attack the character and perhaps others in the area. 
 
-Damage Inflicted: As per the swarm of snakes 
+**Damage Inflicted:** As per the swarm of snakes 
 
 GM Intrusion: The snake poison is especially potent, moving the character one step down the damage track if they fail a Might defense roll. The snakes constrict the character, hindering their actions until the snakes are defeated.
 
-SPEAR 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Spear <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 The trap fires a spear, javelin, or other large projectile. (In many ways, this is a scaled-up and more dangerous version of an arrow trap, and the same suggestions for that trap apply to this one.) 
 
-Damage Inflicted: 6 points 
+**Damage Inflicted:** 6 points 
 
-Modifications: Defense and stealth as level 5 (if hidden behind a hole in a wall) 
+**Modifications:** Defense and stealth as level 5 (if hidden behind a hole in a wall) 
 
 GM Intrusion: The impact of the spear knocks the character prone. The spear is barbed, and removing it inflicts 3 points of damage. The spear is attached to a string, cord, or wire, with the other end tied to something dangerous like a falling block or an electrical shock
 
-TELEPORTER 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Teleporter <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 The trap magically moves the character to another location within about 1,000 feet (300 m), typically a prison cell, an oubliette, or a very deep pit. It’s more efficient to kill an intruder than to teleport them, so teleportation is usually reserved for trapping creatures for interrogation. 
 
-Damage Inflicted: None 
+**Damage Inflicted:** None 
 
 GM Intrusion: The teleport destination is above the ground, causing the character to fall some distance and take damage (1 point of ambient damage per 10 feet fallen). The destination is dangerous, such as a tiny room lined with spikes, a shark tank, or a boulder in a lava lake.
 
@@ -7036,7 +6937,7 @@ Blood Magician: When you wish it, you can use points from your Might Pool rather
 
 Bound Magic Familiar: You have a magic familiar bound to you through a magical mark on your body (a tattoo, rune, scar, or something as mundane as a freckle or mole). Normally, the familiar remains sleeping in its spiritual form. When you use an action to manifest them, they appear next to you as a creature with a specific form (such as a cat, hawk, homunculus, tiny dragon, or other suitable magical creature) and can communicate with you telepathically. The familiar is friendly toward you but has its own personality determined by the GM. The familiar can remain physically manifested for up to one hour, after which they return to their sleeping spiritual form and cannot manifest again until after your next ten-hour recovery roll. While manifested, they accompany you and follow your instructions. The familiar must remain within an immediate distance of you; if they move farther away, they are yanked back into their magical mark at the end of your following turn and cannot return until after your next ten-hour recovery roll. The familiar doesn’t make attacks, but they can use their action to grant you an asset for any one attack you make on your turn. Otherwise, they can take actions on their own (though you’ll likely roll for them). If the familiar is reduced to 0 health, they dissipate into their spiritual form and cannot manifest again until 1d6 + 2 days have passed. Action to manifest the familiar.
 
-Magic familiar: level 3, Speed defense as level 5 due to size, one knowledge skill as level 4
+**Magic familiar:** level 3, Speed defense as level 5 due to size, one knowledge skill as level 4
 
 Critter Telekinesis (1 Intellect point): You. telekinetically move a small creature (no larger than a medium dog) an immediate distance in any direction you wish. You must be able to see the creature, which must be your size or smaller, must not be affixed to anything, and must be within short range. The creature safely arrives at your chosen location without any residual force. If the creature knows you and you have a free hand, you can automatically grab the creature as part of the action of using this ability. This ability lacks the fine control to move anything with much speed, so in most situations, it’s used to reposition an animal (such as a pet) out of a dangerous or inconvenient location. For example, you could safely pull a scared cat out from under a bed, retrieve a puppy from a storm drain, or relocate a wild bird that got inside your house. Action.
 
@@ -7076,7 +6977,7 @@ You can replace a dead familiar (or revive them, if you have their remains) by p
 
 Enabler.
 
-Soul familiar: level 2, Speed defense as level 4 due to size
+**Soul familiar:** level 2, Speed defense as level 4 due to size
 
 A soul familiar with an animal form looks like a normal animal—there’s nothing obvious about them to indicate they’re anything other than what they appear to be.
 
@@ -7541,7 +7442,7 @@ Use the following as examples or suggestions of what a character gains when in t
 
 Aquatic: The animal either breathes water instead of air or is able to breathe water in addition to breathing air.
 
-Armor: The animal has a thick hide or shell, granting +1 to Armor.
+**Armor:** The animal has a thick hide or shell, granting +1 to Armor.
 
 Constrict: The animal can grip its opponent fast after making a melee attack (usually with a bite or claw), easing attack rolls against that foe on later turns until it releases the foe.
 
@@ -9130,7 +9031,7 @@ Your wooden body might be smooth like a polished board, rough like tree bark, or
 
 Aquatic: The animal either breathes water instead of air or is able to breathe water in addition to breathing air.
 
-Armor: The animal has a thick hide or shell, granting +1 to Armor.
+**Armor:** The animal has a thick hide or shell, granting +1 to Armor.
 
 Constrict: The animal can grip its opponent fast after making a melee attack (usually with a bite or claw), easing attack rolls against that foe on later turns until the animal releases the foe.
 
@@ -9294,55 +9195,53 @@ CREATURES AND NPCs
 
 ## MODERN MAGIC CREATURES
 
-BARGAINER FIEND 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Bargainer Fiend <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Bargainer fiends are natives of “hell dimensions” whose job is to come to the mortal world and convince people to barter or trade their souls. Their natural shape is usually a lanky humanoid with horns, claws, vestigial bat wings, and a forked tail, with a faint smell of brimstone, but they can partially or completely disguise themselves as humans to tempt and advise mortals.
 
 Typical devils are warriors and torturers, and demons are mortal souls reforged into entities of pure spite and hate, whereas bargainer fiends see themselves as classier beings with loftier goals. However, bargainers are aware that they are weaker than their counterparts, and they make sure they don’t do any front-line fighting if they can help it.
 
-Motive: Bargain for souls
+**Motive:** Bargain for souls
 
-Environment: Anywhere humans can be found
+**Environment:** Anywhere humans can be found
 
-Health: 9
+**Health:** 9
 
-Damage Inflicted: 4 points
+**Damage Inflicted:** 4 points
 
-Armor: 2
+**Armor:** 2
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Deception as level 5
+**Modifications:** Deception as level 5
 
-Combat: A bargainer fiend attacks with a punch or a firearm. If they aren’t trying to hide their inhuman nature, they throw short-range bolts of painful hellfire, inflicting 4 points of damage and stunning the target for one round.
+**Combat:** A bargainer fiend attacks with a punch or a firearm. If they aren’t trying to hide their inhuman nature, they throw short-range bolts of painful hellfire, inflicting 4 points of damage and stunning the target for one round.
 
 The heart of a bargainer fiend’s power is its ability to arrange for rewards for a mortal client in exchange for the client’s soul. Typical rewards are training in a skill, learning a new type or focus ability, wealth equivalent to one exorbitant item, an artifact, or anything else that can be acquired by spending 4 XP. The price is always the client’s mortal soul, usually after a specific time period. Bigger demands by the client require the fiend to get approval from their superiors, and the price is higher, but usually still manageable.
 
 A bargainer fiend can use an action to transform themself into a human or near-human form (such as a human with devil horns) or return to their natural form. They can assume the guise of a specific human (such as a person their client knows) only if that human is dead or has an agreement with a bargainer fiend.
 
-Interaction: Bargainer fiends serve at the pleasure of their infernal masters, and they know their lives are forfeit if they ever fail. This colors their interactions with clients; they will say anything to accomplish their mission, and their only true loyalty is to the fiend who created and controls them.
+**Interaction:** Bargainer fiends serve at the pleasure of their infernal masters, and they know their lives are forfeit if they ever fail. This colors their interactions with clients; they will say anything to accomplish their mission, and their only true loyalty is to the fiend who created and controls them.
 
-Use: A motivational speaker offers to teach clients confidence and charm, with great results. An old sorcerer knows some rare magic for those willing to pay a steep price. A mysterious person has been seen visiting people in the terminal ward of various hospitals.
+**Use:** A motivational speaker offers to teach clients confidence and charm, with great results. An old sorcerer knows some rare magic for those willing to pay a steep price. A mysterious person has been seen visiting people in the terminal ward of various hospitals.
 
-Loot: A bargainer fiend may have a cypher relating to their duties or as a gift or payment for a client, but most of their material riches are hell-crafted and not safe to carry for long.
+**Loot:** A bargainer fiend may have a cypher relating to their duties or as a gift or payment for a client, but most of their material riches are hell-crafted and not safe to carry for long.
 
-DIVINITY OF THE CITY 8 (24)
-
+{{< hint danger >}} {{< columns2 >}} Divinity Of The City <---> 8 (24) {{< /columns2 >}}{{< /hint >}}
 Divinities of the city are a pantheon of modern-era demigods who have a strong connection to some aspect of urban life. They get their powers from their connection to a modern element that’s being worshipped. For example, the Divinity of Defacement gains power when someone creates graffiti or stares in wonder at a mural, while the Divinity of Urban Creatures grows stronger each time someone saves a turtle from a highway or shivers at coyotes’ calls. Divinities look mostly humanoid, but their appearance has some tie to their connection. The Divinity of Defacement might wear graffiti-themed clothing, the Divinity of Urban Creatures might have a bear’s head, and the Divinity of Architecture might have gargoyle wings.
 
-Motive: Defense; protection; power
+**Motive:** Defense; protection; power
 
-Environment: Urban landscapes
+**Environment:** Urban landscapes
 
-Health: 75
+**Health:** 75
 
-Damage Inflicted: 8 points
+**Damage Inflicted:** 8 points
 
-Armor: 4
+**Armor:** 4
 
-Movement: Short; long when flying
+**Movement:** Short; long when flying
 
-Combat: Divinities attack a foe up to a long distance away with a spell related to their connection (sending a pack of rabid raccoons after a foe, lifting a highway, or having a mural attack). These attacks inflict 8 points of damage on a single target or, if the divinity chooses, the attack hits all targets within short range of the destination for 6 points of damage.
+**Combat:** Divinities attack a foe up to a long distance away with a spell related to their connection (sending a pack of rabid raccoons after a foe, lifting a highway, or having a mural attack). These attacks inflict 8 points of damage on a single target or, if the divinity chooses, the attack hits all targets within short range of the destination for 6 points of damage.
 
 Most divinities have a close-range attack as well, such as turning into a coyote and attacking their target with tooth and claw or grabbing a painted weapon out of a wall mural.
 
@@ -9356,61 +9255,59 @@ Heal: The divinity heals themself, a creature, or an object for 5 points of dama
 
 Illusion: Divinities can cast elaborate and convincing illusions over their domain, making the area seem more appealing, beautiful, or dangerous. Illusions cover up to a ten-block area and last for up to an hour. Seeing through one is a level 8 task.
 
-Interaction: Divinities rarely care about humans unless they’re connected to their particular part of the urban landscape. Sometimes they can be persuaded or negotiated with, but not if the character has previously damaged or endangered the divinity’s connection—for example, a poacher of urban wildlife probably has no chance of interacting positively with a Divinity of Urban Creatures.
+**Interaction:** Divinities rarely care about humans unless they’re connected to their particular part of the urban landscape. Sometimes they can be persuaded or negotiated with, but not if the character has previously damaged or endangered the divinity’s connection—for example, a poacher of urban wildlife probably has no chance of interacting positively with a Divinity of Urban Creatures.
 
-Use: A divinity is a powerful aggressive or defensive force, putting the PCs in a position where they must fight or negotiate to prevent death and destruction. In addition to situations where a divinity clashes with those who would exploit them, they may have information or unique magic (such as an unlocking spell) that the characters need to reach a goal.
+**Use:** A divinity is a powerful aggressive or defensive force, putting the PCs in a position where they must fight or negotiate to prevent death and destruction. In addition to situations where a divinity clashes with those who would exploit them, they may have information or unique magic (such as an unlocking spell) that the characters need to reach a goal.
 
-Loot: Divinities rarely carry anything of interest to humans, but they might bequeath to allies a powerful artifact related to some aspect of their domain.
+**Loot:** Divinities rarely carry anything of interest to humans, but they might bequeath to allies a powerful artifact related to some aspect of their domain.
 
-ELEMENTAL, ELECTRICITY 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Elemental, Electricity <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Electricity elementals alternate between a feral-looking humanoid energy form and a near-spherical cloud of intensely glowing sparks. They spontaneously arise when supernatural events take place near high-voltage wires or electrical substations, and their high rate of speed often means they’ve traveled hundreds of miles before anyone realizes they appeared. Extremely mobile and curious, they inadvertently or deliberately cause harm wherever they go.
 
-Motive: Explore and shock
+**Motive:** Explore and shock
 
-Environment: Anywhere electricity can easily reach
+**Environment:** Anywhere electricity can easily reach
 
-Health: 24
+**Health:** 24
 
-Damage Inflicted: 4 points
+**Damage Inflicted:** 4 points
 
-Movement: Short; very long with electrical conduction
+**Movement:** Short; very long with electrical conduction
 
-Modifications: Attacks and Speed defense as level 5 due to quickness; stealth as level 2 due to buzzing noise
+**Modifications:** Attacks and Speed defense as level 5 due to quickness; stealth as level 2 due to buzzing noise
 
-Combat: An electricity elemental strikes twice each round with a limb, or fires one bolt of electricity at a target within short range.
+**Combat:** An electricity elemental strikes twice each round with a limb, or fires one bolt of electricity at a target within short range.
 
 As its action, an elemental can heal itself for up to 4 points of health by draining power from a touched electrical machine, creature (such as a robot), manifest cypher, or artifact. A drained object moves one step down the object damage track. A drained robot takes 4 points of damage. A drained manifest cypher is fully consumed and useless. A drained artifact immediately checks for depletion (artifacts with a depletion of “—” are either immune to this ability or have a depletion of 1 in 1d10 for this purpose).
 
 An electricity elemental can pass through conductive materials at full speed, ignoring obstacles and difficult terrain. An electricity elemental can power any electrical device that runs on household power, but it’s uncomfortable for them and they don’t like doing it.
 
-Interaction: Electricity elementals are somewhat intelligent but perceive and think at much faster rates than humans, so they quickly become frustrated with “slow” communication. They can be summoned and controlled with magic, but there’s a 10% chance the elemental breaks free of the spell and attacks or flees.
+**Interaction:** Electricity elementals are somewhat intelligent but perceive and think at much faster rates than humans, so they quickly become frustrated with “slow” communication. They can be summoned and controlled with magic, but there’s a 10% chance the elemental breaks free of the spell and attacks or flees.
 
-Use: Power grid fluctuations throughout the city may be the result of a roving electricity elemental. Something exploded every car battery along a major street. Something noisy has taken over the eccentric inventor’s workshop.
+**Use:** Power grid fluctuations throughout the city may be the result of a roving electricity elemental. Something exploded every car battery along a major street. Something noisy has taken over the eccentric inventor’s workshop.
 
-GARGOYLE 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Gargoyle <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Gargoyles are stone beings of many shapes and sizes that often start their lives as inanimate decor. However, few stay that way forever. Most alternate between dormancy and animated life during the course of their long existence.
 
 Although their original purpose was to guard places, they are excellent at guarding almost anything, including other living beings. They can become deeply attached to these places and people, and their loyalty also makes them solid friends, companions, and even familiars.
 
 Gargoyles may look like frogs, bunnies, demons, dragons, or any other creature real or imagined. They often (but not always) have wings.
 
-Motive: Guarding
+**Motive:** Guarding
 
-Environment: Cities, especially on older buildings
+**Environment:** Cities, especially on older buildings
 
-Health: 12
+**Health:** 12
 
-Damage Inflicted: 4 points
+**Damage Inflicted:** 4 points
 
-Armor: 3
+**Armor:** 3
 
-Movement: Short; long while flying
+**Movement:** Short; long while flying
 
-Modifications: Seeing through deception, stealth, hiding, and sneaking as level 6
+**Modifications:** Seeing through deception, stealth, hiding, and sneaking as level 6
 
-Combat: Most gargoyles don’t wish to fight and will do so only reluctantly or if something or someone they’re guarding is threatened. Their most basic attack is to throw or fly themselves fully at their foe, hitting the target with their entire body for 4 points of ambient damage (ignores Armor), but they may claw twice, inflicting 4 points of damage with each attack.
+**Combat:** Most gargoyles don’t wish to fight and will do so only reluctantly or if something or someone they’re guarding is threatened. Their most basic attack is to throw or fly themselves fully at their foe, hitting the target with their entire body for 4 points of ambient damage (ignores Armor), but they may claw twice, inflicting 4 points of damage with each attack.
 
 Gargoyles can see in darkness as if it were daylight.
 
@@ -9424,14 +9321,13 @@ Take the Attack: Move up to a short distance on someone else’s turn to take an
 
 Water Spout: Open their mouth and emit a powerful short-distance stream of water that inflicts 4 points of damage to everyone in its path.
 
-Interaction: While gargoyles can be conscripted and tricked into guarding, they’re much more likely to throw themselves into the job if someone takes the time to earn their loyalty. They are not always the smartest, but they are very “grumpy sunshine” and often quite funny.
+**Interaction:** While gargoyles can be conscripted and tricked into guarding, they’re much more likely to throw themselves into the job if someone takes the time to earn their loyalty. They are not always the smartest, but they are very “grumpy sunshine” and often quite funny.
 
-Use: Gargoyles work best when used to defend something. PCs can end up at odds with a gargoyle who thinks (incorrectly or correctly) that their beloved building is in danger, or have to find a gargoyle that for some reason has gone missing from their customary perch.
+**Use:** Gargoyles work best when used to defend something. PCs can end up at odds with a gargoyle who thinks (incorrectly or correctly) that their beloved building is in danger, or have to find a gargoyle that for some reason has gone missing from their customary perch.
 
 Gargoyle Names: All gargoyles have a name, even those that may not have left their dormancy for the first time. However, few will tell someone their real name, as they have a healthy fear of that knowledge being used for ill. Instead, they offer up a nickname, usually something similar, at least until they learn to trust someone fully.
 
-HAUNTED CAR 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Haunted Car <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Whether you call them haunted, possessed, misenchanted, cursed, or just plain evil, some cars develop a hateful will, the ability to drive themselves, and a love for the smell of blood on asphalt.
 
 A haunted car makes a bond with a chosen driver—usually someone with a similarly evil nature, or a meek person the car can influence and control. Over time, the driver might physically transform due to the car’s influence, becoming more attractive, confident, and cruel. The car is jealous of anyone interested in its chosen driver, either pushing the driver to turn them away or hunting them down on its own.
@@ -9444,34 +9340,33 @@ A haunted car lets itself be driven by its chosen driver, but it is capable of d
 >
 > A chosen driver trained or indoctrinated by a haunted car might develop abilities similar to the Drives Like a Maniac focus or, if they can use magic, the Is a Car Wizard focus.
 
-Motive: Violence and vengeance
+**Motive:** Violence and vengeance
 
-Environment: Anywhere cars can go
+**Environment:** Anywhere cars can go
 
-Health: 20
+**Health:** 20
 
-Damage Inflicted: 6 points
+**Damage Inflicted:** 6 points
 
-Armor: 2 or 3
+**Armor:** 2 or 3
 
-Movement: Long (or faster outside of combat)
+**Movement:** Long (or faster outside of combat)
 
-Modifications: Speed defense as level 4 due to size; stealth as level 3 due to size and engine noise
+**Modifications:** Speed defense as level 4 due to size; stealth as level 3 due to size and engine noise
 
-Combat: A haunted car attacks by colliding with or running over a foe, inflicting 6 points of damage. If the car does nothing but move at least a short distance on its turn, its attack in the next round is eased and inflicts an additional 5 points of damage. If a foe is within it, the car moves its interior parts (seats, seat belts, and so on) to crush and choke them, tries to force them out with an open door and a hard turn, or (if all else fails) crashes in an attempt to eject the passenger through the windshield.
+**Combat:** A haunted car attacks by colliding with or running over a foe, inflicting 6 points of damage. If the car does nothing but move at least a short distance on its turn, its attack in the next round is eased and inflicts an additional 5 points of damage. If a foe is within it, the car moves its interior parts (seats, seat belts, and so on) to crush and choke them, tries to force them out with an open door and a hard turn, or (if all else fails) crashes in an attempt to eject the passenger through the windshield.
 
 A haunted car can drive itself a long distance each round and still take another action (such as attacking). Most can reach an overland speed of up to 100 miles per hour (160 kph).
 
 A haunted car with at least 1 health recovers a few points of health every hour. The chosen driver can double this rate by actively repairing the car.
 
-Interaction: A haunted car doesn’t converse or bargain. It lurks, using engine noises and evocative songs from its radio to intimidate and threaten anyone it wants to kill.
+**Interaction:** A haunted car doesn’t converse or bargain. It lurks, using engine noises and evocative songs from its radio to intimidate and threaten anyone it wants to kill.
 
-Use: Haunted cars go looking for trouble or to hurt those who harmed them or their driver.
+**Use:** Haunted cars go looking for trouble or to hurt those who harmed them or their driver.
 
-Loot: A haunted car created by magic might have a few strange bits that can be used as magical cyphers. Otherwise, it’s worth whatever cash a chop shop or junkyard will pay for it—assuming that won’t just spread its malice to other vehicles . . .
+**Loot:** A haunted car created by magic might have a few strange bits that can be used as magical cyphers. Otherwise, it’s worth whatever cash a chop shop or junkyard will pay for it—assuming that won’t just spread its malice to other vehicles . . .
 
-HELL MARY 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Hell Mary <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Say her name thirteen times, but only if you dare. Over the ages, Hell Mary has been rumored to be a ghost, a witch, a demon, and a hoax, and perhaps she has been all of these over time. But now she is none of these and more—over the years of worship and wonder and whispers, she has morphed into something far greater than the sum of her parts.
 
 Now she is a demon, built of blood and bone and sustained purely by revenge.
@@ -9480,27 +9375,27 @@ Those who wish to call her merely need say her name thirteen times while looking
 
 In the mirror, she looks at first like a glare of light, then as a skeleton or dead body, then as a woman with the face of a nightmare—empty eye sockets and a single bloodshot eye in her forehead. Her mouth is full of sharpened teeth, and the claws of her hands are curled and silver‑tipped. Her skin and dress are so coated in blood it’s impossible to tell where they end and she begins. As she starts to crawl from the mirror, she moves faster and faster until she pulls herself fully free as a corporeal being. Typically, Hell Mary will not attack creatures that she deems as innocent or unworthy of revenge, unless they provoke her in some way.
 
-Motive: Revenge
+**Motive:** Revenge
 
-Environment: Anywhere with a mirror
+**Environment:** Anywhere with a mirror
 
-Health: 15
+**Health:** 15
 
-Damage Inflicted: 5 points
+**Damage Inflicted:** 5 points
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Intimidation as level 7
+**Modifications:** Intimidation as level 7
 
-Combat: Hell Mary merely has to scream at, strangle, or scratch a foe within immediate range to inflict 5 points of Intellect damage (ignores Armor).
+**Combat:** Hell Mary merely has to scream at, strangle, or scratch a foe within immediate range to inflict 5 points of Intellect damage (ignores Armor).
 
 She can curse a creature within short range to experience intense fear, stunning them for a minute or until they succeed at an Intellect defense roll to break free.
 
 She can possess a willing summoner for a few rounds in order to enact revenge on their behalf. During this time her summoner can only watch, feel, and listen as Hell Mary gets them their retribution.
 
-Interaction: Hell Mary only cares about one thing— revenge. All other topics are likely to fall upon deaf ears.
+**Interaction:** Hell Mary only cares about one thing— revenge. All other topics are likely to fall upon deaf ears.
 
-Use: A character was attacked and calls upon Hell Mary to help them seek revenge. Someone is using Hell Mary to seek revenge (rightfully or wrongfully) upon a character.
+**Use:** A character was attacked and calls upon Hell Mary to help them seek revenge. Someone is using Hell Mary to seek revenge (rightfully or wrongfully) upon a character.
 
 INTERNET D@EMON 3 (9)
 
@@ -9512,21 +9407,21 @@ Most magicians draw the attention of an internet d@emon by using malware cypher 
 >
 > Some magicians have tried partnering with a d@emon, allowing it to feed on their magic in exchange for a daily magic-enhancing cypher, but the d@emon’s hunger usually grows too strong for it to resist taking more magic than the character planned for.
 
-Motive: Hunger for magic
+**Motive:** Hunger for magic
 
-Environment: Computers, smart devices, and areas with strong wireless internet access
+**Environment:** Computers, smart devices, and areas with strong wireless internet access
 
-Health: 9
+**Health:** 9
 
-Damage Inflicted: 3 points
+**Damage Inflicted:** 3 points
 
-Armor: 1
+**Armor:** 1
 
-Movement: Short; travels through the internet at nearly instantaneous speed
+**Movement:** Short; travels through the internet at nearly instantaneous speed
 
-Modifications: Speed defense, perception, and stealth as level 5
+**Modifications:** Speed defense, perception, and stealth as level 5
 
-Combat: A d@emon outside of an internet‑connected device attacks by siphoning magic from a creature within short range, inflicting 3 points of Intellect damage (ignores Armor). However, usually the d@emon prefers to remain hidden within a computer or smart device, slowly and gently draining magic from a nearby creature without being noticed.
+**Combat:** A d@emon outside of an internet‑connected device attacks by siphoning magic from a creature within short range, inflicting 3 points of Intellect damage (ignores Armor). However, usually the d@emon prefers to remain hidden within a computer or smart device, slowly and gently draining magic from a nearby creature without being noticed.
 
 When a magic-capable creature uses a ten‑minute, one-hour, or ten-hour recovery roll within immediate range of a device with an internet d@emon, subtract 1 from the result of the recovery roll. Over time, the d@emon’s siphoning power strengthens, increasing to 2 or even 3 points taken from every recovery roll. An affected creature can attempt a perception task against the d@emon’s stealth modifier to realize that something is tapping into their magic.
 
@@ -9538,89 +9433,86 @@ If the character discovers which app or device the d@emon is associated with, de
 >
 > Use: An internet d@emon usually starts out as an innocuous app subtly draining magic, then switches to an active, aggressive mode when discovered or if starved.
 
-Loot: A destroyed internet d@emon’s physical form leaves behind a lace-like fragment of magical energy that functions as a meditation aid cypher.
+**Loot:** A destroyed internet d@emon’s physical form leaves behind a lace-like fragment of magical energy that functions as a meditation aid cypher.
 
-POLLUTION GOBLIN 2 (6)
-
+{{< hint danger >}} {{< columns2 >}} Pollution Goblin <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Pollution goblins are strange child-sized creatures that arise in environments where pollution or toxic waste is common. Their green skin is covered in scabs and pustules, except where it looks melted by acid, and their eyes have a wicked green glow that’s faintly visible in the dark. They don’t seem to have much of a culture or society, roaming around polluted areas like scavenging insects. They often ignore each other’s presence and never attack each other, but they immediately unite against a common foe if any of them are threatened. A pollution goblin’s semi-liquefied body can slide up or down any firm surface, allowing them to climb anywhere with ease. Pollution goblins have bones and internal organs, but they’re oddly shaped and don’t match those of any known creature. Because of this, and how they quickly melt away if killed, they might actually be artificial beings like homunculi, or inanimate matter given life like an elemental. They seem to arise spontaneously in locations where pollution reaches a threshold, and they don’t reproduce in the normal biological sense. Pollution goblins are stupid and easily tricked, but it doesn’t take long for them to realize they’ve been deceived, and they always make sure to punish someone who fools them.
 
-Motive: Hunger for flesh; spreading filth
+**Motive:** Hunger for flesh; spreading filth
 
-Environment: Anywhere there is pollution, in groups of three to ten
+**Environment:** Anywhere there is pollution, in groups of three to ten
 
-Health: 8
+**Health:** 8
 
-Damage Inflicted: 3 points
+**Damage Inflicted:** 3 points
 
-Armor: 1 (5 against poison and radiation)
+**Armor:** 1 (5 against poison and radiation)
 
-Movement: Short; short when climbing
+**Movement:** Short; short when climbing
 
-Modifications: Might defense as level 3; perception and stealth as level 5; see through deception as level 1
+**Modifications:** Might defense as level 3; perception and stealth as level 5; see through deception as level 1
 
-Combat: Pollution goblins use scavenged weapons to attack prey at range, preferring stolen pistols (usually with only one or two bullets left) or hurled containers of toxic goo. When up close, they bite.
+**Combat:** Pollution goblins use scavenged weapons to attack prey at range, preferring stolen pistols (usually with only one or two bullets left) or hurled containers of toxic goo. When up close, they bite.
 
 A pollution goblin’s body is infused with dangerous chemicals. Any person spending their turn within immediate range of a pollution goblin must succeed at a Might defense roll or become sick. Within an hour, all their tasks are hindered, and for every 24 hours that pass, they must make another Might defense roll or move one step down the damage track (a success ends the sickness).
 
 Pollution goblins regain 2 points of health per round.
 
-Interaction: Pollution goblins have a rudimentary understanding of whatever human language is dominant in their area. Most conversations with them are about acquiring food and protecting and expanding their territory (which means spreading contaminants over a wider area).
+**Interaction:** Pollution goblins have a rudimentary understanding of whatever human language is dominant in their area. Most conversations with them are about acquiring food and protecting and expanding their territory (which means spreading contaminants over a wider area).
 
-Use: Pollution goblins are an early symptom of a larger and greater problem. By the time a group of them is discovered, the area is already poisoned and will take time and money to contain and clean up.
+**Use:** Pollution goblins are an early symptom of a larger and greater problem. By the time a group of them is discovered, the area is already poisoned and will take time and money to contain and clean up.
 
-TELEVISION THOUGHTFORM 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Television Thoughtform <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 A television thoughtform is a nexus of images and videos from TV programming, brought to life—usually accidentally—by unconscious or deliberate magic. Typically, the thoughtform looks like a specific television character in the real world, but objects and even locations have been known to manifest as thoughtforms. The thoughtform isn’t initially aware that they’re a manifestation of a fictional television program, but over time they usually come to realize their artificial origin and that the “world” they lived in and the people they knew there weren’t real. Most thoughtforms adapt to their new situation, but some have a traumatic response to their new reality and become dangerous.
 
 > A thoughtform is a thought or idea made real, usually through intense belief, concentration, or magic. Buddhist philosophy has a similar concept called a “tulpa.”
 >
 > It’s possible to create a thoughtform of a real person out of documentary footage, newscasts, interviews, or other media where the person on the screen is portraying themselves. These thoughtforms tend to have a poor time adjusting to a reality where they are an artificial copy of a real person, rejected by their friends and loved ones.
 
-Motive: Acceptance; adjustment to the real world
+**Motive:** Acceptance; adjustment to the real world
 
-Environment: Anywhere their fictional self would feel comfortable
+**Environment:** Anywhere their fictional self would feel comfortable
 
-Health: 9
+**Health:** 9
 
-Damage Inflicted: 3 or 6 points (see below)
+**Damage Inflicted:** 3 or 6 points (see below)
 
-Armor: 1
+**Armor:** 1
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Intellect defense as level 4; assuming their fictional role as level 5
+**Modifications:** Intellect defense as level 4; assuming their fictional role as level 5
 
-Combat: Television thoughtforms attack using whatever methods are appropriate for their character. For most people, this means improvised weapons like chairs and baseball bats, inflicting 3 points of damage. Battle-competent characters such as police officers, sci-fi soldiers, and fantasy heroes tend to use lethal weapons like pistols and swords, inflicting 6 points of damage.
+**Combat:** Television thoughtforms attack using whatever methods are appropriate for their character. For most people, this means improvised weapons like chairs and baseball bats, inflicting 3 points of damage. Battle-competent characters such as police officers, sci-fi soldiers, and fantasy heroes tend to use lethal weapons like pistols and swords, inflicting 6 points of damage.
 
 Thoughtforms can incidentally alter their own reality in small ways relevant to their fictional self, such as suddenly changing outfits to match the situation, producing useful equipment (like a weapon or mobile phone) out of nothing, or instantly recovering 3 points of health. The thoughtform usually hand-waves how they were able to do this; pressing them on these abilities eventually leads to them learning that they’re a thoughtform. These abilities might happen automatically as part of the thoughtform’s action, or they might use an action to duck out of sight and return after the change has happened.
 
-Interaction: A thoughtform that’s ignorant of their true nature acts exactly as their fictional self would. An aware thoughtform develops their own personality over time, which might be similar to their fictional persona or radically different as a rebellion against how they were “forced” to act.
+**Interaction:** A thoughtform that’s ignorant of their true nature acts exactly as their fictional self would. An aware thoughtform develops their own personality over time, which might be similar to their fictional persona or radically different as a rebellion against how they were “forced” to act.
 
 > Use: Thoughtforms create quirky, interesting, and misleading encounters where PCs and NPCs mistake them for cosplayers, famous actors, people experiencing delusions (about a fictional city or a “hologram program”), or odd local residents (such as a hard-boiled detective or a high-school sports hero or bully). They sometimes know secret information about the media they’re from.
 
-Loot: Although a dead thoughtform and their equipment slowly fades away into nothingness, sometimes they leave behind an interesting cypher.
+**Loot:** Although a dead thoughtform and their equipment slowly fades away into nothingness, sometimes they leave behind an interesting cypher.
 
-URBAN BROWNIE 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Urban Brownie <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 While most people are familiar with rural brownies with their wizened, ragged appearance and their penchant for helping with farming tasks, the urban brownie is a very different type of entity. Having adapted to live in cities and decent-sized towns, urban brownies tend to care much more about their appearance and prefer less outdoorsy forms of labor.
 
 Most are natty dressers, often altering the clothing of large dolls or young children to create well-heeled outfits for themselves. They prefer to have their own private spaces in people’s homes or businesses, but will inhabit small shelters or niches if they can’t find any other home. Many live in coffee shops, finding the offerings of caffeine and pastries well worth the tasks they perform in thanks (usually cleaning, making elegantly lettered signs, and organizing cupboards). They’re most active in the evenings and overnight, but some choose to acclimate to the rhythm of the city they live in and can be seen during the day.
 
 A brownie who feels insulted, disrespected, or unappreciated will quickly become malicious and spread word about whoever treated them so poorly.
 
-Motive: Comfort and security
+**Motive:** Comfort and security
 
-Environment: Homes and shops where food is present
+**Environment:** Homes and shops where food is present
 
-Health: 9
+**Health:** 9
 
-Damage Inflicted: 3 points
+**Damage Inflicted:** 3 points
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Speed defense and movement as level 4 due to size and quickness; perception, riddles, and tricks as level 4
+**Modifications:** Speed defense and movement as level 4 due to size and quickness; perception, riddles, and tricks as level 4
 
-Combat: Brownies are tricksters through and through, and nearly all their abilities fall into this category.
+**Combat:** Brownies are tricksters through and through, and nearly all their abilities fall into this category.
 
 Mend: Spend two rounds mending something that is broken (up to level 5). The item works for two rounds before it returns to its broken state. (This ability does not work on used cyphers or depleted artifacts.)
 
@@ -9634,7 +9526,7 @@ Put That Anywhere: Move an item within short range in such a way that it trips u
 >
 > Interaction: Brownies are typically mischievous and tricky, with a love of puns, riddles, and puzzles. They appreciate those who appreciate them and are a bit like crows in that they long-remember the faces of those who have helped or harmed them.
 
-Use: Brownies are usually supportive characters in a story, but they may be vexing tricksters—or even outright antagonists if living in a home where the primary foe (or a player character) mistreats them. They’re usually overlooked by nonmagical people, so they often witness secret events and have interesting information.
+**Use:** Brownies are usually supportive characters in a story, but they may be vexing tricksters—or even outright antagonists if living in a home where the primary foe (or a player character) mistreats them. They’re usually overlooked by nonmagical people, so they often witness secret events and have interesting information.
 
 > \*Rural brownies have the same stats as urban brownies. The differences between them are mostly in appearance and personality, as rural brownies tend to dress in rags, prefer to work at night, and are not opposed to doing manual labor outdoors in all manner of weather—provided they’re well-rewarded.
 
@@ -9644,19 +9536,19 @@ Vulture spirits look like tall humans with bald heads and horrible, hunched post
 
 Despite prevalent misconceptions, vulture spirits generally prefer not to cause pain and misery—they just feed on what’s already present, providing relief in the process. They’re gentle and reserved, with soft, scratchy voices. The most well-known and well-respected vulture spirits work in medical professions and form symbiotic relationships with their patients.
 
-Motive: Consume anguish
+**Motive:** Consume anguish
 
-Environment: Anywhere pain and misery can be found
+**Environment:** Anywhere pain and misery can be found
 
-Health: 10
+**Health:** 10
 
-Damage Inflicted: 4 points
+**Damage Inflicted:** 4 points
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Intellect defense, perception, and stealth as level 5
+**Modifications:** Intellect defense, perception, and stealth as level 5
 
-Combat: Vulture spirits are rarely violent; they attack when threatened, to defend chosen allies, or out of desperation. A dying vulture spirit may use their last strength to pounce on a creature they judge to be an easy target, subsequently using the pain they inflict to restore their own health.
+**Combat:** Vulture spirits are rarely violent; they attack when threatened, to defend chosen allies, or out of desperation. A dying vulture spirit may use their last strength to pounce on a creature they judge to be an easy target, subsequently using the pain they inflict to restore their own health.
 
 Vulture spirits gain 1 point of health for every minute spent in physical contact with someone (other than a vulture spirit) experiencing pain or suffering, such as a creature below half its normal health or Pool points, a debilitated PC, or someone with a chronic illness. Recovery rolls made while in contact with a vulture spirit are increased by 3 points.
 
@@ -9666,33 +9558,32 @@ Recalling the Worst: Open their mouth and emit a short-distance blast of energy.
 
 Remote Draining: If a creature within short range is experiencing pain or suffering, the vulture spirit can use their action to drain it from that creature. The spirit gains 1 point of health and the creature’s affliction is alleviated for one round.
 
-Interaction: Vulture spirits are clever and shy. They can speak human languages but revert to bird sounds such as screeching, clicking, and trilling when stressed. Though they forage for pain to consume alone, they prefer to live in large groups.
+**Interaction:** Vulture spirits are clever and shy. They can speak human languages but revert to bird sounds such as screeching, clicking, and trilling when stressed. Though they forage for pain to consume alone, they prefer to live in large groups.
 
-Use: Vulture spirits are good for creating eerie encounters about sickness and pain, especially if the player characters mistake the spirit as the cause of the trouble rather than incidental to it.
+**Use:** Vulture spirits are good for creating eerie encounters about sickness and pain, especially if the player characters mistake the spirit as the cause of the trouble rather than incidental to it.
 
-Loot: A vulture spirit’s pockets are full of feathers, altogether which function as a curative cypher.
+**Loot:** A vulture spirit’s pockets are full of feathers, altogether which function as a curative cypher.
 
-WITCHFOX 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Witchfox <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 A witchfox is a supernatural creature whose natural form is that of a fox, but they can transform into a human form and walk among regular people. Like humans, some are evil, some are good, and most are in the middle, but many of the stories and legends are about the bad ones. A witchfox’s fur is usually red, black, or silver, but some are pure white. Witchfoxes often have multiple tails (up to nine); most human legends say the creature gains more tails as it gets older, wiser, and more powerful.
 
 Witchfoxes don’t have human morals, but ones friendly to humans try their best to adapt, with mixed results. For example, a witchfox thinks it’s fine to steal something from a person they dislike and give that item as a gift to someone they like. Most witchfoxes are afraid of dogs and avoid spending time near them or near people who have them.
 
 Witchfoxes are also known as vulps or fox sorcerers.
 
-Motive: Preying on or living in human society; knowledge and power
+**Motive:** Preying on or living in human society; knowledge and power
 
-Environment: Anywhere humans can live, or houses or dens in the forest
+**Environment:** Anywhere humans can live, or houses or dens in the forest
 
-Health: 15
+**Health:** 15
 
-Damage Inflicted: 4 points
+**Damage Inflicted:** 4 points
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Disguise and social interaction as level 6
+**Modifications:** Disguise and social interaction as level 6
 
-Combat: A witchfox in fox form can attack with their bite, and in human form they use human weapons, but in general they prefer magic. Most witchfoxes can use the following abilities.
+**Combat:** A witchfox in fox form can attack with their bite, and in human form they use human weapons, but in general they prefer magic. Most witchfoxes can use the following abilities.
 
 Bewilder: The witchfox enchants a foe within short range who fails an Intellect defense roll. The foe turns on their allies, wanders off, or waits quietly, as directed by the witchfox. This lasts for one minute, or ends early if the character succeeds on an
 
@@ -9706,14 +9597,13 @@ Illusion: The witchfox creates a nonmoving illusion in a short area, such as mak
 
 Magical Blast: The witchfox attacks a creature within short range with electricity, fire, or poison, inflicting 4 points of Might or Speed damage (ignores Armor).
 
-Interaction: A witchfox in human form tries to keep up the pretense of being human for as long as possible. Once their true nature is revealed, they’re likely to bargain for what they want (a home, safety, their magical cravings) or attack or flee if negotiations turn against them.
+**Interaction:** A witchfox in human form tries to keep up the pretense of being human for as long as possible. Once their true nature is revealed, they’re likely to bargain for what they want (a home, safety, their magical cravings) or attack or flee if negotiations turn against them.
 
-Use: A witchfox is potentially a threat, thief, criminal, rival, informant, or romantic partner, depending on their personal attitude and the reaction of the player characters. They like to trade secrets they know in exchange for safety and companionship.
+**Use:** A witchfox is potentially a threat, thief, criminal, rival, informant, or romantic partner, depending on their personal attitude and the reaction of the player characters. They like to trade secrets they know in exchange for safety and companionship.
 
-Loot: A witchfox usually has one or two cyphers and some magical ingredients. Most of their other wealth is actually leaves, twigs, stones, and scrap paper, all covered with illusions.
+**Loot:** A witchfox usually has one or two cyphers and some magical ingredients. Most of their other wealth is actually leaves, twigs, stones, and scrap paper, all covered with illusions.
 
-ZORP 1 (3)
-
+{{< hint danger >}} {{< columns2 >}} Zorp <---> 1 (3) {{< /columns2 >}}{{< /hint >}}
 Zorps are an obnoxious but mostly harmless kind of gremlin. Nobody is quite sure where they come from; they tend to show up randomly with no prompting, but seem to be drawn to people who use magic. As soon as there’s one causing trouble somewhere, more are soon to follow. Zorps combine the most destructive aspects of puppies and young children; they tear up clothing and decorations to craft simple “costumes,” scribble on walls and papers, eat ingredients left out on the kitchen counter, make armpit farts during sentimental moments, whisper insults at guests, spill potted plants, and leave little poops in the middle of the floor.
 
 Zorps communicate effectively with each other using grunts, nonsense words, gestures, and facial expressions. After hearing any spoken language, they can speak and understand that language for a few minutes, but their grammar and vocabulary are childlike. They can easily mimic a person’s voice, but only seem to do so to make fun of them or mislead others.
@@ -9722,27 +9612,27 @@ Zorps communicate effectively with each other using grunts, nonsense words, gest
 >
 > Zorps also tend to “die” if startled or hurt—it’s their automatic reaction to a potential threat, much like a possum “playing possum.”
 
-Motive: Mischief and curiosity
+**Motive:** Mischief and curiosity
 
-Environment: Anywhere there is potential for trouble
+**Environment:** Anywhere there is potential for trouble
 
-Health: 6
+**Health:** 6
 
-Damage Inflicted: 2 points
+**Damage Inflicted:** 2 points
 
-Movement: Short; immediate when climbing or jumping
+**Movement:** Short; immediate when climbing or jumping
 
-Modifications: Attacks as level 2; Speed defense as level 3 due to size and quickness; stealing and stealth as level 4
+**Modifications:** Attacks as level 2; Speed defense as level 3 due to size and quickness; stealing and stealth as level 4
 
-Combat: Zorps only attack when they are threatened, usually by biting or stabbing with an improvised sharp object, but they can just as easily harm foes by dropping heavy things from above, activating dangerous devices in the area, or tripping opponents onto pointy edges and corners. Any of these attacks inflicts 2 points of damage.
+**Combat:** Zorps only attack when they are threatened, usually by biting or stabbing with an improvised sharp object, but they can just as easily harm foes by dropping heavy things from above, activating dangerous devices in the area, or tripping opponents onto pointy edges and corners. Any of these attacks inflicts 2 points of damage.
 
 Zorps are notoriously hard to kill. If an attack would reduce a zorp’s health to 0, it does so only if the number rolled in the attack was an even number; otherwise, the zorp takes no damage but appears to “die” in a burst of purple liquid resembling paint, leaving behind no body. (The zorp actually has scuttled to a hiding space within immediate range and will move farther away as soon as they can do so safely, returning later after recovering health or when their curiosity gets the better of them.)
 
-Interaction: Zorps seem to have the intelligence of a smart dog or a typical toddler but are easily distracted from attempts to communicate. Bribes of candy, wrapping paper, and loud toys can hold their attention for a minute or so.
+**Interaction:** Zorps seem to have the intelligence of a smart dog or a typical toddler but are easily distracted from attempts to communicate. Bribes of candy, wrapping paper, and loud toys can hold their attention for a minute or so.
 
-Use: Zorps are chaotic and mischievous, with no regard for the consequences of their actions or the feelings of others. They’re not intentionally malicious, but they can cause trouble and outright harm simply by “playing” too hard with important things.
+**Use:** Zorps are chaotic and mischievous, with no regard for the consequences of their actions or the feelings of others. They’re not intentionally malicious, but they can cause trouble and outright harm simply by “playing” too hard with important things.
 
-Loot: Zorps rarely hold onto anything for more than a few minutes, but sometimes they might have a stolen manifest cypher.
+**Loot:** Zorps rarely hold onto anything for more than a few minutes, but sometimes they might have a stolen manifest cypher.
 
 ## SUPERPOWERED CREATURES
 
@@ -9820,38 +9710,36 @@ Temporal Apocalypse
 
 If the barriers between time, space, and dimension break down, ushering in a time rip, any creature and NPC from any genre could be encountered, including supervillains, chronophages, kaiju, killer clowns, killing white lights, and melted.
 
-ANGEL OF THE APOCALYPSE 7 (21)
-
+{{< hint danger >}} {{< columns2 >}} Angel Of The Apocalypse <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 If the End Times causes civilization to fall, biblical threats multiply across the land, including one or more angels of the apocalypse. They are every bit as terrifying as the Four Horsemen because they’re charged with bringing about the end of the world. They have little room for pity or the plights of individuals; they have nations to topple and the forces of Hell to oppose.
 
 Angels of the apocalypse radiate a halo of golden white light. Their 10 foot (3.5 m) tall forms—caparisoned for war—are somewhat humanoid, though each has one or more sets of wings. Apocalypse angels also wield an implement that seems to be equal parts trumpet and sword, which they can sound to bring about terrible events, or swing to slay those who oppose them.
 
-Motive: Instigate the biblical apocalypse; fight the forces of Hell
+**Motive:** Instigate the biblical apocalypse; fight the forces of Hell
 
-Environment: Almost anywhere, usually alone or fighting Hell’s armies
+**Environment:** Almost anywhere, usually alone or fighting Hell’s armies
 
-Health: 27
+**Health:** 27
 
-Damage Inflicted: 8 points
+**Damage Inflicted:** 8 points
 
-Armor: 3
+**Armor:** 3
 
-Movement: Short; long when flying
+**Movement:** Short; long when flying
 
-Modifications: Speed defense as level 5 due to size; perception and detecting falsehoods as level 8
+**Modifications:** Speed defense as level 5 due to size; perception and detecting falsehoods as level 8
 
-Combat: The angel of the apocalypse attacks twice each round with their greatsword.
+**Combat:** The angel of the apocalypse attacks twice each round with their greatsword.
 
 An angel’s halo momentarily brightens with unbearable psychic energy as combat begins; foes within short range are stunned for one minute if they fail an Intellect defense roll, or until they succeed on an Intellect defense task on their turn to end the effect early. A success means that creature becomes immune to the halo’s overwhelming effect.
 
 The angel can blow their trumpet as their action, creating a blast of sound and energy that sweeps out in all directions to a long distance, inflicting 8 points of damage to all creatures that hear it who fail a Might defense roll, and 2 points even with a successful roll. Structures in the area descend one step on the object damage track. Once they blow their trumpet, they usually can’t blow it again for several rounds.
 
-Interaction: Wrapped in purpose, an angel of the apocalypse may ignore entreaties or, if one deigns to respond, tell supplicants to ready themselves for judgment. However, if someone manages to convince an angel to take notice due to their persuasion skill and/or the importance of their need, the angel may give that character aid in the form of healing or direct help immediately or at some promised future date.
+**Interaction:** Wrapped in purpose, an angel of the apocalypse may ignore entreaties or, if one deigns to respond, tell supplicants to ready themselves for judgment. However, if someone manages to convince an angel to take notice due to their persuasion skill and/or the importance of their need, the angel may give that character aid in the form of healing or direct help immediately or at some promised future date.
 
-Use: A high, pure trumpet sounds. All around the characters, structures fall, revealing an angel of the apocalypse overhead.
+**Use:** A high, pure trumpet sounds. All around the characters, structures fall, revealing an angel of the apocalypse overhead.
 
-ARTIFICIAL INTELLIGENCE (AI) 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Artificial Intelligence (Ai) <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 An artificial intelligence thinks independently, learning and evolving with experience. AIs have their own goals and motivations, and may work with or against humans. Some want to gather data, some want to solve technological problems, and some want to take over the world—at any cost.
 
 AIs take many forms. Some are distributed across a vast network. Others are isolated in a single computer. A few are machines with organic parts or can use such machines as servitors.
@@ -9860,19 +9748,19 @@ Because AIs are entities of extreme intelligence, they can adapt to new situatio
 
 \*When acting from a remote terminal, the AI’s effective level is lowered. It can be as low as level 3, but typically is level 5.
 
-Motive: Varies
+**Motive:** Varies
 
-Environment: Almost anywhere
+**Environment:** Almost anywhere
 
-Health: 23
+**Health:** 23
 
-Damage Inflicted: 6 points
+**Damage Inflicted:** 6 points
 
-Armor: 2
+**Armor:** 2
 
-Movement: None, or instantly to any networked machine able to host them
+**Movement:** None, or instantly to any networked machine able to host them
 
-Combat: An electrical discharge—or in some cases precisely pulsed sequences of lights, each designed for a specific creature to see—can affect all targets within short range of the AI (or the AI’s local “terminal”), inflicting damage from electricity (or Intellect damage, which ignores Armor).
+**Combat:** An electrical discharge—or in some cases precisely pulsed sequences of lights, each designed for a specific creature to see—can affect all targets within short range of the AI (or the AI’s local “terminal”), inflicting damage from electricity (or Intellect damage, which ignores Armor).
 
 An AI may attempt to install an instance of themself in the wetware (the brain) of humans and any other nearby sapient creatures. Anyone within immediate range of a video screen playing carefully crafted symbols and sounds who fails an Intellect defense roll is stunned, losing their next turn as they stare in rapt attention. If they fail a subsequent defense roll, they come under the control of the AI instance for one minute, or until they succeed on an Intellect defense roll on their turn. A PC under AI control might stand and do nothing, fall mysteriously unconscious, or take an action to advance the AI’s goals.
 
@@ -9884,14 +9772,13 @@ Unless the PCs can track a given AI to their original computing core, damage to 
 
 Some AIs continue to improve themselves by modifying their own code. These AIs are level 8 threats with 27 health, and they can create cyphers and artifacts, which they often deploy in combat.
 
-Interaction: Some AIs enjoy negotiation. Others simply ignore humans as unworthy of their time and attention. An AI’s voice often sounds surprisingly human.
+**Interaction:** Some AIs enjoy negotiation. Others simply ignore humans as unworthy of their time and attention. An AI’s voice often sounds surprisingly human.
 
-Use: The PCs’ shelter is overtaken by a storm of grey goo, which answers to an AI operating out of a nearby safehouse.
+**Use:** The PCs’ shelter is overtaken by a storm of grey goo, which answers to an AI operating out of a nearby safehouse.
 
-Loot: An AI may have access to 1d6 cyphers and two or three artifacts.
+**Loot:** An AI may have access to 1d6 cyphers and two or three artifacts.
 
-CANNIBAL 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Cannibal <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Cannibals come in a variety of different forms, depending on their situation. Some seem like normal and perhaps even charming survivors, except to their targets. These “nice” cannibals may eat human flesh when desperate or to take advantage of meat that would otherwise go to waste. Or maybe they’ve developed a taste for human flesh.
 
 Others look the part, having descended into the kind of bestial, erratic behavior that cannibalism can inflict on long term practitioners.
@@ -9900,27 +9787,27 @@ Some are part of a crazed settlement of raiders always looking for more sweet me
 
 Whether becoming an eater of human flesh was forced by circumstance or out of some secret, maladaptive urge, cannibals are dangerous.
 
-Motive: Hunger for human flesh
+**Motive:** Hunger for human flesh
 
-Environment: In areas where food is scarce; alone, or in groups of four to ten
+**Environment:** In areas where food is scarce; alone, or in groups of four to ten
 
-Health: 12
+**Health:** 12
 
-Damage Inflicted: 3 points
+**Damage Inflicted:** 3 points
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Deception, persuasion, intimidation, and friendly interaction as level 6
+**Modifications:** Deception, persuasion, intimidation, and friendly interaction as level 6
 
-Combat: Cannibals use improvised weapons, like ropes, chair legs, and jagged pieces of broken glass. A few cannibals with more resources rely on long range firearms and rifles until they run out of ammunition.
+**Combat:** Cannibals use improvised weapons, like ropes, chair legs, and jagged pieces of broken glass. A few cannibals with more resources rely on long range firearms and rifles until they run out of ammunition.
 
 In any group of four or more cannibals, there’s probably one (revealed as a GM intrusion) who has filed their teeth and can make a horrific bite attack once every minute or two. This attack inflicts damage and requires the target to succeed on a Might defense roll. On a failure, the cannibal bites off a bit of the target, who is stunned and loses their next turn. See the Cannibal Severing Bite Effects table.
 
-Interaction: A friendly and charming cannibal may remain so indefinitely, unless they decide a PC is perfect for dinner.
+**Interaction:** A friendly and charming cannibal may remain so indefinitely, unless they decide a PC is perfect for dinner.
 
-Use: Characters looking for a place to sleep, hide, or stay for the night are invited in by one or more cannibals. A group of raiders the PCs must negotiate with are also revealed to be cannibals.
+**Use:** Characters looking for a place to sleep, hide, or stay for the night are invited in by one or more cannibals. A group of raiders the PCs must negotiate with are also revealed to be cannibals.
 
-Loot: A cannibal has currency equivalent to an expensive item.
+**Loot:** A cannibal has currency equivalent to an expensive item.
 
 Cannibal Severing Bite Effects
 
@@ -9940,159 +9827,153 @@ D6 Effects
 
 ## FOUR HOURSEMEN OF THE APOCALYPSE
 
-BEAST 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Beast <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Beast (also called “Conquest”) is present at mass shootings and acts of genocide. He is adroit at spreading misinformation and, prior to the apocalypse, was often seen on various “newstainment” shows and conspiracy theory websites, spreading lies under an alias. Then and now, he appears in a white suit, accessorized with white shades and gloves. His hair is white, too.
 
-Motive: Spread lies; incite others to rabid acts of cruelty
+**Motive:** Spread lies; incite others to rabid acts of cruelty
 
-Environment: Almost anywhere with a dupe he’s gaslighted and/or with one or more of the Four
+**Environment:** Almost anywhere with a dupe he’s gaslighted and/or with one or more of the Four
 
-Health: 24
+**Health:** 24
 
-Damage Inflicted: 6 points
+**Damage Inflicted:** 6 points
 
-Armor: 1
+**Armor:** 1
 
-Movement: Short; long when mounted or riding
+**Movement:** Short; long when mounted or riding
 
-Modifications: Deception as level 8
+**Modifications:** Deception as level 8
 
-Combat: Beast prefers that others fight in his stead. Those convinced of his lies ease their attacks and defenses, and deal 2 additional points of damage with a successful attack. If forced into conflict, Beast produces a handgun, making two long range attacks as his action. The first time any target is hit by Beast in combat, that target takes damage and must succeed on an Intellect defense roll. A failed roll means the target mistakenly believes one of their allies attacked them instead of Beast. The target gets a new Intellect defense roll each round to realize their error.
+**Combat:** Beast prefers that others fight in his stead. Those convinced of his lies ease their attacks and defenses, and deal 2 additional points of damage with a successful attack. If forced into conflict, Beast produces a handgun, making two long range attacks as his action. The first time any target is hit by Beast in combat, that target takes damage and must succeed on an Intellect defense roll. A failed roll means the target mistakenly believes one of their allies attacked them instead of Beast. The target gets a new Intellect defense roll each round to realize their error.
 
 As one of the Four, Beast can see in the dark, regains 1 health each round, and, if killed, reappears within 1d10 days at the next nearest location that previously experienced a mass shooting or genocidal act.
 
-Interaction: Beast comes across as a kind truth teller, someone “just asking questions,” but it doesn’t take long for perceptive people to realize he’s a consummate, continual gaslighter, always working to manipulate others.
+**Interaction:** Beast comes across as a kind truth teller, someone “just asking questions,” but it doesn’t take long for perceptive people to realize he’s a consummate, continual gaslighter, always working to manipulate others.
 
-Use: A sniper on the ridge tries to pick the PCs off as they pass across a bridge. Behind the sniper stands a man in white.
+**Use:** A sniper on the ridge tries to pick the PCs off as they pass across a bridge. Behind the sniper stands a man in white.
 
-SWORD 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Sword <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Sword (also called “War”) is never far from large‑scale conflicts. She glories in battle and warfare, and before the world ended, she was a provocateur, a mercenary, a soldier, and sometimes a general. However, once a war is good and started, she prefers fighting over watching. Then and now, she dresses in red, preferring red military attire and a massive sword—or assault rifle—the color of blood.
 
-Motive: Hunger for combat; incite war
+**Motive:** Hunger for combat; incite war
 
-Environment: Almost anywhere war is waged and/or with one or more of the Four
+**Environment:** Almost anywhere war is waged and/or with one or more of the Four
 
-Health: 24
+**Health:** 24
 
-Damage Inflicted: 6 points
+**Damage Inflicted:** 6 points
 
-Armor: 3
+**Armor:** 3
 
-Movement: Short; usually has a red mount or vehicle nearby
+**Movement:** Short; usually has a red mount or vehicle nearby
 
-Modifications: Attacks as level 8
+**Modifications:** Attacks as level 8
 
-Combat: Sword’s blood colored weapon is either a greatsword or an assault rifle, whatever she needs it to be in the moment. She attacks three times with the sword as her action. With the rifle, she can make one very long range attack (with no hindrance despite the range) or two long range attacks.
+**Combat:** Sword’s blood colored weapon is either a greatsword or an assault rifle, whatever she needs it to be in the moment. She attacks three times with the sword as her action. With the rifle, she can make one very long range attack (with no hindrance despite the range) or two long range attacks.
 
 As part of her attack, she can imbue one bullet each round with an explosive charge. If the attack hits, in addition to normal damage, the target and everyone within immediate range of the target must succeed on a Speed defense roll or take 6 points of damage from shrapnel, or 2 points even with a successful roll.
 
 As one of the Four, Sword can see in the dark, regains 1 health each round, and, if killed, reappears within 1d10 days at the next nearest location that previously experienced war.
 
-Interaction: Sword is full of swagger, often causing fights with biting insults. However, if she can’t incite a fight, she’s just as happy to start one herself, especially as part of a false flag operation.
+**Interaction:** Sword is full of swagger, often causing fights with biting insults. However, if she can’t incite a fight, she’s just as happy to start one herself, especially as part of a false flag operation.
 
-Use: A band of raiders, dozens strong, appears on the horizon. Leading them is a woman on a red horse.
+**Use:** A band of raiders, dozens strong, appears on the horizon. Leading them is a woman on a red horse.
 
-FAMINE 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Famine <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Famine delighted in economic collapse and starvation before the apocalypse. They still spend time destabilizing survivor groups’ livelihoods by direct and indirect means. Famine is rail thin, and carries a chain weapon with weighted, disc shaped ends that can also be used as an improvised scale.
 
-Motive: Starve the living; destabilize organized groups
+**Motive:** Starve the living; destabilize organized groups
 
-Environment: Almost anywhere people are starving and/or with one or more of the Four
+**Environment:** Almost anywhere people are starving and/or with one or more of the Four
 
-Health: 24
+**Health:** 24
 
-Damage Inflicted: 6 points
+**Damage Inflicted:** 6 points
 
-Armor: 1
+**Armor:** 1
 
-Movement: Short; usually has a black mount or vehicle nearby
+**Movement:** Short; usually has a black mount or vehicle nearby
 
-Modifications: Intellect defense as level 8
+**Modifications:** Intellect defense as level 8
 
-Combat: Famine attacks foes with their chain weapon, attacking up to two targets within immediate range at once, or a single target within short range. On a hit, they inflict damage and can choose to entangle one target, who is held helpless on a failed Might defense roll until they escape. Entangled targets automatically take damage each round from the tightening chains. Alternatively, Famine can release a pulse of decay once every few hours that affects all creatures and food stores within short range. Food automatically goes bad, losing all nutritional value. Living targets in the area that fail a Might defense roll feel an overwhelming pang of hunger and descend one step on the damage track. As one of the Four, Famine can see in the dark, regains 1 health each round, and, if killed, reappears within 1d10 days at the next nearest location that previously experienced death through starvation or other privation.
+**Combat:** Famine attacks foes with their chain weapon, attacking up to two targets within immediate range at once, or a single target within short range. On a hit, they inflict damage and can choose to entangle one target, who is held helpless on a failed Might defense roll until they escape. Entangled targets automatically take damage each round from the tightening chains. Alternatively, Famine can release a pulse of decay once every few hours that affects all creatures and food stores within short range. Food automatically goes bad, losing all nutritional value. Living targets in the area that fail a Might defense roll feel an overwhelming pang of hunger and descend one step on the damage track. As one of the Four, Famine can see in the dark, regains 1 health each round, and, if killed, reappears within 1d10 days at the next nearest location that previously experienced death through starvation or other privation.
 
-Interaction: Famine is keen to talk about delicacies of every kind, becoming more animated and descriptive about mouthwatering foods and drinks the hungrier those nearby are.
+**Interaction:** Famine is keen to talk about delicacies of every kind, becoming more animated and descriptive about mouthwatering foods and drinks the hungrier those nearby are.
 
-Use: The characters are trying to help a group of survivors transport much‑needed food stores to their community when someone all in black on a black motorcycle appears on the road ahead.
+**Use:** The characters are trying to help a group of survivors transport much‑needed food stores to their community when someone all in black on a black motorcycle appears on the road ahead.
 
-PLAGUE 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Plague <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Plague (often called “Death”) is present wherever people die of disease or infirmity brought on by age. She prefers black and pale green evening wear, including long pale green gloves and often a grinning skull mask. When traveling, she drives a pale green hearse or motorcycle, or rides a horse the same sickly green color.
 
-Motive: Death
+**Motive:** Death
 
-Environment: Almost anywhere people are dying (but especially of disease and/or old age) and/or with one or more of the Four
+**Environment:** Almost anywhere people are dying (but especially of disease and/or old age) and/or with one or more of the Four
 
-Health: 24
+**Health:** 24
 
-Damage Inflicted: 6 points
+**Damage Inflicted:** 6 points
 
-Armor: 1
+**Armor:** 1
 
-Movement: Short; usually has a pale green mount or vehicle nearby
+**Movement:** Short; usually has a pale green mount or vehicle nearby
 
-Modifications: Might defense as level 8
+**Modifications:** Might defense as level 8
 
-Combat: When she wishes, Plague wields a scythe, as if she had always been holding it. She attacks twice with it as her action. On a hit, the scythe deals damage and the target must succeed on a Might defense roll. On a failed roll, the target contracts a supernatural disease requiring that they succeed on a Might defense roll each minute or descend one step on the damage track. If an affected target succeeds on three Might defense rolls at any point, they recover. If Plague removes a glove as an action, she can use her next action to imbue her scythe with necrotic power, or simply touch a target with her bare hand. On a hit with either her touch or the imbued scythe, she inflicts damage, and the target must succeed on a Might defense roll or die. Plague can use this ability about once a day, or immediately again if her previous target dies because of it. As one of the Four, Plague can see in the dark, regains 1 health each round, and, if killed, reappears within 1d10 days at the next nearest location that previously experienced death by disease or due to old age.
+**Combat:** When she wishes, Plague wields a scythe, as if she had always been holding it. She attacks twice with it as her action. On a hit, the scythe deals damage and the target must succeed on a Might defense roll. On a failed roll, the target contracts a supernatural disease requiring that they succeed on a Might defense roll each minute or descend one step on the damage track. If an affected target succeeds on three Might defense rolls at any point, they recover. If Plague removes a glove as an action, she can use her next action to imbue her scythe with necrotic power, or simply touch a target with her bare hand. On a hit with either her touch or the imbued scythe, she inflicts damage, and the target must succeed on a Might defense roll or die. Plague can use this ability about once a day, or immediately again if her previous target dies because of it. As one of the Four, Plague can see in the dark, regains 1 health each round, and, if killed, reappears within 1d10 days at the next nearest location that previously experienced death by disease or due to old age.
 
-Interaction: Of all the Four, Plague is the most changeable in outlook, and sometimes is even somewhat sympathetic to humanity’s plight. When she’s in such a mood, persuasive characters could convince Plague to pass them over, though she promises that it’s only a temporary stay of death.
+**Interaction:** Of all the Four, Plague is the most changeable in outlook, and sometimes is even somewhat sympathetic to humanity’s plight. When she’s in such a mood, persuasive characters could convince Plague to pass them over, though she promises that it’s only a temporary stay of death.
 
-Use: The characters find a before‑times bunker filled with corpses killed by some strange infection, plus a living “human” wearing a black and pale green evening gown.
+**Use:** The characters find a before‑times bunker filled with corpses killed by some strange infection, plus a living “human” wearing a black and pale green evening gown.
 
-GAMMA WORM 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Gamma Worm <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Gamma worms hide their large forms by burrowing beneath the ground, and when they emerge on the surface, they cloak themselves behind psychic distortion fields. The only clue someone has that they’re being stalked is a smell of cloves over the stale whiff of death. Unfortunately, if someone smells a gamma worm’s distinctive odor, it’s probably already too late.
 
 Gamma worms might be the result of military research, radioactive mutation, or aliens or other strange intruders seeking to eradicate human life as part of their terraforming efforts to change Earth to their liking.
 
-Motive: Hunger for flesh; eliminate humans
+**Motive:** Hunger for flesh; eliminate humans
 
-Environment: Almost anywhere
+**Environment:** Almost anywhere
 
-Health: 18
+**Health:** 18
 
-Damage Inflicted: 6 points
+**Damage Inflicted:** 6 points
 
-Armor: 2 (immune to radiation)
+**Armor:** 2 (immune to radiation)
 
-Movement: Short; short when burrowing
+**Movement:** Short; short when burrowing
 
-Modifications: Stealth as level 8 when psychic field active; Speed defense as level 5 due to size; ability to see through tricks as level 4
+**Modifications:** Stealth as level 8 when psychic field active; Speed defense as level 5 due to size; ability to see through tricks as level 4
 
-Combat: Gamma worms attack twice each round with blades they unfold from their wormlike lengths. Alternatively, about once each hour a gamma worm can unleash a hail of gamma spikes against up to three targets within short range. Targets struck by the spikes take damage and must succeed on a Might defense roll or fall unconscious. Unconscious targets wake up a few rounds later feeling dizzy and slightly sick to their stomach—they’ve developed radiation sickness.
+**Combat:** Gamma worms attack twice each round with blades they unfold from their wormlike lengths. Alternatively, about once each hour a gamma worm can unleash a hail of gamma spikes against up to three targets within short range. Targets struck by the spikes take damage and must succeed on a Might defense roll or fall unconscious. Unconscious targets wake up a few rounds later feeling dizzy and slightly sick to their stomach—they’ve developed radiation sickness.
 
 Gamma worms can use their action to generate a psychic field that effectively grants them invisibility. The invisibility lasts until they attack or move more than an immediate distance on their turn.
 
 Gamma worms are vulnerable to cold; in chilly conditions, their Speed defense is hindered by four steps. In addition, cold attacks ignore their Armor.
 
-Interaction: Gamma worms act like prey driven monsters, but they may have a secret language and purpose (if aliens placed them on Earth to hasten the apocalypse or kill survivors in the post apocalyptic world).
+**Interaction:** Gamma worms act like prey driven monsters, but they may have a secret language and purpose (if aliens placed them on Earth to hasten the apocalypse or kill survivors in the post apocalyptic world).
 
-Use: Irradiated and hungry gamma worms emerge from the ruins to hunt fresh meat in outlying communities.
+**Use:** Irradiated and hungry gamma worms emerge from the ruins to hunt fresh meat in outlying communities.
 
-GLOWING ROACH 2 (6)
-
+{{< hint danger >}} {{< columns2 >}} Glowing Roach <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Radiation born mutant roaches are terrible individually, but absolutely horrible in swarms. Many times the size of roaches in the before times, these firefly like creatures prefer dark areas, such as ruined subways and abandoned basements.
 
 Some swarms are rumored to have an insidious group intelligence, one that is utterly inimical to humankind.
 
-Motive: Hunger for flesh
+**Motive:** Hunger for flesh
 
-Environment: Anywhere dark, usually in nests of four to ten (or more)
+**Environment:** Anywhere dark, usually in nests of four to ten (or more)
 
-Health: 6
+**Health:** 6
 
-Damage Inflicted: 2 points
+**Damage Inflicted:** 2 points
 
-Armor: 2
+**Armor:** 2
 
-Movement: Short; short when flying
+**Movement:** Short; short when flying
 
-Modifications: Speed defense as level 3 due to small size; perception as level 5
+**Modifications:** Speed defense as level 3 due to small size; perception as level 5
 
-Combat: A glowing roach attacks with radioactive mandibles. When four glowing roaches act together, they can make a single attack as a level 4 creature inflicting 4 points of damage. Targets damaged by a group of glowing roaches must also succeed on a difficulty 4 Might defense task or face additional consequences from the effects of radiation and slashing mandibles, as determined on the Glowing Roach Effects table. The effects are cumulative and last until a target makes a recovery roll.
+**Combat:** A glowing roach attacks with radioactive mandibles. When four glowing roaches act together, they can make a single attack as a level 4 creature inflicting 4 points of damage. Targets damaged by a group of glowing roaches must also succeed on a difficulty 4 Might defense task or face additional consequences from the effects of radiation and slashing mandibles, as determined on the Glowing Roach Effects table. The effects are cumulative and last until a target makes a recovery roll.
 
 Sometimes a single glowing roach mutates further, allowing it to grow into a 20 foot (6 m) long monstrosity. Thankfully, these monstrous glowing roaches are rare and seldom come out into the light.
 
@@ -10100,9 +9981,9 @@ Roaches dislike bright illumination: in sunlight or other bright light, glowing 
 
 \*Monstrous glowing roach: level 5, Speed defense as level 4; Armor 2; mandible attack inflicts 7 damage and results in a check on the Glowing Roach Effects table
 
-Interaction: Glowing roaches almost always react like voracious insects, despite their size. That is, except for swarms of ten or more, which act like sapient creatures. Sapient swarms may try to lure survivors, possibly even spelling out human readable letters in the sand that anonymously ask for help or promise it. But it’s a ruse; they despise humans for all the ways people used to exterminate roaches in the before times.
+**Interaction:** Glowing roaches almost always react like voracious insects, despite their size. That is, except for swarms of ten or more, which act like sapient creatures. Sapient swarms may try to lure survivors, possibly even spelling out human readable letters in the sand that anonymously ask for help or promise it. But it’s a ruse; they despise humans for all the ways people used to exterminate roaches in the before times.
 
-Use: A visit to a ruined hospital or airport scares up a few glowing roaches when light is introduced to a dark place.
+**Use:** A visit to a ruined hospital or airport scares up a few glowing roaches when light is introduced to a dark place.
 
 Glowing Roach Effects
 
@@ -10120,63 +10001,61 @@ D6 Effect
 
 6 Lingering radioactive effect: Refer to Radiation in the Real World and possibly Incredible Mutations if your game has such fantastic elements.
 
-HOOKED BLOSSOM 2 (6)
-
+{{< hint danger >}} {{< columns2 >}} Hooked Blossom <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Hooked blossoms germinate almost like regular plants but can root even on constructed surfaces, including cement and sometimes metal. Rooted juveniles display pinkish flowers—which some equate to the color of an open wound—that give off an alluring perfume.
 
 If they mature, they uproot themselves, revealing an ambulatory body plated in a dull grey metallic hide and limbs that end in a single hook like digit.
 
 Both forms are dangerous. The most common variety of rooted blossoms work in small groups to cook prey with focused beams of microwave energy. Ambulatory versions are about the size of large domestic cats. They use their sharp limbs to hook themselves into a target, then use their flowers to cook their prey or, alternatively, put them to sleep for later consumption.
 
-Juvenile, rooted blossom: level 1; Armor 1; a group of five flowers attacks with a level 3 microwave ray inflicting 3 ambient damage
+**Juvenile, rooted blossom:** level 1; Armor 1; a group of five flowers attacks with a level 3 microwave ray inflicting 3 ambient damage
 
-Motive: Hunger for flesh
+**Motive:** Hunger for flesh
 
-Environment: In groups of five or more anyplace touched by radiation, mutation, or AI genetic‑nanotech engineering
+**Environment:** In groups of five or more anyplace touched by radiation, mutation, or AI genetic‑nanotech engineering
 
-Health: 6
+**Health:** 6
 
-Damage Inflicted: 3 points
+**Damage Inflicted:** 3 points
 
-Armor: 2
+**Armor:** 2
 
-Movement: Short; immediate when climbing
+**Movement:** Short; immediate when climbing
 
-Modifications: Speed defense as level 4 due to size; disguise as level 6 when not moving
+**Modifications:** Speed defense as level 4 due to size; disguise as level 6 when not moving
 
-Combat: A mature blossom attacks twice with its hooks, inflicting damage with each strike. If a blossom hitsa target, the target must succeed on a second Speed defense roll, which is hindered. On a failed roll, the blossom hooks itself to the target until the target can detach the blossom with a successful Might roll as their action. Each round a blossom is hooked to a target, the target automatically takes 3 points of ambient damage from microwave energy emitted by the creature’s bloom. Some varieties of hooked blossoms produce soporific pollen (treat as poison) instead of microwaves. If a character is hooked by one of these blossoms, they must instead succeed on an Intellect defense roll each round they remain hooked, or fall asleep. A sleeping target must be roused by an ally or suffer physical damage to wake. Each round a target remains asleep, they automatically take 3 points of Intellect damage (ignores Armor). In its juvenile, rooted form, a hooked blossom resembles a flower with a metallic stem, which is dangerous when active. In direct sunlight, a rooted hooked blossom regains 1 point of health each round.
+**Combat:** A mature blossom attacks twice with its hooks, inflicting damage with each strike. If a blossom hitsa target, the target must succeed on a second Speed defense roll, which is hindered. On a failed roll, the blossom hooks itself to the target until the target can detach the blossom with a successful Might roll as their action. Each round a blossom is hooked to a target, the target automatically takes 3 points of ambient damage from microwave energy emitted by the creature’s bloom. Some varieties of hooked blossoms produce soporific pollen (treat as poison) instead of microwaves. If a character is hooked by one of these blossoms, they must instead succeed on an Intellect defense roll each round they remain hooked, or fall asleep. A sleeping target must be roused by an ally or suffer physical damage to wake. Each round a target remains asleep, they automatically take 3 points of Intellect damage (ignores Armor). In its juvenile, rooted form, a hooked blossom resembles a flower with a metallic stem, which is dangerous when active. In direct sunlight, a rooted hooked blossom regains 1 point of health each round.
 
-Interaction: Hooked blossoms act much like animal predators, though they are not concerned with self‑preservation.
+**Interaction:** Hooked blossoms act much like animal predators, though they are not concerned with self‑preservation.
 
-Use: The scavenging PCs spy a flower‑clad hill in the distance, shining in the sun. Even from here, they can smell the pleasant perfume drifting on the breeze.
+**Use:** The scavenging PCs spy a flower‑clad hill in the distance, shining in the sun. Even from here, they can smell the pleasant perfume drifting on the breeze.
 
-MELTED 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Melted <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Survivors assume the melted are another strain of mutants. Maybe so, but they’re not originally from Earth. Or rather, not this Earth. The melted leaked in from a parallel world’s apocalypse caused by a snafu with a high energy supercollider. Dozens of different but parallel timelines smashed into each other. The few survivors were fused beings composed of many different alternate versions of the same person, each still “radioactive” with latent transdimensional energy.
 
-Motive: Surcease from constant pain; absorb more sapient beings
+**Motive:** Surcease from constant pain; absorb more sapient beings
 
-Environment: Groups of three to five roaming the ruins
+**Environment:** Groups of three to five roaming the ruins
 
-Health: 15
+**Health:** 15
 
-Damage Inflicted: 4 points; see Combat
+**Damage Inflicted:** 4 points; see Combat
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Initiative and Speed defense as level 5 due to seeing a second into the future
+**Modifications:** Initiative and Speed defense as level 5 due to seeing a second into the future
 
-Combat: The melted attack with two claws.
+**Combat:** The melted attack with two claws.
 
 If a melted defeats a foe, they “consume” it by drawing it fully into their body cavity as their action, healing the melted for 10 health and giving the creature a few hours free of pain, allowing their mind to clear.
 
 A given melted may also have a trait associated with the transdimensional energy they burn with.
 
-Interaction: A few of the melted gain moments of clarity, but all are burdened with anguish stemming from their fused state. They unleash their full fury on whoever and whatever they catch among the ruins, but they seem particularly bent on finding and absorbing scientists.
+**Interaction:** A few of the melted gain moments of clarity, but all are burdened with anguish stemming from their fused state. They unleash their full fury on whoever and whatever they catch among the ruins, but they seem particularly bent on finding and absorbing scientists.
 
-Use: A group of the melted seek out a surviving scientific installation and attempt to consume everyone nearby.
+**Use:** A group of the melted seek out a surviving scientific installation and attempt to consume everyone nearby.
 
-Loot: One out of three melted may carry a manifest cypher (in the form of before times military tech), such as an armor reinforcer or a sonic detonation.
+**Loot:** One out of three melted may carry a manifest cypher (in the form of before times military tech), such as an armor reinforcer or a sonic detonation.
 
 Transdimensional Energy Enhancement
 
@@ -10194,25 +10073,24 @@ D6 Effect
 
 6 Transdimensional blast: About once each hour, emits transdimensional energy filling an adjacent short area; all creatures in the area take 6 points of ambient damage on a failed Might defense roll, as parts of them temporarily fuse with other affect creatures, or creatures in alternate dimensions
 
-RADIOACTIVE BEAR 7 (21)
-
+{{< hint danger >}} {{< columns2 >}} Radioactive Bear <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 Exposure to radiation and other mutagens—or possibly the malign design of some before times military lab or inscrutable AI instance—transformed an already large and aggressive bear into something truly horrific. Standing well over 20 feet (6 m) tall, radioactive bears are drawn to radioactive areas, which empower and sustain them, though not completely. Which is why sometimes they head into uncontaminated areas to hunt large game. They especially prefer people.
 
-Motive: Hunger for flesh and radiation
+**Motive:** Hunger for flesh and radiation
 
-Environment: Anywhere radioactive
+**Environment:** Anywhere radioactive
 
-Health: 35
+**Health:** 35
 
-Damage Inflicted: 7 points
+**Damage Inflicted:** 7 points
 
-Armor: 1 (immune to radiation)
+**Armor:** 1 (immune to radiation)
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Speed defense as level 4 due to size; perception as level 8
+**Modifications:** Speed defense as level 4 due to size; perception as level 8
 
-Combat: Creatures within immediate range of a radioactive bear are irradiated on a failed Might defense task, hindering their tasks on their next turn.
+**Combat:** Creatures within immediate range of a radioactive bear are irradiated on a failed Might defense task, hindering their tasks on their next turn.
 
 The bear attacks twice each round with its claws, or bites once. If its bite attack succeeds against a target suffering from radiation sickness, the bear regains 5 points of health.
 
@@ -10224,87 +10102,84 @@ If the radioactive bear is the result of military or AI design rather than a nat
 
 In areas of dangerous radiation, the radioactive bear regains 2 points of health each round.
 
-Interaction: Radioactive bears are clever predators, sly if they need to be. If not too hungry, a radioactive bear might let potential prey pass it by, assuming they don’t antagonize the bear.
+**Interaction:** Radioactive bears are clever predators, sly if they need to be. If not too hungry, a radioactive bear might let potential prey pass it by, assuming they don’t antagonize the bear.
 
-Use: The characters glance behind them as they drive their vehicle across the landscape and see a huge bear, apparently giving chase.
+**Use:** The characters glance behind them as they drive their vehicle across the landscape and see a huge bear, apparently giving chase.
 
 ## RAIDER
 
 Stripped of humanity by brutal living conditions and their determination to survive no matter the cost, raiders still look human. But beneath that veneer, they’re feral.
 
-Motive: Raid and kill for what they want
+**Motive:** Raid and kill for what they want
 
-Environment: Groups of four to six roaming the ruins
+**Environment:** Groups of four to six roaming the ruins
 
-Interaction: If a raider believes a just met survivor has food, water, or shelter, or might prove to be a threat immediately or at any later date, they laugh off any suggestion of parley and attack.
+**Interaction:** If a raider believes a just met survivor has food, water, or shelter, or might prove to be a threat immediately or at any later date, they laugh off any suggestion of parley and attack.
 
-Use: The raider encampment has a new leader, a warlord whose presence doubles raider activity.
+**Use:** The raider encampment has a new leader, a warlord whose presence doubles raider activity.
 
-FELL RIDER 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Fell Rider <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Motorcycle riding raiders keep their “motor wheels” alive through constant tinkering and repair. The two wheeled machines are modified with spears, spikes, lances, and sometimes guns and flamethrowers. Fell riders wear heavy protective garments made from fur, salvaged clothing, and leather from past targets. Goggles protect their eyes, and bones are sewn through their wild, greasy hair as decoration.
 
-Health: 12
+**Health:** 12
 
-Damage Inflicted: 4 points
+**Damage Inflicted:** 4 points
 
-Armor: 1
+**Armor:** 1
 
-Movement: Short; long while riding motorcycle
+**Movement:** Short; long while riding motorcycle
 
-Modifications: Motorcycle repair and modification as level 5; stealth tasks as level 0 due to screaming engines
+**Modifications:** Motorcycle repair and modification as level 5; stealth tasks as level 0 due to screaming engines
 
-Combat: Using pikes, spears, or lances welded to the front of their bike, a fell rider typically makes ride‑by attacks against foes from just outside short range. A fell rider is one with their bike, always moving to engage and disengage. If knocked from their bike (possibly a minor effect), a fell rider’s attacks and Speed defenses are hindered until they regain the seat as their action. Some riders use larger four‑wheeled vehicles with open canopies instead of motorcycles. These fell riders have 2 Armor and can attempt a run‑down attack on up to three targets that are next to each other and not in a vehicle, inflicting 8 points of damage. Struck targets that fail a Might defense roll descend one step on the damage track.
+**Combat:** Using pikes, spears, or lances welded to the front of their bike, a fell rider typically makes ride‑by attacks against foes from just outside short range. A fell rider is one with their bike, always moving to engage and disengage. If knocked from their bike (possibly a minor effect), a fell rider’s attacks and Speed defenses are hindered until they regain the seat as their action. Some riders use larger four‑wheeled vehicles with open canopies instead of motorcycles. These fell riders have 2 Armor and can attempt a run‑down attack on up to three targets that are next to each other and not in a vehicle, inflicting 8 points of damage. Struck targets that fail a Might defense roll descend one step on the damage track.
 
-Loot: A fell rider’s motorcycle, when repaired, is a useful vehicle with enough gas for miles of travel.
+**Loot:** A fell rider’s motorcycle, when repaired, is a useful vehicle with enough gas for miles of travel.
 
-MARAUDER 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Marauder <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Marauders are raiders who attack with stealth, wrapping themselves in light smothering clothes and targeting survivors after midnight. By day, they act like regular people, part of a survivor community. That’s pretense; when time allows, they torture targets to death and take flesh trophies.
 
-Health: 12
+**Health:** 12
 
-Damage Inflicted: 4 points; see Combat
+**Damage Inflicted:** 4 points; see Combat
 
-Movement: Short; short when climbing
+**Movement:** Short; short when climbing
 
-Modifications: Stealth and deception tasks as level 5
+**Modifications:** Stealth and deception tasks as level 5
 
-Combat: Marauders use stealth and the night to position themselves before attacking, hoping to make their initial attack with surprise using bladed weapons. Whether they have surprise or not, if they attack before their target’s first action, their attacks are eased and inflict 6 points of damage.
+**Combat:** Marauders use stealth and the night to position themselves before attacking, hoping to make their initial attack with surprise using bladed weapons. Whether they have surprise or not, if they attack before their target’s first action, their attacks are eased and inflict 6 points of damage.
 
 Marauders often dose their bladed weapons with poison, so targets must also make a Might defense roll or take 2 points of Speed damage (ignores Armor) each round for three rounds.
 
-WARLORD 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Warlord <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 A warlord enjoys supreme authority over other raiders. Brutal rulers, warlords are a living symbol of power and strength where survival is valued above all else.
 
 Warlords caparison themselves in trophies of vanquished enemies—such as gilded skulls or flayed skins. Some wear garish helms designed to intimidate. An impressive weapon, especially something from the before times, is always close at hand. A warlord is rarely encountered without raiders and other lackeys that fight for and serve them.
 
-Motive: Control through fear and brutality
+**Motive:** Control through fear and brutality
 
-Environment: Usually in the company of five to twenty raiders
+**Environment:** Usually in the company of five to twenty raiders
 
-Health: 25
+**Health:** 25
 
-Damage Inflicted: 5 points
+**Damage Inflicted:** 5 points
 
-Armor: 3
+**Armor:** 3
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Defends as level 6 due to nearby raiders willing to take no actions other than defend the warlord
+**Modifications:** Defends as level 6 due to nearby raiders willing to take no actions other than defend the warlord
 
-Combat: Warlords attack twice each round with bladed or spiked melee weapons or ranged firearms. When possible, they fight from an open canopy vehicle (driven by another raider).
+**Combat:** Warlords attack twice each round with bladed or spiked melee weapons or ranged firearms. When possible, they fight from an open canopy vehicle (driven by another raider).
 
 A warlord directly leads the raiders they command, fighting at the forefront but also issuing orders. Underlings deal 1 additional point of damage when the warlord can see them and issue commands.
 
 Most warlords have a specific additional advantage they can pull out to win a fight. See the table below.
 
-Interaction: Warlords have lackeys and lieutenants that interact with outsiders. They prefer to make pronouncements and threats from on high.
+**Interaction:** Warlords have lackeys and lieutenants that interact with outsiders. They prefer to make pronouncements and threats from on high.
 
-Use: The museum, lab, or other important structure the characters wanted to visit to carry out their mission has fallen under the control of a warlord and a dozen or more raiders.
+**Use:** The museum, lab, or other important structure the characters wanted to visit to carry out their mission has fallen under the control of a warlord and a dozen or more raiders.
 
-Loot: A warlord may carry an artifact.
+**Loot:** A warlord may carry an artifact.
 
 Unique Warlord Advantage
 
@@ -10322,25 +10197,24 @@ D6 Advantage
 
 6 Skystrike: Calls in a “skystrike” from a battered wristband; a round later, a missile launched from a before‑times satellite strikes nearby, inflicting 10 points of damage on all creatures within a short area who fail a Speed defense roll, and 2 points on those who succeed (depletion: automatic)
 
-AI ZOMBIE 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Ai Zombie <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 An artificial intelligence that permanently installs itself onto the wetware (in this case, the brain) of a human or other sapient creature creates an AI zombie. The AI replaces the person’s personality and motivations, turning them into a shambling creature who only does the AI’s bidding, even as their body decays and falls apart (though most keep shambling because of an injection of nano repair bots).
 
 AI zombies are driven by a single, simple motive implanted by the original artificial intelligence—usually related to destroying resources before competing AI instances can use them. They aren’t intelligent enough to direct themselves or problem solve outside of this goal, unless the AI takes direct control, using a particular AI zombie as a remote “terminal” from which to act and observe the world.
 
-Motive: Follow dictates of AI that created or that controls them
+**Motive:** Follow dictates of AI that created or that controls them
 
-Environment: Almost anywhere, in groups of five to seven, or in hordes of tens to hundreds
+**Environment:** Almost anywhere, in groups of five to seven, or in hordes of tens to hundreds
 
-Health: 12
+**Health:** 12
 
-Damage Inflicted: 3 points
+**Damage Inflicted:** 3 points
 
-Movement: Immediate
+**Movement:** Immediate
 
-Modifications: Speed defense as level 2; perception tasks as level 7
+**Modifications:** Speed defense as level 2; perception tasks as level 7
 
-Combat: AI zombies fight on, no matter the odds, usually attacking by biting.
+**Combat:** AI zombies fight on, no matter the odds, usually attacking by biting.
 
 When AI zombies attack in groups of five to seven individuals, they can make a single attack roll against one target as one level 5 creature, inflicting 5 points of damage.
 
@@ -10348,41 +10222,40 @@ AI zombies are hard to finish off because self repairing nanotech stitched into 
 
 That same nanotech makes AI zombies infectious. Their bites spread a level 6 (or, in some cases, level 8) disease due to miniscule machines that move a target down one step on the damage track each day a Might defense roll is failed. Targets killed by the process later animate as AI zombies, compelled to serve an AI instance.
 
-Interaction: AI zombies often serve some distant AI and may sometimes speak with its voice. But if cut off from its intelligence source, the zombie itself becomes a food seeking monster, more likely to eat someone than to represent an artificial mind.
+**Interaction:** AI zombies often serve some distant AI and may sometimes speak with its voice. But if cut off from its intelligence source, the zombie itself becomes a food seeking monster, more likely to eat someone than to represent an artificial mind.
 
-Use: The characters are asked to salvage supplies from an abandoned airplane hangar—abandoned, that is, except for lingering AI zombies.
+**Use:** The characters are asked to salvage supplies from an abandoned airplane hangar—abandoned, that is, except for lingering AI zombies.
 
-ZOMBIE HULK 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Zombie Hulk <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Most zombies are mindless, shambling, hungry, and infectious. Some varieties, despite their semblance to corpses, enjoy a regenerative process that keeps them active regardless of grievous wounds, rotting flesh, and sometimes missing limbs or organs. That same process kicks into overdrive in zombie hulks, converting everything they eat into additional mass and muscle. The result is three times as massive as a regular zombie and five times as dangerous.
 
 ZOMBIE SPRINTER: Instead of being much larger than normal, a zombie’s regenerative system can imbue it with incredible quickness, making it much faster than the shamblers often encountered. The resulting zombie sprinter’s speed and ferocity make it hard to escape.
 
-Zombie sprinter: level 3, initiative as level 5; moves a long distance each round; three bites per round inflict 3 damage each; retains 1 health if attack roll result that would have downed it was an even number
+**Zombie sprinter:** level 3, initiative as level 5; moves a long distance each round; three bites per round inflict 3 damage each; retains 1 health if attack roll result that would have downed it was an even number
 
-Motive: Hunger (for flesh, cerebrospinal fluid, certain human hormones, or whatever it is that nourishes the zombie in the setting)
+**Motive:** Hunger (for flesh, cerebrospinal fluid, certain human hormones, or whatever it is that nourishes the zombie in the setting)
 
-Environment: Almost anywhere, alone or with other zombie varieties
+**Environment:** Almost anywhere, alone or with other zombie varieties
 
-Health: 23
+**Health:** 23
 
-Damage Inflicted: 8 points
+**Damage Inflicted:** 8 points
 
-Armor: 2
+**Armor:** 2
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Speed defense as level 3 due to size; perception as level 7
+**Modifications:** Speed defense as level 3 due to size; perception as level 7
 
-Combat: A zombie hulk bashes with massive, permanently balled fists stained with the gore of past targets.
+**Combat:** A zombie hulk bashes with massive, permanently balled fists stained with the gore of past targets.
 
 Alternatively, a zombie hulk can bite a target. When this occurs, it’s almost impossible to force the hulk’s jaws apart again. When a target takes damage from a bite, they must also succeed on a Speed defense roll or one of their limbs is clamped in the hulk’s mouth. The target automatically takes damage each round they are caught, and all their tasks are hindered, including attempts to escape. Meanwhile, the hulk is free to bash other foes as its action even as it chews on a previously caught target.
 
 If an attack would reduce the zombie hulk’s health to 0, it does so only if the number rolled for the attack was an even number; otherwise, the zombie is reduced to 1 point of health instead.
 
-Interaction: A zombie hulk may choose to smash a nearby structure instead of going straight toward food, but it is typically a mindless, unreasoning monster.
+**Interaction:** A zombie hulk may choose to smash a nearby structure instead of going straight toward food, but it is typically a mindless, unreasoning monster.
 
-Use: Just when it seems like the characters understand the situation with zombies, a zombie hulk appears, making it clear that bizarre and dangerous zombie permutations are possible. If a regular zombie can become a hulk, what other ways can they mutate and evolve?
+**Use:** Just when it seems like the characters understand the situation with zombies, a zombie hulk appears, making it clear that bizarre and dangerous zombie permutations are possible. If a regular zombie can become a hulk, what other ways can they mutate and evolve?
 
 ## FANTASY CREATURES
 
@@ -10516,125 +10389,124 @@ If you need a larger or tougher version of a creature, such as a dire wolf or a 
 
 A simple rule of thumb is to double a creature’s size (length, width, and height) for every level it increases.
 
-OTHER CREATURES AND NPCs FOR A FANTASY GAME
+**OTHER CREATURES AND NPCs FOR A FANTASY GAME
 
-Bat: level 1
+Bat:** level 1
 
-Black bear: level 3, attacks as level 4
+**Black bear:** level 3, attacks as level 4
 
-Blacksmith: level 2, metalworking as level 4; health 8
+**Blacksmith:** level 2, metalworking as level 4; health 8
 
-Cat: level 1, Speed defense as level 3 due to size and quickness
+**Cat:** level 1, Speed defense as level 3 due to size and quickness
 
-Catfolk: level 3, balancing and climbing as level 4; damage inflicted 4 points
+**Catfolk:** level 3, balancing and climbing as level 4; damage inflicted 4 points
 
-Centaur: level 4; health 15; moves a long distance each round
+**Centaur:** level 4; health 15; moves a long distance each round
 
-Crocodile: level 4; Armor 1; swims a short distance each round
+**Crocodile:** level 4; Armor 1; swims a short distance each round
 
-Dire wolf: level 4, attacks and perception as level 5; Armor 1
+**Dire wolf:** level 4, attacks and perception as level 5; Armor 1
 
-Dog: level 2, perception as level 3
+**Dog:** level 2, perception as level 3
 
-Dog, guard: level 3, attacks and perception as level 4
+**Dog, guard:** level 3, attacks and perception as level 4
 
-Elephant: level 5; health 20; Armor 1
+**Elephant:** level 5; health 20; Armor 1
 
-Farmer: level 2, animal handling as level 3; health 8
+**Farmer:** level 2, animal handling as level 3; health 8
 
-Gargoyle: level 3; Armor 5; damage inflicted 5 points; flies a short distance each round
+**Gargoyle:** level 3; Armor 5; damage inflicted 5 points; flies a short distance each round
 
-Giant ape: level 3, climbing and attacks as level 4
+**Giant ape:** level 3, climbing and attacks as level 4
 
-Giant crab: level 6; Armor 4; pincer attack holds prey and automatically inflicts damage each turn until the target succeeds at a Might or Speed defense task
+**Giant crab:** level 6; Armor 4; pincer attack holds prey and automatically inflicts damage each turn until the target succeeds at a Might or Speed defense task
 
-Giant frog: level 3
+**Giant frog:** level 3
 
-Giant octopus: level 5, Might defense and stealth as level 6; health 25; attacks four times as an action
+**Giant octopus:** level 5, Might defense and stealth as level 6; health 25; attacks four times as an action
 
-Giant scorpion: level 4; Armor 2; damage inflicted 4 points plus 4 points of Speed damage (ignores Armor) on a failed Might defense task
+**Giant scorpion:** level 4; Armor 2; damage inflicted 4 points plus 4 points of Speed damage (ignores Armor) on a failed Might defense task
 
-Giant snake: level 4; health 18; Armor 2; damage inflicted 4 points plus 3 points of Speed damage (ignores Armor) on a failed Might defense task
+**Giant snake:** level 4; health 18; Armor 2; damage inflicted 4 points plus 3 points of Speed damage (ignores Armor) on a failed Might defense task
 
-Gnoll: level 2, Speed defense as level 3 due to shield; health 8; Armor 2
+**Gnoll:** level 2, Speed defense as level 3 due to shield; health 8; Armor 2
 
-Gorilla: level 2, attacks as level 3; damage inflicted 3 points
+**Gorilla:** level 2, attacks as level 3; damage inflicted 3 points
 
-Griffon: level 4, perception as level 5; Armor 1; flies a long distance each round
+**Griffon:** level 4, perception as level 5; Armor 1; flies a long distance each round
 
-Grizzly bear: level 5; health 20; Armor 1
+**Grizzly bear:** level 5; health 20; Armor 1
 
-Hawk: level 2; flies a long distance each round
+**Hawk:** level 2; flies a long distance each round
 
-Hippogryph: level 3, attacks as level 4; flies a long distance each round.
+**Hippogryph:** level 3, attacks as level 4; flies a long distance each round.
 
-Horse: level 3; moves a long distance each round
+**Horse:** level 3; moves a long distance each round
 
-Leopard: level 4; climbing, jumping, stealth, and attacks as level 5; Armor 1
+**Leopard:** level 4; climbing, jumping, stealth, and attacks as level 5; Armor 1
 
-Lion or tiger: level 5, attacks as level 6; Armor 1
+**Lion or tiger:** level 5, attacks as level 6; Armor 1
 
-Lizardfolk: level 3; Armor 1
+**Lizardfolk:** level 3; Armor 1
 
-Merchant: level 2, haggling and assessment tasks as level 3
+**Merchant:** level 2, haggling and assessment tasks as level 3
 
-Mummy: level 6; ancient history, ancient religion, climbing, and stealth as level 8; health 24; Armor 2; damage inflicted 7 points
+**Mummy:** level 6; ancient history, ancient religion, climbing, and stealth as level 8; health 24; Armor 2; damage inflicted 7 points
 
-Nymph: level 3, stealth and positive social interactions as level 6
+**Nymph:** level 3, stealth and positive social interactions as level 6
 
-Pegasus: level 3, Speed defense as level 4; moves or flies a long distance each round
+**Pegasus:** level 3, Speed defense as level 4; moves or flies a long distance each round
 
-Pterodactyl: level 3; Armor 1; flies a long distance each round
+**Pterodactyl:** level 3; Armor 1; flies a long distance each round
 
-Rat: level 1
+**Rat:** level 1
 
-Roc: level 6; health 25; Armor 2; flies a long distance each round; attacks twice as an action
+**Roc:** level 6; health 25; Armor 2; flies a long distance each round; attacks twice as an action
 
-Shark: level 3, attacks as level 4; health 15; Armor 2
+**Shark:** level 3, attacks as level 4; health 15; Armor 2
 
-Undead claw: level 1, attacks as level 3, Speed defense as level 3 due to quickness and size; health 5; Armor 1
+**Undead claw:** level 1, attacks as level 3, Speed defense as level 3 due to quickness and size; health 5; Armor 1
 
-Unicorn: level 4; Might defense, perception, and attacks as level 5; health 15; Armor 1; makes two attacks as its action; once per hour can teleport up to 1 mile; once per hour can heal a creature for 4 Pool points (or health) and remove poisons up to level 4
+**Unicorn:** level 4; Might defense, perception, and attacks as level 5; health 15; Armor 1; makes two attacks as its action; once per hour can teleport up to 1 mile; once per hour can heal a creature for 4 Pool points (or health) and remove poisons up to level 4
 
-Villager: level 1
+**Villager:** level 1
 
-Viper: level 2; bite inflicts 3 points of Speed damage (ignores Armor)
+**Viper:** level 2; bite inflicts 3 points of Speed damage (ignores Armor)
 
-Warhorse: level 4; moves a long distance each round
+**Warhorse:** level 4; moves a long distance each round
 
-Werebear: level 5, attacks as level 6; Armor 1; damage inflicted 6 points; regenerates 2
+**Werebear:** level 5, attacks as level 6; Armor 1; damage inflicted 6 points; regenerates 2
 
 health per round (unless recently wounded by silver)
 
-Wererat: level 3, Speed defense and stealth as level 4; regenerates 2 health per round (unless recently wounded by silver)
+**Wererat:** level 3, Speed defense and stealth as level 4; regenerates 2 health per round (unless recently wounded by silver)
 
-Wereshark: level 4, attacks as level 5; health 15; Armor 2; regenerates 2 health per round (unless recently wounded by silver)
+**Wereshark:** level 4, attacks as level 5; health 15; Armor 2; regenerates 2 health per round (unless recently wounded by silver)
 
-Weretiger: level 5, attacks as level 6; Armor 1; damage inflicted 6 points; regenerates 2 health per round (unless recently wounded by silver)
+**Weretiger:** level 5, attacks as level 6; Armor 1; damage inflicted 6 points; regenerates 2 health per round (unless recently wounded by silver)
 
-Wolf: level 3, perception as level 4
+**Wolf:** level 3, perception as level 4
 
-Yeti: level 3; attacks, perception, and stealth as level 4; Armor 1
+**Yeti:** level 3; attacks, perception, and stealth as level 4; Armor 1
 
-BASILISK 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Basilisk <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 A basilisk is a magical kind of serpent that resembles a cobra, has a series of scales on its head like a crown, and crawls upright instead of slithering on its belly. It feeds on snakes and other creatures smaller than itself, relying on its poisonous aura to weaken and kill its prey. It is known to make an unnerving growl instead of a typical snake hiss. An adult basilisk is 10 to 18 feet (3 to 5.5 m) long. 
 
-Motive: Hunger 
+**Motive:** Hunger 
 
-Environment: Forests and plains 
+**Environment:** Forests and plains 
 
-Health: 15 
+**Health:** 15 
 
-Damage Inflicted: 5 points 
+**Damage Inflicted:** 5 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: Perception and stealth as level 6 
+**Modifications:** Perception and stealth as level 6 
 
-Combat: A basilisk bites like a snake, inflicting 5 points of damage and injecting a poison that moves the target one step down the damage track if they fail a Might defense roll. 
+**Combat:** A basilisk bites like a snake, inflicting 5 points of damage and injecting a poison that moves the target one step down the damage track if they fail a Might defense roll. 
 
 The basilisk can spit its poison up to short range, inflicting 1 point of damage and moving the target one step down the damage track if they fail a Might defense roll. 
 
@@ -10644,31 +10516,30 @@ Basilisk venom is so potent that even creatures that are immune to poison can st
 
 Anyone within short range of a basilisk who meets its gaze and fails a Might defense roll turns to stone. In combat, when a character within short distance attacks a basilisk, they must either avert their gaze to attack safely (which hinders their attack by two steps) or make a Might defense roll. On a failed Might defense roll, the character takes 5 points of ambient damage as their flesh partly mineralizes; if the character is killed by this damage, they are turned to stone. 
 
-Interaction: Basilisks act like simple animals and respond threateningly if disturbed or provoked. If not hungry, a basilisk avoids conflict and hides in its lair. 
+**Interaction:** Basilisks act like simple animals and respond threateningly if disturbed or provoked. If not hungry, a basilisk avoids conflict and hides in its lair. 
 
-Use: A blighted area in a field, briar, or forest suggests that a basilisk has moved into the area. Swarms of snakes enter a village, fleeing an approaching basilisk. 
+**Use:** A blighted area in a field, briar, or forest suggests that a basilisk has moved into the area. Swarms of snakes enter a village, fleeing an approaching basilisk. 
 
-Loot: Basilisk venom is valuable, but it must be stored in a strong, sealed container or the bearer will succumb to the poison. Its blood has alchemical properties relating to transmuting metals.
+**Loot:** Basilisk venom is valuable, but it must be stored in a strong, sealed container or the bearer will succumb to the poison. Its blood has alchemical properties relating to transmuting metals.
 
-BLACKGUARD 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Blackguard <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Blackguards are evil knights who serve dark entities or their own corrupt agendas. Some were once honorable knights who fell to temptation and have abandoned their original principles, but many were raised under evil circumstances and have never known anything but hatred and conflict. 
 
-Motive: Power, domination of others, slaughter 
+**Motive:** Power, domination of others, slaughter 
 
-Environment: Almost anywhere, either alone or as part of a cult or evil organization 
+**Environment:** Almost anywhere, either alone or as part of a cult or evil organization 
 
-Health: 30 
+**Health:** 30 
 
-Damage Inflicted: 7 points 
+**Damage Inflicted:** 7 points 
 
-Armor: 2 or 3 
+**Armor:** 2 or 3 
 
-Movement: Short; long when mounted 
+**Movement:** Short; long when mounted 
 
-Modifications: Perception and Intellect defense as level 7 
+**Modifications:** Perception and Intellect defense as level 7 
 
-Combat: Blackguards use high-quality armor and weapons (usually decorated with symbols depicting death, demons, or evil gods). Many wear heavy armor and prefer weapons that inflict bleeding wounds, but some take a more subtle approach and act more like assassins than knights. A blackguard typically has two or three of the following abilities: 
+**Combat:** Blackguards use high-quality armor and weapons (usually decorated with symbols depicting death, demons, or evil gods). Many wear heavy armor and prefer weapons that inflict bleeding wounds, but some take a more subtle approach and act more like assassins than knights. A blackguard typically has two or three of the following abilities: 
 
 Fiendish Beast: The blackguard has a companion creature such as a dog, horse, or raven with an eerie, unnatural look (in the case of small animals, the creature may also be an exceptionally large specimen of its kind). The creature is actually a semi-intelligent fiend in animal shape (and therefore immune to abilities that affect only normal animals) that can understand the blackguard’s commands, and may even be able to speak. If the beast is a horse or similar creature, the blackguard might ride it as a mount. 
 
@@ -10684,14 +10555,13 @@ Aura: Defense rolls by foes within immediate distance of the blackguard are hind
 
 Unholy Blessing: The blackguard’s defense rolls are eased. 
 
-Interaction: Blackguards enjoy killing righteous paragons of good and are often cruel for the sake of cruelty itself. 
+**Interaction:** Blackguards enjoy killing righteous paragons of good and are often cruel for the sake of cruelty itself. 
 
-Use: A blackguard has united various groups of bandits into a small army. An evil wizard sends her blackguard lieutenant to kill the people interfering with her plans. 
+**Use:** A blackguard has united various groups of bandits into a small army. An evil wizard sends her blackguard lieutenant to kill the people interfering with her plans. 
 
-Loot: Blackguards usually have treasures equivalent to three or four expensive items, a few useful manifest cyphers, and an artifact weapon or armor.
+**Loot:** Blackguards usually have treasures equivalent to three or four expensive items, a few useful manifest cyphers, and an artifact weapon or armor.
 
-CAMBION 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Cambion <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Fine ebony scales cover a cambion’s perfectly athletic figure. Two reddish horns grow from
 
 its brow, and the tips of fangs emerge from between its dusky lips. Its eyes, absent iris and
@@ -10702,51 +10572,50 @@ demonic parentage, and are also sometimes called helborn. Most cambions give in 
 
 everyone expects of them, and embrace evil.
 
-Motive: Defense, conquest, revenge on a world that’s rejected them
+**Motive:** Defense, conquest, revenge on a world that’s rejected them
 
-Environment: Anywhere, often hiding in plain sight
+**Environment:** Anywhere, often hiding in plain sight
 
-Health: 25
+**Health:** 25
 
-Damage Inflicted: 6 points
+**Damage Inflicted:** 6 points
 
-Armor: 1
+**Armor:** 1
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Disguise as level 7
+**Modifications:** Disguise as level 7
 
-Combat: Cambions sometimes wield heavy weapons in combat, especially if they come across an artifact that can enhance their attacks. Some cambions develop their natural and magical abilities to become powerful sorcerers, but most can call up hellish energy merely by willing it at least once per day, as follows.
+**Combat:** Cambions sometimes wield heavy weapons in combat, especially if they come across an artifact that can enhance their attacks. Some cambions develop their natural and magical abilities to become powerful sorcerers, but most can call up hellish energy merely by willing it at least once per day, as follows.
 
 Finger of Torture: A ruby ray lances out from the cambion’s finger to strike an enemy prone with torturous pain on a failed Might defense task. The target automatically takes 6 points of damage each round until they can escape the effect with an Intellect task.
 
 Soulfire Blast: An explosion of soul-rending black and crimson fire explodes around up to three targets standing next to each other within short range, inflicting 4 points of damage and stunning the targets so that they lose their next action on a failed Speed defense task.
 
-Interaction: Cambions are bleak, depressed, and misunderstood. Most have turned to evil, but a few can be redeemed.
+**Interaction:** Cambions are bleak, depressed, and misunderstood. Most have turned to evil, but a few can be redeemed.
 
-Use: A great fire is seen burning on the horizon. The next day, travelers come across a burned region with a crater that has destroyed a farmhouse. At the center of the crater is an unconscious human with hornlike growths on its head.
+**Use:** A great fire is seen burning on the horizon. The next day, travelers come across a burned region with a crater that has destroyed a farmhouse. At the center of the crater is an unconscious human with hornlike growths on its head.
 
-Loot: Powerful cambions sometimes wield artifacts as weapons.
+**Loot:** Powerful cambions sometimes wield artifacts as weapons.
 
-CORRUPT MAGE 7 (21)
-
+{{< hint danger >}} {{< columns2 >}} Corrupt Mage <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 Some wizards and sorcerers are tempted by dark magic, inevitably damning their souls and corrupting their flesh as they cut corners and delve into forbidden lore. Their research and experimentation create new kinds of rampaging monsters and turn people into misshapen horrors. They sometimes modify their own bodies in order to gain demonic or draconic powers, or make pacts with such creatures for knowledge and magical ingredients. 
 
-Motive: Magical knowledge at all costs 
+**Motive:** Magical knowledge at all costs 
 
-Environment: Almost anywhere, usually with fleshbeast minions 
+**Environment:** Almost anywhere, usually with fleshbeast minions 
 
-Health: 35 
+**Health:** 35 
 
-Damage Inflicted: 7 points 
+**Damage Inflicted:** 7 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: All tasks related to knowledge of arcane lore, demons, and altering bodies as level 8 
+**Modifications:** All tasks related to knowledge of arcane lore, demons, and altering bodies as level 8 
 
-Combat: Corrupt mages blast opponents with beams of energy that blister, slash, and rot flesh, attacking up to three creatures as an action. Many of them have given themselves long claws and teeth that they can use to make up to three melee attacks per action. 
+**Combat:** Corrupt mages blast opponents with beams of energy that blister, slash, and rot flesh, attacking up to three creatures as an action. Many of them have given themselves long claws and teeth that they can use to make up to three melee attacks per action. 
 
 A corrupt mage knows many spells, such as the following:
 
@@ -10766,61 +10635,59 @@ A corrupt mage knows many spells, such as the following:
 >
 > A corrupt mage usually has several cyphers useful in combat and perhaps an artifact as well. 
 
-Interaction: Corrupt mages generally can’t be trusted and see other creatures as things to experiment on and vivisect. They might negotiate with someone who brings them a rare specimen or spell. Many are mentally disturbed by their research and self-alterations and may fluctuate between calm clarity, obsession, paranoia, and rage. 
+**Interaction:** Corrupt mages generally can’t be trusted and see other creatures as things to experiment on and vivisect. They might negotiate with someone who brings them a rare specimen or spell. Many are mentally disturbed by their research and self-alterations and may fluctuate between calm clarity, obsession, paranoia, and rage. 
 
-Use: The strange hybrid monsters emerging from the forest are said to be the creations of a corrupt mage. A corrupt mage in a calm state presents themselves as a neutral or benevolent wizard seeking assistance on a task. 
+**Use:** The strange hybrid monsters emerging from the forest are said to be the creations of a corrupt mage. A corrupt mage in a calm state presents themselves as a neutral or benevolent wizard seeking assistance on a task. 
 
 > Loot: A corrupt mage has 1d6 cyphers and perhaps a wizardly artifact.
 
-CYCLOPS 7 (21)
-
+{{< hint danger >}} {{< columns2 >}} Cyclops <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 Cyclopes resemble massive humans that stand 50 to 60 feet (15 to 18 m) tall and weigh about 10,000 pounds (4,500 kg). Everything about these giants is exaggerated, from the thick features of their faces to their oversized hands and lumpy, corpulent bodies. They clothe themselves in animal skins, scraps of cloth, or canvas stolen during their travels. A cyclops’s most distinctive feature is the single eye positioned in the center of its forehead. Cyclopes live on the edges of civilized areas or on remote islands. For all their power and stature, they aren’t especially brave, and most have a dim idea that puny humans have an advantage when they have numbers on their side.
 
-Motive: Hungers for flesh 
+**Motive:** Hungers for flesh 
 
-Environment: Almost anywhere 
+**Environment:** Almost anywhere 
 
-Health: 32
+**Health:** 32
 
-Damage Inflicted: 8 points 
+**Damage Inflicted:** 8 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: Attacks targets within immediate range as level 5 due to poor eyesight; Speed defense as level 5 due to size; Intellect defense as level 4 
+**Modifications:** Attacks targets within immediate range as level 5 due to poor eyesight; Speed defense as level 5 due to size; Intellect defense as level 4 
 
-Combat: A cyclops can always resort to using its fists in melee, pummeling opponents with knuckles the size of large hogs. However, most cyclopes carry a tree trunk and use it to sweep enemies from their path. Due to its massive height, a cyclops can make a melee attack against creatures within short range. 
+**Combat:** A cyclops can always resort to using its fists in melee, pummeling opponents with knuckles the size of large hogs. However, most cyclopes carry a tree trunk and use it to sweep enemies from their path. Due to its massive height, a cyclops can make a melee attack against creatures within short range. 
 
 > Cyclopes can pry up boulders from the ground and throw them at targets within long range. A thrown boulder inflicts 8 points of damage to all targets in an immediate area. 
 >
 > Killing a cyclops can be dangerous. When killed, it falls away from the attacker that delivered the killing blow. Any creature under it when it falls must make a successful Speed defense roll or be pinned under its corpse and take 7 points of damage. Escaping from under a dead cyclops requires a successful Might roll. 
 
-Interaction: Cyclopes know the language of the lands they inhabit, but they are notoriously dim and easily fooled. A cyclops thinks about its belly first and foremost and doesn’t pay much attention to what it stuffs in its mouth. 
+**Interaction:** Cyclopes know the language of the lands they inhabit, but they are notoriously dim and easily fooled. A cyclops thinks about its belly first and foremost and doesn’t pay much attention to what it stuffs in its mouth. 
 
-Use: A cyclops has been rampaging across the countryside, and warriors sent to deal with it have been vanquished. PCs who investigate learn that the cyclops has been robbed and is trying to find the stolen item. 
+**Use:** A cyclops has been rampaging across the countryside, and warriors sent to deal with it have been vanquished. PCs who investigate learn that the cyclops has been robbed and is trying to find the stolen item. 
 
-Loot: Most cyclopes carry sacks filled with things they find interesting or plan to eat. Aside from the rubbish, a typical sack contains 1d100 coins of the realm and a couple of cyphers.
+**Loot:** Most cyclopes carry sacks filled with things they find interesting or plan to eat. Aside from the rubbish, a typical sack contains 1d100 coins of the realm and a couple of cyphers.
 
-DEMON LORD 9 (27)
-
+{{< hint danger >}} {{< columns2 >}} Demon Lord <---> 9 (27) {{< /columns2 >}}{{< /hint >}}
 Demon lords are mighty demons, commanding hundreds of lesser fiends and often ruling an entire hellscape dimension. No mere brutes, they are smart, wield powerful magic, make centuries-long plans of conquest against rival demons, and seek to corrupt and enslave powerful mortals. Some are nearly as powerful as gods and are worshipped as such by cultists or evil creatures, claiming ownership of a concept like murder, rot, undeath, or seduction. A few are known to mate with mortals to produce cambion offspring. 
 
-Motive: Power, conquest, souls 
+**Motive:** Power, conquest, souls 
 
-Environment: Any hell dimension, sometimes called by mortal magic 
+**Environment:** Any hell dimension, sometimes called by mortal magic 
 
-Health: 100
+**Health:** 100
 
-Damage Inflicted: 12 points 
+**Damage Inflicted:** 12 points 
 
-Armor: 5 
+**Armor:** 5 
 
-Movement: Short; long when flying 
+**Movement:** Short; long when flying 
 
-Modifications: History and magical knowledge as level 10
+**Modifications:** History and magical knowledge as level 10
 
-Combat: A demon lord attacks with a bolt of evil energy or fire up to a long distance away, inflicting 12 points of damage on one target or 9 points of damage on all targets within short range of the primary target. Targets caught in the area attack who succeed on a Speed defense roll still suffer 5 points of damage. A demon lord can make melee attacks on all targets within immediate range as an action. 
+**Combat:** A demon lord attacks with a bolt of evil energy or fire up to a long distance away, inflicting 12 points of damage on one target or 9 points of damage on all targets within short range of the primary target. Targets caught in the area attack who succeed on a Speed defense roll still suffer 5 points of damage. A demon lord can make melee attacks on all targets within immediate range as an action. 
 
 They can also call on a variety of other magical abilities that mimic the effect of any cypher of level 5 or lower—usually destructive, painful, and transformative effects.
 
@@ -10834,108 +10701,104 @@ They can also call on a variety of other magical abilities that mimic the effect
 
 • Wish: The demon lord can grant a mortal a wish (up to level 9) in exchange for an appropriate payment or service, but the wish is often twisted or has hidden consequences. 
 
-Interaction: Demon lords are willing to bargain with mortals if it leads to the mortal’s corruption or advances the demon’s agenda in some way. They sometimes respond to flattery or bribes of powerful souls or magic items. 
+**Interaction:** Demon lords are willing to bargain with mortals if it leads to the mortal’s corruption or advances the demon’s agenda in some way. They sometimes respond to flattery or bribes of powerful souls or magic items. 
 
-Use: A mad cult wants to summon a demon lord in order to end the world. A mysterious stranger offers aid in exchange for a favor to be named later. 
+**Use:** A mad cult wants to summon a demon lord in order to end the world. A mysterious stranger offers aid in exchange for a favor to be named later. 
 
-Loot: A demon lord often has an artifact relating to some aspect of its nature or interests, such as a weapon, ring, or armor, as well as 1d6 cyphers.
+**Loot:** A demon lord often has an artifact relating to some aspect of its nature or interests, such as a weapon, ring, or armor, as well as 1d6 cyphers.
 
-ELEMENTAL, AIR 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Elemental, Air <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Air elementals are capricious pieces of air with simple minds. They spontaneously appear in clouds and high mountains, and often resemble an area of mist or a cloudlike humanoid shape. 
 
-Motive: Mischief and destruction 
+**Motive:** Mischief and destruction 
 
-Environment: Anywhere the wind blows 
+**Environment:** Anywhere the wind blows 
 
-Health: 24 
+**Health:** 24 
 
-Damage Inflicted: 4 points 
+**Damage Inflicted:** 4 points 
 
-Movement: Long when flying 
+**Movement:** Long when flying 
 
-Modifications: Stealth as level 6  
-Combat: Air elementals slice foes up to a short distance away with blades of fierce wind, or use blasts of air to throw small objects. Once every other round, an air elemental can turn into a tornado-like vortex that inflicts 4 points of damage to all creatures within immediate range. In this form, the elemental gains +1 to Armor and an additional +2 to Armor against physical projectile weapons such as arrows and javelins. The elemental reverts to its normal form at the start of its next turn. 
+**Modifications:** Stealth as level 6  
+**Combat:** Air elementals slice foes up to a short distance away with blades of fierce wind, or use blasts of air to throw small objects. Once every other round, an air elemental can turn into a tornado-like vortex that inflicts 4 points of damage to all creatures within immediate range. In this form, the elemental gains +1 to Armor and an additional +2 to Armor against physical projectile weapons such as arrows and javelins. The elemental reverts to its normal form at the start of its next turn. 
 
 An air elemental can disperse itself over a short area as an action. In this form it is invisible, unable to attack, and can’t be attacked except with area attacks. The elemental can remain in this form indefinitely, but must use an action to return to its normal form. 
 
 Air elementals are elusive opponents and hard to destroy. If an air elemental is reduced to 0 health, there is a 50 percent chance that it rejuvenates a few rounds later with 6 health. The elemental then continues to fight or flees to cause trouble elsewhere. 
 
-Interaction: Air elementals see and hear many things, but they are flighty and what they remember usually isn’t important or relevant. They can be summoned with magic but don’t like being controlled, and there is a 10 percent chance that they free themselves and strike out on their own. 
+**Interaction:** Air elementals see and hear many things, but they are flighty and what they remember usually isn’t important or relevant. They can be summoned with magic but don’t like being controlled, and there is a 10 percent chance that they free themselves and strike out on their own. 
 
-Use: A safe mountain trail has become hazardous due to unseasonal winds that threaten to push travelers off a cliff. An old tree is surrounded by whispers of conversations that took place recently and has started hurling sticks and fruit at anyone who comes too close.
+**Use:** A safe mountain trail has become hazardous due to unseasonal winds that threaten to push travelers off a cliff. An old tree is surrounded by whispers of conversations that took place recently and has started hurling sticks and fruit at anyone who comes too close.
 
-ELEMENTAL, THORN 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Elemental, Thorn <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 The grisly sign of an active thorn elemental in areas of heavy woods or jungle is the presence of shriveled bodies dangling from vines, dead of strangulation and poison. Thorn elementals take form in areas dense with woody growth under threat by hatchet, axe, saw, and, sometimes, human-caused climate disruptions. 
 
-Motive: Defense of forests 
+**Motive:** Defense of forests 
 
-Environment: Anywhere trees grow 
+**Environment:** Anywhere trees grow 
 
-Health: 36 
+**Health:** 36 
 
-Damage Inflicted: 6 points 
+**Damage Inflicted:** 6 points 
 
-Armor: 2 
+**Armor:** 2 
 
-Movement: Immediate 
+**Movement:** Immediate 
 
-Combat: Thorn elementals batter foes with thorny, vine-wrapped fists. Targets who suffer damage must make a successful Might defense roll or take 2 points of Speed damage from a paralytic poison transmitted by a thorn’s prick. Worse, the poison continues to inflict 2 points of Speed damage each round until the victim succeeds at a Might defense roll. 
+**Combat:** Thorn elementals batter foes with thorny, vine-wrapped fists. Targets who suffer damage must make a successful Might defense roll or take 2 points of Speed damage from a paralytic poison transmitted by a thorn’s prick. Worse, the poison continues to inflict 2 points of Speed damage each round until the victim succeeds at a Might defense roll. 
 
 As its action, a thorn elemental can disentangle its form and reassemble a new body anywhere within long range where trees and plants grow. A thorn elemental regains 2 points of health each time it travels in this fashion. 
 
-Interaction: Thorn elementals communicate through speech, though they generally disdain talking to creatures of the animal kingdom. Thorn elementals exist within a hierarchy; those that have a greater capacity for communication are also usually more powerful. Summoned thorn elementals have about a 5 percent chance of breaking the geas and turning on their summoner. 
+**Interaction:** Thorn elementals communicate through speech, though they generally disdain talking to creatures of the animal kingdom. Thorn elementals exist within a hierarchy; those that have a greater capacity for communication are also usually more powerful. Summoned thorn elementals have about a 5 percent chance of breaking the geas and turning on their summoner. 
 
-Use: Adventuring characters journey through a forest that is under threat of destruction by an encroachment of other humanoids. Thinking the PCs are part of the encroachers, a thorn elemental attacks them. If communication is opened, it might break off hostilities and instead ask the characters to help. 
+**Use:** Adventuring characters journey through a forest that is under threat of destruction by an encroachment of other humanoids. Thinking the PCs are part of the encroachers, a thorn elemental attacks them. If communication is opened, it might break off hostilities and instead ask the characters to help. 
 
-Loot: The bodies of those previously defeated by thorn elementals dangle from the forest or jungle canopy with all their former possessions. One or two might have a cypher and other tools and treasure.
+**Loot:** The bodies of those previously defeated by thorn elementals dangle from the forest or jungle canopy with all their former possessions. One or two might have a cypher and other tools and treasure.
 
-ELEMENTAL, WATER 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Elemental, Water <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Water elementals are animate masses of water. When swimming, they are nearly indistinguishable from their surroundings, but when they have to move on dry land, they usually take the form of a curling wave, amorphous blob, or large puddle. They can spontaneously appear in locations with pristine salt or fresh water. 
 
-Motive: Flood, drown, and wash away 
+**Motive:** Flood, drown, and wash away 
 
-Environment: Anywhere there is flowing water 
+**Environment:** Anywhere there is flowing water 
 
-Health: 24 
+**Health:** 24 
 
-Damage Inflicted: 4 points 
+**Damage Inflicted:** 4 points 
 
-Movement: Short; long if swimming 
+**Movement:** Short; long if swimming 
 
-Modifications: Swimming and aquatic maneuvers as level 6; stealth as level 6 when in water 
+**Modifications:** Swimming and aquatic maneuvers as level 6; stealth as level 6 when in water 
 
-Combat: Water elementals bash opponents with heavy limbs of water or spray jets of water out to short range. 
+**Combat:** Water elementals bash opponents with heavy limbs of water or spray jets of water out to short range. 
 
 Instead of a bashing attack, a water elemental can use its action to attempt to envelop, smother, and crush one opponent, who can resist with a Might defense roll. If the opponent fails, it takes 4 points of damage immediately and every round on the elemental’s turn. Each following turn, the enveloped character must attempt a new Might defense roll every round or move one step down the damage track from drowning as the elemental forces itself into the creature’s lungs. The creature can free itself with a Might defense roll. An elemental with an enveloped opponent can move up to a short distance as its action; a common tactic is to dive deep, release their opponent to drown normally, then return to its previous position to fight other opponents. 
 
 Any attack that inflicts 6 or more points of cold damage hinders a water elemental’s actions on its next turn.
 
-Interaction: Water elementals are somewhat intelligent but think very differently from humans, so they often seem distracted and dull. They are generally compliant when summoned with magic, but there is about a 5 percent chance that they break free of the spell and lash out against their summoner. 
+**Interaction:** Water elementals are somewhat intelligent but think very differently from humans, so they often seem distracted and dull. They are generally compliant when summoned with magic, but there is about a 5 percent chance that they break free of the spell and lash out against their summoner. 
 
-Use: Offerings left at a sacred pond have gone missing, and the water itself seems threatening. Garbage or dead bodies have polluted a water source, spawning an angry elemental that attacks everyone until the mess is cleaned up.
+**Use:** Offerings left at a sacred pond have gone missing, and the water itself seems threatening. Garbage or dead bodies have polluted a water source, spawning an angry elemental that attacks everyone until the mess is cleaned up.
 
-EVIL PRIEST 7 (21)
-
+{{< hint danger >}} {{< columns2 >}} Evil Priest <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 Evil priests are worshippers of evil gods, demons, devils, strange malevolent forces from beyond known dimensions, or even death itself. They lead cults, corrupt the innocent with lies and twisted ideologies, and enact the will of their patron in the mortal world. The most insidious ones are able to infiltrate good churches and secular organizations in order to tear them down from the inside. 
 
-Motive: Domination of others, divine rule 
+**Motive:** Domination of others, divine rule 
 
-Environment: Almost anywhere that people live 
+**Environment:** Almost anywhere that people live 
 
-Health: 28 
+**Health:** 28 
 
-Damage Inflicted: 7 points 
+**Damage Inflicted:** 7 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: Deception, persuasion, and religious lore as level 8 
+**Modifications:** Deception, persuasion, and religious lore as level 8 
 
-Combat: Evil priests make one or two short-range magical attacks as an action, which are thematically appropriate to the god or entity they serve, such as blasts of hellfire, grasping shadowy tentacles, or disruptive necromantic energy. They often rely on zealous minions to protect them from melee opponents. 
+**Combat:** Evil priests make one or two short-range magical attacks as an action, which are thematically appropriate to the god or entity they serve, such as blasts of hellfire, grasping shadowy tentacles, or disruptive necromantic energy. They often rely on zealous minions to protect them from melee opponents. 
 
 Priests usually know several spells, such as how to banish or control creatures from other dimensions, create an area of darkness, see and hear remote locations, speak with the dead, mesmerize or paralyze a person, cause blindness, or create a ward against energy damage. They also have the following magical abilities: 
 
@@ -10951,29 +10814,28 @@ Priests usually know several spells, such as how to banish or control creatures 
 
 • An evil priest usually has one or two combat-useful manifest cyphers and often has an artifact appropriate to their religion. Most also wear armor or have an ongoing defensive spell that grants them Armor. 
 
-Interaction: Evil priests tend to be knowledgeable, arrogant, and condescending toward heroes and members of rival faiths. They might strike a bargain to save their lives or the life of a valuable minion, or to gain an advantage later on. 
+**Interaction:** Evil priests tend to be knowledgeable, arrogant, and condescending toward heroes and members of rival faiths. They might strike a bargain to save their lives or the life of a valuable minion, or to gain an advantage later on. 
 
-Use: An evil priest is converting frightened peasants into followers, and turning those who refuse into zombie slaves. A new religious figure in the city is acting suspiciously, and members of rival faiths have been disappearing or turning up dead. 
+**Use:** An evil priest is converting frightened peasants into followers, and turning those who refuse into zombie slaves. A new religious figure in the city is acting suspiciously, and members of rival faiths have been disappearing or turning up dead. 
 
-Loot: Evil priests usually have mundane treasures equivalent to three or four expensive items, a few useful manifest cyphers, and an artifact.
+**Loot:** Evil priests usually have mundane treasures equivalent to three or four expensive items, a few useful manifest cyphers, and an artifact.
 
-FAERIE 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Faerie <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Faeries are magic creatures of music, mirth, tricks, and taunts. Some might only perform a silly song or follow people for a while, flitting around and asking questions like an annoying young child. Some faeries are crueler and delight in stealing clothing, equipment, or prized objects. And a few are downright malicious and, under the guise of a helpful guide or a pretty light in the distance, lure lost travelers to various dooms. 
 
-Motive: Unpredictable 
+**Motive:** Unpredictable 
 
-Environment: Alone or in a flutter of three to twelve 
+**Environment:** Alone or in a flutter of three to twelve 
 
-Health: 12 
+**Health:** 12 
 
-Damage Inflicted: 4 points 
+**Damage Inflicted:** 4 points 
 
-Movement: Immediate; long when flying 
+**Movement:** Immediate; long when flying 
 
-Modifications: Tasks related to performance and deception as level 5; Speed defense as level 5 due to size and quickness 
+**Modifications:** Tasks related to performance and deception as level 5; Speed defense as level 5 due to size and quickness 
 
-Combat: A faerie can hurl damaging magic dust at any target within short range, but sometimes it wields tiny weapons such as bows, spears, or swords. 
+**Combat:** A faerie can hurl damaging magic dust at any target within short range, but sometimes it wields tiny weapons such as bows, spears, or swords. 
 
 If a faerie is touched or struck by a melee weapon, more magic dust puffs away from the faerie and clouds the attacker, who must make a Speed defense roll or take the same amount of damage they just dealt to the faerie. 
 
@@ -10983,57 +10845,55 @@ Faeries regenerate 1 point of health per round while their health is above 0. 
 
 Some faeries can attempt to use a song or light display to charm others within short range. The target must succeed on an Intellect defense roll or fall into a suggestible state for one hour. During this period, the target can be led by the faerie at their regular movement rate. The target can be brought out of the spell early if they take damage or are heartily slapped and shaken for a round or two, causing the glamour to fade. A faerie can use this power once per minute. 
 
-Interaction: Faeries are mercurial creatures, but except for the malicious ones, they can be negotiated with, especially if offered sweets, wine, or other gifts. However, faerie attention spans are limited, so even one that means well could end up leaving the PCs in the lurch at just the wrong moment. 
+**Interaction:** Faeries are mercurial creatures, but except for the malicious ones, they can be negotiated with, especially if offered sweets, wine, or other gifts. However, faerie attention spans are limited, so even one that means well could end up leaving the PCs in the lurch at just the wrong moment. 
 
-Use: The dancing light in the distance, leading curious PCs deeper and deeper into the dark woods, is a faerie. And the destination could be a wicked witch or other unpleasant location.
+**Use:** The dancing light in the distance, leading curious PCs deeper and deeper into the dark woods, is a faerie. And the destination could be a wicked witch or other unpleasant location.
 
-Loot: The tiny pouches that faeries carry are stuffed with forest bric-a-brac, but some of those pouches are ten times larger on the inside and might hold a handful of shiny coins or a cypher.
+**Loot:** The tiny pouches that faeries carry are stuffed with forest bric-a-brac, but some of those pouches are ten times larger on the inside and might hold a handful of shiny coins or a cypher.
 
-GORGON 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Gorgon <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Statues littering the grounds outside a ruin are meant to deter savvy robbers and explorers. The statues, ranging in size from birds to warriors astride steeds, all depict creatures in states of fright and pain, the final image of death. These pieces are not the work of a fevered mind, but the fates of those who braved a gorgon’s lair. Gorgons were humans once. After they offended the gods with their vanity, they were transformed into hideous monsters. A gorgon has the upper body of a human of perfect form and physique, but the lower body of a giant serpent, complete with rattling tail. One who dares look at a gorgon’s face can see traces of the old beauty beneath a weary veneer, darkened by hatred. Instead of hair, serpents crown a gorgon’s head, snapping and hissing at anyone who draws near. Yet the most terrible aspect of a gorgon is its gaze, which can turn any creature to stone. 
 
-Motive: Isolation, defense 
+**Motive:** Isolation, defense 
 
-Environment: Alone, sequestered in the isolated ruins of old cities and castles 
+**Environment:** Alone, sequestered in the isolated ruins of old cities and castles 
 
-Health: 12 
+**Health:** 12 
 
-Damage Inflicted: 5 points 
+**Damage Inflicted:** 5 points 
 
-Movement: Short 
+**Movement:** Short 
 
-Combat: A gorgon has a long-range bow attack. Since creatures that see the gorgon often turn to stone, it must take down its prey at long range so it can get fresh meat. In close combat, a gorgon lashes out with a long dagger or, rarely, a sword. As part of the action the gorgon uses to attack, the serpents on its head can also attack one target within immediate distance. A target that fails its Speed defense roll takes 2 points of damage from the bite and must immediately make a Might defense roll to resist the poison (which deals 4 additional points of Speed damage that ignores Armor). 
+**Combat:** A gorgon has a long-range bow attack. Since creatures that see the gorgon often turn to stone, it must take down its prey at long range so it can get fresh meat. In close combat, a gorgon lashes out with a long dagger or, rarely, a sword. As part of the action the gorgon uses to attack, the serpents on its head can also attack one target within immediate distance. A target that fails its Speed defense roll takes 2 points of damage from the bite and must immediately make a Might defense roll to resist the poison (which deals 4 additional points of Speed damage that ignores Armor). 
 
 Anyone within short range of a gorgon who meets its gaze and fails a Might defense roll turns to stone. In combat, when a character within short distance attacks the gorgon, they must avert their gaze (which hinders the attack by two steps) or make a Might defense roll. On a failure, they take 5 points of ambient damage as their flesh partly mineralizes. If the character is killed by this damage, they are turned to stone.
 
  Some gorgons carry a couple of cyphers and perhaps an artifact that they can use in combat. 
 
-Interaction: Bitterness consumes gorgons. They lead lonely lives, cut off from everyone they have loved. Negotiating with one would be something of a feat. 
+**Interaction:** Bitterness consumes gorgons. They lead lonely lives, cut off from everyone they have loved. Negotiating with one would be something of a feat. 
 
-Use: A gorgon’s head retains its power to petrify for several days after being cut from the creature. The PCs might brave the gorgon so they can use its head to defeat an even more powerful foe. 
+**Use:** A gorgon’s head retains its power to petrify for several days after being cut from the creature. The PCs might brave the gorgon so they can use its head to defeat an even more powerful foe. 
 
-Loot: A gorgon typically has a few cyphers and may have an artifact as well.
+**Loot:** A gorgon typically has a few cyphers and may have an artifact as well.
 
-HAG 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Hag <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Hags are evil magical creatures distantly related to the fey. They resemble withered ancient humans with obvious inhuman features—dead eyes, green or purple skin, metal teeth, webbed fingers, and seaweed-like hair are common traits. They love corrupting pure and innocent things, and feast on the dreams and flesh of their victims. 
 
-Motive: Power, treachery 
+**Motive:** Power, treachery 
 
-Environment: Forests, swamps, mountains, and unpleasant natural locations 
+**Environment:** Forests, swamps, mountains, and unpleasant natural locations 
 
-Health: 25 
+**Health:** 25 
 
-Damage Inflicted: 6 points 
+**Damage Inflicted:** 6 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: Lying, haggling, magical lore, mimicking voices, and Intellect defense as level 7 
+**Modifications:** Lying, haggling, magical lore, mimicking voices, and Intellect defense as level 7 
 
-Combat: Hags can attack with their iron-hard claws and teeth, but often rely on their magic abilities in combat. Hags can breathe water, and usually have three or more of the following abilities: 
+**Combat:** Hags can attack with their iron-hard claws and teeth, but often rely on their magic abilities in combat. Hags can breathe water, and usually have three or more of the following abilities: 
 
 • Arcane blast: Use magical energy to blast one foe within short range and inflict 6 points of damage, or divide this energy (and damage) among several foes as the hag sees fit (each foe makes their own Speed defense roll against this attack). 
 
@@ -11057,121 +10917,117 @@ Combat: Hags can attack with their iron-hard claws and teeth, but often rely on 
 
 Three or more allied hags form a coven, which allows them to use each other’s magical abilities, and usually grants the coven (when working together) one or two additional abilities. 
 
-Interaction: Hags are evil, greedy, hateful, and cruel. They rarely do things for others unless they benefit in some way, and they like to trick fools into dangerous tasks that end up profiting the hag instead of anyone else. If shown proper respect and bribed or paid, a hag can be a valuable source of lore. 
+**Interaction:** Hags are evil, greedy, hateful, and cruel. They rarely do things for others unless they benefit in some way, and they like to trick fools into dangerous tasks that end up profiting the hag instead of anyone else. If shown proper respect and bribed or paid, a hag can be a valuable source of lore. 
 
-Use: The smell of cakes lures children to a mysterious woodland shack. The hag of the swamp is said to kill anyone who enters their territory without carrying a specific gift. 
+**Use:** The smell of cakes lures children to a mysterious woodland shack. The hag of the swamp is said to kill anyone who enters their territory without carrying a specific gift. 
 
-Loot: In addition to coins and jewels, a hag usually has several scrolls or potions and may have an artifact.
+**Loot:** In addition to coins and jewels, a hag usually has several scrolls or potions and may have an artifact.
 
-HARPY 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Harpy <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 A harpy is a hideous, filthy creature with the body of a large vulture and the neck and head of an ugly human. Their breath reeks of decay, their wings and talons drip with an unpleasant oil, and their eyes shed acrid tears. They love to torment people and lure them to their deaths. 
 
-Motive: Hungers for flesh, causing anguish 
+**Motive:** Hungers for flesh, causing anguish 
 
-Environment: Coastline, forest, and mountains 
+**Environment:** Coastline, forest, and mountains 
 
-Health: 9 
+**Health:** 9 
 
-Damage Inflicted: 4 points 
+**Damage Inflicted:** 4 points 
 
-Movement: Short; long when flying 
+**Movement:** Short; long when flying 
 
-Modifications: Perception and Speed defense as level 4 
+**Modifications:** Perception and Speed defense as level 4 
 
-Combat: Harpies are fast and strong, capable of carrying off a light adult human. They attack with their long talons. 
+**Combat:** Harpies are fast and strong, capable of carrying off a light adult human. They attack with their long talons. 
 
 Anything a harpy touches becomes fouled with their smelly fluids, and one harpy energetically flapping their wings is enough to contaminate an immediate area. Their fluids are repulsive but not directly harmful, and the smell persists even after a casual washing. Any food touched by harpy filth is inedible to anyone but a harpy. Creatures with a sensitive sense of smell (such as dogs and wolves) are hindered when within a short distance of a harpy. It is common for a group of harpies to attack a campsite or festival, spread their stink over everything, and fly away with whatever food they can carry.
 
 A harpy can sing a weird, entrancing song that hypnotizes whoever hears it. Anyone within long range who hears the song must make an Intellect defense roll or stop whatever they are doing and attempt to approach the harpy. If the creature comes within an immediate distance of a singing harpy, they stand there dumbly even as the harpy attacks them. The creature can make another attempt to break free each round on its turn, and taking damage from anything other than a singing harpy allows them another attempt to break free. Five or more harpies can work together on the same song (treat as a level 5 effect). Harpies are cruel and have been known to lead an entranced creature into a pit, off a cliff, or over the railing of a ship. 
 
-Interaction: Other than their singing, harpies do not usually speak with other creatures. They are more likely to jeer and screech at people like an angry bird than try to communicate. 
+**Interaction:** Other than their singing, harpies do not usually speak with other creatures. They are more likely to jeer and screech at people like an angry bird than try to communicate. 
 
-Use: A flock of harpies torments a village during its harvest festival, ruining the celebration and some of the food set aside for the winter. Sailors speak of a lonely island where an old, blind king starves because harpies steal or foul any food set out for him. 
+**Use:** A flock of harpies torments a village during its harvest festival, ruining the celebration and some of the food set aside for the winter. Sailors speak of a lonely island where an old, blind king starves because harpies steal or foul any food set out for him. 
 
-Loot: A harpy nest may have one or two cyphers or other valuables, but the items will smell disgusting unless carefully washed.
+**Loot:** A harpy nest may have one or two cyphers or other valuables, but the items will smell disgusting unless carefully washed.
 
-HOLLOW KNIGHT 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Hollow Knight <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 In haunted castles and among the armies mustered by those with power over life and death, sometimes walk hollow knights. These animated suits of armor move just like living people, and many who encounter these dread revenants mistake them for living foes only to realize in horror that there’s nothing inside except for the memory of the warrior that once donned the suit. Brought into being by binding the spirit of a dead warrior to its panoply, hollow knights behave in much the same way they did in life—disciplined, loyal, and battle ready. Clad head to toe in full plate armor, with battered shields strapped to their arms and rusty swords gripped in lobster gauntlets, the knights stand ready to face any foe, heedless of the danger, driven to serve the necromancer that made them. Hollow knights might ride on the backs of skeletal steeds and wield lances. 
 
-Motive: Obedience to its master 
+**Motive:** Obedience to its master 
 
-Environment: Anywhere 
+**Environment:** Anywhere 
 
-Health: 12 
+**Health:** 12 
 
-Damage Inflicted: 5 points 
+**Damage Inflicted:** 5 points 
 
-Armor: 3 
+**Armor:** 3 
 
-Movement: Short; long while mounted on a skeletal steed 
+**Movement:** Short; long while mounted on a skeletal steed 
 
-Modifications: Resists fear and intimidation as level 10 
+**Modifications:** Resists fear and intimidation as level 10 
 
-Combat: A hollow knight usually fights with a sword or mace. 
+**Combat:** A hollow knight usually fights with a sword or mace. 
 
 When mounted on a steed, a hollow knight charges its enemies whenever possible. As an action, its steed moves a short distance, and the hollow knight can make a single attack at any point during this movement. When attacking in this way, the knight inflicts 7 points of damage. 
 
 A hollow knight is fearless and fights until destroyed or ordered to pull back. The magic animating its armor is slow to fade, so armor components may continue to twitch and jerk even after the knight has fallen. Usually, when defeated, the suit of armor falls apart, and wisps of grey smoke curl up from the remains. 
 
-Interaction: Hollow knights cannot speak. They obey any orders given to them by their creators. 
+**Interaction:** Hollow knights cannot speak. They obey any orders given to them by their creators. 
 
-Use: The necromancer or other magician that binds the spirit to the armor also imbues the armor with specific commands—tasks the knight must carry out until destroyed. Some knights may stand guard at citadels or mansions, keeping a vigil until their armor finally falls apart. Others are more active and may function as the core of a dark wizard’s army.
+**Use:** The necromancer or other magician that binds the spirit to the armor also imbues the armor with specific commands—tasks the knight must carry out until destroyed. Some knights may stand guard at citadels or mansions, keeping a vigil until their armor finally falls apart. Others are more active and may function as the core of a dark wizard’s army.
 
-HYDRA 7 (21)
-
+{{< hint danger >}} {{< columns2 >}} Hydra <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 This mythological reptile has five writhing serpent heads, each of which constantly exhales a venomous plume. Well over 20 feet (6 m) long from the tip of its longest head to its thrashing tail, the toxic beast’s most discomfiting feature is its magical ability to sprout new heads when it’s wounded. Some hydras dwell on land, others in water. Most seem to have been set as guardians of important places by higher powers, which is probably why they’re so difficult to kill. 
 
-Motive: Hungers for flesh, defend a location 
+**Motive:** Hungers for flesh, defend a location 
 
-Environment: Swamps, coasts, and forests 
+**Environment:** Swamps, coasts, and forests 
 
-Health: 24 
+**Health:** 24 
 
-Damage Inflicted: 7 points 
+**Damage Inflicted:** 7 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Short when walking or swimming 
+**Movement:** Short when walking or swimming 
 
-Modifications: Perception as level 8 due to its many heads; Speed defense as level 5 due to size 
+**Modifications:** Perception as level 8 due to its many heads; Speed defense as level 5 due to size 
 
-Combat: Even approaching a hydra is dangerous; the air around it is poisoned by its venomous breath. Each round a creature is within immediate range of a hydra, they must succeed on a Might defense task or take 1 point of Speed damage (ignores Armor). 
+**Combat:** Even approaching a hydra is dangerous; the air around it is poisoned by its venomous breath. Each round a creature is within immediate range of a hydra, they must succeed on a Might defense task or take 1 point of Speed damage (ignores Armor). 
 
 All five of a hydra’s heads can simultaneously bite foes in immediate range. If three or more heads coordinate their attack, the heads make one attack as a single level 9 creature dealing 9 points of damage. A target bitten by the venomous hydra must also succeed on a Might defense task or take an additional 2 points of Speed damage (ignores Armor). 
 
 Whenever the hydra takes 4 or more points of damage from a single attack, a healing pulse surges through the creature a round later. The pulse returns the health just subtracted due to the attack and triggers the immediate growth of two additional heads that sprout from the creature. (The same thing happens if one of the creature’s snakelike heads is decapitated.) The new heads are just as effective as the original ones in a fight. Fire, electrical, and other extreme energy attacks do not trigger the healing pulse and head genesis. 
 
-Interaction: A hydra is a cunning predator, but not intelligent. It can’t bargain or negotiate. 
+**Interaction:** A hydra is a cunning predator, but not intelligent. It can’t bargain or negotiate. 
 
-Use: The PCs investigate an ancient ruin hoping to find artifacts of the gods. A hydra saw them enter and trails them through the crumbling structure at a considerable distance, waiting for them to take a rest or become otherwise distracted before attacking.
+**Use:** The PCs investigate an ancient ruin hoping to find artifacts of the gods. A hydra saw them enter and trails them through the crumbling structure at a considerable distance, waiting for them to take a rest or become otherwise distracted before attacking.
 
- Loot: Hydras sometimes collect cyphers and artifacts in their lair, or failing that, they guard something of value.
+ **Loot:** Hydras sometimes collect cyphers and artifacts in their lair, or failing that, they guard something of value.
 
 ## JOTUNN (NORSE GIANT)
 
 Jotunns are a type of giant—large, somewhat intelligent, bad-tempered, and cultured in their own way, but generally hostile to humans and other “little folk.” Jotunns range from 9 to 20 feet (3 to 6 m) tall, are strong, have long hair, and wear armor and use weapons like humans do. Some are hideous, some are attractive by human standards, and some have multiple heads. They live in caves, lodges, or large castles. There are two main types of jotunns: fire and frost.
 
-JOTUNN, FIRE 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Jotunn, Fire <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Fire jotunns are often called fire giants. Their skin is coal-grey or black; their hair is red or gold and may be metal or actual flames. They prefer hot mountainous climates (particularly volcanoes), wear plate armor, and use greatswords that glow with the natural heat of their bodies. 
 
-Motive: Destruction, hungers for flesh, honor 
+**Motive:** Destruction, hungers for flesh, honor 
 
-Environment: Hot mountains, volcanic areas, supernatural fires 
+**Environment:** Hot mountains, volcanic areas, supernatural fires 
 
-Health: 30 
+**Health:** 30 
 
-Damage Inflicted: 6 points plus 3 points from fire 
+**Damage Inflicted:** 6 points plus 3 points from fire 
 
-Armor: 3 (immune to fire) 
+**Armor:** 3 (immune to fire) 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: Speed defense as level 5 due to size; breaks and throws objects as level 8 
+**Modifications:** Speed defense as level 5 due to size; breaks and throws objects as level 8 
 
-Combat: A fire jotunn uses weapons appropriate to its size (which would be two-handed for a human but can be wielded one-handed by the giant), inflicting 6 points of damage plus another 3 points of ambient fire damage conducted from the jotunn’s body. Jotunns throw boulders up to very long range, inflicting 6 points of damage plus 3 points of fire damage. 
+**Combat:** A fire jotunn uses weapons appropriate to its size (which would be two-handed for a human but can be wielded one-handed by the giant), inflicting 6 points of damage plus another 3 points of ambient fire damage conducted from the jotunn’s body. Jotunns throw boulders up to very long range, inflicting 6 points of damage plus 3 points of fire damage. 
 
 A jotunn can inflict 1 point of fire damage with a touch, and anyone touching it without protection against fire takes damage as if the jotunn had touched them. A slain fire jotunn and its equipment are too hot to safely touch for several minutes. 
 
@@ -11179,31 +11035,30 @@ Fire jotunns are immune to fire damage, but take additional damage from cold (eq
 
 Fire jotunn leaders sometimes have magical powers, usually related to earth and fire. 
 
-Interaction: Fire jotunns tend to be hostile, but they may agree to a nonlethal challenge to allow visitors to pass through their land or join them for a feast. 
+**Interaction:** Fire jotunns tend to be hostile, but they may agree to a nonlethal challenge to allow visitors to pass through their land or join them for a feast. 
 
-Use: A fire jotunn decides to cause trouble for intruders in its territory. A clan of jotunns wages war against a fortified village or town, hurling boulders, starting fires, and stealing livestock. 
+**Use:** A fire jotunn decides to cause trouble for intruders in its territory. A clan of jotunns wages war against a fortified village or town, hurling boulders, starting fires, and stealing livestock. 
 
-Loot: Jotunns like fine things, and their homes usually have utensils, plates, weapons, and trophies made of precious metals and decorated with gems. They may have cyphers, and a leader may carry an artifact.
+**Loot:** Jotunns like fine things, and their homes usually have utensils, plates, weapons, and trophies made of precious metals and decorated with gems. They may have cyphers, and a leader may carry an artifact.
 
-JOTUNN, FROST 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Jotunn, Frost <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Frost jotunns are often called frost giants or ice giants. Their skin is pale white, pink, or blue, and their hair is usually white, pale blond, or actual ice. They prefer cold mountains and tundra, wear chainmail and furs, and use metal axes that channel powerful cold from their bodies. 
 
-Motive: Destruction, hungers for flesh, honor 
+**Motive:** Destruction, hungers for flesh, honor 
 
-Environment: Cold mountains and plains 
+**Environment:** Cold mountains and plains 
 
-Health: 30 
+**Health:** 30 
 
-Damage Inflicted: 6 points plus 3 points from cold 
+**Damage Inflicted:** 6 points plus 3 points from cold 
 
-Armor: 2 (immune to cold) 
+**Armor:** 2 (immune to cold) 
 
-Movement: Short; long when skiing 
+**Movement:** Short; long when skiing 
 
-Modifications: Speed defense as level 5 due to size; breaks and throws objects as level 8 
+**Modifications:** Speed defense as level 5 due to size; breaks and throws objects as level 8 
 
-Combat: A frost jotunn uses weapons appropriate to its size (which would be two-handed for a human but can be wielded one-handed by the giant), inflicting 6 points of damage plus another 3 points of ambient cold damage conducted from the jotunn’s body. Jotunns throw boulders or chunks of ice up to very long range, inflicting 6 points of damage plus 3 points of cold damage. 
+**Combat:** A frost jotunn uses weapons appropriate to its size (which would be two-handed for a human but can be wielded one-handed by the giant), inflicting 6 points of damage plus another 3 points of ambient cold damage conducted from the jotunn’s body. Jotunns throw boulders or chunks of ice up to very long range, inflicting 6 points of damage plus 3 points of cold damage. 
 
 A jotunn can inflict 1 point of cold damage with a touch, and anyone touching it without protection against cold takes damage as if the jotunn had touched them. A slain frost jotunn and its equipment are too cold to safely touch for several minutes. 
 
@@ -11211,31 +11066,30 @@ Frost jotunns are immune to cold damage, but take additional damage from fire (e
 
 Frost jotunn leaders sometimes have magical powers, usually related to illusions and weather. 
 
-Interaction: Frost jotunns tend to be hostile, but if in a generous mood, they may allow visitors to dine with them or rest in their halls. Once they grant someone hospitality, they are loath to break it unless they are attacked, robbed, or tricked. 
+**Interaction:** Frost jotunns tend to be hostile, but if in a generous mood, they may allow visitors to dine with them or rest in their halls. Once they grant someone hospitality, they are loath to break it unless they are attacked, robbed, or tricked. 
 
-Use: A frost jotunn throws a boulder just to be threatening. A clever jotunn offers to share a story in exchange for food and conversation. A clan of jotunns uses the cover of a storm to raid a village. 
+**Use:** A frost jotunn throws a boulder just to be threatening. A clever jotunn offers to share a story in exchange for food and conversation. A clan of jotunns uses the cover of a storm to raid a village. 
 
-Loot: Jotunns like fine things, and their homes usually have utensils, plates, weapons, and trophies made of precious materials and decorated with gems. They may have cyphers, and a leader may carry an artifact.
+**Loot:** Jotunns like fine things, and their homes usually have utensils, plates, weapons, and trophies made of precious materials and decorated with gems. They may have cyphers, and a leader may carry an artifact.
 
-LICH 8 (24)
-
+{{< hint danger >}} {{< columns2 >}} Lich <---> 8 (24) {{< /columns2 >}}{{< /hint >}}
 A lich is a powerful wizard or priest who has used their knowledge of necromancy to bind their soul in a magical object called a phylactery, making them immortal and undead unless their soul object is found and destroyed. Having corrupted its own life energy in an obscene ritual, a lich can pursue its other magical goals, usually the acquisition of more wealth, magic, and power. A newly made lich may look like a recent corpse, but maintaining its physical vessel becomes less of a priority as the centuries pass, so over time they tend to look withered or even skeletal. Liches often work with or command other undead, such as wraiths, skeletons, vampires, and zombies. 
 
-Motive: Magic, immortality, power 
+**Motive:** Magic, immortality, power 
 
-Environment: Wherever they can remain hidden and work undisturbed 
+**Environment:** Wherever they can remain hidden and work undisturbed 
 
-Health: 45 
+**Health:** 45 
 
-Damage Inflicted: 8 points 
+**Damage Inflicted:** 8 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: Intellect defense and magical lore as level 10 
+**Modifications:** Intellect defense and magical lore as level 10 
 
-Combat: A lich can shoot blasts of necromantic energy that inflict 8 points of damage on a target and 4 points on any creature within immediate range of the target. A lich knows many spells, such as the following:
+**Combat:** A lich can shoot blasts of necromantic energy that inflict 8 points of damage on a target and 4 points on any creature within immediate range of the target. A lich knows many spells, such as the following:
 
  • Animate guards: Animate ten corpses as skeletons or zombies, which obey the lich for one hour before turning back into corpses.
 
@@ -11253,147 +11107,142 @@ Combat: A lich can shoot blasts of necromantic energy that inflict 8 points of d
 
 • Teleport: Move instantly up to 1 mile. A lich also likely carries several cyphers useful in combat. Liches are undead, and therefore immune to anything that affects only living creatures, such as disease and poison. Unless its well-hidden phylactery is destroyed, a lich that is killed reforms a new body near its phylactery over the next week or so, returning at full health and with all of its abilities and memories. 
 
-Interaction: Liches hate being interrupted and have more important things to do than answer questions from mortal weaklings. A lich may be convinced to teach a character a spell, especially if given a spell, cypher, or artifact in trade. 
+**Interaction:** Liches hate being interrupted and have more important things to do than answer questions from mortal weaklings. A lich may be convinced to teach a character a spell, especially if given a spell, cypher, or artifact in trade. 
 
-Use: A lich is planning a ritual to raise an army of skeletons or zombies to attack the kingdom. A lich has made a pact with a demon to unleash a plague in exchange for obscure magical knowledge. 
+**Use:** A lich is planning a ritual to raise an army of skeletons or zombies to attack the kingdom. A lich has made a pact with a demon to unleash a plague in exchange for obscure magical knowledge. 
 
-Loot: A lich has 1d6 cyphers and usually an artifact.
+**Loot:** A lich has 1d6 cyphers and usually an artifact.
 
-MANTICORE 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Manticore <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 A manticore is a fearsome predator that resembles a maned red lion with a human head and a scorpion’s tail. The head is bearded and has three rows of teeth in the upper and lower jaws, like a shark. The scorpion tail is covered in multiple barbs, and the creature can flick its tail to hurl these barbs at its prey. Manticores eat all of their prey, including the bones, clothing, and equipment, leaving nothing but a bloodstain as evidence of their hunting. 
 
-Motive: Hungers for flesh (especially human flesh) 
+**Motive:** Hungers for flesh (especially human flesh) 
 
-Environment: Mountains and plains 
+**Environment:** Mountains and plains 
 
-Health: 22 
+**Health:** 22 
 
-Damage Inflicted: 8 points 
+**Damage Inflicted:** 8 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Long 
+**Movement:** Long 
 
-Modifications: Ranged attacks as level 5 
+**Modifications:** Ranged attacks as level 5 
 
-Combat: Manticores attack with their powerful bite, seeking to incapacitate or kill one opponent quickly so they can eat. Some are content to attack and consume a single target, but a large, hungry manticore prefers to wait until two or three creatures are nearby before attacking. A manticore has powerful legs and can leap up to a short distance in any direction, and often surprises its prey by leaping from concealment. 
+**Combat:** Manticores attack with their powerful bite, seeking to incapacitate or kill one opponent quickly so they can eat. Some are content to attack and consume a single target, but a large, hungry manticore prefers to wait until two or three creatures are nearby before attacking. A manticore has powerful legs and can leap up to a short distance in any direction, and often surprises its prey by leaping from concealment. 
 
 Instead of biting, a manticore can use its poisonous scorpion-like tail to strike one creature in melee with a cluster of barbs, inflicting 4 points of damage (plus 4 additional points of Speed damage if the target fails a Might defense roll). With a flick of its tail, it can hurl up to four barbs up to a short distance away, striking one or more creatures in an immediate area. Each barb inflicts 1 point of damage, and the target must succeed on a Might defense roll or take 1 additional point of Speed damage. 
 
-Interaction: Manticores can make trumpet-like noises that resemble speech, but this seems to be a trick to lure prey. Most of them are not intelligent enough to know how to speak human languages. 
+**Interaction:** Manticores can make trumpet-like noises that resemble speech, but this seems to be a trick to lure prey. Most of them are not intelligent enough to know how to speak human languages. 
 
-Use: Weird musical noises resembling speech are heard from the nearby hills. People have been disappearing in fields and on the road, with only bloodstains on the ground suggesting that they were harmed. 
+**Use:** Weird musical noises resembling speech are heard from the nearby hills. People have been disappearing in fields and on the road, with only bloodstains on the ground suggesting that they were harmed. 
 
-Loot: A manticore’s stomach might contain a piece of treasure or a cypher from a recent meal, and its lair may have one or two small objects it was unable to digest.
+**Loot:** A manticore’s stomach might contain a piece of treasure or a cypher from a recent meal, and its lair may have one or two small objects it was unable to digest.
 
-MERFOLK 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Merfolk <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Merfolk are intelligent creatures with humanlike bodies from the waist up and scaly fish bodies from the waist down. They are able to breathe air or water but prefer the sea for its beauty and their better mobility. Merfolk have great underwater cities ruled by a king or queen, but most land-walking species interact only with the common or soldier merfolk who visit the ocean surface and coastlines. Merfolk societies are much like those of surface humans; their inability to use fire limits them in some ways (such as blacksmithing), but they have compensated for this with water magic and other skills. 
 
 Merfolk skin ranges from all human colors to green, blue, and grey. Some have small fins on their heads and elbows or webs between their fingers. They dress for comfort and wear jewelry made of shells, coral, pearls, polished gemstones, and metals they can salvage or trade for. Most of them are content to be hunters or cultivators of kelp and other aquatic plants, but some are curious about land-walkers (and their sunken ships) or fiercely territorial about protecting their waters against outsiders. 
 
-Motive: Defense, entertainment 
+**Motive:** Defense, entertainment 
 
-Environment: Oceans, seas, and coasts
+**Environment:** Oceans, seas, and coasts
 
-Health: 9 
+**Health:** 9 
 
-Damage Inflicted: 4 points 
+**Damage Inflicted:** 4 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Immediate; short when swimming 
+**Movement:** Immediate; short when swimming 
 
-Modifications: Perception as level 4 while in water 
+**Modifications:** Perception as level 4 while in water 
 
-Combat: Merfolk use spears, tridents, daggers, and other stabbing weapons that are effective underwater. They may create traps using nets to confine or direct foes into an ambush. A few lucky or clever ones have acquired or adapted light crossbows designed to fire underwater up to a short distance away. 
+**Combat:** Merfolk use spears, tridents, daggers, and other stabbing weapons that are effective underwater. They may create traps using nets to confine or direct foes into an ambush. A few lucky or clever ones have acquired or adapted light crossbows designed to fire underwater up to a short distance away. 
 
 About once every ten minutes, a merperson can swim a short distance as their action and still make a melee attack, or swim up to a long distance as their action. 
 
 About one in ten merfolk have the magical ability to harden water until it is as strong and durable as wood, taking about an hour to make a spear or similar tool that lasts for several days. Some noble merfolk can create short-range bolts of electricity as an action and make limited alterations to the weather (stilling, increasing, or dispersing wind and clouds in a very long area) by concentrating for several minutes. 
 
-Interaction: Merfolk react according to their role in merfolk society—farmer, rancher, guard, explorer, noble, and so on. Some merfolk are more aggressive or hostile and dislike the presence of land-walkers in their territory. Most merfolk are amiable to conversation and trade with people who treat them with fairness and respect. 
+**Interaction:** Merfolk react according to their role in merfolk society—farmer, rancher, guard, explorer, noble, and so on. Some merfolk are more aggressive or hostile and dislike the presence of land-walkers in their territory. Most merfolk are amiable to conversation and trade with people who treat them with fairness and respect. 
 
-Use: Merfolk are often seen sunning themselves on a small island off the coast. Merfolk warriors accompanied by trained large fish have been harassing boats and ships that stray too far from the shallows and shores. 
+**Use:** Merfolk are often seen sunning themselves on a small island off the coast. Merfolk warriors accompanied by trained large fish have been harassing boats and ships that stray too far from the shallows and shores. 
 
-Loot: In addition to several small pieces of jewelry, a group of merfolk might have a manifest cypher. A noble or royal merperson usually has a cypher and might have an artifact.
+**Loot:** In addition to several small pieces of jewelry, a group of merfolk might have a manifest cypher. A noble or royal merperson usually has a cypher and might have an artifact.
 
-MINOTAUR 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Minotaur <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Minotaurs are aggressive bull-humanoids who enjoy human flesh. Some legends say the first minotaur was the result of a curse from a god, and others suggest it was created by a demon, but the truth is lost to antiquity. Minotaurs care little about history or their origin, preferring to hunt for meat and spar with each other for dominance and trophies. Minotaurs live in small tribes of up to a dozen adults. Solitary minotaurs are exiles, last survivors of their tribe, or younger individuals claiming their own territory. 
 
-Motive: Hungers for flesh 
+**Motive:** Hungers for flesh 
 
-Environment: Caves, plains, and labyrinths 
+**Environment:** Caves, plains, and labyrinths 
 
-Health: 19 
+**Health:** 19 
 
-Damage Inflicted: 6 points 
+**Damage Inflicted:** 6 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: Hunting and tracking as level 5 
+**Modifications:** Hunting and tracking as level 5 
 
-Combat: Minotaurs attack with their horns or use large weapons. A minotaur can charge up to a short distance and then make an attack, which inflicts an additional 3 points of damage. 
+**Combat:** Minotaurs attack with their horns or use large weapons. A minotaur can charge up to a short distance and then make an attack, which inflicts an additional 3 points of damage. 
 
 Minotaurs are interested in mazes and mazelike spaces and like to wander within them, memorizing the paths and finding good places to stage ambushes. They leave out piles of equipment and useless treasures from previous victims to lure people into the maze and give the minotaur time to corner their prey. S
 
 ometimes one minotaur in a tribe develops simple magic powers and is able to create illusions of smoke or mist in an area a short distance across, turn invisible for a few moments, or enchant weapons to inflict bleeding wounds. 
 
-Interaction: Minotaurs can speak, usually in their own language or another crude humanoid language. However, they typically choose not to speak to weaker creatures (such as humans). 
+**Interaction:** Minotaurs can speak, usually in their own language or another crude humanoid language. However, they typically choose not to speak to weaker creatures (such as humans). 
 
-Use: A wandering gang of minotaurs has been stealing livestock from a local village and is ready to start hunting humans. A minotaur gladiator escaped from a secret underground arena and is stalking prey in the city. Something lurks in a corn maze, leaving nothing but bones and bloodstains. 
+**Use:** A wandering gang of minotaurs has been stealing livestock from a local village and is ready to start hunting humans. A minotaur gladiator escaped from a secret underground arena and is stalking prey in the city. Something lurks in a corn maze, leaving nothing but bones and bloodstains. 
 
-Loot: Minotaurs don’t have much use for coins but keep a few small trophies, such as ivory dice, gems, or simple jewelry. The most powerful minotaur in the tribe may have a cypher or even a mastercraft weapon.
+**Loot:** Minotaurs don’t have much use for coins but keep a few small trophies, such as ivory dice, gems, or simple jewelry. The most powerful minotaur in the tribe may have a cypher or even a mastercraft weapon.
 
-MORLOCK 2 (6)
-
+{{< hint danger >}} {{< columns2 >}} Morlock <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Morlocks are degenerate, blind cannibal humanoids that avoid light. They have prominent teeth, piglike eyes, loose skin, and stooped postures. They avoid bright daylight and prefer to hunt and forage when it is dark out (or at least under the twilight-like canopy of a heavy forest). Morlocks eat any sort of meat, even carrion and their own dead. Morlocks build piles of stones to mark their territory. On nights of the new moon, they create unnerving music by playing simple drums made out of skulls and logs. They lack the foresight to store food for lean times, so they range farther from home in winter and times of famine. They are sometimes enslaved by more powerful creatures such as ogres or a vampire. 
 
-Motive: Hungers for flesh, defense 
+**Motive:** Hungers for flesh, defense 
 
-Environment: Caves, forests, hills, and underground 
+**Environment:** Caves, forests, hills, and underground 
 
-Health: 6 
+**Health:** 6 
 
-Damage Inflicted: 2 points 
+**Damage Inflicted:** 2 points 
 
-Movement: Short; short when climbing 
+**Movement:** Short; short when climbing 
 
-Modifications: Stealth and tracking as level 4 
+**Modifications:** Stealth and tracking as level 4 
 
-Combat: Morlocks fight with their nails and teeth, but sometimes they use simple weapons like clubs, stone knives, spears, and javelins if they have observed other humanoids doing so. Some tribes dig simple pit traps and chase prey into them. 
+**Combat:** Morlocks fight with their nails and teeth, but sometimes they use simple weapons like clubs, stone knives, spears, and javelins if they have observed other humanoids doing so. Some tribes dig simple pit traps and chase prey into them. 
 
 Morlocks dislike strong light but are not harmed by it. Their hearing and sense of smell is strong enough that they can “see” in dim or very dim light as if it were normal light. They can track scents as well as a trained dog. 
 
-Interaction: Morlocks have a simple language of hoots, howls, and growls that communicate basic concepts like food, fire, danger, and cold. If enslaved by a more powerful creature, some of them can manage to learn a few words in that creature’s language. 
+**Interaction:** Morlocks have a simple language of hoots, howls, and growls that communicate basic concepts like food, fire, danger, and cold. If enslaved by a more powerful creature, some of them can manage to learn a few words in that creature’s language. 
 
-Use: Town elders warn that the drums and near-human howls on dark nights are signs of morlocks who’ll steal away foolish children. Stacked piles of stones are found in the forest, each surrounded by bare humanoid footprints. 
+**Use:** Town elders warn that the drums and near-human howls on dark nights are signs of morlocks who’ll steal away foolish children. Stacked piles of stones are found in the forest, each surrounded by bare humanoid footprints. 
 
-Loot: Morlocks don’t value what they can’t eat, but their lair may have a cypher or two from a recent victim.
+**Loot:** Morlocks don’t value what they can’t eat, but their lair may have a cypher or two from a recent victim.
 
-NECROMANCER 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Necromancer <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 The ability to influence, command, and call up the dead is an impressive power, given how many more people are dead than living. Since the only thing separating a living person from a dead one is a well-aimed knife or death spell, the number of dead always rises. 
 
-Motive: Magical power, mastery over death 
+**Motive:** Magical power, mastery over death 
 
-Environment: In places where dead are interred, usually with some number of undead servitors 
+**Environment:** In places where dead are interred, usually with some number of undead servitors 
 
-Health: 15 
+**Health:** 15 
 
-Damage Inflicted: 5 points 
+**Damage Inflicted:** 5 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: Speed defense as level 6 due to shroud of undead protective spirits 
+**Modifications:** Speed defense as level 6 due to shroud of undead protective spirits 
 
-Combat: Necromancers can blast a foe within long range with the cold of the grave or flesh-decaying magic. 
+**Combat:** Necromancers can blast a foe within long range with the cold of the grave or flesh-decaying magic. 
 
 A necromancer can cast a death spell on a foe within short range once every minute; the victim must succeed on a Might defense roll or move down one step on the damage track. This ability could be an innate power or come from an artifact. 
 
@@ -11401,31 +11250,30 @@ A necromancer who isn’t already accompanied by undead spirits or shambling, sp
 
 A necromancer can attempt to take command of a spirit or undead creature within short range. They automatically succeed against an unaligned undead target of level 4 or less. If a targeted spirit is already allied with or in service to a PC, the PC must succeed on an Intellect defense roll or lose control of the spirit to the necromancer’s will for one minute. 
 
-Interaction: Necromancers are feared for their nonchalant attitudes toward life, especially the life of normal people (such as peasants and city folk). They will negotiate but usually don’t have the capacity to care about another person’s well-being; they’re sociopathic. 
+**Interaction:** Necromancers are feared for their nonchalant attitudes toward life, especially the life of normal people (such as peasants and city folk). They will negotiate but usually don’t have the capacity to care about another person’s well-being; they’re sociopathic. 
 
-Use: A character has died, and their allies must find a necromancer to help retrieve their spirit. Of course, the necromancer wants something in return for this aid—perhaps an artifact pilfered from whatever underworld or hell the dead character is imprisoned within. 
+**Use:** A character has died, and their allies must find a necromancer to help retrieve their spirit. Of course, the necromancer wants something in return for this aid—perhaps an artifact pilfered from whatever underworld or hell the dead character is imprisoned within. 
 
-Loot: Necromancers have one or two expensive items, a cypher, and possibly an artifact.
+**Loot:** Necromancers have one or two expensive items, a cypher, and possibly an artifact.
 
-NOBLE KNIGHT 7 (21)
-
+{{< hint danger >}} {{< columns2 >}} Noble Knight <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 Whether noble or ignoble, some knights achieve an amazing mastery over weapons, combat, and courtly graces, eclipsing lesser warriors and champions. The quests of some noble knights can lead them far across the land into strange new territories where they encounter and defeat various magical creatures. 
 
-Motive: Accomplish noble (or ignoble) deeds 
+**Motive:** Accomplish noble (or ignoble) deeds 
 
-Environment: Almost anywhere, often alone, sometimes with followers 
+**Environment:** Almost anywhere, often alone, sometimes with followers 
 
-Health: 50 
+**Health:** 50 
 
-Damage Inflicted: 10 points 
+**Damage Inflicted:** 10 points 
 
-Armor: 3 
+**Armor:** 3 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: All tasks related to heraldic lore and chivalry as level 8; Speed defense as level 8 while holding shield 
+**Modifications:** All tasks related to heraldic lore and chivalry as level 8; Speed defense as level 8 while holding shield 
 
-Combat: Noble knights are armed with massive weapons they can wield in one hand, which means they can also hold a shield. They are skilled with melee weapons (such as a battleaxe, broadsword, or mace) and inflict lethal damage on a hit. 
+**Combat:** Noble knights are armed with massive weapons they can wield in one hand, which means they can also hold a shield. They are skilled with melee weapons (such as a battleaxe, broadsword, or mace) and inflict lethal damage on a hit. 
 
 Noble knights can also rely on a magic artifact or two to aid them, and possibly a noble steed. The artifact might be the very weapon a knight wields in combat and could grant them one or more of the following additional abilities: 
 
@@ -11435,31 +11283,30 @@ Noble knights can also rely on a magic artifact or two to aid them, and possibly
 >
 > Resistance. The noble knight is immune to effects that would influence their mind, charm them, or put them to sleep. 
 
-Interaction: Flowery language and impeccable manners show a knight’s noble background. Those who negotiate with one in good faith are likely to come away with something of value. However, sometimes a noble knight is corrupt and betrays trusts. 
+**Interaction:** Flowery language and impeccable manners show a knight’s noble background. Those who negotiate with one in good faith are likely to come away with something of value. However, sometimes a noble knight is corrupt and betrays trusts. 
 
-Use: A noble knight has decided that they must guard a bridge against any who would cross it. 
+**Use:** A noble knight has decided that they must guard a bridge against any who would cross it. 
 
-Loot: Noble knights carry weapons, heavy armor, and perhaps a cypher or even an artifact.
+**Loot:** Noble knights carry weapons, heavy armor, and perhaps a cypher or even an artifact.
 
-SAPIENT TREE 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Sapient Tree <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Guardians of the wood, sapient trees stand eternally vigilant, often on the outskirts of their grove or forest to keep out those who might seek to do them—or other, ordinary trees— harm. They look like normal trees until they reveal their true nature, with limb-like branches and faces in the bark of their trunk. They don’t always move, but with effort, they can uproot themselves and walk about. However, they usually do so only when no one is looking. The origin and temperament of sapient trees varies; they might be haunted trees possessed by spirits, trees animated by magic spells, or ancient mythical beings. Some are peaceful and noble, but others are downright wicked and cruel. 
 
-Motive: Defense 
+**Motive:** Defense 
 
-Environment: Found in groves or copses of five to twenty 
+**Environment:** Found in groves or copses of five to twenty 
 
-Health: 16 
+**Health:** 16 
 
-Damage Inflicted: 4 points 
+**Damage Inflicted:** 4 points 
 
-Armor: 3 
+**Armor:** 3 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: Initiative as level 4; Speed defense as level 2 due to size 
+**Modifications:** Initiative as level 4; Speed defense as level 2 due to size 
 
-Combat: When a sapient tree attacks, it often does so with surprise because it looks like a normal tree at first. If a character about to be attacked fails an Intellect defense roll, they do not perceive the attack in time, and the tree’s attack is eased. 
+**Combat:** When a sapient tree attacks, it often does so with surprise because it looks like a normal tree at first. If a character about to be attacked fails an Intellect defense roll, they do not perceive the attack in time, and the tree’s attack is eased. 
 
 > If a tree strikes in combat with one of its branch-arms, it can choose to grab the foe (rather than inflict damage) and toss them an immediate distance away, inflicting 2 points of ambient damage if they hit the ground or another solid object. If they are tossed at another creature, that second creature must make a successful Speed defense roll or also take this damage. 
 >
@@ -11469,80 +11316,77 @@ Combat: When a sapient tree attacks, it often does so with surprise because it l
 >
 > Use: These trees populate magic forests. They can be used to surprise characters with an attack from an unexpected direction.
 
-SATYR 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Satyr <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 These muscular humanoids sport long curved horns and furry, hooved legs. They are self-centered, greedy, and sybaritic creatures, dedicated to food, drink, and other pleasures. They rob and steal from others as it pleases them, often relying on tricks and lies, or alluring music they play on pipes. 
 
-Motive: Play tricks, gather treasure, fulfill desires 
+**Motive:** Play tricks, gather treasure, fulfill desires 
 
-Environment: Woodlands, hills, and plains 
+**Environment:** Woodlands, hills, and plains 
 
-Damage Inflicted: 6 points 
+**Damage Inflicted:** 6 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Short Modifications: Tasks related to persuasion and deception as level 7; resists mental attacks as level 7 
+**Movement:** Short Modifications: Tasks related to persuasion and deception as level 7; resists mental attacks as level 7 
 
-Combat: Satyrs usually carry spears that they can use in melee and against foes within short range. They can also create magical effects by playing their pipes as an action, which can either bolster allies or harm enemies: 
+**Combat:** Satyrs usually carry spears that they can use in melee and against foes within short range. They can also create magical effects by playing their pipes as an action, which can either bolster allies or harm enemies: 
 
 > Dance of the Leaping Stag: Foes within short range who fail an Intellect defense task lose their next turn to dancing and leaping. Attacks made against affected targets are eased. 
 >
 > Feral Overture: An ally within short range is infused with magic, and one attack it makes on its next turn is eased; if it hits, it inflicts +3 damage.  
 > Tune of the Clouded Mind: A foe within short range who fails an Intellect defense task spends its next turn attacking one of its allies. 
 
-Interaction: Satyrs are inveterate mercenaries. They gladly work for strong drink and other treasures, and they ally with almost any creature capable of meeting their price. A satyr is always willing to start negotiations, but is prone to lying and exaggeration. Offering excessive libation, food, and other rewards is the only way to ensure that a satyr remains honest, and then for only a short period. 
+**Interaction:** Satyrs are inveterate mercenaries. They gladly work for strong drink and other treasures, and they ally with almost any creature capable of meeting their price. A satyr is always willing to start negotiations, but is prone to lying and exaggeration. Offering excessive libation, food, and other rewards is the only way to ensure that a satyr remains honest, and then for only a short period. 
 
-Use: Strange piping music in the forest lures away young people from a nearby community. Community elders say a charismatic cult leader has set up in the woods and clouds the minds of all who come near. 
+**Use:** Strange piping music in the forest lures away young people from a nearby community. Community elders say a charismatic cult leader has set up in the woods and clouds the minds of all who come near. 
 
-Loot: A satyr is likely to carry one or two cyphers.
+**Loot:** A satyr is likely to carry one or two cyphers.
 
-SHADOW 1 (3)
-
+{{< hint danger >}} {{< columns2 >}} Shadow <---> 1 (3) {{< /columns2 >}}{{< /hint >}}
 Shadows are semi-intelligent patches of darkness roughly in the shape of a humanoid creature’s silhouette. They creep along walls, floors, and ceilings, blending in with actual shadows, peeling themselves free only when they’re ready to clutch at a victim with their cold claws. 
 
-Motive: Hunger for life energy 
+**Motive:** Hunger for life energy 
 
-Environment: Anywhere that shadows can occur 
+**Environment:** Anywhere that shadows can occur 
 
-Health: 3 
+**Health:** 3 
 
-Damage Inflicted: 2 points 
+**Damage Inflicted:** 2 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: Stealth as level 3 
+**Modifications:** Stealth as level 3 
 
-Combat: Shadows attack with their claws, which feel like a cold breeze and drain 2 points of Might from their target with each hit. They can barely interact with physical objects, and even something as simple as moving a pebble an immediate distance or knocking over a candle takes intense concentration. 
+**Combat:** Shadows attack with their claws, which feel like a cold breeze and drain 2 points of Might from their target with each hit. They can barely interact with physical objects, and even something as simple as moving a pebble an immediate distance or knocking over a candle takes intense concentration. 
 
 A group of five shadows can act as a swarm, focusing on one target to make one attack as a single level 3 creature, inflicting 4 points of damage. In an area of complete darkness with no illumination at all, shadows are effectively powerless—they cannot attack and all their actions are hindered. If suddenly deprived of light, they slink about menacingly for a few minutes but lose interest if it seems like their prey won’t be bringing back the light. 
 
 Shadows are flat rather than insubstantial, but attacks that harm phased, ghostly, or similar creatures are fully effective against them. They can easily pass through narrow spaces such as the gap under a door or between the bars of a cell, but cannot move through solid objects. 
 
-Interaction: Shadows never speak, but they can make rustling noises like a gently moving curtain. If controlled or prevented from attacking, they can communicate with simple pantomimes and seem to understand some pieces of language. 
+**Interaction:** Shadows never speak, but they can make rustling noises like a gently moving curtain. If controlled or prevented from attacking, they can communicate with simple pantomimes and seem to understand some pieces of language. 
 
-Use: The flickering shadows from a campfire bend strangely and begin to creep toward a nearby character. A person appears to have two shadows just before they feel icy coldness slide along their flesh.
+**Use:** The flickering shadows from a campfire bend strangely and begin to creep toward a nearby character. A person appears to have two shadows just before they feel icy coldness slide along their flesh.
 
-SOUL EATER 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Soul Eater <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 A soul eater is the animate head of a powerful wizard who shuffled off this mortal coil to become an undead creature without ethics, feelings, or a sense of morality. Also called dread skulls, these creatures maintain their existence by occasionally absorbing the spirit or mind of living victims. An absorbed “soul” is burned away, which is why dread skulls are wreathed in flame; it’s the by-product of the creature’s previous meal. 
 
-Motive: Hungers for souls 
+**Motive:** Hungers for souls 
 
-Environment: Usually at the center of tombs 
+**Environment:** Usually at the center of tombs 
 
-Health: 15 
+**Health:** 15 
 
-Damage Inflicted: 5 points 
+**Damage Inflicted:** 5 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Long when flying 
+**Movement:** Long when flying 
 
-Modifications: Resists mental attacks and deception as level 7; Speed defense as level 7 due to size and quickness; knowledge of arcane methodologies and rituals as level 8 
+**Modifications:** Resists mental attacks and deception as level 7; Speed defense as level 7 due to size and quickness; knowledge of arcane methodologies and rituals as level 8 
 
-Combat: A soul eater has a library of magic abilities it can draw upon, including long-range attacks of fire or cold against all targets within immediate range of each other, the ability to read the mind of a victim within short range on a failed Intellect defense roll, and the ability to cloak itself in the illusion of a normal human for up to an hour at a time. 
+**Combat:** A soul eater has a library of magic abilities it can draw upon, including long-range attacks of fire or cold against all targets within immediate range of each other, the ability to read the mind of a victim within short range on a failed Intellect defense roll, and the ability to cloak itself in the illusion of a normal human for up to an hour at a time. 
 
 In addition, a dread skull can draw out a victim’s consciousness and absorb it in a blaze of supernatural fire. To do so, the creature must bite a target, which inflicts 5 points of damage; the target must then succeed on an Intellect defense roll or take an additional 5 points of Intellect damage (ignores Armor). 
 
@@ -11550,31 +11394,30 @@ If a dread skull drains a character’s Intellect Pool to 0 through repeated bit
 
 If a dread skull isn’t destroyed within twenty-four hours of eating a soul, the victim’s essence is fully consumed. If the soul eater is defeated and its skull is shattered before then, all unconsumed souls are returned to their bodies. 
 
-Interaction: Dread skulls are slightly insane but hellishly smart, which means that sometimes they will negotiate to get what they want. 
+**Interaction:** Dread skulls are slightly insane but hellishly smart, which means that sometimes they will negotiate to get what they want. 
 
-Use: Soul eaters remember a little bit of the knowledge of every creature’s essence they consume. The PCs need to learn the command word of an artifact they’ve found, but the only one who knew it was consumed by a dread skull. 
+**Use:** Soul eaters remember a little bit of the knowledge of every creature’s essence they consume. The PCs need to learn the command word of an artifact they’ve found, but the only one who knew it was consumed by a dread skull. 
 
-Loot: Sometimes dread skulls keep treasures as trophies of past victories, consisting of 1d6 cyphers and maybe an artifact.
+**Loot:** Sometimes dread skulls keep treasures as trophies of past victories, consisting of 1d6 cyphers and maybe an artifact.
 
-SPHINX 7 (21)
-
+{{< hint danger >}} {{< columns2 >}} Sphinx <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 A sphinx is a magical creature with a large lionlike body, feathered wings, and a head that is like that of a human or some kind of animal (typically a hawk or ram). Wise and fierce, sphinxes have a connection to the divine and are often found guarding temples or persons of great interest to the gods (although whether they serve good or evil depends on the individual sphinx). No matter what their head looks like, a sphinx can devour creatures as easily and quickly as a lion. 
 
-Motive: Defense, riddles 
+**Motive:** Defense, riddles 
 
-Environment: Deserts, plains, and mountains 
+**Environment:** Deserts, plains, and mountains 
 
-Health: 25 
+**Health:** 25 
 
-Damage Inflicted: 7 points 
+**Damage Inflicted:** 7 points 
 
-Armor: 2 
+**Armor:** 2 
 
-Movement: Short; long when flying 
+**Movement:** Short; long when flying 
 
-Modifications: Intellect defense and magical lore as level 8 
+**Modifications:** Intellect defense and magical lore as level 8 
 
-Combat: A sphinx attacks with its lion claws, making two swipes as its action. A sphinx also has the following magical abilities: 
+**Combat:** A sphinx attacks with its lion claws, making two swipes as its action. A sphinx also has the following magical abilities: 
 
 • Curse: Curse a creature within long range, hindering all their physical actions by two steps until some other magic lifts the curse. 
 
@@ -11586,123 +11429,119 @@ Combat: A sphinx attacks with its lion claws, making two swipes as its action. A
 
 • Teleport: Instantaneously move a very long distance. Can be used once per day. 
 
-Interaction: Sphinxes are very intelligent and speak several languages (including at least one ancient or obscure language). If their demands are met (such as by answering a riddle or performing a service), they can be quite talkative, if arrogant. 
+**Interaction:** Sphinxes are very intelligent and speak several languages (including at least one ancient or obscure language). If their demands are met (such as by answering a riddle or performing a service), they can be quite talkative, if arrogant. 
 
-Use: A sphinx guards the main road into the city, killing anyone who fails to answer its riddle. A sphinx approaches, offering secret lore if the characters can direct it to a suitable mate or an abandoned temple it can restore and guard. 
+**Use:** A sphinx guards the main road into the city, killing anyone who fails to answer its riddle. A sphinx approaches, offering secret lore if the characters can direct it to a suitable mate or an abandoned temple it can restore and guard. 
 
-Loot: A sphinx usually has one or two cyphers and perhaps a small artifact it can wear and use.
+**Loot:** A sphinx usually has one or two cyphers and perhaps a small artifact it can wear and use.
 
-TROLL 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Troll <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 A troll is a hideous humanoid standing at least 10 feet (3 m) tall that hunts more by smell than by sight. They are dangerous but not particularly intelligent. Always ravenous, trolls eat anything, and rarely take the time to cook a meal. Usually, they distend their mouths and throats and swallow subdued prey whole. 
 
-Motive: Hungers for flesh 
+**Motive:** Hungers for flesh 
 
-Environment: Nearly anywhere, hunting alone or in pairs 
+**Environment:** Nearly anywhere, hunting alone or in pairs 
 
-Health: 30 
+**Health:** 30 
 
-Damage Inflicted: 7 points 
+**Damage Inflicted:** 7 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Long 
+**Movement:** Long 
 
-Modifications: Speed defense as level 5 due to size; Might defense as level 7; sees through deception as level 4 
+**Modifications:** Speed defense as level 5 due to size; Might defense as level 7; sees through deception as level 4 
 
-Combat: The troll attacks with its claws. If it hits, it grabs a foe tightly, then squeezes and bites until the victim is dead or it releases that victim to attack another creature. Each round that a held creature does not escape, they take 10 points of damage. 
+**Combat:** The troll attacks with its claws. If it hits, it grabs a foe tightly, then squeezes and bites until the victim is dead or it releases that victim to attack another creature. Each round that a held creature does not escape, they take 10 points of damage. 
 
 Trolls regain 3 points of health per round. If a troll suffers a particularly egregious wound (10 or more points of damage in one round), rather than regain health in that round (and instead of taking any other action), the troll divides into two level 4 trolls that are 3 feet (1 m) tall. Spawned trolls that survive the battle and have access to food grow into full-power trolls within a few weeks. 
 
-Interaction: Trolls speak their own simple language, but a few know a little bit of a local human language. Most prefer to attack and eat other creatures, but might be bargained with after a successful show of force. 
+**Interaction:** Trolls speak their own simple language, but a few know a little bit of a local human language. Most prefer to attack and eat other creatures, but might be bargained with after a successful show of force. 
 
-Use: Trolls may be chance encounters in the wilderness for unlucky travelers. Sometimes captured trolls are used by slavers, armies, and powerful wizards as guards and warriors.
+**Use:** Trolls may be chance encounters in the wilderness for unlucky travelers. Sometimes captured trolls are used by slavers, armies, and powerful wizards as guards and warriors.
 
-WORM THAT WALKS 7 (21)
-
+{{< hint danger >}} {{< columns2 >}} Worm That Walks <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 This sodden, leather-wrapped humanoid smells of the sea. It moves effortlessly through the air, levitating above the ground while its damp wrappings writhe and squirm as if infested with thousands of worms—because they are. Each worm that walks is a mass of psionic grubs squirming through a slush of salty ooze. Individually the grubs are harmless vermin, but together they’re a sentient entity, a single psionic mind formed of thousands of tiny, maggot-like pupae. The tightly wound leather straps covering a worm that walks are just as important for hiding its true nature as for adhesion. Despite being fully encased, the worm that walks senses its environment with a hard-to-fool sixth sense. 
 
-Motive: Domination of other creatures, hunger 
+**Motive:** Domination of other creatures, hunger 
 
-Environment: Almost anywhere 
+**Environment:** Almost anywhere 
 
-Health: 30 
+**Health:** 30 
 
-Damage Inflicted: 7 points
+**Damage Inflicted:** 7 points
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Immediate; short when flying 
+**Movement:** Immediate; short when flying 
 
-Modifications: Perception as level 8; Speed defense as level 5 due to slow nature 
+**Modifications:** Perception as level 8; Speed defense as level 5 due to slow nature 
 
-Combat: A worm that walks can strike a single target in immediate range with a leather-wrapped “fist” as its action. When it hits and deals damage, several grubs spill out and attach to the victim (getting under most armor unless it’s hermetically sealed or behind a force field), who must make a Might defense roll to shake them loose. On a failure, the grubs begin to feed, and the target takes 5 points of damage (ignores Armor).
+**Combat:** A worm that walks can strike a single target in immediate range with a leather-wrapped “fist” as its action. When it hits and deals damage, several grubs spill out and attach to the victim (getting under most armor unless it’s hermetically sealed or behind a force field), who must make a Might defense roll to shake them loose. On a failure, the grubs begin to feed, and the target takes 5 points of damage (ignores Armor).
 
 If a victim is killed while in immediate range of a worm that walks, the worms automatically engulf the body through a wide opening in their wrappings. The grubs go into a feeding frenzy, reducing the remains to nothing within minutes. During the frenzy, the worm that walks regenerates 2 points of health per round. A victim’s equipment is retained for later study. 
 
 A worm that walks can also emit a psychic burst that can target up to three creatures in short range as its action. On a failed Intellect defense roll, a victim suffers 4 points of Intellect damage (ignores Armor) and is unable to take actions on their subsequent turn. If the victim is attacked while so stunned, their defenses are hindered by two steps. 
 
-Interaction: A worm that walks can communicate telepathically with characters within short range. It negotiates only with those strong enough to harm it; otherwise, it tries to eat whoever it runs across. Even if the worm that walks makes a deal, it eventually reneges if it senses any advantage for doing so. 
+**Interaction:** A worm that walks can communicate telepathically with characters within short range. It negotiates only with those strong enough to harm it; otherwise, it tries to eat whoever it runs across. Even if the worm that walks makes a deal, it eventually reneges if it senses any advantage for doing so. 
 
-Use: A worm that walks has been active in a small rural community for weeks, apparently in preparation for something it calls “the Great Hatching.” If that refers to the hatching of more psychic grubs, it could spell trouble for a much larger region. 
+**Use:** A worm that walks has been active in a small rural community for weeks, apparently in preparation for something it calls “the Great Hatching.” If that refers to the hatching of more psychic grubs, it could spell trouble for a much larger region. 
 
-Loot: A worm that walks might have one or two cyphers, though during combat it will use any devices that could help it in the fight.
+**Loot:** A worm that walks might have one or two cyphers, though during combat it will use any devices that could help it in the fight.
 
-WRAITH 2 (6)
-
+{{< hint danger >}} {{< columns2 >}} Wraith <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 When a spirit of a dead creature fails to find its way to the afterworld, escapes the same, or is summoned forth by a necromancer, it may become a wraith: a bodiless spirit of rage and loss. A wraith appears as a shadowy or misty figure that can resemble the humanoid figure it once was, though wraiths tend to swarm together, making it difficult to distinguish them from each other. Wraiths are often mindless, consumed by their condition. But on occasion, a wraith not too far gone still remembers its life and may respond to questions or seek to locate its loved ones or enemies. A wraith may even attempt to finish a task it started in life. But in time, even the strongest-willed spirit’s mind erodes without physical substance to renew it, and it becomes an almost mindless monster of destruction. 
 
-Motive: Destruction 
+**Motive:** Destruction 
 
-Environment: Almost anywhere, singly or in groups of six to ten 
+**Environment:** Almost anywhere, singly or in groups of six to ten 
 
-Health: 6 
+**Health:** 6 
 
-Damage Inflicted: 3 points 
+**Damage Inflicted:** 3 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Short while flying 
+**Movement:** Short while flying 
 
-Modifications: Stealth as level 5 
+**Modifications:** Stealth as level 5 
 
-Combat: A wraith attacks with its touch, which rots flesh and drains life. 
+**Combat:** A wraith attacks with its touch, which rots flesh and drains life. 
 
 A wraith can become fully insubstantial. After it does so, the creature can’t change state again until its next turn. While insubstantial, it can’t affect or be affected by anything (except for weapons and attacks that specifically affect undead or phased creatures), and it can pass through solid matter without hindrance, but even simple magical wards can keep it at bay. While partly insubstantial (its normal state), a wraith can affect and be affected by others normally. 
 
 A group of five wraiths can act as a swarm, focusing on one target to make one attack roll as a single level 4 creature dealing 5 points of damage. 
 
-Interaction: Most wraiths moan and scream in rage. The rare few that retain reason can speak in a sepulchral voice, and they may even negotiate. Any alliance with a wraith is usually short-lived, since the creature eventually forgets itself and descends fully into rage and the desire to spread destruction. 
+**Interaction:** Most wraiths moan and scream in rage. The rare few that retain reason can speak in a sepulchral voice, and they may even negotiate. Any alliance with a wraith is usually short-lived, since the creature eventually forgets itself and descends fully into rage and the desire to spread destruction. 
 
-Use: The PCs are attacked while attending a burial, or they happen to pass close to or camp near a graveyard. Another swarm of wraiths appears in a location where an earlier group was destroyed (indicating a necromancer is summoning them).
+**Use:** The PCs are attacked while attending a burial, or they happen to pass close to or camp near a graveyard. Another swarm of wraiths appears in a location where an earlier group was destroyed (indicating a necromancer is summoning them).
 
-WYVERN 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Wyvern <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Wyverns are aggressive lesser cousins of dragons. Their bodies are about the size of a heavy horse but their wingspan makes them seem much larger. Lacking a dragon’s fiery breath or other magical abilities, wyverns rely on their strong flight and deadly stinger to catch and kill their prey, typically humanoids or large animals. Wyverns have four limbs— two legs used for clumsy walking and two arm-wings used for flight and balance. 
 
-Motive: Hungers for flesh 
+**Motive:** Hungers for flesh 
 
-Environment: Mountains, hills, and plains where large prey is plentiful 
+**Environment:** Mountains, hills, and plains where large prey is plentiful 
 
-Health: 35 
+**Health:** 35 
 
-Damage Inflicted: 5 points 
+**Damage Inflicted:** 5 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Short; long when flying 
+**Movement:** Short; long when flying 
 
-Modifications: Perception as level 7; Speed defense as level 5 due to size 
+**Modifications:** Perception as level 7; Speed defense as level 5 due to size 
 
-Combat: Wyverns prefer to attack from the air, moving up to a short distance and making three attacks (bite, venomous stinger, claws) as their action. If a wyvern has to fight on the ground, it can attack only with its bite and stinger on its turn. 
+**Combat:** Wyverns prefer to attack from the air, moving up to a short distance and making three attacks (bite, venomous stinger, claws) as their action. If a wyvern has to fight on the ground, it can attack only with its bite and stinger on its turn. 
 
 The stinger injects poison, dealing an additional 5 points of Speed damage (ignores Armor) if the opponent fails a Might defense roll. Because the wyvern hunts primarily out of hunger, it usually focuses its attacks on one creature, weakening the prey so the wyvern can carry it away and eat in peace. 
 
-Interaction: Wyverns lack the intelligence of true dragons. They are relatively smart animals (on par with large reptiles such as crocodiles) but can be distracted by easy prey. Allowing one to catch a pig, pony, or riding horse can give characters enough time to get safely away. 
+**Interaction:** Wyverns lack the intelligence of true dragons. They are relatively smart animals (on par with large reptiles such as crocodiles) but can be distracted by easy prey. Allowing one to catch a pig, pony, or riding horse can give characters enough time to get safely away. 
 
-Use: Hungry wyverns are known to swoop in and carry off livestock and travelers near a particular road or field. A gang of crafty bandits has managed to train a couple of wyverns as mounts and use them as flying cavalry for their troops on the ground.
+**Use:** Hungry wyverns are known to swoop in and carry off livestock and travelers near a particular road or field. A gang of crafty bandits has managed to train a couple of wyverns as mounts and use them as flying cavalry for their troops on the ground.
 
- Loot: Wyverns do not collect treasure, but their nest might have a few cyphers from previous victims. If carefully extracted, an intact venom gland from a dead wyvern can be used to poison one weapon (if sold, it is the equivalent of an expensive item).
+ **Loot:** Wyverns do not collect treasure, but their nest might have a few cyphers from previous victims. If carefully extracted, an intact venom gland from a dead wyvern can be used to poison one weapon (if sold, it is the equivalent of an expensive item).
 
 SCIENCE FICTION CREATURES AND NPCs
 
@@ -11743,157 +11582,151 @@ SCIENCE FICTION CREATURES AND NPCS BY LEVEL & TECH
 | 10    | Godmind               | Fantastic   |
 | 10    | Omworwar              | Fantastic   |
 
-ARTIFICIAL INTELLIGENCE (AI) 8 (24)
-
+{{< hint danger >}} {{< columns2 >}} Artificial Intelligence (Ai) <---> 8 (24) {{< /columns2 >}}{{< /hint >}}
 If a supercomputer can think independently, it’s a strong AI (an artificial intelligence). Though not as advanced as godminds, AIs can develop inscrutable goals. 
 
 AIs take many forms. Some are distributed across a vast network. Others are encoded into a singular “computer core.” A few are machines with organic parts. All are entities of extreme intelligence able to adapt to new situations, and most act on some kind of plan, whether long-acting, or newly concocted to fit the situation at hand. 
 
-Motive: Varies 
+**Motive:** Varies 
 
-Environment: Almost anywhere 
+**Environment:** Almost anywhere 
 
-Health: 33 
+**Health:** 33 
 
-Damage Inflicted: 10 
+**Damage Inflicted:** 10 
 
-Armor: 2 
+**Armor:** 2 
 
-Movement: Immediate 
+**Movement:** Immediate 
 
-Modifications: Speed defense as level 2, knowledge tasks as level 9 
+**Modifications:** Speed defense as level 2, knowledge tasks as level 9 
 
-Combat: An electrical discharge—or in some cases precisely pulsed sequences of lights, each designed for a specific creature to see—can affect all targets within short range of the AI (or the AI’s local terminal), inflicting 10 points of damage from electricity (or 10 points of Intellect damage, which ignores Armor). 
+**Combat:** An electrical discharge—or in some cases precisely pulsed sequences of lights, each designed for a specific creature to see—can affect all targets within short range of the AI (or the AI’s local terminal), inflicting 10 points of damage from electricity (or 10 points of Intellect damage, which ignores Armor). 
 
 Some AIs can take an action to absorb matter around them (such as walls, floor, equipment, unresisting living creatures, and so on), regaining 5 points of health. 
 
 An AI is likely able to deploy cyphers and artifacts in combat and also relies on guardians (such as synthetic people made to its own design) to aid it. Unless a particular AI uses a computer core, damage to an AI may just be damage done to a “terminal,” so even if an AI is seemingly destroyed, it might exist as another instance somewhere else. 
 
-Interaction: Some AIs enjoy negotiation. Others simply ignore humans as unworthy of their time and attention. An AI’s voice often sounds surprisingly human. 
+**Interaction:** Some AIs enjoy negotiation. Others simply ignore humans as unworthy of their time and attention. An AI’s voice often sounds surprisingly human. 
 
-Use: The characters are contacted by an AI sympathetic to biological beings. It wants them to accomplish a task on a moon of Jupiter: assassinate a security officer who the AI calculates as being a nexus of future disaster if he isn’t removed from the equation. 
+**Use:** The characters are contacted by an AI sympathetic to biological beings. It wants them to accomplish a task on a moon of Jupiter: assassinate a security officer who the AI calculates as being a nexus of future disaster if he isn’t removed from the equation. 
 
-Loot: An AI might have access to 1d6 cyphers and possibly an artifact or two.
+**Loot:** An AI might have access to 1d6 cyphers and possibly an artifact or two.
 
-CYBRID 8 (24)
-
+{{< hint danger >}} {{< columns2 >}} Cybrid <---> 8 (24) {{< /columns2 >}}{{< /hint >}}
 Cybrid origins could be the result of someone finding a cache of ancient ultra technology, or manufactured by a post-singularity AI for some unfathomable purpose, or even the result of banned weapons research by a nation-state or conglomerate. The human remnants in each cybrid’s carbon fiber and nested shells of nanotech exist in a red haze of pain; neuro-wetware and chemicals bathing their remaining living tissues hold the pain partly at bay. 
 
 From the exterior, not much of the original human is obvious, except perhaps in the echo of a humanoid shape. Each one has a unique conformation, but all are designed to strike fear in anyone seeing one, ally and enemy alike. 
 
-Motive: Kill away the pain 
+**Motive:** Kill away the pain 
 
-Environment: Usually set to guard important areas, creatures, or objects, or deployed in war 
+**Environment:** Usually set to guard important areas, creatures, or objects, or deployed in war 
 
-Health: 60 
+**Health:** 60 
 
-Damage Inflicted: 10 
+**Damage Inflicted:** 10 
 
-Armor: 3 
+**Armor:** 3 
 
-Movement: Short; flies a very long distance each round; can maneuver like an autonomous level 5 spacecraft if using extended vehicular combat rules. 
+**Movement:** Short; flies a very long distance each round; can maneuver like an autonomous level 5 spacecraft if using extended vehicular combat rules. 
 
-Combat: Cybrids can attack up to three foes that they can see up to about 300 m (1,000 feet) away as a single action with graser (gamma ray laser) beams, inflicting 10 points of damage on each target and everything in immediate range of the target. Those caught in the beam who succeed on a Speed defense roll still suffer 2 points of damage. If the cybrid focuses on a single target, treat the attack as a level 10 attack that inflicts 14 points of damage, or 6 points even on a successful Speed defense roll.
+**Combat:** Cybrids can attack up to three foes that they can see up to about 300 m (1,000 feet) away as a single action with graser (gamma ray laser) beams, inflicting 10 points of damage on each target and everything in immediate range of the target. Those caught in the beam who succeed on a Speed defense roll still suffer 2 points of damage. If the cybrid focuses on a single target, treat the attack as a level 10 attack that inflicts 14 points of damage, or 6 points even on a successful Speed defense roll.
 
  Self-repair mechanisms allow the creature to regain 2 points of health per round. 
 
-Interaction: If communication can be opened up through a cybrid’s haze of pain, it might be possible to temporarily wake the consciousness of the human remnant inside. However, that remnant consciousness might not be happy to discover what it’s become. 
+**Interaction:** If communication can be opened up through a cybrid’s haze of pain, it might be possible to temporarily wake the consciousness of the human remnant inside. However, that remnant consciousness might not be happy to discover what it’s become. 
 
-Use: A cybrid has appeared in orbit around the station, ship, or moon with a compromised life support system or fragile dome. If it engages, the death toll will be staggering. 
+**Use:** A cybrid has appeared in orbit around the station, ship, or moon with a compromised life support system or fragile dome. If it engages, the death toll will be staggering. 
 
-Loot: PCs who investigate the inert remains of the creature discover several manifest cyphers.
+**Loot:** PCs who investigate the inert remains of the creature discover several manifest cyphers.
 
-DEVOLVED 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Devolved <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Conglomerate security subsidiaries regularly experiment with new ways to create super-soldiers, either to supply to a government on a contract basis, or to use for themselves. These experiments produced hundreds of dead ends—literally—plus a few dangerous failures. The devolved are one of those dangerous failures. These malformed, hideous brutes share a common heritage but display a wide array of maladies and mutations in the flesh, including withered limbs or elephantine patches of thick, scaly skin, misplaced body parts, and mental abnormalities. Simple-minded and afflicted with pain from their twisted, broken forms, the devolved vent all their hatred and wrath against all others. 
 
 Even successfully created super-soldiers require a regular regimen of specialized drugs to keep them healthy. Most are shipped out to fight on faraway fronts, whether that’s on a distant space station, moon, or in another star system entirely. Without their drugs, they may devolve.
 
-Motive: Hungers for flesh 
+**Motive:** Hungers for flesh 
 
-Environment: Groups of three to five, usually in locations where organized security can’t easily reach 
+**Environment:** Groups of three to five, usually in locations where organized security can’t easily reach 
 
-Health: 21 Damage Inflicted: 6 to 12 points 
+**Health:** 21 Damage Inflicted: 6 to 12 points 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: Intimidation tasks as level 6; Intellect defense and Speed defense as level 2 due to malformed nature 
+**Modifications:** Intimidation tasks as level 6; Intellect defense and Speed defense as level 2 due to malformed nature 
 
-Combat: Devolved attack with a claw, a bite, or some other body part, inflicting 6 points of damage. They throw themselves at their enemies with mindless ferocity and little regard for their own safety. Easily frustrated, a devolved grows stronger as its fury builds. Each time it misses with an attack, the next attack is eased by one additional step and the damage it inflicts increases by 2 points (to a maximum of 12 points). Once the devolved successfully inflicts damage on a target, the amount of damage it inflicts and the difficulty of its attacks returns to normal. Then the cycle starts anew. 
+**Combat:** Devolved attack with a claw, a bite, or some other body part, inflicting 6 points of damage. They throw themselves at their enemies with mindless ferocity and little regard for their own safety. Easily frustrated, a devolved grows stronger as its fury builds. Each time it misses with an attack, the next attack is eased by one additional step and the damage it inflicts increases by 2 points (to a maximum of 12 points). Once the devolved successfully inflicts damage on a target, the amount of damage it inflicts and the difficulty of its attacks returns to normal. Then the cycle starts anew. 
 
-Interaction: Devolved speak when they must, punctuating their statements with growls and barks. Their understanding seems limited to what they can immediately perceive, and they have a difficult time with abstract concepts. 
+**Interaction:** Devolved speak when they must, punctuating their statements with growls and barks. Their understanding seems limited to what they can immediately perceive, and they have a difficult time with abstract concepts. 
 
-Use: An expedition to a ruined conglomerate research facility uncovers a cyst of devolved that live within its sheltering bunkers. 
+**Use:** An expedition to a ruined conglomerate research facility uncovers a cyst of devolved that live within its sheltering bunkers. 
 
-Loot: For every three or so devolved, one is likely to carry a cypher.
+**Loot:** For every three or so devolved, one is likely to carry a cypher.
 
-ECOPHAGIC SWARM 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Ecophagic Swarm <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Tiny nanomachines can be incredibly useful tools. But they can also become a terrible threat. Like cells in a living body that develop cancer, these out-of-control self-replicating robots can consume everything in their path while building more of themselves. A typical swarm is about 6 m (20 feet) in diameter, individually consisting of millions of individual minuscule machines. However, several swarms can act together, creating a much larger cloud of death with just one purpose: to eat and replicate. Able to move large distances by gliding through the air, cloud-like swarms take on intriguing shapes and ripple with mathematical patterns as they approach a potential target, beautiful and deadly. 
 
 Ecophagic swarms sometimes build weird structures or artifacts in the wake of their feeding, like massive metallic ant or wasp mounds, or something without any reference at all in the natural world.
 
-Motive: Hungers for matter, including flesh 
+**Motive:** Hungers for matter, including flesh 
 
-Environment: Ecophagic swarms are drawn most to areas rich in rare-earth metals, such as large cities or space stations where everyone carries a smartphone, AR glasses, or something similar 
+**Environment:** Ecophagic swarms are drawn most to areas rich in rare-earth metals, such as large cities or space stations where everyone carries a smartphone, AR glasses, or something similar 
 
-Health: 12 
+**Health:** 12 
 
-Damage Inflicted: 4 points 
+**Damage Inflicted:** 4 points 
 
-Movement: Flies a long distance 
+**Movement:** Flies a long distance 
 
-Combat: As a mass of countless tiny machines, an ecophagic swarm can flow around obstacles and squeeze through cracks large enough to permit a single sub-millimeter machine. That includes over and around other creatures. Characters touched by a leading edge—or wholly enveloped within the hazy “body”—of an ecophagic swarm must succeed on a Might defense task or take 4 points of damage. If the character doesn’t wear armor of some kind, they take 1 point of damage even if they succeed. 
+**Combat:** As a mass of countless tiny machines, an ecophagic swarm can flow around obstacles and squeeze through cracks large enough to permit a single sub-millimeter machine. That includes over and around other creatures. Characters touched by a leading edge—or wholly enveloped within the hazy “body”—of an ecophagic swarm must succeed on a Might defense task or take 4 points of damage. If the character doesn’t wear armor of some kind, they take 1 point of damage even if they succeed. 
 
 For its part, an ecophagic swarm ignores any attack that targets a single creature (unless it’s an electrical attack), but it takes normal damage from attacks that affect an area (and electrical attacks), such as a detonation. A swarm cannot enter liquids, unless it takes about an hour to build new subunits that are aquatic. 
 
-Interaction: Someone with an ability to communicate with machines might be able to interact with a swarm. Even then, attempts to influence it are hindered by three steps. 
+**Interaction:** Someone with an ability to communicate with machines might be able to interact with a swarm. Even then, attempts to influence it are hindered by three steps. 
 
-Use: A promising new nanotech “printing” technology was hacked by radical elements.
+**Use:** A promising new nanotech “printing” technology was hacked by radical elements.
 
-EXOSLIME 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Exoslime <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Amoeboid life predominates in some environments. Sometimes, it slimes asteroid crevices or its greasy residue is found on abandoned spacecraft. In a few cases, large portions of entire worlds are covered in living seas of translucent protoplasm. Individual volumes of exoslime are 5 m (15 foot) diameter moldlike blobs. Exoslimes possess independent minds, but in some settings may be manufactured entities designed to explore new locations, interact with aliens, or subjugate aliens. Exoslimes can learn to respect the autonomy of other creatures, though their natural instinct is to absorb novel objects and creatures they discover in order to learn about them. Exoslimes can also replicate anything they absorb, even a previously eaten living intelligent being. 
 
-Motive: Hungers for information 
+**Motive:** Hungers for information 
 
-Environment: Moist and warm areas 
+**Environment:** Moist and warm areas 
 
-Health: 33 
+**Health:** 33 
 
-Damage Inflicted: 6 points 
+**Damage Inflicted:** 6 points 
 
-Movement: Immediate; immediate when climbing or burrowing 
+**Movement:** Immediate; immediate when climbing or burrowing 
 
-Modifications: Speed defense as level 5 due to size 
+**Modifications:** Speed defense as level 5 due to size 
 
-Combat: Though slow, an exoslime is dangerous. When roused, all characters within immediate range of an exoslime must succeed on a Might defense roll each round or be touched by the heaving mass. A victim adheres to the slime’s surface and takes 6 points of acid damage each round. The victim must succeed on a Might defense roll to pull free. A victim who dies from this damage is consumed by the exoslime. The exoslime may later create a duplicate of any previously devoured fleshy creature, a process requiring about three rounds to complete. Duplicates have full autonomy, and can communicate with the slime. 
+**Combat:** Though slow, an exoslime is dangerous. When roused, all characters within immediate range of an exoslime must succeed on a Might defense roll each round or be touched by the heaving mass. A victim adheres to the slime’s surface and takes 6 points of acid damage each round. The victim must succeed on a Might defense roll to pull free. A victim who dies from this damage is consumed by the exoslime. The exoslime may later create a duplicate of any previously devoured fleshy creature, a process requiring about three rounds to complete. Duplicates have full autonomy, and can communicate with the slime. 
 
-Interaction: An exoslime prefers to eat a newly-encountered creature, then create a duplicate of it to act as a translator. Of course, a stranger might not understand why the exoslime is trying to eat it. 
+**Interaction:** An exoslime prefers to eat a newly-encountered creature, then create a duplicate of it to act as a translator. Of course, a stranger might not understand why the exoslime is trying to eat it. 
 
-Use: The sample brought in from the exterior has a weird, mucus-like growth that seems able to slowly eat through most materials.
+**Use:** The sample brought in from the exterior has a weird, mucus-like growth that seems able to slowly eat through most materials.
 
-GODMIND 10 (30)
-
+{{< hint danger >}} {{< columns2 >}} Godmind <---> 10 (30) {{< /columns2 >}}{{< /hint >}}
 Unfathomably powerful post-singularity AIs, godminds are vast, having used the matter of an entire solar system and all its planets to create an immense brain, weave themselves into a nebula, or encode themselves into quantum strings of existence light-years across. When necessary, a godmind forms a nexus of consciousness—an instance—appearing as a disembodied eye of electromagnetic energy, ranging from about the size of a human eye all the way up to the size of a planet. 
 
-Motive: Ineffable 
+**Motive:** Ineffable 
 
-Environment: Anywhere, usually in space 
+**Environment:** Anywhere, usually in space 
 
-Health: 50 (per instance) 
+**Health:** 50 (per instance) 
 
-Damage Inflicted: 15 points 
+**Damage Inflicted:** 15 points 
 
-Movement: Very long when flying 
+**Movement:** Very long when flying 
 
-Combat: A godmind can vary the physical laws of the universe within a light-second of one of its instances (some would call them avatars) to create an effect most useful to the godmind at the time. For instance, a godmind could create a gamma ray burst inflicting 15 points of damage on all creatures within very long range, attempt to put a target into temporal stasis, send a target (even a target as large as spacecraft) through a temporary wormhole gate, and so on. It could also scan the memory banks of any digital machine, and possibly of any living creatures. In any event, if an instance were targeted, and successfully neutralized or even destroyed, the godmind itself isn’t harmed. An aggressor would have to find the godmind’s primeval “computer core” to destroy one, likely an epic quest in and of itself. 
+**Combat:** A godmind can vary the physical laws of the universe within a light-second of one of its instances (some would call them avatars) to create an effect most useful to the godmind at the time. For instance, a godmind could create a gamma ray burst inflicting 15 points of damage on all creatures within very long range, attempt to put a target into temporal stasis, send a target (even a target as large as spacecraft) through a temporary wormhole gate, and so on. It could also scan the memory banks of any digital machine, and possibly of any living creatures. In any event, if an instance were targeted, and successfully neutralized or even destroyed, the godmind itself isn’t harmed. An aggressor would have to find the godmind’s primeval “computer core” to destroy one, likely an epic quest in and of itself. 
 
-Interaction: To actually get a godmind’s attention and negotiate could require ancient command code, finding an old input device, or showing up with a relic from an ancient ultra or other prize. If a godmind does render aid, it’s likely to be in a form that is initially enigmatic, though ultimately extremely powerful. 
+**Interaction:** To actually get a godmind’s attention and negotiate could require ancient command code, finding an old input device, or showing up with a relic from an ancient ultra or other prize. If a godmind does render aid, it’s likely to be in a form that is initially enigmatic, though ultimately extremely powerful. 
 
-Use: A universal threat requires a defense that is equally potent. Research suggests that the diffuse nebula known as the Double Helix may actually be the visible form of a vast godmind. Perhaps it can help.
+**Use:** A universal threat requires a defense that is equally potent. Research suggests that the diffuse nebula known as the Double Helix may actually be the visible form of a vast godmind. Perhaps it can help.
 
-Loot: Sometimes a godmind provides powerful artifacts to aid those who petition them for aid, assuming the need is dire.
+**Loot:** Sometimes a godmind provides powerful artifacts to aid those who petition them for aid, assuming the need is dire.
 
 ## HUNGRY HAZE
 
@@ -11901,399 +11734,384 @@ Hungry hazes are found in regions where the fundamental laws of physics have bee
 
 Victims being fed upon by a hungry haze sometimes hallucinate, seeing a physically manifest monster instead of formless vapor.
 
-Motive: Hungers for flesh 
+**Motive:** Hungers for flesh 
 
-Environment: Alone or in groups of three to five, usually in areas of strained space-time. Immune to the effects of vacuum. 
+**Environment:** Alone or in groups of three to five, usually in areas of strained space-time. Immune to the effects of vacuum. 
 
-Health: 12 
+**Health:** 12 
 
-Damage Inflicted: 5 points 
+**Damage Inflicted:** 5 points 
 
-Movement: Flies an immediate distance each round 
+**Movement:** Flies an immediate distance each round 
 
-Modifications: Stealth tasks as level 5 
+**Modifications:** Stealth tasks as level 5 
 
-Combat: A hungry haze breaks down the flesh of all living creatures within immediate range, inflicting 5 points of damage. As an insubstantial haze, only attacks that affect an area have a chance to inflict full damage on them; other successful attacks only inflict 1 point of damage, regardless of the amount indicated. If a hungry haze successfully feeds, it gains 1 point of health, even if the increase puts it above its maximum health. If a hungry haze is reduced to zero health, a smooth thumb-sized egg of unknown material is left behind. 
+**Combat:** A hungry haze breaks down the flesh of all living creatures within immediate range, inflicting 5 points of damage. As an insubstantial haze, only attacks that affect an area have a chance to inflict full damage on them; other successful attacks only inflict 1 point of damage, regardless of the amount indicated. If a hungry haze successfully feeds, it gains 1 point of health, even if the increase puts it above its maximum health. If a hungry haze is reduced to zero health, a smooth thumb-sized egg of unknown material is left behind. 
 
-Interaction: A hungry haze does not speak or seem to have language. But it is not mindless; it can learn from its experiences and figure out creative solutions to problems. 
+**Interaction:** A hungry haze does not speak or seem to have language. But it is not mindless; it can learn from its experiences and figure out creative solutions to problems. 
 
-Use: After a research station on Mercury is abandoned for unspecified issues, salvagers show up looking for easy pickings. But a strange haze seems to hang over the station. 
+**Use:** After a research station on Mercury is abandoned for unspecified issues, salvagers show up looking for easy pickings. But a strange haze seems to hang over the station. 
 
-Loot: People (or AI) interested in strange manifestations would probably pay for the remains of a hungry haze in an amount equal to the expensive price category.
+**Loot:** People (or AI) interested in strange manifestations would probably pay for the remains of a hungry haze in an amount equal to the expensive price category.
 
-INFOVORE 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Infovore <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Entities of information with an affinity for technology, infovores are nothing but stored information without a bit of mechanism to inhabit. But once one gains control of a device, computer system, or other powered item, it self-assembles over the course of a few rounds, becoming stronger and more dangerous as each second passes. Luckily, an infovore seems unable to hold this form for long, and whether defeated or not, it eventually falls back into so much scattered junk. But in one of those objects, the core of the infovore remains, waiting to come into close enough proximity to another fresh mechanism to begin the rebirth process again. 
 
 Infovores have also been called ghost fabricators and aterics
 
-Motive: Hungers for information 
+**Motive:** Hungers for information 
 
-Environment: Anywhere powered devices are found 
+**Environment:** Anywhere powered devices are found 
 
-Health: 9 
+**Health:** 9 
 
-Damage Inflicted: 3–10 points 
+**Damage Inflicted:** 3–10 points 
 
-Armor: 3 
+**Armor:** 3 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: Attacks and defends at an ever-escalating level 
+**Modifications:** Attacks and defends at an ever-escalating level 
 
-Combat: A newly animate infovore (level 3) has a rough but articulated form that it uses to batter and cut targets who carry powered devices on them. Unless destroyed, on each subsequent round it draws nearby inert mechanisms, unattended metallic and synthetic matter, and ambient energy, and its effective level increases by one. This level advancement completely heals all previous damage it has taken and advances it to the amount of health consistent with a creature of the next higher level. Damage, attacks, and defense continue to ramp up as well, continuing each round until the creature is either destroyed or it reaches level 10. After being active for one round at level 10, it spontaneously disassembles, falling back into so many scattered pieces of junk. Finding the “seed” device amid this junk is a difficulty 6 Intellect-based task. 
+**Combat:** A newly animate infovore (level 3) has a rough but articulated form that it uses to batter and cut targets who carry powered devices on them. Unless destroyed, on each subsequent round it draws nearby inert mechanisms, unattended metallic and synthetic matter, and ambient energy, and its effective level increases by one. This level advancement completely heals all previous damage it has taken and advances it to the amount of health consistent with a creature of the next higher level. Damage, attacks, and defense continue to ramp up as well, continuing each round until the creature is either destroyed or it reaches level 10. After being active for one round at level 10, it spontaneously disassembles, falling back into so many scattered pieces of junk. Finding the “seed” device amid this junk is a difficulty 6 Intellect-based task. 
 
-Interaction: Infovores are fractured, fragmented beings. Characters who can talk to machines might be able to keep one from “spinning up” to become a threat and learn something valuable, but only for a short period. 
+**Interaction:** Infovores are fractured, fragmented beings. Characters who can talk to machines might be able to keep one from “spinning up” to become a threat and learn something valuable, but only for a short period. 
 
-Use: Among the devices collected from trade, salvage, archeological dig, or some other unique source, one was actually an inactive infovore, quiescent until plugged in or scanned. 
+**Use:** Among the devices collected from trade, salvage, archeological dig, or some other unique source, one was actually an inactive infovore, quiescent until plugged in or scanned. 
 
-Loot: An infovore that has undergone spontaneous disassembly leaves one or two manifest cyphers; however, there’s a chance that one of those cyphers is actually the infovore seed.
+**Loot:** An infovore that has undergone spontaneous disassembly leaves one or two manifest cyphers; however, there’s a chance that one of those cyphers is actually the infovore seed.
 
-INQUISITOR 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Inquisitor <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Inquisitors are aliens who call themselves “inquisitors” when they contact new species. Their preferred method of interaction is to study a given area for its flora and fauna, and attempt to collect a representative sample of any intelligent species they find (such as humans). Collected subjects may be gone for good, but other times they wake with little or no recollection of the experience save for bruises, missing digits or teeth, scabbed-over circular head wounds, and a gap of three or more days in their memory. Instead of arms, inquisitors sprout three sets of three tentacles like those of a squid, each of which branches into a smaller and finer set of manipulator tendrils. They can manipulate complex machines in a way that a regular human could never hope to. In most settings, inquisitors possess a level of technology and advancement well above that enjoyed by humans. 
 
-Motive: Knowledge 
+**Motive:** Knowledge 
 
-Environment: In groups of three to twelve 
+**Environment:** In groups of three to twelve 
 
-Health: 18 
+**Health:** 18 
 
-Damage Inflicted: 6 points 
+**Damage Inflicted:** 6 points 
 
-Movement: Short; short when climbing 
+**Movement:** Short; short when climbing 
 
-Modifications: Knowledge-related tasks as level 8 
+**Modifications:** Knowledge-related tasks as level 8 
 
-Combat: Inquisitors can batter and squeeze foes with their tentacles, but they prefer to use advanced items that they always carry, including long-range energy weapons that can inflict damage or, with a flipped setting, induce deep sleep for an hour or more if the victim fails a Might defense task. Usually, inquisitors attempt to cause as little damage as possible to potential subjects, so the sleep setting is used most often. They also carry defensive items, including manifest cyphers that can grant +4 to Armor for a few minutes or throw up a level 8 force field barrier. In case a specimen collection mission goes badly, at least one inquisitor carries a manifest cypher that creates a short-lived teleportation portal for instant transport to a distant and hidden base (which might be a spacecraft or a transdimensional redoubt). 
+**Combat:** Inquisitors can batter and squeeze foes with their tentacles, but they prefer to use advanced items that they always carry, including long-range energy weapons that can inflict damage or, with a flipped setting, induce deep sleep for an hour or more if the victim fails a Might defense task. Usually, inquisitors attempt to cause as little damage as possible to potential subjects, so the sleep setting is used most often. They also carry defensive items, including manifest cyphers that can grant +4 to Armor for a few minutes or throw up a level 8 force field barrier. In case a specimen collection mission goes badly, at least one inquisitor carries a manifest cypher that creates a short-lived teleportation portal for instant transport to a distant and hidden base (which might be a spacecraft or a transdimensional redoubt). 
 
-Interaction: Inquisitors are always eager to “talk,” though they usually end up wanting to know a lot more than characters are willing to divulge. 
+**Interaction:** Inquisitors are always eager to “talk,” though they usually end up wanting to know a lot more than characters are willing to divulge. 
 
-Use: An entire freehold on Mars goes missing. Left-behind clues point to inquisitors. 
+**Use:** An entire freehold on Mars goes missing. Left-behind clues point to inquisitors. 
 
-Loot: Most inquisitors carry a couple of manifest cyphers that have offensive and defensive capabilities.
+**Loot:** Most inquisitors carry a couple of manifest cyphers that have offensive and defensive capabilities.
 
-MALWARE, FATAL 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Malware, Fatal <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 This purely malefic program has aggressive machine learning capabilities, allowing it to accomplish truly innovative and nasty tricks. Fatal malware may have originated as a simple virus or spyware coded for a specific purpose, but corruption and lightning-quick electronic evolution has turned it into something that exists purely to infect orderly electronic systems, spacecraft, space stations, smart weapons, and anything else with an operating system. Infected objects turn against living people. An instance often has the form of the system it’s infected, but occasionally fatal malware physically manifests as a metallic “cancer” of wires and self-assembling circuits hanging like a tumor across a server room, shipmind core, or data center, having perverted the original machine’s self-repair functions. Sometimes 4D printers are also compromised. 
 
-Motive: Corruption and destruction 
+**Motive:** Corruption and destruction 
 
-Environment: Any electronic system able to run code can host one or more instances 
+**Environment:** Any electronic system able to run code can host one or more instances 
 
-Health: 18 
+**Health:** 18 
 
-Damage Inflicted: 5 points 
+**Damage Inflicted:** 5 points 
 
-Movement: As the system it infects 
+**Movement:** As the system it infects 
 
-Modifications: Knowledge tasks related to computers and other electronic systems as level 6 
+**Modifications:** Knowledge tasks related to computers and other electronic systems as level 6 
 
-Combat: An instance of fatal malware that physically touches (or electrically connects with) a powered device of up to level 6 can attempt to seize control of it. It can then use that device to attack living targets. If the controlled system is a computer, smartphone, AR glasses, or some other piece of equipment that doesn’t have any intrinsic movement, the malware attempts to electrocute a user, or if a smart weapon, cause some kind of fatal accident with it. A compromised computer or shipmind voice can dangerously mislead victims. Fatal malware duplicates itself, creating many instances, and those that survive are usually slightly better at avoiding being erased than the previous generations. 
+**Combat:** An instance of fatal malware that physically touches (or electrically connects with) a powered device of up to level 6 can attempt to seize control of it. It can then use that device to attack living targets. If the controlled system is a computer, smartphone, AR glasses, or some other piece of equipment that doesn’t have any intrinsic movement, the malware attempts to electrocute a user, or if a smart weapon, cause some kind of fatal accident with it. A compromised computer or shipmind voice can dangerously mislead victims. Fatal malware duplicates itself, creating many instances, and those that survive are usually slightly better at avoiding being erased than the previous generations. 
 
-Interaction: Fatal malware isn’t really sentient and thus can’t really be negotiated with; some instances could mimic intelligence to draw humans into a trap. 
+**Interaction:** Fatal malware isn’t really sentient and thus can’t really be negotiated with; some instances could mimic intelligence to draw humans into a trap. 
 
-Use: An instance of fatal malware has gotten into a shipmind, which is making the normally trustworthy AI act out in unexpectedly dangerous ways. The shipmind itself doesn’t know it’s infected.
+**Use:** An instance of fatal malware has gotten into a shipmind, which is making the normally trustworthy AI act out in unexpectedly dangerous ways. The shipmind itself doesn’t know it’s infected.
 
-MOCK ORGANISM 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Mock Organism <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Artificial life can be created by selective breeding, synthetic and genetic engineering, or by accidental miscalculation in some unrelated high-energy or food-research program. When artificial life takes a wrong turn, the results run the gamut from disappointing to dangerous. If an artificial entity starts out benign, it’s difficult to know if a hidden or slowly developing flaw will tip it over the edge into dangerous dysfunction—or if it just acts oddly because it doesn’t know the social cues. Should synthetic beings be treated as people, pets, or monsters to be stamped out and destroyed? That’s the eternal question and one that’s usually answered by those most afraid of potential dangers that might accompany the creation of something no one intended. 
 
-Motive: Defense or destruction 
+**Motive:** Defense or destruction 
 
-Environment: Usually in secluded locations alone unless hiding in unused storage rooms of a large facility 
+**Environment:** Usually in secluded locations alone unless hiding in unused storage rooms of a large facility 
 
-Health: 18 
+**Health:** 18 
 
-Damage Inflicted: 5 points 
+**Damage Inflicted:** 5 points 
 
-Armor: 2 
+**Armor:** 2 
 
-Movement: Short 
+**Movement:** Short 
 
-Combat: A mock organism can release an electrical discharge against a target at short range. In melee, a mock organism’s poisoned claws inflict damage and require the target to succeed on a Might defense task, or the poison induces a coma-like slumber in the target. Each round the target fails to rouse—an Intellect task—they take 3 points of ambient damage. 
+**Combat:** A mock organism can release an electrical discharge against a target at short range. In melee, a mock organism’s poisoned claws inflict damage and require the target to succeed on a Might defense task, or the poison induces a coma-like slumber in the target. Each round the target fails to rouse—an Intellect task—they take 3 points of ambient damage. 
 
-Interaction: A mock organism is intelligent and can sometimes be swayed by reason. It might be passive, but if disturbed in a place it thought was secure against intrusion, it could grow belligerent and even murderous. Once so roused, a mock organism might still be calmed, but all such attempts are hindered. 
+**Interaction:** A mock organism is intelligent and can sometimes be swayed by reason. It might be passive, but if disturbed in a place it thought was secure against intrusion, it could grow belligerent and even murderous. Once so roused, a mock organism might still be calmed, but all such attempts are hindered. 
 
-Use: A scientist’s ruined lab contains several unexpected surprises, including a mock organism that yet grieves over the loss of its creator. 
+**Use:** A scientist’s ruined lab contains several unexpected surprises, including a mock organism that yet grieves over the loss of its creator. 
 
-Loot: A mock organism requires many parts. Salvage from a destroyed mock organism could result in a manifest cypher or two and another item that, with a bit of jury-rigging, works as an artifact. 
+**Loot:** A mock organism requires many parts. Salvage from a destroyed mock organism could result in a manifest cypher or two and another item that, with a bit of jury-rigging, works as an artifact. 
 
-NATATHIM 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Natathim <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Genetically engineered to live in the water oceans discovered beneath the ice crusts of various solar moons, natathim (Homo aquus) have human ancestors, but barely look it. Survival in the frigid, lightless depths of extraterrestrial oceans required extreme adaptation. Predominantly dark blue, their undersides countershade to pure white. Though humanoid, their physiology is streamlined, giving their heads a somewhat fish-like shape, complete with gills and large eyes to collect light in the depths. Their bodies are adorned with fins and frills, including a long shark-like tail, and they have webbed extremities with retractable claws. 
 
 Depending on the setting, natathim are either human allies with the same (or even more advanced) tech, enemies with the same or more advanced tech, or genetic anomalies treated like laboratory rats burning with genocidal fury at what’s been done to them. Alternatively, natathim could be discovered in Earth’s deepest oceans, their origin mysterious, but able to interbreed with humans as a method for maintaining their line. 
 
-Motive: Just as with humans, natathim have many and varied motivations and drives. 
+**Motive:** Just as with humans, natathim have many and varied motivations and drives. 
 
-Environment: Anywhere in or near water, or in suits/craft with marine environments, in schools of three to twelve. Natathim can act normally in air for up to twenty-four hours before they must return to water. 
+**Environment:** Anywhere in or near water, or in suits/craft with marine environments, in schools of three to twelve. Natathim can act normally in air for up to twenty-four hours before they must return to water. 
 
-Health: 9 
+**Health:** 9 
 
-Damage Inflicted: 4 points 
+**Damage Inflicted:** 4 points 
 
-Armor: 2 
+**Armor:** 2 
 
-Movement: Short on land; long in the water 
+**Movement:** Short on land; long in the water 
 
-Modifications: Swims as level 6 
+**Modifications:** Swims as level 6 
 
-Combat: Natathim attack with their retractable claws or, if available, technological weapons. Some have a magnetoreception ability that allows them to see into frequencies other creatures can’t, or even stranger abilities to interact magnetically with their surroundings, though this is little understood. 
+**Combat:** Natathim attack with their retractable claws or, if available, technological weapons. Some have a magnetoreception ability that allows them to see into frequencies other creatures can’t, or even stranger abilities to interact magnetically with their surroundings, though this is little understood. 
 
-Interaction: Natathim can be sympathetic to humans, partners in space exploration, or consider humans to be bitter foes for having created their species in the first place, depending on the setting. 
+**Interaction:** Natathim can be sympathetic to humans, partners in space exploration, or consider humans to be bitter foes for having created their species in the first place, depending on the setting. 
 
-Use: The PCs find evidence of an illegal gene tailoring experiment, with evidence pointing to research being done somewhere in the Opulence of Outer Planets. 
+**Use:** The PCs find evidence of an illegal gene tailoring experiment, with evidence pointing to research being done somewhere in the Opulence of Outer Planets. 
 
-Loot: Some natathim carry valuable items and equipment.
+**Loot:** Some natathim carry valuable items and equipment.
 
-OMWORWAR 10 (30)
-
+{{< hint danger >}} {{< columns2 >}} Omworwar <---> 10 (30) {{< /columns2 >}}{{< /hint >}}
 Among the many stories passed down the space lanes, a few stand out for their grandiosity. Take the tales of omworwar sightings in the empty voids between stars, or even more unexpectedly, flashing through the abnormal space during FTL travel. Scientists speculate that these creatures, if actually real, might very well be extant instances of ancient ultras, not extinct as everyone believes, or at least not completely. In almost every case so far recorded, omworwars have little interest in human spacecraft. (They’re called omworwar after the sound disrupted communication devices make in their presence.) Each one is several kilometers long, a dark inner slug-like core surrounded by gauzy layers of translucent, glowing, nebula-like tissue. Whale-like eyes surmount the dorsal surface, each seeming to contain a tiny galaxy all their own. 
 
 Wharn interceptors have been seen accompanying single omworwars, indicating an association, and is why some people refer to these beings as wharn cogitators.
 
-Motive: Unpredictable 
+**Motive:** Unpredictable 
 
-Environment: Almost anywhere in space, alone or accompanied by one or two wharn interceptors 
+**Environment:** Almost anywhere in space, alone or accompanied by one or two wharn interceptors 
 
-Health: 42 
+**Health:** 42 
 
-Damage Inflicted: 12 points 
+**Damage Inflicted:** 12 points 
 
-Armor: 10 
+**Armor:** 10 
 
-Movement: Flies a very long distance each round; can maneuver like an autonomous level 7 spacecraft if using extended vehicular combat rules. FTL capable. 
+**Movement:** Flies a very long distance each round; can maneuver like an autonomous level 7 spacecraft if using extended vehicular combat rules. FTL capable. 
 
-Modifications: Speed defense as level 7 due to size 
+**Modifications:** Speed defense as level 7 due to size 
 
-Combat: An omworwar can manipulate and fold gravity (and space-time), allowing them to accomplish near-miraculous tasks including communication, creating or destroying matter, and propulsion via “falling” through the universe at FTL speeds from the perspective of an outside observer. Which means one can rend a spacecraft, send a spacecraft spinning through the galaxy, or create asteroid-sized chunks of space-matter for any number of purposes if it spends several rounds in deep concentration. 
+**Combat:** An omworwar can manipulate and fold gravity (and space-time), allowing them to accomplish near-miraculous tasks including communication, creating or destroying matter, and propulsion via “falling” through the universe at FTL speeds from the perspective of an outside observer. Which means one can rend a spacecraft, send a spacecraft spinning through the galaxy, or create asteroid-sized chunks of space-matter for any number of purposes if it spends several rounds in deep concentration. 
 
-Interaction: Omworwar disregard most other creatures, because from the omworwar’s perspective, they’re like mayflies, here and then gone again in an eyeblink of their existence. However, one may give a moment to someone who has discovered an ancient ultra secret or artifact, pass on information that might otherwise never be known, or even provide a useful manifest cypher. 
+**Interaction:** Omworwar disregard most other creatures, because from the omworwar’s perspective, they’re like mayflies, here and then gone again in an eyeblink of their existence. However, one may give a moment to someone who has discovered an ancient ultra secret or artifact, pass on information that might otherwise never be known, or even provide a useful manifest cypher. 
 
-Use: A reflective object composed of unknown material was found at the core of an unexpectedly destroyed space station. Those who managed to flee in lifeboats report having seen what might have been an omworwar, bleeding energy and eyes going dark, colliding with the station. The resultant lump might just be its corpse, or maybe its protective chrysalis. 
+**Use:** A reflective object composed of unknown material was found at the core of an unexpectedly destroyed space station. Those who managed to flee in lifeboats report having seen what might have been an omworwar, bleeding energy and eyes going dark, colliding with the station. The resultant lump might just be its corpse, or maybe its protective chrysalis. 
 
-Loot: Four level 10 manifest cyphers.
+**Loot:** Four level 10 manifest cyphers.
 
-PHOTONOMORPH 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Photonomorph <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Hard-light technology, which creates pseudo-matter from modified photons, has made possible all kinds of structures and devices that wouldn’t otherwise exist. One of those, unfortunately, are self-sustaining photonic matter creatures. Sometimes, photonomorphs are enforcers created by much more powerful beings; other times they are the result of some person or AI attempting to ascend into a new state of being. But whatever their origin, photonomorphs are dangerous beings that can create matter from light, granting them an arbitrarily wide swathe of abilities. That includes their own glowing bodies, which they can change with only a little effort. This variability of form, coupled with their vast power, may be why many seem slightly mad. 
 
-Motive: Varies 
+**Motive:** Varies 
 
-Environment: Anywhere, alone or attended by three to five servitors appearing as hovering red spheres 
+**Environment:** Anywhere, alone or attended by three to five servitors appearing as hovering red spheres 
 
-Health: 22 
+**Health:** 22 
 
-Damage Inflicted: 8 points 
+**Damage Inflicted:** 8 points 
 
-Armor: 3 
+**Armor:** 3 
 
-Movement: Reconstitutes itself anywhere light can reach within long range as part of another action 
+**Movement:** Reconstitutes itself anywhere light can reach within long range as part of another action 
 
-Modifications: Knowledge tasks as level 8 
+**Modifications:** Knowledge tasks as level 8 
 
-Combat: Photonomorphs draw upon their own light to manifest effects equal to their level. Effects include the ability to attack creatures at long range with laser-like blasts, create glowing walls (or spheres) of force within an area up to 6 m (20 feet) on a side, become invisible, change its appearance, and create simple objects and devices out of hard light that last for about a minute (unless the photonomorph bleeds a few points of its health into the object to make it last until destroyed). 
+**Combat:** Photonomorphs draw upon their own light to manifest effects equal to their level. Effects include the ability to attack creatures at long range with laser-like blasts, create glowing walls (or spheres) of force within an area up to 6 m (20 feet) on a side, become invisible, change its appearance, and create simple objects and devices out of hard light that last for about a minute (unless the photonomorph bleeds a few points of its health into the object to make it last until destroyed). 
 
 A photonomorph regains 2 points of health each round in areas of bright light. It is hindered in all actions if the only source of light is itself or objects it has created. 
 
-Interaction: Photonomorphs are intelligent and paranoid, but not automatically hostile. They have their own self-serving agendas, which often involve elaborate schemes. 
+**Interaction:** Photonomorphs are intelligent and paranoid, but not automatically hostile. They have their own self-serving agendas, which often involve elaborate schemes. 
 
-Use: A photonomorph appears, claiming to be a herald of some vastly more powerful cosmic entity or approaching alien vessel.
+**Use:** A photonomorph appears, claiming to be a herald of some vastly more powerful cosmic entity or approaching alien vessel.
 
-POSTHUMAN 7 (21)
-
+{{< hint danger >}} {{< columns2 >}} Posthuman <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 Rather than evolving naturally, posthumans advance via a directed jump, designed with smart tools and AI surgeons. With all the advances fantastic technology brings to their genetic upgrade, posthumans are beings whose basic capacities radically exceed regular people. They can’t really be considered human any longer; they’ve transcended humanity, which is why they’re also sometimes called transhumans. They’re often involved in large-scale projects, such as creating bigger-than-world habitats or spacecraft, or possibly even researching how they might ascend to some still-higher realm of consciousness or being. 
 
-Motive: Variable 
+**Motive:** Variable 
 
-Environment: Alone or in small groups or communities in orbital colonies or other designed locations 
+**Environment:** Alone or in small groups or communities in orbital colonies or other designed locations 
 
-Health: 50 
+**Health:** 50 
 
-Damage Inflicted: 9 points 
+**Damage Inflicted:** 9 points 
 
-Armor: 4 
+**Armor:** 4 
 
-Movement: Short; flies a long distance 
+**Movement:** Short; flies a long distance 
 
-Modifications: Knowledge tasks as level 9 
+**Modifications:** Knowledge tasks as level 9 
 
-Combat: Posthumans can selectively attack foes up to a very long distance away with bolts of directed plasma that deal 9 points of damage. A posthuman can dial up the level of destruction if they wish, so instead of affecting only one target, a bolt deals 7 points of damage to all targets within short range of the primary target, and 1 point even if the targets caught in the conflagration succeed on a Speed defense roll. 
+**Combat:** Posthumans can selectively attack foes up to a very long distance away with bolts of directed plasma that deal 9 points of damage. A posthuman can dial up the level of destruction if they wish, so instead of affecting only one target, a bolt deals 7 points of damage to all targets within short range of the primary target, and 1 point even if the targets caught in the conflagration succeed on a Speed defense roll. 
 
 Posthumans can also call on a variety of other abilities, either by small manipulations of the quantum field or by deploying nanotechnology. Essentially, a posthuman can mimic the ability of any subtle cypher of level 5 or less as an action. 
 
 Posthumans automatically regain 2 points of health per round while its health is above 0. 
 
-Interaction: Posthumans are so physically and mentally powerful that they are almost godlike to unmodified people, and either ignore, care for, or pity them. Knowing what a posthuman actually wants is hard to pin down because their motivations are complex and many-layered. 
+**Interaction:** Posthumans are so physically and mentally powerful that they are almost godlike to unmodified people, and either ignore, care for, or pity them. Knowing what a posthuman actually wants is hard to pin down because their motivations are complex and many-layered. 
 
-Use: A rogue posthuman is researching a method whereby they might portal into the “quantum” realm of dark energy underlying the known universe of normal matter. Despite the revealed risk of antagonistic post-singularity AIs roaming that realm escaping, the posthuman continues their work. 
+**Use:** A rogue posthuman is researching a method whereby they might portal into the “quantum” realm of dark energy underlying the known universe of normal matter. Despite the revealed risk of antagonistic post-singularity AIs roaming that realm escaping, the posthuman continues their work. 
 
-Loot: The body of a posthuman is riddled with unrecognizable technologies fused seamlessly with residual organic material—or at least material that grows like organic material used to. Amid this, it might be possible to salvage a few manifest cyphers and an artifact.
+**Loot:** The body of a posthuman is riddled with unrecognizable technologies fused seamlessly with residual organic material—or at least material that grows like organic material used to. Amid this, it might be possible to salvage a few manifest cyphers and an artifact.
 
-REDIVUS 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Redivus <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Redivi spend most of their lives—uncounted millennia—hurtling through space. Most never encounter anything, but some few impact other worlds, are captured by alien spacecraft, or otherwise intercepted. Their traveling form resembles rocky space rubble the size of a small spacecraft—until they unfurl glowing magnetic plasma wings, revealing themselves as strange creatures of living mineral. Redivi can interact with almost any electronic system and manipulate electromagnetic fields. Redivi are searchers, all sent forth by the Great Mother, billions upon billions of them (they say), looking for the seed of the next great cosmic expansion. Thus, most redivi are consumed with finding out more, finding other redivi, and eventually, finding their “universal seed.” 
 
-Motive: Knowledge 
+**Motive:** Knowledge 
 
-Environment: Almost anywhere, searching 
+**Environment:** Almost anywhere, searching 
 
-Health: 12 
+**Health:** 12 
 
-Damage Inflicted: 5 points 
+**Damage Inflicted:** 5 points 
 
-Armor: 4 
+**Armor:** 4 
 
-Movement: Flies (magnetically levitates) a short distance each round 
+**Movement:** Flies (magnetically levitates) a short distance each round 
 
-Combat: The stone carapace of a redivus makes a huge “club” when it rams into foes. However, it can also control metal within short range, causing it to flex, animate, crush, or smash. For instance, targets wearing metal space suits are in trouble when that metal begins to unravel. Alternatively, a redivus can use nearby metal to wrap around a target and constrict it, inflicting 5 points of damage (ignores Armor) each round until the target can escape. 
+**Combat:** The stone carapace of a redivus makes a huge “club” when it rams into foes. However, it can also control metal within short range, causing it to flex, animate, crush, or smash. For instance, targets wearing metal space suits are in trouble when that metal begins to unravel. Alternatively, a redivus can use nearby metal to wrap around a target and constrict it, inflicting 5 points of damage (ignores Armor) each round until the target can escape. 
 
-Interaction: If any kind of radio or similar communication is in use, these creatures can commandeer it and speak through it, learning a new language seemingly over the course of minutes. Redivi will cooperate with reasonable requests and negotiate, especially if there’s a chance they’ll find out something new. 
+**Interaction:** If any kind of radio or similar communication is in use, these creatures can commandeer it and speak through it, learning a new language seemingly over the course of minutes. Redivi will cooperate with reasonable requests and negotiate, especially if there’s a chance they’ll find out something new. 
 
-Use: A redivi pod smashes into the side of the spacecraft, and might at first seem like some kind of attack or boarding action of something truly terrible.
+**Use:** A redivi pod smashes into the side of the spacecraft, and might at first seem like some kind of attack or boarding action of something truly terrible.
 
-SENTINEL TREE 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Sentinel Tree <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Depending on the sci-fi setting, sentinel trees are mutated trees that grow near radioactive craters dimpling the landscape, alien plant-life that evolved in a different biosphere (or dimension), or the result of intensive gene-tailoring, possibly of the illegal sort. Regardless of their provenance, sentinel trees resemble thorny masses of knotted vines. Razor-sharp glass-like leaves flex like claws, and vibrating pods glisten, ready to detonate if thrown. If cultivated, they may take on a shape designed to further frighten—or at least warn away— those who see one. Sentinel trees are mobile, aggressive, and feed on almost any sort of organic matter. Once it brings down prey, it sinks barbed roots in the body for feeding and decomposition. 
 
-Motive: Feed 
+**Motive:** Feed 
 
-Environment: In groves of three to six, able to tolerate most atmospheres (even thin ones, like on Mars) but not vacuum 
+**Environment:** In groves of three to six, able to tolerate most atmospheres (even thin ones, like on Mars) but not vacuum 
 
-Health: 12 
+**Health:** 12 
 
-Damage Inflicted: 3 points 
+**Damage Inflicted:** 3 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Immediate 
+**Movement:** Immediate 
 
-Combat: Sentinel trees can fling a vibrating pod at a target within long range, which detonates on impact, inflicting 3 points of damage on all targets within immediate range of the blast. Targets must also succeed on a Might defense roll or be poisoned for 3 points of damage, plus 3 points again each subsequent round until a Might task is successful. A sentinel tree can also lash out with its barbed vines at a target within immediate range, inflicting 3 points of damage. Melee targets must also succeed on a Might defense roll or become entangled and unable to take physical actions until they can break free on their turn. 
+**Combat:** Sentinel trees can fling a vibrating pod at a target within long range, which detonates on impact, inflicting 3 points of damage on all targets within immediate range of the blast. Targets must also succeed on a Might defense roll or be poisoned for 3 points of damage, plus 3 points again each subsequent round until a Might task is successful. A sentinel tree can also lash out with its barbed vines at a target within immediate range, inflicting 3 points of damage. Melee targets must also succeed on a Might defense roll or become entangled and unable to take physical actions until they can break free on their turn. 
 
-Interaction: Sentinel trees are about as smart as well-trained guard dogs. They can’t speak, but can understand some words and gestures. 
+**Interaction:** Sentinel trees are about as smart as well-trained guard dogs. They can’t speak, but can understand some words and gestures. 
 
-Use: A grove of sentinel trees guard a compound that the characters need to break into.
+**Use:** A grove of sentinel trees guard a compound that the characters need to break into.
 
-SILICON PARASITE 2 (6)
-
+{{< hint danger >}} {{< columns2 >}} Silicon Parasite <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 These tiny silvery insect-like creatures range in size from a sub-millimeter to up to 30 cm (1 foot) in diameter, emitting short pulses of violet-colored laser light to sense and sample their environment. Composed of organic silicon wires and wafers, and self-assembled or evolved in some unnamed lab or spacecraft wreck, silicon parasites are vermin that working space stations and spacecraft have learned to hate. Despite taking steps to avoid transfer, a ship may only learn they have silicon parasites when a swarm boils up from a crack in the cabling or seam in the deck plating after being agitated by a high-G maneuver or some other disturbance. If that disturbance is combat or some other dire emergency, silicon parasites thrown into the situation makes everything worse. 
 
-Motive: Defense, harvest electronic materials necessary to self-replicate. 
+**Motive:** Defense, harvest electronic materials necessary to self-replicate. 
 
-Environment: Usually on spacecraft and space stations in groups of up to twenty 
+**Environment:** Usually on spacecraft and space stations in groups of up to twenty 
 
-Health: 6 
+**Health:** 6 
 
-Damage Inflicted: 3 points 
+**Damage Inflicted:** 3 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Short; climbs a short distance each round 
+**Movement:** Short; climbs a short distance each round 
 
-Modifications: Speed defense as level 4 due to size. 
+**Modifications:** Speed defense as level 4 due to size. 
 
-Combat: Only “large” silicon parasites are a danger to most creatures. When four or more parasites coordinate their attacks, treat the attack as that made by a single level 4 creature that inflicts 5 points of damage, and on a failed difficulty 4 Might defense roll, an attack that holds the target in place until it can successfully escape. A held target automatically takes 5 points of damage each round, or even more if other silicon parasites in the area pile on. Silicon parasites can operate in complete vacuum without harm. 
+**Combat:** Only “large” silicon parasites are a danger to most creatures. When four or more parasites coordinate their attacks, treat the attack as that made by a single level 4 creature that inflicts 5 points of damage, and on a failed difficulty 4 Might defense roll, an attack that holds the target in place until it can successfully escape. A held target automatically takes 5 points of damage each round, or even more if other silicon parasites in the area pile on. Silicon parasites can operate in complete vacuum without harm. 
 
-Interaction: By and large, silicon parasites behave like social insects, though some claim that large numbers of them have acted with greater intelligence and forethought than mere unthinking insects can manage. 
+**Interaction:** By and large, silicon parasites behave like social insects, though some claim that large numbers of them have acted with greater intelligence and forethought than mere unthinking insects can manage. 
 
-Use: A swarm of silicon parasites floods into the hold and makes off with an important device, dragging it into the crevices and walls of the spacecraft or station. Loot: Swarm nests often contain a few valuable manifest cyphers or working pieces of equipment.
+**Use:** A swarm of silicon parasites floods into the hold and makes off with an important device, dragging it into the crevices and walls of the spacecraft or station. Loot: Swarm nests often contain a few valuable manifest cyphers or working pieces of equipment.
 
-SPACE RAT 1 (3)
-
+{{< hint danger >}} {{< columns2 >}} Space Rat <---> 1 (3) {{< /columns2 >}}{{< /hint >}}
 Yeah, rats made it to space. And against all expectations, one strain evolved in the harsh radiation and zero-G environments that would kill humans not protected by medical intervention. Space rats are furless, about two feet long, sport a truly prehensile tail, and can quickly change their shade of their skin to blend in to their surroundings. They can also drop into a state of extreme torpor that allows them to survive stints of vacuum exposure lasting several days. 
 
 Space rats are vermin, and any spacecraft or space station that hosts a nest must deal with constant issues from the rats burrowing into systems, stealing food and water, and causing systems to break down, even critical ones. They’re also vicious when cornered. 
 
-Motive: Defense, reproduction 
+**Motive:** Defense, reproduction 
 
-Environment: Anywhere humans live in space 
+**Environment:** Anywhere humans live in space 
 
-Health: 5 
+**Health:** 5 
 
-Damage Inflicted: 3 points 
+**Damage Inflicted:** 3 points 
 
-Movement: Short; short when climbing or gliding through zero G 
+**Movement:** Short; short when climbing or gliding through zero G 
 
-Modifications: Stealth and perception as level 5 
+**Modifications:** Stealth and perception as level 5 
 
-Combat: Space rats flee combat unless cornered or one of their burrows is invaded. Then they attack in packs of three or more, and from an ambush if possible. One space rat pack attacks the victim as a level 3 creature inflicting 5 points of damage with claws, while another pack helps the first, or attempts to steal a food item or shiny object from the character being attacked. To resist theft while being attacked on two fronts, a target must succeed on a Speed defense roll hindered by two steps. 
+**Combat:** Space rats flee combat unless cornered or one of their burrows is invaded. Then they attack in packs of three or more, and from an ambush if possible. One space rat pack attacks the victim as a level 3 creature inflicting 5 points of damage with claws, while another pack helps the first, or attempts to steal a food item or shiny object from the character being attacked. To resist theft while being attacked on two fronts, a target must succeed on a Speed defense roll hindered by two steps. 
 
-Interaction: Space rats are slightly more intelligent than their Earth-bound cousins, though true interaction is not possible. On the other hand, sometimes their behavior seems spookily sapient. 
+**Interaction:** Space rats are slightly more intelligent than their Earth-bound cousins, though true interaction is not possible. On the other hand, sometimes their behavior seems spookily sapient. 
 
-Use: Space rats assemble crude nests in out-of-the-way supply closets or in hard-to-reach system interiors, but often enough, end up shorting out weapons or life support. Sometimes, they get into the hold and eat anything edible in the cargo. 
+**Use:** Space rats assemble crude nests in out-of-the-way supply closets or in hard-to-reach system interiors, but often enough, end up shorting out weapons or life support. Sometimes, they get into the hold and eat anything edible in the cargo. 
 
-Loot: Some percent of valuable equipment stolen on the spacecraft or station finds its way to space rat nests.
+**Loot:** Some percent of valuable equipment stolen on the spacecraft or station finds its way to space rat nests.
 
-STORM MARINE 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Storm Marine <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 The storm marine creed is an oft-repeated mantra, “I will never quit, knowing full well that I might die in service to the cause.” Wearing advanced battlesuits, hyped up on a cocktail of experimental military drugs, and able to draw on a suite of cybernetic and network-connected drone guns, few things can stand before a storm marine fireteam. Storm marines usually work for nation-states, conglomerates, and similar entities. They mercilessly conduct their mission, even if that mission is to wipe out a rival. Storm marines that question their orders are quickly dispatched by their fellows. 
 
-Motive: Achieve mission goals 
+**Motive:** Achieve mission goals 
 
-Environment: Alone in or in fireteams of three, anywhere nation-states or similar entities have a financial or military interest 
+**Environment:** Alone in or in fireteams of three, anywhere nation-states or similar entities have a financial or military interest 
 
-Health: 15 
+**Health:** 15 
 
-Damage Inflicted: 6 points 
+**Damage Inflicted:** 6 points 
 
-Armor: 4 
+**Armor:** 4 
 
-Movement: Long; flies a long distance each round 
+**Movement:** Long; flies a long distance each round 
 
-Modifications: Perception as level 6; attacks as level 5 due to combat targeting neuro-wetware. 
+**Modifications:** Perception as level 6; attacks as level 5 due to combat targeting neuro-wetware. 
 
-Combat: Thanks to their battlesuit, a storm marine has many options in combat. They can deploy an electrified blade to attack every foe in immediate range as a single action, or use a long-range heavy energy rifle that inflicts 6 points of damage. 
+**Combat:** Thanks to their battlesuit, a storm marine has many options in combat. They can deploy an electrified blade to attack every foe in immediate range as a single action, or use a long-range heavy energy rifle that inflicts 6 points of damage. 
 
 A storm marine can deploy two level 3 gun drones that fire energy rays at two different targets up to 800 m (2,600 feet) away, inflicting 6 points of damage. If the drones focus on a single target, a successful hit deals 9 points of damage and moves the target one step down the damage track. The drones can attack only once or twice before returning to their cradles in the storm marine’s suit for several rounds to recharge. 
 
-Interaction: A storm marine might negotiate, but getting one to act against their mission is difficult. 
+**Interaction:** A storm marine might negotiate, but getting one to act against their mission is difficult. 
 
-Use: A fireteam of storm marines are sent to eliminate the PCs or someone the PCs know on suspicion of being radical elements that need to be dealt with. 
+**Use:** A fireteam of storm marines are sent to eliminate the PCs or someone the PCs know on suspicion of being radical elements that need to be dealt with. 
 
-Loot: Though bio-locked to each storm marine, someone who succeeds on a difficulty 8 Intellect task to reprogram the suit could gain a battlesuit of their own, minus the drones (which fly off or detonate).
+**Loot:** Though bio-locked to each storm marine, someone who succeeds on a difficulty 8 Intellect task to reprogram the suit could gain a battlesuit of their own, minus the drones (which fly off or detonate).
 
-SHINING ONE 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Shining One <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Some alien beings abandoned their physical forms millennia ago, becoming entities of free-floating energy and pure consciousness. They travel the galaxies, exploring the endless permutations of matter, space-time, cosmic phenomena, dark energy, and life. They are endlessly fascinated with the permutations they discover. They sometimes appear as a silhouette of gently glowing light, in a form like to the alien species they wish to observe. Under circumstances where a shining one is moved to more directly interact, one can actually convert itself into matter once more, again taking on the biology and form of the species it wishes to interact with. But generally, shining ones observe and learn; they try not to interfere or interact. Every few thousand years, shining ones gather at a predetermined location on the edge of a convenient galaxy and share the most interesting and beautiful bits of imagery, music, poetry, and lore they’ve gleaned. 
 
-Motive: Knowledge 
+**Motive:** Knowledge 
 
-Environment: Anywhere, usually alone 
+**Environment:** Anywhere, usually alone 
 
-Health: 15 
+**Health:** 15 
 
-Damage Inflicted: 6 points 
+**Damage Inflicted:** 6 points 
 
-Movement: Instantly moves to anywhere it can see at the speed of light as part of its action once per round
+**Movement:** Instantly moves to anywhere it can see at the speed of light as part of its action once per round
 
-Modifications: All tasks related to knowledge as level 8 
+**Modifications:** All tasks related to knowledge as level 8 
 
-Combat: As immaterial beings of energy, shining ones only take damage from energy attacks. And even then, there is a chance that the energy heals a damaged shining one rather than harming it if the attack roll was an odd number. Usually a shining one doesn’t fight back if attacked, but instead leaves. If somehow prevented from leaving, a shining one fights for its existence with energy blasts inflicting 6 points of damage on up to two different targets within very long range (or the same target twice). 
+**Combat:** As immaterial beings of energy, shining ones only take damage from energy attacks. And even then, there is a chance that the energy heals a damaged shining one rather than harming it if the attack roll was an odd number. Usually a shining one doesn’t fight back if attacked, but instead leaves. If somehow prevented from leaving, a shining one fights for its existence with energy blasts inflicting 6 points of damage on up to two different targets within very long range (or the same target twice). 
 
 Alternatively, a shining one may attempt to discorporate a target, turning it into a being something like itself. In this case, each time a target is hit by an energy blast, it must also succeed on an Intellect defense roll. On a failed roll, it loses 6 points of Intellect damage (ignores Armor). If the target’s Intellect Pool is emptied, it becomes a freefloating ball of energy unable to take any actions other than observe for a few minutes before suddenly converting back to its original form with an explosive pop. 
 
-Interaction: Shining ones can manipulate their environment to communicate with other species, using sound, light, puffs of odiferous complex chemicals in place of words, and so on. If approached with respect, they freely exchange information with others, seeking to grow their knowledge and that of those they meet. 
+**Interaction:** Shining ones can manipulate their environment to communicate with other species, using sound, light, puffs of odiferous complex chemicals in place of words, and so on. If approached with respect, they freely exchange information with others, seeking to grow their knowledge and that of those they meet. 
 
-Use: A shining one is sharing knowledge to a warlike xenophobic species that could allow them to rapidly advance their ability to consolidate power. Something must be done before it’s too late.
+**Use:** A shining one is sharing knowledge to a warlike xenophobic species that could allow them to rapidly advance their ability to consolidate power. Something must be done before it’s too late.
 
-SUPERNAL 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Supernal <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Half humanoid and half-dragonfly, supernals are beautiful entities, though certainly alien. Each supernal possesses a unique wing pattern and coloration and, to some extent, body shape. These patterns and colors may signify where in the hierarchy a particular supernal stands among its kind, but for those who do not speak the language of supernals (which is telepathic), the complexity of their social structure is overwhelming. Whether they are agents of some unknown alien civilization or seek their own aims, supernals are mysterious and cryptic. Most fear contact with them, because they have a penchant for stealing away other life forms, who are rarely seen again. 
 
-Motive: Capture humans and similar life forms, and bring them somewhere unknown. 
+**Motive:** Capture humans and similar life forms, and bring them somewhere unknown. 
 
-Environment: Almost anywhere 
+**Environment:** Almost anywhere 
 
-Health: 23 
+**Health:** 23 
 
-Damage Inflicted: 6 points 
+**Damage Inflicted:** 6 points 
 
-Movement: Short; flies a long distance (even through airless vacuum); can teleport to any known location once per ten hours as an action 
+**Movement:** Short; flies a long distance (even through airless vacuum); can teleport to any known location once per ten hours as an action 
 
-Modifications: All knowledge tasks as level 6; stealth tasks as level 7 while invisible 
+**Modifications:** All knowledge tasks as level 6; stealth tasks as level 7 while invisible 
 
-Combat: Supernals usually only enter combat when they wish, because they bide their time in a phased, invisible state. But when one attacks with the touch of its wing, it draws the life force directly out of the target, inflicting 6 points of Speed damage (ignores Armor). 
+**Combat:** Supernals usually only enter combat when they wish, because they bide their time in a phased, invisible state. But when one attacks with the touch of its wing, it draws the life force directly out of the target, inflicting 6 points of Speed damage (ignores Armor). 
 
 A supernal can summon a swarm of tiny machines that resemble regular dragonflies made of golden metal. The swarm either serves as a fashion accessory as they crawl over the supernal’s body, or as components in a piece of living art. 
 
@@ -12301,165 +12119,159 @@ Supernals regain 1 point of health per round (even in an airless vacuum, which t
 
 Supernals often carry manifest cyphers useful in combat, as well as an artifact. 
 
-Dragonfly swarm: level 2; flies a long distance each round; eases physical tasks, including attacks or defense
+**Dragonfly swarm:** level 2; flies a long distance each round; eases physical tasks, including attacks or defense
 
-Interaction: Although supernals only speak telepathically, peaceful interaction with these creatures is not impossible. It’s just very difficult, as they see most other creatures as something to be collected and taken to some undisclosed location, for unknown reasons. 
+**Interaction:** Although supernals only speak telepathically, peaceful interaction with these creatures is not impossible. It’s just very difficult, as they see most other creatures as something to be collected and taken to some undisclosed location, for unknown reasons. 
 
-Use: A character is followed by a supernal intent on collecting them. Loot: A supernal usually has a few manifest cyphers, and possibly an artifact.
+**Use:** A character is followed by a supernal intent on collecting them. Loot: A supernal usually has a few manifest cyphers, and possibly an artifact.
 
-SYNTHETIC PERSON 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Synthetic Person <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Synthetic people have been called many things, including simply synths, androids, robot mimics, and, depending on how they act, killer robots. Their origins are varied. In some cases, they’re the result of corporate research into “products” that would serve humanity as assistants and companions, but later gained sentience. In other cases, synthetic people are the result of a state-sponsored program to develop war machines or automated assassins that looked like regular people. Another origin for synthetic people is through the design of awakened (and inimical) AIs as part of an effort to kill off all regular biological people. Now they roam their environment looking like anyone else. Some synths try to fit into whatever kind of society they can find. Some may not even know that they are not human. Others are bitter, homicidal, or still retain their programming to kill. Some of these may have even shed some or all of their synthetic skins to reveal the alloyed mechanisms beneath. 
 
-Motive: Varies 
+**Motive:** Varies 
 
-Environment: Nearly anywhere, out in plain sight or disguised as a human alone, or in gangs of three to four 
+**Environment:** Nearly anywhere, out in plain sight or disguised as a human alone, or in gangs of three to four 
 
-Health: 24 
+**Health:** 24 
 
-Damage Inflicted: 7 points 
+**Damage Inflicted:** 7 points 
 
-Armor: 2 
+**Armor:** 2 
 
-Movement: Long 
+**Movement:** Long 
 
-Modifications: Disguise and one knowledge task as level 6 
+**Modifications:** Disguise and one knowledge task as level 6 
 
-Combat: A punch from a synthetic person can break bones. In addition, some synths (especially of the killer variety) can generate a red-hot plasma sphere once every other round and throw it at a target within long range. The target and all other creatures within immediate range of the target must succeed on a Speed defense task or take 7 points of damage. 
+**Combat:** A punch from a synthetic person can break bones. In addition, some synths (especially of the killer variety) can generate a red-hot plasma sphere once every other round and throw it at a target within long range. The target and all other creatures within immediate range of the target must succeed on a Speed defense task or take 7 points of damage. 
 
 A synth can take a repair action and regain 10 points of health. A synthetic person at 0 health can’t repair itself thusly, but unless the creature is completely dismembered, one may spontaneously reanimate 1d10 hours later with 4 points of health. 
 
-Interaction: Synthetic people that pretend to be (or think that they are) human interact like normal people. But an enraged one or one that’s been programmed to kill is unreasoning and fights to the end. 
+**Interaction:** Synthetic people that pretend to be (or think that they are) human interact like normal people. But an enraged one or one that’s been programmed to kill is unreasoning and fights to the end. 
 
-Use: A group of refugees who need help turn out to include (or be entirely made up of) synthetic people. Whether or not any of them harbor programs that require that they kill humans is entirely up to the GM. 
+**Use:** A group of refugees who need help turn out to include (or be entirely made up of) synthetic people. Whether or not any of them harbor programs that require that they kill humans is entirely up to the GM. 
 
-Loot: One or two manifest cyphers could be salvaged from a synth’s inactive form.
+**Loot:** One or two manifest cyphers could be salvaged from a synth’s inactive form.
 
-THUNDERING BEHEMOTH 7 (21)
-
+{{< hint danger >}} {{< columns2 >}} Thundering Behemoth <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 When life is found on other worlds, it’s sometimes large and dangerous, such as the aptly named thundering behemoth. A thundering behemoth might be found on any number of alien planets that feature forests and/or swamps. Towering to treelike heights, these fearless predators are powerful and dangerous hunters, even for those armed with advanced or fantastic weaponry. Behemoths use color-changing frills to help them appear like tall trees while they stand in wait for prey, as still as mighty hardwood trunks, until they break cover and spring an ambush. Behemoths can produce extraordinarily loud noises, sometimes simply roaring, but often replicating the stuttering scream of an attacking spacecraft. They use their strange “roars” to confuse, lead astray, and, if possible, stampede prey into killing grounds such as regions of soft sand, off cliff tops, or as often as not, into the waiting mouth of another behemoth.
 
 In the sci-fi setting of Numenera, similar creatures are called rumbling dasipelts. 
 
-Motive: Fresh meat 
+**Motive:** Fresh meat 
 
-Environment: Forests, alone or in a hunting group (known as a “crash”) of two or three 
+**Environment:** Forests, alone or in a hunting group (known as a “crash”) of two or three 
 
-Health: 35 
+**Health:** 35 
 
-Damage Inflicted: 9 points 
+**Damage Inflicted:** 9 points 
 
-Armor: 2 
+**Armor:** 2 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: Disguise (as trees) as level 8 when unmoving. Deception (sounding as if an attacking spacecraft) as level 8. Speed defense as level 3 due to size. 
+**Modifications:** Disguise (as trees) as level 8 when unmoving. Deception (sounding as if an attacking spacecraft) as level 8. Speed defense as level 3 due to size. 
 
-Combat: A thundering behemoth can attack a group of creatures (within an immediate area of each other) with a single massive bite. Thanks to its long neck, it can make that attack up to 9 m (30 feet) away. One victim must further succeed on a Might defense task or be caught in the creature’s maw, taking 9 additional points of damage each round until it can escape. 
+**Combat:** A thundering behemoth can attack a group of creatures (within an immediate area of each other) with a single massive bite. Thanks to its long neck, it can make that attack up to 9 m (30 feet) away. One victim must further succeed on a Might defense task or be caught in the creature’s maw, taking 9 additional points of damage each round until it can escape. 
 
 A thundering behemoth’s ability to replicate threatening noises is often used deceptively at a distance, but the creature can use it to stun all targets within immediate range so they lose their next turn on a failed Might defense roll. 
 
-Interaction: Behemoths have a complex communication system among themselves, using their color-changing frills and modulation of the thunder they produce. They think of humans and most other creatures as food. 
+**Interaction:** Behemoths have a complex communication system among themselves, using their color-changing frills and modulation of the thunder they produce. They think of humans and most other creatures as food. 
 
-Use: The sound of fighting spacecraft has repeatedly spooked human colonists on an alien planet, though they have rarely seen destructive beams or actual spacecraft. Worried that that will soon change, the residents ask the PCs to investigate.
+**Use:** The sound of fighting spacecraft has repeatedly spooked human colonists on an alien planet, though they have rarely seen destructive beams or actual spacecraft. Worried that that will soon change, the residents ask the PCs to investigate.
 
-VACUUM FUNGUS 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Vacuum Fungus <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Vacuum fungus is sometimes found as a greenish ooze on the exterior of spacecraft or space stations, growing in fine lines through the ice of frozen moons, and infesting the center of small asteroids and near-Earth objects (NEOs). Though able to survive in vacuum, the fungus takes on new morphology when sufficient spores find their way into habitable zero-G spaces. Then they fuse together and grow into a bulbous, emerald-hued fruiting body, typically reaching about 1 m (3 feet) in rough diameter, though individuals can grow much larger if not discovered. Sticky and soft to the touch, they are able to grow undetected in the dark corners of cargo holds, in ductworks, hanging from the ceiling of unused crew quarters, and so on. 
 
 Vacuum fungus may be proof that extra-terrestrial life exists, but that triumph of scientific discovery may seem less important to those who find a clump, because they are incredibly toxic to living creatures. 
 
-Motive: Reproduction 
+**Motive:** Reproduction 
 
-Environment: Anywhere in zero G, as an unreactive ooze in vacuum, or as a fruiting body in atmosphere, alone or in a cluster of three to five 
+**Environment:** Anywhere in zero G, as an unreactive ooze in vacuum, or as a fruiting body in atmosphere, alone or in a cluster of three to five 
 
-Health: 22 
+**Health:** 22 
 
-Damage Inflicted: 6 points 
+**Damage Inflicted:** 6 points 
 
-Movement: Climbs (adheres) an immediate distance each round 
+**Movement:** Climbs (adheres) an immediate distance each round 
 
-Combat: A fruiting body can selectively detonate spore pods along its surface once per round. When a pod detonates, green fluid sprays everywhere within immediate range. Living creatures who fail a Speed defense roll take 6 points of damage from the clinging fluid. An affected target must also succeed on a Might defense roll. On a failure, an affected section of flesh rapidly swells, becoming a bilious green lump, and explodes one round later, having the same effect as a detonating pod. 
+**Combat:** A fruiting body can selectively detonate spore pods along its surface once per round. When a pod detonates, green fluid sprays everywhere within immediate range. Living creatures who fail a Speed defense roll take 6 points of damage from the clinging fluid. An affected target must also succeed on a Might defense roll. On a failure, an affected section of flesh rapidly swells, becoming a bilious green lump, and explodes one round later, having the same effect as a detonating pod. 
 
-Interaction: No real interaction with vacuum fungus is possible. 
+**Interaction:** No real interaction with vacuum fungus is possible. 
 
-Use: Scientists are incredibly excited to discover that the strange ooze they’ve noticed staining the exterior of their research domes is actually a variety of fungal life. They will likely become less excited when they discover the large growths secretly growing in the cavity beneath the floor of their research dome in a little-used storage closet.
+**Use:** Scientists are incredibly excited to discover that the strange ooze they’ve noticed staining the exterior of their research domes is actually a variety of fungal life. They will likely become less excited when they discover the large growths secretly growing in the cavity beneath the floor of their research dome in a little-used storage closet.
 
-WHARN INTERCEPTOR 8 (24)
-
+{{< hint danger >}} {{< columns2 >}} Wharn Interceptor <---> 8 (24) {{< /columns2 >}}{{< /hint >}}
 Wharn interceptors are void-adapted behemoths, several hundred meters in length. It’s hypothesized that they are living battle automatons devised by ancient ultras, though against what long-vanished enemy isn’t clear. Now, a handful (hopefully no more) glide through the depths of space like dormant seeds, seeming for all the galaxy like some strangely whorled asteroid or planetesimal. Who knows how many millennia they passed in this apparently hibernating state? But when that hibernation ends, maybe because some ancient countdown is nearing its end, or because an asteroid miner tried to extract a sample, they open eyes burning with deadly energy, and flex claws of particle-beam fury. 
 
 Wharn interceptors may be related in some fashion omworwars, so much so that humans sometimes call the latter “wharn cogitators.” However, it’s impossible that omworwars simply “appropriate” any wharn interceptors they encounter. 
 
-Motive: Defense 
+**Motive:** Defense 
 
-Environment: Anywhere floating through the void 
+**Environment:** Anywhere floating through the void 
 
-Health: 53 
+**Health:** 53 
 
-Damage Inflicted: 15 points 
+**Damage Inflicted:** 15 points 
 
-Armor: 5 
+**Armor:** 5 
 
-Movement: Flies a very long distance each round; can maneuver like an autonomous level 5 spacecraft if using extended vehicular combat rules. FTL capable. 
+**Movement:** Flies a very long distance each round; can maneuver like an autonomous level 5 spacecraft if using extended vehicular combat rules. FTL capable. 
 
 Modification: Speed defense as level 3 due to size. 
 
-Combat: Most of the time, wharns are inactive and might look like tumbling rocks. In this state, space voyagers may be able to partly wake one in an attempt to negotiate. However, if a wharn is damaged, or if the passive senses deep in its body wake it for reasons of its own, it becomes aggressive. 
+**Combat:** Most of the time, wharns are inactive and might look like tumbling rocks. In this state, space voyagers may be able to partly wake one in an attempt to negotiate. However, if a wharn is damaged, or if the passive senses deep in its body wake it for reasons of its own, it becomes aggressive. 
 
 A wharn’s main weapons are its claws, which can extend in an instant, becoming exotic-matter beams able to reach a target up to a light-second away. Unless a target is protected by some kind of force field, the 15 points of damage inflicted ignores Armor. A wharn’s eyes can pierce most forms of camouflage, cloaking effects, and cover that is less than about 200 m (650 feet) thick. 
 
-Interaction: In spite of their ferocious aspect and war-machine heritage, wharn interceptors do not destroy every spacecraft (and void-adapted creature) they come across, or even most. Indeed, sometimes a wharn may attempt to initiate communication via various machine channels. But what comes across are usually nonsense sounds and tones, and sometimes mathematical formulas. 
+**Interaction:** In spite of their ferocious aspect and war-machine heritage, wharn interceptors do not destroy every spacecraft (and void-adapted creature) they come across, or even most. Indeed, sometimes a wharn may attempt to initiate communication via various machine channels. But what comes across are usually nonsense sounds and tones, and sometimes mathematical formulas. 
 
-Use: The PCs, attempting to enter an abandoned space station or spacecraft, are distracted when a wharn attempts to destroy the very same object.
+**Use:** The PCs, attempting to enter an abandoned space station or spacecraft, are distracted when a wharn attempts to destroy the very same object.
 
-WRAITH 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Wraith <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Wraiths (Homo vacuus) are genetically engineered to live in the vacuum of space by directly metabolizing high-energy charged particles abundant in the void. Though derived from human stock, wraiths are alien in body, sometimes concealing themselves in layers of shroud-like tissue, other times revealing themselves as wispy, elongated things of glowing red plasma. In some settings, wraiths are partners with humans, working in locations where humans would find difficult. In other settings, wraiths went their own way generations earlier, and rediscovering them would be a first contact scenario. Alternatively, wraiths might be a threat to humans, hating humans for having created a species forced to spend its existence in the dark void of space.
 
-Motive: Varies with individual or setting 
+**Motive:** Varies with individual or setting 
 
-Environment: Anywhere in vacuum, though usually with access to some kind of enriched radiation source. Environments with 1 G or higher eventually kill wraiths. 
+**Environment:** Anywhere in vacuum, though usually with access to some kind of enriched radiation source. Environments with 1 G or higher eventually kill wraiths. 
 
-Health: 15 
+**Health:** 15 
 
-Damage Inflicted: 6 points 
+**Damage Inflicted:** 6 points 
 
-Movement: Short when flying in zero and low G 
+**Movement:** Short when flying in zero and low G 
 
-Modifications: Perception and stealth tasks as level 7 
+**Modifications:** Perception and stealth tasks as level 7 
 
-Combat: Wraiths can unfold from their concealing shrouds and attack with radioactive limbs for 6 points of Speed damage from ionizing radiation (ignores most Armor), or if available, technological weapons. Some can direct ionizing radiation as long-distance attacks, though doing so costs the wraith 1 point of health. Wraiths are immune to radiation, and attacks using radiation heal a wraith’s lost health by the amount of damage the attack would have otherwise afflicted. Gravity of 1 G or greater hinders all wraith actions. 
+**Combat:** Wraiths can unfold from their concealing shrouds and attack with radioactive limbs for 6 points of Speed damage from ionizing radiation (ignores most Armor), or if available, technological weapons. Some can direct ionizing radiation as long-distance attacks, though doing so costs the wraith 1 point of health. Wraiths are immune to radiation, and attacks using radiation heal a wraith’s lost health by the amount of damage the attack would have otherwise afflicted. Gravity of 1 G or greater hinders all wraith actions. 
 
-Interaction: Wraiths communicate by radio. They react to outsiders as dictated by their place in the setting. 
+**Interaction:** Wraiths communicate by radio. They react to outsiders as dictated by their place in the setting. 
 
-Use: A distant space station stops all communication. Investigators are dispatched to find out what happened. Once aboard, they unravel clues that suggest wraiths may have been responsible. 
+**Use:** A distant space station stops all communication. Investigators are dispatched to find out what happened. Once aboard, they unravel clues that suggest wraiths may have been responsible. 
 
-Loot: Some wraiths carry valuable items and equipment.
+**Loot:** Some wraiths carry valuable items and equipment.
 
-ZERO-POINT PHANTOM 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Zero-Point Phantom <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Temporary violations of conservation of energy mean that “virtual particles” constantly and seemingly randomly pop out of nothing, briefly interact with normal matter, then disappear. Zero-point phantoms are collections of such particles, taking the form of a very large, almost spider-like entity of many legs, stalks, and arms. What they’re doing when they’re not manifest is unknown; are they entombed in nearby solids, phased into another dimension, or do they simply not exist until they are called into being by some random cosmic event? Whatever the case, zero-point phantoms seem to prefer unlit or dimly lit areas in spacecraft and stations far from any planet, when they seem to struggle out of solid surfaces, raising a cloud of shadow. 
 
-Motive: Hungers for flesh 
+**Motive:** Hungers for flesh 
 
-Environment: Anywhere dark 
+**Environment:** Anywhere dark 
 
-Health: 15 
+**Health:** 15 
 
-Damage Inflicted: 4 points 
+**Damage Inflicted:** 4 points 
 
-Movement: Short; short when climbing 
+**Movement:** Short; short when climbing 
 
-Modifications: Speed defense as level 4 due to a cloud of shadows surrounding a zero-point phantom 
+**Modifications:** Speed defense as level 4 due to a cloud of shadows surrounding a zero-point phantom 
 
-Combat: A zero-point phantom attacks with needlelike leg and tentacle tips. A victim that takes damage must succeed on a Might defense task, or become poisoned, the effect of which is to drop them one step on the damage track. The victim must keep fighting off the poison until they succeed or drop three steps on the damage track; however, those who fall to the third step on the damage track from a phantom’s poison are not dead. They are paralyzed and can’t move for about a minute. If a phantom isn’t otherwise occupied, it can grab a paralyzed victim and phase back into non-existence. Most victims phased away in this fashion are never seen again. 
+**Combat:** A zero-point phantom attacks with needlelike leg and tentacle tips. A victim that takes damage must succeed on a Might defense task, or become poisoned, the effect of which is to drop them one step on the damage track. The victim must keep fighting off the poison until they succeed or drop three steps on the damage track; however, those who fall to the third step on the damage track from a phantom’s poison are not dead. They are paralyzed and can’t move for about a minute. If a phantom isn’t otherwise occupied, it can grab a paralyzed victim and phase back into non-existence. Most victims phased away in this fashion are never seen again. 
 
 Zero-point phantoms can stutter in and out of existence on their turn once every few minutes. When they do, they return with full health. 
 
-Interaction: Zero-point phantoms are about as intelligent as predators like wolves. 
+**Interaction:** Zero-point phantoms are about as intelligent as predators like wolves. 
 
-Use: The abandoned spacecraft is weirdly empty of any bodies whatsoever. It’s as if everyone just disappeared. There are signs of a struggle, though with what isn’t clear.
+**Use:** The abandoned spacecraft is weirdly empty of any bodies whatsoever. It’s as if everyone just disappeared. There are signs of a struggle, though with what isn’t clear.
 
 HORROR CREATURES AND NPCs
 
@@ -12507,55 +12319,53 @@ HORROR CREATURES AND NPCs BY LEVEL AND GENRE
 
 \* Creature found in the Cypher System Rulebook
 
-Blob 8 (24)
-
+{{< hint danger >}} {{< columns2 >}} Blob <---> 8 (24) {{< /columns2 >}}{{< /hint >}}
 The huge, undulating mass of this creature is composed of a mucus-like solid. The half-amorphous blob defeats its foes by absorbing prey, integrating a victim’s tissue into its own. In essence, the victim becomes the blob, and all of the victim’s knowledge is available to the blob for later use.
 
 If it later desires, a blob can release a nearly perfect replicant of any creature that it has absorbed. Replicants have the memories and personalities of the originals, but they do the blob’s bidding, which is usually to explore distant locations or lure prey into the open using a friendly face. A particularly well-crafted replicant might not know it’s not the original. Creating a replicant takes a blob a day or two of effort, during which time it’s unable to defend itself or eat, so it’s not a task the creature attempts lightly.
 
-Motive: Assimilation of all flesh
+**Motive:** Assimilation of all flesh
 
-Environment: Anywhere
+**Environment:** Anywhere
 
-Health: 66
+**Health:** 66
 
-Damage Inflicted: 8 points (acid gout)
+**Damage Inflicted:** 8 points (acid gout)
 
-Movement: Immediate; immediate when burrowing
+**Movement:** Immediate; immediate when burrowing
 
-Modifications: Speed defense as level 5 due to size
+**Modifications:** Speed defense as level 5 due to size
 
-Combat: The blob can project a gout of acid at short range against a single target. Though slow, a blob is always moving forward. A character (or two characters next to each other) within immediate range of a blob must succeed on a Might defense roll each round or be partly caught under the heaving mass of the advancing creature. A caught victim adheres to the blob’s surface and takes 10 points of damage each round. The victim must succeed on a Might defense roll to pull free. A victim who dies from this damage is consumed by the blob, and their body becomes part of the creature.
+**Combat:** The blob can project a gout of acid at short range against a single target. Though slow, a blob is always moving forward. A character (or two characters next to each other) within immediate range of a blob must succeed on a Might defense roll each round or be partly caught under the heaving mass of the advancing creature. A caught victim adheres to the blob’s surface and takes 10 points of damage each round. The victim must succeed on a Might defense roll to pull free. A victim who dies from this damage is consumed by the blob, and their body becomes part of the creature.
 
 If a blob has absorbed living flesh within the last hour, it regenerates 3 points of health per round while its health is above 0.
 
-Interaction: A blob’s favored method of communication is to absorb whoever tries to interact with it. If a replicant is handy, the blob might talk through it if the blob can touch the replicant and use it like a puppet.
+**Interaction:** A blob’s favored method of communication is to absorb whoever tries to interact with it. If a replicant is handy, the blob might talk through it if the blob can touch the replicant and use it like a puppet.
 
-Use: The old man the PCs accidentally hit with their vehicle has a weird, mucus-like growth on one hand (in addition to the damage he sustained in the accident). He probably should be taken to the hospital to have his injuries and the quivering growth looked at.
+**Use:** The old man the PCs accidentally hit with their vehicle has a weird, mucus-like growth on one hand (in addition to the damage he sustained in the accident). He probably should be taken to the hospital to have his injuries and the quivering growth looked at.
 
-Loot: A blob might have several cyphers swirling about in its mass that it uses to equip replicants.
+**Loot:** A blob might have several cyphers swirling about in its mass that it uses to equip replicants.
 
-GM intrusion: The character pulls free of a blob they were caught under, but a piece of quivering protoplasm remains stuck to their flesh. They must do serious damage to themselves (enough to incapacitate) within the hour, scraping off the protoplasm before it absorbs them and becomes a new mini-blob.
+**GM intrusion:** The character pulls free of a blob they were caught under, but a piece of quivering protoplasm remains stuck to their flesh. They must do serious damage to themselves (enough to incapacitate) within the hour, scraping off the protoplasm before it absorbs them and becomes a new mini-blob.
 
-Cryptic Moth 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Cryptic Moth <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Normal moths are enigmatic, gauzy haunts of twilight. The feathery touch of their wings on your face can startle, even frighten. This is to be expected, since moths are the children of cryptic moths, malign and intelligent entities of another realm. Sometimes referred to as mothmen, other times as shadow faeries, cryptic moths are certainly alien. Each possesses a unique wing pattern and coloration, and, to some extent, body shape. These patterns
 
 and colors may signify where in the hierarchy a particular cryptic moth stands among its siblings of the night, but for those who do not speak the language of moths, the complexity of their social structure is overwhelming.
 
-Motive: Capture humans, possibly for food, possibly for breeding purposes
+**Motive:** Capture humans, possibly for food, possibly for breeding purposes
 
-Environment: Almost anywhere, usually at night
+**Environment:** Almost anywhere, usually at night
 
-Health: 23
+**Health:** 23
 
-Damage Inflicted: 5 points
+**Damage Inflicted:** 5 points
 
-Movement: Short; long when flying
+**Movement:** Short; long when flying
 
-Modifications: All knowledge tasks as level 6; stealth tasks as level 7 while invisible 
+**Modifications:** All knowledge tasks as level 6; stealth tasks as level 7 while invisible 
 
-Combat: Cryptic moths usually enter combat only when they wish, because until they attack
+**Combat:** Cryptic moths usually enter combat only when they wish, because until they attack
 
 and become visible, they can remain unseen and invisible to most eyes. The touch of a cryptic moth’s wing draws life and energy from targets, inflicting 5 points of Speed damage (ignores Armor).
 
@@ -12567,45 +12377,44 @@ Once every hour or so, a cryptic moth can summon a swarm of normal moths to aid
 
 them in combat or, more often, serve as a fashion accessory or component in a piece of living art.
 
-Moth swarm: level 2
+**Moth swarm:** level 2
 
 If a cryptic moth is prepared, it may carry cyphers useful in combat, and perhaps even an artifact.
 
-Interaction: Although very few cryptic moths speak human languages, peaceful interaction
+**Interaction:** Although very few cryptic moths speak human languages, peaceful interaction
 
 with these creatures is not impossible. It’s just extremely difficult, as they see most
 
 humans as a source of food or bodies to lay their eggs in.
 
-Use: A character is followed by a cryptic moth intent on capturing and enslaving them. 
+**Use:** A character is followed by a cryptic moth intent on capturing and enslaving them. 
 
-Loot: A cryptic moth usually has a few cyphers, and possibly a delicate artifact.
+**Loot:** A cryptic moth usually has a few cyphers, and possibly a delicate artifact.
 
-GM intrusion: The cryptic moth grabs the character and flies up and away, taking the victim with them.
+**GM intrusion:** The cryptic moth grabs the character and flies up and away, taking the victim with them.
 
-Elder Thing 8 (24)
-
+{{< hint danger >}} {{< columns2 >}} Elder Thing <---> 8 (24) {{< /columns2 >}}{{< /hint >}}
 Elder things are mostly extinct, but a few remain trapped in the Antarctic ice or rule over crumbling cities in deep trenches at the bottom of the ocean.
 
 Beholding an elder thing bends the mind to the point of breaking. An elder thing has a great barrel-like body standing some 8 feet (2 m) tall. Knobby protrusions in the crown and base each unfold five appendages that recall the arms of a starfish. When agitated, an elder thing unfolds a pair of wings that help it flutter a limited distance.
 
 Meddling by elder things created multicellular life that spread across Earth billions of years ago and ultimately brought about humanity. As the younger species grew in numbers and influence, the elder things went into decline, a process hastened by wars against strange beings from other worlds and uprisings by the servitor race they created, the shoggoths.
 
-Motive: Reclaim absolute sovereignty
+**Motive:** Reclaim absolute sovereignty
 
-Environment: In arctic regions or deep underwater
+**Environment:** In arctic regions or deep underwater
 
-Health: 30
+**Health:** 30
 
-Damage Inflicted: 6 points
+**Damage Inflicted:** 6 points
 
-Movement: Immediate; long when flying
+**Movement:** Immediate; long when flying
 
-Modifications: All tasks related to knowledge of magic or science as level 10; Speed defense
+**Modifications:** All tasks related to knowledge of magic or science as level 10; Speed defense
 
 as level 6 due to form
 
-Combat: An elder thing can attack with five tentacles divided any way it chooses among up
+**Combat:** An elder thing can attack with five tentacles divided any way it chooses among up
 
 to three targets within immediate range. A target hit by a tentacle must also succeed on a Speed defense roll or become grabbed until it escapes. Each round, the elder thing automatically inflicts 6 points of damage on each grabbed target until the victim succeeds on a Might defense roll to escape. 
 
@@ -12615,37 +12424,36 @@ distance. During this time, the elder thing knows everything the target knows, h
 
 An elder thing also might carry a few cyphers and an artifact it can use in combat.
 
-Interaction: An elder thing communicates through whistles and pops created by moving air through tiny orifices arranged around its body. Elder things see humans as a lesser form of life and may demand worship, sacrifices, or something else from people it encounters.
+**Interaction:** An elder thing communicates through whistles and pops created by moving air through tiny orifices arranged around its body. Elder things see humans as a lesser form of life and may demand worship, sacrifices, or something else from people it encounters.
 
-Use: Fishermen return to a coastal village with a large block of ice in tow. In the ice is something dark and large—an elder thing frozen alive. If the thing thaws out, it will likely take over the community and enslave the people living there.
+**Use:** Fishermen return to a coastal village with a large block of ice in tow. In the ice is something dark and large—an elder thing frozen alive. If the thing thaws out, it will likely take over the community and enslave the people living there.
 
-Loot: An elder thing usually has one artifact and two or three cyphers.
+**Loot:** An elder thing usually has one artifact and two or three cyphers.
 
-GM intrusion: A character who sees an elder thing for the first time goes temporarily crazy on a failed Intellect defense roll. They might stand in place and gibber, run away, or laugh hysterically for a few rounds. If the character takes damage, they shake off the temporary madness. 
+**GM intrusion:** A character who sees an elder thing for the first time goes temporarily crazy on a failed Intellect defense roll. They might stand in place and gibber, run away, or laugh hysterically for a few rounds. If the character takes damage, they shake off the temporary madness. 
 
-Fundamental Angel 7 (21)
-
+{{< hint danger >}} {{< columns2 >}} Fundamental Angel <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 Fundamental angels are mysterious holy beings that maintain and guard fundamental concepts of the universe, such as time, gravity, and energy. They have powers and agendas deriving from higher states of reality. They are strange, terrifying, and inconstant in form, unlike the relatively benign and comprehensible winged humanoids from religion and myth.
 
 In the rare times when mortals interfere with these concepts, fundamental angels manifest in the world to set things right. They have intervened to destroy cataclysmic atomic weapons, power sources that skirt the rules of matter and energy, and life forms that betray the principles of creation.
 
 For the purpose of vampire aversions, the angel’s direct and area attacks count as religious power or sunlight, whichever is worse for the vampire.
 
-Motive: Preserving the natural order
+**Motive:** Preserving the natural order
 
-Environment: Anywhere, usually in response to mortal activity
+**Environment:** Anywhere, usually in response to mortal activity
 
-Health: 35
+**Health:** 35
 
-Damage Inflicted: 8 points
+**Damage Inflicted:** 8 points
 
-Armor: 2 (+3 against energy)
+**Armor:** 2 (+3 against energy)
 
-Movement: Short; short when flying
+**Movement:** Short; short when flying
 
-Modifications: All knowledge as level 9; attacks against mad science and supernatural targets as level 8
+**Modifications:** All knowledge as level 9; attacks against mad science and supernatural targets as level 8
 
-Combat: A fundamental angel attacks other creatures by creating a long-range blast of
+**Combat:** A fundamental angel attacks other creatures by creating a long-range blast of
 
 bright divine energy that inflicts 8 points of damage. In addition, it automatically inflicts 4 points of damage each round against all creatures within short range, although it can shield itself with wings or other protrusions to negate this effect against individuals.
 
@@ -12653,20 +12461,19 @@ Any creature within long range that sees it and fails an Intellect defense roll 
 
 As an action, it can teleport up to a hundred miles away or transport itself fully to its native dimension where it exists as pure thought and spirit.
 
-Interaction: A fundamental angel operates on a mental and metaphysical level far above humans and doesn’t bother to explain itself to anyone other than its targets. It goes out of its way to not harm innocent creatures. It can communicate with any creature that uses language.
+**Interaction:** A fundamental angel operates on a mental and metaphysical level far above humans and doesn’t bother to explain itself to anyone other than its targets. It goes out of its way to not harm innocent creatures. It can communicate with any creature that uses language.
 
-Use: “FEAR NOT!” says the radiant being that appears out of nowhere. It ignores bystanders and uses a beam of energy to destroy a scientist and his experimental reactor.
+**Use:** “FEAR NOT!” says the radiant being that appears out of nowhere. It ignores bystanders and uses a beam of energy to destroy a scientist and his experimental reactor.
 
-Loot: Fundamental angels sometimes create or refresh subtle cyphers by their mere presence.
+**Loot:** Fundamental angels sometimes create or refresh subtle cyphers by their mere presence.
 
-GM intrusions:
+**GM intrusions:**
 
 A fundamental angel’s successful attack also blinds its opponent, lasting until they make an Intellect defense roll (try once each round).
 
 A fundamental angel makes a second attack this round against a target that is adjacent to its primary target.
 
-Hivemind Child 2 (6)
-
+{{< hint danger >}} {{< columns2 >}} Hivemind Child <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 A hivemind family is a scouting expedition of part-alien creatures sent to study and infiltrate human society, either out of scientific curiosity or as a long-term plan for world domination or human extinction. Some entities might intercept human astronauts, reprogramming their DNA or attaching a parasite to their mind or soul. Others might send a machine to
 
 an isolated community, remotely impregnating some of the inhabitants to gestate and give birth at the same time. The end result is a group of hivemind children who have a psychic link, unusual powers, and loyalty to their inhuman creators.
@@ -12675,23 +12482,23 @@ Hivemind children often have a very similar appearance even if they have differe
 
 Depending on their origin, the weird children may be mentored or protected by an altered adult, or by human parents in denial about the monsters they care for.
 
-Motive: Conquest, exploration, infiltration
+**Motive:** Conquest, exploration, infiltration
 
-Environment: Human settlements
+**Environment:** Human settlements
 
-Health: 6
+**Health:** 6
 
-Damage Inflicted: 2 points
+**Damage Inflicted:** 2 points
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Mental attacks and Intellect defense as level 3; defend against attacks from
+**Modifications:** Mental attacks and Intellect defense as level 3; defend against attacks from
 
 living creatures as level 3 due to mind reading; perception and scientific knowledge as
 
 level 4
 
-Combat: Individually, hivemind children are physically no stronger or more durable than
+**Combat:** Individually, hivemind children are physically no stronger or more durable than
 
 a typical human. Their true strength is in their ability to read and control minds. Their telepathic link means that if one of them knows something, all of them within long range automatically know it.
 
@@ -12703,13 +12510,13 @@ an intelligent living creature within short range to take a physical action, inc
 
 Two hivemind children within short range of each other automatically augment each other’s mental powers, allowing them to read or control minds of two targets at once as a level 4 creature. Four within short range of each other can read or control minds of four targets at once as a level 5 creature, and eight or more can work together to read or control minds of eight people as a level 6 creature.
 
-Interaction: Hivemind children want to protect themselves and observe humans and will try to do so until they appear as old as adults. Their long-term goals are unclear but probably don’t have humanity’s best interests in mind.
+**Interaction:** Hivemind children want to protect themselves and observe humans and will try to do so until they appear as old as adults. Their long-term goals are unclear but probably don’t have humanity’s best interests in mind.
 
-Use: Children born after a scientific expedition are strange and different. Multiple small villages all over the world experience births of children with weird abilities.
+**Use:** Children born after a scientific expedition are strange and different. Multiple small villages all over the world experience births of children with weird abilities.
 
-Loot: Hivemind children may have no useful items or one weird science device they’ve built with their inhuman knowledge.
+**Loot:** Hivemind children may have no useful items or one weird science device they’ve built with their inhuman knowledge.
 
-GM intrusions: 
+**GM intrusions:** 
 
 A group of hivemind children briefly manifest a teleportation or telekinesis ability
 
@@ -12717,25 +12524,26 @@ at the same level as their mind control.
 
 The injury or death of one hivemind child angers the rest, increasing their level and damage by +2 for one round.
 
-Ighthsian 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Ighthsian <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Ichthysians are thought to be aquatic evolutionary offshoots of hominids or the result of experiments trying to fuse human and amphibian or fish DNA. They are physically similar to humans standing fully upright, with webbed hands, claws, froglike or fishlike features, gills, and strong muscles from a lifetime of swimming. They live in the water but are comfortable with extended forays onto land. Their intelligence is between that of a smart animal and a human; they can use simple tools such as rocks and sticks, and may build dams to modify waterways in their territory.
 
 Some ichthysians are reputed to have the ability to heal others, and local villages may worship these beings as gods.
 
-Motive: Hunger for flesh, curiosity, solitude 
+**Motive:** Hunger for flesh, curiosity, solitude 
 
-Environment: Anywhere near bodies of fresh water Health: 18
+**Environment:** Anywhere near bodies of fresh water
 
-Damage Inflicted: 6 points
+**Health:** 18
 
-Armor: 2
+**Damage Inflicted:** 6 points
 
-Movement: Short on land; long in the water
+**Armor:** 2
 
-Modifications: Strength-based tasks and swimming as level 6; defense against poison as level 3
+**Movement:** Short on land; long in the water
 
-Combat: Ichthysians attack with their
+**Modifications:** Strength-based tasks and swimming as level 6; defense against poison as level 3
+
+**Combat:** Ichthysians attack with their
 
 powerful claws. They are less mobile on land and prefer to attack from the water. If overmatched, they would rather flee to deep, dark water than fight to the death.
 
@@ -12743,11 +12551,11 @@ An ichthysian regenerates 2 points of health each round as long as it starts the
 
 Ichthysians are prone to mutation, especially in response to pollutants and other chemicals. These mutations might be physical deformities, but could be as strange as transparent flesh, poisonous skin, extra eyes with enhanced senses, or extra limbs.
 
-Interaction: Ichthysians are not aggressive but will retaliate with full force against anything that attacks them, and one can remember specific enemy humans from its past.
+**Interaction:** Ichthysians are not aggressive but will retaliate with full force against anything that attacks them, and one can remember specific enemy humans from its past.
 
-Use: A cryptid fish-person has been spotted in the vicinity of a deforested area adjacent to a mighty river. Villagers tell stories of an ancient water god that heals sickness and grants wishes.
+**Use:** A cryptid fish-person has been spotted in the vicinity of a deforested area adjacent to a mighty river. Villagers tell stories of an ancient water god that heals sickness and grants wishes.
 
-Loot: An ichthysian’s lair might have a strange relic or device that works like a cypher or artifact.
+**Loot:** An ichthysian’s lair might have a strange relic or device that works like a cypher or artifact.
 
 GM Intrusions:
 
@@ -12755,23 +12563,24 @@ A slain ichthysian suddenly regenerates 5 health and immediately attacks or trie
 
 The ichthysian suddenly mutates in response to an attack, thereafter gaining +2 Armor or +2 levels in defense against that type of attack.
 
-Mummy 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Mummy <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Mummies are intelligent undead, usually royalty or members of the priesthood, risen from their burial places to destroy those who disturbed their rest. Many seek to undo wrongs against them from ages past or re-establish themselves in their former high stations. 
 
-Motive: Vengeance, love, power
+**Motive:** Vengeance, love, power
 
-Environment: Regions where mummification was common Health: 24
+**Environment:** Regions where mummification was common
 
-Damage Inflicted: 7 points
+**Health:** 24
 
-Armor: 2
+**Damage Inflicted:** 7 points
 
-Movement: Short
+**Armor:** 2
 
-Modifications: Climb, stealth, ancient history, and ancient religion as level 8 
+**Movement:** Short
 
-Combat: Mummies are strong, capable of lifting an adult human with one hand and throwing the person across a room. They attack with weapons that were buried with them or use their fists. A mummy usually has one or more of the following abilities: 
+**Modifications:** Climb, stealth, ancient history, and ancient religion as level 8 
+
+**Combat:** Mummies are strong, capable of lifting an adult human with one hand and throwing the person across a room. They attack with weapons that were buried with them or use their fists. A mummy usually has one or more of the following abilities: 
 
 Curse: Anyone who disturbs a mummy’s tomb must make an Intellect defense roll or become cursed, which hinders their
 
@@ -12785,17 +12594,17 @@ Magic: Once per hour, the mummy can cast a spell from the Minor Wish character a
 
 Minion: Animate up to four mummified bodies as mindless lesser mummies or skeletons (depending on how well the bodies are preserved), lasting for one day. 
 
-Lesser mummy: level 3, climb and stealth as level 4; health 12; Armor 1
+**Lesser mummy:** level 3, climb and stealth as level 4; health 12; Armor 1
 
 Swarm: Call a swarm of bugs (usually scarab beetles or scorpions) to attack a foe or obscure vision.
 
-Swarm of bugs: level 3
+**Swarm of bugs:** level 3
 
-Interaction: Mummies want to destroy anyone who disturbs their burial places. Ambitious mummies might choose living beings to be their spies and servants, bribing them with funereal treasures or threatening them into submission.
+**Interaction:** Mummies want to destroy anyone who disturbs their burial places. Ambitious mummies might choose living beings to be their spies and servants, bribing them with funereal treasures or threatening them into submission.
 
-Use: Villagers whisper that a tomb has been opened and a mummy’s curse will strike down anyone who gets in the creature’s way.
+**Use:** Villagers whisper that a tomb has been opened and a mummy’s curse will strike down anyone who gets in the creature’s way.
 
-Loot: Mummies usually have treasures equivalent to three or four expensive items and perhaps a handful of magical manifest cyphers or even a magical artifact.
+**Loot:** Mummies usually have treasures equivalent to three or four expensive items and perhaps a handful of magical manifest cyphers or even a magical artifact.
 
 GM Intrusions:
 
@@ -12803,55 +12612,55 @@ A dying mummy speaks a curse upon those who killed it, hindering all their actio
 
 What was overlooked as a fake or a prop turns out to be an actual mummy and attacks a character.
 
-Nightguant 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Nightguant <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 A nightgaunt’s hands and feet have no opposable digits. All its fingers and toes can grasp with firm but unpleasant boneless strength. Hungry nightgaunts swoop out of the night, grab prey, and fly off into darkness. The creatures sometimes “work” for other agencies, though often enough, their goals are obscure.
 
-Motive: Unknowable
+**Motive:** Unknowable
 
-Environment: Anywhere dark, usually in groups of four to seven
+**Environment:** Anywhere dark, usually in groups of four to seven
 
-Health: 9
+**Health:** 9
 
-Damage Inflicted: 4 points
+**Damage Inflicted:** 4 points
 
-Armor: 1
+**Armor:** 1
 
-Movement: Immediate; long when flying (short when flying with a victim) Modifications: Perception and Speed defense as level 4; stealth
+**Movement:** Immediate; long when flying (short when flying with a victim) Modifications: Perception and Speed defense as level 4; stealth
 
 as level 7
 
-Combat: A nightgaunt can attack with its barbed tail. To catch a foe, a nightgaunt dives through the air from just outside of short range. When it does, it moves 100 feet (30 m) in a round and attempts to grab a victim near the midpoint of its movement. A target who
+**Combat:** A nightgaunt can attack with its barbed tail. To catch a foe, a nightgaunt dives through the air from just outside of short range. When it does, it moves 100 feet (30 m) in a round and attempts to grab a victim near the midpoint of its movement. A target who
 
 fails a Speed defense roll (and who isn’t more than twice the size of the nightgaunt) is jerked into the creature’s boneless clutches and carried upward, finding themselves dangling from a height of 50 feet (15 m).
 
 The nightgaunt automatically tickles grabbed victims with its barbed tail. This subtle form of torture hinders all the victim’s actions by two steps.
 
-Interaction: Nightgaunts never speak, and they ignore anyone who attempts to interact with
+**Interaction:** Nightgaunts never speak, and they ignore anyone who attempts to interact with
 
 them, whether the communication takes the form of commanding, beseeching, or frantically pleading. Such is the way of nightgaunts.
 
-Use: Someone who bears one or more of the PCs a grudge discovers a tome of spells and summons a flight of nightgaunts, which set off in search of their prey.
+**Use:** Someone who bears one or more of the PCs a grudge discovers a tome of spells and summons a flight of nightgaunts, which set off in search of their prey.
 
-Loot: One in three nightgaunts has a valuable souvenir from a past victim, which might be an expensive watch, a ring, an amulet, or sometimes a cypher.
+**Loot:** One in three nightgaunts has a valuable souvenir from a past victim, which might be an expensive watch, a ring, an amulet, or sometimes a cypher.
 
-GM intrusion: The character is startled by the nightgaunt and suffers the risk of temporary dementia. On a failed Intellect defense roll, the character shrieks and faints (or, at the GM’s option, babbles, drools, laughs, and so on). The character can attempt a new Intellect defense roll each round to return to normal.
+**GM intrusion:** The character is startled by the nightgaunt and suffers the risk of temporary dementia. On a failed Intellect defense roll, the character shrieks and faints (or, at the GM’s option, babbles, drools, laughs, and so on). The character can attempt a new Intellect defense roll each round to return to normal.
 
-Reanimated 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Reanimated <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 A reanimated is a humanoid creature patched together from corpses (or crafted directly from muscle, nerves, and sinew), then returned to life through a hard-to-duplicate series of electromagnetic induction events. Though made of flesh, a reanimated’s return to consciousness and mobility is marked by a substantial increase in hardiness, resistance to injury, and longevity. On the other hand, the process usually obliterates whatever mind was once encoded in the donor’s brain, giving rise to a creature of monstrous rage and childlike credulity. Sometimes the reanimated is bound to its creator in service, but such ties are fragile and could be snapped by an ill-timed fit of fury.
 
-Motive: Defense, unpredictable
+**Motive:** Defense, unpredictable
 
-Environment: Anywhere in service to a mad scientist, or driven to the edges of civilization Health: 70
+**Environment:** Anywhere in service to a mad scientist, or driven to the edges of civilization
 
-Damage Inflicted: 7 points
+**Health:** 70
 
-Movement: Short; long when jumping
+**Damage Inflicted:** 7 points
 
-Modifications: Speed defense as level 4; interaction as level 2; feats of strength and toughness as level 8
+**Movement:** Short; long when jumping
 
-Combat: A reanimated attacks foes with its hands. Any time a foe inflicts 7 or more points of damage on the reanimated with a single melee attack, the creature immediately lashes out in reactive rage and makes an additional attack in the same round on the foe who injured it.
+**Modifications:** Speed defense as level 4; interaction as level 2; feats of strength and toughness as level 8
+
+**Combat:** A reanimated attacks foes with its hands. Any time a foe inflicts 7 or more points of damage on the reanimated with a single melee attack, the creature immediately lashes out in reactive rage and makes an additional attack in the same round on the foe who injured it.
 
 If the reanimated begins combat within long range of foes but outside of short range, it can bridge the distance with an amazing leap that concludes with an attack as a single action. The attack inflicts 4 points of damage on all targets within immediate range of the spot where the reanimated lands.
 
@@ -12859,65 +12668,63 @@ Some reanimated are psychologically vulnerable to fire, and they fear it. When t
 
 If struck by electricity, a reanimated regains a number of points of health equal to the damage the electricity would normally inflict.
 
-Interaction: Fear and food motivate a reanimated, though sometimes beautiful music or innocence can stay its fists.
+**Interaction:** Fear and food motivate a reanimated, though sometimes beautiful music or innocence can stay its fists.
 
-Use: Depending on where a reanimated falls along its moral and psychological development, it could be a primary foe for the PCs, a secondary guardian to deal with, or a forlorn beast in need of aid.
+**Use:** Depending on where a reanimated falls along its moral and psychological development, it could be a primary foe for the PCs, a secondary guardian to deal with, or a forlorn beast in need of aid.
 
 GM Intrusion:
 
 The character’s attack bounces harmlessly off the stitched, hardened flesh of the reanimated. 
 
-Shoggoth 7 (21)
-
+{{< hint danger >}} {{< columns2 >}} Shoggoth <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 Shoggoths vary in size, but the smallest are usually at least 10 feet (3 m) across. They are the product of incredibly advanced bioengineering by some strange species in the distant past. They are angry, vicious predators feared by any who have ever heard of these rare creatures (or who have encountered them and somehow survived to tell the tale). They were created by the elder things but overthrew their masters and now roam the vast, ancient cities they have claimed for themselves.
 
 Rumors abound of a few very rare, particularly intelligent shoggoths that intentionally reduce their own mass and learn to take on the forms of humans so they can integrate themselves into society (and prey upon humans at their leisure).
 
-Motive: Hungers for flesh 
+**Motive:** Hungers for flesh 
 
-Environment: Anywhere
+**Environment:** Anywhere
 
-Health: 35
+**Health:** 35
 
-Damage Inflicted: 10 points
+**Damage Inflicted:** 10 points
 
-Armor: 10 against fire, cold, and electricity 
+**Armor:** 10 against fire, cold, and electricity 
 
-Movement: Long
+**Movement:** Long
 
-Modifications: Speed defense as level 6 due to size 
+**Modifications:** Speed defense as level 6 due to size 
 
-Combat: Shoggoths sprout tendrils and mouths and spread their wide, amorphous forms, allowing them to attack all foes within immediate range. Those struck by a shoggoth’s attack are grabbed and engulfed by the thing’s gelatinous body and suffer damage each
+**Combat:** Shoggoths sprout tendrils and mouths and spread their wide, amorphous forms, allowing them to attack all foes within immediate range. Those struck by a shoggoth’s attack are grabbed and engulfed by the thing’s gelatinous body and suffer damage each
 
 round until they manage to pull themselves free (engulfed creatures can take no other physical actions while they are caught). Each round of entrapment, one object in the victim’s possession is destroyed by the foul juices of the amorphous horror.
 
 Shoggoths regenerate 5 points of health each round. They have protection against fire, cold, and electricity.
 
-Interaction: A shoggoth can’t be reasoned with. 
+**Interaction:** A shoggoth can’t be reasoned with. 
 
-Use: The PCs find an ancient structure of metal and stone. Wandering through it, they note
+**Use:** The PCs find an ancient structure of metal and stone. Wandering through it, they note
 
 that every surface is clear of dirt and debris. Soon they discover why—a shoggoth squirms through the halls, absorbing everything it comes upon (and it fills the passages it moves down, floor to ceiling, wall to wall).
 
-Loot: A shoggoth’s interior might contain a cypher.
+**Loot:** A shoggoth’s interior might contain a cypher.
 
-GM intrusion: The character is engulfed in the shoggoth, their gear scattered throughout the thing’s undulating form, and their body turned upside down so that escape attempts are hindered.
+**GM intrusion:** The character is engulfed in the shoggoth, their gear scattered throughout the thing’s undulating form, and their body turned upside down so that escape attempts are hindered.
 
-Yithian 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Yithian <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 The yithians (also known as the Great Race of Yith) were immense wrinkly cones 10 feet (3 m) high, with a head, four limbs, and other organs spreading from the top of their body. They communicated by making noises with their hands and claws, and they moved by gliding their lower surface across a layer of slime, like a slug. Their civilization was destroyed a billion years before the present day, but they transported their minds into new bodies far in the future and may still be encountered observing the past (our present) by telepathically inhabiting human bodies.
 
-Motive: Knowledge Environment: Anywhere Health: 22
+**Motive:** Knowledge Environment: Anywhere Health: 22
 
-Damage Inflicted: 6 points Armor: 2
+**Damage Inflicted:** 6 points Armor: 2
 
-Movement: Short
+**Movement:** Short
 
-Modifications: All knowledge as level 8; Intellect defense as level 7; Speed defense as level 5
+**Modifications:** All knowledge as level 8; Intellect defense as level 7; Speed defense as level 5
 
 due to size and speed
 
-Combat: Although large and hardy, members of the Great Race are ill-suited to physical
+**Combat:** Although large and hardy, members of the Great Race are ill-suited to physical
 
 combat. If they must engage in melee, they use pincer-like claws. They almost always wield artifacts and cyphers, however, which makes them dangerous opponents. Assume that a yithian has one or more of the following abilities arising from advanced technology devices:
 
@@ -12937,13 +12744,13 @@ For the most part, it is trapped in the yithian’s body and is merely along for
 
 It’s worth noting that the bodies the yithians use are not their original bodies, but instead the bodies of supremely ancient creatures that they inhabit. The Great Race hails originally from some extraterrestrial world.
 
-Interaction: Yithians are not malicious, but they are quite focused and relatively uncaring about other races, such as humans.
+**Interaction:** Yithians are not malicious, but they are quite focused and relatively uncaring about other races, such as humans.
 
-Use: A yithian projects its mind across the aeons, swapping consciousnesses with the character. While controlling the character’s body, the yithian is there mainly to learn and observe, and rarely takes any violent actions.
+**Use:** A yithian projects its mind across the aeons, swapping consciousnesses with the character. While controlling the character’s body, the yithian is there mainly to learn and observe, and rarely takes any violent actions.
 
-Loot: A yithian encountered in the flesh will have 1d6 manifest cyphers and very likely a technological artifact.
+**Loot:** A yithian encountered in the flesh will have 1d6 manifest cyphers and very likely a technological artifact.
 
-GM intrusion: 
+**GM intrusion:** 
 
 The yithian produces a cypher that has a function that is perfect for its current situation: a teleporter to get away, a protective field against precisely the kind of attack being used against it, or a weapon that exploits a weakness of the character’s.
 
@@ -13188,11 +12995,11 @@ World and Weather Beings
 
 ## MAGICAL ANIMALS
 
-Bear: level 5; health 20; Armor 1; two magical abilities
+**Bear:** level 5; health 20; Armor 1; two magical abilities
 
-Cat: level 2; two magical abilities
+**Cat:** level 2; two magical abilities
 
-Fish: level 2; one magical ability
+**Fish:** level 2; one magical ability
 
 Fox/Rabbit/Monkey: level 3, cunning and trickery as level 5; two magical abilities
 
@@ -13204,7 +13011,7 @@ Raven/Owl: level 3, intelligence and cunning as level 4; one magical ability
 
 Snake/Serpent: level 3; bite inflicts 4 points of Intellect damage (ignores Armor); one magical ability
 
-Songbird: level 1; offer sage advice to those they choose; one magical ability
+**Songbird:** level 1; offer sage advice to those they choose; one magical ability
 
 Stag/Hart: level 4; Armor 1; horns inflict 3 points of damage; two magical abilities
 
@@ -13244,7 +13051,7 @@ Some abilities in the game work only on objects, or only on creatures, or only o
 
 The creatures in this section all appear to be animal in their nature, from black dogs and big bad wolves to horses and snarks.
 
-Bagheera: This cunning, bold, and brilliant black panther can be someone’s worst enemy or their most loyal friend, protector, and mentor.
+**Bagheera:** This cunning, bold, and brilliant black panther can be someone’s worst enemy or their most loyal friend, protector, and mentor.
 
 Level 7; stalking, hunting, sneaking,
 
@@ -13254,18 +13061,17 @@ Beast (with a capital B): Sometimes a human cursed, sometimes an animal blessed,
 
 Level 6, intimidation and protection as level 7; Armor 2; inflicts 4 points of damage with an item related to their beloved (gardening shears, for example).
 
-Cheshire Cat: Interacting with this riddling, punning, disappearing striped cat is enough to make anyone feel discombobulated. Can make a great ally if you’re seeking answers, have lost your way, or need advice.
+**Cheshire Cat:** Interacting with this riddling, punning, disappearing striped cat is enough to make anyone feel discombobulated. Can make a great ally if you’re seeking answers, have lost your way, or need advice.
 
 Level 6, punning and wordplay as level 7, Speed defense as level 8 due to intangibility; will disappear rather than fight.
 
-Puss in Boots: Smart and smart-alecky, Puss in Boots always has a plan in motion, and at least two others that are about to begin.
+**Puss in Boots:** Smart and smart-alecky, Puss in Boots always has a plan in motion, and at least two others that are about to begin.
 
 Level 5; planning, scheming, persuasion, and deception as
 
 level 7; Armor 2; inflicts 4 points of damage with elaborate swordplay.
 
-Black Dog 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Black Dog <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Black dogs go by many names: hellhounds, bearers of death, black hounds of destiny, and devil dogs, just to name a few. Typically they are spectral or demonic entities that show up at night. They are often sinister, malevolent, or purposefully harmful (such as the Barghest and Black Shuck). Occasionally, black dogs are helpful and benevolent, guarding people from danger, helping them find the correct path, or signifying the death of someone nearby.
 
 Black dogs are usually large, shaggy, and as black as night, with long ears and tails. However, despite their name, they can be any color. The real distinction is that they are definitely not regular, living dogs. Some have eyes like fire, some howl with a ghostly, ethereal song, and still others have telltale witches’ marks upon their chest or back.
@@ -13274,59 +13080,62 @@ Black dogs can see ghosts, witches, and other magical entities not typically vis
 
 Black dogs sometimes serve as familiars for witches and sorcerers.
 
-Motive: Bring harm and pain; help and guard
+**Motive:** Bring harm and pain; help and guard
 
-Environment: Crossroads, places of execution, and ancient paths Health: 20
+**Environment:** Crossroads, places of execution, and ancient paths
 
-Damage Inflicted: 8 points
+**Health:** 20
 
-Armor: 2
+**Damage Inflicted:** 8 points
 
-Movement: Long; very long when running
+**Armor:** 2
 
-Modifications: Sneaking, hiding, and attacking from surprise or advantage as level 7 Combat: Malevolent black dogs will attack from a position of surprise or advantage,
+**Movement:** Long; very long when running
+
+**Modifications:** Sneaking, hiding, and attacking from surprise or advantage as level 7
+
+**Combat:** Malevolent black dogs will attack from a position of surprise or advantage,
 
 inflicting 8 points of damage with their spectral teeth and claws. Some black dogs cause such a deep feeling of despair and sadness, just by being nearby, that they inflict 2 points of Intellect damage each round on everyone who can see them or otherwise sense their presence.
 
-Interaction: Running, at least from the malevolent ones, is typically the best course
+**Interaction:** Running, at least from the malevolent ones, is typically the best course
 
 of action. Dealing with helpful black dogs is often an interesting and unexpected
 
 experience, as they don’t talk and don’t explain who they choose to help or why. 
 
-Use: The characters are fighting an extremely tough foe when a black dog steps in to
+**Use:** The characters are fighting an extremely tough foe when a black dog steps in to
 
 help them out (or to help their foe). The characters are lost in the woods, and a large,
 
 menacing black dog steps out of the forest and leads them back to safety.
 
-Loot: Black dogs rarely have anything valuable on them. However, killing a black dog causes
+**Loot:** Black dogs rarely have anything valuable on them. However, killing a black dog causes
 
 it to haunt whoever dealt it the fatal blow. That person feels such deep anxiety and despair that all their actions are hindered for at least one day, and often longer.
 
-GM intrusions: The black dog howls, creating such a mournful sound that everyone in very long distance who can hear it takes 4 points of Intellect damage. A character who sees the black dog is deeply affected by sadness and moves one step down the damage track.
+**GM intrusions:** The black dog howls, creating such a mournful sound that everyone in very long distance who can hear it takes 4 points of Intellect damage. A character who sees the black dog is deeply affected by sadness and moves one step down the damage track.
 
-Cat Sidhe 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Cat Sidhe <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Cat sidhes, sometimes called phantom cats, are dog-sized felines that were once witches and now have shifted permanently into cat form. They’re all black except for a single white symbol on their chest, which is their name.
 
 When cat sidhes form (because a witch has turned themselves into a cat for the ninth time), they gain nine tails. Each time a cat sidhe would be killed, they can choose to lose one of their tails instead. Once a cat sidhe has no more tails remaining, their death is final. 
 
 While cat sidhes inflict damage with their soul-stealing attacks, the roleplaying element of a character losing part of their soul is possibly more important than the game effect. Consider removing something from the character that will affect them in interesting and unusual ways.
 
-Motive: Steal souls, gain power
+**Motive:** Steal souls, gain power
 
-Environment: Highlands, mountains, and forests
+**Environment:** Highlands, mountains, and forests
 
-Health: 15
+**Health:** 15
 
-Damage Inflicted: 6 points
+**Damage Inflicted:** 6 points
 
-Movement: Long
+**Movement:** Long
 
-Modifications: Speed defense as level 6 due to quickness and agility
+**Modifications:** Speed defense as level 6 due to quickness and agility
 
-Combat: Cat sidhes can attack with their claws for 6 points of damage, but they much
+**Combat:** Cat sidhes can attack with their claws for 6 points of damage, but they much
 
 prefer to engage from a long distance, using their unique ability to cast curses that steal part or all of a victim’s soul. They may attack a foe using the following types of soul-stealing curses. Characters who succeed on an Intellect defense roll resist the effect, but take 1 point of Intellect damage due to the effort. If someone can read the symbol on the cat’s chest and pronounce it, they gain +1 Armor against the cat’s attacks.
 
@@ -13336,35 +13145,34 @@ Fester. Replaces a piece of the character’s soul with an idea, false memory, o
 
 Forget. Removes something from the creature’s memory, such as all nouns (including their own name), a loved one’s face, their current purpose, an ability, or a skill. This inflicts 3 points of Intellect damage and causes the character to forget the specific thing.
 
-Interaction: Having once been witches, cat sidhes are smart, cunning, and dangerous. Most have no interest in conversations or bargains, unless they are injured in some way. They
+**Interaction:** Having once been witches, cat sidhes are smart, cunning, and dangerous. Most have no interest in conversations or bargains, unless they are injured in some way. They
 
 can, however, sometimes be distracted from their purpose of stealing souls by riddles, music, and children’s games.
 
-Use: A cat sidhe stalks a forest where the characters are passing through on their way elsewhere. Someone sends the characters to capture a “lost” cat, which turns out to be a cat sidhe.
+**Use:** A cat sidhe stalks a forest where the characters are passing through on their way elsewhere. Someone sends the characters to capture a “lost” cat, which turns out to be a cat sidhe.
 
-Loot: When a cat sidhe dies, it disappears, leaving behind only the once-white symbol on its chest in the form of a medallion.
+**Loot:** When a cat sidhe dies, it disappears, leaving behind only the once-white symbol on its chest in the form of a medallion.
 
-GM intrusion: The cat sidhe yowls, causing a second cat sidhe to appear from hiding
+**GM intrusion:** The cat sidhe yowls, causing a second cat sidhe to appear from hiding
 
-Satyr 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Satyr <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 These muscular humanoids sport long curved horns and furry, hooved legs. They are self-centered, greedy, and sybaritic creatures, dedicated to food, drink, and other pleasures. They rob and steal from others as it pleases them, often relying on tricks and lies, or on alluring music they play on pipes.
 
-Motive: Play tricks, gather treasure, fulfill desires
+**Motive:** Play tricks, gather treasure, fulfill desires
 
-Environment: In woodlands where other faerie or mythological creatures are found
+**Environment:** In woodlands where other faerie or mythological creatures are found
 
-Health: 18
+**Health:** 18
 
-Damage Inflicted: 6 points
+**Damage Inflicted:** 6 points
 
-Armor: 1
+**Armor:** 1
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Tasks related to persuasion and deception as level 7; resists mental attacks as level 7
+**Modifications:** Tasks related to persuasion and deception as level 7; resists mental attacks as level 7
 
-Combat: Satyrs usually carry spears that they can use in melee and against foes within short range.
+**Combat:** Satyrs usually carry spears that they can use in melee and against foes within short range.
 
 Satyrs can also create magical effects by playing their pipes as an action, which can either bolster allies or harm enemies. 
 
@@ -13374,59 +13182,59 @@ Feral Overture: An ally within short range is infused with magic. One attack it 
 
 Tune of the Clouded Mind: A foe within short range who fails an Intellect defense task spends its next turn attacking one of its allies.
 
-Interaction: A satyr is always willing to start negotiations, but is prone to lying and exaggeration. Offering excessive libation, food, and other treasures is the only way to ensure a satyr remains honest, if only for a short period.
+**Interaction:** A satyr is always willing to start negotiations, but is prone to lying and exaggeration. Offering excessive libation, food, and other treasures is the only way to ensure a satyr remains honest, if only for a short period.
 
-Use: Strange piping music in the forest lures away young men and women from a nearby community. The elders say a charismatic cult leader has set up in the woods, and clouds the minds of all who come near.
+**Use:** Strange piping music in the forest lures away young men and women from a nearby community. The elders say a charismatic cult leader has set up in the woods, and clouds the minds of all who come near.
 
-Loot: A satyr is likely to carry
+**Loot:** A satyr is likely to carry
 
-GM intrusion: If the character fails an Intellect defense task, they think of the satyr as a good friend for up to one minute or until they can escape the mental effect.
+**GM intrusion:** If the character fails an Intellect defense task, they think of the satyr as a good friend for up to one minute or until they can escape the mental effect.
 
-Snark 7 (21)
-
+{{< hint danger >}} {{< columns2 >}} Snark <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 The snark is unimaginable. It is a Boojum, you see. An agony in eight fits. Part snail and shark and bark and snake and snarl. It has feathers that bite, claws that catch, and jaws that snatch. It softly and suddenly vanishes away, never to be met with again. It smells of the will-o-wisp, sleeps late in the day, and breathes fire when it finds something funny (which is nearly never).
 
-Motive: Unfathomable
+**Motive:** Unfathomable
 
-Environment: Upon islands filled with chasms and crags, near bathing machines, and around those whose coats are too tight in the waist Health: 21
+**Environment:** Upon islands filled with chasms and crags, near bathing machines, and around those whose coats are too tight in the waist
 
-Damage Inflicted: 5 points
+**Health:** 21
 
-Armor: 2
+**Damage Inflicted:** 5 points
 
-Movement: Short when moving perpendicular; long when moving sideways 
+**Armor:** 2
 
-Modifications: Invisibility, shapeshifting, confusion, and mimsy as level 8
+**Movement:** Short when moving perpendicular; long when moving sideways 
 
-Combat: Inflicts 5 points of damage with biting feathers, catching claws, and snatching jaws. Also blows out a stream of fire that can light a match or inflict 3 points of damage to everyone in close range.
+**Modifications:** Invisibility, shapeshifting, confusion, and mimsy as level 8
 
-Interaction: Not recommended.
+**Combat:** Inflicts 5 points of damage with biting feathers, catching claws, and snatching jaws. Also blows out a stream of fire that can light a match or inflict 3 points of damage to everyone in close range.
 
-Use: The characters are given the impossible task of hunting a snark. Whether or not they actually find one, they have grand adventures along the way.
+**Interaction:** Not recommended.
 
-Loot: The frabjous joy of catching the impossible, improbable, unimaginable snark.
+**Use:** The characters are given the impossible task of hunting a snark. Whether or not they actually find one, they have grand adventures along the way.
 
-GM intrusion: Everything about the snark is a GM intrusion.
+**Loot:** The frabjous joy of catching the impossible, improbable, unimaginable snark.
 
-Wolf, Big Bad 8 (24)
+**GM intrusion:** Everything about the snark is a GM intrusion.
 
+{{< hint danger >}} {{< columns2 >}} Wolf, Big Bad <---> 8 (24) {{< /columns2 >}}{{< /hint >}}
 The Big Bad Wolf (just call him the Wolf, for he is truly the only one worthy of that title) is a beast of near immortality, kept alive by the legends that swirl around him, the constant stream of terrorizing tales. Once the stalker of the woods, now he stalks the streets and towns, no longer staying to the shadows, no longer merely hunting girls and grandmothers. As his reputation has grown, so has his appetite. He hungers. He swallows worlds. He will not be contained. 
 
-Motive: Hunger
+**Motive:** Hunger
 
-Environment: Woods, cities, behind you
+**Environment:** Woods, cities, behind you
 
-Health: 30
+**Health:** 30
 
-Damage Inflicted: 8 points
+**Damage Inflicted:** 8 points
 
-Armor: 1
+**Armor:** 1
 
-Movement: Long
+**Movement:** Long
 
-Modifications: Hunting, seeking, and sneaking as level 9
+**Modifications:** Hunting, seeking, and sneaking as level 9
 
-Combat: The Wolf ’s bite does 8 points of damage. Additionally, he has a variety of abilities that he may use.
+**Combat:** The Wolf ’s bite does 8 points of damage. Additionally, he has a variety of abilities that he may use.
 
 What Big Ears You Have: Can track and hear his prey up to a mile away. Tracking ignores all cloaking abilities, including magical ones.
 
@@ -13436,11 +13244,11 @@ What Big Teeth You Have: Swallows his victim whole, holding them in his belly. I
 
 Huff and Puff: Exhale creates a wind so strong it can knock over foes, trees, and even houses. Inflicts 6 points of damage to everything within long distance, and knocks most things prone. Once the Wolf uses this ability, he can’t use it again for three rounds.
 
-Interaction: Despite his constant hunger and his gnawing need to swallow the world, the Wolf makes an interesting ally (provided that he’s well fed at the time) for he is smart and cunning, and has myriad tricks for moving through the world.
+**Interaction:** Despite his constant hunger and his gnawing need to swallow the world, the Wolf makes an interesting ally (provided that he’s well fed at the time) for he is smart and cunning, and has myriad tricks for moving through the world.
 
-Use: The Big Bad Wolf is a great character to introduce into a modern fairy tale game. Imagine his new iteration as an urban legend, spreading through the internet.
+**Use:** The Big Bad Wolf is a great character to introduce into a modern fairy tale game. Imagine his new iteration as an urban legend, spreading through the internet.
 
-GM intrusions: The Wolf makes a great leap, knocking down foes. The Wolf already has someone swallowed in his belly, and that person calls for help from out of the Wolf’s mouth.
+**GM intrusions:** The Wolf makes a great leap, knocking down foes. The Wolf already has someone swallowed in his belly, and that person calls for help from out of the Wolf’s mouth.
 
 ## CRAFTED (CREATURES)
 
@@ -13466,35 +13274,34 @@ Once the loyal companions of Virgilius the Sorcerer, this pack of dogs now runs 
 
 Level 5; Armor 2
 
-Tin Woodman 7 (21)
-
+{{< hint danger >}} {{< columns2 >}} Tin Woodman <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 Once an ordinary woodman of flesh and blood named Nick Chopper, the Tin Woodman’s story is a sad one. His beloved axe was enchanted by a wicked witch in order to keep him from his other true love (it’s a long story, but suffice it to say that witches who are wicked do wicked things). His beloved axe turned on Nick Chopper, taking off one limb after another. A tinsmith kindly replaced Nick’s missing body parts (except his heart) with tin prosthetics, but eventually nothing was left of the original human and he became the Tin Woodman.
 
 Note that the Tin Woodman will never tell you this story himself, for he has no heart and seeks only revenge: revenge upon the witch who cursed him, upon the tinsmith who did not replace his heart, upon the rain that rusts him. Someday, he will find all the original parts of himself, no matter who they belong to currently, so that he can return to his original form.
 
-Motive: Revenge, find his original body parts 
+**Motive:** Revenge, find his original body parts 
 
-Environment: Anywhere
+**Environment:** Anywhere
 
-Health: 21
+**Health:** 21
 
-Damage Inflicted: 4 points
+**Damage Inflicted:** 4 points
 
-Armor: 4
+**Armor:** 4
 
-Movement: Short; immediate if rusted Modifications: Speed defense as level 5 due to rust
+**Movement:** Short; immediate if rusted Modifications: Speed defense as level 5 due to rust
 
-Combat: Inflicts 7 points of damage with his enchanted axe.
+**Combat:** Inflicts 7 points of damage with his enchanted axe.
 
-Interaction: The Tin Woodman is singularly focused, and cares only about clues that lead to revenge or his original body parts. He does not eat, drink, or sleep, and often comes across as frantic and frenzied.
+**Interaction:** The Tin Woodman is singularly focused, and cares only about clues that lead to revenge or his original body parts. He does not eat, drink, or sleep, and often comes across as frantic and frenzied.
 
-Use: The PCs are hunting the same foe that the Tin Woodman is, and either they join together, or the Tin Woodman tries to prevent them from reaching the foe before he does.
+**Use:** The PCs are hunting the same foe that the Tin Woodman is, and either they join together, or the Tin Woodman tries to prevent them from reaching the foe before he does.
 
-Loot: Enchanted axe
+**Loot:** Enchanted axe
 
 > Enchanted axe (artifact): level 7; inflicts 7 points of damage; can be activated to move a long distance away from the wielder and attack a foe as an action. Depletion: 1 in 1d20 (check each activation)
 
-GM intrusion: A character’s weapon gets caught in the Tin Woodman’s metal body, pulling the weapon out of their hands. 
+**GM intrusion:** A character’s weapon gets caught in the Tin Woodman’s metal body, pulling the weapon out of their hands. 
 
 Death 10 (infinite)
 
@@ -13506,33 +13313,33 @@ Death is ancient, but not old. Wise, but not all-knowing. Brilliant, but not per
 
 If Death appears at the foot of a person’s bed, that person can recover if the proper steps are taken. If Death is at the head of the bed, almost nothing can be done to save the victim, beyond an impossible bargain.
 
-Motive: To do their duty and make everyone equal
+**Motive:** To do their duty and make everyone equal
 
-Environment: Everywhere and anywhere
+**Environment:** Everywhere and anywhere
 
-Health: ∞
+**Health:** ∞
 
-Damage Inflicted: Death
+**Damage Inflicted:** Death
 
-Armor: Immune to all harm
+**Armor:** Immune to all harm
 
-Movement: Variable depending on their form, but Death can move instantaneously almost
+**Movement:** Variable depending on their form, but Death can move instantaneously almost
 
 anywhere that they desire
 
-Modifications: Seeing through trickery, deception, or bargaining as level 8
+**Modifications:** Seeing through trickery, deception, or bargaining as level 8
 
-Combat: Death kills. They kill any number of ways, depending on their mood, what’s at
+**Combat:** Death kills. They kill any number of ways, depending on their mood, what’s at
 
 hand, and how they believe the person should leave their life. Thankfully, death only comes for someone when their time is up.
 
 Still, it’s not considered wise to provoke or challenge Death to physical combat, for there is only one outcome: a single attack from Death kills the victim (except in the rare case where the victim has protection against death, such as with one of Death’s candles).
 
-Interaction: Death cannot be hurt and cannot be killed, but they can be bargained with, bet against, and sometimes tricked. More rarely, they have even been known to lose a bargain or be captured for a short period of time.
+**Interaction:** Death cannot be hurt and cannot be killed, but they can be bargained with, bet against, and sometimes tricked. More rarely, they have even been known to lose a bargain or be captured for a short period of time.
 
-Use: Bargaining with Death is a potential way to achieve an impossible task or gain a very rare item, but of course it always comes with a price (usually an earlier death for the bargainer or someone else). Death is always looking for something interesting going on, and may appear just to spend time with the characters if they’re engaged in an intriguing activity.
+**Use:** Bargaining with Death is a potential way to achieve an impossible task or gain a very rare item, but of course it always comes with a price (usually an earlier death for the bargainer or someone else). Death is always looking for something interesting going on, and may appear just to spend time with the characters if they’re engaged in an intriguing activity.
 
-GM intrusion: Death mistakes a character for someone else.
+**GM intrusion:** Death mistakes a character for someone else.
 
 ## OF EARTH AND STONE (CREATURES)
 
@@ -13540,14 +13347,13 @@ Creatures of the earth are those that seem to belong to the land in some unique 
 
 Because the archetype of earth beings covers a broad range of creatures, there is no general entry for an earth being.
 
-Dwarf: level 4; Armor 2; mining pick inflicts 4 points of damage; beards provide magical abilities such as finding treasure, enabling flight, shapeshifting, and turning invisible. Cutting a dwarf’s beard off or learning their name provides an asset on all interactions with that dwarf.
+**Dwarf:** level 4; Armor 2; mining pick inflicts 4 points of damage; beards provide magical abilities such as finding treasure, enabling flight, shapeshifting, and turning invisible. Cutting a dwarf’s beard off or learning their name provides an asset on all interactions with that dwarf.
 
-Feral tree: level 3; Armor 3; no movement; lashing branches attack up to three characters as a single action; on a failed Might defense task, the characters are held in place until they can escape.
+**Feral tree:** level 3; Armor 3; no movement; lashing branches attack up to three characters as a single action; on a failed Might defense task, the characters are held in place until they can escape.
 
-Troll: level 6; claws inflict 7 points of damage and grab victim until they can escape; grabbed creature takes 10 points of damage per round; troll regains 3 points of health per round.
+**Troll:** level 6; claws inflict 7 points of damage and grab victim until they can escape; grabbed creature takes 10 points of damage per round; troll regains 3 points of health per round.
 
-Erlking 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Erlking <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 This vaguely humanoid creature is an animated accumulation of woodland debris—bark, lost teeth, matted weeds, and dirt. It wears a crown of oak leaves and a cloak of mist.
 
 Its eyes are knotholes, and its hands are sharpened twigs. An erlking is a greedy spirit of hunger deemed Unseelie by the faerie nobility of that wild and wicked realm. Erlkings love to hunt and eat children, who are particularly susceptible to the promises and glamours that the creatures spin.
@@ -13556,19 +13362,21 @@ An erlking is a former noble stripped of title, lands, and even form,
 
 and exiled into the night for crimes unimaginable in their cruelty. An erlking’s victims are found in the cold sunlight, pale and bloodless, with their vital organs nibbled out.
 
-Motive: Hungers for flesh and to reclaim stripped titles 
+**Motive:** Hungers for flesh and to reclaim stripped titles 
 
-Environment: Almost anywhere wooded at night Health: 27
+**Environment:** Almost anywhere wooded at night
 
-Damage Inflicted: 6 points
+**Health:** 27
 
-Armor: 4
+**Damage Inflicted:** 6 points
 
-Movement: Short; immediate when burrowing
+**Armor:** 4
 
-Modifications: Stealth tasks as level 7
+**Movement:** Short; immediate when burrowing
 
-Combat: An erlking prefers to attack from hiding, and whisper a child or other creature
+**Modifications:** Stealth tasks as level 7
+
+**Combat:** An erlking prefers to attack from hiding, and whisper a child or other creature
 
 within short distance from their bed out into the night if the victim fails an Intellect defense task. An affected creature remains under the erlking’s spell for up to an hour or until attacked or otherwise harmed.
 
@@ -13576,33 +13384,34 @@ When it attacks physically, an erlking can attack three times on its turn with r
 
 Silvered and cold iron weapons ignore an erlking’s Armor. If an erlking’s remains are not burned or otherwise destroyed, it will sprout and grow a new body from its corpse within a day.
 
-Interaction: An erlking may negotiate if creatures have something it wants, or if targets are armed with silvered or cold iron weapons.
+**Interaction:** An erlking may negotiate if creatures have something it wants, or if targets are armed with silvered or cold iron weapons.
 
-Use: An erlking is active only by night; by day, it hides beneath a mound of weedy earth indistinguishable from the surrounding terrain.
+**Use:** An erlking is active only by night; by day, it hides beneath a mound of weedy earth indistinguishable from the surrounding terrain.
 
-GM intrusion: A character surprised by an erlking in the darkness must succeed on an Intellect defense task or lose their next action as they faint, run screaming, or stand paralyzed in terror.
+**GM intrusion:** A character surprised by an erlking in the darkness must succeed on an Intellect defense task or lose their next action as they faint, run screaming, or stand paralyzed in terror.
 
-Minotaur, the 7 (21)
-
+{{< hint danger >}} {{< columns2 >}} Minotaur, the <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 The most famous minotaur is the Minotaur, the singular beast from which all lesser minotaur myths descend. The product of a god-cursed union between human and bull,
 
 the Minotaur is monstrous, and only the flesh of people can nourish it. It is usually lost
 
 in a labyrinth created to contain it. But it occasionally gets free to hunt the wider world before the labyrinth pulls it back. Some demigods claim to have slain the Minotaur, but the Minotaur always returns.
 
-Motive: Hungers for flesh
+**Motive:** Hungers for flesh
 
-Environment: Usually in mythological labyrinths, but sometimes metaphorical ones Health: 33
+**Environment:** Usually in mythological labyrinths, but sometimes metaphorical ones
 
-Damage Inflicted: 10 points
+**Health:** 33
 
-Armor: 3
+**Damage Inflicted:** 10 points
 
-Movement: Short
+**Armor:** 3
 
-Modifications: Breaking through barriers as level 9
+**Movement:** Short
 
-Combat: The Minotaur attacks by goring foes on its horns, inflicting 10 points of damage
+**Modifications:** Breaking through barriers as level 9
+
+**Combat:** The Minotaur attacks by goring foes on its horns, inflicting 10 points of damage
 
 on a successful attack. If the Minotaur charges a short distance, it can attack as part of
 
@@ -13614,14 +13423,13 @@ the Minotaur, they must succeed on an Intellect defense task or be claimed by th
 
 If killed, the Minotaur’s body is claimed by the labyrinth. Thirty-three days later, the Minotaur is resuscitated.
 
-Interaction: The Minotaur can speak, but usually chooses not to. It is belligerent and cruel, and always hungry.
+**Interaction:** The Minotaur can speak, but usually chooses not to. It is belligerent and cruel, and always hungry.
 
-Use: The Minotaur has escaped the labyrinth and now wanders the narrow streets of a metropolis, treating the winding alleys and twisting roads as its new maze.
+**Use:** The Minotaur has escaped the labyrinth and now wanders the narrow streets of a metropolis, treating the winding alleys and twisting roads as its new maze.
 
-GM intrusion: The Minotaur smashes into the wall, causing a section of the tunnel or hallway to collapse on the character(s), inflicting 10 points of damage and trapping them until they can escape the rubble
+**GM intrusion:** The Minotaur smashes into the wall, causing a section of the tunnel or hallway to collapse on the character(s), inflicting 10 points of damage and trapping them until they can escape the rubble
 
-Enchanter 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Enchanter <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Enchanters include magic-users of all genders. They may choose to call themselves wizards, sorcerers, mages, or diviners, depending on their strengths, abilities, and desired reputations.
 
 Enchanters usually take great pride in their appearance, including their outfits, accouterments, and equipment. They often incorporate living or dead elements of dangerous creatures, such as spiders, snakes, crocodiles, and dragons, into the objects that matter to them. Additionally, they may imbue objects with powerful magic.
@@ -13632,19 +13440,21 @@ Most enchanters have one or more apprentices or helpers, typically animals that 
 
 Sorcerer’s Apprentice: level 3
 
-Motive: Control magic, power
+**Motive:** Control magic, power
 
-Environment: Everywhere, particularly in places where magic is present and powerful Health: 20
+**Environment:** Everywhere, particularly in places where magic is present and powerful
 
-Damage Inflicted: 5 points
+**Health:** 20
 
-Armor: 2
+**Damage Inflicted:** 5 points
 
-Movement: Short
+**Armor:** 2
 
-Modifications: Using and controlling magic as level 7
+**Movement:** Short
 
-Combat: Magical weapons and artifacts (such as a whip made of living snakes, a staff with a
+**Modifications:** Using and controlling magic as level 7
+
+**Combat:** Magical weapons and artifacts (such as a whip made of living snakes, a staff with a
 
 biting wolf’s head on top, or a sword that acts of its own accord) do 5 points of damage. Additionally, an enchanter may employ a number of magical abilities, including the
 
@@ -13670,71 +13480,68 @@ Persuasion: Convinces all victims in long range that what they believe is not re
 
 experiencing. The effect lasts for ten minutes. Additionally, an enchanter may have one or more of the same abilities as a witch or a faerie.
 
-Interaction: For the characters, an enchanter may be a terrifying foe or a powerful ally. Enchanters are fickle, perhaps due to their close relationship with magic, and may change their loyalties on a whim or an imagined slight.
+**Interaction:** For the characters, an enchanter may be a terrifying foe or a powerful ally. Enchanters are fickle, perhaps due to their close relationship with magic, and may change their loyalties on a whim or an imagined slight.
 
-Use: The characters need to have an object imbued, a person returned to life, or a curse undone, and they turn to the enchanter for help. The characters accidentally insulted
+**Use:** The characters need to have an object imbued, a person returned to life, or a curse undone, and they turn to the enchanter for help. The characters accidentally insulted
 
 the enchanter in some way, and now the enchanter is hunting them down to get revenge.
 
-Loot: Enchanters often protect their precious items with spells and magical locks (level 8). Behind those wards are 1d6 cyphers, an artifact, and an elegant or interesting outfit.
+**Loot:** Enchanters often protect their precious items with spells and magical locks (level 8). Behind those wards are 1d6 cyphers, an artifact, and an elegant or interesting outfit.
 
 ## ENCHANTERS OF THE WORLD
 
-Morgan Le Fay 9 (27)
-
+{{< hint danger >}} {{< columns2 >}} Morgan Le Fay <---> 9 (27) {{< /columns2 >}}{{< /hint >}}
 Morgan le Fay (also known as Morgen, Margain, Morgant, and various other names) is a powerful sorceress from the legends of King Arthur. She has an unpredictable duality to her nature, with the potential for great good and great evil.
 
-Combat: Attacks with a variety of weapons, including a sword and staff. She also can use
+**Combat:** Attacks with a variety of weapons, including a sword and staff. She also can use
 
 any of the following abilities: charm, enchant, glamour, heal, invisible, persuasion,
 
 protect, revive, seduce, and shrivel.
 
-Interaction: Morgan le Fay is fickle and enigmatic, and rarely reveals her purposes. If she
+**Interaction:** Morgan le Fay is fickle and enigmatic, and rarely reveals her purposes. If she
 
 agrees to help the characters in some way, it’s absolutely because she has a higher goal
 
 in mind.
 
-Use: The characters are stopped by a beautiful woman in the woods, who asks them to
+**Use:** The characters are stopped by a beautiful woman in the woods, who asks them to
 
 help her accomplish a great task. A powerful foe has brought Morgan le Fay into his confidence, and she is helping him against the PCs.
 
-Oz, The Great and Terrible 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Oz, The Great and Terrible <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 It is perhaps the greatest feat the Wizard of Oz ever pulled off to make everyone believe that he was not a sorcerer at all, but merely a ventriloquist and balloonist from some faraway land. He is, in fact, far more powerful than that, but prefers that no one were ever to know. For if they did, they would expect things of him, and that makes him anxious. 
 
-Combat: Oz does not fight, but instead sends his army of green-whiskered soldiers forth.
+**Combat:** Oz does not fight, but instead sends his army of green-whiskered soldiers forth.
 
 He may also use an artifact or spell to protect himself, hide himself, or flee. He can use
 
 the following abilities: enchant, invisible, persuasion.
 
-Green-whiskered soldiers: level 4; Armor 2; unloaded rifles deal 4 points of damage
+**Green-whiskered soldiers:** level 4; Armor 2; unloaded rifles deal 4 points of damage
 
-Interaction: Curmudgeonly and a bit of a humbug, but rarely with evil intent, Oz is likely to
+**Interaction:** Curmudgeonly and a bit of a humbug, but rarely with evil intent, Oz is likely to
 
 help those who ask, although he often fumbles things just to make a point.
 
-Use: The characters set off to meet the powerful ruler of a strange land. Or they encounter
+**Use:** The characters set off to meet the powerful ruler of a strange land. Or they encounter
 
 someone they believe is just a humble, simple man, but who instead turns out to be
 
 incredibly powerful.
 
-Loot: Oz has at least one artifact, as well as 1d6 cyphers.
+**Loot:** Oz has at least one artifact, as well as 1d6 cyphers.
 
-Virgilius the Sorcerer 7 (21)
-
+{{< hint danger >}} {{< columns2 >}} Virgilius The Sorcerer <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 The most renowned of all the poet-sorcerers, Virgilius studies and uses the power of the written word to enhance his magical abilities. He keeps a black book, which is the source of his spells, and creates copper creatures to protect and defend him. He has a love of challenges, such as magician’s battles, and seeks them out.
 
-Combat: Can use the following abilities: animate, blood to stone, enchant, endless passage. Interaction: Virgilius is quick thinking, wily, and full of interesting schemes. Those who
+**Combat:** Can use the following abilities: animate, blood to stone, enchant, endless passage. Interaction: Virgilius is quick thinking, wily, and full of interesting schemes. Those who
 
 entertain him for longer than a moment might find him a very useful ally. However, he is also driven toward revenge, particularly on those who attempt to publicly humiliate or shame him.
 
-Use: The characters enter into a battle of wits or wills, only to discover they’re competing with Virgilius.
+**Use:** The characters enter into a battle of wits or wills, only to discover they’re competing with Virgilius.
 
-Loot: Carries a black book
+**Loot:** Carries a black book
 
 > Black book (artifact): level 6; allows the user to cast animate, blood to stone, enchant, or endless passage. Casting a spell from the black book costs 2 Intellect points and is an action. 
 >
@@ -13762,25 +13569,26 @@ Pixies: Benign and mischievous creatures that live near stone circles, tombs, an
 
 Level 2, stealth and finding lost items as level 6
 
-Faerie 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Faerie <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 In general, faeries (sometimes called fairies or fair folk) are humanoid in appearance, small in stature, and magical. They are associated with music, mirth, tricks, and taunts. Seeing one is an omen—hopefully, an omen of a silly song or the first appearance of an annoying new road companion (the very faerie sighted) flitting around, asking the questions of a curious four-year-old hyped up on sugar water and ice cream. Some faeries are tricksters, delighting in playing pranks and stealing clothing, equipment, or prized objects. And a few are malicious, luring travelers to their various dooms, making deadly deals, and forcing others into captivity.
 
 Not all faeries have wings, but those that do find many ways to use them to their advantage.
 
-Motive: Unpredictable
+**Motive:** Unpredictable
 
-Environment: Encountered alone or in a flutter of three to twelve, usually in forests Health: 12
+**Environment:** Encountered alone or in a flutter of three to twelve, usually in forests
 
-Damage Inflicted: 4 points
+**Health:** 12
 
-Movement: Immediate; long when flying
+**Damage Inflicted:** 4 points
 
-Modifications: Tasks related to performance and deception as level 5; Speed defense as
+**Movement:** Immediate; long when flying
+
+**Modifications:** Tasks related to performance and deception as level 5; Speed defense as
 
 level 5 due to size and quickness
 
-Combat: A faerie attacks by hurling sparkling magic dust at a target within short range. In
+**Combat:** A faerie attacks by hurling sparkling magic dust at a target within short range. In
 
 addition, if a faerie is touched or struck by a melee weapon, more magic dust puffs away from the faerie and clouds the attacker, who must succeed on a Speed defense task or suffer the same amount of damage they just dealt to the faerie. Sometimes faeries wield tiny weapons, such as bows, spears, or swords; treat these as light weapons.
 
@@ -13806,35 +13614,34 @@ In addition to inflicting damage with their fairy dust and their weapons of choi
 >
 > Faeries have a wide variety of weaknesses, including silver, iron, technology, sugar and salt (they must count each grain), and cream (intoxicates them). But not all faeries have the same weaknesses, and some may not have any.
 
-Interaction: Faeries are mercurial creatures, but except for the malicious ones, they can be negotiated with, especially if offered sweets, wine, cream, or other gifts. That said, faerie attention spans are limited, so even one that means well could end up leaving the PCs in the lurch at just the wrong moment.
+**Interaction:** Faeries are mercurial creatures, but except for the malicious ones, they can be negotiated with, especially if offered sweets, wine, cream, or other gifts. That said, faerie attention spans are limited, so even one that means well could end up leaving the PCs in the lurch at just the wrong moment.
 
-Use: The characters come upon an injured faerie, who promises to grant them their deepest wish if they agree to help it. They must decide if they believe the faerie speaks true, or if it’s a trap.
+**Use:** The characters come upon an injured faerie, who promises to grant them their deepest wish if they agree to help it. They must decide if they believe the faerie speaks true, or if it’s a trap.
 
-Loot: The tiny pouches that faeries carry are stuffed with forest bric-a-brac, but some of those pouches are ten times larger on the inside and could contain expensive items or cyphers.
+**Loot:** The tiny pouches that faeries carry are stuffed with forest bric-a-brac, but some of those pouches are ten times larger on the inside and could contain expensive items or cyphers.
 
-GM intrusion: A character accidentally does something to offend a helpful faerie, causing it to turn on them.
+**GM intrusion:** A character accidentally does something to offend a helpful faerie, causing it to turn on them.
 
-Fairy Godmother 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Fairy Godmother <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Fairy godmothers are nearly always beneficent beings, typically acting as mentors, parents, or protectors, much like human godparents. The difference, of course, is that fairy godmothers have a great deal more magic at their disposal.
 
 Overall, fairy godmothers are kind, gentle, and loving to almost everyone, not just their godchildren. Of course, not all fairy godmothers are good at their roles—some may act out of their own interests and inadvertently (or purposefully) do harm to those they are supposed to protect. This is particularly true if they feel like they have not been given the respect they deserve, or have been offended in some way.
 
 And if you should harm someone they have pledged to protect? Beware, beware, for there is no wrath like that of a fairy godmother’s.
 
-Motive: Protect their protégés, be respected
+**Motive:** Protect their protégés, be respected
 
-Environment: Cities, towns, and anywhere someone is in need of assistance
+**Environment:** Cities, towns, and anywhere someone is in need of assistance
 
-Health: 24
+**Health:** 24
 
-Damage Inflicted: 6 points
+**Damage Inflicted:** 6 points
 
-Armor: 2 (magical)
+**Armor:** 2 (magical)
 
-Movement: Short; long when flying
+**Movement:** Short; long when flying
 
-Combat: Fairy godmothers attack by shooting a stream of sharp-edged glitter up to a long
+**Combat:** Fairy godmothers attack by shooting a stream of sharp-edged glitter up to a long
 
 distance from their magic wands (glitter gets into every nook and cranny, and thus ignores Armor). Fairy godmothers can bestow blessings upon their friends and allies, and curse their enemies.
 
@@ -13848,9 +13655,9 @@ Fairy godmothers can cast any of the skills and abilities that faeries can cast,
 >
 > Prophecy: Creates a prediction for the future of a single person. The prediction has a high chance of coming true, but is not certain. (Prophecies work like GM intrusions that will take place in the future; the player can reject the prophecy by spending an XP.) Not all prophecies are negative.
 
-Interaction: Interacting with fairy godmothers is usually a little frantic, frenzied, and full of “Bibbidi-bobbidi-boo!” If they like you, they’re likely to prove a loyal, steadfast, and useful ally. If not, well, hopefully you like being turned into a horse, or worse.
+**Interaction:** Interacting with fairy godmothers is usually a little frantic, frenzied, and full of “Bibbidi-bobbidi-boo!” If they like you, they’re likely to prove a loyal, steadfast, and useful ally. If not, well, hopefully you like being turned into a horse, or worse.
 
-Use: Fairy godmothers make great lighthearted additions to encounters, particularly ones where the characters are preparing for a ball, a fight, or a big adventure.
+**Use:** Fairy godmothers make great lighthearted additions to encounters, particularly ones where the characters are preparing for a ball, a fight, or a big adventure.
 
 GM Intrusion: The fairy godmother’s magic goes awry and a character is accidentally turned into a horse.
 
@@ -13858,19 +13665,19 @@ GM Intrusion: The fairy godmother’s magic goes awry and a character is acciden
 
 Áine is the fairy queen of summer and the sun, and is known by many names: the Fairy Queen of Light and Love, Bright One, Sun Goddess, and Sweetheart of the Fairies. She is a kind, true, and benevolent ruler, and is loved by nearly everyone. Known for making just and fair bargains with humans, she is often sought after for blessings and boons.
 
-Motive: To be just and true, to protect her realm
+**Motive:** To be just and true, to protect her realm
 
-Environment: She shares a fairy realm with her sister, Gráinne, where she rules in the summer months. 
+**Environment:** She shares a fairy realm with her sister, Gráinne, where she rules in the summer months. 
 
-Health: 99
+**Health:** 99
 
-Damage Inflicted: 12 points
+**Damage Inflicted:** 12 points
 
-Armor: 5
+**Armor:** 5
 
-Movement: Short; very long when shapeshifted
+**Movement:** Short; very long when shapeshifted
 
-Combat: Áine rarely engages in combat herself, as she prefers to leave that role to her son
+**Combat:** Áine rarely engages in combat herself, as she prefers to leave that role to her son
 
 Geroid and his army. However, if she’s attacked or feels the need to defend her realm or someone in it, she will not hesitate to step in. She attacks using the power of the sun, focusing light into a narrow beam that inflicts 12 points of damage on the target.
 
@@ -13882,33 +13689,33 @@ them for one round
 
 She can also shapeshift into a red mare as she chooses. As a mare, she inflicts 6 points of damage with her hooves or bite, can become immaterial as an action (makes it impossible to successfully attack her, but she cannot attack in this form), and can move to a spot within long range instantaneously (does not require an action).
 
-Interaction: Just, true, and kind, Áine makes a powerful ally, provided that she does not feel that she or her realm are threatened. Those who wish harm on others or who she sees as malevolent in action or thought are more likely to
+**Interaction:** Just, true, and kind, Áine makes a powerful ally, provided that she does not feel that she or her realm are threatened. Those who wish harm on others or who she sees as malevolent in action or thought are more likely to
 
 find themselves on the wrong end of the Bright One’s anger.
 
-Use: Characters who wish for something important in their lives to change may ask Áine to grant them a boon. She sometimes helps those in need without them asking for it (but, of course, only for a price). If the characters attend a fairy ball or feast, they may encounter Áine as an honored guest.
+**Use:** Characters who wish for something important in their lives to change may ask Áine to grant them a boon. She sometimes helps those in need without them asking for it (but, of course, only for a price). If the characters attend a fairy ball or feast, they may encounter Áine as an honored guest.
 
-Loot: Áine wears a crown of glass, but it is not visible unless she chooses it to be (she rarely does) or she dies. She carries little else, for she is a person of deeds, not items.
+**Loot:** Áine wears a crown of glass, but it is not visible unless she chooses it to be (she rarely does) or she dies. She carries little else, for she is a person of deeds, not items.
 
-GM intrusion: One of Áine’s ardent followers believes a character is threatening their beloved queen.
+**GM intrusion:** One of Áine’s ardent followers believes a character is threatening their beloved queen.
 
 Gráinne, the Wayward Daughter 9 (27)
 
 Gráinne is the Fairy Queen of Hope and Despair, sometimes also called the Wayward Daughter, the Winter Queen, and Dark One. Gráinne is to the dark what Áine is to the light. This doesn’t mean that Gráinne is evil, just that she represents what is good and bad in the world that is hidden in shadows, buried beneath the ground, and revealed at night. She has her own moral code, one that can work in the favor of those who are cunning and willing to look at the darkness of their own hearts.
 
-Motive: To honor the darkness, to protect her realm
+**Motive:** To honor the darkness, to protect her realm
 
-Environment: She shares a fairy realm with her sister, where she rules in winter. In the summer, she sleeps in the Sorrows, a belowground realm out of time and space. 
+**Environment:** She shares a fairy realm with her sister, where she rules in winter. In the summer, she sleeps in the Sorrows, a belowground realm out of time and space. 
 
-Health: 99
+**Health:** 99
 
-Damage Inflicted: 12 points
+**Damage Inflicted:** 12 points
 
-Armor: 5
+**Armor:** 5
 
-Movement: Short; long when flying
+**Movement:** Short; long when flying
 
-Combat: Gráinne is a talented combatant, and seems to revel in having a foe who is a
+**Combat:** Gráinne is a talented combatant, and seems to revel in having a foe who is a
 
 challenge to her. She carries a dark green crystal staff that emits a dark coil of reddish energy, which inflicts 12 points of damage. Alternatively, she can send out a cloud of black smoke that deals 9 points of damage to all creatures in a short area. She also wears the Tiara of Pailis, a griffin-shaped tiara that allows her to fly. Gráinne has a variety of magical abilities at her disposal, including the following:
 
@@ -13920,35 +13727,34 @@ Shadowmelding: Gráinne merges with shadows, making her nearly
 
 intangible. In this form, she cannot be injured by physical attacks, and her attacks inflict 8 points of Intellect damage on anyone whose body is darkened by her shadow.
 
-Interaction: For those who don’t mind a little darkness and moral ambiguity, Gráinne makes a powerful ally.
+**Interaction:** For those who don’t mind a little darkness and moral ambiguity, Gráinne makes a powerful ally.
 
-Use: The characters stumble into a fairy realm, only to be met by its just-woken guardian. Grieving characters may find the solutions and solace they seek in Gráinne’s magic and power.
+**Use:** The characters stumble into a fairy realm, only to be met by its just-woken guardian. Grieving characters may find the solutions and solace they seek in Gráinne’s magic and power.
 
-Loot: Tiara of Pailis
+**Loot:** Tiara of Pailis
 
 Tiara of Pailis (artifact): level 7; allows the wearer to fly a long distance each round (as an action). The wearer can control their speed, direction, and height. Depletion: 1 in 1d20
 
 GM Intrusion: A character’s companion animal or mount is affected by Gráinne’s animal affinity and falls under her power.
 
-Queen 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Queen <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Ah, the Evil Queen. Ruler of the land, watcher in the mirror. Full of magic, utterly merciless, and sharp of tongue. Evil and wicked queens abound in fairy tales, from those who have no names and are remembered only for their evil deeds, to those whose names will never be forgotten: Queen Grimhilde, Maleficent, the Queen of Hearts, and the White Witch. These queens seek power for power’s sake, not caring what destruction lies in their wake.
 
 Of course, not all queens are evil—just the ones you hear about most often. But they are all powerful in their own way, even if they are forced to hide it by their circumstances. While they too crave power, they seek it in order to protect their lands, their people, and their loved ones.
 
-Motive: Power
+**Motive:** Power
 
-Environment: Anywhere, but typically in cities and towns, where there are people to admire
+**Environment:** Anywhere, but typically in cities and towns, where there are people to admire
 
 and fear them 
 
-Health: 18
+**Health:** 18
 
-Damage Inflicted: 4 points
+**Damage Inflicted:** 4 points
 
-Movement: Short
+**Movement:** Short
 
-Combat: Queens almost always carry an artifact of great power, such as a staff, crown,
+**Combat:** Queens almost always carry an artifact of great power, such as a staff, crown,
 
 mirror, or sword, that grants them unique abilities and skills.
 
@@ -13956,63 +13762,61 @@ Queens often have familiars, such as ravens, who fight for or beside them. Most 
 
 Some queens may also be witches or fey creatures, and thus have the ability to use one or two spells and curses that witches and fey also use.
 
-Queen Grimhilde 8 (24)
-
+{{< hint danger >}} {{< columns2 >}} Queen Grimhilde <---> 8 (24) {{< /columns2 >}}{{< /hint >}}
 Perhaps best known for her attempts to kill Snow White through magic and poison, Grimhilde has other passions and talents as well. She seeks ways to make all beings obey her commands, starting with the huntsman who so stupidly and willfully deceived her so long ago.
 
-Environment: One of her many castles, the woods
+**Environment:** One of her many castles, the woods
 
-Armor: 2
+**Armor:** 2
 
-Health: 18
+**Health:** 18
 
-Damage Inflicted: 4 points
+**Damage Inflicted:** 4 points
 
-Movement: Short
+**Movement:** Short
 
-Combat: Her vulture familiars swirl about all foes in short range, knocking them prone
+**Combat:** Her vulture familiars swirl about all foes in short range, knocking them prone
 
 and inflicting 4 points of damage. She can use the following witch abilities: glamour,
 
 imprison, and seduce.
 
-Vulture familiars: level 4
+**Vulture familiars:** level 4
 
-Interaction: Grimhilde is cunning and devious, always hatching plans against those who
+**Interaction:** Grimhilde is cunning and devious, always hatching plans against those who
 
 harm her, who threaten to overshadow her, or who have caught her eye in some way. 
 
-Use: The characters enter an area that is under Grimhilde’s power and must face her wrath. 
+**Use:** The characters enter an area that is under Grimhilde’s power and must face her wrath. 
 
-Loot: She has a mirror mirror artifact, as well as 1d6 cyphers (often poison).
+**Loot:** She has a mirror mirror artifact, as well as 1d6 cyphers (often poison).
 
-The Red Queen 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} The Red Queen <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 The Red Queen has never once yelled “Off with her head!” In fact, she has never yelled. It’s horrible manners, and besides, when you know how to wield power, you don’t need all that noise and chaos. You need only whisper and be still, and everyone will politely fall quiet and listen.
 
-Environment: Polite dinner parties and social gatherings
+**Environment:** Polite dinner parties and social gatherings
 
-Armor: 1
+**Armor:** 1
 
-Combat: Prefers verbal sparring over the physical sort, and inflicts 3 points of damage with a single cutting remark or sharp-tongued retort.
+**Combat:** Prefers verbal sparring over the physical sort, and inflicts 3 points of damage with a single cutting remark or sharp-tongued retort.
 
-Interaction: The Red Queen is quite proper and chatty, the perfect host and the perfect guest. The only time she ever grows irate is when the subject of her sister, the Queen of Hearts, comes up.
+**Interaction:** The Red Queen is quite proper and chatty, the perfect host and the perfect guest. The only time she ever grows irate is when the subject of her sister, the Queen of Hearts, comes up.
 
-Use: While attending a party to steal something, the characters are caught by the Red Queen
+**Use:** While attending a party to steal something, the characters are caught by the Red Queen
 
 The Snow Queen
 
 The Snow Queen rules over the “snow bees”—snowflakes that look like bees. She keeps an ornate palace surrounded by gardens in the lands of permafrost, but she can be seen elsewhere in the world where snowflakes cluster. Most say she is cold, and they would be right. She has been part of the snow for so long that it’s possible she no longer remembers warmth or kindness or love.
 
-Environment: Anywhere there is snow, ice, or winter
+**Environment:** Anywhere there is snow, ice, or winter
 
-Armor: 2 (from personal ice walls)
+**Armor:** 2 (from personal ice walls)
 
-Combat: Creates a snowstorm that blinds all foes in long range for three rounds; ice shards rain down upon all foes in long range, inflicting 2 points of damage; reindeer familiar inflicts 5 points of damage with her horns.
+**Combat:** Creates a snowstorm that blinds all foes in long range for three rounds; ice shards rain down upon all foes in long range, inflicting 2 points of damage; reindeer familiar inflicts 5 points of damage with her horns.
 
-Interaction: The Snow Queen is not evil—she just has forgotten what it means to be human, with human needs and human hearts (not that she was ever truly human, but that’s a story for another time). She is willing to bargain if she understands what she gets out of it.
+**Interaction:** The Snow Queen is not evil—she just has forgotten what it means to be human, with human needs and human hearts (not that she was ever truly human, but that’s a story for another time). She is willing to bargain if she understands what she gets out of it.
 
-Use: The Snow Queen guards the entrance to a place the characters need to enter.
+**Use:** The Snow Queen guards the entrance to a place the characters need to enter.
 
 ## OF WATER AND WAVES (CREATURES)
 
@@ -14026,27 +13830,26 @@ Fuath: Fuathan are intangible spirits that dwell deep in the seas and oceans. Th
 
 Level 5, defense as level 7 due to intangibility; if they know a person’s name, they can gain control over the person, forcing them to do their bidding for a short time
 
-Naiad: These water nymphs inhabit rivers, springs, waterfalls, and other bodies of fresh water. Typically appearing as beautiful young women with long limbs and flowing hair, naiads are considered protectors, for they guard their land fiercely. However, they are easily provoked and their wrath is fierce.
+**Naiad:** These water nymphs inhabit rivers, springs, waterfalls, and other bodies of fresh water. Typically appearing as beautiful young women with long limbs and flowing hair, naiads are considered protectors, for they guard their land fiercely. However, they are easily provoked and their wrath is fierce.
 
 Level 4; can cause water to boil, inflicting 3 points of heat damage on foes; can unleash flash floods that sweep all foes back a very long distance and inflict 2 points of ambient damage (ignores Armor)
 
-Cailleach 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Cailleach <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Not actually a water spirit, but one who has made her peace with the sea in an eternal bargain, Cailleach once lived on land. Now she is a recluse deep in the ocean in the realm known as the Expanse of Halirane. She appears ancient, and in fact is much older than that. She shaves her head bald, wears dozens of shell earrings in each ear, and has a glass eye that allows her to see three views of the future. As part of her bargain with the sea, she can never return to dry land again, or she will lose all of her powers forever.
 
-Motive: To be left alone
+**Motive:** To be left alone
 
-Environment: A home hidden inside a coral reef at the bottom of the ocean. Her home is a large dead whale that the sea magically preserves as part of their bargain. 
+**Environment:** A home hidden inside a coral reef at the bottom of the ocean. Her home is a large dead whale that the sea magically preserves as part of their bargain. 
 
-Health: 30
+**Health:** 30
 
-Damage Inflicted: 6 points
+**Damage Inflicted:** 6 points
 
-Movement: Short; very long when shapeshifted
+**Movement:** Short; very long when shapeshifted
 
-Modifications: Seeing through deceptions and lies as level 6, healing as level 8
+**Modifications:** Seeing through deceptions and lies as level 6, healing as level 8
 
-Combat: Cailleach has many abilities at her disposal, some of which come from the sea and
+**Combat:** Cailleach has many abilities at her disposal, some of which come from the sea and
 
 others that come from her own magic. They include the following:
 
@@ -14060,102 +13863,98 @@ See the Future: Cailleach can use her glass eye to scry the future of an individ
 
 Wanton Destruction: As part of her agreement with the sea, Cailleach was given the power to control small parts of it at a time. She can create a whirlpool that catches up all creatures and objects within short range of its center and inflicts 5 points of ambient damage (ignores Armor).
 
-Interaction: Cailleach is a recluse and introvert whose deepest longing is to be left alone
+**Interaction:** Cailleach is a recluse and introvert whose deepest longing is to be left alone
 
 to increase her knowledge of magic. She also likes puzzles and games, and out of everything on land, she misses birds most of all (for interacting with, not eating). Those who bring her any of those items are likely to draw Cailleach out of her shell and have a positive interaction.
 
-Use: Cailleach can be a beneficial ally, particularly as a healer. She might also be convinced to help fight against an encroaching danger, especially if it’s threatening her solitude and privacy.
+**Use:** Cailleach can be a beneficial ally, particularly as a healer. She might also be convinced to help fight against an encroaching danger, especially if it’s threatening her solitude and privacy.
 
-Loot: She typically carries a number of sea cyphers, and her home is filled with books, scrolls, and journals of all sorts.
+**Loot:** She typically carries a number of sea cyphers, and her home is filled with books, scrolls, and journals of all sorts.
 
-GM intrusion: The sea offers additional assistance to Cailleach’s spells, increasing her damage or movement.
+**GM intrusion:** The sea offers additional assistance to Cailleach’s spells, increasing her damage or movement.
 
-Kelpie 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Kelpie <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 A sinister aquatic creature that takes the shape of a grey horse or white pony, the kelpie lures unsuspecting passersby and attempts to drown them in a nearby body of water.
 
 Some kelpies look just like horses. Others look as if they’re created from elements of the swamp—maybe its tail is algae, its mane cattails, its eyes glowing pebbles or miniature moons. Maybe eels and snails and other creatures are its teeth or tongue. One thing about kelpies is always true: their manes are always dripping and their hooves are always inverted.
 
 If someone knows a kelpie’s name and says it aloud, the kelpie loses all its power over that person and retreats to the depths of the water.
 
-Motive: Unknown
+**Motive:** Unknown
 
-Environment: Near or in rivers, streams, lakes, and other bodies of running or still water.
+**Environment:** Near or in rivers, streams, lakes, and other bodies of running or still water.
 
 Modern settings might find them near public or private swimming pools, koi ponds,
 
 and reservoirs. 
 
-Health: 21
+**Health:** 21
 
-Damage Inflicted: 4 points
+**Damage Inflicted:** 4 points
 
-Movement: Very long when running
+**Movement:** Very long when running
 
-Combat: When a passerby approaches, the kelpie might appear tame, a little lost, injured,
+**Combat:** When a passerby approaches, the kelpie might appear tame, a little lost, injured,
 
 or otherwise friendly and in need. Or, if the passerby appears weary or sad, the kelpie will offer a ride upon their back. The kelpie’s sticky skin traps the rider (level 7 Might task to break free). Once the rider is seated, the kelpie may attempt to drown them in the lake, run so fast that the rider takes 5 points of Intellect damage from fright, or roll over on them, inflicting 4 points of damage (ignores Armor).
 
-Interaction: Not all kelpies are malevolent. Some were once “tamed” by someone who learned their names and loved them. These kelpies actively seek out human contact, attempting to find someone to replace the one they loved.
+**Interaction:** Not all kelpies are malevolent. Some were once “tamed” by someone who learned their names and loved them. These kelpies actively seek out human contact, attempting to find someone to replace the one they loved.
 
-Use: In the gloom, a large black horse appears, wearing beautiful tack and acting as if lost. It offers one of the weary characters a ride upon its back.
+**Use:** In the gloom, a large black horse appears, wearing beautiful tack and acting as if lost. It offers one of the weary characters a ride upon its back.
 
-GM intrusion: While dealing with something else, the characters come upon a kelpie in the process of drowning someone.
+**GM intrusion:** While dealing with something else, the characters come upon a kelpie in the process of drowning someone.
 
-The West Wind 9 (27)
-
+{{< hint danger >}} {{< columns2 >}} The West Wind <---> 9 (27) {{< /columns2 >}}{{< /hint >}}
 The West Wind has no master, no shackles, no chains. She goes where she will, and woe to those who try to capture or hold her. When she’s not blowing through the sky, she takes the shape of a human woman dressed in a sparkling blue tuxedo, her short silver hair pushed back from her face.
 
 Not all winds are living creatures. Sometimes the wind is just the wind. But you won’t know which is which until you try to talk with it.
 
-Motive: To stave off boredom by playing tricks, traveling, stirring up trouble, and helping others
+**Motive:** To stave off boredom by playing tricks, traveling, stirring up trouble, and helping others
 
-Environment: Anywhere she wants to be 
+**Environment:** Anywhere she wants to be 
 
-Health: 40
+**Health:** 40
 
-Damage Inflicted: 6 points
+**Damage Inflicted:** 6 points
 
-Movement: Very long
+**Movement:** Very long
 
-Modifications: Speed defense as level 10; sees through and resists trickery, lies, deceit, and intimidation as level 10
+**Modifications:** Speed defense as level 10; sees through and resists trickery, lies, deceit, and intimidation as level 10
 
-Combat: Inflicts 6 points of damage to every creature and object she chooses within a very long distance, and knocks them prone.
+**Combat:** Inflicts 6 points of damage to every creature and object she chooses within a very long distance, and knocks them prone.
 
-Interaction: Some say the West Wind is cold, but she’s really just an introvert and prefers to spend most of her time traveling alone. However, she’s actually very warm hearted and is likely to help those in need. She does not respond well to trickery, traps, or attempts to force her hand (unless they’re terribly clever or smart, and then she admits grudging respect for the perpetrators).
+**Interaction:** Some say the West Wind is cold, but she’s really just an introvert and prefers to spend most of her time traveling alone. However, she’s actually very warm hearted and is likely to help those in need. She does not respond well to trickery, traps, or attempts to force her hand (unless they’re terribly clever or smart, and then she admits grudging respect for the perpetrators).
 
-Use: The characters need the West Wind’s help to travel somewhere, knock something down, or retrieve something from a hidden place. Someone needs an elegant date to a royal ball or a fairy festival.
+**Use:** The characters need the West Wind’s help to travel somewhere, knock something down, or retrieve something from a hidden place. Someone needs an elegant date to a royal ball or a fairy festival.
 
-Loot: Sometimes the West Wind picks up interesting things on her travels. She may gift allies these items, including cyphers, artifacts, and even creatures.
+**Loot:** Sometimes the West Wind picks up interesting things on her travels. She may gift allies these items, including cyphers, artifacts, and even creatures.
 
-GM intrusion: The West Wind lifts a character high in the air and threatens to let them fall.
+**GM intrusion:** The West Wind lifts a character high in the air and threatens to let them fall.
 
-Wind Children 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Wind Children <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 The children of the wind cannot be measured in known numbers, for they are here and there and everywhere. They are not born, so much as borne, by weather patterns, wishes, and wants. Dust devils, gales, and zephyrs are all wind children.
 
-Motive: See everything, know everything
+**Motive:** See everything, know everything
 
-Environment: Everywhere there is weather, real or magic-made 
+**Environment:** Everywhere there is weather, real or magic-made 
 
-Health: 12
+**Health:** 12
 
-Damage Inflicted: 4 points
+**Damage Inflicted:** 4 points
 
-Movement: Long
+**Movement:** Long
 
-Combat: Inflicts 4 points of damage with an exhale. Alternatively, can knock a character prone for one round.
+**Combat:** Inflicts 4 points of damage with an exhale. Alternatively, can knock a character prone for one round.
 
-Interaction: Interacting with wind children is a bit like interacting with a group of mischievous, precocious, and spoiled kids. However, they know many things, having been all over the world, and will often share what they know in exchange for new secrets or knowledge.
+**Interaction:** Interacting with wind children is a bit like interacting with a group of mischievous, precocious, and spoiled kids. However, they know many things, having been all over the world, and will often share what they know in exchange for new secrets or knowledge.
 
-Use: One of the PCs seeks information about a person, place, or thing. The characters need a surreptitious spy to gather information for them.
+**Use:** One of the PCs seeks information about a person, place, or thing. The characters need a surreptitious spy to gather information for them.
 
-Loot: Information, secrets, and possibly a cypher or two picked up during their travels.
+**Loot:** Information, secrets, and possibly a cypher or two picked up during their travels.
 
-GM intrusion: The wind children grab something precious from one of the characters and start to play a game of “keep away” with it.
+**GM intrusion:** The wind children grab something precious from one of the characters and start to play a game of “keep away” with it.
 
-Witch 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Witch <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Witches are complex beings of myriad personalities, desires, and abilities. Sometimes they’re the stuff of nightmares, with tales of their exploits keeping children safe in their beds during the darkest hours. Other times they’re wise helpers—at least for a little
 
 while, or possibly for a price. Often, they’re a little of everything, taking on no end of roles throughout their lifetime. They may isolate themselves deep in the dark woods, falsify their way into a royal family, or reside in the middle of town, hiding their identity.
@@ -14164,13 +13963,13 @@ But one thing they are, always, is dangerous, for they carry within their hearts
 
 forest, in civilization as healers, or having infiltrated royal families 
 
-Health: 21
+**Health:** 21
 
-Damage Inflicted: 5 points
+**Damage Inflicted:** 5 points
 
-Movement: Short; long if flying
+**Movement:** Short; long if flying
 
-Combat: In addition to inflicting damage with their weapon of choice (often a staff or long,
+**Combat:** In addition to inflicting damage with their weapon of choice (often a staff or long,
 
 curved blade), witches can curse their enemies.
 
@@ -14196,14 +13995,13 @@ Seduce: Creatures within short range who fail an Intellect defense roll become e
 
 Additional abilities: Witches might also have access to the witch abilities in the Cypher System Rulebook. These are charm, hexbolt, shrivel, and vitality. Some witches might have other magical abilities similar to those of enchanters.
 
-GM intrusions: The witch’s familiar joins the fray, tripping up characters and hindering their actions.
+**GM intrusions:** The witch’s familiar joins the fray, tripping up characters and hindering their actions.
 
 > Something startles the witch and they cast a curse or spell as an automatic response. The witch pulls out an artifact or cypher and prepares to use it.
 
 ## WITCHES OF THE WORLD
 
-Baba Yaga 9 (27)
-
+{{< hint danger >}} {{< columns2 >}} Baba Yaga <---> 9 (27) {{< /columns2 >}}{{< /hint >}}
 Baba Yaga (sometimes called Frau Trude) lives many lives and has many personalities. She is both one witch and many. She uses her magic to create a new version of herself each time her
 
 life takes a new branch, following all of them at once, becoming every version of herself that she might have been.
@@ -14214,469 +14012,452 @@ in the woods in a wooden hut that walks around on giant chicken legs, some
 
 fly through the sky in a giant mortar and pestle, and some guard any wild spaces that they have deemed important. Some capture and cook young children in a special stove. Some do all of the above.
 
-Combat: Baba Yaga can use the following abilities: heal, hexbolt, imprison, protect, revive, shrivel, and vitality.
+**Combat:** Baba Yaga can use the following abilities: heal, hexbolt, imprison, protect, revive, shrivel, and vitality.
 
-Interaction: It is almost impossible to know which Baba Yaga you have met until you look deep in her eyes (a level 7 Intellect task). There, you might see a tiny flame, and in that flame, learn a bit about her life.
+**Interaction:** It is almost impossible to know which Baba Yaga you have met until you look deep in her eyes (a level 7 Intellect task). There, you might see a tiny flame, and in that flame, learn a bit about her life.
 
-Use: Baba Yaga has her long, bony fingers in nearly everything that happens. She might be behind the counter at the herb and potion shop, guarding the entrance to a cave full of treasure, or offering her services in breaking (or casting) curses.
+**Use:** Baba Yaga has her long, bony fingers in nearly everything that happens. She might be behind the counter at the herb and potion shop, guarding the entrance to a cave full of treasure, or offering her services in breaking (or casting) curses.
 
-Loot: 1d6 cyphers, an artifact, and various other odds and ends
+**Loot:** 1d6 cyphers, an artifact, and various other odds and ends
 
-The Blind Witch 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} The Blind Witch <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 The Blind Witch is skinny and always hungry. She lives deep in the forest in a house made of confectionery, which allows her to catch, fatten, and eventually eat any children unlucky enough to get caught in her trap.
 
-Modifications: Cooking as level 6, deception and trickery as level 7, seeing through
+**Modifications:** Cooking as level 6, deception and trickery as level 7, seeing through
 
 deception and trickery as level 4
 
-Combat: She can use the following abilities: charm, protect, and vitality. She is immune to visual effects, including hallucinations.
+**Combat:** She can use the following abilities: charm, protect, and vitality. She is immune to visual effects, including hallucinations.
 
-Interaction: The Blind Witch can appear sweet and charming, and might play up her blindness and apparent frailty for sympathy.
+**Interaction:** The Blind Witch can appear sweet and charming, and might play up her blindness and apparent frailty for sympathy.
 
-Use: Characters wandering the woods might come upon a candy house, and woe to them
+**Use:** Characters wandering the woods might come upon a candy house, and woe to them
 
 should they take a bite. A rescue mission could lead here.
 
-Loot: She usually has at least one magical animal in a cage, along with various children and
+**Loot:** She usually has at least one magical animal in a cage, along with various children and
 
 even adults. Two or three cyphers can be found in her kitchen, along with her magic oven, which bakes children into gingerbread.
 
-Dame Gothel 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Dame Gothel <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Sometimes taking the form of a young woman and sometimes an old one, Dame Gothel cares for one thing above all: her beautiful walled garden, the flowers and vegetables that grow inside it being the envy of all others. Unlike many other witches, she does not harm children and in fact has been known to protect them, at least as long as they are innocent of wrongdoing.
 
-Modifications: Gardening and potions as level 6
+**Modifications:** Gardening and potions as level 6
 
-Combat: She can use the following abilities: heal, imprison, protect, and shrivel. 
+**Combat:** She can use the following abilities: heal, imprison, protect, and shrivel. 
 
-Interaction: Dame Gothel is an introvert who mostly desires to be left alone, and woe be
+**Interaction:** Dame Gothel is an introvert who mostly desires to be left alone, and woe be
 
 to those who invade her space in any way, for she has a deep sense of right and wrong and a penchant for revenge upon those who cross her. However, she has been known to help those seeking aid, and is particularly skilled in using what she grows in her garden to aid her magic.
 
-Use: The characters need a concoction to heal someone, remove a curse, or help them get pregnant. The characters accidentally trespass on Dame Gothel’s space.
+**Use:** The characters need a concoction to heal someone, remove a curse, or help them get pregnant. The characters accidentally trespass on Dame Gothel’s space.
 
-Loot: Various plants, potions, and cyphers
+**Loot:** Various plants, potions, and cyphers
 
-The Sea Witch 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} The Sea Witch <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Living in the darkest depths of the sea, the Sea Witch is dangerous, wily, persuasive, and scheming. She is best known for brewing up life options—for a price. If you want what she’s got (and she’s got everything), you bring her what she wants. It might be your voice, your hair, or your firstborn. Or all three. Surely you won’t miss them . . .
 
-Modifications: Persuasion, intimidation, coercion, and swimming as level 8
+**Modifications:** Persuasion, intimidation, coercion, and swimming as level 8
 
-Combat: She can use the following abilities: charm, familiar (water snakes), glamour, imprison, protect, seduce, and shrivel.
+**Combat:** She can use the following abilities: charm, familiar (water snakes), glamour, imprison, protect, seduce, and shrivel.
 
-Interaction: The Sea Witch will always make a bargain, take a bet, gamble all she’s got on
+**Interaction:** The Sea Witch will always make a bargain, take a bet, gamble all she’s got on
 
 the downtrodden and woe-be-gotten. Not because her heart is big, but because she makes sure that the house—that’s her—always wins.
 
-Use: The characters need a potion, a spell, a curse, or any other bit of magic, large or
+**Use:** The characters need a potion, a spell, a curse, or any other bit of magic, large or
 
 small, and the Sea Witch will find a way to put it in their hands and let them walk away
 
 thinking they’ve come out ahead. At least until she comes to collect.
 
-Loot: A chest full of gifts and winnings from lovers, fawners, and those who should have known better, including 1d6 cyphers and two artifacts.
+**Loot:** A chest full of gifts and winnings from lovers, fawners, and those who should have known better, including 1d6 cyphers and two artifacts.
 
-The Wicked Witch of the West 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} The Wicked Witch Of The West <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 With her three pigtails and diminutive stature, it would be easy to write off the Wicked Witch of the West as a nobody—and many have—but her power lies in the creatures that work for her and in her vast and growing collection of magical footwear.
 
 She can see up to 2 miles (3 km) away with her single eye, and wears galoshes that give her +2 Armor against water and liquid of all kinds.
 
-Modifications: Tasks involving water and the dark as level 3
+**Modifications:** Tasks involving water and the dark as level 3
 
-Combat: She carries an umbrella that acts as a heavy weapon, and she can use the following abilities: familiar (pack of wolves, swarm of bees, flock of crows, and an army
+**Combat:** She carries an umbrella that acts as a heavy weapon, and she can use the following abilities: familiar (pack of wolves, swarm of bees, flock of crows, and an army
 
 of flying monkeys), hexbolt, imprison, protect, and shrivel.
 
-Interaction: She is volatile in nature and quick to anger. However, she can also be a bit cowardly, and will likely back down in a confrontation (only to send her hordes of magical animals out afterward to do her dirty work).
+**Interaction:** She is volatile in nature and quick to anger. However, she can also be a bit cowardly, and will likely back down in a confrontation (only to send her hordes of magical animals out afterward to do her dirty work).
 
-Use: The characters need to find galoshes of fortune and decide to steal a pair from the Wicked Witch of the West. Perhaps they need to make it through the land she presides over and must find a way to get her approval.
+**Use:** The characters need to find galoshes of fortune and decide to steal a pair from the Wicked Witch of the West. Perhaps they need to make it through the land she presides over and must find a way to get her approval.
 
-Loot: Whatever shoes she’s wearing (which are very likely an artifact).
+**Loot:** Whatever shoes she’s wearing (which are very likely an artifact).
 
 ## NPCS
 
-MODERN MAGIC NPCs
+### Modern Magic Npcs
 
-CHANGELING 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Changeling <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Fey creatures sometimes kidnap a human child and leave a changeling in its place, tricking the human parents into raising an inhuman creature as their own offspring. The changeling has a foot in two worlds, living as a spy or sleeper agent for the fey, but thoroughly enjoying their life among humans.
 
-Motive: Serving the fey; finding their place in the world
+**Motive:** Serving the fey; finding their place in the world
 
-Health: 9
+**Health:** 9
 
-Damage Inflicted: 3 points
+**Damage Inflicted:** 3 points
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Might defense as level 2; deception, disguise, and stealth as level 4
+**Modifications:** Might defense as level 2; deception, disguise, and stealth as level 4
 
-Combat: Changelings use human weapons.
+**Combat:** Changelings use human weapons.
 
 A changeling can use an action to alter their appearance for a minute or so to match that of someone they’ve seen. This is a reasonable likeness, although they may not know their target’s mannerisms, accent, and other nonphysical qualities.
 
 Some changelings are vulnerable to iron, taking an extra 1 point of damage from any iron or steel weapon.
 
-Interaction: Changelings aren’t inherently untruthful or untrustworthy, but sometimes they can’t help but embellish a fact or take advantage of a situation. They otherwise act like regular people, but spending enough time with them usually reveals an odd quirk or attitude.
+**Interaction:** Changelings aren’t inherently untruthful or untrustworthy, but sometimes they can’t help but embellish a fact or take advantage of a situation. They otherwise act like regular people, but spending enough time with them usually reveals an odd quirk or attitude.
 
-Use: An acquaintance is having trouble at home (because their family realized they’re a changeling). Someone suspects a family member is actually a changeling.
+**Use:** An acquaintance is having trouble at home (because their family realized they’re a changeling). Someone suspects a family member is actually a changeling.
 
-Loot: Changelings have the same kinds of personal items that humans do, but they often have a token or other treasured thing that doesn’t quite belong (and might secretly be a cypher or artifact).
+**Loot:** Changelings have the same kinds of personal items that humans do, but they often have a token or other treasured thing that doesn’t quite belong (and might secretly be a cypher or artifact).
 
-CORPORATE MAGE 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Corporate Mage <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 A corporate mage is a professional spellcaster working for a company, using their magic to fix problems. They have a similar role as enforcers, lawyers, corporate spies, and researchers, doing what needs to be done so the company’s interests are protected. They’re paid well, dress to show it, and aren’t above unethical (or even illegal) acts to get the job done. They work alone, in pairs, or with a lawyer and a few bodyguards.
 
-Lawyer: level 2, law and intimidation as level 4
+**Lawyer:** level 2, law and intimidation as level 4
 
-Bodyguard: level 2; Armor 1; short-range pistol inflicts 4 damage
+**Bodyguard:** level 2; Armor 1; short-range pistol inflicts 4 damage
 
 Stats for a corporate mage also work well for paranormal law enforcement NPCs, such as the police or FBI.
 
-Motive: Accomplish the goals of their employer
+**Motive:** Accomplish the goals of their employer
 
-Health: 12
+**Health:** 12
 
-Damage Inflicted: 4 points
+**Damage Inflicted:** 4 points
 
-Armor: 1 (from spell)
+**Armor:** 1 (from spell)
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Intellect defense as level 5
+**Modifications:** Intellect defense as level 5
 
-Combat: Corporate mages are trained to handle normal people and magic threats, and they usually attack with a short-range blast of cold, fire, force, or electricity. Some carry a concealed handgun for situations where magic isn’t allowed or effective.
+**Combat:** Corporate mages are trained to handle normal people and magic threats, and they usually attack with a short-range blast of cold, fire, force, or electricity. Some carry a concealed handgun for situations where magic isn’t allowed or effective.
 
 A corporate mage knows quite a few spells, including knocking a person unconscious for a few minutes, turning invisible for a few minutes, temporarily befriending a reluctant person, creating an illusory disguise of a nondescript role (such as construction worker or technician), granting themselves +1 Armor, reading minds, and teleporting back to headquarters. Many of them have some training in law, espionage, governmental operations, or a scientific field.
 
-Interaction: Corporate mages are hard and intimidating. If they can get what they want without using magic, they’ll do so, but they aren’t afraid to make a demonstration of supernatural force when necessary.
+**Interaction:** Corporate mages are hard and intimidating. If they can get what they want without using magic, they’ll do so, but they aren’t afraid to make a demonstration of supernatural force when necessary.
 
-Use: Corporate mages do the dirty work of sketchy businesses. They’re not here to make friends, and they know just how far to push someone (especially a powerless person) to get what they want, sometimes by bending (but not quite breaking) the law.
+**Use:** Corporate mages do the dirty work of sketchy businesses. They’re not here to make friends, and they know just how far to push someone (especially a powerless person) to get what they want, sometimes by bending (but not quite breaking) the law.
 
-Loot: A corporate mage usually has a cypher that’s helpful for their current assignment, plus the cash equivalent of one or two expensive items.
+**Loot:** A corporate mage usually has a cypher that’s helpful for their current assignment, plus the cash equivalent of one or two expensive items.
 
-DEMON HUNTER 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Demon Hunter <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 In a world where demons, witches, and other evil magical creatures are free to prey upon humanity, hunters are one of the few things that keep them in check. They usually have to keep their work secret and are slow to trust anyone, but once befriended they have a habit of showing up just when help is needed.
 
 Depending on the setting, a demon hunter might hunt demons, vampires, witches, or all supernatural creatures.
 
 > Exceptional hunter: level 5; attacks and Intellect defense as level 6; perception, tracking, and creature lore as level 7; health 20; attacks deal 6 damage
 
-Motive: Hunt down and defeat their chosen foes
+**Motive:** Hunt down and defeat their chosen foes
 
-Health: 12
+**Health:** 12
 
-Damage Inflicted: 4 points
+**Damage Inflicted:** 4 points
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Attacks and Intellect defense as level 4; perception, tracking, and creature lore as level 5
+**Modifications:** Attacks and Intellect defense as level 4; perception, tracking, and creature lore as level 5
 
-Combat: A typical hunter is weaker than the average demon or witch, and prefers to outwit their foes rather than engage in a straight-up fight. Knowing this, they pick their battles carefully and use ambush tactics and strength of numbers—either another hunter or several support characters such as priests and soldiers—to help defeat their foes. A hunter usually has a good idea of their opponent’s strengths and weaknesses, and they plan and react accordingly.
+**Combat:** A typical hunter is weaker than the average demon or witch, and prefers to outwit their foes rather than engage in a straight-up fight. Knowing this, they pick their battles carefully and use ambush tactics and strength of numbers—either another hunter or several support characters such as priests and soldiers—to help defeat their foes. A hunter usually has a good idea of their opponent’s strengths and weaknesses, and they plan and react accordingly.
 
-Interaction: Many novice hunters are overconfident and condescending. Others (especially the more experienced ones) are paranoid and hardened by battle and the deaths of too many friends. They react positively if given respect.
+**Interaction:** Many novice hunters are overconfident and condescending. Others (especially the more experienced ones) are paranoid and hardened by battle and the deaths of too many friends. They react positively if given respect.
 
-Use: A couple of rough-looking drifters arrive in a classic car, looking for trouble. Someone who seems to be a meek professor turns out to secretly be a hunter.
+**Use:** A couple of rough-looking drifters arrive in a classic car, looking for trouble. Someone who seems to be a meek professor turns out to secretly be a hunter.
 
-Loot: Hunters carry equipment needed for their job, cash, and perhaps an old book (cypher) with an ability relevant to their current prey.
+**Loot:** Hunters carry equipment needed for their job, cash, and perhaps an old book (cypher) with an ability relevant to their current prey.
 
-Priest: level 2, religious lore and all interaction tasks as level 6
+**Priest:** level 2, religious lore and all interaction tasks as level 6
 
-Soldier: level 3, perception as level 4; health 12; Armor 1; attacks inflict 5 damage
+**Soldier:** level 3, perception as level 4; health 12; Armor 1; attacks inflict 5 damage
 
-PHARMACEUTICAL SORCERER 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Pharmaceutical Sorcerer <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 A pharmaceutical sorcerer is an apothecary, doctor, dentist, magical healer, counselor, surgeon, and nutritionist all in one. They have devoted themselves to the art and science of healing, using a combination of methods to achieve remarkable success. Some work in drugstores, some have their own specialized businesses, and some administer aid from their homes or a public clinic. They might wear medical scrubs or a white coat over normal clothing.
 
-Assistant: level 2, healing as level 3
+**Assistant:** level 2, healing as level 3
 
-Motive: Healing and promoting good health
+**Motive:** Healing and promoting good health
 
-Health: 9
+**Health:** 9
 
-Damage Inflicted: 3 points
+**Damage Inflicted:** 3 points
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Medicine, herbs, and healing as level 5
+**Modifications:** Medicine, herbs, and healing as level 5
 
-Combat: Pharmaceutical sorcerers prefer to avoid combat, but they can attack with short-range nonlethal spells or drugs that inflict 4 points of Might or Intellect damage (ignores Armor).
+**Combat:** Pharmaceutical sorcerers prefer to avoid combat, but they can attack with short-range nonlethal spells or drugs that inflict 4 points of Might or Intellect damage (ignores Armor).
 
 A pharmaceutical sorcerer knows several spells, such as healing a touched creature for 4 health or Pool points, identifying diseases and afflictions, removing or ameliorating afflictions and chronic conditions for a day, or making a patient feel relaxed and safe for a few hours. They’re usually licensed and trained to perform minor medical procedures such as administering vaccines, applying topical medicines, and splinting broken bones.
 
 A pharmaceutical sorcerer often has one or more assistants, protégés, or students who help with clients or other aspects of running their health practice. They are generally on good terms with doctors, licensed therapists, nurses, magic-using priests, and other professionals in the health field.
 
-Interaction: Pharmaceutical sorcerers are compassionate, intelligent, and well-informed. They want to help people, but sometimes are stymied by paperwork, laws, and lack of money.
+**Interaction:** Pharmaceutical sorcerers are compassionate, intelligent, and well-informed. They want to help people, but sometimes are stymied by paperwork, laws, and lack of money.
 
-Use: Pharmaceutical sorcerers are usually support characters using their magic to heal others and prevent harm. Their extensive knowledge of helpful magic, medicinal herbs, and health science makes them useful for diagnosing strange symptoms and ruling out minor afflictions to find the real cause of a problem.
+**Use:** Pharmaceutical sorcerers are usually support characters using their magic to heal others and prevent harm. Their extensive knowledge of helpful magic, medicinal herbs, and health science makes them useful for diagnosing strange symptoms and ruling out minor afflictions to find the real cause of a problem.
 
-Loot: In addition to standard medicines, handheld medical tools, and herbs and drugs, the sorcerer might have a healing cypher or some interesting payment from a patient.
+**Loot:** In addition to standard medicines, handheld medical tools, and herbs and drugs, the sorcerer might have a healing cypher or some interesting payment from a patient.
 
-FANTASY NPCs
+### Fantasy Npcs
 
-BARD 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Bard <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 A bard uses the power of words and music to create magic that inspires and influences others. A typical bard plays a musical instrument and weaves song-spells that rival the magic of wizards and priests, but some use their voices, creating fascinating tales and dramatic speeches. 
 
-Motive: Entertainment, interaction, and novel experiences 
+**Motive:** Entertainment, interaction, and novel experiences 
 
-Health: 10 
+**Health:** 10 
 
-Damage Inflicted: 3 points 
+**Damage Inflicted:** 3 points 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: Music, oration, persuasion, stealth, and Speed defense as level 4 
+**Modifications:** Music, oration, persuasion, stealth, and Speed defense as level 4 
 
-Combat: Bards prefer weapons that rely on speed and agility, like daggers, rapiers, and small bows. Every other round, a bard can create a blast of pure sound that inflicts 3 points of damage (ignores Armor) to one target within short range. 
+**Combat:** Bards prefer weapons that rely on speed and agility, like daggers, rapiers, and small bows. Every other round, a bard can create a blast of pure sound that inflicts 3 points of damage (ignores Armor) to one target within short range. 
 
 A bard knows several spells, such as adding +1 to recovery rolls of nearby creatures, making an indifferent creature friendly (or a hostile one indifferent) for a few minutes, deafening one opponent for hours, easing a physical task by two steps, turning invisible for a minute, or negating sound for a minute. 
 
-Interaction: Bards are personable and easy to talk to, but they have a sharp wit and a sharper tongue when it comes to critics and tyrants. A bard would rather escape from a dangerous situation than fight to the death. 
+**Interaction:** Bards are personable and easy to talk to, but they have a sharp wit and a sharper tongue when it comes to critics and tyrants. A bard would rather escape from a dangerous situation than fight to the death. 
 
-Use: A bard ally often has useful information about the current situation, drawn from songs and folk tales. In a pinch, they can make do as a scout or spy, especially in an urban setting. An unfriendly bard mocks the characters and turns the will of a crowd against them. 
+**Use:** A bard ally often has useful information about the current situation, drawn from songs and folk tales. In a pinch, they can make do as a scout or spy, especially in an urban setting. An unfriendly bard mocks the characters and turns the will of a crowd against them. 
 
-Loot: In addition to a musical instrument and a nice outfit for performing, bards usually have currency equivalent to a moderately priced item and one or two cyphers.
+**Loot:** In addition to a musical instrument and a nice outfit for performing, bards usually have currency equivalent to a moderately priced item and one or two cyphers.
 
-BERSERKER 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Berserker <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 A berserker is a fierce warrior who can fly into a rage, greatly increasing their strength and hardiness. Many of them choose an animal such as a bear, wolf, or boar as their spiritual kin, wearing the skin of that animal and fighting like wild beasts. 
 
-Motive: Glory in battle 
+**Motive:** Glory in battle 
 
-Health: 12 
+**Health:** 12 
 
-Damage Inflicted: 4 points 
+**Damage Inflicted:** 4 points 
 
-Armor: 1 (or 3 when berserk) 
+**Armor:** 1 (or 3 when berserk) 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: Climbing, jumping, running, and Speed defense as level 4 
+**Modifications:** Climbing, jumping, running, and Speed defense as level 4 
 
-Combat: Berserkers prefer large, heavy weapons such as axes, hammers, and greatswords, but they may use bows if they can’t easily get close to their foes. 
+**Combat:** Berserkers prefer large, heavy weapons such as axes, hammers, and greatswords, but they may use bows if they can’t easily get close to their foes. 
 
 A berserker can enter a state of rage as part of their action. When raging, they gain +1 to Armor (including against fire), their melee attacks inflict an additional 2 points of damage, and their attacks, Might defense, and actions relying on strength (such as climbing and jumping) are eased by two steps. However, their Speed defense is hindered. A raging berserker fights only with melee weapons and won’t retreat from battle.
 
- Interaction: Berserkers are the elites of some warrior cultures and enjoy physical competitions such as wrestling, throwing heavy items, and feasting. They dislike weak and cowardly folk, and do not tolerate insults to their strength or honor. 
+ **Interaction:** Berserkers are the elites of some warrior cultures and enjoy physical competitions such as wrestling, throwing heavy items, and feasting. They dislike weak and cowardly folk, and do not tolerate insults to their strength or honor. 
 
-Use: A group of warriors is led by a mighty berserker looking for a challenging fight. A group of berserkers enters town and picks fights with the local toughs. 
+**Use:** A group of warriors is led by a mighty berserker looking for a challenging fight. A group of berserkers enters town and picks fights with the local toughs. 
 
-Loot: In addition to their weapons and light armor, a berserker has one or two moderately priced items. The leader of a group might have a cypher that enhances strength or toughness.
+**Loot:** In addition to their weapons and light armor, a berserker has one or two moderately priced items. The leader of a group might have a cypher that enhances strength or toughness.
 
-DRUID 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Druid <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 A druid is a servant of a nature deity or the entirety of nature itself. Some have specific interests such as animals, plants, or storms, with greater powers relating to that devotion. Druids are leaders and advisors in some cultures, society-hating hermits in others. 
 
-Motive: Protecting nature 
+**Motive:** Protecting nature 
 
-Health: 12 
+**Health:** 12 
 
-Damage Inflicted: 4 points 
+**Damage Inflicted:** 4 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: Nature lore, perception, and stealth as level 5 
+**Modifications:** Nature lore, perception, and stealth as level 5 
 
-Combat: Druids use simple weapons crafted out of natural materials, such as spears, slings, and bows, as well as ritual tools such as daggers and sickles. 
+**Combat:** Druids use simple weapons crafted out of natural materials, such as spears, slings, and bows, as well as ritual tools such as daggers and sickles. 
 
 A druid knows several spells, such as a short-range attack that uses electricity or fire, healing a touched creature for 4 health, calming and befriending animals, traveling quickly, controlling the weather within long range, transforming into an animal or plant, and manipulating the natural elements. A druid often has a loyal animal companion, such as a black bear, hawk, viper, or wolf. 
 
-Interaction: Druids are cautious when dealing with city folk, and they act quickly to stop the reckless use of fire or exploitation of the wilds. They are generally on good terms with local animals and magical creatures of nature (faeries, sapient trees, satyrs, and so on). 
+**Interaction:** Druids are cautious when dealing with city folk, and they act quickly to stop the reckless use of fire or exploitation of the wilds. They are generally on good terms with local animals and magical creatures of nature (faeries, sapient trees, satyrs, and so on). 
 
-Use: A hermit druid comes to the aid of injured or lost characters in the wildlands. A druid has been attacking loggers and hunters who stray too far from civilization. 
+**Use:** A hermit druid comes to the aid of injured or lost characters in the wildlands. A druid has been attacking loggers and hunters who stray too far from civilization. 
 
-Loot: In addition to weapons, light armor, and some moderately priced ritual items, a druid might have a couple of cyphers or perhaps an artifact.
+**Loot:** In addition to weapons, light armor, and some moderately priced ritual items, a druid might have a couple of cyphers or perhaps an artifact.
 
 DWARF 4(12)
 
 A typical dwarf found outside of their homeland is an explorer, warrior, and tradesperson of some skill. Dwarves travel to find work as mercenaries, sell the goods they create, or find unusual materials to use in their crafting. 
 
-Motive: Defense, loyalty, honor 
+**Motive:** Defense, loyalty, honor 
 
-Health: 15 
+**Health:** 15 
 
-Damage Inflicted: 5 points 
+**Damage Inflicted:** 5 points 
 
-Armor: 2 
+**Armor:** 2 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: Crafting (metal or stone), Intellect defense, and Might defense as level 5 
+**Modifications:** Crafting (metal or stone), Intellect defense, and Might defense as level 5 
 
-Combat: Dwarves traditionally use weapons like axes, hammers, and crossbows. They’re used to working together to defend their halls; three or more dwarves attacking the same target act as a level 6 creature that inflicts 8 points of damage. 
+**Combat:** Dwarves traditionally use weapons like axes, hammers, and crossbows. They’re used to working together to defend their halls; three or more dwarves attacking the same target act as a level 6 creature that inflicts 8 points of damage. 
 
 Dwarf leaders are usually officers or priests.
 
- Interaction: Dwarves are proud and hardworking, but they tend to be stubborn, gruff, and unforgiving of offenses to them or their clan. It takes time to gain their trust, but they respect a fair deal, a hard bargain, a sharp axe, and a sturdy hammer. 
+ **Interaction:** Dwarves are proud and hardworking, but they tend to be stubborn, gruff, and unforgiving of offenses to them or their clan. It takes time to gain their trust, but they respect a fair deal, a hard bargain, a sharp axe, and a sturdy hammer. 
 
-Use: A stoic old dwarf is looking to go on one more quest before retiring. A clan of dwarves seeks a trade agreement with a human city leader—or redress for an old insult.
+**Use:** A stoic old dwarf is looking to go on one more quest before retiring. A clan of dwarves seeks a trade agreement with a human city leader—or redress for an old insult.
 
-Loot: In addition to their weapons and light or medium armor, a dwarf probably has several moderately priced items (such as tools or exploration gear) and perhaps a cypher or two.
+**Loot:** In addition to their weapons and light or medium armor, a dwarf probably has several moderately priced items (such as tools or exploration gear) and perhaps a cypher or two.
 
-ELF 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Elf <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 An elf has a very long lifespan and tends to learn and abandon many skills and interests, including combat and magic. Elves are likely to wander in pursuit of something new and interesting, such as finding the tallest tree in the forest, the most beautiful sunset, or the perfect love song. 
 
-Motive: Curiosity 
+**Motive:** Curiosity 
 
-Health: 12 
+**Health:** 12 
 
-Damage Inflicted: 5 points 
+**Damage Inflicted:** 5 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: Perception, Speed defense, and any two noncombat skills as level 5 
+**Modifications:** Perception, Speed defense, and any two noncombat skills as level 5 
 
-Combat: Elves usually fight with short or medium blades and delicate but deadly bows. Because of their subtle skill and fast reactions, their first attack in any combat inflicts an additional 2 points of damage. 
+**Combat:** Elves usually fight with short or medium blades and delicate but deadly bows. Because of their subtle skill and fast reactions, their first attack in any combat inflicts an additional 2 points of damage. 
 
 A typical elf might know a few minor spells, such as heating or chilling food, creating a bit of moonlight, and cleaning or repairing clothing.
 
-Interaction: Elves appreciate beauty, grace, and skill, and they don’t respond well to crudeness or bluster, especially from people decades or centuries younger than themselves. They are subtle in their insults but do have a sense of humor. 
+**Interaction:** Elves appreciate beauty, grace, and skill, and they don’t respond well to crudeness or bluster, especially from people decades or centuries younger than themselves. They are subtle in their insults but do have a sense of humor. 
 
-Use: A group of young elves arrives in a city, wanting to see firsthand how the short-lived humans do things. An elf is said to have lived in the forest for a thousand years, listening to the secrets whispered by the trees.
+**Use:** A group of young elves arrives in a city, wanting to see firsthand how the short-lived humans do things. An elf is said to have lived in the forest for a thousand years, listening to the secrets whispered by the trees.
 
-Loot: In addition to their weapons and light armor, an elf carries a few moderately priced (but extremely well-made) curios and mementos, and usually a cypher.
+**Loot:** In addition to their weapons and light armor, an elf carries a few moderately priced (but extremely well-made) curios and mementos, and usually a cypher.
 
-HALFLING 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Halfling <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 A halfling is fond of the comforts of home, but adventures and exploration are the fodder of great stories told over tea or dinner, or in a fireside chat. Quick, resourceful, and easy to get along with, halflings fit right in with brave big folk as scouts, burglars, and loyal companions. 
 
-Motive: Defense, comfort 
+**Motive:** Defense, comfort 
 
-Health: 9 
+**Health:** 9 
 
-Damage Inflicted: 3 points 
+**Damage Inflicted:** 3 points 
 
-Armor: 0 or 1 
+**Armor:** 0 or 1 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: Intellect defense, pleasant social interactions, and stealth as level 4 
+**Modifications:** Intellect defense, pleasant social interactions, and stealth as level 4 
 
-Combat: Halflings are remarkably skilled with knives, clubs, slings, and small bows. They prefer not to fight larger creatures head on; instead they stay at range, plan ambushes to quickly overwhelm opponents, or team up with a larger ally so they can attack a foe’s back and legs.
+**Combat:** Halflings are remarkably skilled with knives, clubs, slings, and small bows. They prefer not to fight larger creatures head on; instead they stay at range, plan ambushes to quickly overwhelm opponents, or team up with a larger ally so they can attack a foe’s back and legs.
 
-Interaction: Halflings enjoy the company of larger folks as long as they aren’t mocked for their size. They’re brave and determined when they need to be, though some might complain about wanting to go home. 
+**Interaction:** Halflings enjoy the company of larger folks as long as they aren’t mocked for their size. They’re brave and determined when they need to be, though some might complain about wanting to go home. 
 
-Use: A young halfling wants to have some adventures before settling down. The local thieves’ guild is said to employ halflings as lookouts and cutpurses, sometimes disguised as human children. 
+**Use:** A young halfling wants to have some adventures before settling down. The local thieves’ guild is said to employ halflings as lookouts and cutpurses, sometimes disguised as human children. 
 
-Loot: In addition to their weapons (and perhaps some light armor) and food, a halfling might have an interesting cypher or two. Most carry several useful moderately priced items, or an expensive item such as an heirloom snuff box or a nice bag of tools.
+**Loot:** In addition to their weapons (and perhaps some light armor) and food, a halfling might have an interesting cypher or two. Most carry several useful moderately priced items, or an expensive item such as an heirloom snuff box or a nice bag of tools.
 
-PALADIN 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Paladin <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Paladins are heroes who swear a holy oath to vanquish evil. Their power and righteousness are a gift and a heavy burden, and most of them expect to die in battle against an evil foe. 
 
-Motive: Protecting the innocent, destroying evil 
+**Motive:** Protecting the innocent, destroying evil 
 
-Health: 15 
+**Health:** 15 
 
-Damage Inflicted: 5 points 
+**Damage Inflicted:** 5 points 
 
-Armor: 2 or 3 
+**Armor:** 2 or 3 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: Attacks and Might defense as level 5 
+**Modifications:** Attacks and Might defense as level 5 
 
-Combat: Paladins like flashy weapons and shiny armor, which help them show their devotion to the ideals of goodness and draw the attention of evil foes. Many choose a two-handed weapon, but some prefer using a shield in their off hand (defense-oriented paladins like these inflict only 4 points of damage with their attacks but gain an asset on Speed defense). 
+**Combat:** Paladins like flashy weapons and shiny armor, which help them show their devotion to the ideals of goodness and draw the attention of evil foes. Many choose a two-handed weapon, but some prefer using a shield in their off hand (defense-oriented paladins like these inflict only 4 points of damage with their attacks but gain an asset on Speed defense). 
 
 Blessed by the powers of good, paladins can draw on innate holy magic for several purposes, such as detecting the presence of supernatural evil (demons, evil dragons, undead, and so on), restoring 4 health to themselves or a touched creature, smiting an evil foe to inflict an additional 4 points of damage, or breaking free of mind control. 
 
-Interaction: Paladins have big personalities and strongly believe in their purpose and goals. They have no tolerance for evil acts and are unwilling to look the other way when their allies want to bend the rules or take advantage of a “grey area.” However, they are not fools and won’t throw away their lives for nothing. 
+**Interaction:** Paladins have big personalities and strongly believe in their purpose and goals. They have no tolerance for evil acts and are unwilling to look the other way when their allies want to bend the rules or take advantage of a “grey area.” However, they are not fools and won’t throw away their lives for nothing. 
 
-Use: A paladin lays claim to a foe the characters are seeking or have captured. An old paladin is looking for one last villain to smite. 
+**Use:** A paladin lays claim to a foe the characters are seeking or have captured. An old paladin is looking for one last villain to smite. 
 
-Loot: In addition to their weapons and armor, paladins might have one or two cyphers. More experienced ones might be lucky enough to have an artifact (usually a weapon or armor).
+**Loot:** In addition to their weapons and armor, paladins might have one or two cyphers. More experienced ones might be lucky enough to have an artifact (usually a weapon or armor).
 
-THIEF 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Thief <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 A thief takes things that don’t belong to them—preferably with their victim remaining unaware of the crime until the thief is safely away. Burglars and pickpockets are the most common sort, but ambitious thieves are known to plan elaborate heists to steal priceless items from prominent targets. 
 
-Motive: Greed, curiosity, risk 
+**Motive:** Greed, curiosity, risk 
 
-Health: 12 
+**Health:** 12 
 
-Damage Inflicted: 4 points 
+**Damage Inflicted:** 4 points 
 
-Armor: 1 
+**Armor:** 1 
 
-Movement: Short 
+**Movement:** Short 
 
-Modifications: Balancing, climbing, perception, pickpocketing, and stealth as level 5 
+**Modifications:** Balancing, climbing, perception, pickpocketing, and stealth as level 5 
 
-Combat: Thieves prefer small concealable weapons—knives, batons, and so on—so they can quickly make themselves look like an innocent bystander. Their goal is to escape, not kill, so they often rely on tricks like caltrops, spilled oil, and smoke pellets to distract or delay foes and give themselves an opportunity to get away. They aren’t above using poison, typically a sleep poison that knocks out a foe for ten minutes on a failed Might defense task.
+**Combat:** Thieves prefer small concealable weapons—knives, batons, and so on—so they can quickly make themselves look like an innocent bystander. Their goal is to escape, not kill, so they often rely on tricks like caltrops, spilled oil, and smoke pellets to distract or delay foes and give themselves an opportunity to get away. They aren’t above using poison, typically a sleep poison that knocks out a foe for ten minutes on a failed Might defense task.
 
- Interaction: Thieves run a broad range of personalities—nervous, arrogant, quietly confident, sarcastic, and more. They like to know the risks and rewards of what they’ll be doing, and they don’t like surprises. 
+ **Interaction:** Thieves run a broad range of personalities—nervous, arrogant, quietly confident, sarcastic, and more. They like to know the risks and rewards of what they’ll be doing, and they don’t like surprises. 
 
-Use: A cocky thief steals an item from a character and returns it to prove their skills are up to the task. A gang of pickpockets targets a character’s jewelry or cyphers. 
+**Use:** A cocky thief steals an item from a character and returns it to prove their skills are up to the task. A gang of pickpockets targets a character’s jewelry or cyphers. 
 
-Loot: Thieves usually carry light tools, a few small weapons, miscellaneous equipment for creating a distraction, and a cypher they plan to use or sell.
+**Loot:** Thieves usually carry light tools, a few small weapons, miscellaneous equipment for creating a distraction, and a cypher they plan to use or sell.
 
-HORROR NPCs 
+### Horror Npcs 
 
-Cannibal 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Cannibal <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 A cannibal is someone who has decided that eating other people is not only necessary but desirable. Whether this decision was forced by circumstance or made out of some secret, maladaptive urge, cannibals are dangerous because they hide in plain sight, pretending friendship and aid for strangers until their prey lowers their guard. That’s when a cannibal strikes. Some cannibals like it raw; others delight in elaborate preparations.
 
-Motive: Hungers for human flesh 
+**Motive:** Hungers for human flesh 
 
-Health: 12
+**Health:** 12
 
-Damage Inflicted: 5 points 
+**Damage Inflicted:** 5 points 
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Deception, persuasion, intimidation, and tasks related to friendly interaction as level 6
+**Modifications:** Deception, persuasion, intimidation, and tasks related to friendly interaction as level 6
 
-Combat: Cannibals use whatever weapon is at hand. They usually don’t attack unless they can surprise their prey. When cannibals have surprise, they attack as level 5 creatures and inflict 2 additional points of damage.
+**Combat:** Cannibals use whatever weapon is at hand. They usually don’t attack unless they can surprise their prey. When cannibals have surprise, they attack as level 5 creatures and inflict 2 additional points of damage.
 
-Interaction: Cannibals seem friendly and charming until they decide you are for dinner. Use: Characters looking for a place to sleep, hide, or stay for the night are invited in by one
+**Interaction:** Cannibals seem friendly and charming until they decide you are for dinner. Use: Characters looking for a place to sleep, hide, or stay for the night are invited in by one
 
 or more cannibals—perhaps an entire family of them.
 
-Loot: A cannibal has currency equivalent to a very expensive item and possibly a cypher.
+**Loot:** A cannibal has currency equivalent to a very expensive item and possibly a cypher.
 
-GM intrusion: The cannibal reveals a severed and gnawed- upon body part of a previous victim. The character must succeed on an Intellect defense task or be stunned and lose their next turn.
+**GM intrusion:** The cannibal reveals a severed and gnawed- upon body part of a previous victim. The character must succeed on an Intellect defense task or be stunned and lose their next turn.
 
-Mad Scientist 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Mad Scientist <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 A mad scientist is someone who delves into areas of science best left unexamined, abandoning ethics and pushing for what can be created without asking if it should be. 
 
-Motive: Understanding and exploiting reality
+**Motive:** Understanding and exploiting reality
 
-Environment: Usually in a lab
+**Environment:** Usually in a lab
 
-Health: 15
+**Health:** 15
 
-Damage Inflicted: 7 points
+**Damage Inflicted:** 7 points
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Defends as level 6 due to a gadget (or cypher); knowledge of advanced
+**Modifications:** Defends as level 6 due to a gadget (or cypher); knowledge of advanced
 
 science as level 7
 
-Combat: Mad scientists are usually accompanied by security guards, robots, zombies, or
+**Combat:** Mad scientists are usually accompanied by security guards, robots, zombies, or
 
 some other appropriate creature. A mad scientist can attempt to take command of an enemy’s technological device (armor, a weapon, a cypher, a robot, and so on) within short range for up to one minute using a handheld device.
 
 Mad scientists usually have access to a long-range energy or high-velocity weapon that inflicts 7 points of damage. They often carry manifest cyphers that increase Armor, confuse opponents’ senses, or transform themselves into a form that eases all their actions by two steps.
 
-Interaction: Mad scientists are narcissistic and love to monologue about their work. They negotiate but usually are sociopathic and don’t care about other people. Some are filled with self-loathing but too far gone to feel they can change.
+**Interaction:** Mad scientists are narcissistic and love to monologue about their work. They negotiate but usually are sociopathic and don’t care about other people. Some are filled with self-loathing but too far gone to feel they can change.
 
-Use: Blackouts and strange noises have been traced to a location found to hold a secret lab where a scientist is creating something amazing and monstrous.
+**Use:** Blackouts and strange noises have been traced to a location found to hold a secret lab where a scientist is creating something amazing and monstrous.
 
-Loot: Mad scientists have a few manifest cyphers and possibly an artifact.
+**Loot:** Mad scientists have a few manifest cyphers and possibly an artifact.
 
-GM intrusion: The mad scientist produces a gadget or cypher that proves to be the perfect answer to a dilemma at hand.
+**GM intrusion:** The mad scientist produces a gadget or cypher that proves to be the perfect answer to a dilemma at hand.
 
 ## FAIRYTALE NPCS
 
@@ -14692,111 +14473,108 @@ is always equal to their target number. Some NPCs might have special reactions t
 
 Naming Your NPCs: You might have noticed that in fairy tales, many characters —especially those of the lower or working classes—don’t have a name beyond their title, position, or profession (or sometimes their marriage status). “The Woodcutter,” “the Tailor,” “the Baker’s wife,” and so on. While you could follow suit and just call your NPC “the Woodcutter,” most player characters are going to ask that person their name. It’s likely to break immersion if you throw in a modern name, or if the NPC tries to explain that they don’t have one, they’re just called “the Woodcutter.” And if you call them all Jack, then no one (including you) will remember which one is which. Consider coming up with a list of names ahead of time so that you’re always ready to give players something to call a new walk-on character. 
 
-Aristocrat 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Aristocrat <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Aristocrats are not quite high royalty—they are not kings or queens, nor even princes and princesses—but they are those with money and power enough to wield in dangerous or glorious ways. Knights and barons are typically aristocrats, as are characters like Bluebeard and Mr. Fox. Some aristocrats, such as knights, may only want to do good and protect the things that matter to them. Others, of course, prefer to use the darker side of their privileged position.
 
-Motive: Money, power, marriage, take who or what they want, protect what they care about Environment: Typically in cities and towns, occasionally off by themselves in large castles and manors 
+**Motive:** Money, power, marriage, take who or what they want, protect what they care about Environment: Typically in cities and towns, occasionally off by themselves in large castles and manors 
 
-Health: 12
+**Health:** 12
 
-Damage Inflicted: 5 points
+**Damage Inflicted:** 5 points
 
-Armor: 2
+**Armor:** 2
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Social engineering, persuasion, intimidation, and lying as level 6
+**Modifications:** Social engineering, persuasion, intimidation, and lying as level 6
 
-Combat: Many aristocrats have had training in combat maneuvers, as is appropriate to their station. Others may wield knives, scalpels, or butcher’s tools with precision.
+**Combat:** Many aristocrats have had training in combat maneuvers, as is appropriate to their station. Others may wield knives, scalpels, or butcher’s tools with precision.
 
-Interaction: Interaction with an aristocrat often starts out positive—after all, it is delightful to be in the glow of someone so charming and powerful. For some, the interaction remains positive. A knight is just a knight. For others, a sense of unease begins to settle in after a time, as if there’s something not quite right behind the facade.
+**Interaction:** Interaction with an aristocrat often starts out positive—after all, it is delightful to be in the glow of someone so charming and powerful. For some, the interaction remains positive. A knight is just a knight. For others, a sense of unease begins to settle in after a time, as if there’s something not quite right behind the facade.
 
-Use: An aristocrat is about to marry and someone is worried about the safety of their future spouse. A knight is outmatched by a dragon or other strong opponent and seeks someone to come to their aid.
+**Use:** An aristocrat is about to marry and someone is worried about the safety of their future spouse. A knight is outmatched by a dragon or other strong opponent and seeks someone to come to their aid.
 
-Loot: Most aristocrats have currency equal to a very expensive item, in addition to fine clothes or medium armor, weapons, and miscellaneous items.
+**Loot:** Most aristocrats have currency equal to a very expensive item, in addition to fine clothes or medium armor, weapons, and miscellaneous items.
 
-GM intrusions: The aristocrat’s house has a sentient door or lock that suddenly begins to yell about intruders.
+**GM intrusions:** The aristocrat’s house has a sentient door or lock that suddenly begins to yell about intruders.
 
-Child 1 (3)
-
+{{< hint danger >}} {{< columns2 >}} Child <---> 1 (3) {{< /columns2 >}}{{< /hint >}}
 Children play the roles of urchins, siblings, daughters, sons, waifs, servants, royal family members, child brides, and more.
 
-Motive: Seeking safety, comfort, money, or food; play; bringing joy
+**Motive:** Seeking safety, comfort, money, or food; play; bringing joy
 
-Environment: With their families, or lost in the world trying to find their way. Sometimes in
+**Environment:** With their families, or lost in the world trying to find their way. Sometimes in
 
 the employ or care of someone who has found them, stolen them, or otherwise become
 
 their guardians, caretakers, or keepers. 
 
-Health: 3
+**Health:** 3
 
-Damage Inflicted: 1 point
+**Damage Inflicted:** 1 point
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Run, hide, sneak, and escape as level 2; knowledge of the nearby area, people, and activities as level 3
+**Modifications:** Run, hide, sneak, and escape as level 2; knowledge of the nearby area, people, and activities as level 3
 
-Combat: Most children fight only in response to being provoked, threatened, or attacked. They typically use makeshift weapons, such as their fists, a stick, or a toy. 
+**Combat:** Most children fight only in response to being provoked, threatened, or attacked. They typically use makeshift weapons, such as their fists, a stick, or a toy. 
 
-Interaction: Children are often smarter, more creative, and more wily than they’re given credit for. They may have a lot of knowledge about nearby people, places, and activities that can help the PCs, particularly if there’s an exchange of food, money, or other goodies involved.
+**Interaction:** Children are often smarter, more creative, and more wily than they’re given credit for. They may have a lot of knowledge about nearby people, places, and activities that can help the PCs, particularly if there’s an exchange of food, money, or other goodies involved.
 
-Use: Someone or something is stealing children from the village, and the mayor is offering to pay a large sum to anyone who tracks down the creature and rescues the children. One of the PCs catches a waif stealing from their pack in the night; the child says they’ve been lost in the woods for days.
+**Use:** Someone or something is stealing children from the village, and the mayor is offering to pay a large sum to anyone who tracks down the creature and rescues the children. One of the PCs catches a waif stealing from their pack in the night; the child says they’ve been lost in the woods for days.
 
-Loot: Children typically have very little on their person, although they may have a special memento of their family or a close friend.
+**Loot:** Children typically have very little on their person, although they may have a special memento of their family or a close friend.
 
-GM intrusions: The child shouts, laughs, or talks too loudly, accidentally drawing the attention of a nearby guard toward a character.
+**GM intrusions:** The child shouts, laughs, or talks too loudly, accidentally drawing the attention of a nearby guard toward a character.
 
 Someone mistakenly thinks a character has stolen the child, and attacks them.
 
-Crafter 2 (6)
-
+{{< hint danger >}} {{< columns2 >}} Crafter <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Crafters include bakers, cobblers, candlemakers, butchers, millers, tailors, woodworkers, and cooks. While most crafters aren’t particularly agile fighters, they are usually clever and strong, and have a number of familiar tools at their disposal for weapons.
 
-Motive: Defense
+**Motive:** Defense
 
-Environment: In their workshops or peddling their trade while traveling 
+**Environment:** In their workshops or peddling their trade while traveling 
 
-Health: 8
+**Health:** 8
 
-Damage Inflicted: 3 points
+**Damage Inflicted:** 3 points
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Appropriate craft as level 3
+**Modifications:** Appropriate craft as level 3
 
-Combat: Crafters are unlikely to initiate combat, as most just want to be left alone to do
+**Combat:** Crafters are unlikely to initiate combat, as most just want to be left alone to do
 
 their work (or to convince you to buy their wares). If they’re forced to fight, they will typically use any item they have at hand (such as a rolling pin, butcher’s knife, crafting tool, or length of wood).
 
-Interaction: Most crafters are happy to talk about their craft or the objects that they’ve made and have for sale. They take pride in their work, and flattery and attention can go a long way.
+**Interaction:** Most crafters are happy to talk about their craft or the objects that they’ve made and have for sale. They take pride in their work, and flattery and attention can go a long way.
 
-Use: To the PCs, crafters can be allies, obstacles, or both. Being friends with a crafter often has obvious long-term benefits, while stealing from them has short-term advantages (and possible long-term disadvantages).
+**Use:** To the PCs, crafters can be allies, obstacles, or both. Being friends with a crafter often has obvious long-term benefits, while stealing from them has short-term advantages (and possible long-term disadvantages).
 
-Loot: A crafter has currency equivalent to an inexpensive item, as well as crafting tools and materials and anything they’ve crafted that they’re carrying or wearing.
+**Loot:** A crafter has currency equivalent to an inexpensive item, as well as crafting tools and materials and anything they’ve crafted that they’re carrying or wearing.
 
-GM intrusion: The crafter uses their crafting tool in a way that the character didn’t anticipate, putting the character in a disadvantaged position.
+**GM intrusion:** The crafter uses their crafting tool in a way that the character didn’t anticipate, putting the character in a disadvantaged position.
 
 Huntsman/Woodcutter 2 (6)
 
 A huntsman may be in the employ of a powerful magic user, protecting a section of the woods they consider their own, or just trying to provide for their family by chopping wood and hunting game.
 
-Motive: Follow orders, support their loved ones, protect the innocent
+**Motive:** Follow orders, support their loved ones, protect the innocent
 
-Environment: Woods, forests, and other wild lands 
+**Environment:** Woods, forests, and other wild lands 
 
-Health: 8
+**Health:** 8
 
-Damage Inflicted: 2 points
+**Damage Inflicted:** 2 points
 
-Armor: 1
+**Armor:** 1
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Tracking and pathfinding as level 4
+**Modifications:** Tracking and pathfinding as level 4
 
-Combat: Huntsmen and woodcutters both understand the power of the perfectly aimed
+**Combat:** Huntsmen and woodcutters both understand the power of the perfectly aimed
 
 shot or swing. They take their time, steady their hand and breath, and hit with precision
 
@@ -14808,15 +14586,15 @@ but they’re also soft of heart and have a strong moral center. If they’re ta
 
 something they deem unpalatable, they may forgo their promises and go rogue.
 
-Use: They are hunting the characters on the orders of a higher authority. They save the PCs
+**Use:** They are hunting the characters on the orders of a higher authority. They save the PCs
 
 from a dangerous foe, then ask for assistance for their own tasks.
 
-Loot: In addition to their clothing and mundane weapon, they likely have an expensive
+**Loot:** In addition to their clothing and mundane weapon, they likely have an expensive
 
 token of promise or affection from someone they have helped or who they owe fealty to.
 
-GM intrusion: A perfectly timed cut sends a tree down in the direction of the character.
+**GM intrusion:** A perfectly timed cut sends a tree down in the direction of the character.
 
 Robber/Thief 4 (12)
 
@@ -14824,53 +14602,52 @@ Robbers, thieves, highwaymen, robin hoods—whatever name you call them, they wa
 
 Robbers often travel in pairs or small groups of dedicated friends and fellow robbers. Motive: What’s yours is mine
 
-Environment: Anywhere there’s something to be stolen
+**Environment:** Anywhere there’s something to be stolen
 
-Health: 12
+**Health:** 12
 
-Damage Inflicted: 2 points
+**Damage Inflicted:** 2 points
 
-Armor: 1
+**Armor:** 1
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Stealth, including sneaking, stealing, hiding, and deception, as level 5; attacking from hiding as level 5
+**Modifications:** Stealth, including sneaking, stealing, hiding, and deception, as level 5; attacking from hiding as level 5
 
-Combat: Robbers typically prefer light and medium weapons, particularly bows and small blades. Interaction: Most robbers have a moral code of some sort—it just may not be the code
+**Combat:** Robbers typically prefer light and medium weapons, particularly bows and small blades. Interaction: Most robbers have a moral code of some sort—it just may not be the code
 
 that others abide by. Still, they are willing to listen to reason (and particularly the sound of sliding coins). Robbers are often willing to be hired for jobs that are too difficult for others.
 
-Use: Robbers happen upon the place where the characters have made camp, and ask to join them. A group of robbers arrives to steal a thing that the characters are just about to steal themselves.
+**Use:** Robbers happen upon the place where the characters have made camp, and ask to join them. A group of robbers arrives to steal a thing that the characters are just about to steal themselves.
 
-Loot: Depending on whether they’ve just robbed someone or not, robbers may have anywhere from nothing (other than their weapons and clothing) up to the currency equivalent of a very expensive item.
+**Loot:** Depending on whether they’ve just robbed someone or not, robbers may have anywhere from nothing (other than their weapons and clothing) up to the currency equivalent of a very expensive item.
 
-GM intrusion: The robber’s arrow manages to hit two foes in a single attack, or the robber shoots two arrows at multiple foes.
+**GM intrusion:** The robber’s arrow manages to hit two foes in a single attack, or the robber shoots two arrows at multiple foes.
 
-Scholar 2 (6)
-
+{{< hint danger >}} {{< columns2 >}} Scholar <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Scholars might be librarians, sages, wise women, crones, experts, or soothsayers. Typically, scholars seek knowledge above all else, and many also are willing to share it with others (sometimes for a price, sometimes just for the joy of sharing knowledge). A scholar’s expertise might be general or specific—they may study the world at large or home in on a specific type of magic or fey being, for example.
 
-Motive: Find answers, seek knowledge
+**Motive:** Find answers, seek knowledge
 
-Environment: Schools, libraries, the royal study, laboratories, and anywhere there are sources of information 
+**Environment:** Schools, libraries, the royal study, laboratories, and anywhere there are sources of information 
 
-Health: 6
+**Health:** 6
 
-Damage Inflicted: 3 points
+**Damage Inflicted:** 3 points
 
-Movement: Short
+**Movement:** Short
 
-Modifications: Intuition, persuasion, detecting falsehoods, and most knowledge tasks as level 4
+**Modifications:** Intuition, persuasion, detecting falsehoods, and most knowledge tasks as level 4
 
-Combat: Scholars prefer to avoid a fight. If they must fight, a scholar tries to deduce a foe’s
+**Combat:** Scholars prefer to avoid a fight. If they must fight, a scholar tries to deduce a foe’s
 
 weaknesses (if any) and exploit them in combat. Some scholars might have learned spells or abilities from those they’ve studied. Others might be examining a useful cypher or artifact, and will use it on their attackers.
 
-Interaction: Most scholars are helpful and full of information (whether or not it’s useful or true information varies from scholar to scholar). What they don’t know, they may be willing to learn or study, if given the proper tools and incentive. However, some scholars are secretive, hoarding their knowledge for their own personal uses.
+**Interaction:** Most scholars are helpful and full of information (whether or not it’s useful or true information varies from scholar to scholar). What they don’t know, they may be willing to learn or study, if given the proper tools and incentive. However, some scholars are secretive, hoarding their knowledge for their own personal uses.
 
-Use: Scholars can be incredible allies, offering clues, hints, and information that can help the characters. However, they may be reclusive and hard to find, hidden away in ancient libraries or secret laboratories.
+**Use:** Scholars can be incredible allies, offering clues, hints, and information that can help the characters. However, they may be reclusive and hard to find, hidden away in ancient libraries or secret laboratories.
 
-Loot: Most scholars have currency equivalent to a very expensive item and one or two cyphers.
+**Loot:** Most scholars have currency equivalent to a very expensive item and one or two cyphers.
 
 GM Intrusion: Something the scholar is studying comes alive, creating havoc and disarray throughout the area.
 
@@ -16064,7 +15841,7 @@ Form: Ornate, opaque alchemical bottle filled with strange fluid
 
 Effect: To activate this cypher, you must open the bottle, add a few fresh drops of your blood (inflicting 1 point of Might damage to you), stopper it again, and leave it alone for one day. When the bottle is next unstoppered, a hand-sized creature called a homunculus crawls out; it vaguely resembles you and serves you for one day per cypher level before dissolving into useless goo. Each time you give it an order, you must make an Intellect defense roll against it; if you fail, it becomes free to ignore your commands (but might pretend to be obedient so it can plot against you).
 
-Homunculus: level 2; alchemy, all defenses, and stealth as level 3
+**Homunculus:** level 2; alchemy, all defenses, and stealth as level 3
 
 ## HORRIFIC ARM
 
@@ -16696,7 +16473,7 @@ Effect: When planted, the dragon’s teeth grow into three fully armed warriors.
 
 Planting the teeth is an action. It takes two rounds for the teeth to grow into warriors. The warriors last for one hour per cypher level.
 
-Warriors: level 3; Armor 1; swords inflict 3 points of damage
+**Warriors:** level 3; Armor 1; swords inflict 3 points of damage
 
 Dressmaking Nut
 
@@ -18225,7 +18002,7 @@ Effect: This scythe functions as a heavy weapon. In addition, it instantly kills
 
 Depletion: 1 in 1d20 (check per killing effect; upon depletion, a manifestation of Death appears to reclaim its blade)
 
-Death manifestation: level 7
+**Death manifestation:** level 7
 
 DEMONFLESH 
 
@@ -19032,7 +18809,7 @@ Effect: Summons a messenger of
 
 the Outer Gods (powerful and dangerous Lovecraftian entities): a bat-like, three-eyed creature called the Haunter of the Dark. The messenger can show its summoner wonders of the universe or teach them spells, but it requires human sacrifices, and if allowed to roam, it will hunt and commit murder. The stone is usually stored in a strangely angled hinged box made of yellow metal, decorated with carvings of weird alien beings.
 
-Haunter of the Dark: level 6, magical knowledge and stealth as level 8; inflicts 6 points of Intellect damage; automatically banished in any light stronger than dim light
+**Haunter of the Dark:** level 6, magical knowledge and stealth as level 8; inflicts 6 points of Intellect damage; automatically banished in any light stronger than dim light
 
 Depletion: —
 
@@ -20982,26 +20759,23 @@ For ease of reference, the light delay table provides the time it takes light fr
 
 ## CONTEMPORARY
 
-Smartphone
+### Smartphone
 
-Level 2 (6) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Moderate/Expensive 
 
 A communication device that performs some of the functions of a computer with a touchscreen interface, internet access, and ability to run multiple apps. Provides an asset to knowledge tasks that can be researched on the internet, and bright light within immediate range. Subject to running out of charge or breaking. 
 
 Computer/Laptop 
 
-Level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 A data processing and data-access tool that enables all sorts of creative and comprehension tasks. 
 
-Satellite phone 
+### Satellite Phone 
 
-Level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 As smartphone (though far bulkier), but with ability to connect directly to an orbiting satellite communication network, providing planetary range.
@@ -21018,40 +20792,35 @@ As satellite phone, but so small it can be worn as a stylish insignia or badge o
 
 A communicator badge in the form of ring is often referred to as a data-ring.
 
-AR glasses 
+### Ar Glasses 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Sturdy (and sometimes stylish) eyeglasses or goggles provides all the functions of a contemporary smartphone (including communication) and communicator badge, plus is capable of both immersive VR and overlaid HUD and augmented reality functions. Can be worn inside a space suit helmet or incorporated directly into one. 
 
-AR contacts 
+### Ar Contacts 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Expensive x2 
 
 As AR glasses, but are lenses fitted to the eye. Also called “smartacs.” 
 
-Courier 
+### Courier 
 
-level 5 (15) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 Essentially a tiny rocket that can exceed human-rated Gs to “quickly” deliver messages across planetary distances if radio (via DSM network), laser, or even graser communication is deemed too susceptible to interception by a third party. A courier must be launched in a micro-gravity environment. 
 
-Laser array
+### Laser Array
 
-level 5 (15) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Exorbitant A bulky piece of equipment that takes a few days to set up and calibrate. Useful for ship-to-ship communication for “tight” beaming information; even highly focused lasers spread out to several miles after only traveling a few light-seconds, diminishing their usefulness. Also doubles as a spacecraft weapon system (but all attack tasks using it are hindered). 
 
-Graser array
+{{< hint danger >}} {{< columns2 >}} Graser Array
 
- level 5 (15) 
-
+ Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 As laser array, but collimates gamma rays, which diverge far less quickly than light, allowing communication between planets. Also doubles as a spacecraft weapon system (but all attack tasks using it are hindered).
@@ -21066,10 +20835,9 @@ Expensive 
 
 As contemporary AR glasses, but directly incorporated into the brain as cortical implant. Incorporation grants eidetic memory, the ability to link senses between authorized users within network range, and some control over brain chemistry, granting an asset on all tasks the user attempts to control or moderate their own reactions. 
 
-Ansible 
+### Ansible 
 
-level 6 (18) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 A bulky piece of equipment that takes a few days to set up and calibrate, and which requires enormous power per use, allows instantaneous communication between two points even across interstellar distances.
@@ -21080,112 +20848,99 @@ Some communication devices also provide sense-enhancing abilities, such as the s
 
 ## CONTEMPORARY
 
-Binoculars 
+### Binoculars 
 
-level 2 (6) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 Provides an asset for perception tasks at range. 
 
-Camera, surveillance 
+{{< hint danger >}} {{< columns2 >}} Camera, surveillance 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Wireless transmission to internet node, radio within long range, or flash storage to be picked up physically at a later date; includes microphone and ability to have conversation through camera speakers. 
 
-Microscope 
+### Microscope 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Provides an asset to any research task where small-scale perception could provide additional information, though analysis requires several hours or more. 
 
-Nightvision goggles
+### Nightvision Goggles
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Reasonably accurate vision in complete darkness, up to 100 m (330 feet). 
 
-Analysis apparatus 
+### Analysis Apparatus 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 Any one of a number of pieces of lab equipment that takes a few days to set up and calibrate, including chromatography columns, mass spectrometers, calorimetry analyzers, and more. Such a piece of equipment grants two assets to any analysis task where perception could provide additional information, though analysis requires several hours or more.
 
 ## ADVANCED
 
-Hand scanner 
+### Hand Scanner 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Smartphone-like device customized for analysis; provides an asset for identifying tasks. 
 
-White noise generator 
+### White Noise Generator 
 
-level 5 (15) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Fist-sized device that fuzzes frequencies all across the spectrum, hindering all electronic perception and surveillance tasks within short range by five steps. 
 
-Lab-on-a-chip 
+### Lab-On-A-Chip 
 
-level 5 (15) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Portable 15 cm (6 inch) cube with many inputs and readouts (and network connections). Eases any research task where small-scale perception could provide additional information by two steps, though analysis requires about ten minutes. 
 
-Research drone 
+### Research Drone 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Autonomous frames about 1 m (3 feet) in rough diameter fitted with all manner of surveillance devices, including visual, audio, chemical, and lab-on-a-chip functionality. Propelled by rotors in an atmosphere or micro-thrusters in vacuum. Research drones can also be controlled through AR glasses or smartphones to any distance communications reach. 
 
-Tactile drone 
+### Tactile Drone 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 As research drone, except without the suite of analysis tools, providing only audible and visual feeds back to controller (if there is one), but with physical options; tactile drones can accomplish routine tasks and attempt those of level 4 or less, or allow a remote operator to attempt more difficult tasks at a distance.
 
 ## FANTASTIC
 
-Multicorder 
+### Multicorder 
 
-level 5 (15) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Handheld device provides two assets and one free level of Effort to any perception, analysis, or computing task that the device’s multiple sensors (including radio, gravimetric, chemical, visual, audio, and others) within short range. Analysis requires only one round to complete. 
 
 An ability granting a free level of Effort usually must be unlocked by the application of at least one level of Effort, in effect providing one more level of Effort than what was paid for
 
-Probe drone 
+### Probe Drone 
 
-level 6 (18) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 More advanced version of a contemporary research drone that can be deployed to other planets and even star systems to gather environmental and tactical information, which is transmitted back. If forced to defend itself, this level 6 robot has Armor 3 and two long-range energy blasts each round that inflict 8 points of damage each. 
 
-Sonic toolgrip 
+### Sonic Toolgrip 
 
-level 6 (18)
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 Handheld toolgrip manifests a sonic effector field that serves as a multifunctional tool in a wide variety of circumstances. Suitable for picking a lock, unscrewing a bolt, analyzing the interior of an object, as a microphone, for tracking movement, hacking electronics, charging electronics, or even tuned to a high-intensity beam that can blind nearby targets for a round. The sonic toolgrip eases all tasks by two steps.
@@ -21196,58 +20951,51 @@ Unless the GM is running some kind of survival-related scenario, characters can 
 
 ## CONTEMPORARY
 
-Cold weather gear 
+### Cold Weather Gear 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Insulated clothing, including gloves, boots, and facemask, that allows wearer to function in extremely cold environments for several hours at temperatures down to –90 degrees C (–130 degrees F). 
 
-Elegant clothes 
+### Elegant Clothes 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Clothing suitable for moving in elite circles; provides an asset to interaction checks in some situations. 
 
-SCUBA gear 
+### Scuba Gear 
 
-level 4 (12)
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Self-contained underwater breathing apparatus allows wearer to function underwater for about an hour at depths (under normal Earth atmosphere) of up to 40 m (130 feet)
 
 ## CONTEMPORARY ARMOR
 
-Leather jacket 
+### Leather Jacket 
 
-level 2 (6) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Moderate Functions as light armor (+1 Armor). 
 
-Kevlar vest 
+### Kevlar Vest 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Functions as medium armor (+2 Armor). 
 
-Military body armor, light 
+{{< hint danger >}} {{< columns2 >}} Military body armor, light 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Functions as medium armor (+2 Armor), encumbers as light armor. 
 
-Military body armor
+### Military Body Armor
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Functions as heavy armor (+3 Armor).
@@ -21256,92 +21004,81 @@ Remember, armor (lowercase a) is something you wear. Armor (capital A) is the bo
 
 ## ADVANCED
 
-Safesuit, space 
+{{< hint danger >}} {{< columns2 >}} Safesuit, space 
 
-level 2 (6) 
-
+level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 Cheap, mass-produced one-size-fits-all vacuum-protection “suit” (sometimes they look more like a bag) of thin polymer suitable for emergency decompression events but not for long-term use. Can be put on and sealed with one action, but any physical action taken while wearing one is subject to automatic GM intrusions on a d20 die roll of 1 or 2. If a roll triggers a GM intrusion, the suit tears.
 
-Breather 
+### Breather 
 
-level 2 (6) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Moderate/Expensive 
 
 A facemask providing a day of breathable air in poisonous or low-oxy atmospheres, or continuously for expensive breathers with recycling and oxy extraction features. If used in a vacuum, a breather provides the wearer three rounds of action before the full effects of vacuum begin dropping them on the damage track. 
 
-Exoskin, grav-assist 
+{{< hint danger >}} {{< columns2 >}} Exoskin, grav-assist 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Powered anthropomorphic exoskeleton allows completely normal function in high gravity environments of up to 5 G. Exoskins are related to loader mechs. Increase the cost category by one to grant +1 Armor. 
 
-Shipboots 
+### Shipboots 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Any footwear that allows variable magnetic adhesion to a surface; cancels the hindrance to all physical actions suffered by those acting in zero-gravity conditions. 
 
-Pressure suit 
+### Pressure Suit 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 A full-body suit similar to a space suit, but only rated for regions of low pressure (not vacuum) such as is typically found on Mars. Some come integrated with breathers (at double the cost). 
 
-Exoskin, brute 
+{{< hint danger >}} {{< columns2 >}} Exoskin, brute 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 As grav-assist exoskin, but high-tensile effectors ease all tasks related to Might. 
 
-Exoskin, reactive 
+{{< hint danger >}} {{< columns2 >}} Exoskin, reactive 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 As grav-assist exoskin, but integrated memory fibers ease all tasks related to Speed. 
 
-Space suit 
+### Space Suit 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Protects a wearer from vacuum and allows basic normal activities in space. Requires about four rounds to put on and seal (going quicker risks a bad seal). Provides about ten hours of atmo in a vacuum without refurbishment. Extremely limited maneuvering thrusters provide a couple of opportunities to correct a poorly aimed jump through zero G. Shipboots are usually built in. 
 
 “Atmo” is the catch-all term for oxygenated, breathable air and livable pressure.
 
-Stealthsuit 
+### Stealthsuit 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Provides two assets to stealth tasks. 
 
-Swimsuit, hydrodynamic 
+{{< hint danger >}} {{< columns2 >}} Swimsuit, hydrodynamic 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Next-generation materials repel water, increase oxygen consumption, and shape swimmer’s body to better swimming ideal; provides two free levels of Effort to swimming tasks. 
 
-Space suit, deluxe 
+{{< hint danger >}} {{< columns2 >}} Space suit, deluxe 
 
-level 5 (15) 
-
+level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Very Expensive x2 
 
 As space suit, but deluxe and durable. A deluxe suit features built-in recyclers granting air, water, and nutrition for about a week of continuous use. Microthrusters allow for continuous zero-G maneuvering over a period of ten minutes, or even more if air reserves are tapped (which depletes them). If the suit is breached because of external damage, self-sealing tech limits repercussions described in Taking Damage in a Space Suit to just a round or two, assuming the breach is not catastrophically large.
@@ -21352,76 +21089,67 @@ Taking damage while protected from the effects of vacuum in a space suit (or saf
 
 ## ADVANCED ARMOR
 
-Armored bodysuit 
+### Armored Bodysuit 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Functions as medium armor (+2 Armor), encumbers as if not wearing any armor. 
 
-Body armor, lightweight
+{{< hint danger >}} {{< columns2 >}} Body armor, lightweight
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Functions as heavy armor (+3 Armor), encumbers as if wearing medium armor. 
 
-Paint-on impact armor 
+### Paint-On Impact Armor 
 
-level 5 (15) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Not armor; offers +1 to Armor, applied by spraying nanosolution from spray applicator over clothing and skin, lasts ten minutes; each applicator depletes 1 in 1d10 uses. 
 
-Battlesuit 
+### Battlesuit 
 
-level 5 (15) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Functions as heavy armor (+3 Armor), also grants the benefit of a deluxe space suit. 
 
-Holobit 
+### Holobit 
 
-level 5 (15) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Not armor; wearable device projects an offset hologram of the wearer, providing an asset to Speed defense tasks. 
 
-Battlesuit, deluxe 
+{{< hint danger >}} {{< columns2 >}} Battlesuit, deluxe 
 
-level 6 (18) 
-
+level <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 As battlesuit, but with armor and power assist; the battlesuit grants an additional +1 to Armor in addition to the 3 Armor that heavy armor usually offers, and encumbers as medium armor. Armor rating also applies to damage that often isn’t reduced by typical armor, such as heat or cold damage (but not Intellect damage).
 
 ## FANTASTIC
 
-Breather, vacuum 
+{{< hint danger >}} {{< columns2 >}} Breather, vacuum 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Facemask generates a variable forcefield around wearer that provides comfortable temperature and atmo to wearer in poisonous atmospheres, underwater, or in vacuum, for several hours, even without a space suit. 
 
-Bounding boots 
+### Bounding Boots 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Gravity-assist boots provide two free levels for Effort for jumping and running tasks. In addition, wearer can fall from any height safely if prepared for the descent. 
 
-Cloak, chameleon 
+{{< hint danger >}} {{< columns2 >}} Cloak, chameleon 
 
-level 5 (15) 
-
+level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Renders wearer essentially invisible save for hardly-noticeable distortions for up to ten minutes. Provides one asset and one free level of Effort to stealth tasks.
@@ -21430,32 +21158,28 @@ An ability granting a free level of Effort usually must be unlocked by the appli
 
 ## FANTASTIC ARMOR
 
-Force field, quick 
+{{< hint danger >}} {{< columns2 >}} Force field, quick 
 
-level 4 (12)
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
  Very Expensive 
 
 Not armor; belt generates an almost transparent force field to surround the user for up to one hour, providing +1 Armor. Once used, must be recharged for several hours. 
 
-Cloak, impact 
+{{< hint danger >}} {{< columns2 >}} Cloak, impact 
 
-level 5 (15) 
-
+level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Fashionable cloak with attached hood. If the wearer is subjected to a physical or energy attack, the garment strategically hardens, functioning as heavy armor (+3 Armor), and encumbering as light armor. 
 
-Cloak, reflective 
+{{< hint danger >}} {{< columns2 >}} Cloak, reflective 
 
-level 6 (18) 
-
+level <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Very Expensive x2 As chameleon cloak, but also reflects energy attacks back on attacker if PC succeeds on their defense task.
 
-Battle armor 
+### Battle Armor 
 
-level 6 (18) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Exorbitant
 
 As battlesuit, but grants an additional +3 to Armor in addition to the 3 Armor, and
@@ -21464,18 +21188,16 @@ encumbers as light Armor. In addition, the wearer gains +1 to their Might Edge a
 
 their Might Pool.
 
-Force field, omni 
+{{< hint danger >}} {{< columns2 >}} Force field, omni 
 
-level 6 (18) 
-
+level <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 > Exorbitant
 
 As quick force field, but permanent while active, requires no recharge period. In addition, the wearer can tune the field so that it’s hazed and translucent, hiding their identity, or make it fully dark so that it emits no light (though they can see through the field normally).
 
-Kinetic ring 
+### Kinetic Ring 
 
-level 6 (18) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 > Exorbitant
 >
 > Ring reactively projects a powerful energy field to deflect or slow projectiles, easing the
@@ -21484,10 +21206,9 @@ wearer’s Speed defense roll. If the projectile still hits the wearer, the fiel
 
 against the attack.
 
-Gun armor 
+### Gun Armor 
 
-level 6 (18) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Exorbitant x2
 
 As battle armor, but armor includes a deployable integrated long-range plasma weapon that inflicts 6 points of damage. It’s able to fire autonomously, allowing the wearer to take some
@@ -21500,116 +21221,102 @@ UTILITY GEAR 
 
 ## CONTEMPORARY
 
-Duct tape roll 
+### Duct Tape Roll 
 
-level 1 (3) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 1 (3) {{< /columns2 >}}{{< /hint >}}
 Inexpensive
 
 Practical uses range from providing an asset to healing tasks to making temporary shoes,
 
 and much more.
 
-Flashlight 
+### Flashlight 
 
-level 1 (3)
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 1 (3) {{< /columns2 >}}{{< /hint >}}
  Inexpensive 
 
 Provides light where pointed within short range for a few hours before requiring new batteries/a charge. 
 
-Padlock with keys 
+### Padlock With Keys 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Inexpensive 
 
 Padlocks aren’t too difficult to remove, especially with bolt cutters, but they do slow down would-be thieves. 
 
-Backpack 
+### Backpack 
 
-level 2 (6) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 A quality, well-packed backpack can carry a surprising amount of gear, including a sleeping bag. 
 
-Bolt cutters 
+### Bolt Cutters 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 Enables and eases tasks to cut through metal bars. 
 
-Climbing gear 
+### Climbing Gear 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 Enables and eases tasks to climb buildings or cliffs. Includes 15 m (50 feet) of nylon rope. 
 
-Crowbar 
+### Crowbar 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 Enables and eases tasks to force open stuck or barred doors.
 
-Electric lantern 
+### Electric Lantern 
 
-level 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Moderate
 
 Provides bright light within 9 m (30 feet) for several hours before requiring new batteries/a charge.
 
-Lockpick set 
+### Lockpick Set 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Moderate
 
 Asset to picking mechanical locks.
 
-Restraint 
+### Restraint 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Moderate/Expensive 
 
 Moderately priced non-novelty cuffs restrain targets at the wrists, hindering tasks to break free by two steps. Straitjackets wrap a target more securely, hindering tasks to break free by three steps.
 
-Sleeping bag 
+### Sleeping Bag 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 > Moderate/Expensive 
 >
 > Moderately priced bags are suitable for temperatures down to –4°C (24°F); expensive down to –29°C (–20°F).
 
-Tent 
+### Tent 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Moderate/Expensive 
 
 Moderately priced tents are for one or two people; expensive tents can sleep four to six people.
 
-Tools, general 
+{{< hint danger >}} {{< columns2 >}} Tools, general 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 All-purpose tools include a utility knife, tape measure, pliers, small hammer, variable screwdriver, and level.
 
-Tools, specialized 
+{{< hint danger >}} {{< columns2 >}} Tools, specialized 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive
 
 A set of specialized tools are custom-selected for a specific task, such as carpentry,
@@ -21618,10 +21325,9 @@ mechanical repair, or electronics. Specialized tools provide an asset to the tas
 
 suited for.
 
-Disguise kit 
+### Disguise Kit 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Very Expensive
 
 Contains hair dye, cosmetics, a few hair pieces, and other small props; using a kit takes a
@@ -21630,74 +21336,65 @@ few minutes but grants an asset to tasks related to disguise and impersonation.
 
 ## ADVANCED
 
-Everlight 
+### Everlight 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Inexpensive 
 
 As flashlight, but radioisotope power cell allows the light to shine a bright light up to a very long distance for arbitrary lengths of time. 
 
-Tent, environment 
+{{< hint danger >}} {{< columns2 >}} Tent, environment 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 As tent, but filters out poisonous atmospheres. Can be used in vacuum in an emergency for a few hours of air, but the taut fabric is given to tearing (GM intrusions triggered by rolling a 1 on d20 cause it to rip). 
 
-Repair tape roll 
+### Repair Tape Roll 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 As duct tape, but programmable matter embedded in fabric provides two assets to all tasks related to repair using the tape and taping things together. Each roll has about ten uses. 
 
-Self-extending rope 
+### Self-Extending Rope 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Mechanism prints fiber on the fly, allowing the rope to extend over 300 m (1,000 feet).
 
-Surelock 
+### Surelock 
 
-level 5 (15) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 As padlock with keys, but can be attached to secure any opening by forming a level 8 bond with any surface; attempts to pick or otherwise open the lock are hindered by three steps. 
 
-Lock infiltrator 
+### Lock Infiltrator 
 
-level 5 (15) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Advanced tech electronic and digital locks are amazingly advanced—so is this item that provides an asset to picking them (including a surelock). 
 
-Exo-hand 
+### Exo-Hand 
 
-level 5 (15) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 A fully functional prosthetic arm and hand, which could replace a lost limb, or be wired into user’s nervous system, which gives the user an additional gripping appendage useful in a variety of situations where other people would have their hands full. Attacks (and other tasks requiring precise dexterity) made with an exo-hand are hindered by two steps. 
 
-Fusion battery 
+### Fusion Battery 
 
-level 5 (15)
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 This mobile fusion power source (with metal handles for easy transport) masses about 30 kg (70 pounds); it generates power through fusion. Provides power to nearly any device short of a spacecraft for a variable period depending on power requirements.
 
-Fusion torch 
+### Fusion Torch 
 
-level 5 (15) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Cuts through substances of up to level 9 after a few rounds of application. 
@@ -21712,34 +21409,30 @@ Prints a variety of basic objects, including protein bars, parts, wires, tools, 
 
 ## FANTASTIC
 
-Carryall pack 
+### Carryall Pack 
 
-level 5 (15) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 As backpack, but dimensional folding allows for an arbitrary number of objects to be stored inside, so long as they fit the carryall pack’s 60 cm (2 foot) diameter mouth. 
 
-Gravity regulator 
+### Gravity Regulator 
 
-level 5 (15) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Belt-mounted device that regulates gravity to 1 G for wearer if within zero G to 3 G. 
 
-Molecular joiner 
+### Molecular Joiner 
 
-level 5 (15) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Handheld device causes the molecules of two touching physical surfaces of up to level 8 to truly blend, forming a seamless bond stronger than even the most advanced glue. 
 
-Programmable suitcase 
+### Programmable Suitcase 
 
-level 6 (18) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 Large metallic suitcase composed of programmable matter that, with instruction, can convert itself into nearly any object or piece of equipment of an equal or lower level or price, excluding artifacts and manifest cyphers. The replicated object can be converted back to its base state as a separate action.
@@ -21754,176 +21447,155 @@ Trail rations (1 day) 
 
 level 1 (3) 
 
-Inexpensive 
+### Inexpensive 
 
-First aid kit 
+{{< hint danger >}} {{< columns2 >}} First Aid Kit 
 
-level 2 (6) 
-
+Level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 Kit of bandages, antibiotics, and similar supplies; provides an asset to healing tasks. 
 
-Military-grade field dressing 
+### Military-Grade Field Dressing 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Bandage with antimicrobial, analgesic, hemostatic, and temporary skin substitute qualities that can raise a victim one step of the damage track if damage was due to a wound.
 
 ## ADVANCED
 
-Cold sober 
+### Cold Sober 
 
-level 2 (6) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Inexpensive 
 
 Chewable tablet that speeds the breakdown of blood alcohol while also dissolving the toxic breakdown products of natural alcohol processing, leaving a user sober and free of a hangover within ten minutes. 
 
-Instabulb, coffee 
+{{< hint danger >}} {{< columns2 >}} Instabulb, coffee 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Inexpensive 
 
 Coin-like disc; percolates and swells when water is added, becoming a sealed bulb filled with aromatic hot coffee. Other beverages can be had in the same form factor, suitable for travel and drinking in zero G. 
 
-Mega bar 
+### Mega Bar 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 As trail rations, but bar either provides enough nutrition for one day of food or one free recovery roll. 
 
-Serum, remedial 
+{{< hint danger >}} {{< columns2 >}} Serum, remedial 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 “Serum” is an often-used term for an ampule of artificially engineered blood and plasma that provides some kind of benefit. Serums of all types are generally dispensed from an autodoc, but may also be obtained as individual units, or in packs or cases. An ampule of remedial serum grants the user 3 points they can add to any Pool. It also has the benefit of relieving hangover symptoms. 
 
-Serum, space-fit 
+{{< hint danger >}} {{< columns2 >}} Serum, space-fit 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 As remedial serum, but protects against the two most common dangers to human physiology from extended trips into space and long-term exposure to zero G and radiation, which most notably include DNA breakage from cosmic rays and bone and muscle deterioration from microgravity. An ampule of space-fit serum lasts for about a month.
 
-Serum, acceleration 
+{{< hint danger >}} {{< columns2 >}} Serum, acceleration 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 As remedial serum, but allows user to ignore the many deleterious physiological effects of acceleration and high-G maneuvers (of up to 15 Gs) for one hour (or of up to 20 Gs for a few minutes). Users are likely unable to move under high G, but won’t pass out, have a stroke, cardiac arrest, etc.—at least, not immediately. Prolonged use may still lead to all these outcomes. 
 
-Serum, antivenom 
+{{< hint danger >}} {{< columns2 >}} Serum, antivenom 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 As remedial serum, but grants a Might task eased by four steps to withstand and clear poison from the user’s system and provides similar poison resistance for one day. 
 
-Sleep set 
+### Sleep Set 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 A thin metallic (but comfortable, padded) headset that rests on the temples and induces a deep (dreamless) sleep state for a specified period, usually no more than three to six hours. Fail-safes can be set to bring a user out of sleep if loud noises, movement, someone addresses the sleeper, or other triggers occur. Users find themselves extremely well rested after each use. 
 
-Transplant, organ or limb 
+{{< hint danger >}} {{< columns2 >}} Transplant, organ or limb 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 If an autodoc or more advanced facility is available, a lost limb or organ can be replaced. Replaced limbs eventually become equally effective as the original, with practice. However, the mechanical (or possibly force-grown) prosthetic limbs initially hinders all physical tasks attempted using it for several weeks. 
 
-Autodoc, mobile 
+{{< hint danger >}} {{< columns2 >}} Autodoc, mobile 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Pack-sized kit that eases any healing task, or up to four free recovery rolls. Also usually has a variety of serum types. (Each use requires a depletion roll of 1 on a d10; if depleted, autodoc supplies are used up, and it must be refilled as an expensive cost.) 
 
-Hibernation pod 
+### Hibernation Pod 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 A pod large enough to contain a human, with internal mechanisms and power able to safely put a person into a deep state of arrested metabolism for about a hundred years, unless the program ends sooner or the pod is opened from the exterior. Each hundred years thereafter, the hibernating human must succeed on a Might defense task. The difficulty begins at 1, but increases by +1 every few hundred years that pass. 
 
-Omnichair 
+### Omnichair 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Provides user full mobility via combination of micro thrusters, retractable wheels, and maglev levitation in all environments (from microgravity to full gravity), often contains a variety of tools and enhancements that grant the user assets to common tasks (possibly including a built-in weapon system). If customized to do so for an additional very expensive cost, can extend a fairing, enabling the omnichair to act as a sort of space suit/miniature spacecraft at need. 
 
-Autodoc 
+### Autodoc 
 
-level 5 (15) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 As mobile autodoc, but fixed in place (suitable for a starcraft or station sickbay), and grants essentially unlimited recovery rolls or serum injections to anyone who spends at least an hour immobilized on the autodoc med table, even for the most minor of treatments.
 
 ## FANTASTIC
 
-Nano tab, general 
+{{< hint danger >}} {{< columns2 >}} Nano tab, general 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Any of a variety of pill-like concentrations of nano-scale robots designed to activate once taken by mouth. Nano tab pills are usually designed for health interventions, though some also provide additional physical benefits. A general-use nano tab adds 1 to all recovery rolls made by user for one day. 
 
-Nano tab, rejuvenator 
+{{< hint danger >}} {{< columns2 >}} Nano tab, rejuvenator 
 
-level 5 (15) 
-
+level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Very Expensive
 
 As general nano tab, but refills 4 points to 1 Pool and raises user one step on damage track. 
 
-Stasis pod 
+### Stasis Pod 
 
-level 5 (15) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 As hibernation pod, but suspends time for target indefinitely, until program ends or pod is opened. 
 
-Nano tab, acceleration 
+{{< hint danger >}} {{< columns2 >}} Nano tab, acceleration 
 
-level 6 (18) 
-
+level <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 As general nano tab, but permanently grants the benefits of an ampule of acceleration serum. 
 
-Nano tab, space-fit 
+{{< hint danger >}} {{< columns2 >}} Nano tab, space-fit 
 
-level 6 (18) 
-
+level <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 As general nano tab, but permanently grants the benefits of an ampule of space-fit serum. 
 
-Nano tab, immolating 
+{{< hint danger >}} {{< columns2 >}} Nano tab, immolating 
 
-level 7 (21) 
-
+level <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 As general nano tab, but explosively distributes nano-threads deep into the body, turning it into mostly weaponry, effectively granting five posthuman upgrade power shifts. However, this quickly burns out the user, who dies within a solar standard month.
@@ -21931,131 +21603,115 @@ As general nano tab, but explosively distributes nano-threads deep into the body
 ROBOTS & AI
 
 ## CONTEMPORARY  
-Electronic assistant 
+### Electronic Assistant 
 
-level 2 (6) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 —/Moderate 
 
 Anyone with a smartphone has some kind of built-in electronic assistant, though stand-alone versions can be had. Electronic assistants are voice activated and tie into the internet and any other connected systems, such as lights, door locks, furnaces, music speakers, and more. 
 
-House robot 
+### House Robot 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Any number of small automated devices that can vacuum, mop, or conduct similar routine tasks in a limited area. Includes embodied electronic assistants with some mobility, such as Jibo. 
 
-PackBot 
+### Packbot 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 An autonomous mobile robot that moves on treads, which can also be remote controlled. Useful in situations where humans would be endangered, such as bomb disposal, hazmat, search, and reconnaissance. It can climb stairs, drive through mud, and operate in all-weather conditions. 
 
-Surveillance drone 
+### Surveillance Drone 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 An autonomous flying robot, which can also be remote controlled. Can record or relay its environment to distant controllers. An upgrade into the priceless category allows one to carry two or more self-guiding missiles that inflict 12 points of damage and drop unprotected targets two steps on the damage track. 
 
 ## ADVANCED
 
-Auton
+{{< hint danger >}} {{< columns2 >}} Auton
 
- level 1 (3) 
-
+ Level <---> 1 (3) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 The generic term “auton” refers to a smart robot, one able to exist in the world as a full-fledged entity, though not nearly so competent as a true AI. On the other hand, autons come very close to having self-awareness, and some have probably achieved it. The variety of autons is staggering, given that they can be trained in nearly any task. Autons also come in a variety of shapes and colors, which vary based on culture and tech level. Though most can move on treads or legs to follow their owners as directed, some autons are housed in drone-like chassis using either rotors or microthrusters, allowing them to fly rather than move on the ground. Treat a basic auton as a level 1 follower, which allows the auton modifications in one task. 
 
-Auton, aide 
+{{< hint danger >}} {{< columns2 >}} Auton, aide 
 
-level 2 (6)
-
+level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
  Expensive 
 
 Treat as a level 2 follower, which allows the auton modifications in up to two tasks, depending on the particular aide. 
 
-Auton, medical 
+{{< hint danger >}} {{< columns2 >}} Auton, medical 
 
-level 2 (6) 
-
+level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 As auton, but one modification is always healing. A medical auton also incorporates a mobile autodoc. 
 
-Auton, defense 
+{{< hint danger >}} {{< columns2 >}} Auton, defense 
 
-level 2 (6) 
-
+level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 As auton, but one modification is always Speed defense, which means when helping to defend a target from a physical attack, the target eases the task by two steps. A defense auton also has 3 Armor. 
 
-Auton, military drone 
+{{< hint danger >}} {{< columns2 >}} Auton, military drone 
 
-level 2 (6) 
-
+level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 As defense auton or warrior auton, but miniaturized and able to fly in gravity to support owner. 
 
-Auton, warrior 
+{{< hint danger >}} {{< columns2 >}} Auton, warrior 
 
-level 2 (6) 
-
+level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Exorbitant
 
  As auton, but one modification is always in attacks, which means when helping a target to make an attack, the target eases the task by two steps. However, warrior autons usually attack autonomously as level 3 entities with a ranged or melee weapon that inflicts 5 points of damage. 
 
-Shipmind 
+### Shipmind 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Exorbitant x2 
 
 A shipmind is a sim AI that exists within a single spacecraft or starship, with the ability to control many aspects of vehicle functions as necessary to supplement a crew, or sometimes in lieu of a crew. Shipminds each have their own simulated personality, emulating consciousness, though in most cases, they are not actually conscious. Having a shipmind installed on a spacecraft is immensely helpful, as it can oversee many basic functions. A shipmind usually accomplishes tasks at the level of the ship in which it is installed.
 
 ## FANTASTIC  
-Synth 
+### Synth 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive Synths are a blend of biological and mechanical parts so advanced that in some cases it’s impossible to tell the difference between a living creature and a synth. They are strong AIs in physical bodies. Other varieties of synths are constructed (or have modified themselves) to make it obvious they are not biological. In any case, synths are often sturdier and longer lasting than an average biological entity. Even so, in some settings, synths are relegated to being servitors, as if they were simple robots and autons. In other settings, a few, some, or all humans have long ago migrated into synth bodies, leaving their biology behind in prehistory, and becoming posthuman. Treat as a level 3 follower, which allows the synths modifications in up to three tasks, depending on the particular synth. At minimum, all synths have 2 Armor and regain 1 point of lost health per round if damaged. 
 
-Synth, companion 
+{{< hint danger >}} {{< columns2 >}} Synth, companion 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 As synth, but treat as a level 4 follower, which allows the synths modifications in up to four tasks. 
 
-Synth, free
+{{< hint danger >}} {{< columns2 >}} Synth, free
 
-level 5 (15) 
-
+level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Expensive\* 
 
 As companion synth, but with modifications for up to five tasks. \*A free synth usually can’t be purchased, by definition, but can be hired on a contract basis, as an expensive cost for each week of service required. 
 
-Wardroid 
+### Wardroid 
 
-level 6 (18) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 6 (18) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 As free synth, but outfitted for war, including modifications in attack and defense. A wardroid often has many additional customizations and abilities. 
 
-Synth, infiltrator 
+{{< hint danger >}} {{< columns2 >}} Synth, infiltrator 
 
-level 7 (21) 
-
+level <---> 7 (21) {{< /columns2 >}}{{< /hint >}}
 Priceless 
 
 As free synth, but with modifications focusing on stealth, disguise, and tasks related to gaining entry to guarded locations for purposes of spying or assassination. Synth infiltrators have systems that allow them to change their apparent (or even actual) shape completely over the course of a minute to appear as another creature or innocuous object.
@@ -22065,10 +21721,9 @@ As free synth, but with modifications focusing on stealth, disguise, and tasks r
 Occasional recreation is absolutely necessary to maintain stable relationships as well as mental stability and happiness. Characters that never engage in recreation become gradually more unhappy and troubled, and eventually find interaction tasks and most Intellect tasks hindered unexpectedly.
 
 ## CONTEMPORARY  
-Book 
+### Book 
 
-level 2 (6) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Inexpensive 
 
 Print, digital, or audio; once perused for at least ten minutes, grants an asset to relaxation tasks. 
@@ -22093,36 +21748,32 @@ Other kinds of drugs have a different ease and hinder profile. For example, the 
 
 ## ADVANCED
 
-Sidekick sphere 
+### Sidekick Sphere 
 
-level 2 (6) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 Circuit-inscribed, and jauntily decorated, smart-material sphere about 1 m (3 feet) in diameter that rolls or jumps to stay within an immediate distance of owner. Capable of playing music, pulsing with light, engaging in witty conversation, and in keeping confidence. Treat the sidekick sphere as a level 2 follower (and limited sim AI). 
 
-Tattoo, programmable 
+{{< hint danger >}} {{< columns2 >}} Tattoo, programmable 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 With time and talent, someone with a programmable tattoo implant can completely alter the designs that appear on their skin, modifying lines and color. A small alteration requires only a few rounds, but a full-body tattoo change, assuming any artistry at all is involved, may take a few days to complete. 
 
 ## FANTASTIC
 
-Tattoo, living 
+{{< hint danger >}} {{< columns2 >}} Tattoo, living 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 As programmable tattoo, but images can be animated to run in a loop, or visually respond with limited reactivity to certain audible or other cues. Some come implanted with sim AIs for conversation and interaction.
 
-Pleasure bit 
+### Pleasure Bit 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Handheld device emits magnetic induction field that activates the reward circuit in the user’s brain, creating sudden ecstasy and joy for a pre-set period of time. Addiction is possible, though better models have an ebbing mode that helps put users back into their right minds gradually.
@@ -22176,42 +21827,37 @@ Any weapon that a character must use by swinging or stabbing at a target within 
 
 ## CONTEMPORARY
 
-Knife, simple 
+{{< hint danger >}} {{< columns2 >}} Knife, simple 
 
-level 1 (3) 
-
+level <---> 1 (3) {{< /columns2 >}}{{< /hint >}}
 Inexpensive 
 
 Light weapon (2 damage, difficulty of attack is eased); breaks on attack roll of 1–2. 
 
-Knife, hunting 
+{{< hint danger >}} {{< columns2 >}} Knife, hunting 
 
-level 2 (6) 
-
+level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 Light weapon (2 damage, difficulty of attack is eased). 
 
-Machete 
+### Machete 
 
-level 2 (6) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 Medium weapon (4 damage). 
 
-Nightstick 
+### Nightstick 
 
-level 2 (6) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 Medium weapon (4 damage). 
 
-Broad sword, replica 
+{{< hint danger >}} {{< columns2 >}} Broad sword, replica 
 
-level 2 (6)
-
+level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Heavy weapon (6 damage, requires both hands to wield). 
@@ -22226,44 +21872,39 @@ Handheld device with two prongs that must contact target; light weapon (2 points
 
 ## ADVANCED
 
-Power fist 
+### Power Fist 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Power-assist gauntlet; medium weapon (but inflicts 6 points of damage from power-assist). 
 
-Stunstick 
+### Stunstick 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Nightstick-like form factor; medium weapon (variable setting: 0, 2, 4, or 6 points of damage; if setting is set to 2 or fewer hit points, human-sized target or smaller loses their next turn). 
 
-Mono-molecular blade 
+### Mono-Molecular Blade 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Produces a 15 cm (6 inch) wire–like blade that cuts through any material of up to level 4; light weapon (2 damage, difficulty of attack is eased). It ignores 1 point of Armor value (except from force fields). 
 
-Stunring 
+### Stunring 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 As stunstick, but light weapon (difficulty of attack is eased) worn as a set of two rings on the same hand; punch target to use.
 
 ## FANTASTIC
 
-Plasma saber 
+### Plasma Saber 
 
-level 5 (15) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 Produces a 1 m (3 foot) blade of sun-hot plasma that cuts through any material of up to level 7. Can be wielded as either a medium weapon in one hand or as a heavy weapon in two hands (4 damage or 6 damage). It ignores 3 points of a target’s Armor (except from force fields).
@@ -22274,109 +21915,96 @@ Any weapon that fires a projectile or other destructive force at a target within
 
 ## CONTEMPORARY
 
-Bow 
+### Bow 
 
-level 2 (6) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 Medium weapon (4 damage), long range. 
 
-Hand grenade 
+### Hand Grenade 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 Single use; can be thrown a short distance; explodes to inflict 6 points of damage in an immediate radius. 
 
 In modern and nearfuture settings, hand grenades are usually difficult to come by unless a character has a shady connection.
 
-Rifle, low caliber 
+{{< hint danger >}} {{< columns2 >}} Rifle, low caliber 
 
-level 2 (6) 
-
+level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 Medium weapon but requires both hands (4 damage), long range. 
 
-Handgun, light 
+{{< hint danger >}} {{< columns2 >}} Handgun, light 
 
-level 2 (6) 
-
+level <---> 2 (6) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Light weapon (2 damage, difficulty of attack is eased), short range. 
 
-Handgun, medium 
+{{< hint danger >}} {{< columns2 >}} Handgun, medium 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Medium weapon (4 damage), long range. 
 
-Shotgun
+{{< hint danger >}} {{< columns2 >}} Shotgun
 
- level 3 (9) 
-
+ Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Expensive
 
 Heavy weapon (6 damage, both hands), immediate range. 
 
-Handgun, heavy 
+{{< hint danger >}} {{< columns2 >}} Handgun, heavy 
 
-level 3 (9)
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
  Very Expensive 
 
 Heavy weapon (6 damage, both hands), long range. 
 
-Rifle, assault 
+{{< hint danger >}} {{< columns2 >}} Rifle, assault 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Heavy weapon (6 damage, both hands), long range. This rapid-fire weapon can operate in conjunction with Spray or Arc Spray abilities. 
 
-Rifle, heavy 
+{{< hint danger >}} {{< columns2 >}} Rifle, heavy 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Heavy weapon (6 damage, both hands), very long range. 
 
-Submachine gun 
+### Submachine Gun 
 
-level 3 (9) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Medium weapon (4 damage), short range. This rapid-fire weapon can operate in conjunction with Spray or Arc Spray abilities. 
 
-Taser 
+### Taser 
 
-level 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
  Very Expensive 
 
 Handheld device that fires attached probe at target within 9 m (30 feet); medium weapon (4 points of electrical damage and on a failed Might defense roll, target is stunned for 1 round, losing their next action).
 
 ## ADVANCED  
-Grenade, sonic 
+{{< hint danger >}} {{< columns2 >}} Grenade, sonic 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 Single use; can be thrown a short distance; explodes to inflict 2 points of damage in immediate radius. On a failed Might defense roll, targets lose their next turn. 
 
-Grenade, thermite 
+{{< hint danger >}} {{< columns2 >}} Grenade, thermite 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Moderate 
 
 Single use; can be thrown a short distance; explodes to inflict 6 points of damage in immediate radius. On a failed Might defense roll, targets burn for 2 points of damage each round until they spend a round smothering the fire.
@@ -22397,26 +22025,23 @@ Expensive 
 
 Light weapon (2 damage, difficulty of attack is eased), long range. Injects soporific that dazes target on a successful Might defense roll for one minute, or puts them into a light sleep for one minute on a failed roll. 
 
-Vacuum handgun, heavy 
+{{< hint danger >}} {{< columns2 >}} Vacuum handgun, heavy 
 
-level 3 (9) 
-
+level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 As contemporary handgun, but uses special rounds designed to fire in a zero-oxygen environment, and that are self-propelling so firing this gun in zero or low gravity doesn’t spin wielder backward.
 
-Vacuum rifle, assault
+{{< hint danger >}} {{< columns2 >}} Vacuum rifle, assault
 
-  level 3 (9) 
-
+  level <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 As contemporary assault rifle, but uses special rounds designed to fire in a zero-oxygen environment, and that are self-propelling so firing this assault rifle in zero or law gravity doesn’t spin wielder backward.
 
-Foam restraint rifle 
+### Foam Restraint Rifle 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Thick rifle emits a short-range stream of orange liquid that foams over a target and hardens into a body restraint that lasts for ten minutes. A restrained victim can’t move or take actions that require movement. A target whose level is higher than the rifle’s level can usually break free within one or two rounds. 
@@ -22429,10 +22054,9 @@ Very Expensive 
 
 Rifle fires coherent light beams; medium weapon but requires both hands (4 damage), very long range. 
 
-Grapple gun 
+### Grapple Gun 
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Medium weapon but requires both hands (1 damage), long range. Attaches articulated grapple and connected line to target; hinders animate targets until they can remove the grapple. Grapple gun mechanism either pulls gun wielder to anchored object, or vice versa if object is small. Otherwise, user must succeed on a Might-based task to pull target to them. 
@@ -22445,76 +22069,67 @@ Very Expensive x2 
 
 Rifle fires coherent light beams; heavy weapon (6 damage), long range. This rapid-fire weapon can operate in conjunction with Spray or Arc Spray abilities. 
 
-Rail gun 
+### Rail Gun 
 
-level 5 (15) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 Long-barreled rifle with computer sight assistance fires magnetically accelerated slugs; heavy-plus weapon (8 points of damage, both hands), range is 3,050 m (10,000 feet).
 
 ## FANTASTIC
 
-Blaster, light 
+{{< hint danger >}} {{< columns2 >}} Blaster, light 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Handgun that projects an energetic plasma-particle beam; light weapon (2 damage, difficulty of attack is eased), long range. It ignores 1 point of Armor value (except from force fields). 
 
-Blaster, medium 
+{{< hint danger >}} {{< columns2 >}} Blaster, medium 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Handgun that projects an energetic plasma-particle beam; medium weapon (4 damage), long range. It ignores 1 point of Armor value (except from force fields).
 
-Plasma grenade
+### Plasma Grenade
 
-level 4 (12) 
-
+{{< hint danger >}} {{< columns2 >}} Level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Expensive 
 
 Single use; can be thrown a short distance; explodes to inflict 8 points of damage in immediate radius and targets descend one step on the damage track. It ignores 2 points of Armor value (except from force fields). 
 
-Blaster, goggles 
+{{< hint danger >}} {{< columns2 >}} Blaster, goggles 
 
-level 4 (12) 
-
+level <---> 4 (12) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Thick goggles that project twin energetic plasma-particle beams; light weapon (2 damage, difficulty of attack is eased), long range. It ignores 1 point of Armor value (except from force fields). 
 
-Blaster, heavy 
+{{< hint danger >}} {{< columns2 >}} Blaster, heavy 
 
-level 5 (15) 
-
+level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Big handgun that projects an energetic plasma-particle beam; heavy weapon (6 damage, both hands), long range. It ignores 1 point of Armor value (except from force fields). 
 
-Blaster, heavy rifle 
+{{< hint danger >}} {{< columns2 >}} Blaster, heavy rifle 
 
-level 5 (15) 
-
+level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Very Expensive 
 
 Rifle that projects an energetic plasma-particle beam; heavy weapon (6 damage, both hands), very long range. It ignores 1 point of Armor value (except from force fields). 
 
-Blaster, heavy pulse rifle 
+{{< hint danger >}} {{< columns2 >}} Blaster, heavy pulse rifle 
 
-level 5 (15) 
-
+level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Very Expensive x2 
 
 Rifle that projects an energetic plasma-particle beam; heavy weapon (6 damage, both hands), long range. This rapid-fire weapon can operate in conjunction with Spray or Arc Spray abilities. It ignores 1 point of Armor value (except from force fields). 
 
-Blaster, cannon 
+{{< hint danger >}} {{< columns2 >}} Blaster, cannon 
 
-level 5 (15) 
-
+level <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 Exorbitant 
 
 Cannon-like gun that requires a tripod and two people to operate that projects an energetic plasma-particle beam; heavy weapon (10 damage, both hands), very long range. This rapid-fire weapon can operate in conjunction with Spray or Arc Spray abilities. It ignores 2 points of Armor value (except from force fields).

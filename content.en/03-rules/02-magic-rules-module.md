@@ -76,22 +76,21 @@ The following are examples of common magical rituals suitable for many fantasy s
 
 #### Understanding The Examples
 
-{{< hint warning >}}
-Each ritual is described in the following format.
-
-**Level:** The overall level of the ritual, which determines how many subtasks it has.
-
-**Time:** The preparation time (if any) and performance time.
-
-**Roles:** Things other characters can do to participate and help.
-
-**Side Effects:** Negative consequences for failed rolls or GM intrusions.  
-**Reagents:** Resources that can help success.
-
-**Pool:** What kind of Pool points the ritual costs.
-
-**Other Assets:** Kinds of abilities that can help success.
-{{< /hint >}}
+> [!WARNING]
+> Each ritual is described in the following format.
+>
+> **Level:** The overall level of the ritual, which determines how many subtasks it has.
+>
+> **Time:** The preparation time (if any) and performance time.
+>
+> **Roles:** Things other characters can do to participate and help.
+>
+> **Side Effects:** Negative consequences for failed rolls or GM intrusions.
+> **Reagents:** Resources that can help success.
+>
+> **Pool:** What kind of Pool points the ritual costs.
+>
+> **Other Assets:** Kinds of abilities that can help success.
 
 #### Beseech
 
@@ -411,9 +410,8 @@ Because magic works on intuitive rather than scientific levels, mages could have
 
 One way to present mind control more safely is to disallow certain actions but otherwise leave the character in control. For example, being charmed by a vampire might mean the PC can't attack the vampire (or its allies) or run away, but is still able to call for help, heal themselves, leave at a normal pace, and take other actions. Alternatively, the character can be given a specific command, and until they comply with that command their other actions are hindered by one or more steps. If the player is willing to engage with the parameters of the mind control, the GM may award them an additional 1 XP (or, to approach it from the opposite direction, the GM can offer them a GM intrusion that the mind control is happening, and allow the player to spend 1 XP to refuse it, or go into XP debt if they want to refuse it but have no XP to spend).
 
-{{< hint info >}}
-A rule for any game: don't use mind control (or anything) to make a character have sex without the player's permission. For more information and guidelines about consent in RPGs, read the free Consent in Gaming PDF at [myMCG.info/consent](https://mymcg.info/consent)
-{{< /hint >}}
+> [!NOTE]
+> A rule for any game: don't use mind control (or anything) to make a character have sex without the player's permission. For more information and guidelines about consent in RPGs, read the free Consent in Gaming PDF at [myMCG.info/consent](https://mymcg.info/consent)
 
 ## Mystical Martial Arts
 
@@ -426,9 +424,8 @@ If the setting calls for wuxia-style fantasy martial arts or similar types of ac
 * **Wounds heal faster.** Everyone gains +1 to all recovery rolls.
 * **Superhuman abilities exist.** Consider adopting some of the superhero rules from the Cypher System Reference Document, in particular the power shift optional rules. These may derive from almost supernatural levels of training in various techniques (such as dianxue) but probably mostly from neili.
 
-{{< hint info >}}
-**Dianxue:** The touch of death---killing by using precise nonlethal force on key points of the body. Neili: Internal force--- building up and cultivating the energy known as qi and using it for supernatural effects.
-{{< /hint >}}
+> [!NOTE]
+> **Dianxue:** The touch of death---killing by using precise nonlethal force on key points of the body. Neili: Internal force--- building up and cultivating the energy known as qi and using it for supernatural effects.
 
 ## Possession
 

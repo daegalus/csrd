@@ -8,9 +8,8 @@ description: Character type is the core of your character. Your type helps deter
 
 Character type is the core of your character. Your type helps determine your character's place in the world and relationship with other people in the setting. It's the noun of the sentence "I am an *adjective noun* who *verbs*."
 
-{{< hint info >}}
-In some roleplaying games, your character type might be called your character class.
-{{< /hint >}}
+> [!NOTE]
+> In some roleplaying games, your character type might be called your character class.
 
 You can choose from four character types: Warrior, Adept, Explorer, and Speaker. However, you may not want to use these generic names for them. This chapter offers a few more specific names for each type that might be more appropriate to various genres. You'll find that names like "Warrior" or "Explorer" don't always feel right, particularly in games set in modern times. As always, you're free to do as you wish. (Your type is who your character is. You should use whatever name you want for your type, as long as it fits both your character and the setting.)
 
@@ -28,9 +27,8 @@ A few player intrusion examples are provided under each type. That said, not eve
 
 Using an intrusion does not require a character to use an action to trigger it. A player intrusion just happens.
 
-{{< hint info >}}
-Player intrusions should be limited to no more than one per player per session.
-{{< /hint >}}
+> [!NOTE]
+> Player intrusions should be limited to no more than one per player per session.
 
 ## Defense Tasks
 
@@ -203,9 +201,8 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 * Mastery With Defense
 * Parry
 
-{{< hint info >}}
-Remember that at higher tiers, you can choose special abilities from lower tiers. This is sometimes the best way to ensure that you have exactly the character you want. This is particularly true with abilities that grant skills, which can usually be taken multiple times.
-{{< /hint >}}
+> [!NOTE]
+> Remember that at higher tiers, you can choose special abilities from lower tiers. This is sometimes the best way to ensure that you have exactly the character you want. This is particularly true with abilities that grant skills, which can usually be taken multiple times.
 
 -----
 
@@ -222,24 +219,22 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 ### Warrior Example
 
-{{< hint warning >}}
-
-Ray wants to create a Warrior character for a modern campaign. He decides that the character is an ex-military fellow who is fast and strong. He puts 3 of his additional points into his Might Pool and 3 into his Speed Pool; his stat Pools are now Might 13, Speed 13, and Intellect 8. As a first-tier character, his Effort is 1, his Might Edge is 1, and his Speed Edge and Intellect Edge are both 0. His character is not particularly smart or charismatic.
-
-He wants to use a large combat knife (a medium weapon that inflicts 4 points of damage) and a .357 Magnum (a heavy pistol that inflicts 6 points of damage but requires the use of both hands). Ray decides not to wear armor, as it's not really appropriate to the setting, so for his first ability, he chooses Trained Without Armor so he eases Speed defense actions. For his second ability, he chooses Combat Prowess so he can inflict extra damage with his big knife.
-
-Ray wants to be fast as well as tough, so he selects Improved Edge. This gives him a Speed Edge of 1. He rounds out his character with Physical Skills and chooses swimming and running.
-
-The Warrior can bear two cyphers. The GM decides that Ray's first cypher is a pill that restores 6 points of Might when swallowed, and his second is a small, easily concealed grenade that explodes like a firebomb when thrown, inflicting 3 points of damage to all within immediate range.
-
-Ray still needs to choose a descriptor and a focus. Looking ahead to the descriptor rules, Ray chooses Strong, which increases his Might Pool to 17. He also becomes trained in jumping and breaking inanimate objects. (If he had chosen jumping as one of his physical skills, the Strong descriptor would have made him specialized in jumping instead of trained.) Being Strong also gives Ray an extra medium or heavy weapon. He chooses a baseball bat that he'll use in a pinch. He keeps it in the trunk of his car.
-
-For his focus, Ray chooses Masters Weaponry. This gives him yet another weapon of high quality. He chooses another combat knife and asks the GM if he could use it in his left hand---not to make attacks, but as a shield. This will ease his Speed defense rolls if he has both knives out (the "shield" counts as an asset). The GM agrees. During the game, Ray's Warrior will be hard to hit---he is trained in Speed defense rolls, and his extra knife eases his defense rolls by another step.
-
-Thanks to his focus, he also inflicts 1 additional point of damage with his chosen weapon. Now he inflicts 6 points of damage with his blade. Ray's character is a deadly combatant, likely starting the game with a reputation as a knife fighter.
-
-For his character arc, Ray chooses Defeat a Foe. That foe, he decides, is none other than someone in his company who was once a friend but went rogue.
-{{< /hint >}}
+> [!WARNING]
+> Ray wants to create a Warrior character for a modern campaign. He decides that the character is an ex-military fellow who is fast and strong. He puts 3 of his additional points into his Might Pool and 3 into his Speed Pool; his stat Pools are now Might 13, Speed 13, and Intellect 8. As a first-tier character, his Effort is 1, his Might Edge is 1, and his Speed Edge and Intellect Edge are both 0. His character is not particularly smart or charismatic.
+>
+> He wants to use a large combat knife (a medium weapon that inflicts 4 points of damage) and a .357 Magnum (a heavy pistol that inflicts 6 points of damage but requires the use of both hands). Ray decides not to wear armor, as it's not really appropriate to the setting, so for his first ability, he chooses Trained Without Armor so he eases Speed defense actions. For his second ability, he chooses Combat Prowess so he can inflict extra damage with his big knife.
+>
+> Ray wants to be fast as well as tough, so he selects Improved Edge. This gives him a Speed Edge of 1. He rounds out his character with Physical Skills and chooses swimming and running.
+>
+> The Warrior can bear two cyphers. The GM decides that Ray's first cypher is a pill that restores 6 points of Might when swallowed, and his second is a small, easily concealed grenade that explodes like a firebomb when thrown, inflicting 3 points of damage to all within immediate range.
+>
+> Ray still needs to choose a descriptor and a focus. Looking ahead to the descriptor rules, Ray chooses Strong, which increases his Might Pool to 17. He also becomes trained in jumping and breaking inanimate objects. (If he had chosen jumping as one of his physical skills, the Strong descriptor would have made him specialized in jumping instead of trained.) Being Strong also gives Ray an extra medium or heavy weapon. He chooses a baseball bat that he'll use in a pinch. He keeps it in the trunk of his car.
+>
+> For his focus, Ray chooses Masters Weaponry. This gives him yet another weapon of high quality. He chooses another combat knife and asks the GM if he could use it in his left hand---not to make attacks, but as a shield. This will ease his Speed defense rolls if he has both knives out (the "shield" counts as an asset). The GM agrees. During the game, Ray's Warrior will be hard to hit---he is trained in Speed defense rolls, and his extra knife eases his defense rolls by another step.
+>
+> Thanks to his focus, he also inflicts 1 additional point of damage with his chosen weapon. Now he inflicts 6 points of damage with his blade. Ray's character is a deadly combatant, likely starting the game with a reputation as a knife fighter.
+>
+> For his character arc, Ray chooses Defeat a Foe. That foe, he decides, is none other than someone in his company who was once a friend but went rogue.
 
 ## Adept
 
@@ -261,9 +256,8 @@ You master powers or abilities outside the experience, understanding, and someti
 
 **Advanced Adepts:** Even at low tiers, Adept powers are impressive. Higher-tier Adepts can accomplish amazing deeds that can reshape matter and the environment around them.
 
-{{< hint info >}}
-Adepts are almost always emblematic of the paranormal or superhuman in some way---wizards, psychics, or something similar. If the game you're playing has none of that, an Adept could be a charlatan mimicking such abilities with tricks and hidden devices, or a gadgeteer character with a "utility belt" full of oddments. Or a game like that might not have Adepts. That's okay too.
-{{< /hint >}}
+> [!NOTE]
+> Adepts are almost always emblematic of the paranormal or superhuman in some way---wizards, psychics, or something similar. If the game you're playing has none of that, an Adept could be a charlatan mimicking such abilities with tricks and hidden devices, or a gadgeteer character with a "utility belt" full of oddments. Or a game like that might not have Adepts. That's okay too.
 
 ### Adept Player Intrusions
 
@@ -417,24 +411,21 @@ Choose one of the abilities listed below (or from a lower tier) to add to your r
 
 ### Adept Example
 
-{{< hint warning >}}
+> [!WARNING]
+> Jen wants to create an Adept---a sorcerer for a fantasy campaign. She decides to be somewhat well rounded, so she puts 2 of her additional points into each stat Pool, giving her a Might Pool of 9, a Speed Pool of 11, and an Intellect Pool of 14. Her Adept is smart and quick. She has an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0. As a first-tier character, her Effort is 1. As her initial abilities, she chooses Onslaught and Ward, giving her a strong offense and defense. She also chooses Magic Training and rounds out her character with Scan, which she hopes will be useful in gaining insight and information. For this character, Onslaught, Ward, and Scan are all spells she has mastered through years of training and study.
+>
+> She can bear three cyphers. The GM gives her a potion that acts as a short-range teleporter, a small charm that restores 5 points to her Intellect Pool, and a fluid-filled flask that explodes like a fiery bomb. Jen's sorcerer is skilled with light weapons, so she chooses a dagger.
+>
+> For her descriptor, Jen chooses Graceful, which adds 2 points to her Speed Pool, bringing it to 13. That descriptor means she is trained in balancing and anything requiring careful movements, physical performing arts, and Speed defense tasks. Perhaps she is a dancer. In fact, she begins to develop a backstory that involves graceful, lithe movements that she incorporates into her spells.
+>
+> For her focus, she chooses Leads. This gives her training in social interactions, which again helps round her out---she's good in all kinds of situations. Moreover, she has the Good Advice ability, which enables her to be a focal point of her group.
+>
+> Her spells and focus abilities cost Intellect points to activate, so she's glad to have a lot of points in her Intellect Pool. In addition, her Intellect Edge will help reduce those costs. If she uses her Onslaught force blast without applying Effort, it costs 0 Intellect points and deals 4 points of damage. Her Intellect Edge will allow her to save points to devote toward applying Effort for other purposes, perhaps to boost the accuracy of Onslaught.
+>
+> For her character arc, Jen chooses Aid a Friend. She decides that when her sorcerer character was young, she had a magical mentor. That mentor was later taken prisoner by a demon, so her character is always looking for clues on how to find the demon and release her friend from bondage.
 
-Jen wants to create an Adept---a sorcerer for a fantasy campaign. She decides to be somewhat well rounded, so she puts 2 of her additional points into each stat Pool, giving her a Might Pool of 9, a Speed Pool of 11, and an Intellect Pool of 14. Her Adept is smart and quick. She has an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0. As a first-tier character, her Effort is 1. As her initial abilities, she chooses Onslaught and Ward, giving her a strong offense and defense. She also chooses Magic Training and rounds out her character with Scan, which she hopes will be useful in gaining insight and information. For this character, Onslaught, Ward, and Scan are all spells she has mastered through years of training and study.
-
-She can bear three cyphers. The GM gives her a potion that acts as a short-range teleporter, a small charm that restores 5 points to her Intellect Pool, and a fluid-filled flask that explodes like a fiery bomb. Jen's sorcerer is skilled with light weapons, so she chooses a dagger.
-
-For her descriptor, Jen chooses Graceful, which adds 2 points to her Speed Pool, bringing it to 13. That descriptor means she is trained in balancing and anything requiring careful movements, physical performing arts, and Speed defense tasks. Perhaps she is a dancer. In fact, she begins to develop a backstory that involves graceful, lithe movements that she incorporates into her spells.
-
-For her focus, she chooses Leads. This gives her training in social interactions, which again helps round her out---she's good in all kinds of situations. Moreover, she has the Good Advice ability, which enables her to be a focal point of her group.
-
-Her spells and focus abilities cost Intellect points to activate, so she's glad to have a lot of points in her Intellect Pool. In addition, her Intellect Edge will help reduce those costs. If she uses her Onslaught force blast without applying Effort, it costs 0 Intellect points and deals 4 points of damage. Her Intellect Edge will allow her to save points to devote toward applying Effort for other purposes, perhaps to boost the accuracy of Onslaught.
-
-For her character arc, Jen chooses Aid a Friend. She decides that when her sorcerer character was young, she had a magical mentor. That mentor was later taken prisoner by a demon, so her character is always looking for clues on how to find the demon and release her friend from bondage.
-{{< /hint >}}
-
-{{< hint info >}}
-GMs are always free to pre-select a type's special abilities at a given tier to reinforce the setting. In the fantasy setting of Jen's sorcerer, the GM might have said that all sorcerers (Adepts) start with Magic Training as one of their tier 1 abilities. This doesn't make the character any less powerful or special, but it says something about her role in the world and expectations in the game.
-{{< /hint >}}
+> [!NOTE]
+> GMs are always free to pre-select a type's special abilities at a given tier to reinforce the setting. In the fantasy setting of Jen's sorcerer, the GM might have said that all sorcerers (Adepts) start with Magic Training as one of their tier 1 abilities. This doesn't make the character any less powerful or special, but it says something about her role in the world and expectations in the game.
 
 ## Explorer
 
@@ -639,23 +630,20 @@ Choose three of the abilities listed below (or from a lower tier) to add to your
 
 ### Explorer Example
 
-{{< hint warning >}}
-
-Sam decides to create an Explorer character for a science fiction campaign. This character will be a hardy soul who explores alien worlds. They put 3 additional points into their Might Pool, 2 into their Speed Pool, and 1 into their Intellect Pool; their stat Pools are now Might 13, Speed 11, and Intellect 10. As a first-tier character, their Effort is 1, their Might Edge is 1, and their Speed Edge and Intellect Edge are 0. Their character is fairly well-rounded so far.
-
-Sam immediately leaps in and starts choosing abilities. They pick Danger Sense and Surging Confidence, thinking those abilities will be generally useful. They also choose Practiced in Armor, reasoning that the character wears high-tech medium armor when exploring. Last, they choose Knowledge Skills and select geology and biology to help during interplanetary explorations.
-
-Sam's Explorer can bear two cyphers, which in this setting involve nanotechnology. The GM decides that one is a nanite injector that grants a +1 bonus to Might Edge when used, and the other is a device that can create one simple handheld object the user wishes.
-
-Sam's Explorer is not really geared toward fighting, but sometimes the universe is a dangerous place, so they note that they're carrying a medium blaster as well.
-
-Sam still needs a descriptor and a focus. Looking to the Descriptor chapter, they choose Hardy, which increases their Might Pool to 17. They also heal more quickly and can operate better when injured. They're trained in Might defense but have an inability with initiative; however, it's effectively canceled out by their Danger Sense (and vice versa). Sam could go back and select something else instead of Danger Sense, but they like it and decide to keep it. Overall, the descriptor ends up making the character tough but a little slow.
-
-For their focus, Sam chooses Explores Dark Places (in this case, weird ruins of alien civilizations). This gives the character a bunch of additional skills: searching, listening, climbing, balancing, and jumping. They're quite the capable Explorer.
-
-For their character arc, Sam chooses Enterprise. Exploring alien places sometimes turns up strange relics, and Sam figures they might be able to set up a service to reliably transport these items to responsible third parties, rather than allow them to fall into the hands of pirates and rich private collectors. For a small fee, of course.
-
-{{< /hint >}}
+> [!WARNING]
+> Sam decides to create an Explorer character for a science fiction campaign. This character will be a hardy soul who explores alien worlds. They put 3 additional points into their Might Pool, 2 into their Speed Pool, and 1 into their Intellect Pool; their stat Pools are now Might 13, Speed 11, and Intellect 10. As a first-tier character, their Effort is 1, their Might Edge is 1, and their Speed Edge and Intellect Edge are 0. Their character is fairly well-rounded so far.
+>
+> Sam immediately leaps in and starts choosing abilities. They pick Danger Sense and Surging Confidence, thinking those abilities will be generally useful. They also choose Practiced in Armor, reasoning that the character wears high-tech medium armor when exploring. Last, they choose Knowledge Skills and select geology and biology to help during interplanetary explorations.
+>
+> Sam's Explorer can bear two cyphers, which in this setting involve nanotechnology. The GM decides that one is a nanite injector that grants a +1 bonus to Might Edge when used, and the other is a device that can create one simple handheld object the user wishes.
+>
+> Sam's Explorer is not really geared toward fighting, but sometimes the universe is a dangerous place, so they note that they're carrying a medium blaster as well.
+>
+> Sam still needs a descriptor and a focus. Looking to the Descriptor chapter, they choose Hardy, which increases their Might Pool to 17. They also heal more quickly and can operate better when injured. They're trained in Might defense but have an inability with initiative; however, it's effectively canceled out by their Danger Sense (and vice versa). Sam could go back and select something else instead of Danger Sense, but they like it and decide to keep it. Overall, the descriptor ends up making the character tough but a little slow.
+>
+> For their focus, Sam chooses Explores Dark Places (in this case, weird ruins of alien civilizations). This gives the character a bunch of additional skills: searching, listening, climbing, balancing, and jumping. They're quite the capable Explorer.
+>
+> For their character arc, Sam chooses Enterprise. Exploring alien places sometimes turns up strange relics, and Sam figures they might be able to set up a service to reliably transport these items to responsible third parties, rather than allow them to fall into the hands of pirates and rich private collectors. For a small fee, of course.
 
 ## Speaker
 
@@ -857,22 +845,20 @@ Choose two of the abilities listed below (or from a lower tier) to add to your r
 
 ### Speaker Example
 
-{{< hint warning >}}
-
-Mary wants to create a Speaker for a Lovecraftian horror campaign. She puts 3 of her additional stat points into her Intellect Pool and 3 into her Speed Pool; her stat Pools are now Might 8, Speed 12, and Intellect 14. As a first-tier character, her Effort is 1, her Might Edge and Speed Edge are 0, and her Intellect Edge is 1. She's smart and charismatic but not particularly tough.
-
-Mary chooses Fast Talk and Spin Identity to help get into places and learn things she wants to know. She's a bit of a con artist. She's good to her friends, however, and chooses Encouragement as well. Mary rounds out her first-tier abilities with Interaction Skills (deceiving and persuasion).
-
-A Speaker normally starts with two cyphers, but the GM rules that characters in this campaign start with only one---something creepy relating to their background. Mary's cypher is an odd pocket watch given to her by her grandfather. She doesn't know how or why, but when activated, the watch allows her to take twice as many actions for three rounds.
-
-Mary's character carries a small knife hidden in her bag in case of trouble. As a light weapon, it inflicts 2 points of damage, but attacks with it are eased.
-
-Mary chooses Resilient for her descriptor and decides that she can probably learn the truth behind some of the strange things that she's heard about without feeling too much trauma if it's horrible. Resilient increases her Might Pool to 10 and her Intellect Pool to 16. She's trained in Might and Intellect defense actions and gains an extra recovery roll each day. At first, Mary is sad that her descriptor gives her an inability in knowledge and puzzle tasks, but then she realizes that the flaw fits her character well---she's better at getting people to tell her what she needs to know than at figuring out the information herself.
-
-For her focus, Mary chooses Moves Like a Cat, granting her a final Speed Pool of 18 and training in balance. In the end, she's graceful and quick, charismatic, and hardier than she initially thought thanks to her drive. She's ready to investigate the weird.
-
-For her character arc, Mary chooses Fall From Grace. She decides she's had an obsession with a strange tome that's been in her family for generations, and her character is drawn to its strange languages and rituals.
-{{< /hint >}}
+> [!WARNING]
+> Mary wants to create a Speaker for a Lovecraftian horror campaign. She puts 3 of her additional stat points into her Intellect Pool and 3 into her Speed Pool; her stat Pools are now Might 8, Speed 12, and Intellect 14. As a first-tier character, her Effort is 1, her Might Edge and Speed Edge are 0, and her Intellect Edge is 1. She's smart and charismatic but not particularly tough.
+>
+> Mary chooses Fast Talk and Spin Identity to help get into places and learn things she wants to know. She's a bit of a con artist. She's good to her friends, however, and chooses Encouragement as well. Mary rounds out her first-tier abilities with Interaction Skills (deceiving and persuasion).
+>
+> A Speaker normally starts with two cyphers, but the GM rules that characters in this campaign start with only one---something creepy relating to their background. Mary's cypher is an odd pocket watch given to her by her grandfather. She doesn't know how or why, but when activated, the watch allows her to take twice as many actions for three rounds.
+>
+> Mary's character carries a small knife hidden in her bag in case of trouble. As a light weapon, it inflicts 2 points of damage, but attacks with it are eased.
+>
+> Mary chooses Resilient for her descriptor and decides that she can probably learn the truth behind some of the strange things that she's heard about without feeling too much trauma if it's horrible. Resilient increases her Might Pool to 10 and her Intellect Pool to 16. She's trained in Might and Intellect defense actions and gains an extra recovery roll each day. At first, Mary is sad that her descriptor gives her an inability in knowledge and puzzle tasks, but then she realizes that the flaw fits her character well---she's better at getting people to tell her what she needs to know than at figuring out the information herself.
+>
+> For her focus, Mary chooses Moves Like a Cat, granting her a final Speed Pool of 18 and training in balance. In the end, she's graceful and quick, charismatic, and hardier than she initially thought thanks to her drive. She's ready to investigate the weird.
+>
+> For her character arc, Mary chooses Fall From Grace. She decides she's had an obsession with a strange tome that's been in her family for generations, and her character is drawn to its strange languages and rituals.
 
 ## Fantasy Character Options
 

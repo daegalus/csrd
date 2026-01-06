@@ -48,7 +48,8 @@ Second, the player must make an Intellect-based roll with the desired level of r
 
 A relationship can be improved only one level at a time, and the GM and the player should work out an appropriate time interval. For relationships of levels 5 and above, multiple story-based actions and multiple rolls are almost certainly required.
 
-(It's possible for relationship levels to be lopsided, such that the relationship from the point of view of one person is a different level than from the point of view of the other. This should be used sparingly, because it makes things far more complicated. In the case of polyamory, it is possible to have more than two people in a relationship, but even in these situations the connection between any two individuals should have its own level.)
+> [!NOTE]
+> It's possible for relationship levels to be lopsided, such that the relationship from the point of view of one person is a different level than from the point of view of the other. This should be used sparingly, because it makes things far more complicated. In the case of polyamory, it is possible to have more than two people in a relationship, but even in these situations the connection between any two individuals should have its own level.
 
 ## Romantic Relationship Levels
 

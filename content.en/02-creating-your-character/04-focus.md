@@ -227,9 +227,8 @@ You deploy an amazing shield of pure force that provides protection and some off
 
 Your robotic creations do as they are commanded.
 
-{{< hint info >}}
-The word "robot" is used in this focus, though the robot you create might look very different from one created by someone else, depending on the genre. Steampunk robots, organic robots, or even magical golems are all feasible "robots."
-{{< /hint >}}
+> [!NOTE]
+> The word "robot" is used in this focus, though the robot you create might look very different from one created by someone else, depending on the genre. Steampunk robots, organic robots, or even magical golems are all feasible "robots."
 
 * Tier 1: Robot Assistant
 * Tier 1: Robot Builder
@@ -403,9 +402,8 @@ You're an inventor of strange and useful objects.
 
 **GM Intrusions:** The object malfunctions, breaks, or suffers catastrophic or unexpected failure.
 
-{{< hint info >}}
-Cyphersmith works only in a setting where the cyphers are physical objects. If this isn't the case, this ability should probably be replaced with something akin to Weird Science Breakthrough from the Conducts Weird Science focus.
-{{< /hint >}}
+> [!NOTE]
+> Cyphersmith works only in a setting where the cyphers are physical objects. If this isn't the case, this ability should probably be replaced with something akin to Weird Science Breakthrough from the Conducts Weird Science focus.
 
 -----
 
@@ -494,7 +492,8 @@ You're a slacker, but you know a little about a lot of things.
 
 Whether balancing on two wheels, jumping another vehicle, or driving head-on toward an oncoming enemy car, you don't think about the risks when you're behind the wheel.
 
-(Someone who Drives Like a Maniac needs access to a vehicle.)
+> [!NOTE]
+> Someone who Drives Like a Maniac needs access to a vehicle.
 
 * Tier 1: Driver
 * Tier 1: Driving on the Edge
@@ -853,9 +852,8 @@ You're a celebrity and most people adore you.
 
 You carry a gun and you know how to use it in a fight.
 
-{{< hint info >}}
-Although Is Licensed to Carry is designed with modern firearms in mind, it could apply to flintlock weapons, futuristic laser blasters, or other ranged weapons.
-{{< /hint >}}
+> [!NOTE]
+> Although Is Licensed to Carry is designed with modern firearms in mind, it could apply to flintlock weapons, futuristic laser blasters, or other ranged weapons.
 
 * Tier 1: Gunner
 * Tier 1: Practiced With Guns
@@ -1041,7 +1039,8 @@ Insects. Rats. Bats. Even birds. You master one type of small creature that obey
 
 You are a master user of a particular type of weapon, be it a sword, whip, dagger, gun, or something else.
 
-(Someone who Masters Weaponry might have additional equipment, including a high- quality weapon.)
+> [!NOTE]
+> Someone who Masters Weaponry might have additional equipment, including a high- quality weapon.
 
 * Tier 1: Weapon Master
 * Tier 1: Weapon Crafter
@@ -1161,7 +1160,8 @@ You never quit, can shrug off a beating, and always come back for more.
 
 Under the guise of someone else, you seek to find answers the powerful do not want divulged.
 
-(Someone who Operates Undercover might have additional equipment that includes a disguise kit.)
+> [!NOTE]
+> Someone who Operates Undercover might have additional equipment that includes a disguise kit.
 
 * Tier 1: Investigate
 * Tier 2: Disguise
@@ -1378,7 +1378,8 @@ You keep the place where you live safe from all danger.
 
 Wandering souls, nature spirits, and elemental beings aid and support you.
 
-(In some settings, the Shepherds Spirits focus applies to only one kind of spirit, such as spirits of the deceased, nature spirits, and so on.)
+> [!NOTE]
+> In some settings, the Shepherds Spirits focus applies to only one kind of spirit, such as spirits of the deceased, nature spirits, and so on.
 
 * Tier 1: Question the Spirits
 * Tier 2: Spirit Accomplice
@@ -1422,9 +1423,8 @@ You can shrink down to the size of a bug and, with enough experience, even small
 
 **GM Intrusions:** A creature thinks the small character is potential food. The small character gets trapped in a tiny space or under a falling object.
 
-{{< hint info >}}
-A character who Shrinks to Minute Size who chooses to learn abilities like Enlarge will never be quite as big as one who Grows to Towering Heights, but they can enjoy the advantages of being big or small as needed.
-{{< /hint >}}
+> [!NOTE]
+> A character who Shrinks to Minute Size who chooses to learn abilities like Enlarge will never be quite as big as one who Grows to Towering Heights, but they can enjoy the advantages of being big or small as needed.
 
 -----
 
@@ -1432,9 +1432,8 @@ A character who Shrinks to Minute Size who chooses to learn abilities like Enlar
 
 You suck power out of machines and creatures alike in order to empower yourself.
 
-{{< hint info >}}
-Robots and other living machines should be treated as creatures, not machines, for the purposes of siphoning power from them.
-{{< /hint >}}
+> [!NOTE]
+> Robots and other living machines should be treated as creatures, not machines, for the purposes of siphoning power from them.
 
 * Tier 1: Drain Machine
 * Tier 2: Drain Creature
@@ -1451,9 +1450,8 @@ Robots and other living machines should be treated as creatures, not machines, f
 
 You kill monsters.
 
-{{< hint info >}}
-Although wielding a sword in a setting where people usually do not carry such weapons is fine, you can change the Slays Monsters sword-related abilities to use a different weapon, such as a gun with silver bullets.
-{{< /hint >}}
+> [!NOTE]
+> Although wielding a sword in a setting where people usually do not carry such weapons is fine, you can change the Slays Monsters sword-related abilities to use a different weapon, such as a gun with silver bullets.
 
 * Tier 1: Practiced With Swords
 * Tier 1: Monster Bane
@@ -1521,9 +1519,8 @@ Your spiritual connection to nature and the environment grants you mystical abil
 
 Your armor, along with your size, strength, incredible training, or machine enhancement, makes you difficult to move or hurt.
 
-{{< hint info >}}
-Some characters who Stand Like a Bastion might already be experts in armor. They can choose a different tier 1 ability instead of Practiced in Armor.
-{{< /hint >}}
+> [!NOTE]
+> Some characters who Stand Like a Bastion might already be experts in armor. They can choose a different tier 1 ability instead of Practiced in Armor.
 
 * Tier 1: Practiced in Armor
 * Tier 1: Experienced Defender
@@ -1570,9 +1567,8 @@ You can transform yourself into an animal.
 
 **GM Intrusions:** The character unexpectedly changes form. An NPC is frightened by or aggressive toward the shapeshifter. The transformation takes longer than expected.
 
-{{< hint info >}}
-Greater Beast Form applies to using Animal Shape.
-{{< /hint >}}
+> [!NOTE]
+> Greater Beast Form applies to using Animal Shape.
 
 -----
 
@@ -1645,9 +1641,8 @@ You can summon storms or break them apart.
 
 You can see through time, try to reach through it, and eventually even travel through it.
 
-{{< hint info >}}
-Although all character choices are subject to GM approval, Travels Through Time is a focus that the GM and player should probably have a long conversation about ahead of time, so the player knows the rules of time travel (if any) that exist in the GM's setting. A character with this focus can drastically alter a setting, if the rules of time travel allow it.
-{{< /hint >}}
+> [!NOTE]
+> Although all character choices are subject to GM approval, Travels Through Time is a focus that the GM and player should probably have a long conversation about ahead of time, so the player knows the rules of time travel (if any) that exist in the GM's setting. A character with this focus can drastically alter a setting, if the rules of time travel allow it.
 
 * Tier 1: Anticipation
 * Tier 2: See History

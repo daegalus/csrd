@@ -3,28 +3,28 @@ languageCode = 'en-us'
 title = 'Cypher System Reference Document'
 theme = 'hugo-book'
 
-[languages.en]  
+[languages.en]
 languageName = 'English'
 contentDir = 'content.en'
 weight = 1
 
 # Theme
 enableGitInfo = true
-disableKinds = ['taxonomy', 'taxonomyTerm']
+disableKinds = ['taxonomy']
 
 [params]
-  BookTheme = 'auto'
-  BookRepo = 'https://github.com/Daegalus/csrd'
-  BookCommitPath = 'commit'
-  BookComments = false
-  BookServiceWorker = true
-  BookSection = "*"
-  description = "The system reference document for the Cypher System, a tabletop roleplaying game by Monte Cook Games."
-  title = 'Cypher System Reference Document'
+BookTheme = 'auto'
+BookRepo = 'https://github.com/Daegalus/csrd'
+BookCommitPath = 'commit'
+BookComments = false
+BookServiceWorker = true
+BookSection = "*"
+description = "The system reference document for the Cypher System, a tabletop roleplaying game by Monte Cook Games."
+title = 'Cypher System Reference Document'
 
 [markup.goldmark.renderer]
-  unsafe = true
+unsafe = true
 
 [markup]
-  [markup.tableOfContents]
-    endLevel = 5
+[markup.tableOfContents]
+endLevel = 5

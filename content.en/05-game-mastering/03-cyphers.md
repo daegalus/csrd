@@ -20,9 +20,8 @@ Cyphers are a game mechanic designed for frequent discovery and use. PCs can hav
 
 In theory, the cyphers gained by the PCs are determined randomly. However, the GM can allow PCs to acquire or find them intentionally as well. Cyphers are gained with such regularity that the PCs should feel that they can use them freely. There will always be more, and they'll have different benefits. This means that in gameplay, cyphers are less like gear or treasure and more like character abilities that the players don't choose. This leads to fun game moments where a player can say "Well, I've got an X that might help in this situation," and X is always different. X might be an intuitive understanding of the local computer network, a favor from the Faerie Court, an explosive device, a short-range teleporter, or a force field. It might be a powerful magnet or a prayer that will cure disease. It could be anything. Cyphers keep the game fresh and interesting. Over time, characters can learn how to safely carry more and more cyphers at the same time, so cyphers really do seem more like abilities and less like gear.
 
-{{< hint info >}}
-"Carry" in this sense refers to both subtle cyphers and manifest cyphers, though a PC may not actually carry anything that physically represents the cypher. A character thrown into prison without their equipment might still have subtle cyphers.
-{{< /hint >}}
+> [!NOTE]
+> "Carry" in this sense refers to both subtle cyphers and manifest cyphers, though a PC may not actually carry anything that physically represents the cypher. A character thrown into prison without their equipment might still have subtle cyphers.
 
 Cyphers don't have to be used to make room for new ones. For subtle cyphers, a character can just use an action to "lose" the cypher, freeing up space to "find" one later (once a subtle cypher is discarded this way, it is gone and can't be recovered). For manifest cyphers, it's perfectly acceptable for the PCs to stash one elsewhere for later use; of course, that doesn't mean it will still be there when they return.
 
@@ -368,9 +367,8 @@ Identified manifest cyphers can be used automatically. Once a manifest cypher is
 
 A character can attempt to use a manifest cypher that has not been identified; this is usually an Intellect task using the cypher's level. Failure might mean that the PC can't figure out how to use the cypher or that they use it incorrectly (GM's discretion). Of course, even if the PC activates the unidentified cypher, they have no idea what its effect will be.
 
-{{< hint info >}}
-Cyphers are meant to be used regularly and often. If PCs are hoarding or saving their cyphers, feel free to give them a reason to put the cyphers into play.
-{{< /hint >}}
+> [!NOTE]
+> Cyphers are meant to be used regularly and often. If PCs are hoarding or saving their cyphers, feel free to give them a reason to put the cyphers into play.
 
 ## Cypher Levels And Effects
 
@@ -849,9 +847,8 @@ twenty-three.
 
 **Effect:**  Projects a small physical explosive up to a long distance away that explodes in an immediate radius, inflicting damage equal to the cypher's level. Roll a d100 to determine the type of damage.
 
-{{< hint info >}}
-All damaging detonations inflict a minimum of 2 points of damage to those in the radius, regardless of attack or defense rolls.
-{{< /hint >}}
+> [!NOTE]
+> All damaging detonations inflict a minimum of 2 points of damage to those in the radius, regardless of attack or defense rolls.
 
 | d100  | Detonation Type                    |
 | ----- | ---------------------------------- |
@@ -943,7 +940,8 @@ All damaging detonations inflict a minimum of 2 points of damage to those in the
 
 **Effect:**  Projects a small physical explosive up to a long distance away that explodes and creates a momentary singularity that tears at the fabric of the universe. Inflicts 20 points of damage to all within short range, drawing them (or their remains) together to immediate range (if possible). Player characters in the radius who fail a Might defense roll move down one step on the damage track.
 
-(The singularity detonation is a greatly feared device, sought by those interested in truly horrific destruction.)
+> [!NOTE]
+> The singularity detonation is a greatly feared device, sought by those interested in truly horrific destruction.
 
 -----
 
@@ -978,7 +976,8 @@ All damaging detonations inflict a minimum of 2 points of damage to those in the
 
 **Effect:**  Projects a small physical explosive up to a long distance away that explodes in an immediate radius and creates sticky strands of goo. PCs caught in the area must use a Might-based action to get out, with the difficulty determined by the cypher level. NPCs break free if their level is higher than the cypher level.
 
-(Rather than strands of sticky goo, some web detonations fill the area with a mass of quick-hardening foam that has the same result.)
+> [!NOTE]
+> Rather than strands of sticky goo, some web detonations fill the area with a mass of quick-hardening foam that has the same result.
 
 -----
 
@@ -1092,9 +1091,8 @@ All damaging detonations inflict a minimum of 2 points of damage to those in the
 
 **Effect:** For the next day, the user is surrounded by a powerful force field, granting them +1 to Armor (+2 to Armor if the cypher level is 5 or higher).
 
-{{< hint info >}}
-Some force walls, shields, and cubes are transparent. Others are translucent. A few are opaque.
-{{< /hint >}}
+> [!NOTE]
+> Some force walls, shields, and cubes are transparent. Others are translucent. A few are opaque.
 
 -----
 
@@ -1400,7 +1398,8 @@ The servant operates for one hour per cypher level.
 
 **Effect:**  Lets the user speak telepathically with creatures they can see within short range for up to one hour. The user can't read a target's thoughts, except those that are specifically "transmitted."
 
-(In some games, telepathy transcends normal language barriers (if the target has a mind that allows for telepathic communication). In others, it might only pick up emotions or general concepts of thoughts in another language. It also might vary based on the ability used.)
+> [!NOTE]
+> In some games, telepathy transcends normal language barriers (if the target has a mind that allows for telepathic communication). In others, it might only pick up emotions or general concepts of thoughts in another language. It also might vary based on the ability used.
 
 -----
 
@@ -1434,7 +1433,8 @@ The servant operates for one hour per cypher level.
 
 **Effect:**  The user gains a horn in the center of their forehead. The horn is deadly sharp and strong, and it spirals down to a solid base where it fuses with their flesh and bone. The user is specialized in making melee attacks with the horn, which is considered a medium weapon. The horn lasts for a number of hours equal to the cypher's level.
 
-(Sometimes a monohorn cypher covers the user in a thin sheen of black hide-like material, which disguises their identity but doesn't interfere with their senses.)
+> [!NOTE]
+> Sometimes a monohorn cypher covers the user in a thin sheen of black hide-like material, which disguises their identity but doesn't interfere with their senses.
 
 -----
 
@@ -1526,9 +1526,8 @@ The servant operates for one hour per cypher level.
 
 **Effect:**  The victim feels a specific emotion for one hour. Roll a d100 to determine the emotion.
 
-{{< hint info >}}
-Most poisons are not considered cyphers, except for a very few that are unique.
-{{< /hint >}}
+> [!NOTE]
+> Most poisons are not considered cyphers, except for a very few that are unique.
 
 | d100  | Emotion                                                                                                                         |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -1849,7 +1848,8 @@ Most poisons are not considered cyphers, except for a very few that are unique.
 
 **Effect:**  Draws all sound within long range into the device for one round per cypher level. Within the affected area, no sound can be heard.
 
-(Sonic holes are much-loved by thieves everywhere but can also be used for less nefarious purposes, such as hunting prey and sneaking past enemies.)
+> [!NOTE]
+> Sonic holes are much-loved by thieves everywhere but can also be used for less nefarious purposes, such as hunting prey and sneaking past enemies.
 
 -----
 
@@ -1995,9 +1995,8 @@ Most poisons are not considered cyphers, except for a very few that are unique.
 
 **Effect:**  For the next hour, the user regains 1 point lost to damage per round, up to a total number of points equal to twice the cypher's level. As each point is regained, they choose which Pool to add it to. If all their Pools are at maximum, the regeneration pauses until they take more damage, at which point it begins again (if any time remains in the hour) until the duration expires.
 
-{{< hint info >}}
-A tissue regeneration cypher can be used to regenerate a lost appendage (an arm, a foot, a leg, and so on) or to repair scar tissue from burns and other tissue-related disfigurements. If the cypher is used in this fashion, it restores only 1d6 points over the hour duration.
-{{< /hint >}}
+> [!NOTE]
+> A tissue regeneration cypher can be used to regenerate a lost appendage (an arm, a foot, a leg, and so on) or to repair scar tissue from burns and other tissue-related disfigurements. If the cypher is used in this fashion, it restores only 1d6 points over the hour duration.
 
 -----
 

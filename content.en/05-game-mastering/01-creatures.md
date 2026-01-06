@@ -352,7 +352,7 @@ Blackguards are evil knights who serve dark entities or their own corrupt agenda
 
 **Loot:** Blackguards usually have treasures equivalent to three or four expensive items, a few useful manifest cyphers, and an artifact weapon or armor.
 
-GM intrusions:The blackguard's weaponflares with unholy power,inflicting an additional6 points of damage(ignores Armor).A slain blackguardrises as an undead or ispossessed by a demonand continues to figh
+**GM intrusions:**The blackguard's weaponflares with unholy power,inflicting an additional6 points of damage(ignores Armor).A slain blackguardrises as an undead or ispossessed by a demonand continues to figh
 
 {{< hint danger >}} {{< columns2 >}} Cambion <---> 5 (15) {{< /columns2 >}}{{< /hint >}}
 
@@ -689,7 +689,7 @@ A demon lord automatically regains 3 points of health per round. They typically 
 
 **Loot:** A demon lord often has an artifact relating to some aspect of its nature or interests, such as a weapon, ring, or armor, as well as 1d6 cyphers.
 
-GM intrusions:The demon lord offersthe character somethingso tempting (an artifact,immortality, and soon) that they lose theirnext action and mustmake an Intellectdefense roll to resisttrying to bargain for it.
+**GM intrusions:**The demon lord offersthe character somethingso tempting (an artifact,immortality, and soon) that they lose theirnext action and mustmake an Intellectdefense roll to resisttrying to bargain for it.
 
 The demon lord createsa portal and retreatsto its own dimension;the portal remainsopen for one round
 
@@ -1538,7 +1538,7 @@ Whenever the hydra takes 4 or more points of damage from a single attack, a heal
 
 **Use:** The PCs investigate an ancient ruin hoping to find artifacts of the gods. A hydra saw them enter and trails them through the crumbling structure at a considerable distance, waiting for them to take a rest or become otherwise distracted before attacking.
 
-Loot: Hydras sometimes collect cyphers and artifacts in their lair, or failing that, they guard something of value.
+**Loot:** Hydras sometimes collect cyphers and artifacts in their lair, or failing that, they guard something of value.
 
 **GM intrusion:** The character reacts poorly to the poison in the air or a bite and goes intonhelpless convulsions for one round if they fail a Might defense task.
 
@@ -2067,9 +2067,8 @@ Information about these creatures is scarce. They might be the unintended conseq
 
 A nuppeppo sometimes follows a living individual around like a silent, smelly pet that shows no affection. No one knows why.
 
-{{< hint info >}}
-If a nuppeppo begins to follow a character, interaction tasks by that character and their allies are hindered. Most other creatures are put off by a lump of animate human flesh hanging around nearby.
-{{< /hint >}}
+> [!NOTE]
+> If a nuppeppo begins to follow a character, interaction tasks by that character and their allies are hindered. Most other creatures are put off by a lump of animate human flesh hanging around nearby.
 
 **Motive:** Wander, graze on dead flesh
 
@@ -2209,7 +2208,8 @@ A puppet tree is a 25-foot (8 m) tall, spiky, orange and blue tree surrounded by
 
 Victims drained of knowledge and life are used as lures to draw in yet more victims, at least until the bodies rot away. When not used as lures, the corpse puppets are sent to scout nearby areas.
 
-(Corpse puppet: level 2; struck targets must also succeed on a Might defense task or be grabbed until they can escape; all tasks attempted by the grabbed target are hindered; free-roaming puppets remain animate for one day)
+> [!NOTE]
+> Corpse puppet: level 2; struck targets must also succeed on a Might defense task or be grabbed until they can escape; all tasks attempted by the grabbed target are hindered; free-roaming puppets remain animate for one day
 
 **Motive:** Hungers for fresh bodies
 
@@ -2674,8 +2674,7 @@ Eventually, a vampire with a multitude under its command becomes the new vampire
 
 **GM intrusion:** The character struck by the vampire is caught fast in its powerful grip. If the character doesn't escape immediately, the vampire bites them automatically.
 
-VAMPIRE, TRANSITIONAL 3 (9)
-
+{{< hint danger >}} {{< columns2 >}} Vampire, Transitional <---> 3 (9) {{< /columns2 >}}{{< /hint >}}
 When humans are "visited upon" (bitten) by a vampire, they might be killed, or they might be left alive to begin a slow transformation into a creature of the night. If victims are bitten three times, they become a vampire forever under the control of the one that bit them. From the time of the first bite until their complete transformation after the third bite, they are transitional vampires. Ways to return transitional vampires to normal include using special ancient rituals or destroying the vampire that bit them in the first place.
 
 Transitional vampires usually serve as guardians, consorts, or spies for their masters.
@@ -2820,9 +2819,8 @@ When witches lose sight of their humanity and use their powers for personal gain
 
 **Combat:** When attacked, a witch relies on the aid of their familiar to improve their Speed defense. The familiar could be a large black cat, an owl, a big snake, or some other creature. Killing a witch's familiar is so shocking to a witch that their attacks and Speed defense are hindered for a few days. It's also a way to ensure that the witch never forgives their foe or grants mercy.
 
-{{< hint info >}}
-Familiar: level 3; health 9; Armor 1
-{{< /hint >}}
+> [!NOTE]
+> **Familiar:** level 3; health 9; Armor 1
 
 A witch can use their ritual blade to attack a creature in immediate range, but would much rather use curses, including the ones described below. A witch can't use the same curse more than once every other round.
 
@@ -2930,7 +2928,7 @@ The stinger injects poison, dealing an additional 5 points of Speed damage (igno
 
 **Use:** Hungry wyverns are known to swoop in and carry off livestock and travelers near a particular road or field. A gang of crafty bandits has managed to train a couple of wyverns as mounts and use them as flying cavalry for their troops on the ground.
 
-Loot: Wyverns do not collect treasure, but their nest might have a few cyphers from previous victims. If carefully extracted, an intact venom gland from a dead wyvern can be used to poison one weapon (if sold, it is the equivalent of an expensive item).
+**Loot:** Wyverns do not collect treasure, but their nest might have a few cyphers from previous victims. If carefully extracted, an intact venom gland from a dead wyvern can be used to poison one weapon (if sold, it is the equivalent of an expensive item).
 
 **GM intrusions:** As part of its attack, the wyvern grabs hold of the character and flies a short distance away. The character can escape with a Might or Speed defense roll (which probably means they fall to the ground and land prone). The wyvern uses a wing or its tail to slam a character so they are thrown a short distance away and land prone.
 
@@ -3018,9 +3016,8 @@ The supervillain called Anathema is big, bright red, and stronger than anyone on
 
 Before he was Anathema, he was Sameer Stokes, a bitter and spiteful coder working for a large software company. Having failed in relationships, promotions, and retaining friends, Sameer retreated online and learned that he had power when he bullied people. He delighted in causing emotional distress in others in forums and social media. In effect, he was a troll. When the metamorphosis happened, he was turned into a troll for real. (Sameer doesn't recall the metamorphosis or the days before and immediately after his change, despite using therapy and drugs in an attempt to recover those memories.)
 
-{{< hint info >}}
-Assume that Anathema has three power shifts in strength and two in resilience. These shifts are already figured into his modifications and other stats.
-{{< /hint >}}
+> [!NOTE]
+> Assume that Anathema has three power shifts in strength and two in resilience. These shifts are already figured into his modifications and other stats.
 
 **Motive:** Accumulate wealth, live on the edge
 
@@ -3052,17 +3049,14 @@ Doctor Dread is larger than life thanks to her brilliant mind, her media savvy, 
 
 Alicia Coleridge is Doctor Dread's secret identity. Born into relative obscurity, she received a full scholarship to the Russell Institute of Technology, where she studied the effects of radioactive substances on living tissue. In a freak lab accident, Alicia's fiancé was slain, and Alicia was disfigured and driven slightly insane, so much so that she built the Doctor Dread armor. She plows the vast wealth she accumulates through terrorism into research into the rejuvenation of dead flesh. She hopes to one day bring back her dead love, whose body she keeps in suspended animation.
 
-{{< hint info >}}
-Doctor Dread is usually accompanied by a handful of robot minions.
-{{< /hint >}}
+> [!NOTE]
+> Doctor Dread is usually accompanied by a handful of robot minions.
 
-{{< hint info >}}
-Dread's robot minion: level 3; Armor 1; long-range laser attack inflicts 4 points of damage.
-{{< /hint >}}
+> [!NOTE]
+> **Dread's robot minion:** level 3; Armor 1; long-range laser attack inflicts 4 points of damage.
 
-{{< hint info >}}
-Assume that Doctor Dread has three power shifts in intelligence and two in resilience. These shifts are already figured into her modifications and other stats.
-{{< /hint >}}
+> [!NOTE]
+> Assume that Doctor Dread has three power shifts in intelligence and two in resilience. These shifts are already figured into her modifications and other stats.
 
 **Motive:** Accumulate wealth; reanimate dead flesh
 
@@ -3103,7 +3097,8 @@ Not much is known about Magnetar other than its powerful ability to generate and
 
 In truth, Magnetar is the animate, sentient, and self-regulating nucleus of a neutron star that is able to rein in its immense electromagnetic signature. One of two such beings an advanced alien species created from a single magnetar (a type of neutron star with an extremely powerful magnetic field), Magnetar was sent on a mission of exploration. After millennia, it crashed on Earth and was damaged. Having lost most of its memory data, Magnetar knows that something was taken from it (its twin), but it can't remember what. It has decided to blame the humans.
 
-(Assume that Magnetar has three power shifts in its magnetic power and two in resilience. These shifts are already figured into its modifications and other stats.)
+> [!NOTE]
+> Assume that Magnetar has three power shifts in its magnetic power and two in resilience. These shifts are already figured into its modifications and other stats.
 
 **Motive:** Revenge; regain memory
 
@@ -3140,9 +3135,8 @@ When victims are killed by Mister Genocide's poison, their skin and the whites o
 
 Mister Genocide sometimes teams up with Anathema, because the red mountain is the only villain who can withstand the poison that Genocide constantly emits.
 
-{{< hint info >}}
-Assume that Mister Genocide has two power shifts in his poison power, one in intelligence, and two in resilience. These shifts are already figured into his modifications and other stats.
-{{< /hint >}}
+> [!NOTE]
+> Assume that Mister Genocide has two power shifts in his poison power, one in intelligence, and two in resilience. These shifts are already figured into his modifications and other stats.
 
 **Motive:** Accumulate power
 
@@ -3181,13 +3175,11 @@ Born more than two hundred and fifty years ago in China to a name lost to histor
 
 Wrath is content to let her assassins (and mobsters, lawyers, and politicians) accomplish many of her goals, though she relishes being present when particularly important adversaries are brought down.
 
-{{< hint info >}}
-Assassin of Wrath: level 4, stealth as level 7
-{{< /hint >}}
+> [!NOTE]
+> **Assassin of Wrath:** level 4, stealth as level 7
 
-{{< hint info >}}
-Assume that Wrath has two power shifts in dexterity, two in accuracy, and one in resilience. These shifts are already figured into her modifications and other stats.
-{{< /hint >}}
+> [!NOTE]
+> Assume that Wrath has two power shifts in dexterity, two in accuracy, and one in resilience. These shifts are already figured into her modifications and other stats.
 
 **Motive:** Save the world
 

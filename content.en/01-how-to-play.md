@@ -88,9 +88,8 @@ When you roll a natural 20 (the `d20` shows "20") and the roll is a success, you
 
 In combat (and only in combat), if you roll a natural 17 or 18 on your attack roll, you add 1 or 2 additional points of damage, respectively. Neither roll has any special effect options---just the extra damage.
 
-{{< hint info >}}
-For more information on special rolls and how they affect combat and other interactions, see Rules of the Game.
-{{< /hint >}}
+> [!NOTE]
+> For more information on special rolls and how they affect combat and other interactions, see Rules of the Game.
 
 Rolling a natural 1 is always bad. It means that the GM introduces a new complication into the encounter.
 
@@ -136,7 +135,8 @@ A character can move a short distance as their entire action for a turn. They ca
 
 For example, if the PCs are fighting a group of cultists, any character can likely attack any cultist in the general melee---they're all within immediate range. Exact positions aren't important. Creatures in a fight are always moving, shifting, and jostling, anyway. However, if one cultist stayed back to fire a pistol, a character might have to use their entire action to move the short distance required to attack that foe. It doesn't matter if the cultist is 20 feet (6 m) or 40 feet (12 m) away---it's simply considered short distance. It does matter if the cultist is more than 50 feet (15 m) away because that distance would require a long or very long move.
 
-(Many rules in this system avoid the cumbersome need for precision. Does it really matter if the ghost is 13 feet away from you or 18? Probably not. That kind of needless specificity only slows things down and draws away from, rather than contributes to, the story.)
+> [!NOTE]
+> Many rules in this system avoid the cumbersome need for precision. Does it really matter if the ghost is 13 feet away from you or 18? Probably not. That kind of needless specificity only slows things down and draws away from, rather than contributes to, the story.
 
 ## Experience Points
 
@@ -158,6 +158,5 @@ Characters will find new cyphers frequently in the course of play, so players sh
 
 In addition to a `d20`, you'll need a `d6` (a six-sided die). Rarely, you'll need to roll a number between 1 and 100 (often called a `d100` or `d%` roll), which you can do by rolling a `d20` twice, using the last digit of the first roll as the "tens" place and the last digit of the second roll as the "ones" place. For example, rolling a 17 and a 9 gives you 79, rolling a 3 and an 18 gives you 38, and rolling a 20 and a 10 gives you 00 (also known as 100). If you have a `d10` (a ten-sided die), you can use it instead of the `d20` to roll numbers between 1 and 100.
 
-{{< hint warning >}}
-A `d6` is used most often for recovery rolls and to determine the level of cyphers.
-{{< /hint >}}
+> [!WARNING]
+> A `d6` is used most often for recovery rolls and to determine the level of cyphers.

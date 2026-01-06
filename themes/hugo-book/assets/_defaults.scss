@@ -4,66 +4,93 @@ $padding-4: 0.25rem !default;
 $padding-8: 0.5rem !default;
 $padding-16: 1rem !default;
 
-$font-size-base: 16px !default;
-$font-size-12: 0.75rem !default;
-$font-size-14: 0.875rem !default;
-$font-size-16: 1rem !default;
-
-$border-radius: $padding-4 !default;
-
-$body-font-weight: normal !default;
-
 $body-min-width: 20rem !default;
 $container-max-width: 80rem !default;
 
-$header-height: 3.5rem !default;
 $menu-width: 16rem !default;
 $toc-width: 16rem !default;
 
-$mobile-breakpoint: $menu-width + $body-min-width * 1.2 !default;
-$tablet-breakpoint: $menu-width + $body-min-width + $toc-width !default;
+$mobile-breakpoint: $menu-width + $body-min-width * 1.2 + $toc-width !default;
 
-$hint-colors: (
-  info: #6bf,
-  warning: #fd6,
-  danger: #f66,
-  ok: #6f6,
-  debug: #66f,
-) !default;
+:root {
+  --font-size: 16px;
+  --font-size-smaller: 0.875rem;
+  --font-size-smallest: 0.75rem;
+
+  --body-font-weight: 400;
+  --body-background: white;
+  --body-background-tint: transparent;
+  --body-font-color: black;
+
+  --border-radius: 0.25rem;
+}
 
 // Themes
 @mixin theme-light {
+  --body-background: white;
+  --body-background-tint: none;
+  --body-font-color: black;
+
+  --color-link: #0055bb;
+  --color-visited-link: #5500bb;
+
+  --icon-filter: none;
+
   --gray-100: #f8f9fa;
   --gray-200: #e9ecef;
   --gray-500: #adb5bd;
 
-  --color-link: #0055bb;
-  --color-visited-link: #8440f1;
+  @include accent("default", #64748b);
+  @include accent("note", #4486dd);
+  @include accent("tip", #3bad3b);
+  @include accent("important", #8144dd);
+  @include accent("warning", #f59e42);
+  @include accent("caution", #d84747);
 
-  --body-background: white;
-  --body-font-color: black;
-
-  --icon-filter: none;
-
-  --hint-color-info: #6bf;
-  --hint-color-warning: #fd6;
-  --hint-color-danger: #f66;
+  // Fallback for {{< hint >}} shortcodes
+  @include accent("info", #4486dd);
+  @include accent("success", #3bad3b);
+  @include accent("danger", #d84747);
 }
 
 @mixin theme-dark {
-  --gray-100: rgba(255, 255, 255, 0.1);
-  --gray-200: rgba(255, 255, 255, 0.2);
-  --gray-500: rgba(255, 255, 255, 0.5);
+  --body-background: #343a40;
+  --body-background-tint: none;
+
+  --body-font-color: #e9ecef;
 
   --color-link: #84b2ff;
   --color-visited-link: #b88dff;
 
-  --body-background: #343a40;
-  --body-font-color: #e9ecef;
-
   --icon-filter: brightness(0) invert(1);
 
-  --hint-color-info: #6bf;
-  --hint-color-warning: #fd6;
-  --hint-color-danger: #f66;
+  --gray-100: #494e54;
+  --gray-200: #5c6165;
+  --gray-500: #999d9f;
+
+  @include accent("default", #64748b);
+  @include accent("note", #4486dd);
+  @include accent("tip", #3bad3b);
+  @include accent("important", #8144dd);
+  @include accent("warning", #f59e42);
+  @include accent("caution", #d84747);
+
+  // Fallback for {{< hint >}} shortcodes
+  @include accent("info", #4486dd);
+  @include accent("success", #3bad3b);
+  @include accent("danger", #d84747);
+}
+
+@mixin theme-auto {
+  @include theme-light;
+
+  @media (prefers-color-scheme: dark) {
+    @include theme-dark;
+  }
+}
+
+// Convenience mixing to declare a color and a transparent tint
+@mixin accent($name, $color, $tint: 0.1) {
+  --color-accent-#{$name}: #{$color};
+  --color-accent-#{$name}-tint: #{rgba($color, $tint)};
 }

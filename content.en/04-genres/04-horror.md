@@ -472,7 +472,7 @@ As an action, it can teleport up to a hundred miles away or transport itself ful
 
 **Loot:** Fundamental angels sometimes create or refresh subtle cyphers by their mere presence.
 
-GM intrusions:
+**GM intrusions:**
 
 A fundamental angel’s successful attack also blinds its opponent, lasting until they make an Intellect defense roll (try once each round).
 
@@ -522,7 +522,7 @@ Two hivemind children within short range of each other automatically augment eac
 
 **Loot:** Hivemind children may have no useful items or one weird science device they’ve built with their inhuman knowledge.
 
-GM intrusions:
+**GM intrusions:**
 
 A group of hivemind children briefly manifest a teleportation or telekinesis ability
 
@@ -574,7 +574,9 @@ Mummies are intelligent undead, usually royalty or members of the priesthood, ri
 
 **Motive:** Vengeance, love, power
 
-**Environment:** Regions where mummification was common Health: 24
+**Environment:** Regions where mummification was common
+
+**Health:** 24
 
 **Damage Inflicted:** 7 points
 
@@ -755,7 +757,7 @@ It’s worth noting that the bodies the yithians use are not their original bodi
 
 **Loot:** A yithian encountered in the flesh will have 1d6 manifest cyphers and very likely a technological artifact.
 
-GM intrusion:
+**GM intrusion:**
 
 **The yithian produces a cypher that has a function that is perfect for its current situation:** a teleporter to get away, a protective field against precisely the kind of attack being used against it, or a weapon that exploits a weakness of the character’s.
 
@@ -856,6 +858,160 @@ Most of the time, a horror artifact will be something really weird---an ancient 
 **Effect:** Possibly one of a number of identical alien artifacts recovered in remote locales across the earth, the so-called sphere 23 will grant a wish to anyone who holds it and uses an action to concentrate on it. The wish can be anything, including something that bends reality: raising the dead, altering time, and so forth. However, the wisher must immediately make a Might defense roll or be consumed by the sphere. If the roll succeeds, they must then make an Intellect defense roll or be driven permanently and irrevocably mad.
 
 **Depletion:** 1–3 in 1d6
+
+
+### Book Of Thoth
+
+**Level:** 1d6 + 2
+
+**Form:** Bundle of Ancient Egyptian scrolls
+
+**Effect:** This Egyptian funerary text is thought to have been authored by Thoth himself, the wisest of the Egyptian gods. It usually contains several spells, but its greatest power is a ritual that can revive a mummy (whether an inert mummy or an animate undead one) as a living immortal human being. The ritual requires an intact mummy, its canopic jars (or suitable replacements), and a human sacrifice whose level is equal to the target mummy’s level. The ritual takes one hour to perform and costs Might, Speed, and Intellect points equal to the target mummy’s level.
+
+**Depletion:** —
+
+### Brain Cylinder
+
+**Level:** 1d6 + 2
+
+**Form:** Metal cylinder with three exterior ports
+
+**Effect:** This device is designed to hold and preserve an intelligent brain, keeping it alive indefinitely. The brain must first be surgically extracted from its natural housing (typically
+
+a level 6 surgical task requiring an hour), then placed in the cylinder, saturated with a nutrient bath, and sealed shut. The brain is wired to three ports on the cylinder’s exterior, which can be connected to external machines that allow it to see and hear, as well as speak through a voice synthesizer. The cylinder is immune to vacuum and cold, allowing it to be carried through space without harming its precious contents. The cylinder grants the brain 3 Armor, but
+
+the brain is otherwise helpless, unable to perform physical actions, and completely blind and deaf if disconnected from its machines. Deprived of the illusion of physical stimuli, a human brain trapped in a cylinder is likely to go insane after weeks or months.
+
+**Depletion:** 1 in 1d6 (check each year)
+
+Some brain cylinders were created by the mi-go; others are the products of mad scientists or other alien species that want to study humans.
+
+### Cursed Video
+
+**Level:** 1d6 + 2
+
+**Form:** DVD, film, thumb drive, or videocassette
+
+**Effect:** Anyone who watches this disturbing video must make an Intellect defense roll against the level of the artifact or become cursed. A cursed victim becomes haunted by a malevolent spirit and begins to experience strange phenomena, which eventually kills them. The curse can simultaneously affect a number of people equal to the artifact level (which prevents it from starting a curse epidemic by being broadcast or posted online where thousands of people can see it at once).
+
+For some cursed videos, a victim can free themselves of the curse by making another person watch the video, thus passing the curse on to a new victim.
+
+**Depletion:** —
+
+### Demon Puzzle
+
+**Level:** 1d6 + 4
+
+**Form:** Crystal or device
+
+**Effect:** Solving the puzzle creates a beacon or portal that draws a demon (or other extradimensional entity) to the user’s location. The demon’s level is equal to the artifact’s level. Depending on the intent of the puzzle’s creator and the nature of the demon summoned, the demon might perform a service for the user, attack the user, try to drag the user back to its home dimension, or leave to do whatever it wants. (Solving the puzzle is part of the action of activating the artifact and doesn’t require a roll, as it wants to be solved this way.) Instead of using the artifact to summon a demon, the user can attempt to solve the puzzle in a different way, which forces a demon back to its native dimension. The user must make an Intellect roll with a difficulty equal to the artifact’s level. If successful, the user banishes a demon within short range whose level is lower than the artifact’s level.
+
+There are similar artifacts that instead summon or banish ghosts, Lovecraftian horrors, or other strange creatures, with similar risks.
+
+**Depletion:** 1 in 1d100
+
+### Ghost Vault
+
+**Level:** 1d6 + 4
+
+**Form:** Large immobile machine Effect: When used in conjunction with a ghost trap, this machine can imprison multiple ghosts (including spirits, phased beings, and similar creatures) for an indefinite amount of time. The total level of ghosts it can store is equal to its level × 20 (so a level 5 vault can hold 100 levels of ghosts). The vault can be used as a ghost trap, but doing so triggers a depletion roll. If the vault is disconnected from its power supply, destroyed, or depletes, the imprisoned ghosts are freed, initially at a rate of one per round but quickly speeding up so that all of them are free within a couple of minutes.
+
+**Depletion:** 1 in 1d20 (check each month)
+
+### Human Suit
+
+**Level:** 1d6
+
+**Form:** Folds of cloth and fleshlike substance (inactive) or a specific human individual (active)
+
+**Effect:** The wearer of a human suit is completely disguised as a specific human individual; their disguise task to pretend to be that human is eased by five steps. A human suit is usually no one in particular; each suit is designed to allow the wearer to adopt a new human persona, not pretend to be someone famous. A suit’s technology is such that it adapts to fit a wearer ranging from half the size of a normal human to one that is almost the same size (including another human). Human suits usually come with attached clothing.
+
+**Depletion:** 1 in 1d20
+
+### Monkey’S Paw
+
+**Level:** 1d6
+
+**Form:** Mummified monkey’s paw
+
+**Effect:** This cursed object will grant three wishes to the user, but each wish always has terrible consequences. A wish for wealth might mean a friend dies and leaves the user some money in a will. A wish for a dead person to return to life might turn them into a zombie. A wish for knowledge might grant specialization in one subject but inabilities in all others. No matter how clever the user thinks they are or how precisely they word their wish, the result is always fulfilled in a way that makes them regret using the artifact. The monkey’s paw is limited to affecting things of its level or lower. For example, a level 3 monkey’s paw could be used to wish for the death of a level 3 enemy, destroy a level 3 barrier, resurrect a dead level 3
+
+person, and so on.
+
+**Depletion:** 1 in 1d6
+
+### Necronomicon (Lovecraftian, Latin Edition)
+
+**Level:** 1d6 + 4
+
+**Form:** Grimoire (no reader can long keep the book’s exact form in memory)
+
+**Effect:** A reader who understands Latin can use this grimoire to accomplish a wide variety of occult operations, all of which risk their sanity. Indeed, one must be a little insane or at least naive to use this tome, given its storied history. That said, the uses a reader can put the Necronomicon to include the following.
+
+• Reference. The grimoire eases by three steps any task related to knowledge of Lovecraftian realms, entities, objects, and related subjects.
+
+• Spellbook. The grimoire contains a variety of horrifying spells and rituals, which a reader can attempt to cast by incanting from the tome. They range from simple curses and spells to speak to the dead all the way up to death spells and the summoning of Lovecraftian entities. The GM can let the player describe the kind of spell desired, and then decide if it exists in the Necronomicon. If it does, the spell also likely has an unintended side effect, such as infecting a nearby object or friend with a demonic entity, killing a pet, or driving a nearby NPC insane.
+
+Each time the reader references the grimoire or casts a spell from it, the disturbing imagery, phrasing, and general evil nature require them to make a difficulty 5 Intellect defense roll. On a failed roll, they take 5 points of Intellect damage, descend one step on the damage track, and take one other action (determined by the GM) motivated by insanity. On a successful roll, they still take 2 points of Intellect damage.
+
+There may be damaged copies of the Necronomicon in Greek and a handwritten version that was poorly translated into English and exists only in fragments. Supposedly the original Arabic version was lost or destroyed in a fire.
+
+**Depletion:** —
+
+### Pnakotic Manuscripts
+
+**Level:** 1d6 + 2
+
+**Form:** Tome with stony plates binding a sheaf of parchment
+
+**Effect:** When a user reads aloud from the manuscripts, they can create either of the following effects, both of which put them at risk:
+
+• Contact the mind of a powerful godlike being. The user must make
+
+a difficulty 5 Intellect defense roll. On a failed roll, they take 5 points of Intellect damage, descend one step on the damage track, and take one other action (determined by the GM) motivated by insane panic. On a successful roll, they take 2 points of Intellect damage and learn the answer to one question, no matter the scope, from the mind contacted.
+
+• Close a portal to a Lovecraftian planet or dimension. This requires reciting a chant from the book and might require an object that somehow relates to the portal (such as a piece of a creature from the destination). The user must make a difficulty 5 Intellect defense roll each round they chant from the manuscript. On a failed roll, they take 4 points of Intellect damage. On a successful roll, they take 2 points of Intellect damage and make progress toward closing the portal. A typical portal requires ten successes to close it. Another person can take over the chant if the previous person stops, but the first Intellect defense roll for their chanting is hindered.
+
+**Depletion:** —
+
+### Shining Trapezohedron
+
+**Level:** 1d6 + 3
+
+**Form:** Black spherical stone with red streaks and many irregular facets
+
+**Effect:** Summons a messenger of
+
+the Outer Gods (powerful and dangerous Lovecraftian entities): a bat-like, three-eyed creature called the Haunter of the Dark. The messenger can show its summoner wonders of the universe or teach them spells, but it requires human sacrifices, and if allowed to roam, it will hunt and commit murder. The stone is usually stored in a strangely angled hinged box made of yellow metal, decorated with carvings of weird alien beings.
+
+**Haunter of the Dark:** level 6, magical knowledge and stealth as level 8; inflicts 6 points of Intellect damage; automatically banished in any light stronger than dim light
+
+**Depletion:** —
+
+### Silgarho Bullet
+
+**Level:** 1d6
+
+**Form:** Hollow-point bullet
+
+**Effect:** Silgarho (sil-gar-o) bullets are custom-made hollow bullets filled with a mixture of powdered silver (sil), garlic (gar), and holy water (ho), and sealed at the top with wax. They are designed to have an extra effect against vampires who have aversions to one or more of these substances. The bullet breaks open when it hits, scattering these materials into the wound. A silgarho bullet inflicts +1 point of damage and hinders the target’s actions for one round (this extra damage and hindered step is for each substance in the bullet that the vampire is averse to). Alternatively, the bullet can be fired against a hard surface such as a wall or floor, creating a cloud of dispersed material an immediate distance across, which lasts for one or two rounds and affects (for one round) any averse vampire who passes through it. Silgarho bullets are safe for vampires to handle—it’s only when broken open that they cause reactions.
+
+One advantage of a silgarho bullet over a destructive cypher is that the bullet doesn’t count toward your cypher limit.
+
+**Depletion:** Automatic
+
+### Spirit Board
+
+**Level:** 1d6
+
+**Form:** Weathered, flat piece of wood inked with letters and numbers
+
+**Effect:** Unlike the mass-produced parlor game, this handcrafted wooden board has the power to contact the spirit world. One or more people put their fingers on a wooden planchette and allow a supernatural force to move it around the board, spelling out words to answer questions from the participants. Each minute that the artifact is used, the users can ask one question from the spirits and get a general answer if one of them makes an Intellect roll (this might be modified by any skills or abilities the user has relating to ghosts or the supernatural); other participants can help with this task. The GM assigns a level to the question, so the more obscure the answer, the more difficult the task. Generally, knowledge that could be found by looking somewhere other than the current location is level 1, and obscure knowledge of the past is level 7; gaining knowledge of the future is normally impossible.
+
+Usually the spirits contacted by the board are benign or indifferent and will answer honestly. Sometimes the users contact a mischievous spirit who gives answers that are lies or half-truths for the sake of its own amusement, or perhaps to give the users a scare. However, there is always a chance that a hostile spirit (such as a demon or vengeful ghost whose level is equal to the artifact level) takes over the interaction. This may occur if there is a GM intrusion while using the board, if the question asked is too difficult for the contacted spirits to answer, or if the users fail to end the session by using the planchette to indicate “goodbye.” A hostile spirit’s answers are a mix of lies, contentious ambiguities, frightening predictions, and threats; it may choose to remain in the area for a while and haunt the participants.
+
+**Depletion:** 1 in 1d100 (check each session)
+
 
 ## Horror Cyphers
 
@@ -1300,9 +1456,8 @@ Consider this example. The PCs have tracked something that is probably committin
 
 In some ways, the status quo doesn't change until an intrusion happens. This could be seen as limiting the GM and the need for pacing, but remember that the GM can still have an intrusion occur anytime they desire, in addition to waiting for the low die rolls.
 
-{{< hint info >}}
-GMs may want to limit the number of intrusions to no more than one per round, no matter what the dice indicate, but that should be based on the situation.
-{{< /hint >}}
+> [!NOTE]
+> GMs may want to limit the number of intrusions to no more than one per round, no matter what the dice indicate, but that should be based on the situation.
 
 ## Optional Rule: Madness
 
