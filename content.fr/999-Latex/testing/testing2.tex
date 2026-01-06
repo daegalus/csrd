@@ -1,0 +1,32 @@
+\documentclass[openany]{extbook}
+
+\title{Book Title}
+\author{Author}
+\date{\today}
+\newcommand\institute{%
+Department of Something\par
+University of Nowhere\par
+State of Art} 
+
+\usepackage[a6paper]{geometry} % just for the MWE
+\usepackage{pgfornament} % just because I want ornaments ;)
+
+\begin{document}
+\frontmatter 
+
+\begin{titlepage}
+    \makeatletter
+    \centering  
+    {\Huge\bfseries\sffamily\@title} \bigskip\par
+    {\Large\bfseries\@author} \bigskip\par
+    \@date
+    \makeatother
+    \vfill
+    \pgfornament[width=.35\linewidth]{84}\bigskip\par
+    \large\institute
+\end{titlepage}
+\tableofcontents
+\mainmatter
+\chapter{Foo}
+    First document. This is a simple example
+\end{document}

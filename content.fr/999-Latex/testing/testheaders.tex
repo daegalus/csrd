@@ -1,0 +1,86 @@
+\documentclass[letterpaper,french,openany]{book}
+
+\usepackage[T1]{fontenc}    % Encodage T1 (adapté au français)
+%French-specific commands
+%____________________________________________________________________
+% https://en.wikibooks.org/wiki/LaTeX/Special_Characters
+\usepackage[french]{babel}
+\usepackage[autolanguage]{numprint} % for the \nombre command
+\usepackage{hyperref}   % for linking references https://en.wikibooks.org/wiki/LaTeX/Hyperlinks
+\usepackage{lmodern}        % Caractères plus lisibles
+\usepackage{babel}          % Réglages linguistiques (avec french)
+%\pagestyle{empty}           % N'affiche pas de numéro de page
+\usepackage[explicit]{titlesec}  % pour modifier le style de chapitre
+\usepackage{color}        % pour les coleurs de police
+\usepackage[table,dvipsnames,HTML]{xcolor}  % pour les couleurs des tableaux https://en.wikibooks.org/wiki/LaTeX/Colors
+\usepackage{graphicx}     % pour inclure des images
+\usepackage{graphbox}   % allows to add keys to \includegraphics
+\usepackage{wrapfig}
+%\usepackage[dvipsnames]{xcolor} % pour les couleurs
+\usepackage{fancyhdr} % pour les entete
+\usepackage{ifthen}  % branchements conditionnels
+\usepackage{xpatch} 
+\usepackage[export]{adjustbox}  % pour positionner des images dans la page
+\usepackage{tabularx}  % pour les tableaux
+\usepackage{wrapfig}   % pour le que le texte ne recouvre pas les figures/tableaux
+\usepackage{stfloats}   % pour le que le texte ne recouvre pas les figures/tableaux
+\usepackage{multicol}   % gestion de plusieurs colonnes (dans une cellule de tableau pas ex)
+\usepackage{enumitem}   % pour la personnalisation des liste
+\usepackage[skip]{parskip}     % for paragraph indenttion
+\usepackage[many]{tcolorbox}   % for avanced boxes
+\usepackage{tikz}   %  for graphics https://ctan.mines-albi.fr/graphics/pgf/base/doc/pgfmanual.pdf
+%____________________________________________________________________
+%%  Default Font
+\usepackage[sfdefault]{cabin}
+\renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif
+\usepackage[T1]{fontenc}
+
+\usepackage{lipsum}   % for test text
+\usepackage{titletoc}    % for having ToC under each chapter
+\usepackage{letltxmacro}
+\usepackage{etoolbox}
+%____________________________________________________________________
+% page margins
+% https://www.overleaf.com/learn/latex/Page_size_and_margins
+% https://fr.overleaf.com/learn/latex/Single_sided_and_double_sided_documents
+\usepackage[
+  top=20mm,
+  bottom=20mm,
+  marginparwidth=111pt
+  %textwidth=345pt,
+]{geometry}
+
+\begin{document}
+\frontmatter
+\mainmatter
+\part{première partie}
+\chapter{premier chapitre}
+\section{premiere section}
+\lipsum[1]
+
+\subsection{premiere sous section}
+\lipsum[1]
+\subsection{seconde sous section}
+\lipsum[2-3]
+
+\section{seconde section}
+
+\lipsum[1-7]
+
+\subsection{premiere sous section}
+
+\lipsum[1]
+
+\subsection{seconde sous section}
+
+\lipsum[2-3]
+
+
+\section{troisieme section}
+
+\lipsum[1-7]
+
+\part{seconde partie}
+\chapter{Quatrième section}
+
+\end{document}

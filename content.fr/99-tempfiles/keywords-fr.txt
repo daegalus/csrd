@@ -1,0 +1,10 @@
+Might/Puissance
+Intellect/Intelligence
+Speed/Vitesse
+Egde/Avantage
+Focus/Motivation
+Ability/Capacité
+Cypher/Cypher
+Descriptor/Descripteur
+Flavor/Préférence
+Type/Type
