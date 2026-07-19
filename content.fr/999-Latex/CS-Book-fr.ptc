@@ -1,0 +1,33 @@
+\babel@toc {french}{}\relax 
+\babel@toc {french}{}\relax 
+\ttl@change@i {\@ne }{part}{0pt}{}{}{}{\hfill \thecontentspage }\relax 
+\ttl@change@v {part}{}{}{}\relax 
+\ttl@change@i {\@ne }{chapter}{0pt}{\small }{Chapitre \thecontentslabel \ :\ }{\textcolor {RedViolet}{\thecontentslabel }}{\hfill \thecontentspage }\relax 
+\ttl@change@v {chapter}{}{}{\raggedright }\relax 
+\ttl@starttoc {mainchapterspart0@1}
+\contentsline {part}{Le Cypher System}{1}{Doc-Start}%
+\contentsline {chapter}{\numberline {1}Des mondes d'aventures}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Tout est permis}{3}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Comment jouer au Cypher System}{6}{chapter.3}%
+\ttl@starttoc {mainchapterspart1@1}
+\contentsline {part}{Personnages}{12}{section*.3}%
+\contentsline {chapter}{\numberline {4}Créer Votre Personnage}{13}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Type}{20}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Préférence}{29}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Descripteur}{31}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Focus}{52}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Capacités}{90}{chapter.9}%
+\contentsline {chapter}{\numberline {10}équipement}{195}{chapter.10}%
+\ttl@stoptoc {mainchapterspart1@1}
+\contentsline {part}{Les Règles}{204}{section*.1218}%
+\contentsline {chapter}{\numberline {11}Les Règles du Jeu}{205}{chapter.11}%
+\ttl@starttoc {mainchapterspart2@1}
+\ttl@stoptoc {mainchapterspart2@1}
+\contentsline {part}{Les Genres}{235}{Item.59}%
+\ttl@starttoc {mainchapterspart3@1}
+\ttl@stoptoc {mainchapterspart3@1}
+\contentsline {part}{Maîtriser le Jeu}{236}{Item.59}%
+\ttl@starttoc {mainchapterspart4@1}
+\ttl@stoptoc {mainchapterspart4@1}
+\contentsline {part}{La Fin est Importante}{237}{Item.59}%
+\contentsfinish 

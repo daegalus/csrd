@@ -1,0 +1,37 @@
+\documentclass{book}
+\usepackage{layout}
+\usepackage{lipsum}   % for test text
+\usepackage[
+  top=20mm,
+  bottom=20mm,
+  marginparwidth=0mm
+  %textwidth=345pt,
+]{geometry}
+\usepackage{everypage}
+\usepackage{tikzpagenodes}
+\usepackage{tikz}   %  for graphics https://ctan.mines-albi.fr/graphics/pgf/base/doc/pgfmanual.pdf
+\usetikzlibrary{backgrounds,calc}
+\begin{document}
+\AddEverypageHook{\tikz[remember picture,overlay]{% put a line in the margin
+  \ifodd\value{page}\draw ($(current page text area.north west)+(-0.5\marginparsep,0pt)$)
+    -- ($(current page text area.south west)+(-0.5\marginparsep,0pt)$);
+  \else\draw ($(current page text area.north east)+(0.5\marginparsep,0pt)$)
+    -- ($(current page text area.south east)+(0.5\marginparsep,0pt)$);
+  \fi}}
+\section{Default \LaTeX{} layout}
+Here's the default layout:
+
+\vspace{10pt}
+\lipsum[1-3]
+
+\newgeometry{inner=0pt,outer=0pt,left=0pt,marginparwidth=0pt,marginparsep=0pt}
+\section{no margin beyond this}
+
+\vspace{10pt}
+\lipsum[1-3]
+\restoregeometry
+\section{margins restored}
+\setlength{\marginparwidth}{50mm}
+\setlength{\marginparsep}{2pt}
+\lipsum[1-7]
+\end{document}

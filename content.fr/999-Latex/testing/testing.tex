@@ -1,0 +1,468 @@
+\documentclass[letterpaper,french,openany]{book}
+\usepackage[T1]{fontenc}    % Encodage T1 (adapté au français)
+%French-specific commands
+%____________________________________________________________________
+% https://en.wikibooks.org/wiki/LaTeX/Special_Characters
+\usepackage[french]{babel}
+\usepackage[autolanguage]{numprint} % for the \nombre command
+\usepackage{hyperref}   % for linking references https://en.wikibooks.org/wiki/LaTeX/Hyperlinks
+\usepackage{lmodern}        % Caractères plus lisibles
+\usepackage{babel}          % Réglages linguistiques (avec french)
+%\pagestyle{empty}           % N'affiche pas de numéro de page
+\usepackage[explicit]{titlesec}  % pour modifier le style de chapitre
+\usepackage{color}        % pour les coleurs de police
+\usepackage[table,dvipsnames,HTML]{xcolor}  % pour les couleurs des tableaux https://en.wikibooks.org/wiki/LaTeX/Colors
+\usepackage{graphicx}     % pour inclure des images
+\usepackage{graphbox}   % allows to add keys to \includegraphics
+\usepackage{wrapfig}
+%\usepackage[dvipsnames]{xcolor} % pour les couleurs
+\usepackage{fancyhdr} % pour les entete
+\usepackage{ifthen}  % branchements conditionnels
+\usepackage{xpatch} 
+\usepackage[export]{adjustbox}  % pour positionner des images dans la page
+\usepackage{tabularx}  % pour les tableaux
+\usepackage{wrapfig}   % pour le que le texte ne recouvre pas les figures/tableaux
+\usepackage{stfloats}   % pour le que le texte ne recouvre pas les figures/tableaux
+\usepackage{multicol}   % gestion de plusieurs colonnes (dans une cellule de tableau pas ex)
+\usepackage{enumitem}   % pour la personnalisation des liste
+\usepackage[skip]{parskip}     % for paragraph indenttion
+\usepackage[many]{tcolorbox}   % for avanced boxes
+\usepackage{tikz}   %  for graphics https://ctan.mines-albi.fr/graphics/pgf/base/doc/pgfmanual.pdf
+%____________________________________________________________________
+%%  Default Font
+\usepackage[sfdefault]{cabin}
+\renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif
+\usepackage[T1]{fontenc}
+
+\usepackage{lipsum}   % for test text
+\usepackage{titletoc}    % for having ToC under each chapter
+\usepackage{letltxmacro}
+\usepackage{etoolbox}
+%____________________________________________________________________
+% page margins
+% https://www.overleaf.com/learn/latex/Page_size_and_margins
+% https://fr.overleaf.com/learn/latex/Single_sided_and_double_sided_documents
+\usepackage[
+  top=20mm,
+  bottom=20mm,
+  marginparwidth=111pt
+  %textwidth=345pt,
+]{geometry}
+
+% \newif\ifpartialtoc
+% \partialtoctrue
+% \makeatletter
+% \patchcmd{\@makeparthead}
+%   {\vspace*{-50\p@}}
+%   {\ifpartialtoc
+%     \vspace*{0\p@}%
+%     \hfill\smash{\raisebox{\height}{%
+%       \begin{minipage}{.8\textwidth}
+%         \printcontents{}{1}{\section*{\contentsname}}
+%       \end{minipage}%
+%       }%
+%     }%\vskip50pt\par
+%    \else
+%    \vspace*{50pt}%
+%    \fi%  
+%   }
+%   {}
+%   {}
+% %\pretocmd{\part}{\startcontents}{}{}
+% \makeatother
+
+\titlespacing{\part}
+    {0mm} %left
+    {-0pt} %before-step
+    {-00mm} %after-step
+    {} %right
+% \titleformat{\chapter} % command
+% [display] % shape
+% {\bfseries\centering} % format
+% %{\textcolor{RedViolet}{\Large Chapitre \ \thechapter \\ \huge #1 \\ \hspace*{-75pt} \includegraphics[width=\paperwidth]{../img/CS-page4-01.png}}} % label
+% {Chapitre \ \thechapter \\ \huge #1} % label
+% {0pt} % sep
+% {
+%     \centering
+%     \hspace*{-75pt}
+% } % before-code
+% [
+%     \small
+% ] % after-code
+% \titlespacing{\chapter}
+% {0mm} %left
+% {-0pt} %before-step
+% {-10mm} %after-step
+% {} %right
+%\newcommand*{\paragraphbreak}{}
+% \titlespacing{\paragraph}
+% {0mm} %left
+% {0pt} %before-step
+% {0mm} %after-step
+%  %{5pc}{1.5ex minus .1 ex}{1pc}
+% \titlespacing{\chapter}
+% {0mm} %left
+% {0pt} %before-step
+% {0mm} %after-step
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\titlecontents{part}[]%⟨left⟩
+{}%⟨above-code⟩
+{\contentslabel{2.3em}}%⟨numbered-entry-format⟩
+{}%⟨numberless-entry-format⟩
+{}%⟨filler-page-format⟩
+[]%⟨below-code⟩
+\titlecontents{chapter}% define TOC style for chapters
+    [2cm]%left
+    {\centering}%above-code
+    {}%numbered-entry-format
+    {Chap:\ \thecontentslabel}%numberless-entry-format
+    {\hfill\thecontentspage}%filler page format
+    [\small]%below-code
+
+\begin{document}
+\frontmatter
+% \begin{titlepage}
+%     \centering
+%     \begin{figure*}
+%         \hspace*{-75pt}
+%         \includegraphics*[width=\paperwidth]{../img/CS-Cover.png}    
+%     \end{figure*}
+% \end{titlepage}
+%\blankpage
+\mainmatter
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\titleformat{name=\part} % command
+    [display] % shape
+    {\bfseries\Large\centering} % format
+    {
+        \centering
+        %   \includegraphics[%
+        %       width=\paperwidth,
+        %       height=\paperheight,
+        %       align=t,
+        %       smash=br,
+        %       vshift=40mm,     % adjust the vertical position
+        %       hshift=-94mm     % adjust the horizontal position
+        %   ]{../img/CS-page13-01.png}%
+        % \textcolor{RedViolet}{\huge \uppercase{#1}}%
+        \vspace{-100mm}
+        %\tableofcontents
+    %     \setcounter{tocdepth}{1}
+    %     \startcontents
+    %     \printcontents{}{0}{}
+    %     \setcounter{tocdepth}{0}         
+    } % label
+    {0pt} % sep
+    {
+        \centering
+        %\pagecolor{blue!20} % Set page color here
+    } % before-code
+   % [ ] % after-code
+\part{Table des Matières}
+\tableofcontents
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\titleformat{\part} % command
+    [display] % shape
+    {\bfseries\Large\centering} % format
+    {
+        \centering
+          % \hspace*{-20pt}
+          % \vspace*{-20pt}
+          % \includegraphics*[height=\paperheight]{../img/CS-page13-01.png}    
+          \includegraphics[%
+              width=\paperwidth,
+              height=\paperheight,
+              align=t,
+              smash=br,
+              vshift=40mm,     % adjust the vertical position
+              hshift=-94mm     % adjust the horizontal position
+          ]{../img/CS-page13-01.png}%
+        \textcolor{RedViolet}{Partie \ \thepart \\ \huge \uppercase{#1}}%
+        \vspace{-100mm}
+        \setcounter{tocdepth}{1}
+        \startcontents
+        \printcontents{}{0}{}
+        \setcounter{tocdepth}{0}
+        % \printcontents{}{1}{\section*{\contentsname}}
+        % \hfill\smash{\raisebox{\height}{%
+        %   \begin{minipage}{.8\textwidth}
+        %     \printcontents{}{1}{\section*{\contentsname}}
+        %   \end{minipage}%
+        %   }%
+        % }%\vskip50pt\par
+        %\printcontents[parts]{}{1}[2]{}
+        %\stopcontents[parts]
+%          
+    } % label
+    {0pt} % sep
+    {
+        \centering
+        \pagecolor{blue!20} % Set page color here
+    } % before-code
+   % [ ] % after-code
+\part{première partie}
+\nopagecolor
+
+\chapter{premier chapitre}
+
+%\makebox[\pagewidth][c]{\includegraphics[width=\paperwidth]{CS-page4-01.png}}
+\begin{wrapfigure}{l}{2mm}
+    {\fontsize{12mm}{2mm}\selectfont\textcolor{RedViolet}{\textbf{F}}}
+\end{wrapfigure}
+
+\lipsum[1-7]
+
+\section{premiere section}
+\lipsum[1]
+
+\subsection{premiere sous section}
+\lipsum[1]
+% {\centering
+%   \begin{tcolorbox}[width=10mm,
+%     colback=RedViolet!50!white,
+%     colframe=RedViolet!50!white,
+%     halign=center,valign=center,
+%     square,circular arc]
+%     \hspace*{-5mm}\includegraphics[height=10mm]{../img/CS-Logo-boxheader.png}
+%   \end{tcolorbox}
+% }
+% {\centering
+%   \begin{tcolorbox}[width=9.5mm,float=htb,every float=\centering,
+%     colback=RedViolet!50!white,
+%     colframe=RedViolet!50!white,
+%     halign=center,valign=center,
+%     square,circular arc]
+%     {\hspace*{-5.55mm}\includegraphics[height=10mm]{../img/CS-Logo-boxheader.png}}
+%   \end{tcolorbox}
+% }
+% \newcommand*{\getcslogo}{\begin{tcolorbox}[width=9.5mm,float=htb,every float=\centering,
+%     colback=RedViolet!50!white,
+%     colframe=RedViolet!50!white,
+%     halign=center,valign=center,
+%     square,circular arc]
+%     {\hspace*{-5.55mm}\includegraphics[height=10mm]{../img/CS-Logo-boxheader.png}}
+%   \end{tcolorbox}
+% }
+% \tcbset{CSTextBox2/.style={enhanced,colback=RedViolet!5!white,colframe=RedViolet!50!white,
+% enlarge top by=5.5mm,
+% overlay={\begin{scope}[shift={([yshift=4cm]frame.north west)}]
+% {\getcslogo}
+% \end{scope}}}}
+
+% \begin{tcolorbox}[CSTextBox2]
+% This is a tcolorbox with a CS logo on top. version 2
+% \end{tcolorbox}
+
+%   % \tcbuselibrary{skins} % preamble
+% \tcbset{CSTextBox/.style={enhanced,enlarge top by=5.5mm,
+% overlay app={\node[anchor=north, xshift=-0mm, yshift=6.2mm] at (frame.north)
+%   {\includegraphics[width=10mm]{../img/CS-Logo-boxheader.png}};
+% }}}
+\newcommand*{\CSBoxLogo}[2]{{
+  \tcbset{CSTextBox/.style={enhanced,enlarge top by=5.5mm,
+  overlay app={\node[anchor=north, xshift=-0mm, yshift=6.2mm] at (frame.north)
+    {\includegraphics[width=10mm]{../img/CS-Logo-boxheader.png}};
+  }}}
+  \tcbset{CSTextBoxBackground/.style={enhanced,%enlarge top by=5.5mm,
+  top=5.5mm,
+  colback=#1!50!white,
+  colframe=#1!100!white,
+  overlay={\begin{scope}[shift={([yshift=0mm]frame.north)}]
+    \path[fill=#1!100!white,draw=#1!50!white] (0,0) circle (4.7mm);
+    \end{scope}
+  }}}
+  \begin{tcolorbox}[CSTextBoxBackground,CSTextBox]
+    #2
+  \end{tcolorbox}
+}}
+\definecolor{CSRED}{HTML}{8F6784}
+\definecolor{CSREDD}{rgb}{0.56078,0.40392,0.51765}
+\CSBoxLogo{CSRED}{This is a `tcolorbox` with an overlay picture in the top right corner. You can adjust the position and size of the image as needed.
+}
+\CSBoxLogo{CSRED}{This is a `tcolorbox` with an overlay picture in the top right corner. You can adjust the position and size of the image as needed.
+}
+\CSBoxLogo{BlueViolet}{Imaginez que ce livre soit un coffre à jouet.
+Vous pouvez en retirer ce que vous voulez et jouer avec comme vous le voulez.}
+
+\sffamily
+\begin{testcolors}[rgb,HTML,hsb,gray]
+\testcolor{RedViolet}
+\testcolor{CSRED}
+\testcolor{CSREDD}
+\testcolor{RedViolet!50!red}
+\testcolor{RedViolet!50!magenta}
+%\testcolor[cmyk]{0,0,1,0.5}
+\testcolor[HTML]{8F6784}
+%\testcolor[rgb:cmyk]{0,0,.5,.5}
+\end{testcolors}
+%\tcbset{CSTextBoxBackground/.style={enhanced,colback=RedViolet!50!white,colframe=RedViolet!50!white,
+% \tcbset{CSTextBoxBackground/.style={enhanced,%enlarge top by=5.5mm,
+% top=5.5mm,
+% colback=RedViolet!5!white,
+% colframe=RedViolet!50!white,
+% overlay={\begin{scope}[shift={([yshift=0mm]frame.north)}]
+%   \path[fill=RedViolet!50!white,draw=RedViolet!50!white] (0,0) circle (4.7mm);
+%   \end{scope}
+% }}}
+% \tcbset{ribbonbox/.style={enhanced,colback=red!5!white,colframe=red!75!black,
+% fonttitle=\bfseries,
+% overlay={\path[fill=blue!75!white,draw=blue,double=white!85!blue,
+% preaction={opacity=0.6,fill=blue!75!white},
+% line width=0.1mm,double distance=0.2mm,
+% pattern=fivepointed stars,pattern color=white!75!blue]
+% ([xshift=-0.2mm,yshift=-1.02cm]frame.north east)
+% -- ++(-1,1) -- ++(-0.5,0) -- ++(1.5,-1.5) -- cycle;}}}
+% \begin{tcolorbox}[CSTextBoxBackground,CSTextBox]
+% This is a tcolorbox with a CS logo on top.
+% \end{tcolorbox}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \begin{tcolorbox}[enhanced, overlay={
+%   \node[anchor=north, xshift=-0mm, yshift=5.5mm] at (frame.north)
+%   {\includegraphics[width=10mm]{../img/CS-Logo-boxheader.png}};
+% }]
+% This is a `tcolorbox` with an overlay picture in the top right corner. You can adjust the position and size of the image as needed.
+% \end{tcolorbox}
+% \tcbuselibrary{skins} % preamble
+% \tcbset{frogbox/.style={enhanced,colback=green!10,colframe=green!65!black,
+% enlarge top by=5.5mm,
+% overlay={\foreach \x in {2cm,3.5cm} {
+% \begin{scope}[shift={([xshift=\x]frame.north west)}]
+% \path[draw=green!65!black,fill=green!10,line width=1mm] (0,0) arc (0:180:5mm);
+% \path[fill=black] (-0.2,0) arc (0:180:1mm);
+% \end{scope}}}}}
+% \begin{tcolorbox}[frogbox,title=My title]
+% This is a \textbf{tcolorbox}.
+% \end{tcolorbox}
+% \newtcolorbox{myboxCS}[2][]{enhanced,
+% %attach boxed title to top center={yshift=-5mm},
+% attach boxed title to top center={yshift=-5mm},
+% opacitybacktitle=1,
+% colbacktitle=red,
+% title filled=false,
+% title={#2},#1}
+% \begin{myboxCS}[colback=RedViolet!5!white]{\tikz\draw[RedViolet!5!white,fill=green!5!white] (0,0) circle (5mm);\hspace*{-10mm}\includegraphics[height=10mm]{../img/CS-Logo-boxheader.png}}
+% This is my own box with a mandatory title
+% and options.
+% \end{myboxCS}
+
+% \newtcolorbox{mybox}[2][]{colback=red!5!white,
+% colframe=red!75!black,fonttitle=\bfseries,
+% colbacktitle=red!85!black,enhanced,
+% attach boxed title to top center={yshift=-2mm},
+% title={#2},#1}
+% \begin{mybox}[colback=yellow]{Hello there}
+% This is my own box with a mandatory title
+% and options.
+% \end{mybox}
+
+\subsection{seconde sous section}
+\lipsum[2-3]
+
+\section{seconde section}
+
+\lipsum[1-7]
+
+\subsection{premiere sous section}
+
+\lipsum[1]
+
+\begin{table}[h]
+    \begin{tabular}{ | p{\columnwidth} | }
+\hline
+\rowcolor{SkyBlue!50}
+\textcolor{BlueViolet}{\Large \uppercase{Intrusion de Joueur}} \\
+\rowcolor{SkyBlue!50}
+Une intrusion de joueur est quand un joueur choisi d'altérer quelque chose dans la campagne, rendant les choses plus facile pour le PJ. De manière conceptuelle, c'est l'inverse d'un intrusion de MJ qui donne au joueur des points d'expérience (XP) en introduisant une complication inatendue pour le personnage. Dans le cas du joueur, ce dernier dépense un 1 XP et présente une solution à un problème ou une complication. Ce que l'intrusion du joueur peut faire est en général introduire un changement du monde ou des circonstances en cours, plutôt que de changer directement le personnage. Par exemple, une intrusion qui propose que le cypher qui vient d'être utilisé a une charge supplémentaire, est appropriée, mais une intrusion qui propose que le personnage est soigné ne l'est pas. Si le joueur n'a pas d'XP à dépenser, il ne peut pas utiliser d'intrusion de joueur.
+
+Quelques exemples d'intrusion de joueur sont proposées pour chaque type. Cela dit, toutes les intrusions de joueur listées ici ne sont pas appropriées à chaque situation. Le MJ peut autoriser les joueurs à proposer d'autres suggestions d'intrusion de joueur, mais la Meneuse a le dernier mot pour savoir si une intrusion est appropriée en fonction du type de personnage et de la situation. Si la Meneuse refuse l'intrusion, le joueur ne dépense pas de XP, et l'intrusion n'a simplement pas lieu.
+
+Utiliser une intrusion ne requiert pas du personnage d'utiliser une action pour l'activer. Une intrusion de joueur survient tout simplement. \\
+\hline
+    \end{tabular}
+\end{table}
+
+\subsection{seconde sous section}
+
+\lipsum[2-3]
+
+
+\section{troisieme section}
+
+\lipsum[1-7]
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\titleformat{\part} % command
+    [display] % shape
+    {\bfseries\Large\centering} % format
+    {
+        \centering
+          % \hspace*{-20pt}
+          % \vspace*{-20pt}
+          % \includegraphics*[height=\paperheight]{../img/CS-page13-01.png}    
+          \includegraphics[%
+              width=\paperwidth,
+              height=\paperheight,
+              align=t,
+              smash=br,
+              vshift=40mm,     % adjust the vertical position
+              hshift=-94mm     % adjust the horizontal position
+          ]{../img/CS-page13-01.png}%
+        \textcolor{BlueViolet}{Partie \ \thepart \\ \huge \uppercase{#1}}%
+        \vspace{-100mm}
+        \setcounter{tocdepth}{1}
+        \startcontents
+        \printcontents{}{0}{}
+        \setcounter{tocdepth}{0}
+        % \printcontents{}{1}{\section*{\contentsname}}
+        % \hfill\smash{\raisebox{\height}{%
+        %   \begin{minipage}{.8\textwidth}
+        %     \printcontents{}{1}{\section*{\contentsname}}
+        %   \end{minipage}%
+        %   }%
+        % }%\vskip50pt\par
+        %\printcontents[parts]{}{1}[2]{}
+        %\stopcontents[parts]
+%          
+    } % label
+    {0pt} % sep
+    {
+        \centering
+        \pagecolor{blue!20} % Set page color here
+    } % before-code
+   % [ ] % after-code
+%\tableofcontents
+
+\part{seconde partie}
+\nopagecolor
+
+\chapter{Deuxième chapitre}
+
+\lipsum[1]
+
+\chapter{Troisième chapitre}
+
+\lipsum[1]
+
+\chapter{Quatrième chapitre}
+
+\lipsum[1]
+
+\chapter{Cinquième chapitre}
+
+\lipsum[1]
+
+\chapter{Sixième chapitre}
+
+\lipsum[1]
+
+\part{Troisième partie}
+\nopagecolor
+
+\chapter{Septième chapitre}
+
+\lipsum[1]
+
+\chapter{Huitième chapitre}
+
+\lipsum[1]
+
+\end{document}

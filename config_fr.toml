@@ -1,0 +1,42 @@
+baseURL = 'http://cyphersrd.quest/'
+#languageCode = 'en-us'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+#title = 'Cypher System Reference Document'
+theme = 'hugo-book'
+
+[languages]
+  [languages.en]  
+    languageName = 'English'
+    contentDir = 'content.en'
+    weight = 1
+    [languages.en.params]
+        description = "The system reference document for the Cypher System, a tabletop roleplaying game by Monte Cook Games."
+        title = 'Cypher System Reference Document'
+
+  [languages.fr]  
+    languageName = 'French'
+    contentDir = 'content.fr'
+    weight = 2
+    [languages.fr.params]
+        description = "Le document de référence pour le Cypher System, un jeux de rôle sur table créé par Monte Cook Games."
+        title = 'Cypher System Document de Référence'
+
+# Theme
+enableGitInfo = true
+disableKinds = ['taxonomy', 'taxonomyTerm']
+
+[params]
+  BookTheme = 'auto'
+  BookRepo = 'https://github.com/Daegalus/csrd'
+  BookCommitPath = 'commit'
+  BookComments = false
+  BookServiceWorker = true
+  BookSection = "*"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 5
