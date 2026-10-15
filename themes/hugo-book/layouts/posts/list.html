@@ -30,10 +30,14 @@
 </aside>
 {{ end }}
 
+{{ define "breadcrumbs" }}
+<!-- -->
+{{ end }}
+
 {{ define "toc" }}
   {{ partial "docs/taxonomy" . }}
 {{ end }}
 
 {{ define "footer" }}
-  {{ partial "docs/pagination.html" . }}
+  {{ partial "docs/pagination" . }}
 {{ end }}

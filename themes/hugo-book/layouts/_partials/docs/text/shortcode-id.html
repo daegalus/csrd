@@ -1,0 +1,3 @@
+{{- $key := printf "book-%s-id" .Name }}
+{{- .Site.Store.Add $key 1 -}}
+{{- return .Site.Store.Get $key -}}

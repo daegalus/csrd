@@ -1,10 +1,10 @@
-baseURL = 'http://cyphersrd.quest/'
-languageCode = 'en-us'
+baseURL = 'https://cyphersrd.quest/'
+locale = 'en-US'
 title = 'Cypher System Reference Document'
 theme = 'hugo-book'
 
 [languages.en]
-languageName = 'English'
+label = 'English'
 contentDir = 'content.en'
 weight = 1
 
@@ -16,6 +16,7 @@ disableKinds = ['taxonomy']
 BookTheme = 'auto'
 BookRepo = 'https://github.com/Daegalus/csrd'
 BookCommitPath = 'commit'
+BookLastChangeLink = 'https://github.com/Daegalus/csrd/commit/{{ .GitInfo.Hash }}'
 BookComments = false
 BookServiceWorker = true
 BookSection = "*"

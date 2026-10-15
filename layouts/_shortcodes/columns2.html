@@ -1,0 +1,11 @@
+<div class="book-columns flex flex-wrap display-flex">
+{{ $data := split .Inner "<--->" }}
+{{ $lastIndex := sub (len $data) 1 }}
+{{ range $index, $content := $data }}
+  {{ $alignment := "text-center" }}
+  {{ if eq $index 0 }}{{ $alignment = "text-left" }}{{ else if eq $index $lastIndex }}{{ $alignment = "text-right" }}{{ end }}
+  <div class="flex-even justify-between markdown-inner {{ $alignment }}">
+    {{ $content | $.Page.RenderString }}
+  </div>
+{{ end }}
+</div>

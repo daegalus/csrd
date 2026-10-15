@@ -1,21 +1,20 @@
 <!DOCTYPE html>
-<html lang="{{ default .Site.Language.Lang .Site.LanguageCode }}" dir="{{ default "ltr" .Site.Language.LanguageDirection }}">
+<html lang="{{ default .Site.Language.Name .Site.Language.Locale }}" dir="{{ default "ltr" .Site.Language.Direction }}" data-theme="{{ default "light" .Site.Params.BookTheme }}">
 <head>
   {{ partial "docs/html-head" . }}
   {{ partial "docs/inject/head" . }}
 </head>
-<body dir="{{ default "ltr" .Site.Language.LanguageDirection }}" class="book-kind-{{ .Kind }} book-type-{{ .Type }}{{ with .Layout }} book-layout-{{ . }}{{ end }}">
-  <input type="checkbox" class="hidden toggle" id="menu-control" />
-  <input type="checkbox" class="hidden toggle" id="toc-control" />
+<body dir="{{ default "ltr" .Site.Language.Direction }}" class="book-kind-{{ .Kind }} book-type-{{ .Type }}{{ with .Layout }} book-layout-{{ . }}{{ end }}">
   <main class="container flex">
     {{ template "menu-container" . }} <!-- Left menu -->
 
-    <div class="book-page">
-      <header class="book-header hidden">
-        {{ template "header" . }} <!-- Mobile layout header -->
-      </header>
+    <header class="book-header hidden">
+      {{ template "header" . }} <!-- Mobile layout header -->
+    </header>
 
+    <div class="book-page">
       {{ partial "docs/inject/content-before" . }}
+      {{ template "breadcrumbs" . }}
       {{ template "main" . }} <!-- Page Content -->
       {{ partial "docs/inject/content-after" . }}
 
@@ -27,7 +26,7 @@
         {{ template "clipboard" . }}
       </footer>
 
-      <label for="menu-control" class="hidden book-menu-overlay"></label>
+      <label for="menu-control" class="hidden book-menu-overlay" aria-hidden="true"></label>
     </div>
 
     {{ template "toc-container" . }} <!-- Table of Contents -->
@@ -38,7 +37,7 @@
 </html>
 
 {{ define "menu-container" }}
-<aside class="book-menu">
+<aside class="book-menu" aria-label="{{ partial "docs/text/i18n" "Menu" }}">
   <div class="book-menu-content">
     {{ template "menu" . }}
   </div>
@@ -51,11 +50,11 @@
 
 {{ define "header" }}
   {{ partial "docs/header" . }}
+{{ end }}
 
-  {{ if partial "docs/toc-show" . }}
-  <aside class="hidden">
-    {{ template "toc" . }}
-  </aside>
+{{ define "breadcrumbs" }}
+  {{ if .Param "BookBreadcrumbs" | default false }}
+  {{ partial "docs/breadcrumbs" . }}
   {{ end }}
 {{ end }}
 
@@ -64,14 +63,13 @@
 {{ end }}
 
 {{ define "clipboard" }}
-  <!-- Clipboard -->
   {{ with resources.Get "clipboard.js" | resources.Minify }}
     <script>{{ .Content | safeJS }}</script>
   {{ end }}
 {{ end }}
 
 {{ define "copyright" }}
-  {{ if .Site.Copyright }}
+  {{ if or .Site.Copyright .Params.Copyright }}
   <div class="book-copyright flex justify-center">
     {{ partial "docs/copyright" . }}
   </div>
@@ -79,7 +77,7 @@
 {{ end }}
 
 {{ define "comments" }}
-  {{ if and .Content (default true (default .Site.Params.BookComments .Params.BookComments)) }}
+  {{ if and .Content (.Param "BookComments") }}
   <div class="book-comments">
     {{- partial "docs/comments" . -}}
   </div>
@@ -93,8 +91,8 @@
 {{ end }}
 
 {{ define "toc-container" }}
-  {{ if partial "docs/toc-show" . }}
-  <aside class="book-toc">
+  {{ if .Param "BookToC" | default true }}
+  <aside class="book-toc" aria-label="{{ partial "docs/text/i18n" "Table of Contents" }}">
     <div class="book-toc-content">
       {{ template "toc" . }}
     </div>
