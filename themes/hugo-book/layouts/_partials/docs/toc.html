@@ -1,0 +1,37 @@
+{{ partial "docs/inject/toc-before" . }}
+{{ .TableOfContents }}
+{{ partial "docs/inject/toc-after" . }}
+
+{{ with (.Scratch.Get "bookBacklinks") | uniq }}
+<div class="flex book-toc-section">
+<svg class="book-icon">{{ partial "docs/icon" "incoming" }}</svg>
+<nav class="flex">
+  <ul>
+  {{ range . }}
+    <li>
+    <a href="{{ .RelPermalink }}">
+      {{- partial "docs/title" .Page -}}
+    </a>
+    </li>
+  {{ end }}
+  </ul>
+</nav>
+</div>
+{{ end }}
+
+{{ with (.Scratch.Get "bookLinks") | uniq }}
+<div class="flex book-toc-section">
+<svg class="book-icon">{{ partial "docs/icon" "outgoing" }}</svg>
+<nav class="flex">
+  <ul>
+  {{ range . }}
+  <li>
+    <a href="{{ .RelPermalink }}">
+      {{- partial "docs/title" .Page -}}
+    </a>
+  </li>
+  {{ end }}
+  </ul>
+</nav>
+</div>
+{{ end }}

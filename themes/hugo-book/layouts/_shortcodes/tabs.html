@@ -1,0 +1,10 @@
+{{- $attributes := partial "docs/text/mapper" (dict
+  "attributes" (cond .IsNamedParams .Params dict)
+  "merge" (dict
+    "class" "book-tabs"
+  )
+) -}}
+<fieldset {{ partial "docs/html-attrs" $attributes | safeHTMLAttr }}>
+{{- .Inner -}}
+</fieldset>
+{{- /* remove whitespaces */ -}}

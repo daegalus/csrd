@@ -1,0 +1,8 @@
+{
+  "sites": {
+    "name": "cypher-srd",
+    "build": "hugo --minify",
+    "dir": "public",
+    "spa": false
+  }
+}

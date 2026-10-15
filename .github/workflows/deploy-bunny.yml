@@ -1,0 +1,40 @@
+name: Build and deploy
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: bunny-sites-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  site:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      deployments: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.168.0"
+          extended: true
+      - run: hugo --minify
+      - uses: actions/upload-artifact@v4
+        with:
+          name: site-build
+          path: public
+          include-hidden-files: true
+          retention-days: 7
+      - uses: BunnyWay/actions/deploy-site@deploy-site_0.1.1
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        with:
+          site: cypher-srd
+          directory: public
+          api_key: ${{ secrets.BUNNYNET_API_KEY }}
+          cli_version: "0.19.0"

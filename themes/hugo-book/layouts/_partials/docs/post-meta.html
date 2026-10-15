@@ -1,0 +1,16 @@
+{{ with .Date }}
+  <a class="flex align-center text-small book-post-date">
+    <svg class="book-icon" aria-hidden="true">{{ partial "docs/icon" "calendar" }}</svg>
+    <span>{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}</span>
+  </a>
+{{ end }}
+
+{{ range $taxonomy, $_ := .Site.Taxonomies }}
+  {{ with $terms := $.GetTerms $taxonomy }}
+  <div class="text-small">
+    {{ range $n, $term := $terms }}{{ if $n }}, {{ end }}
+      <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>
+    {{- end }}
+  </div>
+  {{ end }}
+{{ end }}
