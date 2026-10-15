@@ -17,7 +17,7 @@ jobs:
       contents: read
       deployments: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           fetch-depth: 0
       - uses: peaceiris/actions-hugo@v3
@@ -25,7 +25,7 @@ jobs:
           hugo-version: "0.168.0"
           extended: true
       - run: hugo --minify
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         with:
           name: site-build
           path: public
